@@ -55,7 +55,7 @@ Once sufficient drilling is complete and interpreted, Entree (or a partner compa
 
 Exploration in many jurisdictions requires permits from environmental and mining regulators. Entree must submit environmental impact assessments, describe proposed drilling sites, commit to reclamation of drilling pads after work is complete, and in some cases engage indigenous communities whose territories overlap the property. This permitting phase can take months or years and requires sustained compliance.
 
-In politically stable jurisdictions (Canada, Australia, Chile), the permitting process is well-defined. In frontier regions, local relationships and political stability are paramount. An exploration company operating in a region experiencing resource nationalism, border disputes, or indigenous land-rights litigation faces operational risk that transcends geology. Entree must assess not only whether ore exists but whether the company can retain the right to explore it over a multi-year timeline.
+In politically stable jurisdictions (Canada, Australia, Chile), the permitting process is well-defined. In frontier regions, local relationships and political stability are paramount. An exploration company operating in a region experiencing resource nationalism, border disputes, or indigenous land-rights litigation faces [operational risk](/operational-risk/) that transcends geology. Entree must assess not only whether ore exists but whether the company can retain the right to explore it over a multi-year timeline.
 
 ## Value Realization: Sale or Partnership
 
@@ -70,5 +70,5 @@ The company's skill is identifying prospective geology, executing exploration ef
 
 ### Wider context
 - [Stock](/stock/)
-- Securities and exchange commission
+- [Securities and exchange commission](/securities-and-exchange-commission/)
 </div>

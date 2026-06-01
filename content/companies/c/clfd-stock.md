@@ -17,13 +17,13 @@ keywords: ["telecommunications", "fiber optic", "broadband infrastructure", "net
 
 ## Fiber as Structural Necessity
 
-Unlike construction repair services, which homeowners can defer during recessions, fiber-optic infrastructure is a structural necessity that telecommunications operators, cable companies, and internet service providers must deploy continuously. The transition from copper to fiber is a multi-decade secular trend, independent of whether the economy is in recession or expansion. Operators must invest in fiber to remain competitive, to meet regulatory requirements for broadband access, and to satisfy customer demand for higher speeds.
+Unlike construction repair services, which homeowners can defer during [recessions](/recession/), fiber-optic infrastructure is a structural necessity that telecommunications operators, cable companies, and internet service providers must deploy continuously. The transition from copper to fiber is a multi-decade secular trend, independent of whether the economy is in recession or expansion. Operators must invest in fiber to remain competitive, to meet regulatory requirements for broadband access, and to satisfy customer demand for higher speeds.
 
 This structural demand means Clearfield's revenue is less sensitive to cyclical downturns than, say, a homebuilder or an industrial equipment supplier sensitive to capital project budgets. An ISP facing a recession does not pull back fiber deployment; it accelerates it to gain competitive advantage and market share. If anything, recessions can increase pressure to invest in efficiency and throughput, not decrease it.
 
 ## Broadband Deployment and Government Stimulus
 
-Broadband infrastructure has become a policy priority across the U.S., driven by rural connectivity mandates and national competitiveness concerns. Government programs—such as the Broadband Infrastructure Program under the 2021 Infrastructure Investment and Jobs Act—channel funds specifically for fiber and broadband deployment in underserved areas. This creates a countercyclical revenue stream: when private capital is scarce, government-funded programs continue or accelerate, sustaining demand for Clearfield's products.
+Broadband infrastructure has become a policy priority across the U.S., driven by rural connectivity mandates and national competitiveness concerns. Government programs—such as the Broadband Infrastructure Program under the 2021 Infrastructure Investment and [Jobs Act](/jobs-act/)—channel funds specifically for fiber and broadband deployment in underserved areas. This creates a countercyclical revenue stream: when private capital is scarce, government-funded programs continue or accelerate, sustaining demand for Clearfield's products.
 
 The secular tailwind from broadband policy is substantial and multi-year. Clearfield benefits as ISPs, rural electric cooperatives, and municipal providers deploy infrastructure funded by federal and state grants. This revenue does not depend on whether the Fed is raising or lowering rates; it depends on government execution timelines and ISP capital allocation discipline.
 
@@ -31,7 +31,7 @@ The secular tailwind from broadband policy is substantial and multi-year. Clearf
 
 Beyond broadband, Clearfield serves 5G deployment, where wireless carriers are building out fiber backhaul and small-cell networks to support mobile data traffic. 5G buildout is a secular imperative, not a cyclical project. Carriers cannot pause 5G investment during a recession; they must continue to gain spectrum deployment advantage and market coverage. Clearfield's products—cabinets, patch panels, connectors, and management systems for fiber networks—are essential building blocks in that infrastructure.
 
-Similarly, data centers continue to expand and proliferate, driven by the secular growth of cloud computing, AI, and data storage. Each new data center requires fiber interconnection, power distribution, and management infrastructure. Clearfield supplies these products. The data center expansion is a secular trend with its own 5–10 year trajectory, independent of business cycles.
+Similarly, data centers continue to expand and proliferate, driven by the secular growth of cloud computing, AI, and [data storage](/dtst-stock/). Each new data center requires fiber interconnection, power distribution, and management infrastructure. Clearfield supplies these products. The data center expansion is a secular trend with its own 5–10 year trajectory, independent of [business cycles](/business-cycle/).
 
 ## Recurring and High-Multiplier Revenue
 

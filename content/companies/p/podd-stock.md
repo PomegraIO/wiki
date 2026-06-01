@@ -63,7 +63,7 @@ Reimbursement is critical. In the United States, most patients' insurance covers
 
 Insulet's market leadership is not uncontested. Medtronic has invested heavily in improving its traditional pump system and integrating it with continuous glucose monitors. Tandem has focused on user experience and algorithmic innovations. Smaller competitors are entering the space. The competitive landscape is such that Insulet must continue innovating—upgrading pod technology, improving software, and demonstrating clinical superiority—or risk losing market share to rivals.
 
-Additionally, the diabetes-device market is consolidating, with larger, diversified medical-device companies (Abbott, Medtronic, Siemens) expanding their diabetes portfolios through acquisition. Insulet remains independent and publicly traded, making it a potential acquisition [target](/tgt-stock/) if a larger company decides to consolidate the insulin-pump market.
+Additionally, the diabetes-device market is consolidating, with larger, diversified medical-device companies (Abbott, Medtronic, Siemens) expanding their diabetes portfolios through acquisition. Insulet remains independent and publicly traded, making it a potential acquisition target if a larger company decides to consolidate the insulin-pump market.
 
 International expansion faces headwinds too: reimbursement outside the U.S. is often less generous, regulatory approval is slower, and competitors have strong positions in some regions.
 

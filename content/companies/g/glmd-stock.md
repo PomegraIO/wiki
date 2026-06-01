@@ -4,7 +4,7 @@ description: "An Israeli-based specialty pharmaceutical company focused on hepat
 keywords: ["GLMD", "Galmed", "pharma", "hepatic disease", "clinical stage", "specialty pharma"]
 ---
 
-*[Galmed Pharmaceuticals Ltd.](/glmd-stock/) (ticker GLMD) operates as a specialty-focused biotech company with a deliberately narrow therapeutic scope—liver and gastrointestinal disease—in contrast to megacap pharma conglomerates that pursue dozens of therapeutic areas. Where companies like Merck and AbbVie spread research and development capital across oncology, cardiology, immunology, and orphan diseases, Galmed concentrates capital in hepatology and gastroenterology, accepting sector concentration risk in exchange for the ability to develop deep expertise and potentially dominate its chosen niche if clinical trials succeed.*
+*[Galmed Pharmaceuticals Ltd.](/glmd-stock/) (ticker GLMD) operates as a specialty-focused biotech company with a deliberately narrow therapeutic scope—liver and gastrointestinal disease—in contrast to megacap pharma conglomerates that pursue dozens of therapeutic areas. Where companies like Merck and [AbbVie](/abbv-stock/) spread research and development capital across oncology, cardiology, immunology, and orphan diseases, Galmed concentrates capital in hepatology and gastroenterology, accepting sector [concentration risk](/concentration-risk/) in exchange for the ability to develop deep expertise and potentially dominate its chosen niche if clinical trials succeed.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLMD</td></tr>
@@ -49,7 +49,7 @@ As Galmed scales (if it approves drugs), supply-chain security becomes a competi
 
 Galmed's ability to advance its clinical pipeline depends on capital availability. Clinical trials are expensive; Phase 3 programs can consume tens of millions of dollars over multiple years. A company with insufficient capital or deteriorating market conditions may be forced to shelve promising programs or sell the company at a discount if runway approaches zero without interim data to support higher valuations.
 
-Galmed's [cash burn](/free-cash-flow/) rate and runway are critical metrics. Study the 10-K to find cash position, annual operating burn, and timelines to key clinical milestones. If Galmed's cash runway extends beyond the expected interim data read-out on its lead program, the company has breathing room. If runway is tight relative to trial timelines, the company faces refinancing risk and might be forced to raise capital at unfavorable terms.
+Galmed's [cash burn](/free-cash-flow/) rate and runway are critical metrics. Study the 10-K to find cash position, annual operating burn, and timelines to key clinical milestones. If Galmed's cash runway extends beyond the expected interim data read-out on its lead program, the company has breathing room. If runway is tight relative to trial timelines, the company faces [refinancing risk](/refinancing-risk/) and might be forced to raise capital at unfavorable terms.
 
 Successful biotech companies often finance expansion via public offerings or strategic partnerships. Galmed's stock price and pipeline progress determine its access to capital markets. A string of clinical failures or market downturn in biotech valuations could impair Galmed's ability to raise capital, creating a vicious cycle where the company is forced to delay trials, miss key timelines, and destroy shareholder value.
 

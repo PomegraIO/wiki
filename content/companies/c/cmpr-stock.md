@@ -37,7 +37,7 @@ Cimpress's business model is simple: aggregate small orders, optimize production
 
 This creates a particular sensitivity to macroeconomic cycles. When small-business confidence weakens and marketing budgets contract, order volumes fall. Cimpress's margins compress, and the company must idle capacity or cut costs. In growth periods, volume increases and margins expand. The leverage runs both directions.
 
-Acquisition of customer data and design assets is a strategic goal. Each customer is a potential repeat buyer; if Cimpress can retain a customer across multiple orders and cross-sell them into adjacent products, customer lifetime value soars. The company invests in email marketing, loyalty programs, and product bundling to increase wallet share with existing customers.
+[Acquisition](/acquisition/) of customer data and design assets is a strategic goal. Each customer is a potential repeat buyer; if Cimpress can retain a customer across multiple orders and cross-sell them into adjacent products, customer lifetime value soars. The company invests in email marketing, loyalty programs, and product bundling to increase wallet share with existing customers.
 
 ## The omnichannel small-business marketing context
 
@@ -51,7 +51,7 @@ Competition in print is chronic and intense. Larger, consolidated competitors (Q
 
 Additionally, the direct-mail channel faces structural criticism from environmentalists and privacy advocates. While the volume of physical mail remains large, growth is modest and sometimes negative; e-commerce has shifted spending away from traditional print advertising. Cimpress mitigates this by offering digital-print integration services (variable data printing that allows personalization, print-and-mail services bundled with email campaigns), but it cannot entirely offset secular shift away from traditional print.
 
-Supply-chain costs—paper, ink, shipping—are volatile and subject to inflation. Labor automation has reduced per-unit production costs, but facilities and equipment still require capital investment. Wage inflation in regions where Cimpress operates increases labor costs despite automation; energy inflation affects both production and shipping.
+Supply-chain costs—paper, ink, shipping—are volatile and subject to [inflation](/inflation/). Labor automation has reduced per-unit production costs, but facilities and equipment still require capital investment. Wage inflation in regions where Cimpress operates increases labor costs despite automation; energy inflation affects both production and shipping.
 
 ## Market position and growth strategy
 

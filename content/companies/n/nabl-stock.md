@@ -4,7 +4,7 @@ description: "A cloud-based IT management and security platform for managed serv
 keywords: ["managed IT services", "IT management", "cloud software", "NABL", "security"]
 ---
 
-*In the fragmented market for IT management software, the clear dividing line separates tools designed for large enterprises (which buy monolithic suites from IBM, Microsoft, or Cisco) from those aimed at small and mid-market IT organizations. **N-able, Inc. (NABL)** competes in the latter space—it is a cloud-based software platform that enables managed service providers (MSPs) and in-house IT teams to manage, monitor, and secure client networks and endpoints from a centralized console. Where enterprise IT tools assume deep technical staff and complex governance, N-able targets the reality of small IT shops: a handful of technicians managing many distributed customers or locations.*
+*In the fragmented market for IT management software, the clear dividing line separates tools designed for large enterprises (which buy monolithic suites from IBM, [Microsoft](/msft-stock/), or Cisco) from those aimed at small and mid-market IT organizations. **N-able, Inc. (NABL)** competes in the latter space—it is a cloud-based software platform that enables managed service providers (MSPs) and in-house IT teams to manage, monitor, and secure client networks and endpoints from a centralized console. Where enterprise IT tools assume deep technical staff and complex governance, N-able targets the reality of small IT shops: a handful of technicians managing many distributed customers or locations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NABL</td></tr>
@@ -41,7 +41,7 @@ Integration across these functions is difficult. A backup tool must integrate wi
 
 ## Customer Acquisition and Retention
 
-N-able's customer base consists primarily of MSPs, ranging from single-person practices to large regional IT service firms. Customer acquisition happens through direct sales, partner channels, and marketing to IT decision-makers. The company invests in education and certification programs to train MSP customers on deploying N-able, which builds switching costs and deepens relationships.
+N-able's customer base consists primarily of MSPs, ranging from single-person practices to large regional IT service firms. Customer [acquisition](/acquisition/) happens through direct sales, partner channels, and marketing to IT decision-makers. The company invests in education and certification programs to train MSP customers on deploying N-able, which builds switching costs and deepens relationships.
 
 Retention is strong if the product delivers clear ROI—more customers managed per technician, fewer outages, faster incident response. It is weak if customers perceive better alternatives or if the product becomes unwieldy as their business grows (enterprise customers may outgrow N-able and move to larger platforms; conversely, smaller MSPs may choose cheaper point solutions if they operate at limited scale).
 

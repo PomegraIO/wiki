@@ -43,13 +43,13 @@ Each successful trial phase reduces the risk that the therapy is ineffective or 
 
 ## Competition and Substitute Therapies
 
-Celularity competes against other cell therapy companies (Fate Therapeutics, Mesoblast, Vor Biopharma), conventional immunotherapies (checkpoint inhibitors, CAR-T therapies), and traditional pharmaceuticals. The competitive advantage of allogeneic (off-the-shelf) cell therapies compared to autologous (patient-derived) CAR-T therapies is cost and manufacturing speed—Celularity's pre-manufactured cells could potentially be given to a patient more quickly and cheaply than CAR-T therapies that must be engineered from each patient's own cells.
+Celularity competes against other cell therapy companies ([Fate Therapeutics](/fate-stock/), Mesoblast, [Vor Biopharma](/vor-stock/)), conventional immunotherapies (checkpoint inhibitors, CAR-T therapies), and traditional pharmaceuticals. The competitive advantage of allogeneic (off-the-shelf) cell therapies compared to autologous (patient-derived) CAR-T therapies is cost and manufacturing speed—Celularity's pre-manufactured cells could potentially be given to a patient more quickly and cheaply than CAR-T therapies that must be engineered from each patient's own cells.
 
 However, this advantage is only realized if Celularity's therapies show superior or comparable efficacy and safety. The cell therapy field is crowded with failed programs; many early-stage cell therapies have not delivered the efficacy or durability that researchers hoped. Celularity must execute across multiple dimensions—manufacturing consistency, immunological safety, efficacy in clinical trials, and regulatory approval—to realize value.
 
 ## Capital Intensity and Funding Requirements
 
-Clinical-stage biotech companies burn substantial cash to fund research, manufacturing scale-up, and clinical trials. Celularity depends on [equity raises](/common-stock/), debt financing, partnership funding, and any interim revenue from licensing deals or early commercialization. The company's ability to sustain operations and advance its pipeline depends on capital availability and investor confidence.
+Clinical-stage biotech companies burn substantial cash to fund research, manufacturing scale-up, and clinical trials. Celularity depends on [equity raises](/common-stock/), [debt financing](/debt-financing/), partnership funding, and any interim revenue from licensing deals or early commercialization. The company's ability to sustain operations and advance its pipeline depends on capital availability and investor confidence.
 
 In periods when biotech equity markets are strong, capital is abundant and early-stage companies can raise large rounds. In downturns, funding dries up and companies must conserve cash, reduce programs, or seek partners. Celularity's [balance sheet](/balance-sheet/) and cash runway are therefore critical metrics that investors and partners monitor closely.
 

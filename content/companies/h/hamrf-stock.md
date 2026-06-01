@@ -4,7 +4,7 @@ description: "Canadian hard-rock mining developer focused on precious metals and
 keywords: ["mining", "precious metals", "exploration", "Canada", "development stage"]
 ---
 
-*[SILVER HAMMER MINING CORP](/hamrf-stock/) (HAMRF) is a junior mining company engaged in the acquisition and development of mineral properties in Canada, primarily targeting precious and base metals in frontier geological terrains. The company sits at the high-risk, high-potential-upside end of the mining capital structure—earlier-stage than mid-tier producers but farther along than greenfield explorers, positioning it to capture resource discovery premiums while managing cash burn against staked claims and exploration results.*
+*[SILVER HAMMER MINING CORP](/hamrf-stock/) (HAMRF) is a junior mining company engaged in the [acquisition](/acquisition/) and development of mineral properties in Canada, primarily targeting precious and base metals in frontier geological terrains. The company sits at the high-risk, high-potential-upside end of the mining capital structure—earlier-stage than mid-tier producers but farther along than greenfield explorers, positioning it to capture resource discovery premiums while managing cash burn against staked claims and exploration results.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>HAMRF</td></tr>
@@ -25,7 +25,7 @@ Canada dominates junior mining not because its geology is uniquely rich, but bec
 
 ## The Precious-Metals Leverage Play
 
-Precious metals—gold and silver—command premium valuations because they are monetary standards, industrial inputs, and portfolio hedges simultaneously. A junior miner with exposure to gold sees its [share value](/stock/) fluctuate with the spot metal price, but with additional leverage: if gold rises and the company also reports higher grades at depth, the equity compounds both moves. Conversely, gold weakness hits harder on a junior's share price than on a major producer, because the junior has no earnings cushion and investors flee risk assets. Silver Hammer's focus on precious metals means its market narrative is tied to macroeconomic expectations around inflation, central-bank reserves, and industrial demand—forces beyond the company's control but central to its capital-raising environment.
+Precious metals—gold and silver—command premium valuations because they are monetary standards, industrial inputs, and portfolio hedges simultaneously. A junior miner with exposure to gold sees its [share value](/stock/) fluctuate with the spot metal price, but with additional leverage: if gold rises and the company also reports higher grades at depth, the equity compounds both moves. Conversely, gold weakness hits harder on a junior's share price than on a major producer, because the junior has no earnings cushion and investors flee risk assets. Silver Hammer's focus on precious metals means its market narrative is tied to macroeconomic expectations around [inflation](/inflation/), central-bank reserves, and industrial demand—forces beyond the company's control but central to its capital-raising environment.
 
 ## Cash Burn and Financing Reality
 

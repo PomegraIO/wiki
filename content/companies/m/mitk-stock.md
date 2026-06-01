@@ -17,7 +17,7 @@ keywords: ["document processing", "mobile imaging", "fintech software", "OCR", "
 
 ## MITEK's Role in the Document-to-Data Pipeline
 
-Financial institutions and government agencies have been digitizing for decades, yet vast volumes of transactions still begin as paper or photographic images. A customer opens a bank account by submitting a photo of their ID. An insurance claim arrives as a scanned photograph of a damaged car. A check is deposited via a mobile app camera. MITEK's software sits at the intake moment—converting images into usable structured data.
+[Financial institutions](/fisi-stock/) and government agencies have been digitizing for decades, yet vast volumes of transactions still begin as paper or photographic images. A customer opens a bank account by submitting a photo of their ID. An insurance claim arrives as a scanned photograph of a damaged car. A check is deposited via a mobile app camera. MITEK's software sits at the intake moment—converting images into usable structured data.
 
 This is not a glamorous position, but it is a durable one. Organizations cannot skip the step. Either they employ humans to key-enter data from photos (expensive, error-prone), or they deploy automated image processing (cheaper, consistent, scalable). MITEK competes primarily with open-source OCR, in-house engineering efforts, and other specialized vendors like Verifone and Bottomline. The competitive bar is high but not absolute; MITEK must continuously improve accuracy and expand into adjacent use cases.
 
@@ -31,7 +31,7 @@ The margins on SaaS subscriptions are strong—software scales without proportio
 
 ## Competitive Dynamics: Incumbent Defense vs. Technology Shift
 
-MITEK's survival depends on staying ahead of three threats: (1) in-house development by large banks and insurers with sufficient engineering talent and motivation to build proprietary solutions; (2) open-source and commodity AI tools that lower barriers to entry; and (3) adjacent enterprise-software vendors expanding into document processing (Salesforce, ServiceNow, Microsoft) as bolt-on modules.
+MITEK's survival depends on staying ahead of three threats: (1) in-house development by large banks and insurers with sufficient engineering talent and motivation to build proprietary solutions; (2) open-source and commodity AI tools that lower barriers to entry; and (3) adjacent enterprise-software vendors expanding into document processing ([Salesforce](/crm-stock/), [ServiceNow](/now-stock/), [Microsoft](/msft-stock/)) as bolt-on modules.
 
 The company has defended its position by building accuracy and breadth over years. MITEK's AI models are trained on millions of document images across fraud patterns, check standards, ID formats, and edge cases. Replicating this training data and labeled datasets is expensive. A bank's internal team can build a first version; building one that matches MITEK's accuracy across dozens of document types is a multi-year effort.
 
@@ -47,7 +47,7 @@ Emerging markets and developing-world institutions are digitizing their workflow
 
 MITEK is a mid-cap software company trying to grow faster than the software market average. Growth requires investment in R&D, sales, and infrastructure; profitability requires discipline on costs and operating leverage. MITEK's ability to strike that balance determines whether it trades at a premium or a discount to other [software companies](/stock/).
 
-A sustained period of 20%+ annual revenue growth with margins expanding toward 20%+ operating margin would justify a valuation premium. Slowing growth or margin compression would trigger multiple contraction. Unlike dominant platforms with near-monopoly positions, MITEK operates in a field where competitive intensity is always present.
+A sustained period of 20%+ annual revenue growth with margins expanding toward 20%+ [operating margin](/operating-margin/) would justify a valuation premium. Slowing growth or margin compression would trigger multiple contraction. Unlike dominant platforms with near-monopoly positions, MITEK operates in a field where competitive intensity is always present.
 
 ## Understanding MITEK Through Its Filings and Cohort
 

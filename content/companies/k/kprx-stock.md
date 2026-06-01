@@ -25,7 +25,7 @@ Kiora's early strategy was typical for academic-origin biotech: identify a lead 
 
 ## Capital Needs and the IPO Trajectory
 
-Like most clinical-stage biotechs, Kiora required substantial upfront capital to fund drug development, particularly Phase 2 and 3 clinical trials where patient cohorts expanded and costs climbed. The company raised venture funding from biotech-focused investors in multiple rounds, burning cash to advance candidates toward proof-of-concept trials. At some inflection point—typically when a lead candidate showed early efficacy signals or when the company neared a regulatory milestone—founders and investors considered a public offering. An IPO provided a war chest for late-stage development and offered an exit path for early venture investors. Kiora went public on the Nasdaq, capitalizing on investor appetite for biotech equity in the 2010s.
+Like most clinical-stage biotechs, Kiora required substantial upfront capital to fund drug development, particularly Phase 2 and 3 clinical trials where patient cohorts expanded and costs climbed. The company raised venture funding from biotech-focused investors in multiple rounds, burning cash to advance candidates toward proof-of-concept trials. At some inflection point—typically when a lead candidate showed early efficacy signals or when the company neared a regulatory milestone—founders and investors considered a public offering. An IPO provided a war chest for late-stage development and offered an exit path for early venture investors. Kiora went public on the [Nasdaq](/nasdaq/), capitalizing on investor appetite for biotech equity in the 2010s.
 
 ## The Clinical Reality and Regulatory Path
 

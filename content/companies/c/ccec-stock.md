@@ -37,7 +37,7 @@ Every deck officer and engine officer on a CCEC vessel must hold a valid Coast G
 
 ## Financing and Lender Compliance
 
-Banks and [bond](/bond/) investors that finance ship purchases now require climate stress testing and alignment with IMO 2030 targets. A lender may decline to fund a new oil-tanker hull or a conventional bulk carrier that projects to exceed EEXI by 2030. This regulatory pressure on the debt side forces CCEC to disclose fleet composition, age, and emissions trajectory in annual filings—and to commit to scrapping or retrofitting non-compliant vessels on schedule. The regulatory grip extends from the vessel to the balance sheet.
+Banks and [bond](/bond/) investors that finance ship purchases now require climate [stress testing](/stress-testing/) and alignment with IMO 2030 targets. A lender may decline to fund a new oil-tanker hull or a conventional bulk carrier that projects to exceed EEXI by 2030. This regulatory pressure on the debt side forces CCEC to disclose fleet composition, age, and emissions trajectory in annual filings—and to commit to scrapping or retrofitting non-compliant vessels on schedule. The regulatory grip extends from the vessel to the [balance sheet](/balance-sheet/).
 
 ## Insurance and Risk Transfer Under Regulatory Regimes
 

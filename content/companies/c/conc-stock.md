@@ -4,7 +4,7 @@ description: "Telecommunications infrastructure and software services provider; 
 keywords: ["telecommunications", "infrastructure", "software services", "legacy tech", "telecom"]
 ---
 
-*[CONECTISYS CORP](/conc-stock/) is a telecommunications services and software company in the late-decline phase of a legacy business cycle. Once a more integral player in telecom infrastructure, the company now inhabits a compressed niche: maintaining and servicing aging telecom hardware and software systems for carriers and service providers who have not yet migrated to cloud-native architectures. This is subsistence work—it persists because customers are slow to transition—but it is work with no growth driver and steady margin compression.*
+*[CONECTISYS CORP](/conc-stock/) is a telecommunications services and software company in the late-decline phase of a legacy [business cycle](/business-cycle/). Once a more integral player in telecom infrastructure, the company now inhabits a compressed niche: maintaining and servicing aging telecom hardware and software systems for carriers and service providers who have not yet migrated to cloud-native architectures. This is subsistence work—it persists because customers are slow to transition—but it is work with no growth driver and steady margin compression.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CONC</td></tr>
@@ -25,7 +25,7 @@ This was a viable market for two decades. But the industry shifted fundamentally
 
 Conectisys' customer base is not growing; it is consolidating. Regional carriers have been acquired by larger ones. Smaller CLECs have gone out of business or merged. The carriers that remain are either large and have moved to modern vendors, or small and are slowly upgrading—a process that removes Conectisys from the bill of materials.
 
-This is the classical late-stage decline. The installed base is large enough to justify ongoing support and maintenance, but it is shrinking. Every year, fewer customers need Conectisys' legacy software; every year, the revenue per customer erodes as the customer's use case shrinks or migrates to a competitor. The company is in a perpetual triage situation: keep the lights on, extract whatever cash it can, and hope for acquisition.
+This is the classical late-stage decline. The installed base is large enough to justify ongoing support and maintenance, but it is shrinking. Every year, fewer customers need Conectisys' legacy software; every year, the revenue per customer erodes as the customer's use case shrinks or migrates to a competitor. The company is in a perpetual triage situation: keep the lights on, extract whatever cash it can, and hope for [acquisition](/acquisition/).
 
 ## Revenue and Profitability in Decline
 
@@ -37,7 +37,7 @@ The company's [earnings](/earnings-per-share/) are likely volatile, dependent on
 
 Why is Conectisys still [public](/public-company/)? There are a few possibilities. First, the company may still be generating sufficient [cash flow](/free-cash-flow/) to justify public ownership—investors can hold the stock, receive modest [dividends](/dividend/) or buybacks, and wait for an exit. Second, the company may be a thinly-traded [stock](/stock/), with a small [market cap](/market-capitalization/), that few investors track or have considered for acquisition. Third, the company may be genuinely difficult to acquire—it might carry liabilities (employee obligations, long-term contracts, legacy IP disputes) that make it a hassle for a buyer.
 
-The most likely scenario is that Conectisys is a zombie company: past growth, unable to return capital, perpetually searching for a buyer. It persists because it is not yet dying fast enough to force liquidation, and because its legacy customer base is sticky and slow to churn.
+The most likely scenario is that Conectisys is a zombie company: past growth, unable to return capital, perpetually searching for a buyer. It persists because it is not yet dying fast enough to force [liquidation](/liquidation/), and because its legacy customer base is sticky and slow to churn.
 
 ## The Lifecycle Reality
 

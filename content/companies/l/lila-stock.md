@@ -17,11 +17,11 @@ keywords: ["telecommunications", "Latin America", "currency risk", "regulatory r
 
 ## Currency Devaluation and Hedging Exposure
 
-LILA earns revenue in Latin American currencies (Brazilian real, Colombian peso, Venezuelan bolívar, etc.) but reports earnings in US dollars. If those currencies depreciate against the dollar—a common occurrence during economic stress—LILA's reported revenue and earnings fall, even if unit volume and local profitability remain unchanged. For a leveraged company, currency depreciation directly increases the real burden of US-dollar-denominated debt, as more local currency must be converted to service dollar obligations. LILA can hedge some currency exposure through derivatives, but hedging is expensive and incomplete; over long periods, sustained devaluation erodes real returns to dollar-based shareholders.
+LILA earns revenue in Latin American currencies (Brazilian real, Colombian peso, Venezuelan bolívar, etc.) but reports earnings in [US dollars](/us-dollar/). If those currencies depreciate against the dollar—a common occurrence during economic stress—LILA's reported revenue and earnings fall, even if unit volume and local profitability remain unchanged. For a leveraged company, currency [depreciation](/depreciation/) directly increases the real burden of US-dollar-denominated debt, as more local currency must be converted to service dollar obligations. LILA can hedge some currency exposure through derivatives, but hedging is expensive and incomplete; over long periods, sustained devaluation erodes real returns to dollar-based shareholders.
 
 ## Sovereign Debt and Economic Instability
 
-Latin American countries have histories of currency crises, capital controls, and economic volatility. If a country in which LILA operates enters a severe recession or financial crisis, consumer spending and corporate investment drop sharply, reducing demand for telecom and media services. Additionally, government intervention—price controls on telecom tariffs, forced payment of local taxes or levies, nationalization threats—can impair profitability or force asset write-downs. LILA has limited recourse if a host government decides to regulate pricing or seize assets. Investors should monitor political and economic stability in each country where LILA operates.
+Latin American countries have histories of currency crises, capital controls, and economic volatility. If a country in which LILA operates enters a severe [recession](/recession/) or financial crisis, consumer spending and corporate investment drop sharply, reducing demand for telecom and media services. Additionally, government intervention—price controls on telecom tariffs, forced payment of local taxes or levies, nationalization threats—can impair profitability or force asset write-downs. LILA has limited recourse if a host government decides to regulate pricing or seize assets. Investors should monitor political and economic stability in each country where LILA operates.
 
 ## Regulatory Fragmentation and Licensing Risk
 
@@ -37,7 +37,7 @@ Telecom networks require continuous capital investment to maintain competitivene
 
 ## Leverage and Debt Service Inflexibility
 
-LILA likely carries significant debt to fund acquisitions and operations. High leverage combined with currency and regulatory risk is dangerous: if local currency depreciates or economic conditions worsen, the real cost of servicing US-dollar debt increases, and interest coverage ratios deteriorate. LILA may face pressure to refinance or restructure debt at higher cost. In extreme cases, if a country defaults on sovereign obligations or enacts capital controls, LILA could have difficulty remitting earnings or servicing debt, creating a trapped-capital scenario.
+LILA likely carries significant debt to fund [acquisitions](/acquisition/) and operations. High leverage combined with currency and regulatory risk is dangerous: if local currency depreciates or economic conditions worsen, the real cost of servicing US-dollar debt increases, and [interest coverage ratios](/interest-coverage-ratio/) deteriorate. LILA may face pressure to refinance or restructure debt at higher cost. In extreme cases, if a country defaults on sovereign obligations or enacts capital controls, LILA could have difficulty remitting earnings or servicing debt, creating a trapped-capital scenario.
 
 ## Content and Media Exposure
 

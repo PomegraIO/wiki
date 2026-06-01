@@ -49,12 +49,12 @@ Modern healthcare staffing relies on software—scheduling systems that match wo
 
 ## What to Examine
 
-Start with the company's [10-K](/10-k/) filing (CIK 1985554) to understand revenue composition (which hospital systems are largest clients, what percentage of revenue they represent), margins by service line, worker headcount and turnover, and forward guidance. Competitive positioning and technology capability are harder to assess from filings but are crucial to long-term viability. Earnings calls discuss hospital trends, staffing shortages, and pricing dynamics. The healthcare staffing business is fundamentally sound—hospitals need labor, workers want flexibility, and agencies profit from the arbitrage—but it's also intensely competitive and subject to volume and pricing pressure from well-capitalized incumbents.
+Start with the company's [10-K](/10-k/) filing (CIK 1985554) to understand revenue composition (which hospital systems are largest clients, what percentage of revenue they represent), margins by service line, worker headcount and turnover, and [forward guidance](/forward-guidance/). Competitive positioning and technology capability are harder to assess from filings but are crucial to long-term viability. Earnings calls discuss hospital trends, staffing shortages, and pricing dynamics. The healthcare staffing business is fundamentally sound—hospitals need labor, workers want flexibility, and agencies profit from the arbitrage—but it's also intensely competitive and subject to volume and pricing pressure from well-capitalized incumbents.
 
 <div class="wiki-seealso">
 ### Closely related
 - Staffing services
-- Healthcare services
+- [Healthcare services](/hcsg-stock/)
 - Labor economics
 
 ### Wider context

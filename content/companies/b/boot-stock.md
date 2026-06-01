@@ -27,7 +27,7 @@ This margin model drives all of BOOT's economics. The company's strategy is to m
 
 Boot Barn locates stores in small towns and rural areas where Western wear is culturally dominant and embedded—ranch country, rodeo communities, farming regions. This geographic focus creates competitive moat: a rural customer in Montana does not have easy access to specialty Western retail at national chains, so BOOT's store is often the only convenient option for quality boots and work apparel.
 
-The store economics depend on real estate costs. A BOOT location in a secondary market (a town of 20,000–50,000 people) carries lower rent than an equivalent store in a major city, allowing BOOT to maintain profitability even with a smaller transaction volume. A store in a small town might generate $1–2 million in annual sales and still be profitable because rent, utilities, and occupancy are modest.
+The store economics depend on real estate costs. A BOOT location in a [secondary market](/secondary-market/) (a town of 20,000–50,000 people) carries lower rent than an equivalent store in a major city, allowing BOOT to maintain profitability even with a smaller transaction volume. A store in a small town might generate $1–2 million in annual sales and still be profitable because rent, utilities, and occupancy are modest.
 
 However, e-commerce has shifted the dynamic. A customer in a remote area can now order online, reducing their need to visit a physical store. BOOT has responded by expanding its e-commerce platform, but online orders have lower [gross-profit-margin](/gross-profit-margin/) because of fulfillment costs and because online customers are more price-sensitive and less likely to buy at full markup.
 

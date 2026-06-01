@@ -22,11 +22,11 @@ Cannabis remains federally illegal in the United States, even though many states
 
 ## What CBIH's Science Focus Means
 
-The "bioscience" part of CBIH's name signals that the company is not just selling dried flower or gummies — it is trying to isolate, study, and develop specific compounds from cannabis. Cannabis contains dozens of active compounds called cannabinoids. The most famous are THC (the psychoactive ingredient) and CBD (which lacks the high but may have medical properties). CBIH's work might include extracting cannabinoids, testing them in laboratories or small clinical studies, formulating them into medicines or consumer products, and patenting the resulting discoveries. This research-and-development intensity is similar to pharmaceutical or biotech companies, though on a smaller scale and with less regulatory infrastructure.
+The "bioscience" part of CBIH's name signals that the company is not just selling dried flower or gummies — it is trying to isolate, study, and develop specific compounds from cannabis. Cannabis contains dozens of active compounds called cannabinoids. The most famous are THC (the psychoactive ingredient) and CBD (which lacks the high but may have [medical properties](/mpt-stock/)). CBIH's work might include extracting cannabinoids, testing them in laboratories or small clinical studies, formulating them into medicines or consumer products, and patenting the resulting discoveries. This research-and-development intensity is similar to pharmaceutical or biotech companies, though on a smaller scale and with less regulatory infrastructure.
 
 ## The International Angle
 
-The "International" part of the name suggests CBIH operates or sources materials globally. Some countries have more permissive cannabis regulations than the United States. Canada, for instance, legalized cannabis nationally in 2018, creating a large, regulated market. Some European countries allow cannabis for medical use. A company with international operations can source from multiple jurisdictions, conduct research where regulations are clearer, and sell into multiple markets. This diversification reduces reliance on any single jurisdiction, but it also adds logistical and currency complexity.
+The "International" part of the name suggests CBIH operates or sources materials globally. Some countries have more permissive cannabis regulations than the United States. Canada, for instance, legalized cannabis nationally in 2018, creating a large, regulated market. Some European countries allow cannabis for medical use. A company with international operations can source from multiple jurisdictions, conduct research where regulations are clearer, and sell into multiple markets. This [diversification](/diversification/) reduces reliance on any single jurisdiction, but it also adds logistical and currency complexity.
 
 ## The Market for Cannabis Products
 
@@ -58,7 +58,7 @@ Despite high revenues in some cannabis companies, profitability is elusive. Cost
 
 ## How to Research CBIH
 
-Read the annual [10-K](/10-k/) filing for CIK 1411057 on the SEC's EDGAR system. You will find details on what products CBIH sells, which states or countries it operates in, its revenue sources, and how much it is spending on research and manufacturing. Look at the risk factors section carefully — cannabis companies disclose significant regulatory, financial, and market risks. Check the balance sheet to see if the company has debt or is burning cash. If CBIH has any proprietary research or patents, read the description and evaluate whether they are defensible. Quarterly earnings releases will show whether revenues are growing and whether the company is approaching profitability or deepening losses.
+Read the annual [10-K](/10-k/) filing for CIK 1411057 on the SEC's EDGAR system. You will find details on what products CBIH sells, which states or countries it operates in, its revenue sources, and how much it is spending on research and manufacturing. Look at the risk factors section carefully — cannabis companies disclose significant regulatory, financial, and [market risks](/market-risk/). Check the [balance sheet](/balance-sheet/) to see if the company has debt or is burning cash. If CBIH has any proprietary research or patents, read the description and evaluate whether they are defensible. Quarterly earnings releases will show whether revenues are growing and whether the company is approaching profitability or deepening losses.
 
 <div class="wiki-seealso">
 

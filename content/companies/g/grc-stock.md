@@ -10,7 +10,7 @@ keywords:
   - mechanical engineering
 ---
 
-*Since 1933, **Gorman-Rupp Co. (GRC)** has built pumps. Not the sexy end of manufacturing, but essential. Towns pump water into reservoirs and sewage to treatment plants. Farms drain flooded fields. Refineries move crude oil. Gorman-Rupp makes the machines that do this grinding, unglamorous work. The company trades publicly and is owned in part by private-equity investors who appreciate a business that generates steady cash from infrastructure that cannot disappear.*
+*Since 1933, **Gorman-Rupp Co. (GRC)** has built pumps. Not the sexy end of manufacturing, but essential. Towns pump water into reservoirs and sewage to treatment plants. Farms drain flooded fields. Refineries move [crude oil](/crude-oil/). Gorman-Rupp makes the machines that do this grinding, unglamorous work. The company trades publicly and is owned in part by private-equity investors who appreciate a business that generates steady cash from infrastructure that cannot disappear.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GRC</td></tr>
@@ -55,13 +55,13 @@ Gorman-Rupp also sells through distributors. A distributor stocks pumps and sell
 
 ## Cyclicality and Economic Sensitivity
 
-Demand for pumps rises when economies grow and infrastructure investment increases. A government stimulus bill that funds water infrastructure drives pump orders. Recessions reduce capital spending; municipalities and industrials defer projects. Gorman-Rupp's sales follow these cycles, though the lag is real—a recession today might mean weak pump orders eighteen months from now.
+Demand for pumps rises when economies grow and infrastructure investment increases. A government stimulus bill that funds water infrastructure drives pump orders. [Recessions](/recession/) reduce capital spending; municipalities and industrials defer projects. Gorman-Rupp's sales follow these cycles, though the lag is real—a recession today might mean weak pump orders eighteen months from now.
 
 The company is less cyclical than homebuilding but more cyclical than utilities or consumer staples. It is classified as an industrial, and industrials decline faster in downturns than the broader market.
 
 ## Private-Equity Ownership and Capital Structure
 
-As of recent years, private-equity firms have owned significant stakes in Gorman-Rupp. Private-equity owners focus on cash generation and efficient capital deployment. They may push for cost-cutting, margin expansion, or strategic acquisitions of complementary pump or equipment businesses.
+As of recent years, private-equity firms have owned significant stakes in Gorman-Rupp. Private-equity owners focus on cash generation and efficient capital deployment. They may push for cost-cutting, margin expansion, or strategic [acquisitions](/acquisition/) of complementary pump or equipment businesses.
 
 For public-market investors, this ownership structure can be positive or negative. Private-equity owners with skin in the game may improve operations. But they may also leverage the company heavily to fund dividends to themselves, which increases financial risk.
 
@@ -69,7 +69,7 @@ Understanding GRBK's [balance sheet](/balance-sheet/), debt levels, and [dividen
 
 ## Cash Flow and Valuation
 
-Pump manufacturers are valued on cash flow and earnings multiples, not growth. Gorman-Rupp is not growing at 20% per year; it is growing mid-single-digits if at all. Valuation reflects that. A buyer of GRC stock is betting on steady cash generation, modest dividend returns, and operational improvements that expand margins.
+Pump manufacturers are valued on cash flow and [earnings multiples](/earnings-multiple/), not growth. Gorman-Rupp is not growing at 20% per year; it is growing mid-single-digits if at all. Valuation reflects that. A buyer of GRC stock is betting on steady cash generation, modest dividend returns, and operational improvements that expand margins.
 
 The [10-K](/10-k/) annual report discloses backlog—orders received but not yet fulfilled. Backlog is a health indicator. Growing backlog suggests strong demand ahead. Shrinking backlog suggests demand is weakening.
 
@@ -77,7 +77,7 @@ The [10-K](/10-k/) annual report discloses backlog—orders received but not yet
 
 Gorman-Rupp operates in a durable industry. Pumps are not going obsolete. Water infrastructure and industrial fluid handling will be needed for decades. The company's main tailwinds are infrastructure spending (if governments invest in water systems and wastewater treatment) and industrial production (if manufacturing and refining grow).
 
-Headwinds include labor cost inflation, competition on price, and economic slowdowns that defer purchasing decisions. For investors, GRC is a classic industrial play—boring, steady, and defensible, but not glamorous or high-growth.
+Headwinds include labor cost [inflation](/inflation/), competition on price, and economic slowdowns that defer purchasing decisions. For investors, GRC is a classic industrial play—boring, steady, and defensible, but not glamorous or high-growth.
 
 <div class="wiki-seealso">
 

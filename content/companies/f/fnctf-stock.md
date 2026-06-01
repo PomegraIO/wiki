@@ -38,7 +38,7 @@ Canadian telecommunications are overseen by the Canadian Radio-television and Te
 
 ## Funding sources and dividend policy
 
-As a Canadian public company, ORANGE raises capital through equity offerings on the TSX, bank credit lines, and bond issuance. Its dividend policy balances cash return to shareholders with reinvestment in network maintenance and expansion. The [dividend](/dividend/) yield is typically modest (2–4 percent), reflecting the company's need to retain earnings for capex.
+As a Canadian public company, ORANGE raises capital through equity offerings on the TSX, bank credit lines, and [bond](/bond/) issuance. Its dividend policy balances cash return to shareholders with reinvestment in network maintenance and expansion. The [dividend](/dividend/) yield is typically modest (2–4 percent), reflecting the company's need to retain earnings for capex.
 
 ## Where ORANGE sits in the industry
 
@@ -46,7 +46,7 @@ ORANGE is neither a national carrier like Bell or Rogers, nor a hyperlocal munic
 
 <div class="wiki-seealso">
 ### Closely related
-- [/fnfi-stock/](/fnfi-stock/) — another small North American financial/telecom utility
+- [/fnfi-stock/](/fnfi-stock/) — another small North [American financial](/afg-stock/)/telecom utility
 - [/fngr-stock/](/fngr-stock/) — different sector, but similarly niche public company
 
 ### Wider context

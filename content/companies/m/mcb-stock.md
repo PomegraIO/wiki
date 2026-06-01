@@ -26,7 +26,7 @@ Like most regional banks, Metropolitan's earnings come primarily from net intere
 
 A key feature of the business is deposit composition. The bank actively cultivates relationships with nonprofits, religious organizations, and other institutions that hold temporary cash balances or sweep accounts, and it offers FDIC pass-through deposit insurance for certain account structures. This strategy provides a relatively stable, lower-cost funding base compared to retail deposit gathering in competitive markets, though it creates administrative complexity and regulatory attention.
 
-Metropolitan's loan book is less geographically diversified than a national bank and more concentrated in commercial real estate, which ties it directly to New York area property markets and economic conditions. Nonprofits and tax-exempt lending is another material segment, offering somewhat lower yields but compensated by relationship depth and lower turnover.
+Metropolitan's loan book is less geographically diversified than a [national bank](/nbhc-stock/) and more concentrated in commercial real estate, which ties it directly to New York area property markets and economic conditions. Nonprofits and tax-exempt lending is another material segment, offering somewhat lower yields but compensated by relationship depth and lower turnover.
 
 ## Competitive position and constraints
 

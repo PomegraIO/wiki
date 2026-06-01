@@ -30,7 +30,7 @@ The company went public on [Nasdaq](/wiki/stock-exchange/) in 2015 (via a [rever
 
 Mobile gaming has fragmented dramatically since the early 2010s. The space now encompasses narrative-driven RPGs, mid-core tactics games, hypercasuals, and social titles. DoubleDown occupies the social-casino niche—a small but stable corner where casual play, light progression mechanics, and the allure of casino aesthetics keep users engaged. Players download DoubleDown Casino to unwind and enjoy a familiar game experience without financial risk. The free-to-play model relies on monetizing a small percentage of active players through cosmetics, gameplay boosters, and cosmetic chips.
 
-This positioning differs markedly from live-money gaming stocks like [DraftKings](/wiki/dkng-stock/) or Penn Entertainment, which operate sportsbooks and casinos. DoubleDown operates entirely in the entertainment and game-software space, answerable to different regulators and subject to fewer restrictions on marketing and distribution.
+This positioning differs markedly from live-money gaming stocks like [DraftKings](/wiki/dkng-stock/) or [Penn Entertainment](/penn-stock/), which operate sportsbooks and casinos. DoubleDown operates entirely in the entertainment and game-software space, answerable to different regulators and subject to fewer restrictions on marketing and distribution.
 
 ## Revenue and Business Drivers
 

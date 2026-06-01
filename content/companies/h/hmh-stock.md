@@ -41,7 +41,7 @@ However, the company must continuously update and improve products to stay compe
 
 The company also has high customer support costs. Teachers and district administrators need training, technical support, and implementation assistance. Providing that at scale across thousands of districts is labor-intensive. A large district implementation might require on-site training and ongoing support staff, which can cost HMH $100,000+ per year per large district.
 
-The combination means that while per-student gross margins are high, operating margins are more modest. HMH must reinvest much of its gross profit into product development and customer support to maintain competitiveness.
+The combination means that while per-student gross margins are high, [operating margins](/operating-margin/) are more modest. HMH must reinvest much of its gross profit into product development and customer support to maintain competitiveness.
 
 ## Digital Transition and Product-Market Fit
 
@@ -59,17 +59,17 @@ If a major state contract is lost or not renewed, HMH faces a sharp revenue clif
 
 HMH's largest customers are large school districts. A few major urban districts might represent 5–10% of revenue. If a major district churns—say, Los Angeles or New York City switches to a competitor or to open-source materials—revenue drops sharply. However, the customer base is large enough (13,000+ public school districts in the US) that no single customer represents an existential risk.
 
-A more systemic risk is district budget constraints. School budgets are politically determined and often under strain. During economic downturns or fiscal crises, districts cut spending on curriculum and non-essential materials. HMH's revenue is therefore cyclical, rising in expansions and falling during recessions or budget crunches. The company's ability to predict revenue depends heavily on forecasting district budget trends.
+A more [systemic risk](/systemic-risk/) is district budget constraints. School budgets are politically determined and often under strain. During economic downturns or fiscal crises, districts cut spending on curriculum and non-essential materials. HMH's revenue is therefore cyclical, rising in expansions and falling during [recessions](/recession/) or budget crunches. The company's ability to predict revenue depends heavily on forecasting district budget trends.
 
 ## Margins and Capital Efficiency
 
 HMH's business model can be highly capital-efficient once products are mature. Licensing revenue requires minimal capital expenditure compared to revenue generated. A district that pays $500,000 per year for curriculum requires no incremental capital from HMH. However, growing the business requires continuous product development, which is capital-intensive in terms of R&D and talent.
 
-The company's [/free-cash-flow/](/free-cash-flow/) generation depends on how much of operating cash flow is reinvested in product development versus returned to shareholders. A mature, slowly-growing company can harvest cash and pay dividends; a company in a competitive market must reinvest heavily to avoid obsolescence.
+The company's [/free-cash-flow/](/free-cash-flow/) generation depends on how much of operating cash flow is reinvested in product development versus returned to shareholders. A mature, slowly-growing company can harvest cash and pay [dividends](/dividend/); a company in a competitive market must reinvest heavily to avoid obsolescence.
 
 ## Valuation and Path to Growth
 
-Investors have historically valued education companies on a multiple of recurring revenue, given the predictability of the license model. A 3–5x revenue multiple is not uncommon for stable education publishers. HMH's valuation depends on whether the market perceives it as a mature cash-generation machine or as a growth opportunity.
+Investors have historically valued education companies on a multiple of recurring revenue, given the predictability of the license model. A 3–5x [revenue multiple](/revenue-multiple/) is not uncommon for stable education publishers. HMH's valuation depends on whether the market perceives it as a mature cash-generation machine or as a growth opportunity.
 
 Growth avenues are limited by market size, but HMH can grow by expanding internationally (it has operations outside the US), by acquiring competitors or adjacent businesses, or by moving into adjacent verticals (higher education, corporate training, professional development). Each of these requires capital and execution risk.
 

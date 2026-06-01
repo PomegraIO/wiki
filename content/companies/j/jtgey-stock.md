@@ -30,11 +30,11 @@ This strategic pivot was not born from sudden insight but from the logic of its 
 
 The company's evolution from a New York merchant bank to a multinational financial empire reflects the same opportunism that launched it in 1812. Following decolonization and the opening of emerging markets in the 1960s and beyond, Citibank aggressively expanded into Asia, Latin America, the Middle East, and Africa. It financed infrastructure projects, supplied trade finance to developing economies, and offered services to multinational corporations wherever they operated.
 
-This global footprint—a legacy of its early nineteenth-century orientation toward international commerce—became both a source of competitive advantage and a recurring source of credit and geopolitical risk. The bank's exposure to sovereign debt, emerging-market real estate, and foreign exchange exposure made it vulnerable to currency crises and country defaults. Yet the same structure that created these risks also created returns unavailable to purely domestic banks.
+This global footprint—a legacy of its early nineteenth-century orientation toward international commerce—became both a source of competitive advantage and a recurring source of credit and geopolitical risk. The bank's exposure to [sovereign debt](/sovereign-debt/), emerging-market real estate, and foreign exchange exposure made it vulnerable to currency crises and country defaults. Yet the same structure that created these risks also created returns unavailable to purely domestic banks.
 
 ## The ADR Structure and Modern Operations
 
-The JTGEY ticker represents an American Depositary Receipt, a financial instrument that allows holders outside the primary listing market to own shares in the parent company through a domestic custodian. This structure reflects the reality of modern global banking: a large U.S. financial institution with operations spanning over a hundred countries, yet no single clean listing that captures the whole enterprise cleanly.
+The JTGEY ticker represents an [American Depositary Receipt](/adr/), a financial instrument that allows holders outside the primary listing market to own shares in the parent company through a domestic [custodian](/custodian/). This structure reflects the reality of modern global banking: a large U.S. financial institution with operations spanning over a hundred countries, yet no single clean listing that captures the whole enterprise cleanly.
 
 Citibank itself remains a subsidiary of the broader Citicorp organization, which encompasses consumer banking, corporate and investment banking, transaction services, and wealth management. The separation of Citibank the retail and commercial unit from Citicorp the holding company reflects a structural distinction that became formalized after regulatory changes following the 2008 financial crisis.
 
@@ -42,7 +42,7 @@ Citibank itself remains a subsidiary of the broader Citicorp organization, which
 
 What makes Citibank's story instructive is not that it has been without crisis—it has faced multiple—but that its founding philosophy of adaptive reach and capital deployment has allowed it to survive and adapt through wildly different eras of financial history. A bank founded to finance merchant ships adapted to finance factories, then suburbs, then global infrastructure, then digital payments. The mechanism is consistent even as the specific business changed completely.
 
-Investors studying the company through its [10-K](/10-k/) filings will find discussion of capital ratios, stress testing, and regulatory capital requirements that would confound a banker from 1850. Yet the underlying logic—deploy capital where it earns returns, manage risk across geographies and customer segments, and grow faster than losses accumulate—remains continuous. That continuity is the inheritance of a firm that began by asking "who needs credit today?" and has spent two centuries refining the answer.
+Investors studying the company through its [10-K](/10-k/) filings will find discussion of capital ratios, [stress testing](/stress-testing/), and regulatory capital requirements that would confound a banker from 1850. Yet the underlying logic—deploy capital where it earns returns, manage risk across geographies and customer segments, and grow faster than losses accumulate—remains continuous. That continuity is the inheritance of a firm that began by asking "who needs credit today?" and has spent two centuries refining the answer.
 
 <div class="wiki-seealso">
 ### Closely related

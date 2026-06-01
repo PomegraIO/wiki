@@ -33,13 +33,13 @@ This property base is illiquid but valuable. If DJCO were forced to downsize its
 
 ## The Investment Portfolio and Equity Capital
 
-Over time, DJCO has accumulated a portfolio of marketable securities (stocks and bonds) through retained earnings. This portfolio generates [dividend](/dividend/) and interest income, insulating the company from pure operating business reliance. In some years, investment income exceeds operating profit from publishing, shifting DJCO's character from a media company to a quasi-investment holding company that operates a newspaper as a side business.
+Over time, DJCO has accumulated a portfolio of marketable securities (stocks and [bonds](/bond/)) through [retained earnings](/retained-earnings/). This portfolio generates [dividend](/dividend/) and interest income, insulating the company from pure operating business reliance. In some years, investment income exceeds operating profit from publishing, shifting DJCO's character from a media company to a quasi-investment holding company that operates a newspaper as a side business.
 
-The company's approach mirrors how large publishers historically functioned—newspaper profits were retained and reinvested in securities or properties to diversify away from media cyclicality. For DJCO, this diversification has proven essential because the newspaper business generates insufficient cash to sustain growth or substantial shareholder returns on its own.
+The company's approach mirrors how large publishers historically functioned—newspaper profits were retained and reinvested in securities or properties to diversify away from media cyclicality. For DJCO, this [diversification](/diversification/) has proven essential because the newspaper business generates insufficient cash to sustain growth or substantial shareholder returns on its own.
 
 ## Capital Allocation and Shareholder Returns
 
-DJCO's capital allocation has evolved toward buying back [common-stock](/common-stock/) (reducing share count and concentrating ownership) and holding cash and securities rather than making large acquisitions or capital investments. This reflects the realistic assessment that printing and publishing are in decline and reinvestment in those areas offers poor returns. The company effectively returns capital to remaining shareholders while waiting for opportunities or eventual strategic transactions.
+DJCO's capital allocation has evolved toward buying back [common-stock](/common-stock/) (reducing share count and concentrating ownership) and holding cash and securities rather than making large [acquisitions](/acquisition/) or capital investments. This reflects the realistic assessment that printing and publishing are in decline and reinvestment in those areas offers poor returns. The company effectively returns capital to remaining shareholders while waiting for opportunities or eventual strategic transactions.
 
 ## The Margin Question
 
@@ -47,11 +47,11 @@ Operating margins on publishing and printing are low—newspapers historically g
 
 ## Competitive Position and Sustainability
 
-In its niche (legal and business news for California attorneys and executives), DJCO competes with specialized digital publications, national business news outlets, and freely available legal databases. The niche audience is stable but small and shrinking as digital alternatives proliferate. DJCO's sustainability rests on maintaining just enough subscribers and advertising to keep the newspaper alive as a brand and community resource while the portfolio and real estate fund the enterprise.
+In its niche (legal and business news for California attorneys and executives), DJCO competes with specialized digital publications, national business news outlets, and freely available legal databases. The niche audience is stable but small and shrinking as digital alternatives proliferate. DJCO's sustainability rests on maintaining just enough subscribers and advertising to keep the newspaper alive as a brand and community resource while the portfolio and [real estate fund](/real-estate-fund/) the enterprise.
 
 ## Research Pathway
 
-Review DJCO's [10-K](/10-k/) (CIK 783412) for segment revenues broken down by publishing, printing, real estate, and investment income. Look for the composition of the securities portfolio, the value of real estate holdings on the [balance-sheet](/balance-sheet/), and the trajectory of circulation and advertising rates. The company's [earnings-per-share](/earnings-per-share/) reflects financial engineering (share buybacks) as much as operational performance.
+Review DJCO's [10-K](/10-k/) (CIK 783412) for segment revenues broken down by publishing, printing, real estate, and investment income. Look for the composition of the securities portfolio, the value of real estate holdings on the [balance-sheet](/balance-sheet/), and the trajectory of circulation and advertising rates. The company's [earnings-per-share](/earnings-per-share/) reflects financial engineering ([share buybacks](/share-buyback/)) as much as operational performance.
 
 <div class="wiki-seealso">
 ### Closely related

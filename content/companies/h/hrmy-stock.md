@@ -17,15 +17,15 @@ keywords: [harmony biosciences, sleep medicine, specialty pharma, private equity
 
 ## From Private Equity to Public Market
 
-HRMY was acquired and recapitalized by Tris Pharma Partners, a dedicated life-sciences private-equity fund. That acquisition fundamentally structured HRMY's capital: it introduced leverage (debt to LBO partners) and positioned the firm for cash generation and eventual exit (sale or IPO). The company went public in 2021, allowing Tris and early shareholders to begin liquidating stakes while giving HRMY direct access to public-equity capital markets. The transition from private to public has not materially changed the capital structure logic—HRMY still carries debt from its LBO origins and still focuses on converting operating cash flow into shareholder distributions and debt paydown.
+HRMY was acquired and recapitalized by Tris Pharma Partners, a dedicated life-sciences private-equity fund. That [acquisition](/acquisition/) fundamentally structured HRMY's capital: it introduced leverage (debt to LBO partners) and positioned the firm for cash generation and eventual exit (sale or IPO). The company went public in 2021, allowing Tris and early shareholders to begin liquidating stakes while giving HRMY direct access to public-equity capital markets. The transition from private to public has not materially changed the capital structure logic—HRMY still carries debt from its LBO origins and still focuses on converting operating cash flow into shareholder distributions and debt paydown.
 
 ## Debt from LBO Origins
 
-HRMY's debt load reflects its leveraged buyout. The company carries term loans and possibly other structured debt issued to finance the Tris acquisition. This debt is not enormous relative to HRMY's operating cash flow (the company generates positive earnings from its marketed therapies), but it is material and shapes capital-allocation priorities. HRMY must service this debt first, before allocating capital to dividends, buybacks, or new R&D. Debt covenants typically include [earnings](/income-statement/) and leverage requirements; if HRMY's business weakens significantly, covenant breaches could trigger mandatory prepayment or renegotiation.
+HRMY's debt load reflects its [leveraged buyout](/leveraged-buyout/). The company carries term loans and possibly other structured debt issued to finance the Tris acquisition. This debt is not enormous relative to HRMY's operating cash flow (the company generates positive earnings from its marketed therapies), but it is material and shapes capital-allocation priorities. HRMY must service this debt first, before allocating capital to dividends, buybacks, or new R&D. Debt covenants typically include [earnings](/income-statement/) and leverage requirements; if HRMY's business weakens significantly, covenant breaches could trigger mandatory prepayment or renegotiation.
 
 ## Profitability and Positive Cash Flow
 
-Unlike pre-revenue biotech, HRMY is a cash generator. Its narcolepsy therapies (including its lead drug, oxybate-based products) have established sales and—critically—a niche market with durable demand. The company's gross margins are respectable (pharma companies typically operate at 70–85% gross margin), and operating margins are meaningful. This positive cash flow is HRMY's key financial advantage: it can fund R&D internally, service debt, and return capital without needing perpetual equity raises or access to debt markets.
+Unlike pre-revenue biotech, HRMY is a cash generator. Its narcolepsy therapies (including its lead drug, oxybate-based products) have established sales and—critically—a niche market with durable demand. The company's gross margins are respectable (pharma companies typically operate at 70–85% gross margin), and [operating margins](/operating-margin/) are meaningful. This positive cash flow is HRMY's key financial advantage: it can fund R&D internally, service debt, and return capital without needing perpetual equity raises or access to debt markets.
 
 ## R&D Investment and Pipeline Expansion
 
@@ -33,15 +33,15 @@ HRMY invests a portion of its cash flow in developing new sleep-medicine therapi
 
 ## Equity Structure and Tris Pharma's Interest
 
-HRMY's public float includes the shares sold in the IPO, secondary offerings, and shares granted to employees. Tris Pharma retains a significant founder/sponsor stake. As Tris continues to exit through secondary stock sales (often called "sponsor distributions"), the Tris ownership percentage dilutes but public shareholders' ownership is also diluted on a per-share basis unless Tris shares are sold at prices above intrinsic value. The presence of a large founder-sponsor stake affects capital-allocation governance; Tris incentivizes management to maximize distributable cash (free cash flow minus growth CapEx minus debt service), since Tris's remaining stake benefits from dividend increases and stock-price appreciation.
+HRMY's [public float](/float/) includes the shares sold in the IPO, [secondary offerings](/secondary-offering/), and shares granted to employees. Tris Pharma retains a significant founder/sponsor stake. As Tris continues to exit through secondary stock sales (often called "sponsor distributions"), the Tris ownership percentage dilutes but public shareholders' ownership is also diluted on a per-share basis unless Tris shares are sold at prices above [intrinsic value](/intrinsic-value/). The presence of a large founder-sponsor stake affects capital-allocation governance; Tris incentivizes management to maximize distributable cash (free cash flow minus growth CapEx minus debt service), since Tris's remaining stake benefits from dividend increases and stock-price appreciation.
 
 ## Dividend and Distribution Policy
 
-HRMY may pay a quarterly dividend, though the amount and consistency depend on cash flow strength and debt covenants. The company prioritizes debt paydown first—reducing the leverage ratio improves covenant flexibility and lowers debt service costs—then distributes remaining cash. This differs from a mature, low-leverage firm that might commit to stable, growing dividends independent of operational volatility. HRMY's dividend is more variable, linked to pipeline success and market conditions for its sleep-medicine products.
+HRMY may pay a quarterly dividend, though the amount and consistency depend on cash flow strength and debt covenants. The company prioritizes debt paydown first—reducing the [leverage ratio](/leverage-ratio-forex/) improves covenant flexibility and lowers debt service costs—then distributes remaining cash. This differs from a mature, low-leverage firm that might commit to stable, growing dividends independent of operational volatility. HRMY's dividend is more variable, linked to pipeline success and market conditions for its sleep-medicine products.
 
 ## Leverage Reduction and Refinancing
 
-A core capital-allocation goal for HRMY is to reduce debt below a certain leverage threshold (often two to three times [EBITDA](/income-statement/)). Once that threshold is crossed, the company gains covenant flexibility and can access cheaper debt refinancing or eliminate debt entirely. Debt paydown is thus a high priority; every quarter of strong cash flow chips away at the principal balance. If HRMY achieves sub-two-times leverage, management might declare victory, refinance at lower rates, or even contemplate a special dividend to Tris.
+A core capital-allocation goal for HRMY is to reduce debt below a certain leverage threshold (often two to three times [EBITDA](/income-statement/)). Once that threshold is crossed, the company gains covenant flexibility and can access cheaper debt refinancing or eliminate debt entirely. Debt paydown is thus a high priority; every quarter of strong cash flow chips away at the principal balance. If HRMY achieves sub-two-times leverage, management might declare victory, refinance at lower rates, or even contemplate a [special dividend](/special-dividend/) to Tris.
 
 ## Merger & Acquisition Posture
 
@@ -49,7 +49,7 @@ As a specialist in sleep medicine, HRMY is an acquisition target for larger phar
 
 ## Cost of Capital and Refinancing Access
 
-HRMY's cost of debt reflects its leverage and profitability; the company can access debt markets at reasonable spreads over risk-free rates. Its equity cost reflects its niche market (sleep medicine) and operational risks (changes in reimbursement, new competitor drugs). Unlike high-risk biotech, HRMY's cost of capital is moderate because it is profitable and growing; unlike a blue-chip pharmaceutical, it is higher because of leverage and concentration risk in sleep medicine.
+HRMY's [cost of debt](/cost-of-debt/) reflects its leverage and profitability; the company can access debt markets at reasonable spreads over risk-free rates. Its equity cost reflects its niche market (sleep medicine) and [operational risks](/operational-risk/) (changes in reimbursement, new competitor drugs). Unlike high-risk biotech, HRMY's cost of capital is moderate because it is profitable and growing; unlike a blue-chip pharmaceutical, it is higher because of leverage and [concentration risk](/concentration-risk/) in sleep medicine.
 
 <div class="wiki-seealso">
 ### Closely related

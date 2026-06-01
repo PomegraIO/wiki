@@ -4,7 +4,7 @@ description: "A Florida-domiciled utility or infrastructure company whose operat
 keywords: ["utility regulation", "state PUC", "environmental compliance", "infrastructure", "rate regulation"]
 ---
 
-*Helio Corp, incorporated in Florida as **HLEO**, operates in a regulatory landscape defined by the Florida Public Service Commission (PSC) and the Federal Energy Regulatory Commission (FERC). Whether Helio generates, distributes, or trades energy; operates telecommunications infrastructure; or manages water/wastewater systems, the company's tariffs, service territories, capital investments, and return on equity are subject to state and federal oversight. Public utility regulation is predicated on the principle that monopoly or quasi-monopoly service providers must be monitored to ensure rates are "just and reasonable." For Helio, this means transparent cost accounting, periodic rate cases where regulators examine the company's need for rate increases, and capital-investment plans that must be justified to state authorities. The regulatory regime shapes not just what Helio can charge, but how much it can spend, where it can invest, and how much profit it can expect.*
+*Helio Corp, incorporated in Florida as **HLEO**, operates in a regulatory landscape defined by the Florida Public Service Commission (PSC) and the Federal Energy Regulatory Commission (FERC). Whether Helio generates, distributes, or trades energy; operates telecommunications infrastructure; or manages water/wastewater systems, the company's tariffs, service territories, capital investments, and [return on equity](/return-on-equity/) are subject to state and federal oversight. Public utility regulation is predicated on the principle that monopoly or quasi-monopoly service providers must be monitored to ensure rates are "just and reasonable." For Helio, this means transparent cost accounting, periodic rate cases where regulators examine the company's need for rate increases, and capital-investment plans that must be justified to state authorities. The regulatory regime shapes not just what Helio can charge, but how much it can spend, where it can invest, and how much profit it can expect.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HLEO</td></tr>
@@ -16,7 +16,7 @@ keywords: ["utility regulation", "state PUC", "environmental compliance", "infra
 
 ## Florida Public Service Commission Jurisdiction
 
-The Florida Public Service Commission (PSC) exercises statutory authority over investor-owned utilities operating in Florida, including rates, service standards, and capital-investment plans. **Helio** must obtain PSC approval before implementing any significant rate increase. A rate case begins with Helio filing a petition with the PSC detailing its costs of operation, the capital it has invested, its cost of equity, and the rate of return on equity (ROE) it seeks. The PSC then examines whether the company's proposed rates are "just and reasonable"—a term defined by statute and case law to mean that rates should cover the utility's operating costs and provide a fair return on invested capital, but not windfall profits.
+The Florida Public Service Commission (PSC) exercises statutory authority over investor-owned utilities operating in Florida, including rates, service standards, and capital-investment plans. **Helio** must obtain PSC approval before implementing any significant rate increase. A rate case begins with Helio filing a petition with the PSC detailing its costs of operation, the capital it has invested, its [cost of equity](/cost-of-equity/), and the rate of return on equity (ROE) it seeks. The PSC then examines whether the company's proposed rates are "just and reasonable"—a term defined by statute and case law to mean that rates should cover the utility's operating costs and provide a fair [return on invested capital](/return-on-invested-capital/), but not windfall profits.
 
 The PSC will hire expert witnesses to challenge Helio's cost estimates, question whether all proposed investments are "used and useful" (actually serving customers and necessary), and examine whether the company's cost of capital is reasonably calculated. The process unfolds over months of discovery, expert testimony, and administrative hearings. Helio must prove its case; the burden is on the utility. If the PSC disallows portions of Helio's claimed costs or disallows capital investments as not used and useful, the company's revenue is reduced—a material financial impact.
 
@@ -50,7 +50,7 @@ Expansion into new territories requires PSC approval. Helio cannot simply enter 
 
 ## Contractual Dependencies and Long-Term Obligations
 
-Helio likely has long-term contracts with large customers, fuel suppliers (coal, natural gas, nuclear), or power-purchase agreements with renewable-energy generators. These contracts are subject to regulatory scrutiny: the PSC wants to ensure Helio obtained competitive pricing and is not favoring affiliated suppliers. If Helio signed a contract with a supplier that turns out to be uneconomic (e.g., a long-term coal contract during a shift toward renewables), the PSC may disallow recovery of those costs in rates, stranding costs on Helio's balance sheet.
+Helio likely has long-term contracts with large customers, fuel suppliers (coal, [natural gas](/natural-gas/), nuclear), or power-purchase agreements with renewable-energy generators. These contracts are subject to regulatory scrutiny: the PSC wants to ensure Helio obtained competitive pricing and is not favoring affiliated suppliers. If Helio signed a contract with a supplier that turns out to be uneconomic (e.g., a long-term coal contract during a shift toward renewables), the PSC may disallow recovery of those costs in rates, stranding costs on Helio's [balance sheet](/balance-sheet/).
 
 ## Accounting and Cost Allocation
 
@@ -66,7 +66,7 @@ If Helio invests in renewable energy, storage, or grid modernization to support 
 
 ## Regulatory Lag and Financial Impact
 
-Regulatory lag—the delay between when Helio incurs costs and when those costs are recovered in rates—creates financial headwinds. If inflation rises or fuel costs spike, Helio's expenses increase before customers pay higher rates. Conversely, if efficiency improves, regulators may delay rate adjustments, benefiting customers at the utility's expense.
+Regulatory lag—the delay between when Helio incurs costs and when those costs are recovered in rates—creates financial headwinds. If [inflation](/inflation/) rises or fuel costs spike, Helio's expenses increase before customers pay higher rates. Conversely, if efficiency improves, regulators may delay rate adjustments, benefiting customers at the utility's expense.
 
 Helio must manage this uncertainty by maintaining financial reserves and by seeking interim rate adjustments when costs spike. The PSC has mechanisms (fuel-adjustment clauses, storm-recovery riders) that allow faster rate adjustments for certain costs, reducing lag for critical categories.
 

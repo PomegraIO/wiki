@@ -51,7 +51,7 @@ The logistics operation also affects working capital. Unlike a dropship or made-
 
 A significant portion of Bob's customer base relies on financing to make purchases. The company offers promotions like "interest-free for 12 months" to customers who qualify and utilize branded credit options. These financing programs serve the customer but also create a secondary profit stream for Bob's through interest, fees, and partnerships with credit providers.
 
-This also introduces risk. A customer who cannot pay back a financed purchase defaults, requiring bad-debt reserves. Economic downturns that reduce customer creditworthiness increase default rates. Bob's must balance the objective of making furniture accessible through financing with the reality that some customers will not repay.
+This also introduces risk. A customer who cannot pay back a financed purchase defaults, requiring bad-debt reserves. Economic downturns that reduce customer creditworthiness increase [default rates](/default-rate/). Bob's must balance the objective of making furniture accessible through financing with the reality that some customers will not repay.
 
 ## The Price and Transparency Trade
 
@@ -61,7 +61,7 @@ Maintaining this brand promise in a competitive retail environment where some co
 
 ## The Physical Store as Customer Experience Theater
 
-While omnichannel is the future, Bob's physical stores remain central to customer acquisition and retention. The store is not just a transaction point but an experience. A customer can sit on multiple sofas, feel the fabric, examine construction, and get immediate answers from a salesperson. This experience is difficult to replicate online and remains highly valued by customers who are buying a large-ticket item.
+While omnichannel is the future, Bob's physical stores remain central to customer [acquisition](/acquisition/) and retention. The store is not just a transaction point but an experience. A customer can sit on multiple sofas, feel the fabric, examine construction, and get immediate answers from a salesperson. This experience is difficult to replicate online and remains highly valued by customers who are buying a large-ticket item.
 
 The physical store also functions as a brand billboard. A customer driving past a Bob's store sees the founder's face on a sign, a tangible reminder of the brand and its promise. The store location contributes to market awareness in a way that pure e-commerce cannot.
 

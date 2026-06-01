@@ -22,7 +22,7 @@ keywords:
 
 ## The Semiconductor Assembly and Test Supply Chain
 
-Semiconductor manufacturing has fragmented into specialized tiers. Large fabless design companies (like Qualcomm or Broadcom) design chips but own no factories. Foundries (like Taiwan Semiconductor Manufacturing Company) fabricate wafers. Packaging and testing companies like Chipmos take the fabricated wafers and convert them into finished products. This division of labor allows companies to specialize and scale, but it creates interdependencies: Chipmos' revenue depends entirely on foundries and designers shipping wafers for test and assembly.
+Semiconductor manufacturing has fragmented into specialized tiers. Large fabless design companies (like Qualcomm or [Broadcom](/avgo-stock/)) design chips but own no factories. Foundries (like Taiwan Semiconductor Manufacturing Company) fabricate wafers. Packaging and testing companies like Chipmos take the fabricated wafers and convert them into finished products. This division of labor allows companies to specialize and scale, but it creates interdependencies: Chipmos' revenue depends entirely on foundries and designers shipping wafers for test and assembly.
 
 Chipmos operates in the "back-end" of semiconductor manufacturing. A finished semiconductor wafer arrives at its facility containing hundreds or thousands of identical dies (small rectangular chips). Chipmos tests each die—verifies that it performs according to specification—identifies the good ones, and discards failures or sends them for rework. Yield (the percentage of good dies per wafer) directly affects Chipmos' revenue: if yield is 80%, the company collects fees only on 80% of the dies; if it drops to 60%, fees fall proportionally.
 
@@ -44,7 +44,7 @@ Capital intensity is moderate relative to foundries (which cost billions) but si
 
 Chipmos serves a consolidated customer base: a handful of large foundries and fabless companies represent the bulk of revenue. This concentration is a double-edged sword. Large customers provide stable, predictable volume; they commit capacity reservation and commit to shipping targets. But large customers also wield pricing power: they can negotiate aggressively on per-unit fees because they represent enormous volume. Chipmos' gross margins reflect this dynamic: the company is not a high-margin business; its advantage is volume and operational efficiency.
 
-Pricing is determined by cost-plus negotiation. Chipmos calculates the cost of materials (lead frames, solder, epoxy), labor, equipment depreciation, and overhead, then adds margin. Customers push back: they want lower prices, faster turnaround, or higher yield. Chipmos must improve efficiency to maintain margins as customers demand price reductions.
+Pricing is determined by cost-plus negotiation. Chipmos calculates the cost of materials (lead frames, solder, epoxy), labor, equipment [depreciation](/depreciation/), and overhead, then adds margin. Customers push back: they want lower prices, faster turnaround, or higher yield. Chipmos must improve efficiency to maintain margins as customers demand price reductions.
 
 ## Utilization and Demand Cycles
 
@@ -60,7 +60,7 @@ Conversely, Taiwan's dominance in semiconductor manufacturing gives Chipmos adva
 
 ## Technology Roadmap and Competitive Position
 
-Chipmos competes against other Taiwan-based assembly and test houses (like Advanced Semiconductor Engineering, ASE Technology) and smaller regional players. Differentiation comes from technological capability (ability to execute advanced packaging reliably), operational efficiency (fast turnaround, high yield), and customer service (responsiveness, flexibility).
+Chipmos competes against other Taiwan-based assembly and test houses (like Advanced Semiconductor Engineering, [ASE Technology](/asx-stock/)) and smaller regional players. Differentiation comes from technological capability (ability to execute advanced packaging reliably), operational efficiency (fast turnaround, high yield), and customer service (responsiveness, flexibility).
 
 The company's technology roadmap is driven by customer demands: as customers shrink die sizes, increase interconnect density, and pursue advanced packages (chiplets, embedded die, 2.5D and 3D integration), Chipmos must invest in capability to keep pace. Failure to invest leaves the company competitive only on simple, low-margin packages.
 

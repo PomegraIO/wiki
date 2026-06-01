@@ -35,13 +35,13 @@ First Mining Gold's value to investors rests on the quality of its projects—wh
 
 First Mining Gold holds multiple projects across Canada and North America. This portfolio approach mitigates risk: if one project proves barren, others may succeed. The company allocates exploration capital across projects based on geological promise and strategic priority. Some projects might be early-stage reconnaissance (determining whether a region warrants drilling); others might be advanced development (drilling defined ore bodies and planning a mine layout).
 
-Canadian jurisdiction is attractive for junior miners: the country has a long mining history, established permitting and environmental frameworks, and investor recognition. Deposits in British Columbia, Ontario, or Quebec face lower sovereign risk than those in emerging-market jurisdictions, and they have deeper domestic infrastructure (skilled workers, supply chains, established communities).
+Canadian jurisdiction is attractive for junior miners: the country has a long mining history, established permitting and environmental frameworks, and investor recognition. Deposits in British Columbia, Ontario, or Quebec face lower [sovereign risk](/sovereign-risk/) than those in emerging-market jurisdictions, and they have deeper domestic infrastructure (skilled workers, supply chains, established communities).
 
 ## The Financing Challenge
 
 A junior miner's Achilles heel is financing. Exploration and development require sustained capital investment with no offsetting revenue (the company is not yet mining). A junior must raise capital—through equity offerings, debt, or partnerships—and deploy it into exploration. If gold prices fall or capital markets stiffen, access to funding dries up, and exploration halts.
 
-This creates a familiar pattern: junior mining companies raise equity in bull markets when investor appetite for gold is high, deploy capital rapidly into drilling, and then face distress in bear markets when capital is scarce and gold prices weaken. Companies with strong balance sheets and low burn rates survive these cycles; others fail or become acquired at distressed prices.
+This creates a familiar pattern: junior mining companies raise equity in [bull markets](/bull-market/) when investor appetite for gold is high, deploy capital rapidly into drilling, and then face distress in [bear markets](/bear-market/) when capital is scarce and gold prices weaken. Companies with strong balance sheets and low burn rates survive these cycles; others fail or become acquired at distressed prices.
 
 First Mining Gold's financing model—like all juniors—depends on maintaining investor confidence in its projects and management. Each financing round dilutes shareholders but provides the capital to continue exploration. The company's ability to raise capital at favorable terms is partly a function of market conditions and partly of its own demonstrated execution and geological success.
 

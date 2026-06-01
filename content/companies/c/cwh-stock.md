@@ -24,7 +24,7 @@ A customer's RV purchase journey at Camping World begins on the dealership lot (
 
 A Camping World dealership is a complex logistics operation. The company carries inventory of dozens of RV models from multiple manufacturers: Class A motorhomes (40–45 feet, $100k–$500k+), Class B van conversions ($60k–$150k), travel trailers ($20k–$80k), and fifth wheels ($30k–$100k+). Each unit requires registration, insurance, and detailed setup before it can be sold. The showroom floor and outdoor lot must be managed—old inventory cannot sit indefinitely, or carrying costs (insurance, financing, property) mount and eat into margin.
 
-Seasonal demand creates volatility in cash requirements. Spring and early summer are peak RV-buying seasons; demand slows in fall and winter. A well-managed dealership times inventory acquisition to align with demand—buying heavily in January–February for spring sales, and running lean inventory in September–October. Mis-timing inventory creates cash drains: excess inventory in slow seasons ties up capital and depresses pricing; stockouts in peak seasons miss sales.
+Seasonal demand creates volatility in cash requirements. Spring and early summer are peak RV-buying seasons; demand slows in fall and winter. A well-managed dealership times inventory [acquisition](/acquisition/) to align with demand—buying heavily in January–February for spring sales, and running lean inventory in September–October. Mis-timing inventory creates cash drains: excess inventory in slow seasons ties up capital and depresses pricing; stockouts in peak seasons miss sales.
 
 Sales volume at a typical Camping World location might run 50–200 RVs per year, depending on market size and store maturity. Each sale is a high-dollar transaction (median RV price $50k–$80k), but margins are compressed: an RV dealer margin on vehicle sales is typically 10–15%, so a $60k RV might generate $6k–$9k gross profit. This is meaningful but not enormous; scale and operational efficiency are critical.
 
@@ -46,7 +46,7 @@ Financing also affects customer stickiness: a customer who financed through Camp
 
 ## Retail locations and catchment
 
-Camping World's strategy is to build a national presence of large dealerships and satellite retail locations. A flagship dealership might anchor a region, drawing customers from a 200–300 mile radius for new and used RV purchases. Satellite locations (smaller footprint, fewer RVs) serve smaller metros and secondary markets where full-scale dealerships are not viable. Online channels reach customers everywhere.
+Camping World's strategy is to build a national presence of large dealerships and satellite retail locations. A flagship dealership might anchor a region, drawing customers from a 200–300 mile radius for new and used RV purchases. Satellite locations (smaller footprint, fewer RVs) serve smaller metros and [secondary markets](/secondary-market/) where full-scale dealerships are not viable. Online channels reach customers everywhere.
 
 This geographic footprint creates operational complexity: each location must manage its own inventory, staffing, and service capacity while also receiving supply and oversight from corporate. Regional variation in demand (RV ownership is higher in the West and South; lower in dense urban Northeast) means that inventory and sales strategy must be localized.
 
@@ -64,7 +64,7 @@ The company has positioned itself as a one-stop shop: buy here, finance here, se
 
 ## Supply chain and manufacturer relationships
 
-Camping World depends on steady supply from RV manufacturers (Winnebago, Thor Industries, REV Group, Forest River). Manufacturing output is constrained by production capacity and component availability. During pandemic-driven RV booms (2020–2021), manufacturers couldn't produce fast enough to meet demand, and Camping World benefited from strong sales and pricing power. When production normalizes or exceeds demand, inventory piles up and pricing pressure intensifies.
+Camping World depends on steady supply from RV manufacturers (Winnebago, [Thor Industries](/tho-stock/), REV Group, Forest River). Manufacturing output is constrained by production capacity and component availability. During pandemic-driven RV booms (2020–2021), manufacturers couldn't produce fast enough to meet demand, and Camping World benefited from strong sales and pricing power. When production normalizes or exceeds demand, inventory piles up and pricing pressure intensifies.
 
 The company's relationship with manufacturers is symbiotic: manufacturers need dealerships to move inventory, and Camping World needs manufacturers' products. Tension can arise if Camping World is seen to have excessive inventory or is discounting aggressively, as this can undermine brand positioning and manufacturer pricing strategy.
 
@@ -89,7 +89,7 @@ Overhead is substantial: real estate (dealership locations), staff (salespeople,
 
 ## Risks and market conditions
 
-Camping World's profitability is sensitive to discretionary consumer spending and interest rates. High interest rates increase the cost of RV financing, depressing demand. Economic slowdowns reduce vacation and leisure spending. Fuel price spikes raise operating costs for RV owners, potentially depressing resale values and demand.
+Camping World's profitability is sensitive to discretionary consumer spending and [interest rates](/interest-rate/). High interest rates increase the cost of RV financing, depressing demand. Economic slowdowns reduce vacation and leisure spending. Fuel price spikes raise operating costs for RV owners, potentially depressing resale values and demand.
 
 Supply-chain disruption (chip shortages affecting RV electronics, component delays) slows manufacturer output, reducing inventory available to dealers. Labor shortages in service departments limit capacity and can delay customer repairs, degrading satisfaction.
 

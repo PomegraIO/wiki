@@ -23,7 +23,7 @@ The customer base clusters around manufacturers, retailers, and 3PLs (third-part
 
 ## How the Business Earns from That Demand
 
-Hub Group makes money on the spread between what it charges shippers and what it pays for transportation and terminal services. When a shipper books an intermodal shipment, Hub Group quotes a price. That price must cover the actual rail transport (Hub Group does not own the railroad; it buys capacity or contracts with railroads like Union Pacific and BNSF), the trucking for local pickup and delivery (either company-operated or subcontracted), and the use of intermodal facilities—the yards where containers are staged, loaded, or transferred. The margin comes from Hub Group's ability to consolidate shipments, route efficiently, and negotiate favorable rates with its transportation partners through volume. A customer paying $1,500 to move a shipment across the country might arrive at that price because Hub Group is paying $900 for the actual rail cost, $400 for local trucking, $100 for terminal services, leaving $100 margin to Hub Group before overhead.
+Hub Group makes money on the spread between what it charges shippers and what it pays for transportation and terminal services. When a shipper books an intermodal shipment, Hub Group quotes a price. That price must cover the actual rail transport (Hub Group does not own the railroad; it buys capacity or contracts with railroads like [Union Pacific](/unp-stock/) and BNSF), the trucking for local pickup and delivery (either company-operated or subcontracted), and the use of intermodal facilities—the yards where containers are staged, loaded, or transferred. The margin comes from Hub Group's ability to consolidate shipments, route efficiently, and negotiate favorable rates with its transportation partners through volume. A customer paying $1,500 to move a shipment across the country might arrive at that price because Hub Group is paying $900 for the actual rail cost, $400 for local trucking, $100 for terminal services, leaving $100 margin to Hub Group before overhead.
 
 The company operates truck fleets in some regions and manages intermodal equipment pools. This vertical integration creates both operating leverage (on higher-volume lanes, owning trucks is cheaper than always subcontracting) and complexity (trucks must be maintained, drivers hired, utilization managed). Hub Group also derives revenue from accessorial services—customers pay extra for detention fees if a shipment sits in a yard too long, for equipment imbalances (more inbound loads than outbound, requiring repositioning), and for expedited handling. These ancillary fees, while smaller than core transportation revenue, add margin.
 
@@ -35,7 +35,7 @@ Competition comes from larger integrated carriers (like J.B. Hunt or YRC Worldwi
 
 ## Seasonal and Macro Sensitivity
 
-Intermodal volumes track manufacturing output and retail inventory cycles. When factories ramp production and retailers stock shelves before the holidays, Hub Group moves more freight. Recessions flatten shipment counts quickly. The business is capital-intensive at the margins—managing equipment fleets and yard facilities requires investment—but variable for most customers, since Hub Group can scale up or down by adjusting subcontractor usage. Economic slowdowns tend to hurt pricing power, as shippers seek discounts and shift volume away from premium intermodal toward slower, cheaper modes.
+Intermodal volumes track manufacturing output and retail inventory cycles. When factories ramp production and retailers stock shelves before the holidays, Hub Group moves more freight. [Recessions](/recession/) flatten shipment counts quickly. The business is capital-intensive at the margins—managing equipment fleets and yard facilities requires investment—but variable for most customers, since Hub Group can scale up or down by adjusting subcontractor usage. Economic slowdowns tend to hurt pricing power, as shippers seek discounts and shift volume away from premium intermodal toward slower, cheaper modes.
 
 ## Competitive Moats Are Real but Narrow
 
@@ -48,15 +48,15 @@ Hub Group's economics are fundamentally about customer lock-in through convenien
 <div class="wiki-seealso">
 <h3>Closely related</h3>
 <ul>
-<li><a href="/huhu-stock/">HUHUTECH International Group Inc.</a></li>
+<li><a href="/huhu-stock/">[HUHUTECH International](/huhu-stock/) Group Inc.</a></li>
 <li><a href="/huiz-stock/">Huize Holding Ltd</a></li>
-<li><a href="/supply-chain/">Supply Chain</a></li>
+<li>Supply Chain</li>
 </ul>
 
 <h3>Wider context</h3>
 <ul>
-<li><a href="/10-k/">10-K Annual Report</a></li>
+<li><a href="/10-k/">10-K [Annual Report](/10-k/)</a></li>
 <li><a href="/public-company/">Public Company</a></li>
-<li><a href="/business-model/">Business Model</a></li>
+<li>Business Model</li>
 </ul>
 </div>

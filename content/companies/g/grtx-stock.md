@@ -17,9 +17,9 @@ keywords: ["oncology", "biotechnology", "cancer treatment", "drug development", 
 
 ## The Structural Tide: Oncology's Secular Expansion
 
-Galera's core thesis rests on an irreversible fact: as global populations age and cancer incidence rises, the addressable market for oncology therapies expands regardless of interest rates, employment, or equity volatility. A patient diagnosed with cancer does not defer treatment because of a recession. Hospital budgets for cancer care absorb price inflation. Health systems in developed economies prioritize oncology spending. This secular trend—rooted in demography and epidemiology rather than economic cycles—anchors Galera's long-term prospects.
+Galera's core thesis rests on an irreversible fact: as global populations age and cancer incidence rises, the addressable market for oncology therapies expands regardless of [interest rates](/interest-rate/), employment, or equity volatility. A patient diagnosed with cancer does not defer treatment because of a recession. Hospital budgets for cancer care absorb price [inflation](/inflation/). Health systems in developed economies prioritize oncology spending. This secular trend—rooted in demography and epidemiology rather than economic cycles—anchors Galera's long-term prospects.
 
-The company's pipeline emphasizes radiation-induced toxicity mitigation and supportive oncology, areas where unmet medical need is durable. These are not niche conditions tied to specific populations or temporary market demand. Radiation therapy remains a foundational pillar of cancer treatment globally, and patients who suffer from its side effects represent a perpetual patient population. This creates a secular tailwind independent of GDP growth, unemployment rates, or venture funding cycles.
+The company's pipeline emphasizes radiation-induced toxicity mitigation and supportive oncology, areas where unmet medical need is durable. These are not niche conditions tied to specific populations or temporary market demand. Radiation therapy remains a foundational pillar of cancer treatment globally, and patients who suffer from its side effects represent a perpetual patient population. This creates a secular tailwind independent of GDP growth, [unemployment rates](/unemployment-rate/), or venture funding cycles.
 
 ## When Cycles Do Matter: Clinical Timelines and Capital
 
@@ -37,9 +37,9 @@ Each of these steps has its own timeline, independent of economic cycles. A ther
 
 ## Capital Intensity and the Recession Question
 
-Galera's burn rate and cash runway are the practical cyclical exposures. The company must fund operations from equity markets, debt, or partnership revenue until therapies generate sales. In recessions, public-market fundraising becomes harder or more expensive. Dilution accelerates. In booming markets, capital flows freely and runway extends.
+Galera's burn rate and cash runway are the practical cyclical exposures. The company must fund operations from equity markets, debt, or partnership revenue until therapies generate sales. In [recessions](/recession/), public-market fundraising becomes harder or more expensive. Dilution accelerates. In booming markets, [capital flows](/capital-flows/) freely and runway extends.
 
-A ten-year patent runway on a promising therapy means nothing if the company runs out of cash in year five because capital markets froze. Conversely, plentiful capital in a bull market can fund development of therapies that might not reach the market for a decade—a luxury only available when investors price unlimited upside.
+A ten-year patent runway on a promising therapy means nothing if the company runs out of cash in year five because capital markets froze. Conversely, plentiful capital in a [bull market](/bull-market/) can fund development of therapies that might not reach the market for a decade—a luxury only available when investors price unlimited upside.
 
 ## The Secular Narrative Endures
 

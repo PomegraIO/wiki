@@ -17,7 +17,7 @@ keywords: ["non-lethal weapons", "crowd control", "Byrna", "defense technology",
 
 ## New England Military and Defense Heritage
 
-Byrna's location in Massachusetts and broader New England ties it to a region with deep defense contracting roots. Connecticut, Massachusetts, and Rhode Island host major military contractors (Raytheon, General Dynamics, submarine builders) and smaller specialized defense suppliers. Byrna operates in a region where military and law-enforcement procurement officials are accessible, where supply chains for electronics and mechanical components are mature, and where the cultural and regulatory environment supports defense manufacturing. New England's educated workforce and engineering schools provide talent for product development and manufacturing.
+Byrna's location in Massachusetts and broader New England ties it to a region with deep defense contracting roots. Connecticut, Massachusetts, and Rhode Island host major military contractors (Raytheon, [General Dynamics](/gd-stock/), submarine builders) and smaller specialized defense suppliers. Byrna operates in a region where military and law-enforcement procurement officials are accessible, where supply chains for electronics and mechanical components are mature, and where the cultural and regulatory environment supports defense manufacturing. New England's educated workforce and engineering schools provide talent for product development and manufacturing.
 
 This geography confers competitive advantage in procurement relationships. Byrna's sales depend on adopting agencies—police departments, border patrol, federal agencies—selecting and authorizing its products. Geographic proximity to major government buyers (Boston area has federal agencies, Massachusetts State Police is a major potential customer) shortens sales cycles and allows direct relationships with procurement officials. A California-based competitor would need to travel or rely on distributors; Byrna can host site visits and demonstrations locally.
 
@@ -59,7 +59,7 @@ However, this moat is fragile. Larger competitors could manufacture equivalent p
 
 Byrna's growth is tied to demand for non-lethal crowd-control options, which fluctuates with social policy and law enforcement practice. Periods of heightened public concern about police violence increase demand for non-lethal alternatives; police departments adopt non-lethal devices to reduce liability and public criticism. Periods of relative calm may reduce procurement urgency. Byrna's revenue is thus sensitive to political and social geography: a city gripped by crime or experiencing protest will spend on police equipment; a city with low crime may defer purchases.
 
-This creates geographic volatility: Byrna's business is stronger in regions experiencing higher social unrest or regions with aggressive law-enforcement spending. The company cannot easily smooth this by geographic diversification because the drivers are structural shifts in demand at the regional level.
+This creates geographic volatility: Byrna's business is stronger in regions experiencing higher social unrest or regions with aggressive law-enforcement spending. The company cannot easily smooth this by geographic [diversification](/diversification/) because the drivers are structural shifts in demand at the regional level.
 
 <div class="wiki-seealso">
 ### Closely related

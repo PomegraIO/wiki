@@ -25,11 +25,11 @@ Conversely, some government contracts include upfront customer advances—the ag
 
 ## Intangible Assets and Customer Relationships
 
-T3 Defense's true productive assets—its people, expertise, and relationships with federal agency program managers—live largely off the balance sheet. What does appear is intangible goodwill and acquired customer contracts, if the firm has made acquisitions. Defense contracting is relationship-intensive; losing a longstanding program manager or failing to win contract renewals directly impairs future revenue potential. The balance sheet's goodwill and other intangibles may not fully capture this customer relationship value, making the firm more fragile than the balance sheet alone suggests.
+T3 Defense's true productive assets—its people, expertise, and relationships with federal agency program managers—live largely off the balance sheet. What does appear is intangible [goodwill](/goodwill/) and acquired customer contracts, if the firm has made [acquisitions](/acquisition/). Defense contracting is relationship-intensive; losing a longstanding program manager or failing to win contract renewals directly impairs future revenue potential. The balance sheet's goodwill and other intangibles may not fully capture this customer relationship value, making the firm more fragile than the balance sheet alone suggests.
 
 ## Working Capital and Government Payment Delays
 
-Federal agencies are slow payers. T3 Defense may invoice in January but not receive payment until March or April—a 60–90 day lag is common. The balance sheet swells with receivables (billed and unbilled) during contracting periods, and the company must finance this lag with its own cash or working-capital debt. A defense contractor's ability to secure lines of credit is critical to survival; if a bank cuts the line during a credit crunch, the contractor can suddenly face a liquidity crisis despite being profitable on an accrual basis.
+Federal agencies are slow payers. T3 Defense may invoice in January but not receive payment until March or April—a 60–90 day lag is common. The balance sheet swells with receivables (billed and unbilled) during contracting periods, and the company must finance this lag with its own cash or working-capital debt. A defense contractor's ability to secure lines of credit is critical to survival; if a bank cuts the line during a credit crunch, the contractor can suddenly face a [liquidity crisis](/liquidity-crisis/) despite being profitable on an accrual basis.
 
 ## Backlog and Revenue Visibility
 
@@ -41,15 +41,15 @@ T3 Defense's debt level should be evaluated relative to contract backlog, not si
 
 ## Capitalized Contract Costs and Depreciation
 
-T3 Defense may capitalize costs directly attributable to specific contracts—labor, materials, overhead allocated to projects. These capitalized amounts are recorded as assets and matched against revenue as the contract progresses. Unlike a manufacturer that deprecates equipment over years, a contractor often fully recovers contract costs within the contract period. The schedule of capitalized contract costs in the 10-K details this; declining balances indicate contract maturity and revenue recognition.
+T3 Defense may capitalize costs directly attributable to specific contracts—labor, materials, overhead allocated to projects. These capitalized amounts are recorded as assets and matched against revenue as the contract progresses. Unlike a manufacturer that deprecates equipment over years, a contractor often fully recovers contract costs within the contract period. The schedule of capitalized contract costs in the 10-K details this; declining balances indicate contract maturity and [revenue recognition](/revenue-recognition/).
 
 ## Equity and Retained Earnings from Government Work
 
-Unlike commercial contractors where profit margins vary widely, government contractors operate under fixed-price or cost-plus-fee arrangements, limiting upside but also floor downside. A contractor with stable contract wins tends to generate steady, predictable earnings and grow retained earnings consistently. T3 Defense's equity section should show gradual accumulation if the firm is profitable; shrinking equity may signal losses or aggressive dividends despite tightening backlogs.
+Unlike commercial contractors where profit margins vary widely, government contractors operate under fixed-price or cost-plus-fee arrangements, limiting upside but also floor downside. A contractor with stable contract wins tends to generate steady, predictable earnings and grow [retained earnings](/retained-earnings/) consistently. T3 Defense's equity section should show gradual accumulation if the firm is profitable; shrinking equity may signal losses or aggressive [dividends](/dividend/) despite tightening backlogs.
 
 ## Acquisition and Organic Growth Funding
 
-Many defense contractors grow through acquisition of complementary capabilities or customer relationships. T3 Defense's balance sheet includes any acquired goodwill; if acquisitions are accretive (bring in profitable contracts), retained earnings compound. If an acquisition is followed by contract losses, goodwill impairment charges take a non-cash hit to earnings, weakening the balance sheet.
+Many defense contractors grow through acquisition of complementary capabilities or customer relationships. T3 Defense's balance sheet includes any acquired goodwill; if acquisitions are accretive (bring in profitable contracts), retained earnings compound. If an acquisition is followed by contract losses, [goodwill impairment](/goodwill-impairment/) charges take a non-cash hit to earnings, weakening the balance sheet.
 
 ## Compliance, Audits, and Contract Risk
 

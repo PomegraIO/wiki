@@ -31,7 +31,7 @@ Additionally, dermatology indications, while substantial in patient population, 
 
 ## Manufacturing Scale and Contract Dependencies
 
-Pharmaceutical manufacturing for dermatology products typically involves topical formulations, creams, or gels produced in cGMP-compliant facilities. Biodexa, as a small company, likely lacks its own manufacturing capacity and relies on contract manufacturers. This introduces several risks: supply disruptions if the contract manufacturer encounters regulatory issues or capacity constraints; cost inflation if manufacturing costs are higher than anticipated; and loss of flexibility if the company needs to change suppliers or scale production rapidly.
+Pharmaceutical manufacturing for dermatology products typically involves topical formulations, creams, or gels produced in cGMP-compliant facilities. Biodexa, as a small company, likely lacks its own manufacturing capacity and relies on contract manufacturers. This introduces several risks: supply disruptions if the contract manufacturer encounters regulatory issues or capacity constraints; cost [inflation](/inflation/) if manufacturing costs are higher than anticipated; and loss of flexibility if the company needs to change suppliers or scale production rapidly.
 
 For specialty dermatology products, sourcing of active pharmaceutical ingredients (APIs) can also be a bottleneck. If Biodexa depends on a single API supplier (particularly if that supplier operates overseas, e.g., India or China), supply chain disruptions, import restrictions, or supplier failures could halt product supply to market.
 

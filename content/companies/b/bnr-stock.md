@@ -74,7 +74,7 @@ The FDA regulates advertising of diagnostic tests, particularly claims of clinic
 
 ### Wider context
 - [10-K](/10-k/) — Where BNR discloses regulatory risks and reimbursement challenges
-- [Stock](/stock/) — How investors value diagnostic companies against their regulatory and market risks
+- [Stock](/stock/) — How investors value diagnostic companies against their regulatory and [market risks](/market-risk/)
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — The regulator monitoring Burning Rock's disclosures
 
 </div>

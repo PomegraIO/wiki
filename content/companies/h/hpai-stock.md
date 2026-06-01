@@ -17,7 +17,7 @@ keywords: [artificial intelligence, machine learning, software, technology, star
 
 ## The Moat Problem in AI
 
-Helport's models, if not backed by proprietary data or a unique training methodology, can be replicated or superseded. The AI landscape is crowded: OpenAI, Google, Meta, Microsoft, and other giants offer large language models or AI-as-a-service that are often free or cheap to access. A startup AI company must either (a) own exclusive data, (b) solve a specialized problem that larger players ignore, or (c) build a brand and customer lock-in. Helport faces the burden of proving it has one of these moats. If it does not, customers can easily switch to cheaper or more capable competitors.
+Helport's models, if not backed by proprietary data or a unique training methodology, can be replicated or superseded. The AI landscape is crowded: OpenAI, Google, Meta, [Microsoft](/msft-stock/), and other giants offer large language models or AI-as-a-service that are often free or cheap to access. A startup AI company must either (a) own exclusive data, (b) solve a specialized problem that larger players ignore, or (c) build a brand and customer lock-in. Helport faces the burden of proving it has one of these moats. If it does not, customers can easily switch to cheaper or more capable competitors.
 
 ## Customer Acquisition and Sales Risk
 
@@ -49,7 +49,7 @@ Early-stage AI startups often have a small number of large customers. Loss of a 
 
 ## Path to Profitability Unclear
 
-Many AI startups have positive unit economics (per customer or per transaction) but still burn cash because customer acquisition and R&D costs exceed revenue. Helport's path to profitability depends on customer retention and margin expansion—neither guaranteed. If the company cannot raise additional venture capital, it may be forced to sell at a down-round or shut down operations.
+Many AI startups have positive unit economics (per customer or per transaction) but still burn cash because customer [acquisition](/acquisition/) and R&D costs exceed revenue. Helport's path to profitability depends on customer retention and margin expansion—neither guaranteed. If the company cannot raise additional venture capital, it may be forced to sell at a down-round or shut down operations.
 
 ## Integration and Switching Costs
 

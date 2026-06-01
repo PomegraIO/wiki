@@ -4,7 +4,7 @@ description: "A specialty finance and mortgage lending platform whose balance sh
 keywords: ["mortgage lending", "mortgage servicing", "loan origination", "asset-light model", "financial intermediary"]
 ---
 
-*The **Forge Group, Inc. (FIGP)** balance sheet is less a repository of durable assets and more a pipeline—a sequence of mortgages flowing in one end (from originators or acquisitions), held briefly, and sold out the other. What FIGP owns is largely temporary: loans in process, servicing rights on mortgages sold, and warehouse facilities to fund originations. The business is fees and gains, not long-duration asset yields.*
+*The **Forge Group, Inc. (FIGP)** balance sheet is less a repository of durable assets and more a pipeline—a sequence of mortgages flowing in one end (from originators or [acquisitions](/acquisition/)), held briefly, and sold out the other. What FIGP owns is largely temporary: loans in process, servicing rights on mortgages sold, and warehouse facilities to fund originations. The business is fees and gains, not long-duration asset yields.*
 
 <aside class="wiki-infobox">
 <table>
@@ -19,25 +19,25 @@ keywords: ["mortgage lending", "mortgage servicing", "loan origination", "asset-
 
 ## The Originate-to-Distribute Model
 
-Forge Group originates mortgages (primarily residential) and sells most of them to investors (government-sponsored enterprises, banks, asset managers) within weeks of closing. The mortgages become assets on FIGP's balance sheet briefly—held at fair value pending sale. Gains or losses on sale flow through earnings. This model minimizes duration risk (FIGP does not hold a long-dated mortgage portfolio subject to interest-rate revaluation) but creates origination risk: if mortgage demand falls, origination volume drops, and earnings collapse.
+Forge Group originates mortgages (primarily residential) and sells most of them to investors (government-sponsored enterprises, banks, asset managers) within weeks of closing. The mortgages become assets on FIGP's balance sheet briefly—held at [fair value](/fair-value/) pending sale. Gains or losses on sale flow through earnings. This model minimizes duration risk (FIGP does not hold a long-dated mortgage portfolio subject to interest-rate revaluation) but creates origination risk: if mortgage demand falls, origination volume drops, and earnings collapse.
 
-Unlike a traditional bank that originates mortgages and holds them for yield, FIGP is an intermediary. Its earnings come from loan origination fees (charged to borrowers), yield-spread premiums (earned by originating mortgages at rates above wholesale rates), and later, servicing fees on loans it retains servicing rights for after sale.
+Unlike a traditional bank that originates mortgages and holds them for yield, FIGP is an intermediary. Its earnings come from [loan origination fees](/loan-origination-fees/) (charged to borrowers), yield-spread premiums (earned by originating mortgages at rates above wholesale rates), and later, servicing fees on loans it retains servicing rights for after sale.
 
 ## Warehouse Facilities and Leverage
 
 To fund mortgages from origination until sale, Forge Group operates warehouse facilities—short-term borrowing secured by the mortgages themselves. The company borrows from banks or specialty lenders, using loans as collateral, and repays when the mortgages are sold. Warehouse debt is a working-capital tool, not permanent financing. But it carries interest costs and covenants. If mortgage volume surges, warehouse borrowing rises; if mortgages take longer to sell, interest costs accumulate.
 
-Warehouse facilities typically have advance rates (the bank lends, say, 80% of loan value, not 100%) and are marked to market regularly. If home prices fall or loan quality deteriorates, the collateral value drops, and FIGP may face margin calls—demands to post additional capital. In a market dislocation (a credit event or rate shock that freezes mortgage-backed-securities markets), warehouse facilities can dry up entirely, forcing FIGP to halt originations or liquidate inventory at fire-sale prices.
+Warehouse facilities typically have advance rates (the bank lends, say, 80% of loan value, not 100%) and are marked to market regularly. If home prices fall or loan quality deteriorates, the collateral value drops, and FIGP may face [margin calls](/margin-call-forex/)—demands to post additional capital. In a market dislocation (a [credit event](/credit-event-sovereign/) or rate shock that freezes mortgage-backed-securities markets), warehouse facilities can dry up entirely, forcing FIGP to halt originations or liquidate inventory at fire-sale prices.
 
 ## Mortgage Servicing Rights
 
-After FIGP sells a mortgage, it often retains the right to service it—collect payments, manage escrows, handle defaults, and earn fees. Mortgage servicing rights (MSRs) are intangible assets valued based on the present value of expected servicing fee streams. The balance sheet carries MSRs as assets; they decline in value if mortgage payoff rates accelerate (when rates fall and borrowers refinance) or if servicing costs rise.
+After FIGP sells a mortgage, it often retains the right to service it—collect payments, manage escrows, handle defaults, and earn fees. Mortgage servicing rights (MSRs) are [intangible assets](/intangible-assets/) valued based on the present value of expected servicing fee streams. The balance sheet carries MSRs as assets; they decline in value if mortgage payoff rates accelerate (when rates fall and borrowers refinance) or if servicing costs rise.
 
 MSRs are economically hedged: as rates fall and MSR values fall (because mortgages pay off), FIGP receives fewer fees, so the lower asset value matches lower future cash flows. But this hedge is not perfect. A rapid rate decline can cause marked-to-market losses on MSRs while the economic loss takes years to play out. The balance sheet can be volatile—swings in rate expectations move MSR valuations sharply.
 
 ## Gain-on-Sale Volatility
 
-Forge Group's most visible earnings line is gain on sale of mortgages. This gain is the difference between the price at which FIGP sells a mortgage and its cost basis (principal funded plus fees paid to originate). Gain on sale fluctuates with market conditions: when mortgage demand is strong and investors bid aggressively for loans, gains expand; when demand weakens (say, after a Fed rate hike), competitive pressure narrows gain margins.
+Forge Group's most visible earnings line is gain on sale of mortgages. This gain is the difference between the price at which FIGP sells a mortgage and its [cost basis](/cost-basis/) (principal funded plus fees paid to originate). Gain on sale fluctuates with market conditions: when mortgage demand is strong and investors bid aggressively for loans, gains expand; when demand weakens (say, after a Fed rate hike), competitive pressure narrows gain margins.
 
 Gain on sale is not a durable stream like interest yield on a held loan portfolio. It is cyclical, driven by mortgage volumes and secondary-market prices. In boom years (when rates are falling and refinancing is heavy), gains are large and origination volume surges. In downturns (when rates are rising and volumes collapse), gains shrink or disappear.
 

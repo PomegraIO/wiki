@@ -27,7 +27,7 @@ BigBear emerged from this gap: a specialized software firm committed to building
 
 For most of its existence, BigBear operated as a private company, a typical structure for defense contractors serving classified and sensitive government programs. The firm built relationships with career program managers within the Department of Defense, the Defense Intelligence Agency, and other agencies, and it gradually expanded beyond pure analytics into adjacent software domains—eventually spanning data management, cyber security, and AI/ML platforms used across the defense enterprise.
 
-In 2021, BigBear merged with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) called Universe Acquisition Corp., a common path to public markets for venture-backed or strategically valuable companies seeking speed over traditional IPO processes. The SPAC merger allowed BigBear to become a [public company](/public-company/) listed on NASDAQ under the ticker BBAI, raising capital for growth and establishing a public [stock](/stock/) through which investors could directly own an interest in a leading defense AI firm.
+In 2021, BigBear merged with a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) called Universe [Acquisition](/acquisition/) Corp., a common path to public markets for venture-backed or strategically valuable companies seeking speed over traditional IPO processes. The SPAC merger allowed BigBear to become a [public company](/public-company/) listed on [NASDAQ](/nasdaq/) under the ticker BBAI, raising capital for growth and establishing a public [stock](/stock/) through which investors could directly own an interest in a leading defense AI firm.
 
 ## Business Model: Government Procurement and Scaling
 
@@ -43,7 +43,7 @@ BigBear's platform serves as a data integration and analytics backbone for vario
 
 The technical defensibility of BigBear's position rests on several factors: first, the security clearance and systems integration expertise required to work within classified environments; second, the domain-specific models and algorithms optimized for intelligence workflows rather than generic use cases; third, the existing relationships and installed base within defense agencies; and fourth, the classified nature of specific capabilities and performance characteristics that cannot be directly replicated by competitors without access to the same intelligence streams and operational context.
 
-Competition in defense analytics comes from larger aerospace and defense contractors (Lockheed Martin, Northrop Grumman, Raytheon Technologies) that have acquired or built similar capabilities, as well as smaller specialized firms. The incumbent advantage of larger contractors lies in their diversification and established relationships with military procurement; BigBear's advantage lies in specialized focus and agility in adopting emerging AI/ML techniques.
+Competition in defense analytics comes from larger aerospace and defense contractors ([Lockheed Martin](/lmt-stock/), Northrop Grumman, Raytheon Technologies) that have acquired or built similar capabilities, as well as smaller specialized firms. The incumbent advantage of larger contractors lies in their [diversification](/diversification/) and established relationships with military procurement; BigBear's advantage lies in specialized focus and agility in adopting emerging AI/ML techniques.
 
 ## Public Markets and National Security Implications
 
@@ -57,7 +57,7 @@ BigBear's forward strategy hinges on whether the U.S. government continues prior
 ### Closely related
 - [stock](/stock/) — Public equity ownership and liquidity
 - [public-company](/public-company/) — SEC compliance and governance structures
-- [special-purpose-acquisition-company](/special-purpose-acquisition-company/) — SPAC mergers as an IPO alternative
+- [special-purpose-acquisition-company](/special-purpose-acquisition-company/) — SPAC [mergers](/merger/) as an IPO alternative
 
 ### Wider context
 - [securities-and-exchange-commission](/securities-and-exchange-commission/) — Regulatory oversight of public companies

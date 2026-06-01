@@ -4,7 +4,7 @@ description: "Independent petroleum refiner and biofuels producer, with majority
 keywords: [refining, petroleum, biofuels, ethanol, nitrogen fertilizer, midstream partnerships, commodity refining]
 ---
 
-*CVR Energy (CVI) refines crude oil into gasoline and diesel at two Kansas plants, makes ethanol and renewable diesel from corn and soybeans, and owns stakes in trucking and ammonia-production ventures that feed its main business.*
+*CVR Energy (CVI) refines [crude oil](/crude-oil/) into gasoline and diesel at two Kansas plants, makes ethanol and renewable diesel from corn and soybeans, and owns stakes in trucking and ammonia-production ventures that feed its main business.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>CVI</td></tr>
@@ -21,19 +21,19 @@ CVR Energy owns two refineries in Kansas, one in Coffeyville, one in Wynnewood, 
 
 Refining economics are straightforward in principle but volatile in practice. A refiner buys crude at the wholesale price, transforms it, and sells the outputs (gasoline, diesel, kerosene) at product prices. The margin is the difference: buy crude low, sell gasoline higher, pocket the spread. The spread widens when crude prices drop or gasoline prices hold steady or rise. The spread compresses when crude rises faster than product prices or demand for fuel sags.
 
-CVR's two plants are not among the largest in the United States, but they are real, operating industrial facilities. Each facility has capacity and efficiency curves. During seasonal demand swings—winter heating oil, summer gasoline—CVR adjusts what it produces and how it runs the plants. The company also owns spare capacity that it can bring online if product margins are attractive, or it can dial back if margins turn ugly.
+CVR's two plants are not among the largest in the United States, but they are real, operating industrial facilities. Each facility has capacity and efficiency curves. During seasonal demand swings—winter [heating oil](/heating-oil/), summer gasoline—CVR adjusts what it produces and how it runs the plants. The company also owns spare capacity that it can bring online if product margins are attractive, or it can dial back if margins turn ugly.
 
 ## The Biofuels Angle
 
-CVR also operates ethanol production (corn feedstock) and renewable diesel plants (soybean oil feedstock). These are separate profit centers with different economics. Ethanol is a fuel additive and a fuel on its own; it trades on its own price curve. CVR makes ethanol from corn and sells it into the fuel pool. Renewable diesel is a drop-in replacement for conventional diesel, made from vegetable oils. It is a younger business than ethanol but growing as regulations and climate policies favor low-carbon fuels.
+CVR also operates ethanol production (corn feedstock) and renewable diesel plants ([soybean oil](/soybean-oil/) feedstock). These are separate profit centers with different economics. Ethanol is a fuel additive and a fuel on its own; it trades on its own price curve. CVR makes ethanol from corn and sells it into the fuel pool. Renewable diesel is a drop-in replacement for conventional diesel, made from vegetable oils. It is a younger business than ethanol but growing as regulations and climate policies favor low-carbon fuels.
 
 Biofuel margins depend on the feedstock cost (corn, soybean oil) and the output price (ethanol, renewable diesel). A year when corn is cheap and ethanol prices are high is a great year for ethanol producers. A year when soybean oil is expensive and renewable diesel prices are flat is tough. Unlike refining, which can shift mix to chase margins, biofuels plants are more dedicated—a corn ethanol plant makes ethanol, and the margin is the simple spread between corn cost and ethanol selling price.
 
 ## Midstream Ownership: CVR Partners
 
-CVR Energy is the majority owner of CVR Partners, a limited partnership that owns logistics assets and the Wynnewood nitrogen fertilizer plant. CVR Partners operates crude-oil storage and transfer facilities that move crude into CVR Energy's refineries and transport refined products out. CVR Energy is the main customer of CVR Partners. This vertical integration means CVR Energy pays the partnership for logistics services, but the economics flow to the parent.
+CVR Energy is the majority owner of [CVR Partners](/uan-stock/), a limited partnership that owns logistics assets and the Wynnewood nitrogen fertilizer plant. CVR Partners operates crude-oil storage and transfer facilities that move crude into CVR Energy's refineries and transport refined products out. CVR Energy is the main customer of CVR Partners. This vertical integration means CVR Energy pays the partnership for logistics services, but the economics flow to the parent.
 
-The nitrogen business is distinct. CVR Partners makes ammonia and nitrogen fertilizer products at Wynnewood. Fertilizer is a commodity. Prices move on global supply, crop demand, and natural gas costs (natural gas is the main input). When crop prices are high, farmers buy more fertilizer; demand and prices rise. When natural gas is expensive, ammonia costs climb and margins compress.
+The nitrogen business is distinct. CVR Partners makes ammonia and nitrogen fertilizer products at Wynnewood. Fertilizer is a commodity. Prices move on global supply, crop demand, and [natural gas](/natural-gas/) costs (natural gas is the main input). When crop prices are high, farmers buy more fertilizer; demand and prices rise. When natural gas is expensive, ammonia costs climb and margins compress.
 
 ## Geographic and Market Constraints
 

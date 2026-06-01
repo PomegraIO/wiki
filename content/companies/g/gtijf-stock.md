@@ -24,7 +24,7 @@ On the supply side, GRAPHJET depends on precursor materials—primarily graphite
 
 ## Downstream Applications and Proof-of-Concept Demands
 
-GRAPHJET's customers are not impulse buyers. They are engineers at major aerospace, automotive, and electronics manufacturers who specify materials in designs that may enter production for years. Before switching from known, proven materials (traditional carbon fiber, aluminum, conventional coatings) to graphene-enhanced alternatives, they demand proof: samples that meet specifications, batch-to-batch consistency, supply reliability, and cost models that pencil out over the lifetime of the product. This means GRAPHJET's customer acquisition is slow. A single win—say, graphene-reinforced composite for a aircraft fuselage or an automotive structural component—can take years from first conversation to production qualification. But once a customer qualifies GRAPHJET's material in a large-volume application, the revenue potential is substantial.
+GRAPHJET's customers are not impulse buyers. They are engineers at major aerospace, automotive, and electronics manufacturers who specify materials in designs that may enter production for years. Before switching from known, proven materials (traditional carbon fiber, aluminum, conventional coatings) to graphene-enhanced alternatives, they demand proof: samples that meet specifications, batch-to-batch consistency, supply reliability, and cost models that pencil out over the lifetime of the product. This means GRAPHJET's customer [acquisition](/acquisition/) is slow. A single win—say, graphene-reinforced composite for a aircraft fuselage or an automotive structural component—can take years from first conversation to production qualification. But once a customer qualifies GRAPHJET's material in a large-volume application, the revenue potential is substantial.
 
 ## The Pricing Paradox
 
@@ -44,7 +44,7 @@ One pathway for GRAPHJET to strengthen its position is vertical integration. Rat
 
 ## Market Timing and Inflection
 
-GRAPHJET's story ultimately depends on market timing. If graphene applications reach an inflection point—a handful of major wins that trigger broader adoption—GRAPHJET's position is exceptionally valuable. If the inflection point remains distant or never arrives, GRAPHJET becomes another materials startup that ran out of capital before proving commercial viability. The company's [10-K](/10-k/) disclosures and [earnings](/earnings-per-share/) reports will reveal how far its customer pipeline has advanced and whether it is moving toward profitability or burning cash at an accelerating rate.
+GRAPHJET's story ultimately depends on [market timing](/market-timing/). If graphene applications reach an inflection point—a handful of major wins that trigger broader adoption—GRAPHJET's position is exceptionally valuable. If the inflection point remains distant or never arrives, GRAPHJET becomes another materials startup that ran out of capital before proving commercial viability. The company's [10-K](/10-k/) disclosures and [earnings](/earnings-per-share/) reports will reveal how far its customer pipeline has advanced and whether it is moving toward profitability or burning cash at an accelerating rate.
 
 <div class="wiki-seealso">
 

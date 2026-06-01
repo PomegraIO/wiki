@@ -23,7 +23,7 @@ This specificity advantage grows with tenure. A long-standing relationship with 
 
 ## Market Position: The Unglamorous Necessity
 
-MICROALLIANCE operates in the shadow of giants like IBM, Accenture, and Deloitte, but it competes in a different stratum: smaller, more specialized engagements where enterprise customers want a boutique firm rather than a sprawling consulting behemoth. The firm's smaller scale is actually a market advantage—it can staff projects more cheaply than tier-one players and move faster without the bureaucratic overhead of a global organization.
+MICROALLIANCE operates in the shadow of giants like IBM, [Accenture](/acn-stock/), and Deloitte, but it competes in a different stratum: smaller, more specialized engagements where enterprise customers want a boutique firm rather than a sprawling consulting behemoth. The firm's smaller scale is actually a market advantage—it can staff projects more cheaply than tier-one players and move faster without the bureaucratic overhead of a global organization.
 
 The target customer is not a Fortune 10 company with an entire CIO staff. It is the regional bank, the mid-cap insurance carrier, the manufacturing conglomerate with fragmented legacy systems and limited in-house technical depth. These organizations need systems integration work but lack the volume to justify lengthy negotiations with Accenture or the cost premium those firms command. MICROALLIANCE fills the gap: large enough to handle complex projects, small enough to be accessible and locally responsive.
 
@@ -33,11 +33,11 @@ The barriers to MICROALLIANCE's position are not high by the standards of softwa
 
 MICROALLIANCE's moat also includes its reputation for reliability in a domain where failure is expensive. A botched systems integration project can cost a customer millions in downtime and remediation. In such an environment, customer selection gravitates toward firms with demonstrable track records in the specific vertical. MICROALLIANCE's past work—the successful integrations completed, the complex architectures navigated—becomes a credential that newer or less-specialized competitors must build from scratch.
 
-The firm's customer retention is another facet of the moat. Once MICROALLIANCE has done integration work for a client, that customer is likely to return with follow-on projects as systems age, technologies evolve, or new business initiatives require additional platform linking. This recurring revenue pattern reduces customer acquisition costs relative to firms chasing new business perpetually.
+The firm's customer retention is another facet of the moat. Once MICROALLIANCE has done integration work for a client, that customer is likely to return with follow-on projects as systems age, technologies evolve, or new business initiatives require additional platform linking. This recurring revenue pattern reduces customer [acquisition](/acquisition/) costs relative to firms chasing new business perpetually.
 
 ## Limitations and Erosion Points
 
-The moat is not impenetrable. Large consulting firms are increasingly willing to specialize in niche verticals and price competitively to defend market share. Technology giants—Microsoft, Amazon, Google—are building managed services arms that integrate enterprise systems as part of their cloud offerings, potentially crowding out independent integrators over time.
+The moat is not impenetrable. Large consulting firms are increasingly willing to specialize in niche verticals and price competitively to defend market share. Technology giants—[Microsoft](/msft-stock/), Amazon, Google—are building managed services arms that integrate enterprise systems as part of their cloud offerings, potentially [crowding out](/crowding-out/) independent integrators over time.
 
 MICROALLIANCE is also vulnerable to commoditization of integration work. As cloud platforms and off-the-shelf integration tools (iPaaS platforms, API management layers) mature, the level of custom engineering required may decline. A customer might migrate from complex integration projects to configuration of pre-built connectors, reducing the stickiness of bespoke integration expertise.
 

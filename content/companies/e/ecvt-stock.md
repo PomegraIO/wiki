@@ -17,7 +17,7 @@ keywords: ["ecovyst", "catalysts", "specialty chemicals", "petrochemical", "refi
 
 ## How Catalysts Reach Industrial Plants
 
-A catalyst is a material that speeds a chemical reaction without being consumed—oil refineries inject hydrocracking catalysts to convert heavy crude oil fractions into lighter products like gasoline and diesel; petrochemical plants use catalysts to synthesize plastics and alcohols; environmental-control systems use catalysts to convert NOx pollutants to nitrogen and water. Ecovyst manufactures these catalysts, which are specialized, engineered materials requiring precise chemistry and physical structure.
+A catalyst is a material that speeds a chemical reaction without being consumed—oil refineries inject hydrocracking catalysts to convert heavy [crude oil](/crude-oil/) fractions into lighter products like gasoline and diesel; petrochemical plants use catalysts to synthesize plastics and alcohols; environmental-control systems use catalysts to convert NOx pollutants to nitrogen and water. Ecovyst manufactures these catalysts, which are specialized, engineered materials requiring precise chemistry and physical structure.
 
 Manufacturing a catalyst starts with selection of raw materials—metal oxides, zeolites, activated carbon, or polymer resins—that are combined, shaped, and treated to create the right structure and surface chemistry. A hydrocracking catalyst might consist of a porous alumina support impregnated with nickel or molybdenum metal. A selective catalytic reduction (SCR) catalyst for power-plant emissions control might be vanadium oxide on a titanium dioxide base. Each composition is designed for a specific reaction and is therefore engineered to specification.
 
@@ -33,7 +33,7 @@ The company therefore maintains close relationships with customers' process engi
 
 Catalysts have defined useful lives. A hydrocracking catalyst might operate for six months to two years before activity declines and the reactor must be unloaded, the spent catalyst removed, and fresh catalyst charged. This creates recurring replacement demand. Ecovyst therefore sells not just one-time initial charges but also replacement batches. A major refinery with multiple hydrocracking reactors generates steady catalyst orders.
 
-However, catalyst demand is directly linked to refining and chemical production volume. During economic downturns when refineries run at lower utilization, they stretch catalyst life and defer replacement. Ecovyst's revenue therefore falls in recessions. Conversely, high oil prices and strong chemical demand increase production, driving incremental catalyst orders.
+However, catalyst demand is directly linked to refining and chemical production volume. During economic downturns when refineries run at lower utilization, they stretch catalyst life and defer replacement. Ecovyst's revenue therefore falls in [recessions](/recession/). Conversely, high oil prices and strong chemical demand increase production, driving incremental catalyst orders.
 
 The company also faces product-specific risks. Environmental regulations pushing refineries toward lower-sulfur fuel blends require different catalysts than high-sulfur processing. Regulations mandating emissions control catalysts on power plants or furnaces create new markets but also render old catalyst products obsolete. Ecovyst must continuously invest in R&D to develop next-generation catalysts aligned with evolving refinery configurations and environmental standards.
 

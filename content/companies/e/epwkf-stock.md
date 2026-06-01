@@ -21,7 +21,7 @@ EPWK is a Canadian issuer filing voluntarily with the US SEC, which means its Fo
 
 ## Facility Capacity as the Core Operational Driver
 
-Cannabis producers are, at their core, agricultural-industrial businesses constrained by plant counts and facility space. The 40-F will disclose EPWK's licensed growing footprint in square meters or square feet, broken down by facility location and license type (standard cultivation, microbiology lab, processing). A key metric: grams of dried cannabis produced per square meter per year. This is your throughput indicator. If EPWK has 100,000 square meters licensed but only 60,000 square meters fully operational, it signals unfinished buildout or regulatory delays. The company's capital expenditure plans will be outlined in MD&A; look for timelines on new facility openings. Each new facility represents step-function changes in capacity and should be traceable through the cash flow statement as "purchases of property and equipment."
+Cannabis producers are, at their core, agricultural-industrial businesses constrained by plant counts and facility space. The 40-F will disclose EPWK's licensed growing footprint in square meters or square feet, broken down by facility location and license type (standard cultivation, microbiology lab, processing). A key metric: grams of dried cannabis produced per square meter per year. This is your throughput indicator. If EPWK has 100,000 square meters licensed but only 60,000 square meters fully operational, it signals unfinished buildout or regulatory delays. The company's capital expenditure plans will be outlined in MD&A; look for timelines on new facility openings. Each new facility represents step-function changes in capacity and should be traceable through the [cash flow statement](/cash-flow-statement/) as "purchases of property and equipment."
 
 ## Revenue Recognition in Wholesale vs. Retail
 
@@ -41,7 +41,7 @@ Many cannabis producers own retail chains or have exclusive wholesale agreements
 
 ## Foreign Issuer Governance and Currency
 
-EPWK reports in Canadian dollars; the 40-F includes a translated balance sheet at period-end exchange rates and an income statement translated at average rates. A rising USD relative to CAD unfavorably translates EPWK's earnings when converted to dollars for US investors, even if CAD-denominated operations are flat. This currency drag is partly financial engineering and partly real (if EPWK needs to service US dollar debt or repay US investors). Check the notes to the financial statements for any US dollar denominated loans or commitments.
+EPWK reports in [Canadian dollars](/canadian-dollar/); the 40-F includes a translated [balance sheet](/balance-sheet/) at period-end exchange rates and an [income statement](/income-statement/) translated at average rates. A rising USD relative to CAD unfavorably translates EPWK's earnings when converted to dollars for US investors, even if CAD-denominated operations are flat. This currency drag is partly financial engineering and partly real (if EPWK needs to service [US dollar](/us-dollar/) debt or repay US investors). Check the notes to the financial statements for any US dollar denominated loans or commitments.
 
 ## Market Saturation and Competitive Positioning
 

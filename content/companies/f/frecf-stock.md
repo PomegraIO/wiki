@@ -4,7 +4,7 @@ description: "Small-cap over-the-counter traded company with SEC filing CIK 1816
 keywords: [OTC markets, penny stocks, micro-cap stocks, trading, small-cap disclosure, SEC CIK]
 ---
 
-*Frequency Exchange Corp. trades as **FRECF** on over-the-counter markets and files with the SEC under CIK 1816133. The company represents a category of micro-cap entities listed in US markets but trading with limited liquidity, restricted analyst coverage, and sparse public disclosure.*
+*Frequency Exchange Corp. trades as **FRECF** on [over-the-counter markets](/over-the-counter-market/) and files with the SEC under CIK 1816133. The company represents a category of micro-cap entities listed in US markets but trading with limited liquidity, restricted analyst coverage, and sparse public disclosure.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FRECF</td></tr>
@@ -23,7 +23,7 @@ For most companies, the question of cyclical vs. secular exposure is tractable b
 
 ## Illiquidity and Micro-Cap Volatility
 
-Frequency Exchange's shares trade on the OTC Pink Sheets, a market far less liquid than the NASDAQ or NYSE. Bid-ask spreads are wide. Shares can be difficult to exit at short notice without moving the price significantly. Volume is low and sporadic. For a retail investor, illiquidity means owning a position that may be impossible to sell quickly if conditions worsen. For a fund or large investor, the inability to build a meaningful position without driving up the share price makes Frequency Exchange impractical as a core holding. This illiquidity is not a temporary feature; it is structural to micro-cap OTC trading.
+Frequency Exchange's shares trade on the [OTC Pink](/otc-pink/) Sheets, a market far less liquid than the [NASDAQ](/nasdaq/) or NYSE. [Bid-ask spreads](/bid-ask-spread/) are wide. Shares can be difficult to exit at short notice without moving the price significantly. Volume is low and sporadic. For a retail investor, illiquidity means owning a position that may be impossible to sell quickly if conditions worsen. For a fund or large investor, the inability to build a meaningful position without driving up the share price makes Frequency Exchange impractical as a core holding. This illiquidity is not a temporary feature; it is structural to micro-cap OTC trading.
 
 ## Penny-Stock Risks and Promotional Dynamics
 
@@ -39,15 +39,15 @@ Without clear public disclosure about Frequency Exchange's sector, market focus,
 
 ## Insolvency and Going-Concern Risk
 
-Many micro-cap OTC companies are technically insolvent or near insolvency but remain trading because they hold illiquid assets or because shareholders have not yet redeemed equity. A 10-K that discloses substantial losses, negative working capital, or a "going concern" qualification from an auditor is a red flag. Frequency Exchange may face a scenario in which its cash runs out, it cannot raise more capital, and it must file for bankruptcy or dissolve. Shareholders are then left with nothing.
+Many micro-cap OTC companies are technically insolvent or near insolvency but remain trading because they hold illiquid assets or because shareholders have not yet redeemed equity. A 10-K that discloses substantial losses, negative working capital, or a "[going concern](/going-concern/)" qualification from an auditor is a red flag. Frequency Exchange may face a scenario in which its cash runs out, it cannot raise more capital, and it must file for bankruptcy or dissolve. Shareholders are then left with nothing.
 
 ## Regulatory and Compliance Issues
 
-OTC companies face lower regulatory scrutiny than NASDAQ or NYSE listed firms. A company that fails to file timely reports, discloses related-party transactions without full transparency, or lacks proper audit controls may be subject to SEC enforcement or delisting. Frequency Exchange's filing history and any citations or warnings from the SEC should be reviewed carefully.
+OTC companies face lower regulatory scrutiny than NASDAQ or NYSE listed firms. A company that fails to file timely reports, discloses related-party transactions without full transparency, or lacks proper audit controls may be subject to [SEC enforcement](/sec-enforcement/) or delisting. Frequency Exchange's filing history and any citations or warnings from the SEC should be reviewed carefully.
 
 ## No Path to Fundamental Valuation
 
-A [price-to-earnings ratio](/price-to-earnings-ratio/), [price-to-book ratio](/price-to-book-ratio/), or [free-cash-flow](/free-cash-flow/) valuation is impossible if the company loses money or generates near-zero cash. An investor must rely on comparative valuation (comparing Frequency Exchange's metrics to peers), venture-style scenario analysis, or pure speculation. Most OTC stocks trade on sentiment, historical momentum, or promotional claims rather than on rational valuation. A reader should assume that any price is as likely to be inflated as realistic.
+A [price-to-earnings ratio](/price-to-earnings-ratio/), [price-to-book ratio](/price-to-book-ratio/), or [free-cash-flow](/free-cash-flow/) valuation is impossible if the company loses money or generates near-zero cash. An investor must rely on comparative valuation (comparing Frequency Exchange's metrics to peers), venture-style [scenario analysis](/scenario-analysis/), or pure speculation. Most OTC stocks trade on sentiment, historical momentum, or promotional claims rather than on rational valuation. A reader should assume that any price is as likely to be inflated as realistic.
 
 ---
 

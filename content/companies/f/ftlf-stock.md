@@ -4,7 +4,7 @@ description: "Consumer health and nutrition company born from a founder's person
 keywords: [supplements, nutrition, health products, consumer goods, wellness]
 ---
 
-*From a bootstrapped origin story rooted in personal health transformation, **FITLIFE BRANDS, INC. (FTLF)** grew into a publicly-traded consumer health company. Founded to commercialize proprietary supplement and nutrition formulations, the company evolved through direct-to-consumer channels, retail partnerships, and acquisitions into a multi-brand portfolio in the high-margin, lightly-regulated dietary supplement category.*
+*From a bootstrapped origin story rooted in personal health transformation, **FITLIFE BRANDS, INC. (FTLF)** grew into a publicly-traded consumer health company. Founded to commercialize proprietary supplement and nutrition formulations, the company evolved through direct-to-consumer channels, retail partnerships, and [acquisitions](/acquisition/) into a multi-brand portfolio in the high-margin, lightly-regulated dietary supplement category.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FTLF</td></tr>
@@ -43,7 +43,7 @@ Each acquisition meant Fitlife was now managing multiple brands, multiple supply
 
 The dietary supplement industry operates in a regulatory gray zone relative to pharmaceuticals. Supplements are not subject to FDA approval before sale; they are regulated as foods under the Dietary Supplement Health and Education Act (DSHEA). This lighter regulatory load means lower barriers to entry and faster time-to-market, but also means fewer defensible moats—anyone can formulate and sell a supplement if they follow labeling rules. Fitlife's competitive advantage lay in brand strength, influencer relationships, and manufacturing efficiency, not in patent protection or regulatory exclusivity.
 
-The high margins on supplements (cost of goods often 10-20% of retail price) make the category attractive for [public companies](/public-company/), but also make it a target for competition. Established consumer-goods companies (Nestlé, Unilever) have entered the supplement space through acquisitions; direct-to-consumer startups have proliferated; and retail consolidation (fewer, larger chains) has increased pressure on supplement brands to negotiate shelf space and promotional support.
+The high margins on supplements (cost of goods often 10-20% of retail price) make the category attractive for [public companies](/public-company/), but also make it a target for competition. Established consumer-goods companies (Nestlé, [Unilever](/ul-stock/)) have entered the supplement space through acquisitions; direct-to-consumer startups have proliferated; and retail consolidation (fewer, larger chains) has increased pressure on supplement brands to negotiate shelf space and promotional support.
 
 ## Public-Markets Pressure and Transition
 

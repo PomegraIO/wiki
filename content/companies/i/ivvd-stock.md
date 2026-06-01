@@ -33,7 +33,7 @@ Early-stage biotech companies do not generate revenue and instead burn cash on r
 
 ## Competitive and IP Landscape
 
-The filings note competition from other antibody developers, small-molecule antivirals, and vaccine manufacturers. Invivyd's intellectual property position—patents on its platform and on specific antibody candidates—is critical to value; the 10-K references patent applications, grants, and their expiration dates. If a competitor develops a superior antibody or if key patents are invalidated, Invivyd's prospects dim sharply. The regulatory filings also acknowledge that monoclonal antibodies in the respiratory space face competition from established companies with more resources and further-advanced programs. Invivyd must differentiate on superior breadth, durability, or manufacturing efficiency, claims that must be validated in clinical trials.
+The filings note competition from other antibody developers, small-molecule antivirals, and vaccine manufacturers. Invivyd's intellectual property position—patents on its platform and on specific antibody candidates—is critical to value; the 10-K references patent applications, grants, and their [expiration dates](/expiration-contracts/). If a competitor develops a superior antibody or if key patents are invalidated, Invivyd's prospects dim sharply. The regulatory filings also acknowledge that monoclonal antibodies in the respiratory space face competition from established companies with more resources and further-advanced programs. Invivyd must differentiate on superior breadth, durability, or manufacturing efficiency, claims that must be validated in clinical trials.
 
 ## Manufacturing and Supply Chain Risk
 
@@ -41,7 +41,7 @@ Monoclonal antibodies are manufactured in cell culture (typically mammalian cell
 
 ## Path to Value and Exit Scenarios
 
-The filing disclosures suggest several outcomes: (1) clinical success leading to regulatory approval and commercialization via partnerships or direct sales; (2) clinical failure, leading to cessation of the program and potential company dissolution or pivot; (3) acquisition by a larger pharmaceutical firm at any stage if the technology or early data prove valuable; (4) licensing or partnership deals that fund further development without capital raise. Invivyd's business plan, as disclosed, does not assume profitability for many years; value creation is binary—approval and scaling, or failure. The company's burn rate and cash position determine how long it can afford to wait for clinical readouts.
+The filing disclosures suggest several outcomes: (1) clinical success leading to regulatory approval and commercialization via partnerships or direct sales; (2) clinical failure, leading to cessation of the program and potential company dissolution or pivot; (3) [acquisition](/acquisition/) by a larger pharmaceutical firm at any stage if the technology or early data prove valuable; (4) licensing or partnership deals that fund further development without capital raise. Invivyd's business plan, as disclosed, does not assume profitability for many years; value creation is binary—approval and scaling, or failure. The company's burn rate and cash position determine how long it can afford to wait for clinical readouts.
 
 ## What to Monitor
 

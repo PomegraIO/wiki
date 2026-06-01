@@ -4,7 +4,7 @@ description: "Indoor vertical-farm operator; faces USDA organic certification, E
 keywords: [agriculture, vertical-farming, organic, USDA, EPA, state-licensing]
 ---
 
-*Edible Garden AG Inc, trading as EDBL on the Nasdaq, operates indoor vertical farms in New Jersey and elsewhere, growing microgreens and leafy vegetables year-round. Its entire operational footprint is gated by a web of USDA organic certification standards, state agricultural licensing, EPA water and wastewater compliance, and local zoning restrictions that determine where it can build, what it can grow, and how it must dispose of growing media and nutrient water.*
+*Edible Garden AG Inc, trading as EDBL on the [Nasdaq](/nasdaq/), operates indoor vertical farms in New Jersey and elsewhere, growing microgreens and leafy vegetables year-round. Its entire operational footprint is gated by a web of USDA organic certification standards, state agricultural licensing, EPA water and wastewater compliance, and local zoning restrictions that determine where it can build, what it can grow, and how it must dispose of growing media and nutrient water.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EDBL</td></tr>

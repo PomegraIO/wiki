@@ -28,17 +28,17 @@ A blockbuster film release can drive sudden demand; a box-office flop or streami
 
 ## Retail Channel Concentration and Margin Pressure
 
-JAKKS sells primarily through a small number of large retailers—Walmart, Target, Amazon, and specialty toy retailers—each of which wields outsized negotiating power. These retailers demand favorable payment terms, require cooperative marketing funding, and reserve the right to return unsold inventory. The concentration of retail power means JAKKS cannot easily pass cost increases to the consumer; instead, it must absorb margin compression or reduce volume. Working capital is perpetually strained by the need to fund inventory before retail partners pay for goods.
+JAKKS sells primarily through a small number of large retailers—[Walmart](/wmt-stock/), [Target](/tgt-stock/), Amazon, and specialty toy retailers—each of which wields outsized negotiating power. These retailers demand favorable payment terms, require cooperative marketing funding, and reserve the right to return unsold inventory. The concentration of retail power means JAKKS cannot easily pass cost increases to the consumer; instead, it must absorb margin compression or reduce volume. Working capital is perpetually strained by the need to fund inventory before retail partners pay for goods.
 
 This dynamic is endemic to toy manufacturing and particularly acute for small to mid-cap players lacking the scale of Mattel or Hasbro, who can negotiate from a position of greater strength and distribute costs across larger product portfolios.
 
 ## Product Portfolio Diversification
 
-To reduce franchise dependency, JAKKS has attempted to broaden beyond toys into children's costumes, play accessories, role-play products, and complementary merchandise. These adjacent categories share the same retail channels and appeal to overlapping consumer groups. However, they also expose the company to the same margin pressure and retail concentration. Diversification into these areas requires investment in design, sourcing, and marketing, with no guarantee of success.
+To reduce franchise dependency, JAKKS has attempted to broaden beyond toys into children's costumes, play accessories, role-play products, and complementary merchandise. These adjacent categories share the same retail channels and appeal to overlapping consumer groups. However, they also expose the company to the same margin pressure and retail concentration. [Diversification](/diversification/) into these areas requires investment in design, sourcing, and marketing, with no guarantee of success.
 
 ## Capital Structure and Cash Flow Challenges
 
-Like many toy manufacturers, JAKKS operates with seasonal revenue concentration (holiday selling comprises a large share of annual sales) and working capital-intensive operations. The company relies on [short-term credit facilities](/short-selling/) and inventory financing to fund production ahead of the holiday season; any disruption to credit availability or retail demand can force unplanned inventory liquidation at steep discounts, destroying profitability. The company's modest [free cash flow](/free-cash-flow/) limits reinvestment in product development and marketing.
+Like many toy manufacturers, JAKKS operates with seasonal revenue concentration (holiday selling comprises a large share of annual sales) and working capital-intensive operations. The company relies on [short-term credit facilities](/short-selling/) and inventory financing to fund production ahead of the holiday season; any disruption to credit availability or retail demand can force unplanned inventory [liquidation](/liquidation/) at steep discounts, destroying profitability. The company's modest [free cash flow](/free-cash-flow/) limits reinvestment in product development and marketing.
 
 ## The Collector and Content Niche
 

@@ -41,7 +41,7 @@ Fragrance sales depend critically on retail presence—department stores, specia
 
 ## Secular Trends and Growth Drivers
 
-Fragrance demand in developed markets (North America, Western Europe) is relatively mature. Growth comes from emerging markets where rising incomes and younger populations drive discretionary spending. INTERPARFUMS' exposure to Asia-Pacific and other growth regions creates growth optionality if execution succeeds. Prestige fragrance brands themselves also evolve—new launches, niche collections, unisex or gender-neutral fragrances—creating refresh cycles and new revenue streams if the company can win rights to innovative product lines. The wellness and natural-ingredient trend also creates opportunities for brands positioning fragrances as clean or sustainably sourced, though this often increases raw-material costs.
+Fragrance demand in developed markets (North America, Western Europe) is relatively mature. Growth comes from emerging markets where rising incomes and younger populations drive [discretionary spending](/discretionary-spending/). INTERPARFUMS' exposure to Asia-Pacific and other growth regions creates growth optionality if execution succeeds. Prestige fragrance brands themselves also evolve—new launches, niche collections, unisex or gender-neutral fragrances—creating refresh cycles and new revenue streams if the company can win rights to innovative product lines. The wellness and natural-ingredient trend also creates opportunities for brands positioning fragrances as clean or sustainably sourced, though this often increases raw-material costs.
 
 ## Financial Model and Profitability
 

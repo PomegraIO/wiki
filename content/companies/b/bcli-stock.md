@@ -4,7 +4,7 @@ description: "Clinical-stage cell therapy company developing autologous cell tre
 keywords: ["cell therapy", "biotech", "clinical trials", "autologous cells", "neurology"]
 ---
 
-*The **Brainstorm Cell Therapeutics Inc. (BCLI)** is a development-stage biopharmaceutical company pursuing a specific class of cell therapy: autologous cell-based treatments derived from patients' own bone marrow or other sources, differentiated into therapeutic cells, and reinfused to treat neurological diseases. Unlike pharmaceutical companies that license or synthesize small molecules, Brainstorm's pipeline is fundamentally constrained by the pace of clinical trials, regulatory approval timelines, and the scientific validity of its therapeutic hypothesis. For equity investors, Brainstorm represents pure clinical-stage risk — the company has minimal revenue, operates at a cash burn, and the entire enterprise value rests on the probability that one or more of its cell therapies will reach approval and meaningful commercial adoption.*
+*The **Brainstorm Cell Therapeutics Inc. (BCLI)** is a development-stage biopharmaceutical company pursuing a specific class of cell therapy: autologous cell-based treatments derived from patients' own bone marrow or other sources, differentiated into therapeutic cells, and reinfused to treat neurological diseases. Unlike pharmaceutical companies that license or synthesize small molecules, Brainstorm's pipeline is fundamentally constrained by the pace of clinical trials, regulatory approval timelines, and the scientific validity of its therapeutic hypothesis. For equity investors, Brainstorm represents pure clinical-stage risk — the company has minimal revenue, operates at a cash burn, and the entire [enterprise value](/enterprise-value/) rests on the probability that one or more of its cell therapies will reach approval and meaningful commercial adoption.*
 
 <aside class="wiki-infobox">
 <table>
@@ -53,9 +53,9 @@ Brainstorm will need to raise capital, either through equity (stock offerings, w
 - **Current cash balance** and any restricted cash.
 - **Debt obligations** — any convertible notes, credit lines, or term loans. Importantly, if debt is convertible to stock, it represents a future dilution overhang.
 - **Plans for funding clinical trials** — does the company have a specific financing roadmap, or is it uncertain how trials will be funded?
-- **Any government grants or research funding** — grants reduce the need for equity financing and can extend runway without dilution.
+- **Any government grants or research funding** — grants reduce the need for [equity financing](/equity-financing/) and can extend runway without dilution.
 
-A company with 18 months of runway faces existential risk; a company with 3+ years of runway has breathing room. However, the longer the runway, the further away the company is from a major catalytic event (clinical data, FDA approval), and the more opportunity for share dilution through future financing.
+A company with 18 months of runway faces existential risk; a company with 3+ years of runway has breathing room. However, the longer the runway, the further away the company is from a major catalytic event (clinical data, FDA approval), and the more opportunity for [share dilution](/share-dilution/) through future financing.
 
 ## The Regulatory Approval Pathway
 
@@ -84,7 +84,7 @@ A company that has not yet solved the manufacturing question is at risk: even if
 Brainstorm's value rests significantly on its patent claims to cell therapy methods and compositions. The 10-K should disclose the company's patent portfolio, including:
 
 - **Patent coverage for its core cell therapy platform and specific indications**.
-- **Expiration dates** — when will key patents expire and leave the company exposed to generic or biosimilar competition?
+- **[Expiration dates](/expiration-contracts/)** — when will key patents expire and leave the company exposed to generic or biosimilar competition?
 - **Freedom-to-operate analysis** — does Brainstorm infringe on third-party patents, or are there licensing agreements required?
 
 Investors should check the USPTO patent database (patents.google.com) to assess patent breadth and strength independently. Narrow patents or patents expiring soon are red flags.

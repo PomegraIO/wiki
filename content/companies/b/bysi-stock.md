@@ -27,7 +27,7 @@ The firm's portfolio targets oncology—a sector where the cost of development c
 
 A company like BeyondSpring sits in the entrepreneurial middle age of biotech. It has graduated from the all-equity, post-seed chaos of unfunded research and is public, allowing it to raise capital via [equity offerings](/common-stock/) or debt. But it has not yet reached the maturity phase where a marketed drug generates earnings and a sustainable business model. The bridge between these poles is clinical proof and regulatory acceptance.
 
-This lifecycle stage carries unique vulnerabilities. The company must manage clinical timelines (patient recruitment often lags projections), manufacturing scale-up (moving from clinical batch sizes to commercial production), and regulatory negotiation (where the [SEC](/securities-and-exchange-commission/) reviews filings, but the FDA gates approval). Each setback in the clinic—an efficacy signal that disappoints, a safety signal that forces pause—can crater the [stock](/stock/) price and impair the company's ability to raise the next tranche of capital.
+This lifecycle stage carries unique vulnerabilities. The company must manage clinical timelines (patient recruitment often lags projections), manufacturing scale-up (moving from clinical batch sizes to commercial production), and regulatory negotiation (where the [SEC](/securities-and-exchange-commission/) reviews filings, but the FDA gates approval). Each setback in the clinic—an efficacy signal that disappoints, a safety signal that forces pause—can crater the [stock](/stock/) price and impair the company's ability to raise the next [tranche](/tranche/) of capital.
 
 Conversely, a positive Phase 2 data read or a breakthrough designation from regulators can unlock enormous upside. The market prices BeyondSpring not on current cash flow but on the discounted probability that one or more of its candidates will be approved and reach adequate uptake—a calculation fraught with uncertainty.
 
@@ -49,7 +49,7 @@ For all biotech companies at BeyondSpring's lifecycle stage, the central questio
 
 This lifecycle stage is also where the most attrition occurs. Many promising clinical-stage programs prove ineffective or unsafe, and their sponsoring companies either pivot, consolidate, or liquidate. Survival depends on both scientific merit and financial discipline: picking programs likely to succeed, managing burn carefully, and knowing when to kill a losing candidate rather than chase it into bankruptcy.
 
-BeyondSpring's ability to navigate this inflection—completing trials, interpreting data, winning regulatory approval, and then building a commercial operation—will determine whether it matures into a profitable therapeutics company or exits via acquisition or failure. That arc is the central narrative of the emerging biotech lifecycle.
+BeyondSpring's ability to navigate this inflection—completing trials, interpreting data, winning regulatory approval, and then building a commercial operation—will determine whether it matures into a profitable therapeutics company or exits via [acquisition](/acquisition/) or failure. That arc is the central narrative of the emerging biotech lifecycle.
 
 ---
 

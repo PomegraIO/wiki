@@ -19,13 +19,13 @@ keywords: [clean energy, power electronics, decarbonization, renewable energy, e
 
 The transition from fossil fuels to electricity and renewables is one of the largest structural shifts in human economic activity. Governments worldwide have committed to net-zero carbon emissions by mid-century. Corporations face regulatory pressure, investor expectations, and customer demand to reduce their carbon footprints. Utilities are retiring coal plants and building renewable capacity. Transportation is electrifying. Industrial heat is being converted from fossil fuels to electric and hydrogen systems.
 
-This is not a temporary fad or a cycle-driven trend; it is a multi-decade reallocation of hundreds of trillions of dollars in global capital. It will persist through recessions, political cycles, and technological disruptions. No recession will reverse a government's commitment to net-zero. No bear market will slow the structural retirement of coal plants; they are simply being replaced.
+This is not a temporary fad or a cycle-driven trend; it is a multi-decade reallocation of hundreds of trillions of dollars in global capital. It will persist through [recessions](/recession/), political cycles, and technological disruptions. No recession will reverse a government's commitment to net-zero. No [bear market](/bear-market/) will slow the structural retirement of coal plants; they are simply being replaced.
 
 Hillcrest operates within this tailwind. Its technologies—likely focused on power conversion, grid management, or electrified transportation systems—address problems that energy transition creates. A utility building a new solar or wind farm needs power-electronics equipment to convert variable renewable output into stable grid power. A manufacturer switching from fossil-fuel heating to electric heat pumps needs new control systems. An automotive OEM launching electric vehicles needs power-electronics suppliers. These are secular opportunities, not cyclical bets.
 
 ## Where Cyclicality Emerges: Capital Spending
 
-Yet the realization of energy-transition opportunity is not smooth. Utilities, manufacturers, and governments make capital-spending decisions based on budgets, credit conditions, and management confidence. A utility that committed $2 billion to renewable buildout may defer construction if interest rates spike and borrowing becomes expensive. A manufacturer may postpone an efficiency upgrade if recession is looming and cash conservation becomes priority. A government may cut clean-energy subsidies if fiscal pressure mounts.
+Yet the realization of energy-transition opportunity is not smooth. Utilities, manufacturers, and governments make capital-spending decisions based on budgets, credit conditions, and management confidence. A utility that committed $2 billion to renewable buildout may defer construction if [interest rates](/interest-rate/) spike and borrowing becomes expensive. A manufacturer may postpone an efficiency upgrade if recession is looming and cash conservation becomes priority. A government may cut clean-energy subsidies if fiscal pressure mounts.
 
 These capital-spending cycles are real and material. Clean-energy technology companies live or die based on when customers decide to write checks, not on the ultimate inevitability of the transition. A company with incredible technology can face years of slow adoption if customers are delaying capex.
 
@@ -57,7 +57,7 @@ Investors tracking Hillcrest should distinguish between two separate metrics:
 
 1. **Secular indicators**: Industry adoption of energy-transition technologies, regulatory commitments, capital-allocation trends toward clean energy, and customer pipeline of potential projects. These should trend upward.
 
-2. **Cyclical indicators**: Customer capex budgets, credit conditions (interest rates), government clean-energy spending announcements, and forward guidance from utilities and manufacturers. These will fluctuate with cycles.
+2. **Cyclical indicators**: Customer capex budgets, credit conditions (interest rates), government clean-energy spending announcements, and [forward guidance](/forward-guidance/) from utilities and manufacturers. These will fluctuate with cycles.
 
 Hillcrest's 10-K and quarterly calls will reveal progress on product commercialization, customer wins, and revenue visibility. Growing backlog or project pipeline signals that the secular opportunity is being captured; declining project activity (even if temporary) signals that the cyclical headwind is binding.
 

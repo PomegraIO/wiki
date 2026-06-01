@@ -33,7 +33,7 @@ This network is difficult to replicate. It took decades to assemble and is most 
 
 The workers' compensation TPA market is split among large pure-play TPAs (Sedgwick, CorpCare, Gallagher) and smaller specialists like CORVEL. CORVEL competes by offering superior outcomes data and owned insurer subsidiaries, not by competing on pure administrative cost. Sedgwick processes more claims at lower per-claim cost through sheer scale; CORVEL competes by managing claims more profitably through its owned insurance operations and medical network alignment.
 
-This is a differentiated competitive position, not a dominant one. CORVEL is smaller than Sedgwick and lacks the diversification into property & casualty insurance that a Gallagher possesses. But within workers' compensation specifically, CORVEL's insurer-service hybrid model is unique and defensible.
+This is a differentiated competitive position, not a dominant one. CORVEL is smaller than Sedgwick and lacks the [diversification](/diversification/) into property & casualty insurance that a Gallagher possesses. But within workers' compensation specifically, CORVEL's insurer-service hybrid model is unique and defensible.
 
 ## Margin Structure and Cash Generation
 
@@ -61,7 +61,7 @@ This requires careful calibration and has, historically, caused controversy in m
 
 ## Cyclicality and Economic Sensitivity
 
-Workers' compensation claims are correlated with employment levels and workplace safety trends. In recessions, employment falls and claim volume may fall even faster if workplace injury rates decline due to lower production intensity. CORVEL's TPA revenues decline with claim volume, and its captive insurance profits improve (fewer claims = lower losses) but customer pressure to lower TPA fees increases. The company is moderately cyclical but has a natural hedge: when claims are expensive, CORVEL's insurance profits fall but TPA fees are higher.
+Workers' compensation claims are correlated with employment levels and workplace safety trends. In [recessions](/recession/), employment falls and claim volume may fall even faster if workplace injury rates decline due to lower production intensity. CORVEL's TPA revenues decline with claim volume, and its captive insurance profits improve (fewer claims = lower losses) but customer pressure to lower TPA fees increases. The company is moderately cyclical but has a natural hedge: when claims are expensive, CORVEL's insurance profits fall but TPA fees are higher.
 
 <div class="wiki-seealso">
 

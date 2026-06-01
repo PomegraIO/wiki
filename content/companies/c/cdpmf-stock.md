@@ -29,7 +29,7 @@ Peru's regulatory environment for mining is more complex than Canada's or Austra
 
 ## Commodity Price Dependency
 
-The company's lifecycle trajectory is also hostage to global copper and precious-metals prices. High prices make the project investable and attractive to financiers; low prices make it marginal or uneconomic. A junior miner at the development stage cannot afford to wait out a commodity bear market; it has limited cash runway and mounting costs. If copper falls below a certain price, the project no longer pencils, financing dries up, and the company is stranded. Conversely, a commodity bull market can compress timelines and attract strategic investors. Cerro de Pasco Resources' lifecycle is not self-determined; it is hostage to the global economic cycle and mining sentiment. The company is exposed not just to execution risk (can we build the mine?) but to macro risk (will the commodity stay valuable?).
+The company's lifecycle trajectory is also hostage to global copper and precious-metals prices. High prices make the project investable and attractive to financiers; low prices make it marginal or uneconomic. A junior miner at the development stage cannot afford to wait out a commodity [bear market](/bear-market/); it has limited cash runway and mounting costs. If copper falls below a certain price, the project no longer pencils, financing dries up, and the company is stranded. Conversely, a commodity [bull market](/bull-market/) can compress timelines and attract strategic investors. Cerro de Pasco Resources' lifecycle is not self-determined; it is hostage to the global economic cycle and mining sentiment. The company is exposed not just to execution risk (can we build the mine?) but to macro risk (will the commodity stay valuable?).
 
 ## Junior Miner Investor Base and Dilution
 
@@ -37,7 +37,7 @@ Shareholders in junior mining companies are a distinct breed: they are betting o
 
 ## Environmental and Closure Obligation
 
-A modern mining company, even a junior, must budget for environmental remediation, tailings storage, and closure. The historical precedent at Cerro de Pasco—an old mine with legacy contamination—raises the bar for what the new operator must achieve. The company will need to demonstrate financial assurance (a bond or reserve fund) to cover closure costs. In lifecycle terms, this is the penalty for inheriting an old asset: the company is starting at the maturity/decline phase of the previous operation and must prove it can move the property from liability to value creation. If regulatory or environmental conditions deteriorate, the project could become uneconomic before production ever begins.
+A modern mining company, even a junior, must budget for environmental remediation, tailings storage, and closure. The historical precedent at Cerro de Pasco—an old mine with legacy contamination—raises the bar for what the new operator must achieve. The company will need to demonstrate financial assurance (a [bond](/bond/) or reserve fund) to cover closure costs. In lifecycle terms, this is the penalty for inheriting an old asset: the company is starting at the maturity/decline phase of the previous operation and must prove it can move the property from liability to value creation. If regulatory or environmental conditions deteriorate, the project could become uneconomic before production ever begins.
 
 <div class="wiki-seealso">
 ### Closely related

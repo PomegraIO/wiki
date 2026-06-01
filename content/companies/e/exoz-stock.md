@@ -17,7 +17,7 @@ keywords: ["biotech", "enzymes", "biocatalyst", "industrial", "sustainability", 
 
 ## The Enzyme Opportunity
 
-An enzyme is a protein that speeds up a chemical reaction. In nature, enzymes do everything—break down food, copy DNA, fight infections. In industry, they can replace harsh chemicals. For example, a textile manufacturer might use a chemical bleach to lighten fabric. An enzyme could do the same job, faster, with less pollution and lower cost. An oil refinery might use an enzyme to break down crude oil more efficiently than traditional processes. A detergent maker uses enzymes to clean clothes at lower temperatures.
+An enzyme is a protein that speeds up a chemical reaction. In nature, enzymes do everything—break down food, copy DNA, fight infections. In industry, they can replace harsh chemicals. For example, a textile manufacturer might use a chemical bleach to lighten fabric. An enzyme could do the same job, faster, with less pollution and lower cost. An oil refinery might use an enzyme to break down [crude oil](/crude-oil/) more efficiently than traditional processes. A detergent maker uses enzymes to clean clothes at lower temperatures.
 
 Exozymes' bet is simple: engineer enzymes that work better, faster, and cheaper than today's versions. If they succeed, they can license those enzymes to large manufacturers. A big chemical company might pay millions for an enzyme that saves them money or lets them sell a greener product.
 

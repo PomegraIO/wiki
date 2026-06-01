@@ -47,7 +47,7 @@ The regulatory pathway is also a customer consideration. The FDA has approved ce
 
 ## Licensing and Acquisition Dynamics
 
-Edesa, like many clinical-stage biotechs, may eventually license or sell its programs to larger pharmaceutical companies. This is the exit strategy for investors and employees. From the patient's perspective, an acquisition by a major pharma can accelerate development—more resources, faster trials, broader distribution if the drug succeeds. But it can also slow things if the acquirer deprioritizes the program.
+Edesa, like many clinical-stage biotechs, may eventually license or sell its programs to larger pharmaceutical companies. This is the exit strategy for investors and employees. From the patient's perspective, an [acquisition](/acquisition/) by a major pharma can accelerate development—more resources, faster trials, broader distribution if the drug succeeds. But it can also slow things if the acquirer deprioritizes the program.
 
 For now, Edesa operates independently, answering to its board and shareholders. These stakeholders want to see progress: patient enrollment milestones, positive efficacy signals, and advancing programs. Physicians and sites want to see the company stable and committed—rumors of financial distress or management turnover can derail site enthusiasm. Patients simply want hope and good care in the trial setting.
 

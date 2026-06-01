@@ -51,11 +51,11 @@ On the customer side, EcoPlus must build and maintain relationships with plant o
 
 As an equipment supplier serving regulated industries, EcoPlus itself faces regulatory scrutiny. Equipment sold for drinking-water treatment must comply with NSF/ANSI standards. Equipment for wastewater applications must meet performance standards. EcoPlus maintains quality-assurance protocols, testing facilities, and documentation to prove product compliance. Product liability insurance is a material cost.
 
-Additionally, EcoPlus may face environmental liability if its equipment fails and causes a customer's discharge violation or spill. The company therefore maintains insurance and contractual risk allocation (limiting liability through warranties and disclaimers) while also ensuring technical support minimizes customer risk.
+Additionally, EcoPlus may face [environmental liability](/environmental-liability/) if its equipment fails and causes a customer's discharge violation or spill. The company therefore maintains insurance and contractual risk allocation (limiting liability through warranties and disclaimers) while also ensuring technical support minimizes customer risk.
 
 ## Geographic and Market Concentration
 
-EcoPlus operations are typically concentrated in regions with high manufacturing or intensive water-use agriculture. Industrial water treatment demand is greatest in Midwest and Eastern manufacturing corridors; agricultural remediation and irrigation-reuse treatment drive demand in agricultural regions. EcoPlus therefore may focus sales and service operations in these areas, creating geographic concentration risk. Economic downturns in a key region (say, auto manufacturing decline in the Midwest) can damage revenue.
+EcoPlus operations are typically concentrated in regions with high manufacturing or intensive water-use agriculture. Industrial water treatment demand is greatest in Midwest and Eastern manufacturing corridors; agricultural remediation and irrigation-reuse treatment drive demand in agricultural regions. EcoPlus therefore may focus sales and service operations in these areas, creating geographic [concentration risk](/concentration-risk/). Economic downturns in a key region (say, auto manufacturing decline in the Midwest) can damage revenue.
 
 The company's durability depends on consistent execution: reliable equipment design, responsive service delivery, filter supply chain stability, and technical credibility with customers facing regulatory pressure. Profitability flows to the operator who masters the unglamorous machinery of project delivery, inventory management, and field-service responsiveness.
 

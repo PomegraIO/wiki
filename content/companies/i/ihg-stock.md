@@ -61,7 +61,7 @@ IHG's six brands serve distinct positions in the market:
 
 **Indigo** and other smaller brands round out the portfolio, filling niches like extended-stay and mid-range markets.
 
-This segmentation is deliberate. Different guest needs map to different brands. A corporate account might book Holiday Inn Express for routine travel while reserving InterContinental for high-level client entertainment. Franchise partners choose brands aligned with their property type, market positioning, and [target](/tgt-stock/) customer base.
+This segmentation is deliberate. Different guest needs map to different brands. A corporate account might book Holiday Inn Express for routine travel while reserving InterContinental for high-level client entertainment. Franchise partners choose brands aligned with their property type, market positioning, and target customer base.
 
 ## How Revenue Flows
 

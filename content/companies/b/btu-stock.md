@@ -43,7 +43,7 @@ Safety is paramount in mining. Accidents, fatalities, and injuries are significa
 
 ## Commodity Price Exposure and Hedging
 
-Peabody's earnings swing with coal prices, which are set globally. Thermal coal prices track power generation demand, fuel mix (natural gas prices especially), and global coal supply. Metallurgical coal prices track steel production and global supply. The company has limited pricing power — it is a supplier to a commodity market. To manage volatility, the company may use long-term contracts (which provide price certainty) and financial hedging instruments to offset downside price risk on spot sales.
+Peabody's earnings swing with coal prices, which are set globally. Thermal coal prices track power generation demand, fuel mix ([natural gas](/natural-gas/) prices especially), and global coal supply. Metallurgical coal prices track steel production and global supply. The company has limited pricing power — it is a supplier to a commodity market. To manage volatility, the company may use long-term contracts (which provide price certainty) and financial hedging instruments to offset downside price risk on spot sales.
 
 Customer purchasing patterns also matter. A power utility signing a five-year contract with Peabody locks in volume and price, providing revenue stability. But utilities increasingly face pressure to reduce coal use; some have announced phase-out targets. Peabody thus faces structural headwinds: even if demand stabilizes, the long-term trend is downward in many developed markets.
 

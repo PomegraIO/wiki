@@ -43,7 +43,7 @@ Garmin's financial profile reflects its positioning. The company operates at rel
 
 ## What the company does well and faces
 
-Garmin's strength is relentless focus on the user experience for its specific [target](/tgt-stock/) audiences. The company invests heavily in software, algorithms, and user-interface design. It builds most of its own silicon and firmware, giving it deep control over performance and reliability. The company also maintains a robust supply chain despite being heavily dependent on manufacturing partners in Asia.
+Garmin's strength is relentless focus on the user experience for its specific target audiences. The company invests heavily in software, algorithms, and user-interface design. It builds most of its own silicon and firmware, giving it deep control over performance and reliability. The company also maintains a robust supply chain despite being heavily dependent on manufacturing partners in Asia.
 
 The core risk is disruption from larger technology companies. [Apple](/aapl-stock/), Google, and Samsung all make wearables and can leverage enormous resources to compete in any market they choose. Apple's watch has become more capable and is marketed (implicitly) as superior to purpose-built sports watches. Google's Android ecosystem includes many navigation and mapping options. These companies can afford to accept lower margins in pursuit of market share, which creates pricing pressure.
 

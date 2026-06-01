@@ -4,7 +4,7 @@ description: "A fashion and lifestyle company operating licensed and owned brand
 keywords: ["fashion", "apparel", "brands", "retail", "licensing", "consumer goods"]
 ---
 
-*The SEC filings of **Digital Brands Group, Inc.** (ticker DBGI) sketch a company navigating the secular shift from wholesale to direct retail, with its strategic bet placed on owning and managing licensed apparel and footwear brands. A holder of trademarks in heritage segments—from casualwear to luxury positioning—DBGI has reshaped itself through acquisitions, licensing deals, and the gradual build of its e-commerce presence, though the path from acquisition to profitable integration remains the firm's central operational test.*
+*The SEC filings of **Digital Brands Group, Inc.** (ticker DBGI) sketch a company navigating the secular shift from wholesale to direct retail, with its strategic bet placed on owning and managing licensed apparel and footwear brands. A holder of trademarks in heritage segments—from casualwear to luxury positioning—DBGI has reshaped itself through [acquisitions](/acquisition/), licensing deals, and the gradual build of its e-commerce presence, though the path from acquisition to profitable integration remains the firm's central operational test.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DBGI</td></tr>
@@ -19,7 +19,7 @@ keywords: ["fashion", "apparel", "brands", "retail", "licensing", "consumer good
 
 DBGI's filing disclosures center on a shift from asset ownership toward brand stewardship. The company has acquired multiple trademarks, product lines, and distribution rights across casualwear, activewear, and niche footwear categories. Rather than operating large manufacturing or warehousing footprints, the model delegates production to third-party contract manufacturers—a structure the filings emphasize as capital-efficient but inherently dependent on supplier stability and quality control at a distance. This decentralization is flagged in risk disclosures: if a supplier faces disruption, DBGI's ability to fulfill orders and maintain brand integrity suffers.
 
-The apparel industry's reliance on offshore labor and complex logistics emerges in the company's cautious language around supply-chain vulnerability. The 10-K notes exposure to tariff changes, shipping delays, and labor cost inflation in key production markets. The company has hedged some exposure by sourcing from multiple geographies, but concentration risk remains a recurrent item in its regulatory narrative.
+The apparel industry's reliance on offshore labor and complex logistics emerges in the company's cautious language around supply-chain vulnerability. The 10-K notes exposure to tariff changes, shipping delays, and labor cost [inflation](/inflation/) in key production markets. The company has hedged some exposure by sourcing from multiple geographies, but [concentration risk](/concentration-risk/) remains a recurrent item in its regulatory narrative.
 
 ## Distribution Channels and the Wholesale-Versus-DTC Tension
 
@@ -31,7 +31,7 @@ The tension is material: wholesale relationships provide scale and reach but dis
 
 A significant portion of DBGI's portfolio operates under license agreements. The company pays royalties to trademark owners in exchange for the right to design, manufacture, and sell products bearing those marks. These licensing deals appear prominently in the filings because they are central to cash flow but also represent ongoing contingent costs—royalties are typically a percentage of sales, so lower sales flow directly to lower profitability.
 
-The filings disclose the company's exposure to licensor decisions. If a licensor elects not to renew a license or raises royalty rates, DBGI loses access to that brand's market share and must reallocate capital. This dependency is managed through diversification (the company holds licenses across multiple portfolio names), but concentration within any one major license creates earnings risk. The compliance burden of licensing agreements—ensuring products meet quality standards, trademark usage is precise, and royalties are accurately tracked and paid—emerges in the operational risk sections as material.
+The filings disclose the company's exposure to licensor decisions. If a licensor elects not to renew a license or raises royalty rates, DBGI loses access to that brand's market share and must reallocate capital. This dependency is managed through [diversification](/diversification/) (the company holds licenses across multiple portfolio names), but concentration within any one major license creates earnings risk. The compliance burden of licensing agreements—ensuring products meet quality standards, trademark usage is precise, and royalties are accurately tracked and paid—emerges in the [operational risk](/operational-risk/) sections as material.
 
 ## Inventory and Working Capital Dynamics
 

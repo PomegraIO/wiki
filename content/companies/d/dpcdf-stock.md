@@ -29,11 +29,11 @@ Distributors operate in the middle of supply chains connecting manufacturers to 
 
 This is the "bullwhip effect" in its classic form: a small change in end-customer demand creates larger swings in distributor orders and inventory levels. A distributor's profitability therefore depends critically on accurate demand forecasting and disciplined inventory management. Overstock reduces margins and ties up capital; understock loses sales and customer relationships.
 
-During periods of uncertainty (recession fears, regulatory change, geopolitical disruption), contractors defer large projects and reduce material stockpiling, which causes sudden inventory corrections at distributors. These events can rapidly consume working capital and force emergency markdown sales.
+During periods of uncertainty ([recession](/recession/) fears, regulatory change, geopolitical disruption), contractors defer large projects and reduce material stockpiling, which causes sudden inventory corrections at distributors. These events can rapidly consume working capital and force emergency markdown sales.
 
 ## Customer Base and Concentration Risk
 
-DPC Dash sells to multiple customer classes: direct contractors and builders who purchase materials for large projects, independent retailers who stock shelves and resell to consumers, trade merchants who aggregate materials for further redistribution, and facilities maintenance customers. Customer concentration risk—whether a small number of large customers represent a disproportionate share of revenue—shapes operational resilience.
+DPC Dash sells to multiple customer classes: direct contractors and builders who purchase materials for large projects, independent retailers who stock shelves and resell to consumers, trade merchants who aggregate materials for further redistribution, and facilities maintenance customers. Customer [concentration risk](/concentration-risk/)—whether a small number of large customers represent a disproportionate share of revenue—shapes operational resilience.
 
 If a handful of major contractors represent 30–40% of revenue, the loss of a single major customer (due to the contractor failing, switching suppliers, or being acquired by a competitor) creates an immediate and material revenue headwind. The distributor must then liquidate excess inventory purchased in anticipation of that customer's ongoing orders, which compresses margins.
 
@@ -53,7 +53,7 @@ Conversely, if DPC Dash relies heavily on a small number of large suppliers (par
 
 ## Technology and Logistics Efficiency
 
-Competitive distributor firms invest in warehouse management systems that optimize picking and packing, route optimization software that reduces delivery costs, and inventory forecasting models that balance stock availability with working capital efficiency. These technology investments reduce operational costs and improve customer service, but they require ongoing capital and expertise.
+Competitive distributor firms invest in warehouse management systems that optimize picking and packing, route optimization software that reduces delivery costs, and inventory forecasting models that balance stock availability with [working capital efficiency](/working-capital-efficiency/). These technology investments reduce operational costs and improve customer service, but they require ongoing capital and expertise.
 
 DPC Dash's logistics network—the location of warehouses, the density of customer coverage, the efficiency of delivery routes—is a core operational asset. A distributor with warehouses positioned to serve customers on same-day or next-day delivery can command premium pricing; one that requires 3–5 day delivery is confined to price-sensitive customers and lower margins.
 
@@ -61,7 +61,7 @@ DPC Dash's logistics network—the location of warehouses, the density of custom
 
 Because distributors purchase inventory before customers pay for it, working capital can rapidly deteriorate during demand shocks. A recession that reduces contractor activity by 20% can reduce distributor profitability by 50% or more if inventory cannot be liquidated quickly.
 
-DPC Dash must therefore maintain adequate liquidity through retained earnings, credit lines, or equity financing to absorb demand shocks without forced asset sales or customer service disruptions. Firms with weak balance sheets are more vulnerable to cyclical downturns and may be forced into fire sales or merger just when competitive positioning is weakest.
+DPC Dash must therefore maintain adequate liquidity through [retained earnings](/retained-earnings/), credit lines, or [equity financing](/equity-financing/) to absorb demand shocks without forced asset sales or customer service disruptions. Firms with weak balance sheets are more vulnerable to cyclical downturns and may be forced into fire sales or [merger](/merger/) just when competitive positioning is weakest.
 
 <div class="wiki-seealso">
 

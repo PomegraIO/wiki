@@ -26,7 +26,7 @@ Additionally, scientific priorities can shift. If academic research reveals a fl
 
 Bodhi Tree is almost certainly not yet cash-flow positive. The company must raise capital from investors to fund research, toxicology, regulatory, and clinical work. Each equity raise involves issuing new shares, diluting existing holders.
 
-For early-stage biotech, capital raises can be challenging and dilutive. If the company raises equity at a lower valuation per share (a "down round"), earlier investors suffer. If the company turns to debt financing, it incurs interest costs and potential covenant restrictions. If capital markets become hostile (biotech funding dries up), the company may struggle to raise at any valuation, forcing distressed decisions like asset sales, partnerships at unfavorable terms, or forced mergers.
+For early-stage biotech, capital raises can be challenging and dilutive. If the company raises equity at a lower valuation per share (a "down round"), earlier investors suffer. If the company turns to [debt financing](/debt-financing/), it incurs interest costs and potential covenant restrictions. If capital markets become hostile (biotech funding dries up), the company may struggle to raise at any valuation, forcing distressed decisions like asset sales, partnerships at unfavorable terms, or forced [mergers](/merger/).
 
 The company's stock price may be volatile and illiquid, particularly if it trades on over-the-counter (OTC) markets rather than a major exchange. Shareholders may face difficulty selling shares without significant price impact, and the market price may diverge significantly from underlying value.
 
@@ -54,7 +54,7 @@ Furthermore, if the company's patents are eventually granted but are narrow, com
 
 ## Unproven Business Model and Commercial Path
 
-Bodhi Tree's business model is not yet clear or proven. Will it develop drugs to launch itself? License programs to larger pharma? Pursue partnerships with biotech collaborators? Pursue a merger or acquisition at a small scale? The company may not have a clear commercial strategy, and shareholder expectations around exit timelines and valuation may differ widely.
+Bodhi Tree's business model is not yet clear or proven. Will it develop drugs to launch itself? License programs to larger pharma? Pursue partnerships with biotech collaborators? Pursue a merger or [acquisition](/acquisition/) at a small scale? The company may not have a clear commercial strategy, and shareholder expectations around exit timelines and valuation may differ widely.
 
 If the company pursues an in-house development model without external partnerships or outlicensing, cash burn accelerates and runway shortens. If the company seeks licensing or partnership deals, it surrenders equity upside and may have difficulty attracting partners if its programs lack compelling early data.
 

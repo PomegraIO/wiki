@@ -4,7 +4,7 @@ description: "A developer of quantum computing and advanced electronics systems;
 keywords: [quantum-computing, semiconductor, deep-tech, competitive-moat, technology-protection, hardware-development, intellectual-property]
 ---
 
-*[FDCTECH, INC.](/fdct-stock/) (FDCT) competes in the quantum computing and advanced electronics sector—a field where technological entry barriers remain extraordinarily high. The company's defensibility stems not from brand or distribution, but from accumulated technical knowledge, patent portfolios, and the cumulative engineering difficulty of the hardware it develops.*
+*[FDCTECH, INC.](/fdct-stock/) (FDCT) competes in the [quantum computing](/qubt-stock/) and advanced electronics sector—a field where technological entry barriers remain extraordinarily high. The company's defensibility stems not from brand or distribution, but from accumulated technical knowledge, patent portfolios, and the cumulative engineering difficulty of the hardware it develops.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FDCT</td></tr>
@@ -24,7 +24,7 @@ A potential competitor in this space faces a multiyear climb. The company cannot
 
 Quantum hardware development necessarily involves patenting novel approaches to qubit design, control electronics, and cryogenic systems. FDCTECH's patent protection in these areas creates a legal barrier against exact copying, though patents in hardware are less protective than many assume—a competitor can usually design around them, but the detour adds years and cost.
 
-The deeper moat is architectural. Once a company has publicly committed to a particular qubit modality—superconducting, ion-trap, photonic, or another approach—it builds internal expertise, tooling, and supplier relationships optimized for that path. Switching to a different architecture mid-company is almost impossible; it means discarding years of work and retraining the entire technical staff. This structural lock-in protects FDCTECH not against startups (which have no sunk costs), but against larger technology companies that might consider quantum hardware a strategic diversification. A company like IBM or Google can leverage manufacturing and capital, but even they cannot easily pivot a quantum division from one modality to another without absorbing massive losses.
+The deeper moat is architectural. Once a company has publicly committed to a particular qubit modality—superconducting, ion-trap, photonic, or another approach—it builds internal expertise, tooling, and supplier relationships optimized for that path. Switching to a different architecture mid-company is almost impossible; it means discarding years of work and retraining the entire technical staff. This structural lock-in protects FDCTECH not against startups (which have no sunk costs), but against larger technology companies that might consider quantum hardware a strategic [diversification](/diversification/). A company like IBM or Google can leverage manufacturing and capital, but even they cannot easily pivot a quantum division from one modality to another without absorbing massive losses.
 
 ## Scale and Talent Concentration
 
@@ -46,7 +46,7 @@ This creates a unique dynamic: the company's defensibility is partially undermin
 
 ## Capital Requirements and Funding Moats
 
-Building quantum hardware systems requires sustained, large-scale R&D spending. FDCTECH's status as a [public company](/public-company/) with access to capital markets, even if the stock price fluctuates, gives it a funding moat relative to private competitors without a clear path to profitability. Small quantum startups must periodically raise venture funding; larger competitors (IBM, Google) have balance sheets that dwarf FDCTECH's. This middle position is both protective and precarious—protective because many startups cannot survive the funding gaps, precarious because a downturn in equity markets could choke off FDCTECH's ability to fund long-term development.
+Building quantum hardware systems requires sustained, large-scale R&D spending. FDCTECH's status as a [public company](/public-company/) with access to capital markets, even if the stock price fluctuates, gives it a funding moat relative to private competitors without a clear path to profitability. Small quantum startups must periodically raise venture funding; larger competitors (IBM, Google) have [balance sheets](/balance-sheet/) that dwarf FDCTECH's. This middle position is both protective and precarious—protective because many startups cannot survive the funding gaps, precarious because a downturn in equity markets could choke off FDCTECH's ability to fund long-term development.
 
 Investors should assess FDCTECH's moat not as absolute, but as conditional: it holds as long as the company maintains top-tier engineering talent, advances the technology faster than competitors, and preserves its capital structure to fund development through quantum's pre-commercial phase. The company's defensibility is therefore dependent on execution and macroeconomic conditions that support deep-tech R&D spending. Once quantum hardware reaches market adoption, the competitive landscape will transform.
 

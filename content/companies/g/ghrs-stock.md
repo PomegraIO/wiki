@@ -37,7 +37,7 @@ In-between, interim trial readouts create optionality. Positive Phase 2 data mig
 
 ## Partnership and Licensing Dynamics
 
-Many clinical-stage biotech companies never self-fund to approval. Instead, they partner with or are acquired by larger pharmaceutical companies. A partner like Compass Pathways or Atai Life Sciences might acquire or license GH Research's technology, inject capital and expertise, and bring the drug to market under its own commercial organization. This partnership solves the capital problem but typically dilutes or transfers upside to the larger entity.
+Many clinical-stage biotech companies never self-fund to approval. Instead, they partner with or are acquired by larger pharmaceutical companies. A partner like [Compass Pathways](/cmps-stock/) or Atai Life Sciences might acquire or license GH Research's technology, inject capital and expertise, and bring the drug to market under its own commercial organization. This partnership solves the capital problem but typically dilutes or transfers upside to the larger entity.
 
 Alternatively, GH Research could retain full commercial rights and build its own commercialization infrastructure—a riskier, more capital-intensive path but one that preserves more upside. The choice depends on the company's access to capital, management experience in drug commercialization, and the size of the addressable market.
 

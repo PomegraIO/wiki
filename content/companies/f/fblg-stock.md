@@ -41,7 +41,7 @@ Allogeneic therapies are subject to rigorous CGMP manufacturing standards and re
 
 ## Post-Approval Manufacturing Changes and Scalability
 
-Even after FDA approval, FibroBiologics faces ongoing manufacturing challenges. Any significant change to the manufacturing process—a new facility, a new cell source, a modified expansion protocol—may require FDA pre-approval (Chemistry, Manufacturing, and Controls supplements and amendments). The FDA can require bridging studies to demonstrate that the new manufacturing process yields a product that is clinically equivalent to the previously approved version. These requirements slow growth and add cost, particularly as the company seeks to manufacture at scale.
+Even after FDA approval, FibroBiologics faces ongoing manufacturing challenges. Any significant change to the manufacturing process—a new facility, a new [cell source](/clcs-stock/), a modified expansion protocol—may require FDA pre-approval (Chemistry, Manufacturing, and Controls supplements and amendments). The FDA can require bridging studies to demonstrate that the new manufacturing process yields a product that is clinically equivalent to the previously approved version. These requirements slow growth and add cost, particularly as the company seeks to manufacture at scale.
 
 ## Gene Therapy Considerations and Genetic Modification
 

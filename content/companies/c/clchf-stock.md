@@ -17,12 +17,12 @@ keywords: ["mineral exploration", "hard rock mining", "junior miner", "geologica
 
 ## The Exploration Imperative
 
-Mining is an extractive, finite industry: once ore is mined, it is gone. Mining companies must continuously replace reserves through exploration or acquisition. A major mining house like Barrick Gold or Newmont can explore globally, operate advanced labs, and employ armies of geologists. But much exploration is too risky, too capital-intensive, or too nascent for a major to undertake directly. Instead, majors fund or acquire junior explorers who take the early-stage risk of finding ore. A junior explorer like Clinch stakes claims on Canadian Crown land, hires contract geologists, conducts preliminary surveys, drills test holes, and if successful, either operates the mine (unlikely; juniors usually lack capital) or sells the asset to a major (the typical exit).
+Mining is an extractive, finite industry: once ore is mined, it is gone. Mining companies must continuously replace reserves through exploration or [acquisition](/acquisition/). A major mining house like Barrick Gold or Newmont can explore globally, operate advanced labs, and employ armies of geologists. But much exploration is too risky, too capital-intensive, or too nascent for a major to undertake directly. Instead, majors fund or acquire junior explorers who take the early-stage risk of finding ore. A junior explorer like Clinch stakes claims on Canadian Crown land, hires contract geologists, conducts preliminary surveys, drills test holes, and if successful, either operates the mine (unlikely; juniors usually lack capital) or sells the asset to a major (the typical exit).
 
 The customer base for Clinch's work product is a mix of:
 - Retail and institutional investors betting on commodity prices and exploration success.
 - Option holders and warrant holders hoping to profit if a discovery is announced.
-- Potential acquirers among mid-tier and major mining companies seeking to buy resources at fair value.
+- Potential acquirers among mid-tier and major mining companies seeking to buy resources at [fair value](/fair-value/).
 
 The fundamental dependency is commodity prices. When copper, gold, or cobalt is expensive, investors are hungry for exploration stories; they fund juniors believing a discovery will be worth millions. When commodities are cheap, few care about exploration; juniors run out of money and collapse. Clinch's viability is thus hostage to macro commodity cycles, which are themselves driven by global economic growth, supply constraints, and investment sentiment.
 
@@ -43,7 +43,7 @@ Clinch's operations follow a structured path:
 **Permitting and feasibility**: If the resource is large enough, the company may pursue environmental permits, mine plans, and economic feasibility studies. This phase is expensive and years-long, and most juniors do not reach it alone.
 
 The entire cycle from staking to resource estimate typically takes 3–5 years and costs $5–50 million depending on property size and drilling depth. Juniors finance this through:
-- Equity financing (selling stock to investors).
+- [Equity financing](/equity-financing/) (selling stock to investors).
 - Joint ventures with major miners who fund exploration in exchange for option to acquire.
 - Optioning land to other juniors or majors.
 
@@ -69,7 +69,7 @@ Environmental and permitting regulations in Canada are increasingly stringent. I
 
 Few juniors become long-term independent businesses; most end in one of three ways:
 - **Acquisition**: A major or mid-tier miner acquires the resource and takes it through development and production.
-- **Merger**: Two or more juniors merge to create a larger entity with more properties and capital.
+- **[Merger](/merger/)**: Two or more juniors merge to create a larger entity with more properties and capital.
 - **Failure**: Capital runs out, no discoveries are made, and the company winds down.
 
 Clinch's long-term viability depends on successfully exploring one or more properties into a resource significant enough to attract acquisition interest, or building a large enough portfolio of properties that the aggregate option value attracts ongoing investment. The sector rewards those with patience, geological acumen, and capital discipline.

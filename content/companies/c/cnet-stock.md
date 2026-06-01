@@ -27,19 +27,19 @@ Before diving into the business fundamentals, you must understand that ZW Data o
 Key documents to find:
 - **Foreign Private Issuer status**: Does the company file with auditor attestation requirements similar to U.S. firms, or is there an exemption? This affects financial statement reliability.
 - **China compliance representations**: What data residency rules apply to the company's operations? Are there restrictions on what Chinese government client data can flow to the U.S.?
-- **Currency exposure**: If the company earns revenue in Chinese yuan (CNY) or other regional currencies and reports in U.S. dollars (USD), currency translation risk will show up in the consolidated statements.
+- **Currency exposure**: If the company earns revenue in Chinese yuan (CNY) or other regional currencies and reports in U.S. dollars (USD), currency translation risk will show up in the [consolidated statements](/consolidated-statements/).
 
 This geopolitical layer is not peripheral—it shapes the entire investment thesis. A shift in U.S.-China policy, a new export control rule, or a Chinese government order can materially reduce the addressable market overnight.
 
 ## Revenue Composition and Client Types
 
-In the 10-K's business description and segment reporting, you'll discover whether ZW Data derives revenue chiefly from:
+In the 10-K's business description and [segment reporting](/segment-reporting/), you'll discover whether ZW Data derives revenue chiefly from:
 
 1. **Government and state enterprises**: Chinese state-owned enterprises (SOEs) and government agencies that rely on the company's data platforms for compliance, regulation, and internal reporting. This customer base is stable but subject to political and policy pressure.
 2. **Private enterprise clients**: Banks, insurance companies, and industrial firms buying software-as-a-service (SaaS) or custom development. This segment is more competitive and price-sensitive.
 3. **Licensing vs. services**: Is the firm selling perpetual or subscription licenses to software, or deriving most revenue from time-and-materials consulting and integration work? Software licensing typically has higher margins and greater recurring revenue; services are more labor-dependent.
 
-The revenue recognition note in the 10-K will clarify when revenue is realized (upfront for licensing, over time for services) and what performance obligations exist. For a software firm, this is critical to understanding earnings quality.
+The [revenue recognition](/revenue-recognition/) note in the 10-K will clarify when revenue is realized (upfront for licensing, over time for services) and what performance obligations exist. For a software firm, this is critical to understanding [earnings quality](/earnings-quality/).
 
 ## Margin Compression and Labor Efficiency
 
@@ -47,13 +47,13 @@ ZW Data's operating margins depend on the mix of revenue: high-margin licensing 
 
 - **Gross margin trends**: Are margins widening (sign of increased software revenue and less services) or narrowing (sign of pricing pressure or shift to lower-margin work)?
 - **Operating expense as a % of revenue**: Sales, marketing, and R&D costs. Is the company investing in product and market expansion, or is it cost-cutting? The narrative in MD&A often explains this.
-- **Headcount and wages**: If disclosed, compare engineer headcount to revenue. Are per-head productivity metrics improving? Wage inflation in China, though lower than in the West, still impacts cost structure.
+- **Headcount and wages**: If disclosed, compare engineer headcount to revenue. Are per-head productivity metrics improving? Wage [inflation](/inflation/) in China, though lower than in the West, still impacts cost structure.
 
 Software firms with strong pricing power and product-market fit tend to grow gross margins as they scale; those losing share or competing on price see margin compression. The trend is your earliest indicator of competitive position.
 
 ## Customer Concentration and Renewal Risk
 
-Like any software vendor dependent on enterprise and government clients, ZW Data faces concentration risk. Look for:
+Like any software vendor dependent on enterprise and government clients, ZW Data faces [concentration risk](/concentration-risk/). Look for:
 
 - **Top customer revenue**: What percentage of annual revenue comes from the largest three or five customers? The 10-K will disclose this or you'll infer it from segment tables.
 - **Contract terms and renewal visibility**: Do contracts auto-renew, or is every customer relationship subject to annual or multi-year RFP cycles? Software vendors with multi-year SaaS contracts have better revenue visibility than those selling professional services.
@@ -69,11 +69,11 @@ The business description and management commentary should hint at what the compa
 - **Platform leverage**: Can the company reuse technology across multiple clients and industries, or is each engagement largely custom? Platform-based businesses scale better.
 - **R&D intensity**: Is the company investing in cutting-edge machine learning, AI, or other emerging tech, or maintaining existing product lines? The R&D budget and headcount breakdown hints at this.
 
-The competitive landscape for data analytics is crowded—Oracle, Salesforce, Microsoft, and AWS all offer overlapping capabilities. ZW Data's advantage likely rests on serving Chinese and Asia-Pacific customers where those Western vendors have less local presence or face regulatory barriers. The 10-K should touch on this implicitly in the business description.
+The competitive landscape for data analytics is crowded—[Oracle](/orcl-stock/), [Salesforce](/crm-stock/), [Microsoft](/msft-stock/), and AWS all offer overlapping capabilities. ZW Data's advantage likely rests on serving Chinese and Asia-Pacific customers where those Western vendors have less local presence or face regulatory barriers. The 10-K should touch on this implicitly in the business description.
 
 ## Capital Structure and Funding Runway
 
-Check the balance sheet and cash flow statement for:
+Check the [balance sheet](/balance-sheet/) and [cash flow statement](/cash-flow-statement/) for:
 
 - **Cash and equivalents**: Does the company have sufficient cash to fund operations and product development, or is it reliant on continued positive cash flow?
 - **Debt**: Is there meaningful debt on the balance sheet? If so, what are covenants and maturity dates?

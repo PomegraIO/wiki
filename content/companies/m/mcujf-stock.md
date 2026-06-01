@@ -35,7 +35,7 @@ If Medicure has licensed its technology to larger pharmaceutical partners, the 1
 
 ## Intellectual Property Estate
 
-Medicure's value depends entirely on its patents and trade secrets. The 10-K will disclose patent applications filed, patents issued, and their expiration dates. A company whose core drug candidate is protected by a patent expiring in 15 years has far more commercial upside than one whose exclusivity expires in 5 years (post-approval). Patent litigation, if any, is disclosed and can materially affect valuation—a loss of a key patent in court materially reduces the company's asset value.
+Medicure's value depends entirely on its patents and trade secrets. The 10-K will disclose patent applications filed, patents issued, and their [expiration dates](/expiration-contracts/). A company whose core drug candidate is protected by a patent expiring in 15 years has far more commercial upside than one whose exclusivity expires in 5 years (post-approval). Patent litigation, if any, is disclosed and can materially affect valuation—a loss of a key patent in court materially reduces the company's asset value.
 
 ## Preclinical and Clinical Trial Data Disclosure
 
@@ -51,7 +51,7 @@ Biotech companies raise capital frequently via equity offerings or convertible d
 
 ## Exit Scenarios and Potential Acquirers
 
-Biotech companies rarely operate independently perpetually; they are acquired, merged, or licensed at various development stages. Medicure's filings may hint at strategic options through discussions of partnership opportunities or references to industry consolidation. An acquisition by a larger pharmaceutical company would likely eliminate the company as a standalone public entity; investors should be aware of this outcome as a potential endpoint.
+Biotech companies rarely operate independently perpetually; they are acquired, merged, or licensed at various development stages. Medicure's filings may hint at strategic options through discussions of partnership opportunities or references to industry consolidation. An [acquisition](/acquisition/) by a larger pharmaceutical company would likely eliminate the company as a standalone public entity; investors should be aware of this outcome as a potential endpoint.
 
 <div class="wiki-seealso">
 ### Closely related

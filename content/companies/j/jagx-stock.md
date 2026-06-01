@@ -34,13 +34,13 @@ The competitive advantage—if any—lies in the specificity of the active compo
 
 ## Capital Structure and Funding
 
-As a [public company](/stock/) trading on NASDAQ, Jaguar has access to capital markets funding but remains small and thinly traded. The company has raised capital through equity offerings and debt to fund product development, regulatory submissions, and marketing. Like many biotech firms with modest revenues, Jaguar must continuously manage [cash burn](/free-cash-flow/) and time new product launches or market expansions to coincide with periods of adequate financing. Dependency on venture capital or equity dilution creates pressure to demonstrate revenue growth and a clear path to profitability.
+As a [public company](/stock/) trading on [NASDAQ](/nasdaq/), Jaguar has access to capital markets funding but remains small and thinly traded. The company has raised capital through equity offerings and debt to fund product development, regulatory submissions, and marketing. Like many biotech firms with modest revenues, Jaguar must continuously manage [cash burn](/free-cash-flow/) and time new product launches or market expansions to coincide with periods of adequate financing. Dependency on venture capital or equity dilution creates pressure to demonstrate revenue growth and a clear path to profitability.
 
 ## Regulatory and Market Uncertainties
 
 The supplement industry operates in an ambiguous regulatory zone. The FDA has broad latitude to challenge product claims, restrict distribution, or reclassify a supplement as a drug, and the agency has periodically taken action against veterinary supplement companies. Jaguar's own products have faced regulatory scrutiny at various points. Any significant FDA enforcement action—whether against the company or the broader botanical supplement category—could impair sales and brand value.
 
-Additionally, the pet health market is seasonal and discretionary; economic downturns can suppress consumer spending on premium health products, even for beloved pets. Jaguar's ability to maintain pricing power and market share during recession is uncertain.
+Additionally, the pet health market is seasonal and discretionary; economic downturns can suppress consumer spending on premium health products, even for beloved pets. Jaguar's ability to maintain pricing power and market share during [recession](/recession/) is uncertain.
 
 ## Research and Development Trajectory
 
@@ -48,7 +48,7 @@ The company continues to explore new indications and formulations for its core c
 
 ## Path Forward
 
-Jaguar Health occupies a defensible but precarious position: the veterinary GI space is real and growing, but highly competitive, capital-intensive, and subject to regulatory risk. The company's pathway to scale requires either sustained profitability through organic growth, a strategic partnership with a larger animal health company, or continued access to capital. Its small market cap and modest revenues reflect both the niche nature of its market and the typical early-stage biotech risk profile—significant upside potential tempered by high execution and regulatory risk.
+Jaguar Health occupies a defensible but precarious position: the veterinary GI space is real and growing, but highly competitive, capital-intensive, and subject to regulatory risk. The company's pathway to scale requires either sustained profitability through organic growth, a strategic partnership with a larger animal health company, or continued access to capital. Its small [market cap](/market-capitalization/) and modest revenues reflect both the niche nature of its market and the typical early-stage biotech risk profile—significant upside potential tempered by high execution and regulatory risk.
 
 <div class="wiki-seealso">
 ### Closely related

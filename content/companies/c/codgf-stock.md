@@ -45,11 +45,11 @@ In North America, where Saint Gobain operates through regional brands (CertainTe
 
 Floating-glass plants, gypsum-board lines, and insulation-manufacturing facilities require massive capital expenditure to build and are difficult to operate profitably at small scale. A competitor cannot simply lease warehouse space and start selling; it must own or operate manufacturing assets, and these assets require high-volume throughput to justify their cost. The high capital bar means that potential entrants are few—mostly other large conglomerates or very well-capitalized private-equity backed rollups.
 
-This capital intensity also protects incumbents from price wars. If a competitor tries to gain market share through aggressive price cuts, Saint Gobain can match those prices because its manufacturing footprint is efficient and well-amortized. A new entrant carrying high debt from recent acquisition or construction cannot match price without destroying returns, limiting the threat.
+This capital intensity also protects incumbents from price wars. If a competitor tries to gain market share through aggressive price cuts, Saint Gobain can match those prices because its manufacturing footprint is efficient and well-amortized. A new entrant carrying high debt from recent [acquisition](/acquisition/) or construction cannot match price without destroying returns, limiting the threat.
 
 ## Fragmentation and Private-Label Pressure
 
-Saint Gobain's moat is not impenetrable. In some product categories (like commodity insulation or basic gypsum), large customers (big-box retailers, major contractors) have pushed for cheaper alternatives and private-label options. Home Depot and Lowe's can pressure Saint Gobain by offering private-label insulation or wallboard, forcing Saint Gobain to accept lower margins on some SKUs. This is particularly true in North America, where customer concentration among a few large retailers is high.
+Saint Gobain's moat is not impenetrable. In some product categories (like commodity insulation or basic gypsum), large customers (big-box retailers, major contractors) have pushed for cheaper alternatives and private-label options. [Home Depot](/hd-stock/) and Lowe's can pressure Saint Gobain by offering private-label insulation or wallboard, forcing Saint Gobain to accept lower margins on some SKUs. This is particularly true in North America, where customer concentration among a few large retailers is high.
 
 In specialty or premium segments—high-performance glass, fire-rated roofing, acoustic panels—Saint Gobain's technical differentiation and reputation hold. In commodity segments, it is more vulnerable to price pressure and private-label competition.
 

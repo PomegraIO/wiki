@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Adyen is an Amsterdam-headquartered payments company that operates a global platform for processing transactions. The company handles the complete flow of moving money between customers, merchants, and financial institutions—card payments, digital wallets, bank transfers, buy-now-pay-later schemes, and local payment methods across dozens of countries.
+Adyen is an Amsterdam-headquartered payments company that operates a global platform for processing transactions. The company handles the complete flow of moving money between customers, merchants, and [financial institutions](/fisi-stock/)—card payments, digital wallets, bank transfers, buy-now-pay-later schemes, and local payment methods across dozens of countries.
 
 The fundamental idea driving Adyen is that modern payment infrastructure remains unnecessarily fragmented. A global company accepting payments online or in physical stores has traditionally needed a patchwork of integrations: separate processors for card networks, other providers for regional payment methods, different systems for online versus physical terminals, and separate reconciliation systems scattered across jurisdictions. Adyen's platform consolidates that operational complexity into a single API, dashboard, and ledger. A merchant doesn't integrate with [Visa](/v-stock/), [Mastercard](/ma-stock/), regional acquirers, and local scheme operators separately; they integrate once with Adyen, which handles the downstream routing, settlement, and compliance.
 

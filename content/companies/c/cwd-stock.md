@@ -4,7 +4,7 @@ description: "A commercial real estate services firm providing project lifecycle
 keywords: [commercial real estate, construction, facilities management, project delivery]
 ---
 
-*[**CaliberCos Inc.**](/cwd-stock/) (formerly known as Caliber Companies) executes the middle steps in commercial real estate development and operations: managing construction projects, completing interior buildouts, and maintaining facilities post-occupancy. The company derives revenue from fixed-price or cost-plus contracts with developers, corporations, and property owners seeking reliable execution and continuity from design through occupancy.*
+*[**CaliberCos Inc.**](/cwd-stock/) (formerly known as Caliber Companies) executes the middle steps in [commercial real estate](/commercial-real-estate/) development and operations: managing construction projects, completing interior buildouts, and maintaining facilities post-occupancy. The company derives revenue from fixed-price or cost-plus contracts with developers, corporations, and property owners seeking reliable execution and continuity from design through occupancy.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CWD</td></tr>
@@ -52,17 +52,17 @@ Materials are sourced through a combination of preferred vendors (for recurring 
 
 ## Capital intensity and leverage
 
-Project delivery requires relatively modest capital—primarily vehicles, tools, and working capital to fund labor and materials until progress billing pays out. Facilities operations require even less capital-intensity. This means CaliberCos is not heavily leveraged by the nature of its operations, though it may use debt for acquisitions (to expand into new markets or service lines) or to smooth cash flow through seasonal or cyclical troughs.
+Project delivery requires relatively modest capital—primarily vehicles, tools, and working capital to fund labor and materials until progress billing pays out. Facilities operations require even less capital-intensity. This means CaliberCos is not heavily leveraged by the nature of its operations, though it may use debt for [acquisitions](/acquisition/) (to expand into new markets or service lines) or to smooth cash flow through seasonal or cyclical troughs.
 
 ## Risks and market cycles
 
-The company's revenue is directly tied to the pace of commercial real estate development and corporate capital spending on real estate. A recession that stalls office development and forces corporations to defer facilities upgrades hits both revenue streams. The 2008–2009 crisis decimated commercial construction; recovery took years. Pandemic-driven shifts toward remote work reduced demand for office space and delayed buildout projects, affecting the sector. Rising interest rates and development financing stress are headwinds again.
+The company's revenue is directly tied to the pace of commercial real estate development and corporate capital spending on real estate. A [recession](/recession/) that stalls office development and forces corporations to defer facilities upgrades hits both revenue streams. The 2008–2009 crisis decimated commercial construction; recovery took years. Pandemic-driven shifts toward remote work reduced demand for office space and delayed buildout projects, affecting the sector. Rising [interest rates](/interest-rate/) and development financing stress are headwinds again.
 
 Labor availability is a chronic constraint. Skilled trade workers (electricians, carpenters, HVAC technicians) are in short supply in many markets, raising wages and compressing margins. The company's ability to retain and develop project management talent is also critical; losing key estimators or site leaders to competitors can degrade execution quality.
 
 ## The service provider's advantage
 
-CaliberCos is not a developer (it doesn't take land risk) or a property owner (it doesn't carry assets on its balance sheet). It is a service provider selling execution. This is lower-risk than development but also lower-margin and more cyclical. The company's moat is operational—the trust and relationships built with repeat clients, the reputation for reliability, the depth of project management expertise—rather than proprietary assets or intellectual property.
+CaliberCos is not a developer (it doesn't take land risk) or a property owner (it doesn't carry assets on its [balance sheet](/balance-sheet/)). It is a service provider selling execution. This is lower-risk than development but also lower-margin and more cyclical. The company's moat is operational—the trust and relationships built with repeat clients, the reputation for reliability, the depth of project management expertise—rather than proprietary assets or intellectual property.
 
 <div class="wiki-seealso">
 

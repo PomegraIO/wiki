@@ -4,7 +4,7 @@ description: "A French polling and market research firm offering consumer insigh
 keywords: ["market research", "consumer surveys", "polling", "data analytics", "France"]
 ---
 
-*A large polling and market research firm born in France, **IPSOS** trades on US exchanges through an American Depositary Receipt under ticker **IPSAY**. The company sells consumer insights—raw data about what people think, buy, and plan to buy—to corporations, governments, and political campaigns that need to understand their markets.*
+*A large polling and market research firm born in France, **IPSOS** trades on US exchanges through an [American Depositary Receipt](/adr/) under ticker **IPSAY**. The company sells consumer insights—raw data about what people think, buy, and plan to buy—to corporations, governments, and political campaigns that need to understand their markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IPSAY</td></tr>
@@ -55,7 +55,7 @@ The company also faces a structural vulnerability: clients sometimes hire multip
 
 Start with IPSOS's [10-K](/10-k/) filing, where it breaks down revenue by region and service type. Pay attention to client concentration—which industries and geographies contribute most revenue, and how many large clients each contributes to. Look for churn: do clients renew contracts or move to competitors?
 
-The company also discloses debt levels and cash generation. Research spending grows proportionally to activity; if cash flow declines but headcount remains flat, the firm is shrinking. Watch for acquisitions of smaller research firms, which signal strategy shifts toward new service areas.
+The company also discloses debt levels and cash generation. Research spending grows proportionally to activity; if cash flow declines but headcount remains flat, the firm is shrinking. Watch for [acquisitions](/acquisition/) of smaller research firms, which signal strategy shifts toward new service areas.
 
 <div class="wiki-seealso">
 ### Closely related

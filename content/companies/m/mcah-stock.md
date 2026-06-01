@@ -4,7 +4,7 @@ description: "A blank-check acquisition vehicle registered with the SEC, structu
 keywords: [acquisition, spac, shell, merger, public-company, cik-2109876]
 ---
 
-*[MCAH](/mcah-stock/) is a **Mountain Crest Acquisition 6 Corp.** (ticker **MCAH**), a special-purpose acquisition company (SPAC) incorporated and registered with the U.S. Securities and Exchange Commission under CIK 2109876. As a blank-check vehicle, it was formed with capital raised from public investors to seek and complete a merger with or acquisition of an operating business, a structure that has become a recognized path to public markets alongside traditional [initial-public-offerings](/initial-public-offering/).*
+*[MCAH](/mcah-stock/) is a **Mountain Crest [Acquisition](/acquisition/) 6 Corp.** (ticker **MCAH**), a special-purpose acquisition company (SPAC) incorporated and registered with the U.S. Securities and Exchange Commission under CIK 2109876. As a blank-check vehicle, it was formed with capital raised from public investors to seek and complete a merger with or acquisition of an operating business, a structure that has become a recognized path to public markets alongside traditional [initial-public-offerings](/initial-public-offering/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MCAH</td></tr>
@@ -22,13 +22,13 @@ What this financial structure requires is a hardened thesis: a plausible sector 
 
 ## Sponsor Alignment and Governance
 
-Mountain Crest was structured with sponsor founders who acquire founder shares at nominal cost—typically $0.001 per share—in exchange for believing in their own thesis hard enough to lock capital at risk. These founder shares carry contractual restrictions: they are subject to a lock-up and cannot be sold until well after a merger closes (if the merger occurs at all). The sponsor thus holds "skin in the game," aligned with other investors on the belief that the target, once identified, will trade profitably and reward patience.
+Mountain Crest was structured with sponsor founders who acquire [founder shares](/founder-shares/) at nominal cost—typically $0.001 per share—in exchange for believing in their own thesis hard enough to lock capital at risk. These founder shares carry contractual restrictions: they are subject to a lock-up and cannot be sold until well after a merger closes (if the merger occurs at all). The sponsor thus holds "skin in the game," aligned with other investors on the belief that the target, once identified, will trade profitably and reward patience.
 
-The trust account operates under strict redemption rights: public shareholders who lose faith in the sponsor or reject the announced merger can cash out at NAV (net asset value) before the vote. This dynamic—that dissenting investors can exit rather than be forced into a merger they oppose—creates a financial incentive for the sponsor team to select a genuinely compelling target. An announcement that triggers mass redemptions is a signal of weak conviction or poor target selection.
+The trust account operates under strict [redemption rights](/redemption-rights-equity/): public shareholders who lose faith in the sponsor or reject the announced merger can cash out at NAV ([net asset value](/net-asset-value/)) before the vote. This dynamic—that dissenting investors can exit rather than be forced into a merger they oppose—creates a financial incentive for the sponsor team to select a genuinely compelling target. An announcement that triggers mass redemptions is a signal of weak conviction or poor target selection.
 
 ## The Path Forward: Merger Economics and Dilution
 
-When and if Mountain Crest announces a target, the published merger documents will reveal several critical financial realities. First, the [enterprise-value](/enterprise-value/) of the target relative to the SPAC's trust account determines how much additional capital is needed. A target valued at $500 million but a SPAC with $150 million in trust faces a shortfall. The sponsor may raise that gap through so-called PIPE (private investment in public equity) financing—committed capital from hedge funds, private equity, or strategic investors who buy shares at the merger price and lock in for a period. Alternatively, the target's existing shareholders may roll significant equity into the merged entity.
+When and if Mountain Crest announces a target, the published merger documents will reveal several critical financial realities. First, the [enterprise-value](/enterprise-value/) of the target relative to the SPAC's trust account determines how much additional capital is needed. A target valued at $500 million but a SPAC with $150 million in trust faces a shortfall. The sponsor may raise that gap through so-called PIPE (private investment in public equity) financing—committed capital from [hedge funds](/hedge-fund/), private equity, or strategic investors who buy shares at the merger price and lock in for a period. Alternatively, the target's existing shareholders may roll significant equity into the merged entity.
 
 Second, existing SPAC investors face dilution. If the founder shares represent 20% of the merged entity (typical for sponsors), and the target's sellers receive 50%, and PIPE investors receive 20%, public shareholders have been diluted from 100% ownership of trust assets to some smaller fraction of the combined company. The attractiveness of that deal hinges on whether the combined entity's future growth justifies the reduced share of ownership.
 
@@ -36,7 +36,7 @@ Second, existing SPAC investors face dilution. If the founder shares represent 2
 
 During the pre-merger phase, Mountain Crest incurs overhead: management, legal, accounting, and investor-relations costs, paid from trust assets or, increasingly, from the sponsor's own pocket. A prolonged search for a target burns capital that would otherwise go to the target or merged operations. SPACs that exceed their merger timeline by months or years without a deal face investor skepticism and potential shareholder challenges.
 
-If no merger closes by deadline, Mountain Crest is obligated by its certificate of incorporation to liquidate—return trust capital to shareholders and dissolve. At that point, the only losers are the sponsors, who forfeited their founder shares and their management fees. Public shareholders walk away with their cash (minus any actual fees charged).
+If no merger closes by deadline, Mountain Crest is obligated by its certificate of incorporation to liquidate—return trust capital to shareholders and dissolve. At that point, the only losers are the sponsors, who forfeited their founder shares and their [management fees](/management-fee/). Public shareholders walk away with their cash (minus any actual fees charged).
 
 ## Sector Positioning and Risk
 

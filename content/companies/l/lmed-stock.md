@@ -4,7 +4,7 @@ description: "Clinical-stage AI-driven diagnostics company targeting underserved
 keywords: ["healthcare technology", "diagnostic AI", "emerging markets", "medical devices", "Latin America"]
 ---
 
-*A clinical-stage diagnostic company, **LataMed AI Corp. (LMED)**, develops artificial intelligence–powered imaging and laboratory analysis tools designed to improve clinical decision-making in Latin American healthcare systems where specialists and diagnostic infrastructure are geographically sparse. The company's strategy centers on making sophisticated diagnostic capability accessible to primary-care and mid-tier clinics where traditional [stock](/stock/) investors often overlook an entire category of underserved operators.*
+*A clinical-stage diagnostic company, **LataMed AI Corp. (LMED)**, develops artificial intelligence–powered imaging and laboratory analysis tools designed to improve clinical decision-making in Latin [American healthcare](/ahr-stock/) systems where specialists and diagnostic infrastructure are geographically sparse. The company's strategy centers on making sophisticated diagnostic capability accessible to primary-care and mid-tier clinics where traditional [stock](/stock/) investors often overlook an entire category of underserved operators.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>LMED</td></tr>
@@ -37,13 +37,13 @@ Examine the company's regulatory filings, partnership agreements with hospitals,
 
 ## Geographic and Reimbursement Risk
 
-LataMed's concentration in Latin America is both its thesis and its vulnerability. Economic downturns, healthcare privatization, and shifts in national insurance policies affect adoption and pricing power. Brazil and Mexico account for a large share of regional healthcare spending, but both face periodic budget cuts and currency volatility. If a major partner system reduces IT spending or renegotiates contracts, revenue can shift rapidly.
+LataMed's concentration in Latin America is both its thesis and its vulnerability. Economic downturns, healthcare privatization, and shifts in national insurance policies affect adoption and pricing power. Brazil and Mexico account for a large share of regional healthcare spending, but both face periodic budget cuts and [currency volatility](/currency-volatility/). If a major partner system reduces IT spending or renegotiates contracts, revenue can shift rapidly.
 
-Currency risk is structural: LataMed likely earns revenue in Mexican pesos, Brazilian reals, and Colombian pesos, then reports in U.S. dollars. Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
+[Currency risk](/currency-risk/) is structural: LataMed likely earns revenue in Mexican pesos, Brazilian reals, and Colombian pesos, then reports in U.S. dollars. Unfavorable FX movements compress reported [gross-profit-margin](/gross-profit-margin/) without any change in operational performance.
 
 ## Capital Intensity and Path to Profitability
 
-As a clinical-stage company, LataMed likely operates at a [net loss](/income-statement/). Operating leverage exists—software scales without proportional cost increases—but the company must first achieve critical mass in its markets. Analysts should model the cash runway: how long until deployed systems generate enough recurring revenue to offset R&D and G&A? Is the [balance-sheet](/balance-sheet/) strength sufficient to reach that milestone, or will the company require additional equity or debt financing?
+As a clinical-stage company, LataMed likely operates at a [net loss](/income-statement/). Operating leverage exists—software scales without proportional cost increases—but the company must first achieve critical mass in its markets. Analysts should model the cash runway: how long until deployed systems generate enough recurring revenue to offset R&D and G&A? Is the [balance-sheet](/balance-sheet/) strength sufficient to reach that milestone, or will the company require additional equity or [debt financing](/debt-financing/)?
 
 Examine the [price-to-sales-ratio](/price-to-sales-ratio/) and [enterprise-value](/enterprise-value/) metrics relative to comparable diagnostic software or medical device peers. Clinical-stage companies trade at a discount because profitability is uncertain; the stock re-rates sharply when the company crosses into sustainable positive cash generation.
 

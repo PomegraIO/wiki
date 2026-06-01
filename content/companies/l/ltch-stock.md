@@ -19,7 +19,7 @@ keywords: ["software", "saas", "buildings", "technology", "access-control"]
 
 Latch followed the typical venture-backed software playbook: founded by entrepreneurs with a vision for smart building access, funded by [venture-capital](/stock/) firms willing to invest in teams and market opportunity, growth-at-all-costs to capture market share, and eventual [initial-public-offering](/initial-public-offering/) to raise capital at scale and provide founder/investor exit. This trajectory shapes Latch's capital structure fundamentally.
 
-Venture capital is patient but not free. Early-stage investors (seed and Series A) accept high failure risk in exchange for large ownership stakes and eventual liquidation events—either acquisition at a premium or IPO. Latch navigated the IPO, which meant selling public equity to raise cash for operations and repaying/rewarding early investors. The company now faces the challenge of proving that it can grow into its [market-capitalization](/market-capitalization/) valuation—the IPO priced the company at a level that assumes rapid growth and eventual profitability.
+Venture capital is patient but not free. Early-stage investors (seed and Series A) accept high failure risk in exchange for large ownership stakes and eventual [liquidation](/liquidation/) events—either [acquisition](/acquisition/) at a premium or IPO. Latch navigated the IPO, which meant selling public equity to raise cash for operations and repaying/rewarding early investors. The company now faces the challenge of proving that it can grow into its [market-capitalization](/market-capitalization/) valuation—the IPO priced the company at a level that assumes rapid growth and eventual profitability.
 
 ## Subscription Revenue and Cloud Software Unit Economics
 
@@ -37,7 +37,7 @@ Latch is not pure software; it also manufactures and sells physical devices—sm
 
 The hardware serves a strategic purpose: it locks in customers. A building owner who has invested in Latch locks and intercoms is less likely to switch to a competitor (switching costs are high: rip-out and replace). Hardware is a moat. But it is an expensive moat to maintain.
 
-The capital structure reflects this hardware cost: Latch must maintain inventory, manage supply chain risks, and invest in product development for physical devices. This capital intensity is visible in the [balance sheet](/balance-sheet/) as inventory and property/plant/equipment, and in the cash flow statement as capital expenditures.
+The capital structure reflects this hardware cost: Latch must maintain inventory, manage supply chain risks, and invest in product development for physical devices. This capital intensity is visible in the [balance sheet](/balance-sheet/) as inventory and property/plant/equipment, and in the [cash flow statement](/cash-flow-statement/) as capital expenditures.
 
 ## Path to Profitability and the Growth-vs.-Profit Tension
 
@@ -48,7 +48,7 @@ The capital structure reflects this bet. Public shareholders (through the IPO) a
 2. Improve [gross-profit-margins](/gross-profit-margin/) and sales efficiency as it scales,
 3. Achieve [free-cash-flow](/free-cash-flow/) positivity within 3-5 years.
 
-If Latch succeeds, the initial public shareholders enjoy capital appreciation and possible future dividends. If Latch stalls (slow growth, persistent operating losses), the [market-capitalization](/market-capitalization/) will reprrice downward, and public shareholders face losses.
+If Latch succeeds, the initial public shareholders enjoy capital appreciation and possible future [dividends](/dividend/). If Latch stalls (slow growth, persistent operating losses), the [market-capitalization](/market-capitalization/) will reprrice downward, and public shareholders face losses.
 
 This tension is built into Latch's capital structure: the IPO price assumes growth; the company must now deliver it.
 

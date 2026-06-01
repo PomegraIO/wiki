@@ -39,7 +39,7 @@ The company also competes against established TRD treatments like ketamine-based
 
 Clinical-stage biotechs like Cingulate burn cash: they have R&D, regulatory, and administrative costs with no offsetting revenue. Cingulate must fund itself through equity offerings (selling shares to raise capital) or partnerships (licensing its technology or clinical programs to larger pharma for upfront payments and royalties).
 
-Equity funding dilutes existing shareholders but allows the company to maintain full upside if programs succeed. Partnership funding preserves ownership but caps upside (the partner typically owns a large share of profits). Cingulate's balance sheet and cap table (the list of shareholders and their holdings) reveal how much capital remains, how fast it is burning it, and thus how long the company can fund operations and clinical trials before it must raise more capital or find a partner.
+Equity funding dilutes existing shareholders but allows the company to maintain full upside if programs succeed. Partnership funding preserves ownership but caps upside (the partner typically owns a large share of profits). Cingulate's [balance sheet](/balance-sheet/) and cap table (the list of shareholders and their holdings) reveal how much capital remains, how fast it is burning it, and thus how long the company can fund operations and clinical trials before it must raise more capital or find a partner.
 
 The burn rate is crucial because it sets the runway—how many months or years until cash runs out. If Cingulate can reach a major clinical trial milestone (a positive Phase 2 result, for instance) before cash depletes, it can raise capital at a higher valuation. If cash runs out before meaningful progress, the company faces a fire-sale financing or insolvency.
 
@@ -53,7 +53,7 @@ The company's scientific credibility depends partly on whether its trial designs
 
 Most clinical-stage biotechs have a limited set of exit scenarios. A successful program gets approved and generates royalties or profits, enriching shareholders. A failed program is abandoned and the company either pivots (if it has other programs) or shuts down. Alternatively, the company is acquired by larger pharma (often at a modest premium or even a discount if the candidate is in late-stage trouble).
 
-Cingulate's valuation is therefore speculative and highly sensitive to trial results and clinical-trial market sentiment. In bull markets for biotech, investors reward clinical-stage companies aggressively; in bear markets or after failed trials, valuations collapse. A fair current valuation requires estimating probability-adjusted NPV of each program (clinical probability of success multiplied by peak sales potential, risk-adjusted for time), which is more art than science.
+Cingulate's valuation is therefore speculative and highly sensitive to trial results and clinical-trial market sentiment. In [bull markets](/bull-market/) for biotech, investors reward clinical-stage companies aggressively; in [bear markets](/bear-market/) or after failed trials, valuations collapse. A fair current valuation requires estimating probability-adjusted NPV of each program (clinical probability of success multiplied by peak sales potential, risk-adjusted for time), which is more art than science.
 
 ## Investment and Research Anchors
 

@@ -4,7 +4,7 @@ description: "Colibri Resource Corp is a junior mining exploration company focus
 keywords: ["mineral exploration", "junior mining", "mining company", "resource exploration", "precious metals"]
 ---
 
-*Mining is historically segmented into tiers: majors (BHP, Rio Tinto) that operate large, producing assets; mid-tiers that own single or few operating mines; and juniors that explore and develop early-stage projects in hopes of discovery. **Colibri Resource Corp (CRUCF)** occupies the junior space, competing through targeted geological expertise and capital efficiency rather than through operational reach or balance-sheet scale. A junior miner's value is speculative and concentrated: it lives or dies on whether its exploration programs discover economic-grade ore bodies, and whether it can either develop them or sell them to a mid-tier operator for cash.*
+*Mining is historically segmented into tiers: majors (BHP, [Rio Tinto](/rtntf-stock/)) that operate large, producing assets; mid-tiers that own single or few operating mines; and juniors that explore and develop early-stage projects in hopes of discovery. **Colibri Resource Corp (CRUCF)** occupies the junior space, competing through targeted geological expertise and capital efficiency rather than through operational reach or balance-sheet scale. A junior miner's value is speculative and concentrated: it lives or dies on whether its exploration programs discover economic-grade ore bodies, and whether it can either develop them or sell them to a mid-tier operator for cash.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CRUCF</td></tr>
@@ -21,7 +21,7 @@ A junior mining company owns or has concession rights to claims (parcels of land
 
 This cash burn model creates a fundamental competitive asymmetry. A junior with $100 million in capital can fund more exploration programs and withstand longer development timelines than a junior with $20 million. Yet a junior with a single exceptional discovery can be worth billions, while a junior with multiple dry holes burns to irrelevance. The outcome is binary: discovery or death. This is why junior mining is dominated by speculators and specialty investors, not generalist equity funds.
 
-Colibri, as a smaller junior, competes by (a) identifying geologically prospective ground at low acquisition cost, (b) recruiting experienced geologists who can interpret geological signals accurately, and (c) managing exploration programs with discipline to maximize information per dollar spent. It does not compete on balance-sheet size or operational experience; it competes on geological insight and capital efficiency.
+Colibri, as a smaller junior, competes by (a) identifying geologically prospective ground at low [acquisition](/acquisition/) cost, (b) recruiting experienced geologists who can interpret geological signals accurately, and (c) managing exploration programs with discipline to maximize information per dollar spent. It does not compete on balance-sheet size or operational experience; it competes on geological insight and capital efficiency.
 
 ## Geographic and Commodity Positioning
 
@@ -51,7 +51,7 @@ Colibri's ability to navigate permitting frameworks—and to build relationships
 
 Colibri's value is realizable only upon (a) economic discovery, (b) sale to a mid-tier or major miner, or (c) development into a producing asset. For most juniors, sale to a larger operator is the likely exit; developing a mine requires capital, operational expertise, and commodity price favorability that few juniors possess independently. The company must therefore position itself to be attractive to acquirers—finding discoveries that mid-tiers will value, in jurisdictions they already operate, for commodities in their portfolio.
 
-This creates an incentive to explore in tier-one jurisdictions and for tier-one commodities, which paradoxically reduces geographic and commodity diversification and increases competition among juniors for the same opportunity set.
+This creates an incentive to explore in tier-one jurisdictions and for tier-one commodities, which paradoxically reduces geographic and commodity [diversification](/diversification/) and increases competition among juniors for the same opportunity set.
 
 ## Volatility and Commodity Price Dependency
 

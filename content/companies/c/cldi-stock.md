@@ -37,7 +37,7 @@ The secular question—Does this therapeutic approach work?—dominates the secu
 
 ## Regulatory Dependency and the Path to Approvability
 
-Clinical-stage biotechs operate within an opaque regulatory environment. The FDA's willingness to grant [Investigational New Drug (IND)](/stock/) approvals, grant breakthrough-therapy designations, or approve a New Drug Application hinges on scientific merit and safety—not economic cycle. The agency's staffing levels and review timelines are stable across recessions and booms alike.
+Clinical-stage biotechs operate within an opaque regulatory environment. The FDA's willingness to grant [Investigational New Drug (IND)](/stock/) approvals, grant breakthrough-therapy designations, or approve a New Drug Application hinges on scientific merit and safety—not economic cycle. The agency's staffing levels and review timelines are stable across [recessions](/recession/) and booms alike.
 
 For cell therapies specifically, regulators demand increasingly detailed manufacturing specifications, quality controls, and evidence that the product performs consistently across manufacturing runs. This is a tech and quality problem, not an economic one. A company with superior manufacturing processes has a structural advantage; one with inferior processes faces a secular competitive disadvantage.
 

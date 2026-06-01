@@ -35,25 +35,25 @@ The distribution strategy is mixed: direct sales to large contractors and infras
 
 ## Cyclicality and Capital Project Timing
 
-Enerpac's business is tied to construction and infrastructure spending. When capital projects are active — roads, bridges, plants, expansions — demand for tools rises. Recessions and budget cuts dry up project backlogs. The company's revenue therefore correlates with economic cycles and, in some cases, government infrastructure stimulus or spending priorities. A downturn can see utilization drop as contractors reduce work, lowering tool sales and repair traffic.
+Enerpac's business is tied to construction and infrastructure spending. When capital projects are active — roads, bridges, plants, expansions — demand for tools rises. [Recessions](/recession/) and budget cuts dry up project backlogs. The company's revenue therefore correlates with economic cycles and, in some cases, government infrastructure stimulus or spending priorities. A downturn can see utilization drop as contractors reduce work, lowering tool sales and repair traffic.
 
 However, within this cyclicality, Enerpac benefits from replacement demand: tools wear out, break, and require maintenance regardless of new project activity. Existing infrastructure must be maintained and repaired, providing a baseline for recurring tool sales and service. A contractor who owns Enerpac equipment keeps buying parts and service even in lean times.
 
 ## Competitive Positioning in a Fragmented Market
 
-The industrial tools sector is fragmented. Enerpac competes against manufacturers like SPX Corporation (which owns diversified industrial brands), Actuant (now actuant, spinoff from Xylem), and numerous smaller regional hydraulics shops. Large players have broad product lines and economies of scale; smaller competitors are nimble and focus on niches. Enerpac's advantage is scale in manufacturing and a long brand history in hydraulics, offset by competitors' breadth or price aggressiveness.
+The industrial tools sector is fragmented. Enerpac competes against manufacturers like SPX Corporation (which owns diversified industrial brands), Actuant (now actuant, [spinoff](/spinoff/) from Xylem), and numerous smaller regional hydraulics shops. Large players have broad product lines and economies of scale; smaller competitors are nimble and focus on niches. Enerpac's advantage is scale in manufacturing and a long brand history in hydraulics, offset by competitors' breadth or price aggressiveness.
 
 Differentiation hinges on product reliability, after-sales support, training, and reputation. A tool that fails under load creates liability and costs for the user, making brand trust crucial. Enerpac's investments in quality, testing, and service networks aim to establish this trust and justify a brand premium.
 
 ## Geographic and Industry Diversification
 
-Enerpac serves multiple end markets: construction, manufacturing maintenance, utilities, wind energy (a growing segment), bridges and infrastructure, and industrial operations. Diversification across industries smooths revenue when one sector weakens. A decline in building construction can be offset by growth in wind turbine maintenance or utility work. This reduces exposure to any single customer or industry.
+Enerpac serves multiple end markets: construction, manufacturing maintenance, utilities, wind energy (a growing segment), bridges and infrastructure, and industrial operations. [Diversification](/diversification/) across industries smooths revenue when one sector weakens. A decline in building construction can be offset by growth in wind turbine maintenance or utility work. This reduces exposure to any single customer or industry.
 
 Geographic diversification — sales in North America, Europe, and other regions — similarly hedges against regional economic cycles. A downturn in US construction might be offset by infrastructure spending in Europe or Asia. However, this breadth also complicates operations: managing factories, sales forces, and service networks across regions requires scale and operational discipline.
 
 ## Capital Intensity and Balance Sheet
 
-Enerpac is capital-intensive: factories, equipment, tooling, and service infrastructure require upfront investment. The company must balance growth investment with cash returns to shareholders through [dividends](/dividend/) or [share buybacks](/share-buyback/). During downturns, capital spending is deferred; during booms, growth investments accelerate to capture market share. The [balance sheet](/balance-sheet/) reflects this: cyclical swings in inventory (if demand drops, tools stockpile), changes in debt levels (borrowing to fund growth or acquisition), and working capital shifts.
+Enerpac is capital-intensive: factories, equipment, tooling, and service infrastructure require upfront investment. The company must balance growth investment with cash returns to shareholders through [dividends](/dividend/) or [share buybacks](/share-buyback/). During downturns, capital spending is deferred; during booms, growth investments accelerate to capture market share. The [balance sheet](/balance-sheet/) reflects this: cyclical swings in inventory (if demand drops, tools stockpile), changes in debt levels (borrowing to fund growth or [acquisition](/acquisition/)), and working capital shifts.
 
 <div class="wiki-seealso">
 ### Closely related

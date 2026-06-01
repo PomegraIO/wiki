@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**ABB is a global industrial powerhouse spanning electrification, motion control, and automation.**
+**ABB is a [global industrial](/gic-stock/) powerhouse spanning electrification, motion control, and automation.**
 
 ## Operations & Scale
 

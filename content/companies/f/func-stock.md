@@ -27,7 +27,7 @@ This is low-margin, labor-intensive work. Every mortgage must be underwritten. E
 
 First United is not a technology play. It will never scale to billions of customers or operate with minimal overhead. It exists because certain borrowers and savers prefer dealing with a local institution. A small business owner in Maryland may get better terms, better service, or faster decisions from First United than from a megabank. Depositors may value the personal relationship or the familiarity of a neighborhood branch.
 
-This niche is real but shrinking. Online banks now offer competitive savings rates to any customer with internet access. Mortgage borrowers can shop nationally via online platforms. Small-business loans are increasingly offered by fintechs and fintech-enabled lenders. First United's local-advantage margin has compressed over the past ten years and will likely keep compressing.
+This niche is real but shrinking. Online banks now offer competitive [savings rates](/savings-rate/) to any customer with internet access. Mortgage borrowers can shop nationally via online platforms. Small-business loans are increasingly offered by fintechs and fintech-enabled lenders. First United's local-advantage margin has compressed over the past ten years and will likely keep compressing.
 
 ## Scale disadvantage
 
@@ -39,13 +39,13 @@ This scale disadvantage is structural and permanent. First United will never be 
 
 Like all banks, First United is sensitive to economic downturns. When unemployment rises or real-estate values fall, loan defaults increase and the bank must reserve more capital against losses. This directly cuts profitability.
 
-First United's small size means it has less diversification than larger banks. If its market — say, a specific county in Maryland — experiences a localized downturn — factory closure, real-estate crash — the bank has fewer offsetting good markets to balance the losses. A large regional bank facing the same downturn would absorb it across a dozen markets. First United cannot.
+First United's small size means it has less [diversification](/diversification/) than larger banks. If its market — say, a specific county in Maryland — experiences a localized downturn — factory closure, real-estate crash — the bank has fewer offsetting good markets to balance the losses. A large regional bank facing the same downturn would absorb it across a dozen markets. First United cannot.
 
-This concentration risk is a reason to scrutinize First United's loan portfolio carefully. What are the largest individual borrowers and industries? How much is exposed to one geographic area or sector? The answers determine how vulnerable the bank is to a downturn.
+This [concentration risk](/concentration-risk/) is a reason to scrutinize First United's loan portfolio carefully. What are the largest individual borrowers and industries? How much is exposed to one geographic area or sector? The answers determine how vulnerable the bank is to a downturn.
 
 ## Interest-rate and deposit dynamics
 
-First United's spread depends on the interest-rate environment. When the Federal Reserve raises rates, banks typically benefit because they can reprice loans faster than deposits. But First United, being small, has less sophistication in managing its interest-rate risk. Large banks use complex hedging strategies. First United likely manages its gap the old-fashioned way — by managing the maturity profile of its deposits and loans.
+First United's spread depends on the interest-rate environment. When the [Federal Reserve](/federal-reserve/) raises rates, banks typically benefit because they can reprice loans faster than deposits. But First United, being small, has less sophistication in managing its [interest-rate risk](/interest-rate-risk/). Large banks use complex hedging strategies. First United likely manages its gap the old-fashioned way — by managing the maturity profile of its deposits and loans.
 
 Additionally, a small bank in a competitive market faces pressure on deposit rates. If larger banks nearby are offering higher yields on savings accounts, depositors will move their money. First United must match those rates to keep deposits, which compresses its spread. The bank is thus a price-taker, not a price-maker, in its deposit market.
 
@@ -59,7 +59,7 @@ In a downturn, the bank might cut its dividend to conserve capital for loan-loss
 
 First United is small enough to be acquired by a larger bank. Consolidation has been a persistent theme in regional banking for thirty years. A larger bank might see value in First United's customer relationships, loan portfolio, or branch locations. If acquired, First United's independent existence would end and shareholders would receive a price per share determined by the acquiring bank's board and First United's board in negotiation.
 
-This acquisition option is a structural feature of the business. It makes First United more valuable than it would be as a standalone forever, because someone else might eventually buy it. But it also creates uncertainty about long-term strategy and shareholder returns.
+This [acquisition](/acquisition/) option is a structural feature of the business. It makes First United more valuable than it would be as a standalone forever, because someone else might eventually buy it. But it also creates uncertainty about long-term strategy and shareholder returns.
 
 ## Where to look
 

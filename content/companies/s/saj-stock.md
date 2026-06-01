@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Saratoga Investment Corp., trading under the ticker SAJ, is a publicly listed debt security—specifically, a baby bond or note—that finances the operations of Saratoga Investment Corp (the operating entity behind it), a regulated [business development company](/wiki/business-development-company/) that lends to mid-sized American businesses. The relationship is a two-tier structure: SAJ itself is a tradeable senior unsecured debt instrument, while the underlying business is a BDC that earns income from lending and deploying capital in private credit.
+[Saratoga Investment](/sar-stock/) Corp., trading under the ticker SAJ, is a publicly listed debt security—specifically, a baby bond or note—that finances the operations of Saratoga Investment Corp (the operating entity behind it), a regulated [business development company](/wiki/business-development-company/) that lends to mid-sized American businesses. The relationship is a two-tier structure: SAJ itself is a tradeable senior unsecured debt instrument, while the underlying business is a BDC that earns income from lending and deploying capital in private credit.
 
 **The Underlying BDC Model**
 

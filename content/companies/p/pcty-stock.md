@@ -47,7 +47,7 @@ Paylocity operates on scale: one engineering team updates the software for all c
 
 The company faces pressure from both directions. From above, ADP and Paychex have vast scale and brand awareness and can afford to undercut on price or bundle Paylocity's offerings into a broader solution. From below, simpler, cheaper alternatives like Gusto are steadily moving up-market, building more features and trying to capture customers at the point of origin before they outgrow simpler tools.
 
-Data security is a constant concern in payroll software, because attackers [target](/tgt-stock/) the sensitive personal and financial information Paylocity holds on behalf of customers. Paylocity has had to invest heavily in security and compliance to maintain customer trust.
+Data security is a constant concern in payroll software, because attackers target the sensitive personal and financial information Paylocity holds on behalf of customers. Paylocity has had to invest heavily in security and compliance to maintain customer trust.
 
 Market growth also matters. The US payroll-software market is mature and growing slowly — most eligible companies already use some kind of payroll system. Growth for Paylocity comes from capturing customers from competitors, from moving up-market as customers grow, and from geographic or product expansion. International expansion has been slow and requires navigating different employment laws and compliance regimes in every country.
 

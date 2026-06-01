@@ -28,7 +28,7 @@ Client concentration also matters. If three clients represent 60% of revenue and
 
 ## Offshore Delivery and Currency Risk
 
-If SKYTECH operates engineering centers in India or elsewhere and bills customers in USD or EUR, the company faces translation risk. When the dollar strengthens against the Indian rupee, the company's ability to bid competitively against pure-offshore competitors erodes—US-based customers will demand price cuts to match offshore rates. Conversely, when the dollar weakens, SKYTECH's cost advantage improves and margins can expand, but such gains are temporary and market dynamics adjust accordingly.
+If SKYTECH operates engineering centers in India or elsewhere and bills customers in USD or EUR, the company faces translation risk. When the dollar strengthens against the [Indian rupee](/indian-rupee/), the company's ability to bid competitively against pure-offshore competitors erodes—US-based customers will demand price cuts to match offshore rates. Conversely, when the dollar weakens, SKYTECH's cost advantage improves and margins can expand, but such gains are temporary and market dynamics adjust accordingly.
 
 Offshore delivery also introduces customer concentration in specific industries or geographies. If 40% of revenue comes from banking clients in London and European regulation changes (e.g., data residency rules), entire customer relationships evaporate. SKYTECH's resilience depends on whether its client base is diversified across industries and regions or concentrated in specific pockets vulnerable to regulatory or economic shock.
 
@@ -46,19 +46,19 @@ Conversely, if growth slows, in-flight project receivables stop accumulating and
 
 ## Talent Retention and Wage Pressure
 
-SKYTECH's ability to sustain wage-cost arbitrage depends on retaining engineering talent. In a competitive market (e.g., Indian tech talent pivoting to startups or emigrating), wage pressures rise. SKYTECH may see salary inflation in key markets while customer pricing holds flat, squeezing margins. Retention also matters for customer relationships: if lead engineers depart mid-project, customer satisfaction falls and future contract wins suffer.
+SKYTECH's ability to sustain wage-cost arbitrage depends on retaining engineering talent. In a competitive market (e.g., Indian tech talent pivoting to startups or emigrating), wage pressures rise. SKYTECH may see salary [inflation](/inflation/) in key markets while customer pricing holds flat, squeezing margins. Retention also matters for customer relationships: if lead engineers depart mid-project, customer satisfaction falls and future contract wins suffer.
 
-Large tech firms (Google, Microsoft, Amazon) hiring aggressively in India and Southeast Asia directly compete for SKYTECH's staff, bidding up salaries. SKYTECH's ability to retain talent depends on offering competitive compensation, growth opportunities, or equity upside—none of which compress cost.
+Large tech firms (Google, [Microsoft](/msft-stock/), Amazon) hiring aggressively in India and Southeast Asia directly compete for SKYTECH's staff, bidding up salaries. SKYTECH's ability to retain talent depends on offering competitive compensation, growth opportunities, or equity upside—none of which compress cost.
 
 ## Industry and Geographic Exposure
 
-SKYTECH's earnings quality depends on whether its customers operate in stable, growing industries (technology, financial services, healthcare) or cyclical ones (retail, manufacturing, real estate). A services company heavy on retail clients faces headwinds in a consumer downturn. A company focused on banking or insurance enjoys more stable demand but faces greater regulatory and compliance complexity.
+SKYTECH's [earnings quality](/earnings-quality/) depends on whether its customers operate in stable, growing industries (technology, financial services, healthcare) or cyclical ones (retail, manufacturing, real estate). A services company heavy on retail clients faces headwinds in a consumer downturn. A company focused on banking or insurance enjoys more stable demand but faces greater regulatory and compliance complexity.
 
 Similarly, geographic concentration creates risk. If 50% of revenue comes from the Middle East and oil prices collapse, SKYTECH's clients contract spending. If concentrated in China, geopolitical tension or capital controls can freeze spending. Truly global operations mean less vulnerability to any single market shock.
 
 ## Path to Profitability and Scale
 
-SKYTECH's profitability trajectory depends on whether management can grow revenue faster than overhead. If annual revenue is $50 million and growing 20% while headcount grows 25%, the company is overheading and margins compress. If revenue grows 20% on 10% headcount growth, margin expansion occurs. For a global services company, this typically requires either ruthless cost discipline or high pricing power (premium positioning in specific niches). SKYTECH's 10-K should show whether operating margin is expanding, stable, or declining—a critical signal of management execution.
+SKYTECH's profitability trajectory depends on whether management can grow revenue faster than overhead. If annual revenue is $50 million and growing 20% while headcount grows 25%, the company is overheading and margins compress. If revenue grows 20% on 10% headcount growth, margin expansion occurs. For a global services company, this typically requires either ruthless cost discipline or high pricing power (premium positioning in specific niches). SKYTECH's 10-K should show whether [operating margin](/operating-margin/) is expanding, stable, or declining—a critical signal of management execution.
 
 <div class="wiki-seealso">
 ### Closely related

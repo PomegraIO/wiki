@@ -34,7 +34,7 @@ The investment community understands this and prices Mako's stock accordingly. A
 
 ## Capital Intensity and Project Financing
 
-Building a mine is capital-intensive: hundreds of millions of dollars are required to construct mining equipment, processing mills, tailings infrastructure, and ancillary facilities. Mako funds this through a combination of equity (stock offerings), debt, joint ventures, or partnerships. If equity markets are unfavorable or debt financing is unavailable, project development stalls.
+Building a mine is capital-intensive: hundreds of millions of dollars are required to construct mining equipment, processing mills, tailings infrastructure, and ancillary facilities. Mako funds this through a combination of equity (stock offerings), debt, joint ventures, or partnerships. If equity markets are unfavorable or [debt financing](/debt-financing/) is unavailable, project development stalls.
 
 Once in production, operating cash flows should be sufficient to cover ongoing costs, reinvestment, and debt service. But during the development phase, Mako is burning cash with no offsetting mine revenue. The company must have sufficient capital on hand (or access to it) to complete the project. If capital markets close and Mako runs low on cash with development incomplete, the project may be abandoned at great loss.
 
@@ -48,13 +48,13 @@ This creates enormous operating leverage: a small drop in commodity prices can s
 
 Commodity prices are set by global supply and demand, geopolitical events, macroeconomic cycles, and sentiment. Gold prices may surge during periods of economic uncertainty (safe-haven demand) or fall during periods of strong economic growth and dollar strength. Copper prices correlate with industrial production and construction.
 
-Some mining companies hedge commodity prices—locking in future prices through futures contracts or options—to reduce volatility and improve planning certainty. Hedging costs money upfront but reduces downside risk. Mako's hedging strategy (or lack thereof) is disclosed in the 10-K and is a key risk factor. An unhedged producer faces full commodity-price risk; a fully hedged producer has lower volatility but has also given up upside if prices spike.
+Some mining companies hedge commodity prices—locking in future prices through [futures contracts](/futures-contract/) or options—to reduce volatility and improve planning certainty. Hedging costs money upfront but reduces downside risk. Mako's hedging strategy (or lack thereof) is disclosed in the 10-K and is a key risk factor. An unhedged producer faces full commodity-price risk; a fully hedged producer has lower volatility but has also given up upside if prices spike.
 
 ## Operating and Environmental Compliance
 
 Mining is subject to stringent environmental, safety, and permitting regulations. A mine must obtain permits from state and federal agencies, comply with water and air quality standards, and manage tailings (waste rock and processing slurry) responsibly. Environmental remediation costs can be substantial and sometimes extend into the future, long after the mine closes.
 
-Mako's liabilities include both current operating costs and future environmental remediation obligations. The 10-K discloses asset retirement obligations and contingent liabilities related to environmental cleanup. A large, costly remediation project can erode profitability; conversely, a company in a jurisdiction with strict enforcement faces higher regulatory costs but also clarity on compliance expectations.
+Mako's liabilities include both current operating costs and future environmental remediation obligations. The 10-K discloses asset retirement obligations and [contingent liabilities](/contingent-liabilities-government/) related to environmental cleanup. A large, costly remediation project can erode profitability; conversely, a company in a jurisdiction with strict enforcement faces higher regulatory costs but also clarity on compliance expectations.
 
 ## Sovereign Risk and Geopolitical Dependency
 
@@ -64,7 +64,7 @@ The 10-K discloses the geographic location of Mako's mines and material properti
 
 ## Reserve Life and Replacement
 
-A mine is a depleting asset: as ore is extracted, the reserve of mineable ore shrinks. A mine with 10 years of ore reserves at current production rates has a defined life. To sustain the business, Mako must discover new deposits or acquire new reserves through acquisitions. Companies that fail to replace mined ore eventually see reserves decline to zero, the mine closes, and the company loses its production base.
+A mine is a depleting asset: as ore is extracted, the reserve of mineable ore shrinks. A mine with 10 years of ore reserves at current production rates has a defined life. To sustain the business, Mako must discover new deposits or acquire new reserves through [acquisitions](/acquisition/). Companies that fail to replace mined ore eventually see reserves decline to zero, the mine closes, and the company loses its production base.
 
 The reserve replacement ratio—new ore discovered or acquired divided by ore mined in the period—is a key metric for long-term viability. A company with a reserve life of 20+ years and active exploration programs is building long-term value. A company with less than 5 years of reserves and no recent discoveries faces existential risk.
 

@@ -51,7 +51,7 @@ The company also earns revenue from advisory software, compliance tools, and fin
 
 ## Competition and Market Consolidation
 
-LPL faces competition from other broker-dealers. Rival firms like Edward Jones, Raymond James, and Roblins Holdings also sponsor independent advisors and compete for assets and advisor loyalty. Larger financial institutions like [Charles Schwab](/charles-schwab/) have also entered the space. The market has consolidated significantly — smaller broker-dealers have been acquired, and the large players have become larger.
+LPL faces competition from other broker-dealers. Rival firms like Edward Jones, Raymond James, and Roblins Holdings also sponsor independent advisors and compete for assets and advisor loyalty. Larger [financial institutions](/fisi-stock/) like [Charles Schwab](/charles-schwab/) have also entered the space. The market has consolidated significantly — smaller broker-dealers have been acquired, and the large players have become larger.
 
 What distinguishes LPL is scale. It has the most independent advisors on its platform and the largest asset base. Scale gives LPL advantages in technology investment, in negotiating with [custodians](/custodian/) and third-party service providers, and in regulatory expertise. A smaller competitor must invest almost as much in compliance infrastructure but spreads costs across a smaller base.
 

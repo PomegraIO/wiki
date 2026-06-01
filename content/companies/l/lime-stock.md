@@ -19,7 +19,7 @@ keywords: ["micro-mobility", "scooters", "urban transportation", "Neutron Holdin
 
 Lime was founded in 2017 by Toby Sun and Brad Bao, initially in San Francisco, with a simple premise: electric scooters are cheap to manufacture, easily deployable to city streets, and directly address urban congestion. The company leased or purchased scooters, distributed them across neighborhoods, and operated a mobile app allowing customers to unlock and ride for a per-minute fee. The model was asset-light compared to car-sharing (no parking infrastructure required, no insurance complexity) but asset-heavy compared to software: every scooter is a physical device vulnerable to theft, damage, or vandalism.
 
-Lime's growth was furious and chaotic. By 2018, Lime operated in dozens of cities globally, raising venture capital at escalating valuations—reaching $2.4 billion in Series D (2018). The company burned capital aggressively: deploying scooters, managing fleet maintenance, paying city permits and insurance, and subsidizing user acquisition through low-cost initial rides. The venture model presumed that unit economics would improve over time, that customer acquisition costs would fall, and that the business would achieve profitability at scale.
+Lime's growth was furious and chaotic. By 2018, Lime operated in dozens of cities globally, raising venture capital at escalating valuations—reaching $2.4 billion in Series D (2018). The company burned capital aggressively: deploying scooters, managing fleet maintenance, paying city permits and insurance, and subsidizing user [acquisition](/acquisition/) through low-cost initial rides. The venture model presumed that unit economics would improve over time, that customer acquisition costs would fall, and that the business would achieve profitability at scale.
 
 ## The Operational Reality Below the Venture Narrative
 
@@ -41,7 +41,7 @@ Cities have increasingly recognized scooters as legitimate but temporary infrast
 
 ## Unit Economics and Scaling
 
-The company's ultimate profitability depends on ride volume and pricing. If a customer in San Francisco takes a scooter ride for $2 (plus per-minute charges), the company must recover scooter depreciation, charging, maintenance, insurance, and overhead from that ride plus dozens of others per month. At 50 rides per scooter per month, the math is challenging. At 200 rides per month, it improves. The company's recent focus on denser markets (where customers take more frequent scooter trips) suggests management believes profitable density is achievable in top-tier cities but not universally.
+The company's ultimate profitability depends on ride volume and pricing. If a customer in San Francisco takes a scooter ride for $2 (plus per-minute charges), the company must recover scooter [depreciation](/depreciation/), charging, maintenance, insurance, and overhead from that ride plus dozens of others per month. At 50 rides per scooter per month, the math is challenging. At 200 rides per month, it improves. The company's recent focus on denser markets (where customers take more frequent scooter trips) suggests management believes profitable density is achievable in top-tier cities but not universally.
 
 ## Capital Intensity and Path to Positive Cash Flow
 

@@ -35,9 +35,9 @@ This relationship-intensive model is a competitive advantage against impersonal 
 
 ## The BDC Regulatory Framework as Protective Moat
 
-FDUS's structure as a BDC, regulated under the Investment Company Act, creates a defensive moat that competitors must respect. BDCs have specific capital and leverage requirements, favorable tax treatment (they are pass-through entities that pay dividends), and regulatory oversight that ensures capital adequacy. A traditional finance company entering the middle-market lending space cannot match FDUS's tax efficiency or access to BDC-specific financing structures. A bank cannot be a BDC, so traditional banks are structurally prevented from competing as aggressively in private credit.
+FDUS's structure as a BDC, regulated under the Investment Company Act, creates a defensive moat that competitors must respect. BDCs have specific capital and leverage requirements, favorable tax treatment (they are pass-through entities that pay dividends), and regulatory oversight that ensures [capital adequacy](/capital-adequacy/). A traditional finance company entering the middle-market lending space cannot match FDUS's tax efficiency or access to BDC-specific financing structures. A bank cannot be a BDC, so traditional banks are structurally prevented from competing as aggressively in private credit.
 
-This regulatory protection is double-edged. BDCs face leverage limits that prevent aggressive growth and concentration risk constraints that force diversification. These rules protect FDUS's creditors but also limit FDUS's ability to scale and dominate a niche. FDUS must operate within those constraints; competitors not operating as BDCs have more flexibility.
+This regulatory protection is double-edged. BDCs face leverage limits that prevent aggressive growth and [concentration risk](/concentration-risk/) constraints that force [diversification](/diversification/). These rules protect FDUS's creditors but also limit FDUS's ability to scale and dominate a niche. FDUS must operate within those constraints; competitors not operating as BDCs have more flexibility.
 
 ## Portfolio Diversification and Covenant Strength
 
@@ -47,7 +47,7 @@ Diversification also protects FDUS against sector shocks. If one industry faces 
 
 ## Capital Access and Scale Constraints
 
-FDUS's defensibility faces headwinds from capital market conditions. The BDC must raise capital from investors—both debt (typically leveraged loans or bonds) and equity (shares sold to public investors). In favorable capital markets, FDUS can easily raise growth capital. In tightened markets, FDUS faces constraints on its lending capacity. This creates asymmetric competition: larger, diversified financial institutions (Goldman Sachs, Apollo, KKR) have deeper capital bases and less reliance on equity raises, allowing them to dominate during capital crunches.
+FDUS's defensibility faces headwinds from capital market conditions. The BDC must raise capital from investors—both debt (typically leveraged loans or bonds) and equity (shares sold to public investors). In favorable capital markets, FDUS can easily raise growth capital. In tightened markets, FDUS faces constraints on its lending capacity. This creates asymmetric competition: larger, diversified [financial institutions](/fisi-stock/) ([Goldman Sachs](/goldman-sachs/), Apollo, KKR) have deeper capital bases and less reliance on equity raises, allowing them to dominate during capital crunches.
 
 FDUS's moat is therefore conditional on having access to capital on reasonable terms. A tightening of capital markets could reduce FDUS's competitive advantage, as capital becomes scarce and large competitors outbid FDUS for limited funding.
 

@@ -31,7 +31,7 @@ First America's revenue, if any, comes from option payments or royalty participa
 
 ## Property Acquisition and Claim Staking
 
-Junior explorers acquire properties through several paths: staking claims on public lands (often in Canada, Australia, or Latin America where mineral rights are available), purchasing claims from existing claimholders, or obtaining exclusive earn-in agreements with land owners (sometimes indigenous groups or governments). The cost of acquiring claims varies widely by jurisdiction and location. Remote, underexplored regions are cheaper but require higher-risk exploration; properties near known mining camps command higher acquisition costs but carry lower discovery risk.
+Junior explorers acquire properties through several paths: staking claims on public lands (often in Canada, Australia, or Latin America where mineral rights are available), purchasing claims from existing claimholders, or obtaining exclusive earn-in agreements with land owners (sometimes indigenous groups or governments). The cost of acquiring claims varies widely by jurisdiction and location. Remote, underexplored regions are cheaper but require higher-risk exploration; properties near known mining camps command higher [acquisition](/acquisition/) costs but carry lower discovery risk.
 
 Once acquired, a claim must be held through annual assessment or rent payments. A junior explorer might stake a claim for minimal cost but then incur $50,000 to $500,000 in annual geological and drilling work to explore it. The company must fund these costs through existing capital, investor dilution, or option partnerships. Management's challenge is identifying properties with sufficient geological upside to justify the cash outlay and to attract exploration partners or funding sources.
 
@@ -61,7 +61,7 @@ Management's geological expertise, claim portfolio quality, and capital efficien
 
 ## Path to Shareholder Value
 
-For a junior explorer, shareholder value typically requires one of three outcomes: (1) discovery and optioning of an economic deposit, generating option payments and royalties; (2) acquisition of the company by a larger explorer or producer; or (3) return of capital through wind-down and liquidation (rare and usually accretive only in profitable situations). Most shareholders view outcome 1 as the value driver. A successful option agreement on a major property transforms FSTJ from a cash-burning exploration company into a cash-generating royalty holder, a meaningful shift in business model and risk profile.
+For a junior explorer, shareholder value typically requires one of three outcomes: (1) discovery and optioning of an economic deposit, generating option payments and royalties; (2) acquisition of the company by a larger explorer or producer; or (3) return of capital through wind-down and [liquidation](/liquidation/) (rare and usually accretive only in profitable situations). Most shareholders view outcome 1 as the value driver. A successful option agreement on a major property transforms FSTJ from a cash-burning exploration company into a cash-generating royalty holder, a meaningful shift in business model and risk profile.
 
 Reading First America's disclosures requires attention to property portfolio description, exploration spending by property, option agreements, and cash position. Detailed property information appears in technical reports filed with securities regulators; these reports reveal geological thinking and risk assessment far more nuanced than financial statements can convey.
 

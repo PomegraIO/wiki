@@ -17,7 +17,7 @@ keywords: [automotive parts, aftermarket, replacement parts, fasteners, supplier
 
 ## The defensive nature of automotive service demand
 
-Automotive repair is non-discretionary. When a car's suspension wears out, the wheel bearing fails, or the door hinge breaks, the owner must fix it or the vehicle becomes unsafe or unusable. This creates structural demand for replacement parts independent of new car sales. Even in recessions, people repair existing vehicles rather than buy new ones. This makes the automotive aftermarket counter-cyclical relative to new-vehicle manufacturing: when car sales fall, aftermarket service typically holds steady or rises.
+Automotive repair is non-discretionary. When a car's suspension wears out, the wheel bearing fails, or the door hinge breaks, the owner must fix it or the vehicle becomes unsafe or unusable. This creates structural demand for replacement parts independent of new car sales. Even in [recessions](/recession/), people repair existing vehicles rather than buy new ones. This makes the automotive aftermarket counter-cyclical relative to new-vehicle manufacturing: when car sales fall, aftermarket service typically holds steady or rises.
 
 Dorman benefits from this. The company supplies parts through multiple channels: independent repair shops, dealerships, national quick-service chains (Jiffy Lube, Firestone), and online retailers. The breadth of channels and the non-discretionary nature of repair demand create resilient revenue. Dorman's margins have compressed over the past decade due to e-commerce competition, big-box retailers, and direct-to-consumer online parts sales, but the underlying demand is sticky.
 
@@ -33,7 +33,7 @@ But this moat erodes when customers shift to online shopping and search for indi
 
 ## Sourcing and cost pressure
 
-Dorman does not manufacture most of the parts it distributes; it sources them from suppliers (in the U.S., Mexico, China, Europe) and resells them. This makes Dorman a middleman whose profit depends on the spread between sourcing cost and selling price. When sourcing costs rise (labor inflation in Mexico, tariffs on Chinese imports, freight costs), Dorman must either absorb the cost or raise selling prices. Raising prices risks losing share to competitors or online retailers who undercut.
+Dorman does not manufacture most of the parts it distributes; it sources them from suppliers (in the U.S., Mexico, China, Europe) and resells them. This makes Dorman a middleman whose profit depends on the spread between sourcing cost and selling price. When sourcing costs rise (labor [inflation](/inflation/) in Mexico, tariffs on Chinese imports, freight costs), Dorman must either absorb the cost or raise selling prices. Raising prices risks losing share to competitors or online retailers who undercut.
 
 Over the past five years, Dorman has faced multiple cost headwinds: tariffs on Chinese-sourced parts, labor inflation in Mexico where many automotive suppliers have factories, supply-chain disruptions during COVID-19, and freight cost volatility. The company has raised prices incrementally but not enough to fully offset cost inflation. Gross margins have declined from historical levels as a result.
 
@@ -43,13 +43,13 @@ Managing sourcing risk requires diversifying supplier geography (reducing China 
 
 The automotive aftermarket has seen consolidation: larger companies acquire smaller competitors to gain geographic reach, category depth, or customer relationships. Dorman has been both acquirer and acquisition target throughout its history. The company currently trades as an independent public company but is a natural acquisition target for larger auto-parts distributors or logistics companies.
 
-Dorman's management has grown the company through organic growth and selective M&A, acquiring regional distributors or product-category specialists to expand breadth. This M&A integration is a capital and execution challenge; failed integrations can destroy value. Reading Dorman's 10-K reveals recent acquisitions and the company's track record in integrating them. If integration is smooth and the acquired businesses retain or improve margins, it is a positive sign. If acquired businesses deteriorate post-acquisition, management's execution skill is in question.
+Dorman's management has grown the company through organic growth and selective M&A, acquiring regional distributors or product-category specialists to expand breadth. This M&A integration is a capital and execution challenge; failed integrations can destroy value. Reading Dorman's 10-K reveals recent [acquisitions](/acquisition/) and the company's track record in integrating them. If integration is smooth and the acquired businesses retain or improve margins, it is a positive sign. If acquired businesses deteriorate post-acquisition, management's execution skill is in question.
 
 ## Customer concentration and leverage
 
 Dorman serves thousands of repair shops and dealerships, so no single customer dominates revenue. This is a healthy customer concentration profile. However, the largest retail chains and national quick-service chains have some leverage: if Firestone or Jiffy Lube consolidates suppliers, it impacts Dorman. This leverage is limited but real.
 
-Dorman's [balance sheet](/balance-sheet/) will show debt from past acquisitions and operations. The company must service this debt from operating cash flow. If profitability declines due to margin pressure or revenue slows due to competition, the company's debt levels become a constraint on flexibility. A reader should watch the debt-to-EBITDA ratio and interest-coverage metrics: if these deteriorate, Dorman's financial flexibility is shrinking.
+Dorman's [balance sheet](/balance-sheet/) will show debt from past acquisitions and operations. The company must service this debt from operating cash flow. If profitability declines due to margin pressure or revenue slows due to competition, the company's debt levels become a constraint on flexibility. A reader should watch the [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) and interest-coverage metrics: if these deteriorate, Dorman's financial flexibility is shrinking.
 
 ## What to read in Dorman's filings
 

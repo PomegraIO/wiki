@@ -4,7 +4,7 @@ description: "Solana Co operates a blockchain and cryptocurrency platform design
 keywords: [blockchain, cryptocurrency, Solana, payment networks, distributed ledger]
 ---
 
-*The **Solana Co (HSDT)** runs a public blockchain network on which anyone can build applications—trading platforms, games, lending protocols, token issuance—with the promise of high speed and low fees. The network is open source; anyone can run a validator node. The company itself earns transaction fees, sells cryptocurrency tokens, and develops ecosystem tools. Solana competes against Ethereum, a more established blockchain with more applications, and against dozens of newer platforms claiming to be faster or cheaper. The space is volatile, regulatory risk is high, and the company's fortunes are inseparable from cryptocurrency adoption and speculation.*
+*The **Solana Co (HSDT)** runs a [public blockchain](/public-blockchain/) network on which anyone can build applications—trading platforms, games, lending protocols, token issuance—with the promise of high speed and low fees. The network is open source; anyone can run a validator node. The company itself earns transaction fees, sells cryptocurrency tokens, and develops ecosystem tools. Solana competes against [Ethereum](/ethereum/), a more established blockchain with more applications, and against dozens of newer platforms claiming to be faster or cheaper. The space is volatile, regulatory risk is high, and the company's fortunes are inseparable from cryptocurrency adoption and speculation.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HSDT</td></tr>
@@ -16,7 +16,7 @@ keywords: [blockchain, cryptocurrency, Solana, payment networks, distributed led
 
 ## What a Blockchain Does and Why Speed Matters
 
-A blockchain is a shared database that no single entity controls. Transactions are broadcast, validated by a decentralized network, and recorded in blocks chained together by cryptography. The draw is immutability and transparency; the cost is speed. Bitcoin can process about 7 transactions per second. Ethereum, about 15. That is glacial compared to Visa (thousands per second). Solana's innovation is a consensus mechanism called Proof of History that allows the network to process orders of magnitude more transactions. Solana validators can handle tens of thousands of transactions per second. This speed is not theoretical; it can be observed on the live network. The question is whether Solana's engineering choice to optimize for speed creates hidden fragility—whether, under stress or attack, the network becomes unreliable.
+A blockchain is a shared database that no single entity controls. Transactions are broadcast, validated by a decentralized network, and recorded in blocks chained together by cryptography. The draw is immutability and transparency; the cost is speed. [Bitcoin](/bitcoin/) can process about 7 transactions per second. Ethereum, about 15. That is glacial compared to [Visa](/v-stock/) (thousands per second). Solana's innovation is a consensus mechanism called Proof of History that allows the network to process orders of magnitude more transactions. Solana validators can handle tens of thousands of transactions per second. This speed is not theoretical; it can be observed on the live network. The question is whether Solana's engineering choice to optimize for speed creates hidden fragility—whether, under stress or attack, the network becomes unreliable.
 
 ## Token Economics and the Funding Mechanism
 

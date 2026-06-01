@@ -41,7 +41,7 @@ Biotech firms rely on patent protection to establish temporary monopolies on app
 
 ## Partnership and Out-Licensing Opportunities
 
-Smaller biotechs often partner with larger pharmaceutical companies to fund development or to co-commercialize approved products. Such partnerships provide capital relief and de-risk the company's valuation. Fulcrum's partnership status (any collaborations announced in SEC filings or press releases) will indicate whether the company has attracted pharma interest and at what terms. A pharma partner willing to fund pivotal trials de-risks Fulcrum's balance sheet and timeline.
+Smaller biotechs often partner with larger pharmaceutical companies to fund development or to co-commercialize approved products. Such partnerships provide capital relief and de-risk the company's valuation. Fulcrum's partnership status (any collaborations announced in SEC filings or press releases) will indicate whether the company has attracted pharma interest and at what terms. A pharma partner willing to fund pivotal trials de-risks Fulcrum's [balance sheet](/balance-sheet/) and timeline.
 
 ## Investment in Rare Genetic Biotech: Key Data Points
 

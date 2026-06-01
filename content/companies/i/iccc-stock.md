@@ -53,7 +53,7 @@ Internationally, dairy practices and regulatory environments vary. The European 
 
 ## Competitive Pressure and Consolidation Risk
 
-The veterinary diagnostics market overall is consolidating. Large animal-health companies integrate backward into diagnostics to control the entire value chain—selling prevention products, diagnostics, and treatment protocols as a unified system. Independent diagnostic companies face pressure to either find a niche deep enough that scale competitors ignore it or accept acquisition as the exit path.
+The veterinary diagnostics market overall is consolidating. Large animal-health companies integrate backward into diagnostics to control the entire value chain—selling prevention products, diagnostics, and treatment protocols as a unified system. Independent diagnostic companies face pressure to either find a niche deep enough that scale competitors ignore it or accept [acquisition](/acquisition/) as the exit path.
 
 IMMUCELL's niche is narrow (bovine mastitis diagnostics) but defensible if the company can continue to innovate and maintain simplicity. A competitor with vastly greater resources could attempt to commoditize the market by offering a comparable product at lower price, leveraging their distribution advantage. The dairy industry's consolidation—fewer, larger operations—also shifts power toward suppliers with national scale and integrated product portfolios.
 

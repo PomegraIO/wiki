@@ -33,7 +33,7 @@ Exploration companies are chronic capital seekers. They do not generate positive
 
 ## Permitting and Regulatory Pathway
 
-The transition from exploration to development requires permits from environmental and mining authorities. LION's filings disclose the company's status with respect to drilling permits, environmental assessments, and development approvals. Permitting delays or denials are material risks explicitly disclosed. Environmental opposition or indigenous land-rights claims, if relevant to LION's properties, are disclosed as contingent liabilities or risk factors. The company's filings will note whether it has engaged with local communities, environmental groups, or indigenous nations—engagement that presages future permitting success or failure.
+The transition from exploration to development requires permits from environmental and mining authorities. LION's filings disclose the company's status with respect to drilling permits, environmental assessments, and development approvals. Permitting delays or denials are material risks explicitly disclosed. Environmental opposition or indigenous land-rights claims, if relevant to LION's properties, are disclosed as [contingent liabilities](/contingent-liabilities-government/) or risk factors. The company's filings will note whether it has engaged with local communities, environmental groups, or indigenous nations—engagement that presages future permitting success or failure.
 
 ## Joint Ventures and Strategic Partnerships
 
@@ -41,7 +41,7 @@ Exploration companies often partner with larger miners or other explorers to sha
 
 ## Working Capital and Cash Runway
 
-LION's balance sheet, as disclosed in the 10-K, shows the company's cash, receivables, and payables. For an exploration company burning cash, the most material disclosure is cash on hand and the monthly or quarterly burn rate. These figures, disclosed transparently in the financial statements and management discussion section, reveal the company's runway—how many months of exploration activity the current cash can fund. A company with $5 million in cash and a monthly burn of $500,000 has roughly ten months of runway before it must raise additional capital or suspend operations. This arithmetic is crude but crucial for investors and creditors.
+LION's [balance sheet](/balance-sheet/), as disclosed in the 10-K, shows the company's cash, receivables, and payables. For an exploration company burning cash, the most material disclosure is cash on hand and the monthly or quarterly burn rate. These figures, disclosed transparently in the financial statements and management discussion section, reveal the company's runway—how many months of exploration activity the current cash can fund. A company with $5 million in cash and a monthly burn of $500,000 has roughly ten months of runway before it must raise additional capital or suspend operations. This arithmetic is crude but crucial for investors and creditors.
 
 ## Investor Considerations and Speculative Nature
 

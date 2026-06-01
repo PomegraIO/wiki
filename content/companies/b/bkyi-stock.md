@@ -23,7 +23,7 @@ BIO-Key generates revenue through multiple channels. Software licensing covers t
 
 ## Government and Institutional Customer Base
 
-A substantial share of BIO-Key's revenue historically came from government agencies—federal, state, and local law enforcement, the FBI, Department of Homeland Security, and international border authorities. Government sales cycles are long: procurement is regulated, budgets are set annually, and decisions move slowly. A major government contract win can transform the company's quarterly revenue, but the lag between contract signing and revenue recognition can be weeks or months. Government customers are also "sticky"—switching biometric systems at a police department is disruptive and costly, so once deployed, a system generates years of maintenance revenue. Risk: government budgets are subject to political cycles and appropriations battles, creating unpredictability.
+A substantial share of BIO-Key's revenue historically came from government agencies—federal, state, and local law enforcement, the FBI, Department of Homeland Security, and international border authorities. Government sales cycles are long: procurement is regulated, budgets are set annually, and decisions move slowly. A major government contract win can transform the company's quarterly revenue, but the lag between contract signing and [revenue recognition](/revenue-recognition/) can be weeks or months. Government customers are also "sticky"—switching biometric systems at a police department is disruptive and costly, so once deployed, a system generates years of maintenance revenue. Risk: government budgets are subject to political cycles and appropriations battles, creating unpredictability.
 
 ## Technical Differentiation and Competitive Landscape
 
@@ -31,7 +31,7 @@ Fingerprint recognition is a mature technology; the core algorithms are well-kno
 
 ## Intellectual Property and Patents
 
-Biometric systems are often protected by patents—both on algorithms and on methods of use. The 10-K should list material patents held by the company, their issue dates, and expiration dates. Patents grant a temporary monopoly on certain technical approaches; when patents expire, competitors can legally replicate those techniques. BIO-Key's patents are likely foundational to its core technology, but determining whether they provide a durable competitive moat requires understanding the breadth and enforceability of patent claims. A patent that is literally interpreted narrowly may not block a competitor's workaround.
+Biometric systems are often protected by patents—both on algorithms and on methods of use. The 10-K should list material patents held by the company, their issue dates, and [expiration dates](/expiration-contracts/). Patents grant a temporary monopoly on certain technical approaches; when patents expire, competitors can legally replicate those techniques. BIO-Key's patents are likely foundational to its core technology, but determining whether they provide a durable competitive moat requires understanding the breadth and enforceability of patent claims. A patent that is literally interpreted narrowly may not block a competitor's workaround.
 
 ## Integration with Government Databases
 

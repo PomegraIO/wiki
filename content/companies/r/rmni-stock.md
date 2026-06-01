@@ -1,0 +1,25 @@
+---
+title: "Rimini Street, Inc. (RMNI)"
+description: "Rimini Street provides third-party software support and consulting services for enterprise customers using legacy applications, serving as an independent alternative to vendor maintenance."
+keywords:
+  - enterprise software support
+  - legacy systems
+  - software maintenance
+  - vendor alternative
+  - third-party support
+handwritten: true
+---
+
+Rimini Street is an independent software-support company that helps enterprises reduce their software maintenance costs by replacing expensive vendor support contracts with lower-cost third-party alternatives. The company supports legacy applications and databases from major vendors such as [Oracle](/orcl-stock/), SAP, and [Salesforce](/crm-stock/), positioning itself as a cost-saving intermediary in the technology supply chain — customers upstream of Rimini depend on the databases and applications those vendors created, and Rimini preserves those investments while lowering the financial burden of keeping them running.
+
+The business model is built on an insight about software economics: once a company has deployed a major enterprise system, the costs of maintaining it through the vendor can compound over years, especially when customers face pressure to upgrade to newer versions. Rimini Street enters that relationship and offers to support the existing deployment at a fraction of the vendor's maintenance price, capturing a percentage of the savings the customer realizes. The company earns recurring revenue from support contracts, professional services engagements, and managed services arrangements. Because Rimini's customers are typically locked into their existing software choices by switching costs and operational reliance, the company's customer base shows high retention rates.
+
+Rimini Street's margins depend heavily on the density and scale of its support footprint. The more customers using the same software versions, the more Rimini can amortize the cost of maintaining specialized technical expertise. The company also benefits from industry consolidation — as vendors acquire smaller software houses or raise prices, more customers become price-sensitive and consider alternatives. The supply chain framing applies clearly: vendors sit upstream, creating and improving the software; customers sit downstream, trying to run their businesses on it. Rimini positions itself in the middle, reducing the friction between them.
+
+Revenue comes primarily from support and maintenance services, which are largely recurring and predictable. This gives the business a subscription-like quality that investors value for visibility. The company also earns fees from consulting engagements as customers migrate between vendors, implement patches, or optimize their existing deployments. Implementation and professional services tend to be project-based rather than recurring, but they deepen customer relationships and increase stickiness.
+
+The competitive landscape is fragmented. Rimini Street faces pressure from the vendors themselves, who argue that their proprietary support is superior and necessary for security and compliance. It also competes against other third-party support providers and against the option of customers bringing support in-house. The company's principal defence is price — if it can credibly deliver the same functionality at a significant discount, cost-conscious enterprises will switch. Rimini also emphasizes expertise and responsiveness, arguing that specialization in legacy systems means faster resolution times and deeper technical knowledge than a vendor's generalist support team.
+
+The biggest risks are regulatory and contractual. Some vendor agreements contain restrictions on third-party support, and vendors aggressively enforce intellectual-property and licensing terms. Changes in antitrust enforcement could affect the company's legal standing or customers' willingness to engage with it. The company is also exposed to technology obsolescence — if a critical mass of customers upgrade to newer platforms, Rimini's expertise on older versions becomes less valuable. Conversely, the longer enterprises defer upgrades, the better for Rimini's business.
+
+Investors studying Rimini Street should examine its annual 10-K (SEC CIK 0001635282) to understand the customer concentration, the retention rate, and the average contract value. The most revealing metric is the dollar-based net retention rate — the percentage of prior-year revenue retained and expanded in the current year. If Rimini is winning in the market, that number should be well above 100 percent, meaning customers not only stay but expand their spending. Watch also for gross margins on support services and the trajectory of professional services as a percentage of revenue. The company's ability to scale depends on becoming more efficient at delivering support per dollar of revenue, a metric best tracked through [operating margin](/operating-margin/) trends and headcount productivity over time.

@@ -33,7 +33,7 @@ The concept found an audience among younger customers who had grown up shopping 
 
 ## Business structure and category mix
 
-Five Below operates as a pure-play retailer: it does not manufacture the goods it sells. Instead, it buys merchandise from hundreds of suppliers — toy manufacturers, sporting-goods companies, home-décor brands, and others — and resells them in stores at marked-up prices. The buying and merchandising function is the core of the business. Buyers identify trending categories and products that resonate with the [target](/tgt-stock/) customer, negotiate prices with suppliers, and decide what volume to stock.
+Five Below operates as a pure-play retailer: it does not manufacture the goods it sells. Instead, it buys merchandise from hundreds of suppliers — toy manufacturers, sporting-goods companies, home-décor brands, and others — and resells them in stores at marked-up prices. The buying and merchandising function is the core of the business. Buyers identify trending categories and products that resonate with the target customer, negotiate prices with suppliers, and decide what volume to stock.
 
 The company organizes its merchandise into several broad categories, each managed somewhat independently:
 

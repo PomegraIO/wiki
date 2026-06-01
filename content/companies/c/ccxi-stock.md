@@ -4,7 +4,7 @@ description: "A special-purpose acquisition company and public shell entity form
 keywords: ["SPAC", "special purpose acquisition company", "blank-check company", "merger", "capital raising"]
 ---
 
-*[Churchill Capital Corp XI](/stock/) (**CCXI**) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) that operates as a publicly listed blank-check entity. The company was formed expressly to raise capital and identify a suitable private business for merger or acquisition, enabling that target firm to achieve [public-company](/public-company/) status through a reverse combination rather than a traditional initial-public-offering. Until a definitive merger agreement is executed, CCXI itself conducts no operations and owns no productive assets—it functions as a capital vehicle stewarded by experienced sponsors.*
+*[Churchill Capital Corp XI](/stock/) (**CCXI**) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) that operates as a publicly listed blank-check entity. The company was formed expressly to raise capital and identify a suitable private business for merger or [acquisition](/acquisition/), enabling that target firm to achieve [public-company](/public-company/) status through a reverse combination rather than a traditional initial-public-offering. Until a definitive merger agreement is executed, CCXI itself conducts no operations and owns no productive assets—it functions as a capital vehicle stewarded by experienced sponsors.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CCXI</td></tr>
@@ -16,15 +16,15 @@ keywords: ["SPAC", "special purpose acquisition company", "blank-check company",
 
 ## Formation and Strategic Intent
 
-Churchill Capital Corp XI belongs to a series of acquisition vehicles launched by the Churchill Capital Corp sponsorship group, a team with experience structuring and executing SPAC mergers in multiple economic cycles. The broader Churchill Capital portfolio includes multiple numbered entities, each targeting different industries or investment theses. CCXI's specific mandate—though not disclosed in public filings—is determined by its sponsors, who typically define sector or geographic focus informally before or during the IPO roadshow. The vehicle raised capital through a [public offering](/initial-public-offering/) and obtained a listing on the [NASDAQ](/nasdaq/) exchange, granting shareholders the ability to buy, sell, and hold units representing interests in the eventual merged entity.
+Churchill Capital Corp XI belongs to a series of acquisition vehicles launched by the Churchill Capital Corp sponsorship group, a team with experience structuring and executing SPAC [mergers](/merger/) in multiple economic cycles. The broader Churchill Capital portfolio includes multiple numbered entities, each targeting different industries or investment theses. CCXI's specific mandate—though not disclosed in public filings—is determined by its sponsors, who typically define sector or geographic focus informally before or during the IPO roadshow. The vehicle raised capital through a [public offering](/initial-public-offering/) and obtained a listing on the [NASDAQ](/nasdaq/) exchange, granting shareholders the ability to buy, sell, and hold units representing interests in the eventual merged entity.
 
-The architects of CCXI receive compensation through founder shares—an equity stake acquired at minimal cost before the public capital raise, which appreciates if the merger closes successfully. This structure aligns sponsor incentives to execute a transaction, though it also introduces the well-documented tension that founders profit whether the chosen target ultimately succeeds or merely achieves liquidity.
+The architects of CCXI receive compensation through [founder shares](/founder-shares/)—an equity stake acquired at minimal cost before the public capital raise, which appreciates if the merger closes successfully. This structure aligns sponsor incentives to execute a transaction, though it also introduces the well-documented tension that founders profit whether the chosen target ultimately succeeds or merely achieves liquidity.
 
 ## Capital Held and Deployment Mechanics
 
 At formation, CCXI raised capital from institutional investors, retail shareholders, and often pre-committed capital from the sponsors themselves. The company holds these proceeds in trust, subject to a standard redemption mechanism: public shareholders who disagree with an announced merger target may elect to redeem their shares for a pro-rata portion of the trust account rather than participate in the combined entity. This redemption feature was designed to protect minority shareholders but has in practice become a source of uncertainty—large redemption waves can drain liquidity, forcing the merged entity to rely on additional capital from the sponsors or external investors to finance operations.
 
-The deployment path is binary: either CCXI identifies a target, negotiates a binding merger agreement, obtains shareholder approval, and closes the combination, or the clock expires and capital is returned to investors. [Regulatory frameworks](/securities-and-exchange-commission/) governing SPACs typically impose a 24-month or similar deadline for business combination, though extensions are negotiable.
+The deployment path is binary: either CCXI identifies a target, negotiates a binding merger agreement, obtains shareholder approval, and closes the combination, or the clock expires and capital is returned to investors. [Regulatory frameworks](/securities-and-exchange-commission/) governing SPACs typically impose a 24-month or similar deadline for [business combination](/business-combination-purchase/), though extensions are negotiable.
 
 ## Market Position Within the SPAC Landscape
 
@@ -34,7 +34,7 @@ The SPAC market contracted significantly following 2021 as subsequent performanc
 
 ## Operational Structure Prior to Merger
 
-Before a business combination, CCXI has minimal operating infrastructure. It employs a small administrative staff, retains legal and financial advisors, and conducts due diligence on potential acquisition targets. The company's balance sheet primarily reflects cash held in trust, with minimal recurring expenses. No revenue is generated; the vehicle exists purely as a merger-seeking instrument.
+Before a business combination, CCXI has minimal operating infrastructure. It employs a small administrative staff, retains legal and financial advisors, and conducts due diligence on potential acquisition targets. The company's [balance sheet](/balance-sheet/) primarily reflects cash held in trust, with minimal recurring expenses. No revenue is generated; the vehicle exists purely as a merger-seeking instrument.
 
 Public shareholders receive periodic updates through [10-K](/10-k/) annual reports and quarterly filings, which disclose the status of merger negotiations, any developments with prospective targets, and the trust account balance. The informational asymmetry—in which sponsors and insiders often know more about target prospects than public shareholders—is an inherent feature of the SPAC structure and a source of ongoing [securities-and-exchange-commission](/securities-and-exchange-commission/) concern.
 

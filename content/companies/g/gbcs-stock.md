@@ -4,7 +4,7 @@ description: "Selectis Health operates a health plan for dually eligible individ
 keywords: [health-insurance, capitated-risk, cms, dual-eligible, managed-care, health-plans]
 ---
 
-*[Selectis Health](https://pomegra.io/wiki/gbcs-stock/) (GBCS), trading on the NASDAQ, is a [public company](/public-company/) filing with the SEC under CIK 727346. The company manages health plans that assume full financial risk for medical costs among a defined population of dually eligible individuals—those covered by both Medicare and Medicaid. Its unit economics center on the spread between the per-member-per-month (PMPM) capitated fee received from the Centers for Medicare and Medicaid Services and the actual medical and administrative costs incurred.*
+*[Selectis Health](https://pomegra.io/wiki/gbcs-stock/) (GBCS), trading on the [NASDAQ](/nasdaq/), is a [public company](/public-company/) filing with the SEC under CIK 727346. The company manages health plans that assume full financial risk for medical costs among a defined population of dually eligible individuals—those covered by both Medicare and Medicaid. Its unit economics center on the spread between the per-member-per-month (PMPM) capitated fee received from the Centers for Medicare and Medicaid Services and the actual medical and administrative costs incurred.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GBCS</td></tr>

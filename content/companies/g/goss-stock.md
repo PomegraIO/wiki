@@ -4,7 +4,7 @@ description: "A clinical-stage biopharmaceutical company developing immunology a
 keywords: ["biotech", "drug-development", "clinical-trials", "immunology", "cash-burn"]
 ---
 
-*__Gossamer Bio, Inc.__ (GOSS), a biopharmaceutical company traded on the [NASDAQ](/nasdaq/), does not yet have a [business model](/stock/) in the traditional sense. It is a research-and-development organization spending cash to conduct clinical trials and develop treatments for immunology, inflammation, and genetic diseases. Revenue is zero or near-zero; the economic lever is not optimizing a current operation but reaching clinical milestones that could justify acquisition by a larger pharmaceutical firm or eventual drug approval and commercialization.*
+*__Gossamer Bio, Inc.__ (GOSS), a biopharmaceutical company traded on the [NASDAQ](/nasdaq/), does not yet have a [business model](/stock/) in the traditional sense. It is a research-and-development organization spending cash to conduct clinical trials and develop treatments for immunology, inflammation, and genetic diseases. Revenue is zero or near-zero; the economic lever is not optimizing a current operation but reaching clinical milestones that could justify [acquisition](/acquisition/) by a larger pharmaceutical firm or eventual drug approval and commercialization.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GOSS</td></tr>
@@ -52,13 +52,13 @@ Capital raises are dilutive to existing shareholders but necessary for survival.
 
 Early-stage biotechs are concentrated-risk investments. If Gossamer has three programs and one is the focus of near-term trial data, that single program carries disproportionate weight. Bad Phase 2 data—efficacy worse than expected, or safety issues—can trigger a 30–50% stock decline in a day. This is why biotech stocks are volatile: a single trial readout is an all-or-nothing event.
 
-Gossamer's risk profile improves if it has multiple programs with independent value propositions and if none is so large that failure ends the company. Portfolio diversification (immunology, gene therapy, inflammation across multiple molecules) reduces single-program dependency but also spreads capital thinly.
+Gossamer's risk profile improves if it has multiple programs with independent value propositions and if none is so large that failure ends the company. Portfolio [diversification](/diversification/) (immunology, gene therapy, inflammation across multiple molecules) reduces single-program dependency but also spreads capital thinly.
 
 ## Partnering and Non-Dilutive Capital
 
 Larger pharmaceutical firms sometimes partner with biotech companies, paying upfront fees and milestone payments (cash upon achieving trial milestones) in exchange for revenue sharing or commercialization rights on successful drugs. These partnerships are "non-dilutive" capital—they provide cash without issuing new equity—and extend runway while derisk the company. A strong partnership with Roche or Merck can signal to the market that Gossamer's science is credible, making future capital raises easier.
 
-Such partnerships often come with milestone obligations: if Gossamer reaches a certain trial goal, it receives cash; if it fails, it owes the partner money or loses exclusive rights. This aligns incentives but creates contingent liability.
+Such partnerships often come with milestone obligations: if Gossamer reaches a certain trial goal, it receives cash; if it fails, it owes the partner money or loses exclusive rights. This aligns incentives but creates [contingent liability](/contingent-liability/).
 
 ## Biotech Valuation and the Path to Profit
 

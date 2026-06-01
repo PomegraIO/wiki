@@ -23,7 +23,7 @@ handwritten: true
 
 McKesson Corporation is the largest pharmaceutical distributor in the United States by revenue and arguably the backbone of American drug logistics. The company doesn't make medicines—it buys, warehouses, and delivers them. In that humble-sounding role lies immense scale: McKesson touches the distribution chain for a significant share of all drugs dispensed to American patients, moves supplies to hospitals and clinics, manages oncology infusion services, and operates software platforms that healthcare providers use to manage prescriptions and patient data.
 
-For nearly two centuries, McKesson has evolved from a small drug wholesaler in San Francisco to a diversified healthcare services giant. Today it is a megacap company whose operations are largely invisible to consumers but indispensable to the healthcare system itself. Understanding McKesson means understanding one of the most critical operational chokepoints in American medicine.
+For nearly two centuries, McKesson has evolved from a small drug wholesaler in San Francisco to a [diversified healthcare](/dhc-stock/) services giant. Today it is a megacap company whose operations are largely invisible to consumers but indispensable to the healthcare system itself. Understanding McKesson means understanding one of the most critical operational chokepoints in American medicine.
 
 ## The Distribution Business and Why It Matters
 

@@ -35,7 +35,7 @@ In late 2016 and early 2017, Marathon transitioned from patents to [hash rate](/
 
 ## How the mining business actually works
 
-Bitcoin mining is a competition to validate transactions on the network. Miners assemble pending transactions into blocks, run them through a cryptographic algorithm, and race to find a solution that meets the network's difficulty [target](/tgt-stock/). The first miner to find a valid solution gets to add that block to the blockchain and receives a reward in newly created Bitcoin, plus transaction fees. This process repeats roughly every ten minutes across the network.
+Bitcoin mining is a competition to validate transactions on the network. Miners assemble pending transactions into blocks, run them through a cryptographic algorithm, and race to find a solution that meets the network's difficulty target. The first miner to find a valid solution gets to add that block to the blockchain and receives a reward in newly created Bitcoin, plus transaction fees. This process repeats roughly every ten minutes across the network.
 
 Difficulty adjusts automatically: if more miners join and the total computing power on the network increases, the puzzle becomes harder to keep the average block time stable. This is why "mining power," measured in hashes per second or terahashes per second, matters so much. A higher hash rate does not guarantee more Bitcoin rewards — it gives a miner a larger share of the total network's computing power and thus a larger probability of being the next to solve a block. Mining is, in aggregate, a fixed-reward lottery where entrants' odds are proportional to their hash rate.
 

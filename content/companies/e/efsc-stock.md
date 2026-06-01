@@ -21,13 +21,13 @@ Every dollar EFSC lends originates from deposits it holds or wholesale funding i
 
 This spread is the entire foundation of EFSC's business. It is not passive: the bank must source deposits competitively (paying rates that attract and retain them), originate loans to creditworthy borrowers (underwriting, documentation, servicing), and manage the timing mismatch between deposits that can be withdrawn on demand and loans that amortize over years.
 
-A community bank like EFSC operates in a geographic niche: the St. Louis, Kansas City, and Springfield tri-state region. This means its deposit customer base and lending opportunities are localized. A large national bank might average a 2.8% net interest margin; a community bank with strong relationships and less competition for small-business loans might achieve 3.8% to 4.2%. EFSC's margin is shaped by its specific marketplace: how competitive deposits are, what rates local small businesses can sustain, and the credit risk of its loan portfolio.
+A community bank like EFSC operates in a geographic niche: the St. Louis, Kansas City, and Springfield tri-state region. This means its deposit customer base and lending opportunities are localized. A large [national bank](/nbhc-stock/) might average a 2.8% net interest margin; a community bank with strong relationships and less competition for small-business loans might achieve 3.8% to 4.2%. EFSC's margin is shaped by its specific marketplace: how competitive deposits are, what rates local small businesses can sustain, and the [credit risk](/credit-risk/) of its loan portfolio.
 
 ## Loan Portfolio Composition: Where Risk Concentrates
 
-EFSC earns different spreads on different loan types. A commercial real estate loan might yield 6.2% on 3-year or 5-year terms; a consumer auto loan might yield 7.8%; a small business line of credit might yield 8.5% but carry higher default risk. The bank must balance yield-hunting (pushing into higher-yielding, riskier loans) against credit discipline.
+EFSC earns different spreads on different loan types. A [commercial real estate](/commercial-real-estate/) loan might yield 6.2% on 3-year or 5-year terms; a consumer auto loan might yield 7.8%; a small business line of credit might yield 8.5% but carry higher default risk. The bank must balance yield-hunting (pushing into higher-yielding, riskier loans) against credit discipline.
 
-In the central United States, EFSC's portfolio likely tilts toward commercial real estate (typical for community banks: retail properties, office buildings, multifamily apartments in secondary markets), small commercial loans, and agricultural lending. Each category has its own loss frequency and severity. Agricultural loans are vulnerable to commodity prices and weather; commercial real estate is vulnerable to occupancy and local economic shocks; small businesses are vulnerable to management quality and sector-specific disruption.
+In the central United States, EFSC's portfolio likely tilts toward commercial real estate (typical for community banks: retail properties, office buildings, multifamily apartments in [secondary markets](/secondary-market/)), small commercial loans, and agricultural lending. Each category has its own loss frequency and severity. Agricultural loans are vulnerable to commodity prices and weather; commercial real estate is vulnerable to occupancy and local economic shocks; small businesses are vulnerable to management quality and sector-specific disruption.
 
 The bank earns gross spread on all of these, but must reserve for expected losses. Under accounting standards, EFSC must estimate the lifetime probability of default and loss on each loan pool and set aside a reserve — a non-cash charge that reduces reported earnings. A loan that yields 6.5% but carries a 2% lifetime default rate effectively yields 4.5% after provisioning.
 
@@ -35,7 +35,7 @@ The bank earns gross spread on all of these, but must reserve for expected losse
 
 EFSC's cost of deposits varies by product and market conditions. A checking account paying 0.10% interest is very cheap. A money-market account paying 4.5% (during high-rate environments) is expensive. The bank's average cost of deposits reflects the mix of products and competitive pressure in its markets.
 
-During periods of low interest rates (like 2010–2021), banks could pay 0.01% on deposits and lend at 4–5%, yielding fat spreads. During high-rate environments, that same bank might pay 4.5% on deposits and lend at 8–9%, compressing the spread. EFSC's unit economics are therefore cyclical — vulnerable to interest-rate moves beyond its control.
+During periods of low [interest rates](/interest-rate/) (like 2010–2021), banks could pay 0.01% on deposits and lend at 4–5%, yielding fat spreads. During high-rate environments, that same bank might pay 4.5% on deposits and lend at 8–9%, compressing the spread. EFSC's unit economics are therefore cyclical — vulnerable to interest-rate moves beyond its control.
 
 What EFSC can control is its deposit market share within its footprint and the stickiness of those deposits. A business customer with a $500,000 operational account is less likely to move to a competitor than a retail customer with a $50,000 savings account. Similarly, a customer with a mortgage, a business credit line, and a treasury management relationship is more sticky than a deposit-only customer. This is why community banks emphasize relationship depth: the total spread across multiple products sticks better than a single-product customer.
 
@@ -47,9 +47,9 @@ For EFSC, fee income is important but secondary. A large deposit base of 100,000
 
 ## Credit Cycle and Loss Severity
 
-EFSC's actual unit economics — spread minus losses — swing with credit conditions. During economic expansion, small businesses grow, property values appreciate, default rates fall, and EFSC can realize near-maximum spreads after modest loan-loss provisions. During contraction, defaults accelerate, recovery rates on defaulted collateral fall, and EFSC must provision heavily, crushing reported earnings.
+EFSC's actual unit economics — spread minus losses — swing with credit conditions. During economic expansion, small businesses grow, property values appreciate, [default rates](/default-rate/) fall, and EFSC can realize near-maximum spreads after modest loan-loss provisions. During contraction, defaults accelerate, recovery rates on defaulted collateral fall, and EFSC must provision heavily, crushing reported earnings.
 
-A $100 loan yielding 6% is worth $6 in gross interest. If the loan defaults and the bank recovers $60 of principal, it has lost $40 (plus accrued interest forgone). The bank's realized spread on that loan is negative. A portfolio with 2% default rate and 60% recovery rates effectively surrenders 0.8% of gross yield to loss.
+A $100 loan yielding 6% is worth $6 in gross interest. If the loan defaults and the bank recovers $60 of principal, it has lost $40 (plus [accrued interest](/accrued-interest/) forgone). The bank's realized spread on that loan is negative. A portfolio with 2% default rate and 60% recovery rates effectively surrenders 0.8% of gross yield to loss.
 
 ## Operating Leverage and Scale
 
@@ -61,7 +61,7 @@ Conversely, if EFSC shrinks (loan portfolio declines, deposits flee), fixed cost
 
 EFSC's earnings (spread minus losses and operating costs) are reported as [return on equity](/return-on-equity/) — net income divided by shareholder equity. A $500 million equity bank that earns $40 million in net income after all costs generates 8% ROE. That is the key metric investors watch: whether EFSC's specific mix of deposits, loans, credit losses, and cost discipline generates acceptable returns.
 
-Community banks historically target 10–12% ROE to justify the risk. Below 8%, shareholders question whether they should redeploy capital elsewhere. Above 12%, EFSC can outpace cost inflation and build reserves against downturns.
+Community banks historically target 10–12% ROE to justify the risk. Below 8%, shareholders question whether they should redeploy capital elsewhere. Above 12%, EFSC can outpace cost [inflation](/inflation/) and build reserves against downturns.
 
 ---
 

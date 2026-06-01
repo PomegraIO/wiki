@@ -21,7 +21,7 @@ Nichirei's primary unit transaction is a kilogram of frozen food sold to a retai
 
 ## Seasonal Raw-Material Cost Swings
 
-Raw material costs for frozen food are seasonal and commodity-driven. Shrimp harvests peak at certain times of year; fish availability varies by season and region. Nichirei must either source year-round at premium prices (buying off-season at higher cost), or build inventory during low-cost harvest seasons and store it frozen (consuming capital and carrying cost). Storage of one kilogram of frozen product costs roughly $0.03–$0.05 per month in electricity and facility depreciation. Storing 10 million kilograms for four months costs $1.2–$2 million in carrying cost. Nichirei's buying and inventory strategy directly determines whether it can lock in low seasonal costs or is forced to chase commodity prices year-round.
+Raw material costs for frozen food are seasonal and commodity-driven. Shrimp harvests peak at certain times of year; fish availability varies by season and region. Nichirei must either source year-round at premium prices (buying off-season at higher cost), or build inventory during low-cost harvest seasons and store it frozen (consuming capital and carrying cost). Storage of one kilogram of frozen product costs roughly $0.03–$0.05 per month in electricity and facility [depreciation](/depreciation/). Storing 10 million kilograms for four months costs $1.2–$2 million in carrying cost. Nichirei's buying and inventory strategy directly determines whether it can lock in low seasonal costs or is forced to chase commodity prices year-round.
 
 ## Manufacturing Efficiency and Line Throughput
 
@@ -33,7 +33,7 @@ Nichirei operates freezers, blast-chilling equipment, ultra-cold storage warehou
 
 ## Last-Mile Logistics and Retailer Negotiation
 
-Frozen food is delivered to supermarkets and restaurants in refrigerated trucks. Delivery cost per kilogram depends on shipment size and geographic density. A dense urban market (Tokyo) allows trucks to make 30 stops per day with small shipments; a sparse rural market allows 5 stops per day. Rural delivery cost per kilogram is 5–6 times higher. Nichirei negotiates with retailers on both product price and delivery terms. A large retailer (Walmart equivalent) demands lower per-unit price and frequent daily deliveries; a small grocer pays premium price but accepts weekly delivery. Nichirei's unit margin therefore varies by channel and customer size. Large retailers, which offer high volume but low price, may contribute less to profitability than small high-margin accounts—unless volume scale is so large that it justifies lower per-unit margin.
+Frozen food is delivered to supermarkets and restaurants in refrigerated trucks. Delivery cost per kilogram depends on shipment size and geographic density. A dense urban market (Tokyo) allows trucks to make 30 stops per day with small shipments; a sparse rural market allows 5 stops per day. Rural delivery cost per kilogram is 5–6 times higher. Nichirei negotiates with retailers on both product price and delivery terms. A large retailer ([Walmart](/wmt-stock/) equivalent) demands lower per-unit price and frequent daily deliveries; a small grocer pays premium price but accepts weekly delivery. Nichirei's unit margin therefore varies by channel and customer size. Large retailers, which offer high volume but low price, may contribute less to profitability than small high-margin accounts—unless volume scale is so large that it justifies lower per-unit margin.
 
 ## Product Mix and Price Elasticity
 
@@ -57,7 +57,7 @@ Nichirei sells to both supermarkets (retail) and restaurant chains and instituti
 
 ## Working Capital Cycle and Inventory Carrying Cost
 
-Nichirei holds large inventory (raw materials bought seasonally, finished frozen products in warehouses, products in distribution). If average inventory is worth $100 million and carrying cost is 8% per year (financing cost, obsolescence risk, storage), that's $8 million in annual cost that doesn't improve revenue. Companies that can reduce inventory carrying cost (faster turnover, better forecasting) improve unit economics. Nichirei's ability to sell products quickly (high retail velocity, short shelf time before freshness concerns) versus holding products long in cold storage determines working capital efficiency.
+Nichirei holds large inventory (raw materials bought seasonally, finished frozen products in warehouses, products in distribution). If average inventory is worth $100 million and carrying cost is 8% per year (financing cost, obsolescence risk, storage), that's $8 million in annual cost that doesn't improve revenue. Companies that can reduce inventory carrying cost (faster turnover, better forecasting) improve unit economics. Nichirei's ability to sell products quickly (high retail velocity, short shelf time before freshness concerns) versus holding products long in cold storage determines [working capital efficiency](/working-capital-efficiency/).
 
 <div class="wiki-seealso">
 

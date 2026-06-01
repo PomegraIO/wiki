@@ -4,7 +4,7 @@ description: A special purpose acquisition company (SPAC) seeking merger with an
 keywords: SPAC, special purpose acquisition company, shell company, merger vehicle, blank-check company
 ---
 
-*The **Jones Ventures INTL Acquisition1 Corp** (JONE) is a [special purpose acquisition company](/special-purpose-acquisition-company/)—a public shell incorporated for the explicit purpose of acquiring an operating business through a merger, thereby providing the target an alternative path to the public markets without a traditional initial public offering.*
+*The **Jones Ventures INTL Acquisition1 Corp** (JONE) is a [special purpose acquisition company](/special-purpose-acquisition-company/)—a public shell incorporated for the explicit purpose of acquiring an operating business through a [merger](/merger/), thereby providing the target an alternative path to the public markets without a traditional initial public offering.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>JONE</td></tr>
@@ -16,13 +16,13 @@ keywords: SPAC, special purpose acquisition company, shell company, merger vehic
 
 ## The SPAC Life Cycle and Time Pressure
 
-A SPAC is a [public company](/public-company/) with a simple mandate: raise capital from public investors, hold that capital in escrow, and within a defined window (often 24 months from listing) find and acquire an operating business. If no deal is completed within the deadline, the SPAC must liquidate, returning capital to shareholders. This time-bounded structure creates a peculiar dynamic. The SPAC's sponsor (in this case, "Jones Ventures") has economic incentive to close a deal—often, the sponsor retains founder shares worth tens of millions of dollars, but only if the merger succeeds. If time expires without a deal, those founder shares are worthless.
+A SPAC is a [public company](/public-company/) with a simple mandate: raise capital from public investors, hold that capital in escrow, and within a defined window (often 24 months from listing) find and acquire an operating business. If no deal is completed within the deadline, the SPAC must liquidate, returning capital to shareholders. This time-bounded structure creates a peculiar dynamic. The SPAC's sponsor (in this case, "Jones Ventures") has economic incentive to close a deal—often, the sponsor retains [founder shares](/founder-shares/) worth tens of millions of dollars, but only if the merger succeeds. If time expires without a deal, those founder shares are worthless.
 
 This incentive structure is controversial. Critics argue that sponsors are motivated to close a deal at almost any price, rather than walk away from a bad target or wait for a better one. Shareholders face a choice at merger time: (1) vote in favor of the merger and remain as shareholders in the combined entity, (2) vote against but stay if the merger passes, or (3) redeem their shares for a proportional share of the escrow cash. The redemption option was designed as a protection—shareholders who dislike the proposed target can exit with their capital intact—but it also changes the incentive calculus for the remaining shareholders, who may have particular confidence in the deal.
 
 ## JONE's Stated Focus: International Acquisition
 
-The ticker name—"INTL Acquisition1"—signals that Jones Ventures is targeting an international operating business, presumably outside the U.S. This geographic scope adds complexity. International acquisitions require navigating different regulatory regimes, accounting standards, currency exposures, and sometimes geopolitical risks. It also suggests the sponsor believes international opportunities offer more attractive valuations or growth profiles than comparable U.S. targets—a reasonable view, but one that depends entirely on the specific target business and its market context.
+The ticker name—"INTL Acquisition1"—signals that Jones Ventures is targeting an international operating business, presumably outside the U.S. This geographic scope adds complexity. International [acquisitions](/acquisition/) require navigating different regulatory regimes, accounting standards, currency exposures, and sometimes geopolitical risks. It also suggests the sponsor believes international opportunities offer more attractive valuations or growth profiles than comparable U.S. targets—a reasonable view, but one that depends entirely on the specific target business and its market context.
 
 ## Valuation Opacity and the Blank-Check Problem
 
@@ -40,7 +40,7 @@ For JONE shareholders, this dynamic means the actual return depends entirely on 
 
 ## Regulatory Scrutiny and the Path to Merger
 
-SPACs face increasing regulatory scrutiny. The SEC has issued guidance on disclosure requirements, sponsor conflicts of interest, and shareholder communications. The FINRA has tightened rules around SPAC underwriting and compensation. These developments have raised the cost and complexity of launching and completing a SPAC merger, potentially working against JONE if the Jones Ventures sponsor has not already identified a deal partner.
+SPACs face increasing regulatory scrutiny. The SEC has issued guidance on disclosure requirements, sponsor conflicts of interest, and shareholder communications. The [FINRA](/finra/) has tightened rules around SPAC underwriting and compensation. These developments have raised the cost and complexity of launching and completing a SPAC merger, potentially working against JONE if the Jones Ventures sponsor has not already identified a deal partner.
 
 JONE's [10-K](/10-k/) filings will disclose the sponsor's track record, the terms of the SPAC (including any sponsor promote shares and redemption mechanisms), and any preliminary acquisition discussions. A reader should examine these documents to assess whether the sponsor has credibility and whether the deal timeline is credible.
 

@@ -28,7 +28,7 @@ An ophthalmologist prescribes Bausch's branded glaucoma drop not because it is d
 
 ## A Portfolio Built on Specialty Segments
 
-Bausch operates across multiple therapeutic areas and customer channels: prescription ophthalmic drugs (treating glaucoma, dry eye, infection), over-the-counter eye care (lubricants, allergy drops), dermatology treatments, plastic surgery aesthetics, and specialty pharmaceuticals. This diversification theoretically spreads risk—if one product loses patent protection, others sustain revenue. Yet it also dilutes focus and complicates manufacturing and distribution. Each segment has different regulatory pathways, customer types (hospitals, clinics, retail), and competitive dynamics. Ophthalmic drugs, for instance, enjoy relatively loyal customer bases and high pricing power due to barriers to switching; OTC eye drops compete primarily on brand recognition and convenience; dermatology operates in a mix of prescription and cash-pay markets. Bausch's challenge is allocating capital and management attention efficiently across these divergent ecosystems.
+Bausch operates across multiple therapeutic areas and customer channels: prescription ophthalmic drugs (treating glaucoma, dry eye, infection), over-the-counter eye care (lubricants, allergy drops), dermatology treatments, plastic surgery aesthetics, and specialty pharmaceuticals. This [diversification](/diversification/) theoretically spreads risk—if one product loses patent protection, others sustain revenue. Yet it also dilutes focus and complicates manufacturing and distribution. Each segment has different regulatory pathways, customer types (hospitals, clinics, retail), and competitive dynamics. Ophthalmic drugs, for instance, enjoy relatively loyal customer bases and high pricing power due to barriers to switching; OTC eye drops compete primarily on brand recognition and convenience; dermatology operates in a mix of prescription and cash-pay markets. Bausch's challenge is allocating capital and management attention efficiently across these divergent ecosystems.
 
 ## The Patent Cliff and Generic Pressure
 
@@ -44,7 +44,7 @@ Healthcare pricing is increasingly constrained by payers—insurance companies, 
 
 ## Acquisition and Integration History
 
-Bausch has grown partly through acquisition; understanding its M&A track record reveals management's ability to integrate acquired assets, extract synergies, and avoid overpaying for growth. Successful healthcare M&A requires retaining key talent, avoiding duplication, and identifying true cross-sell opportunities; failed integrations destroy shareholder value and distract management. Bausch's history suggests a company that has attempted to build scale through consolidation; examining which acquisitions succeeded and which were divested offers insight into management quality and strategic coherence.
+Bausch has grown partly through acquisition; understanding its M&A track record reveals management's ability to integrate acquired assets, extract synergies, and avoid overpaying for growth. Successful healthcare M&A requires retaining key talent, avoiding duplication, and identifying true cross-sell opportunities; failed integrations destroy shareholder value and distract management. Bausch's history suggests a company that has attempted to build scale through consolidation; examining which [acquisitions](/acquisition/) succeeded and which were divested offers insight into management quality and strategic coherence.
 
 ## Researching Further
 

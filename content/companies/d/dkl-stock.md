@@ -4,7 +4,7 @@ description: "A midstream energy partnership transporting crude oil and refined 
 keywords: [DKL, midstream, energy, partnership, leverage, commodity risk, logistics]
 ---
 
-*Delek Logistics Partners, LP (DKL, CIK 1552797) is a midstream energy company—a limited partnership that owns and operates pipeline infrastructure for crude oil and refined-product transport. The structure, business, and risks form a coherent whole: the firm collects stable, volume-dependent fees, distributes most cash to unit holders as distributions, and operates under significant leverage and regulatory constraints. To investors, Delek is not a growth equity but rather a leveraged yield play whose sustainability depends entirely on pipeline utilization, commodity transport dynamics, and the company's ability to service debt.*
+*Delek Logistics Partners, LP (DKL, CIK 1552797) is a midstream energy company—a limited partnership that owns and operates pipeline infrastructure for [crude oil](/crude-oil/) and refined-product transport. The structure, business, and risks form a coherent whole: the firm collects stable, volume-dependent fees, distributes most cash to unit holders as distributions, and operates under significant leverage and regulatory constraints. To investors, Delek is not a growth equity but rather a leveraged yield play whose sustainability depends entirely on pipeline utilization, commodity transport dynamics, and the company's ability to service debt.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DKL</td></tr>
@@ -33,7 +33,7 @@ Delek's revenue typically comes from a concentrated set of customers—refinerie
 
 ## Interest Rate and Refinancing Risk
 
-Because Delek carries substantial debt, rising interest rates increase the cost of servicing existing variable-rate debt and refinancing maturing tranches. In a rising-rate environment, Delek's cash available for distributions to unit holders may fall, creating pressure on the distribution and the unit price. Conversely, in a declining-rate environment, the company benefits. This interest-rate sensitivity is a form of financial risk that equity holders in leveraged entities cannot escape.
+Because Delek carries substantial debt, rising [interest rates](/interest-rate/) increase the cost of servicing existing variable-rate debt and refinancing maturing [tranches](/tranche/). In a rising-rate environment, Delek's cash available for distributions to unit holders may fall, creating pressure on the distribution and the unit price. Conversely, in a declining-rate environment, the company benefits. This interest-rate sensitivity is a form of financial risk that equity holders in leveraged entities cannot escape.
 
 ## Capital Expenditure and Growth Constraints
 
@@ -41,7 +41,7 @@ Midstream companies often require ongoing capex to maintain and upgrade pipeline
 
 ## Environmental Liabilities and Remediation
 
-Pipelines can leak or spill; such incidents create environmental liability, cleanup costs, and potential regulatory penalties. While Delek likely carries insurance, a major spill could exceed insurance limits or result in operational shutdowns pending investigation and repairs. These tail-end environmental risks are often underpriced by investors focused on near-term distributions.
+Pipelines can leak or spill; such incidents create [environmental liability](/environmental-liability/), cleanup costs, and potential regulatory penalties. While Delek likely carries insurance, a major spill could exceed insurance limits or result in operational shutdowns pending investigation and repairs. These tail-end environmental risks are often underpriced by investors focused on near-term distributions.
 
 ## Exit Liquidity and Tax Implications
 
@@ -49,8 +49,8 @@ MLPs like Delek trade in [public markets](/public-company/), but unit holders ma
 
 ## Distribution Sustainability
 
-The key question for any Delek investor is straightforward: can the company maintain its distribution while servicing debt and meeting capex needs, even if volumes decline 10–20%? A 10-K review should address this directly, examining the coverage ratio (free cash flow divided by distributions plus debt service). Weak coverage ratios suggest the distribution is at risk. Additionally, any statement from management that distributions are "sustainable" despite falling volumes or rising costs should be treated with skepticism; investors should model the company's cash flow independently.
+The key question for any Delek investor is straightforward: can the company maintain its distribution while servicing debt and meeting capex needs, even if volumes decline 10–20%? A 10-K review should address this directly, examining the coverage ratio ([free cash flow](/free-cash-flow/) divided by distributions plus debt service). Weak coverage ratios suggest the distribution is at risk. Additionally, any statement from management that distributions are "sustainable" despite falling volumes or rising costs should be treated with skepticism; investors should model the company's cash flow independently.
 
 ## A Grounded Perspective
 
-Delek offers income to investors willing to accept that the business depends on energy infrastructure utilization, leverage constrains flexibility, and regulatory winds could shift against fossil-fuel infrastructure. The company is not a hedge against inflation or interest-rate risk for most investors; it is a concentrated bet on stable pipeline volumes and management's discipline in preserving leverage metrics. For income-focused investors with high risk tolerance, Delek merits analysis; for others, the risks are substantial relative to the yield.
+Delek offers income to investors willing to accept that the business depends on energy infrastructure utilization, leverage constrains flexibility, and regulatory winds could shift against fossil-fuel infrastructure. The company is not a hedge against [inflation](/inflation/) or [interest-rate risk](/interest-rate-risk/) for most investors; it is a concentrated bet on stable pipeline volumes and management's discipline in preserving leverage metrics. For income-focused investors with high risk tolerance, Delek merits analysis; for others, the risks are substantial relative to the yield.

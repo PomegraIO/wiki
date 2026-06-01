@@ -24,7 +24,7 @@ The company's strategy centers on genetically modified cell therapies, with fili
 
 ## Capital Structure and Cash Runway
 
-Genenta's liabilities and shareholder equity require reading Section 3 and 4 of its balance sheet with attention to warrant obligations and dilution risk, which appear prominently in equity-related disclosures. The company has raised capital through offerings and warrant exercises; tracking these events across quarterly and annual filings reveals the evolving cap table. Because Genenta is pre-revenue (no approved products generating sales), its cash burn rate and estimated runway are disclosed in management's discussion and analysis sections. The company's disclosure of burn rates, capital needs, and going-concern assessments signals maturity stage and financing risk, and these statements are mandated by IFRS and SEC rules, making them authoritative rather than promotional.
+Genenta's liabilities and shareholder equity require reading Section 3 and 4 of its [balance sheet](/balance-sheet/) with attention to warrant obligations and dilution risk, which appear prominently in equity-related disclosures. The company has raised capital through offerings and warrant exercises; tracking these events across quarterly and annual filings reveals the evolving cap table. Because Genenta is pre-revenue (no approved products generating sales), its cash burn rate and estimated runway are disclosed in management's discussion and analysis sections. The company's disclosure of burn rates, capital needs, and going-concern assessments signals maturity stage and financing risk, and these statements are mandated by IFRS and SEC rules, making them authoritative rather than promotional.
 
 ## Risk Factor Disclosure and Market Positioning
 
@@ -36,7 +36,7 @@ Filings reference partnerships, licensing agreements, and research collaboration
 
 ## Financial Reporting Framework and Key Line Items
 
-Under IFRS, Genenta reports research and development expenses, general and administrative overhead, and operating losses (since it has no revenue). The income statement shows the company's cash burn pattern; the cash flow statement demonstrates how burning cash relates to working capital needs, capital expenditures, and financing activities. The company's audit firm and auditor's opinion on internal controls (or lack thereof) are disclosed in the financial statement sections—material for assessing governance and financial reporting reliability. For a clinical-stage company, reading the auditor's letter carefully often reveals constraints on historical financial data or assertions.
+Under IFRS, Genenta reports research and development expenses, general and administrative overhead, and operating losses (since it has no revenue). The [income statement](/income-statement/) shows the company's cash burn pattern; the [cash flow statement](/cash-flow-statement/) demonstrates how burning cash relates to working capital needs, capital expenditures, and financing activities. The company's audit firm and auditor's opinion on internal controls (or lack thereof) are disclosed in the financial statement sections—material for assessing governance and financial reporting reliability. For a clinical-stage company, reading the auditor's letter carefully often reveals constraints on historical financial data or assertions.
 
 ## Geographic and Clinical Trial Footprint
 

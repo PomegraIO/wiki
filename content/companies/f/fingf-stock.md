@@ -9,7 +9,7 @@ keywords:
   - capital equipment
 ---
 
-*Heavy equipment moves the world's infrastructure, but its movement rests on a fragile supply: dealers who stock parts, train mechanics, and absorb the capital risk of inventory. **Finning International (FINGF)** sits at that nexus. As one of Caterpillar's largest independent dealers globally, Finning operates a razor-thin business—the economic logic is elegant but unforgiving.*
+*Heavy equipment moves the world's infrastructure, but its movement rests on a fragile supply: dealers who stock parts, train mechanics, and absorb the capital risk of inventory. **Finning International (FINGF)** sits at that nexus. As one of [Caterpillar](/cat-stock/)'s largest independent dealers globally, Finning operates a razor-thin business—the economic logic is elegant but unforgiving.*
 
 <aside class="wiki-infobox">
 <table>
@@ -24,7 +24,7 @@ keywords:
 
 ## The Dealer's Leverage Trap
 
-Finning's core economics boil down to a single transaction: it buys a Caterpillar excavator or diesel engine wholesale and sells it to a mining company, construction firm, or energy operator. On that sale—tracked minutely in dealer audits—margins run 10–15%, leaving little cushion. The real money, Finning learned decades ago, lives in the *after-sale*: spare parts (higher margins), repair labor (sticky, recurring), and service contracts. This is the lease-or-own equation that drives the entire dealer model. A contractor buying a $500,000 excavator doesn't just want hardware; they want certainty that a Finning technician can appear within hours if the machine fails on a job site. That promise costs Finning money up front—a network of regional service centers, stock of 50,000+ part numbers, trained technicians across continents—but creates a moat of convenience and trust. Competitors cannot undercut on price if switching carries operational risk.
+Finning's core economics boil down to a single transaction: it buys a Caterpillar excavator or diesel engine wholesale and sells it to a mining company, construction firm, or energy operator. On that sale—tracked minutely in dealer audits—margins run 10–15%, leaving little cushion. The real money, Finning learned decades ago, lives in the *after-sale*: spare parts (higher margins), repair labor (sticky, recurring), and service contracts. This is the lease-or-own equation that drives the entire dealer model. A contractor buying a $500,000 excavator doesn't just want hardware; they want certainty that a Finning technician can appear within hours if the machine fails on a job site. That promise costs Finning money up front—a network of regional service centers, stock of 50,000+ part numbers, trained technicians across continents—but creates a moat of convenience and trust. Competitors cannot undercut on price if switching carries [operational risk](/operational-risk/).
 
 Yet this model is hostage to two forces: the capital cycle (when does the mining or construction industry invest?) and commodity prices (which determine whether a mine or oil field operates at all). Finning's footprint in mining-heavy South America and coal/oil regions of Canada means its revenue swings violently with the price of copper, coal, and crude. When a commodity crashes, capital projects freeze overnight. Equipment that Finning financed or held on rental rolls sits idle, yielding no revenue while depreciating. The dealer must absorb that loss or negotiate with customers on lease terms, squeezing margins further.
 
@@ -32,7 +32,7 @@ Yet this model is hostage to two forces: the capital cycle (when does the mining
 
 Unlike a manufacturing company with diversified end-markets, Finning's viability is oddly geographic. The firm operates through two divisions: the Americas (Canada, South America, U.S.) and APAC (Australia, Indonesia, Japan). South America—particularly Chile and Argentina—has historically anchored the business because those countries' mining industries run large fleets of Caterpillar equipment. When Chilean copper prices rise, Finning's parts revenue and rental income spike. When copper crashes (as it did in 2014–2016), Finning's North American and South American earnings both compressed, showing the concentrated risk of the dealer model in a commodity-linked geography.
 
-Australia and APAC, by contrast, offer steadier diversification: infrastructure construction, utility operations, and agricultural mechanization create more secular, less cyclical demand. A strategic reorientation toward APAC (via acquisitions and organic expansion) has been necessary to reduce South American earnings volatility.
+Australia and APAC, by contrast, offer steadier [diversification](/diversification/): infrastructure construction, utility operations, and agricultural mechanization create more secular, less cyclical demand. A strategic reorientation toward APAC (via [acquisitions](/acquisition/) and organic expansion) has been necessary to reduce South American earnings volatility.
 
 ## The Inventory Burden
 
@@ -48,7 +48,7 @@ A dealer's working capital requirements are severe. Finning must pay Caterpillar
 
 Despite these vulnerabilities, Finning persists as a viable business because switching costs are real. A mining company that discovers Finning's technicians can diagnose and repair a $2M truck in 4 hours versus 24 hours for a competitor will renew contracts. Part of Finning's durability is that Caterpillar itself has limited capacity to serve end-customers directly; it relies on dealers to front capital, staff, and geographic presence. This interdependence creates a floor: as long as Caterpillar equipment dominates industrial categories (mining, construction, power generation), Finning benefits from exclusive access to that installed base.
 
-The dealer model also yields surprising resilience in downturns. When capital spending collapses, companies extend the life of existing equipment through repairs and upgrades. Finning's parts business actually grows in recessions as customers squeeze utility from aging fleets rather than replace them. This counter-cyclical parts revenue partially offsets the collapse in new-equipment sales.
+The dealer model also yields surprising resilience in downturns. When capital spending collapses, companies extend the life of existing equipment through repairs and upgrades. Finning's parts business actually grows in [recessions](/recession/) as customers squeeze utility from aging fleets rather than replace them. This counter-cyclical parts revenue partially offsets the collapse in new-equipment sales.
 
 ## The Secular Unknowns
 

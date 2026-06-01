@@ -27,7 +27,7 @@ Most robotics companies file substantial research and development expenses, ofte
 
 ## Revenue Composition and Cyclicality
 
-Automation adoption is not immune to economic cycles. During recessions, manufacturers and logistics operators defer capital expenditures, and robotics orders slow materially. The company's quarterly earnings releases (found via the SEC's EDGAR system using its CIK) will show revenue volatility tied to customer projects and deployment timelines. If Micropolis derives most revenue from project-based integration and installation, each quarter will depend heavily on when customers green-light specific systems. Conversely, if it has built a software-as-a-service or recurring service revenue stream from installed robots, the [income statement](/income-statement/) will show less volatility and more predictable gross margin.
+Automation adoption is not immune to economic cycles. During [recessions](/recession/), manufacturers and logistics operators defer capital expenditures, and robotics orders slow materially. The company's quarterly earnings releases (found via the SEC's EDGAR system using its CIK) will show revenue volatility tied to customer projects and deployment timelines. If Micropolis derives most revenue from project-based integration and installation, each quarter will depend heavily on when customers green-light specific systems. Conversely, if it has built a software-as-a-service or recurring service revenue stream from installed robots, the [income statement](/income-statement/) will show less volatility and more predictable gross margin.
 
 ## Capital Structure and Funding
 
@@ -39,7 +39,7 @@ The filings should itemize major customers (if they represent 10% or more of rev
 
 ## Path to Profitability
 
-Unlike early-stage venture-backed startups, public companies must articulate a clear timeline toward sustainable [earnings-per-share](/earnings-per-share/). Micropolis's filings will indicate whether management expects near-term profitability (a sign the company believes its market is maturing) or whether continued losses are treated as necessary investments in scale. The cash flow statement, another mandatory section of the 10-K, shows whether the company is burning cash faster or slower than it did in prior years and whether management is raising capital to offset burn.
+Unlike early-stage venture-backed startups, public companies must articulate a clear timeline toward sustainable [earnings-per-share](/earnings-per-share/). Micropolis's filings will indicate whether management expects near-term profitability (a sign the company believes its market is maturing) or whether continued losses are treated as necessary investments in scale. The [cash flow statement](/cash-flow-statement/), another mandatory section of the 10-K, shows whether the company is burning cash faster or slower than it did in prior years and whether management is raising capital to offset burn.
 
 ## Comparing Against Sector Peers
 

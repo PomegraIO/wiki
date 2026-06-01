@@ -36,7 +36,7 @@ Catapult generates recurring revenue from subscriptions and software licenses, p
 
 ## Geographic and Sport-Specific Diversification
 
-Catapult's core markets are rugby (particularly in the Southern Hemisphere where the sport is deeply professional), American football, soccer, and Australian sports. This diversification reduces dependence on any single sport or region, but it also means the company must maintain product relevance across very different sports with different data priorities and coaching cultures. Rugby coaches may emphasize collision forces and recovery metrics; soccer coaches may focus on movement patterns and possession efficiency; American football teams care about snap-to-snap performance data. Maintaining excellence across these domains is costly. The company's ability to expand into emerging markets (cricket, ice hockey, esports) depends on whether its core platform can be efficiently customized or whether each sport requires dedicated engineering.
+Catapult's core markets are rugby (particularly in the Southern Hemisphere where the sport is deeply professional), American football, soccer, and Australian sports. This [diversification](/diversification/) reduces dependence on any single sport or region, but it also means the company must maintain product relevance across very different sports with different data priorities and coaching cultures. Rugby coaches may emphasize collision forces and recovery metrics; soccer coaches may focus on movement patterns and possession efficiency; American football teams care about snap-to-snap performance data. Maintaining excellence across these domains is costly. The company's ability to expand into emerging markets (cricket, ice hockey, esports) depends on whether its core platform can be efficiently customized or whether each sport requires dedicated engineering.
 
 ## Capital Structure and Path to Profitability
 
@@ -44,7 +44,7 @@ As an Australian-listed company trading over-the-counter in U.S. markets, Catapu
 
 ## Risk from Technological Displacement
 
-Catapult's competitive advantage rests on the sophistication of its analytics and the stickiness of its platform. Larger software vendors (Microsoft, Salesforce, etc.) could theoretically enter sports analytics; incumbent sports tech companies could expand their offerings; or an emerging startup could build a superior product at a lower price. The company's ability to defend its position depends on staying ahead of competition through innovation and customer lock-in. Additionally, if sports teams become more cost-conscious (e.g., during economic downturns), they might reduce spending on analytics, migrate to free or open-source tools, or consolidate vendors, all of which would pressure Catapult's revenue.
+Catapult's competitive advantage rests on the sophistication of its analytics and the stickiness of its platform. Larger software vendors ([Microsoft](/msft-stock/), [Salesforce](/crm-stock/), etc.) could theoretically enter sports analytics; incumbent sports tech companies could expand their offerings; or an emerging startup could build a superior product at a lower price. The company's ability to defend its position depends on staying ahead of competition through innovation and customer lock-in. Additionally, if sports teams become more cost-conscious (e.g., during economic downturns), they might reduce spending on analytics, migrate to free or open-source tools, or consolidate vendors, all of which would pressure Catapult's revenue.
 
 <div class="wiki-seealso">
 ### Closely related

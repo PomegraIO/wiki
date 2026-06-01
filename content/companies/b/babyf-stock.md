@@ -41,7 +41,7 @@ Ingredient sourcing is another disclosure point. Does Else source organic or con
 
 ## Capital Intensity and Market Access
 
-Building a nutrition brand from microcap status requires capital for clinical trials, regulatory filings, manufacturing setup, and market education. The 10-K will show how much capital Else has raised, through what means (equity offerings, debt, strategic partnerships), and how management has deployed it. Look for disclosures about share issuances, debt agreements, and any strategic partnerships or licensing deals with larger distribution partners.
+Building a nutrition brand from microcap status requires capital for clinical trials, regulatory filings, manufacturing setup, and market education. The 10-K will show how much capital Else has raised, through what means (equity offerings, debt, strategic partnerships), and how management has deployed it. Look for disclosures about [share issuances](/share-issuance/), debt agreements, and any strategic partnerships or licensing deals with larger distribution partners.
 
 One strategic path for small nutrition companies is to license products or distribution rights to larger incumbents—effectively selling the company or merging with a strategic buyer. Else's filings will hint at whether the company is pursuing such partnerships or is committed to independent growth. Any major customer (a distributor or retailer accounting for a significant percentage of revenue) is disclosed in the 10-K; this shows whether Else has secured shelf space with major chains or is still building retail presence.
 

@@ -41,7 +41,7 @@ Moving photoelectrochemical cells from laboratory to commercial scale is notorio
 
 ## Capital Structure and Funding History
 
-Sunhydrogen's balance sheet reveals a company likely cash-flow negative, funding operations through equity financing and, possibly, government grants or tax credits. The 10-K discloses the history of equity raises: the price per share at each round, the number of shares issued, and cumulative dilution. This reveals how much value has been destroyed or preserved through the funding history. The company also discloses whether insiders (founder, executives) are buying more shares or selling—a signal of confidence or pessimism. Sunhydrogen also discloses any debt financing and whether it is secured or unsecured. For a technology-stage company without revenue, debt is rare, but some companies have taken government loans or development financing.
+Sunhydrogen's balance sheet reveals a company likely cash-flow negative, funding operations through [equity financing](/equity-financing/) and, possibly, government grants or tax credits. The 10-K discloses the history of equity raises: the price per share at each round, the number of shares issued, and cumulative dilution. This reveals how much value has been destroyed or preserved through the funding history. The company also discloses whether insiders (founder, executives) are buying more shares or selling—a signal of confidence or pessimism. Sunhydrogen also discloses any [debt financing](/debt-financing/) and whether it is secured or unsecured. For a technology-stage company without revenue, debt is rare, but some companies have taken government loans or development financing.
 
 ## Regulatory and Environmental Compliance
 

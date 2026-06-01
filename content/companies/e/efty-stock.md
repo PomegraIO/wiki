@@ -4,7 +4,7 @@ description: "A Hong Kong-based financial services and investment firm engaged i
 keywords: ["EFTY", "Hong Kong", "capital markets", "asset management", "investment firm", "financial services"]
 ---
 
-*Etoiles Capital Group Co., Ltd (EFTY) operates as an investment and financial services firm headquartered in Hong Kong, participating in capital markets activities. Its core unit economics depend on generating profit from proprietary trading, client advisory services, and asset management fees — each with distinct cost structures and return profiles.*
+*Etoiles Capital Group Co., Ltd (EFTY) operates as an investment and financial services firm headquartered in Hong Kong, participating in capital markets activities. Its core unit economics depend on generating profit from proprietary trading, client advisory services, and asset [management fees](/management-fee/) — each with distinct cost structures and return profiles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>EFTY</td></tr>
@@ -17,7 +17,7 @@ keywords: ["EFTY", "Hong Kong", "capital markets", "asset management", "investme
 
 ## Trading Profit as the Primary Engine
 
-Etoiles Capital's core transaction, if it follows the model of most Asia-focused investment firms, is proprietary trading and principal investing: buying and selling securities, currencies, commodities, or derivatives for its own account and capturing the difference between purchase and sale prices. A simple example: Etoiles Capital identifies a Hong Kong-listed company trading at a discount to intrinsic value, accumulates a position at an average cost of HKD 8 per share, then sells at HKD 10, pocketing HKD 2 per share on each unit traded.
+Etoiles Capital's core transaction, if it follows the model of most Asia-focused investment firms, is proprietary trading and principal investing: buying and selling securities, currencies, commodities, or derivatives for its own account and capturing the difference between purchase and sale prices. A simple example: Etoiles Capital identifies a Hong Kong-listed company trading at a discount to [intrinsic value](/intrinsic-value/), accumulates a position at an average cost of HKD 8 per share, then sells at HKD 10, pocketing HKD 2 per share on each unit traded.
 
 This business is capital-intensive, skill-intensive, and high-variance. Etoiles Capital must deploy enough capital to move markets and take meaningful risk (if the position goes wrong and the stock falls to HKD 6, losses are severe). It must also employ skilled analysts and traders who can identify mispricings and execute trades efficiently.
 
@@ -30,22 +30,22 @@ A $50 million position purchased over three months and sold over the next three 
 If Etoiles Capital manages client money — pooled investment vehicles or separately managed accounts — it earns management fees, typically 1–2% of assets under management (AUM) annually. A $500 million AUM fund at 1.5% fees generates $7.5 million in annual revenue. This revenue is sticky (assuming the fund performs and clients do not redeem) and scales: $1 billion AUM at the same fee rate yields $15 million.
 
 The cost structure is different from trading. Management fees must cover:
-- Analyst and portfolio manager salaries (senior PMs at hedge funds or asset managers earn $300,000–$1 million annually, juniors $80,000–$150,000)
+- Analyst and portfolio manager salaries (senior PMs at [hedge funds](/hedge-fund/) or asset managers earn $300,000–$1 million annually, juniors $80,000–$150,000)
 - Compliance and legal (licenses, audit, SEC or Hong Kong Securities and Futures Commission (SFC) filings)
-- Technology and operations (fund accounting, valuation, trading infrastructure)
+- Technology and operations ([fund accounting](/fund-accounting/), valuation, trading infrastructure)
 - Marketing and investor relations (to attract and retain clients)
 
-A $500 million fund with $7.5 million in fees might allocate $1.5 million to investment staff, $800,000 to operations, $400,000 to compliance, $300,000 to marketing, and $1,000,000 to general overhead, leaving $2.5 million in operating profit (33% operating margin). A larger fund spreads costs across more assets, improving margins. A smaller fund (say, $100 million) might generate $1.5 million in fees against $1.2 million in fixed costs, leaving only $300,000 in operating profit (20% margin).
+A $500 million fund with $7.5 million in fees might allocate $1.5 million to investment staff, $800,000 to operations, $400,000 to compliance, $300,000 to marketing, and $1,000,000 to general overhead, leaving $2.5 million in operating profit (33% [operating margin](/operating-margin/)). A larger fund spreads costs across more assets, improving margins. A smaller fund (say, $100 million) might generate $1.5 million in fees against $1.2 million in fixed costs, leaving only $300,000 in operating profit (20% margin).
 
 ## Performance Fees: The High-Variance Lever
 
-If Etoiles Capital's funds have a performance fee component — a percentage of gains above a benchmark or hurdle rate — total compensation can spike if performance is exceptional. A fund that generates 25% annual returns (vs. a 10% benchmark) might earn a 20% performance fee on the outperformance, generating 3% of AUM in performance fees atop the 1.5% base fee.
+If Etoiles Capital's funds have a performance fee component — a percentage of gains above a benchmark or hurdle rate — total compensation can spike if performance is exceptional. A fund that generates 25% annual returns (vs. a 10% benchmark) might earn a 20% performance fee on the outperformance, generating 3% of AUM in [performance fees](/performance-fee/) atop the 1.5% base fee.
 
 Performance fees are lucrative but volatile. A fund with strong returns for two years and weak returns the third experiences a sharp revenue cliff. This is why asset managers emphasize base fees (which are stable) and work to grow AUM (which multiplies base fee revenue) even as performance naturally reverts to benchmarks.
 
 ## Advisory and Capital Introduction: Episodic Revenue
 
-Etoiles Capital may also earn advisory fees (0.5–1% of transaction value) for advising clients on acquisitions, fundraising, or capital allocation; or introduce investors to deal opportunities and earn finder's fees (1–3% of capital raised). These are episodic: a single $100 million M&A advisory engagement generates $500,000–$1,000,000 in fees; but such deals come irregularly, so advisory cannot be counted on for stable revenue.
+Etoiles Capital may also earn advisory fees (0.5–1% of transaction value) for advising clients on [acquisitions](/acquisition/), fundraising, or capital allocation; or introduce investors to deal opportunities and earn finder's fees (1–3% of capital raised). These are episodic: a single $100 million M&A advisory engagement generates $500,000–$1,000,000 in fees; but such deals come irregularly, so advisory cannot be counted on for stable revenue.
 
 ## Capital Leverage and Risk Management
 
@@ -67,7 +67,7 @@ Etoiles Capital's unit economics improve significantly if it grows AUM past $1 b
 
 ## Currency and Emerging-Market Exposure
 
-If Etoiles Capital specializes in Asia or China investments, its unit economics are affected by currency movements (Hong Kong Dollar, Chinese Renminbi) and broader emerging-market sentiment. A period of capital outflow from China or a Hong Kong market downturn could impair returns and trigger redemptions, shrinking AUM and fee revenue simultaneously.
+If Etoiles Capital specializes in Asia or China investments, its unit economics are affected by currency movements ([Hong Kong Dollar](/hong-kong-dollar/), Chinese Renminbi) and broader emerging-market sentiment. A period of capital outflow from China or a Hong Kong market downturn could impair returns and trigger redemptions, shrinking AUM and fee revenue simultaneously.
 
 ---
 

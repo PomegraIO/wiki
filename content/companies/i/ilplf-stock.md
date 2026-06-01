@@ -48,7 +48,7 @@ Developing a drug for a rare disease offered both advantages and constraints. Ra
 
 ## The Partnership and Financing Dilemma
 
-As Island Pharmaceuticals advanced programs toward proof of concept, larger pharmaceutical companies often entered conversations about partnerships or acquisitions. A startup demonstrating strong early efficacy might license a program to a larger firm, which would fund later-stage development in exchange for manufacturing, distribution, and commercialization rights. Alternatively, the larger firm might acquire the entire company, integrating the pipeline and team into its operations.
+As Island Pharmaceuticals advanced programs toward proof of concept, larger pharmaceutical companies often entered conversations about partnerships or [acquisitions](/acquisition/). A startup demonstrating strong early efficacy might license a program to a larger firm, which would fund later-stage development in exchange for manufacturing, distribution, and commercialization rights. Alternatively, the larger firm might acquire the entire company, integrating the pipeline and team into its operations.
 
 These partnerships were not guarantees. They depended on the larger firm believing in the science and seeing the program as fitting into its portfolio. A company that generated disappointing Phase 2 data or whose regulatory interactions suggested FDA skepticism might struggle to secure partnerships. Island Pharmaceuticals thus faced constant tension: pursue development independently and bear all financial risk, or negotiate partnerships early and sacrifice upside but reduce risk.
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Trenchant Technologies Capital Corp. is a Canadian capital pool company actively seeking a qualifying transaction in companies applying novel technologies like AI and quantum computing to traditional business models.**
+**Trenchant Technologies Capital Corp. is a Canadian capital pool company actively seeking a qualifying transaction in companies applying novel technologies like AI and [quantum computing](/qubt-stock/) to traditional business models.**
 
 The firm operates as a vehicle for investors to participate in the identification and acquisition of businesses in technology-adjacent sectors. Originally established in 2016 and renamed in May 2024 to reflect its focus on advanced technologies, the company trades on the Canadian Securities Exchange under the ticker AITT and in US OTC markets as AITTF.
 

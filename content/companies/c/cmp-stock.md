@@ -35,7 +35,7 @@ This bifurcated portfolio creates a strategic hedge, but a partial one. Salt and
 
 COMPASS's earnings are heavily dependent on exogenous factors. Winter weather patterns determine salt revenue within a given fiscal year; farmers' ability and willingness to spend on fertilizer depends on global grain and energy prices, which are themselves driven by harvest quality, geopolitical supply disruptions, and macroeconomic growth expectations.
 
-The potash market specifically is tied to agricultural commodity prices and, indirectly, to energy costs (since potash producers use significant energy). A spike in energy inflation reduces fertilizer affordability and application rates. Conversely, when crop prices are robust and farmers expect strong margins, potash demand strengthens. This dynamic leaves COMPASS's potash business hostage to factors far beyond its control: weather in grain-producing regions, OPEC decisions, global economic growth.
+The potash market specifically is tied to agricultural commodity prices and, indirectly, to energy costs (since potash producers use significant energy). A spike in energy [inflation](/inflation/) reduces fertilizer affordability and application rates. Conversely, when crop prices are robust and farmers expect strong margins, potash demand strengthens. This dynamic leaves COMPASS's potash business hostage to factors far beyond its control: weather in grain-producing regions, OPEC decisions, global economic growth.
 
 The salt business adds seasonality and weather volatility. A mild winter can reduce annual revenue by 10–20 percent. COMPASS mitigates this somewhat through de-icing contracts with municipalities (which include baseline commitments), but unpredictability remains.
 

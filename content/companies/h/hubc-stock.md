@@ -51,7 +51,7 @@ Additionally, the DoD has implemented the Cybersecurity Maturity Model Certifica
 
 ## Foreign Ownership and Voting Control
 
-The Committee on Foreign Investment in the United States (CFIUS) scrutinizes foreign acquisitions of U.S. companies, particularly those with defense capabilities or access to sensitive technology. If a foreign entity attempts to acquire Hub Cyber or invest in it, CFIUS may review the transaction and can recommend that the President block it on national security grounds. The company itself must maintain sufficient U.S. control and oversight; if foreign investors gain voting control or access to sensitive technology, the company's ability to work with the U.S. government is jeopardized.
+The Committee on Foreign Investment in the United States (CFIUS) scrutinizes foreign [acquisitions](/acquisition/) of U.S. companies, particularly those with defense capabilities or access to sensitive technology. If a foreign entity attempts to acquire Hub Cyber or invest in it, CFIUS may review the transaction and can recommend that the President block it on national security grounds. The company itself must maintain sufficient U.S. control and oversight; if foreign investors gain voting control or access to sensitive technology, the company's ability to work with the U.S. government is jeopardized.
 
 ## Intellectual Property and Technology Restrictions
 

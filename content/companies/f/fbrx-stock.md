@@ -59,9 +59,9 @@ The FDA review process is itself a gate. Forte must demonstrate that its drug is
 
 ## Competition and the Dermatology Landscape
 
-Dermatology is a competitive space. Large pharmaceutical companies (Eli Lilly, AbbVie, Johnson & Johnson) have marketed drugs for dermatological conditions; smaller biotech companies like Forte compete by finding underserved niches or developing novel mechanisms. Forte must not only succeed scientifically but also navigate a market where larger competitors have more resources, existing relationships with dermatologists, and established distribution.
+Dermatology is a competitive space. Large pharmaceutical companies (Eli Lilly, [AbbVie](/abbv-stock/), [Johnson & Johnson](/jnj-stock/)) have marketed drugs for dermatological conditions; smaller biotech companies like Forte compete by finding underserved niches or developing novel mechanisms. Forte must not only succeed scientifically but also navigate a market where larger competitors have more resources, existing relationships with dermatologists, and established distribution.
 
-Forte's advantage is focus and speed. The company is not bogged down by the bureaucracy of a multibillion-dollar pharmaceutical giant. But it also cannot match Eli Lilly's manufacturing scale or marketing reach. Forte's exit strategy, if successful, is often acquisition by a larger pharma company that can take an approved drug and scale it globally.
+Forte's advantage is focus and speed. The company is not bogged down by the bureaucracy of a multibillion-dollar pharmaceutical giant. But it also cannot match Eli Lilly's manufacturing scale or marketing reach. Forte's exit strategy, if successful, is often [acquisition](/acquisition/) by a larger pharma company that can take an approved drug and scale it globally.
 
 <div class="wiki-seealso">
 ### Closely related

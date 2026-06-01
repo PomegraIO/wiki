@@ -46,9 +46,9 @@ Conversely, if the FDA continues to require traditional endpoints (disease-speci
 
 ## Capital Requirements and Durability
 
-BioAge, as a clinical-stage company, must fund expensive clinical trials to advance its pipeline to regulatory approval. This requires sustained capital access and implies ongoing shareholder dilution or debt financing. Companies with limited capital face pressure to merge, partner, or be acquired before they reach profitability or approval. A well-capitalized BioAge with access to capital can fund longer development timelines and larger clinical trials. A capital-constrained BioAge faces time pressure and may be forced to partner or cede IP to larger pharmaceutical companies.
+BioAge, as a clinical-stage company, must fund expensive clinical trials to advance its pipeline to regulatory approval. This requires sustained capital access and implies ongoing shareholder dilution or [debt financing](/debt-financing/). Companies with limited capital face pressure to merge, partner, or be acquired before they reach profitability or approval. A well-capitalized BioAge with access to capital can fund longer development timelines and larger clinical trials. A capital-constrained BioAge faces time pressure and may be forced to partner or cede IP to larger pharmaceutical companies.
 
-Capital adequacy is not a moat in the traditional sense—it is a prerequisite for the company to realize whatever moat it possesses. If BioAge loses access to capital before reaching approval and commercialization, its scientific insights and patent portfolio become assets of an acquirer, not of independent BioAge shareholders.
+[Capital adequacy](/capital-adequacy/) is not a moat in the traditional sense—it is a prerequisite for the company to realize whatever moat it possesses. If BioAge loses access to capital before reaching approval and commercialization, its scientific insights and patent portfolio become assets of an acquirer, not of independent BioAge shareholders.
 
 ## The Competitive Convergence Risk
 

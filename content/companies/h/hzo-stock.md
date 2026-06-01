@@ -23,7 +23,7 @@ MarineMax's fundamental position is as a consolidator in an otherwise fragmented
 
 MarineMax aggregates these scattered local players into a multi-state network. Once acquired, local dealerships retain their brand identity and management but gain access to centralized procurement systems, shared financing infrastructure, and back-office economies. This flywheel—buy a dealer, integrate operations, reduce overhead, improve margins, repeat—has given the company a base of dozens of stores across multiple states and a combined customer footprint that no single independent competitor can match.
 
-The consolidation strategy itself creates a moat. As MarineMax grows, it negotiates better terms with boat manufacturers; larger financing partnerships lower its cost of capital for customer loans; and shared marketing and technology platforms increase operational leverage per store. Each new acquisition becomes more valuable to the overall platform than it would be as a standalone operation.
+The consolidation strategy itself creates a moat. As MarineMax grows, it negotiates better terms with boat manufacturers; larger financing partnerships lower its cost of capital for customer loans; and shared marketing and technology platforms increase operational leverage per store. Each new [acquisition](/acquisition/) becomes more valuable to the overall platform than it would be as a standalone operation.
 
 ## Supply Chain: Manufacturer Dependence and Inventory Risk
 
@@ -63,7 +63,7 @@ MarineMax's scale allows it to undercut small independents on financing rates an
 
 ## Financial Model and Capital Cycles
 
-The business model is capital-intensive and cyclical. Inventory and floor-plan financing consume substantial working capital; the business rises and falls with discretionary spending. During economic expansions, financing availability broadens, boat purchases surge, and MarineMax's consolidated cost structure generates strong returns. During recessions, financing tightens, inventory turns slow, and leverage pressures emerge.
+The business model is capital-intensive and cyclical. Inventory and floor-plan financing consume substantial working capital; the business rises and falls with [discretionary spending](/discretionary-spending/). During economic expansions, financing availability broadens, boat purchases surge, and MarineMax's consolidated cost structure generates strong returns. During [recessions](/recession/), financing tightens, inventory turns slow, and leverage pressures emerge.
 
 The ability to weather downturns and acquire troubled independent dealers during distressed cycles is a key competitive advantage. MarineMax uses its [balance-sheet](/balance-sheet/) strength to make opportunistic purchases when independent operators face liquidity pressure, further consolidating the fragmented market.
 

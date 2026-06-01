@@ -11,7 +11,7 @@ keywords:
   - junior-miner
 ---
 
-*Kuber Resources Corp (KUBR) is a junior mineral exploration and development company operating primarily in Canada. Like other resource-stage firms, Kuber's balance sheet is dominated by mineral property assets, and its survival depends on raising capital to fund exploration until it can either define a mineable deposit or option its properties to a larger operator. Understanding Kuber requires tracking its exploration expenditures, property portfolio, and financing capacity—not conventional revenue or profitability.*
+*Kuber Resources Corp (KUBR) is a junior mineral exploration and development company operating primarily in Canada. Like other resource-stage firms, Kuber's [balance sheet](/balance-sheet/) is dominated by mineral property assets, and its survival depends on raising capital to fund exploration until it can either define a mineable deposit or option its properties to a larger operator. Understanding Kuber requires tracking its exploration expenditures, property portfolio, and financing capacity—not conventional revenue or profitability.*
 
 <aside class="wiki-infobox">
 <table>
@@ -45,7 +45,7 @@ The MD&A should disclose any permitting delays, environmental assessments underw
 
 ## Valuation of Exploration Properties
 
-Resource companies are sometimes valued by comparing their market cap to in-ground mineral resources. If Kuber has identified 1 million ounces of gold across its properties and trades at a market cap of $10 million, it trades at $10 per ounce. A peer with similar geology in the same region trading at $30 per ounce may be considered cheaper or more de-risked depending on additional factors (size of management team, quality of geological interpretation, proximity to operating infrastructure).
+Resource companies are sometimes valued by comparing their [market cap](/market-capitalization/) to in-ground mineral resources. If Kuber has identified 1 million ounces of gold across its properties and trades at a market cap of $10 million, it trades at $10 per ounce. A peer with similar geology in the same region trading at $30 per ounce may be considered cheaper or more de-risked depending on additional factors (size of management team, quality of geological interpretation, proximity to operating infrastructure).
 
 However, this "per ounce" or "per pound" valuation is speculative. A resource estimate is preliminary. Actual extraction may be harder, more expensive, or environmentally constrained than the estimate implies. A lower per-ounce valuation may reflect the market's skepticism about the deposit.
 
@@ -74,7 +74,7 @@ Key sections:
 1. **Properties**: Detailed description of each property, location, acreage, Kuber's interest %, and exploration work to date.
 2. **Cash flow from operations**: Should show exploration expenditure, capitalized as assets.
 3. **Financing activities**: Shows equity or debt raises.
-4. **Subsequent events**: Any new financings, property acquisitions, or option defaults.
+4. **Subsequent events**: Any new financings, property [acquisitions](/acquisition/), or option defaults.
 5. **Risk factors**: Addresses permitting, Indigenous consultation, commodity price sensitivity, and financing risk.
 
 An analyst should create a simple timeline: current cash, monthly burn, next funding need. Compare that to management's guidance on permitting and exploration milestones. If permitting will take three years but the company runs out of money in two, there is a financing gap.

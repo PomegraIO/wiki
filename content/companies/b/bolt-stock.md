@@ -31,11 +31,11 @@ Bolt has no approved products or significant revenue-generating assets. The comp
 
 ## Partnership and Collaboration Models
 
-Most early-stage biotech companies eventually partner with larger pharma or biotech firms. These partnerships provide funding, manufacturing expertise, regulatory support, and commercialization capabilities. Bolt's path to value likely includes partnerships or acquisition. The propensity for larger companies to partner with or acquire early-stage immuno-oncology programs is a secular trend (large pharma is building oncology portfolios) that operates largely independently of broad economic cycles. A partnership may close in a bull market or a bear market, depending on the clinical data and strategic fit, not on GDP growth.
+Most early-stage biotech companies eventually partner with larger pharma or biotech firms. These partnerships provide funding, manufacturing expertise, regulatory support, and commercialization capabilities. Bolt's path to value likely includes partnerships or [acquisition](/acquisition/). The propensity for larger companies to partner with or acquire early-stage immuno-oncology programs is a secular trend (large pharma is building oncology portfolios) that operates largely independently of broad economic cycles. A partnership may close in a [bull market](/bull-market/) or a [bear market](/bear-market/), depending on the clinical data and strategic fit, not on GDP growth.
 
 ## Funding and Capital Access
 
-Early-stage biotech is dependent on capital access. Venture capital, institutional investment, and debt financing are crucial. Capital availability does correlate somewhat with macroeconomic conditions and equity-market sentiment, but immuno-oncology has been a particularly attractive space for capital because cancer drugs are high-margin, patient populations are large, and the regulatory pathway is established. Even in recessions, funding for oncology biotech has often remained robust. Bolt's ability to raise capital depends on its scientific progress and investor appetite for immuno-oncology, which is a durable theme, not a cyclical one.
+Early-stage biotech is dependent on capital access. Venture capital, institutional investment, and [debt financing](/debt-financing/) are crucial. Capital availability does correlate somewhat with macroeconomic conditions and equity-market sentiment, but immuno-oncology has been a particularly attractive space for capital because cancer drugs are high-margin, patient populations are large, and the regulatory pathway is established. Even in [recessions](/recession/), funding for oncology biotech has often remained robust. Bolt's ability to raise capital depends on its scientific progress and investor appetite for immuno-oncology, which is a durable theme, not a cyclical one.
 
 ## No Revenue and No Earnings Power Yet
 
@@ -47,7 +47,7 @@ Multiple biotechs and pharma companies have bispecific antibody programs in clin
 
 ## Exit and Value Realization Timelines
 
-For a company at Bolt's early stage, value realization typically occurs through acquisition or partnership, not through independent public operation earning dividends. The timeline is measured in years to a decade or more. A strategic acquirer might buy Bolt for its platform, its specific program(s), or its team and IP. Such transactions depend on the acquirer's pipeline gaps, clinical progress, and strategic priorities—not on interest rates or GDP forecasts. The valuation at exit will reflect the de-risking that occurred through clinical progress and industry validation of the modality.
+For a company at Bolt's early stage, value realization typically occurs through acquisition or partnership, not through independent public operation earning [dividends](/dividend/). The timeline is measured in years to a decade or more. A strategic acquirer might buy Bolt for its platform, its specific program(s), or its team and IP. Such transactions depend on the acquirer's pipeline gaps, clinical progress, and strategic priorities—not on [interest rates](/interest-rate/) or GDP forecasts. The valuation at exit will reflect the de-risking that occurred through clinical progress and industry validation of the modality.
 
 ## Secular Headwind: Capital Efficiency
 

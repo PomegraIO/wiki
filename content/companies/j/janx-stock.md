@@ -32,7 +32,7 @@ Clinical trials in oncology typically take years and tens of millions of dollars
 
 ## Business Model and Financing
 
-As a clinical-stage biotech, Janux has no product revenue. Its cash burn comes from R&D (clinical trials, manufacturing scale-up, preclinical work) and general operations. The company funds this burn through equity offerings and occasionally through upfront milestone payments or debt financing tied to partnerships.
+As a clinical-stage biotech, Janux has no product revenue. Its cash burn comes from R&D (clinical trials, manufacturing scale-up, preclinical work) and general operations. The company funds this burn through equity offerings and occasionally through upfront milestone payments or [debt financing](/debt-financing/) tied to partnerships.
 
 The business model assumes a series of value-creation milestones: Phase 1 safety data, Phase 2 efficacy signals, potential partnerships with large pharma or other collaborators, and (if successful) FDA approval and commercialization. At each step, the company either raises additional capital at a higher valuation or negotiates deals that defer cash burn and introduce external funding. Failure at any step—a disappointing trial, manufacturing delays, or partner withdrawal—can force the company to raise capital at a severe discount, destroying existing shareholder value.
 
@@ -54,7 +54,7 @@ Even if a Janux therapy reaches the market, its commercial success depends on pa
 
 ## Valuation and Downside Risk
 
-Janux trades on hope: the hope that its engineering approach works, that its clinical trials succeed, that manufacturing scales, and that regulators approve it. Any of these can fail. The company's [market capitalization](/market-capitalization/) likely exceeds any liquidation value of its assets, meaning shareholders face substantial downside risk if clinical progress stalls or if external financing dries up during a market downturn. The upside—successful approval and launch of a major cancer therapy—is real but uncertain and years away.
+Janux trades on hope: the hope that its engineering approach works, that its clinical trials succeed, that manufacturing scales, and that regulators approve it. Any of these can fail. The company's [market capitalization](/market-capitalization/) likely exceeds any [liquidation value](/liquidation-value/) of its assets, meaning shareholders face substantial downside risk if clinical progress stalls or if external financing dries up during a market downturn. The upside—successful approval and launch of a major cancer therapy—is real but uncertain and years away.
 
 <div class="wiki-seealso">
 ### Closely related

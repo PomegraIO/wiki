@@ -4,7 +4,7 @@ description: "Diversified media and technology conglomerate with dominant scale 
 keywords: ["cable", "broadband", "internet", "media", "telecommunications", "infrastructure"]
 ---
 
-*Comcast Corp (**CCZ**) operates as an integrated media and technology company spanning broadband internet, video distribution, telephony, and entertainment content production across much of the northeastern United States. Its competitive moat rests fundamentally on the cost of duplicating its physical network—underground and aerial cable running to tens of millions of homes and businesses—combined with regulatory licenses that restrict the number of competitors who can build competing networks in any given service territory.*
+*[Comcast](/cmcsa-stock/) Corp (**CCZ**) operates as an integrated media and technology company spanning broadband internet, video distribution, telephony, and entertainment content production across much of the northeastern United States. Its competitive moat rests fundamentally on the cost of duplicating its physical network—underground and aerial cable running to tens of millions of homes and businesses—combined with regulatory licenses that restrict the number of competitors who can build competing networks in any given service territory.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CCZ</td></tr>
@@ -33,7 +33,7 @@ Comcast owns NBCUniversal, a major television and film production company. This 
 
 ## Scale in Operations and Procurement
 
-Comcast's size—operating across millions of customer accounts—allows it to negotiate better terms with suppliers and content providers than smaller competitors can achieve. It can spread customer service costs over a larger base, operate large regional call centers efficiently, and invest in network maintenance at scale. These are real economies of scale but not durable moats; they would persist only as long as Comcast maintains its customer base. They do not prevent a competitor from building scale through acquisition or organic growth.
+Comcast's size—operating across millions of customer accounts—allows it to negotiate better terms with suppliers and content providers than smaller competitors can achieve. It can spread customer service costs over a larger base, operate large regional call centers efficiently, and invest in network maintenance at scale. These are real economies of scale but not durable moats; they would persist only as long as Comcast maintains its customer base. They do not prevent a competitor from building scale through [acquisition](/acquisition/) or organic growth.
 
 ## Declining Video, Rising Broadband Vulnerability
 

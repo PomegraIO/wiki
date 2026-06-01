@@ -34,7 +34,7 @@ The structural headwinds are substantial. Wage inflation in India and other offs
 
 Client concentration is measurable: the top customers account for a material portion of total revenue, meaning loss of a major contract can be painful. Execution risk on large transformations is always present; failing to deliver a promised system implementation or process redesign damages reputation and client retention.
 
-Geopolitical headwinds matter too. Dependence on India exposes the company to Indian regulation, data residency rules, and [visa](/v-stock/) policy; any tightening of H-1B visa caps or restrictions on offshore data movement would constrain growth. Competition for talent is fierce, particularly for mid-level engineers and process experts; high turnover in the Indian workforce has been a chronic challenge across the BPO sector.
+Geopolitical headwinds matter too. Dependence on India exposes the company to Indian regulation, data residency rules, and visa policy; any tightening of H-1B visa caps or restrictions on offshore data movement would constrain growth. Competition for talent is fierce, particularly for mid-level engineers and process experts; high turnover in the Indian workforce has been a chronic challenge across the BPO sector.
 
 ## The investment angle
 

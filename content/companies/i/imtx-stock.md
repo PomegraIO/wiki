@@ -29,13 +29,13 @@ Immatics is also a research-stage company in an industry where proof of concept 
 
 ## Capital Structure and Burn Rate
 
-As a development-stage biotech with no approved products and no near-term revenue, Immatics depends entirely on capital-raising and partnerships to fund operations. The company raised capital through its NASDAQ listing and has been burning cash to fund clinical trials, platform development, and R&D infrastructure. Partnerships like the Genmab agreement can provide non-dilutive funding, but ultimately the company must either reach a meaningful clinical or regulatory milestone, license its technology, or raise additional [equity](/common-stock/).
+As a development-stage biotech with no approved products and no near-term revenue, Immatics depends entirely on capital-raising and partnerships to fund operations. The company raised capital through its [NASDAQ](/nasdaq/) listing and has been burning cash to fund clinical trials, platform development, and R&D infrastructure. Partnerships like the Genmab agreement can provide non-dilutive funding, but ultimately the company must either reach a meaningful clinical or regulatory milestone, license its technology, or raise additional [equity](/common-stock/).
 
 Cost management is critical for a biotech this early in its lifecycle. Manufacturing cell therapies is capital-intensive; scaling personalized T-cell manufacturing from research into commercial production requires investment in manufacturing facilities, quality control, and supply chain infrastructure. This cost structure is not ideal for a company with uncertain revenue prospects.
 
 ## Competitive Landscape and Regulatory Path
 
-Immatics competes in the crowded field of cancer immunotherapy, but its niche of neoantigen-targeted approaches is less saturated than checkpoint inhibitors or CAR-T therapies. Other companies like BioNTech and Moderna have pivoted significant resources toward personalized cancer vaccines, and large pharma has acquired smaller neoantigen specialists. This validates the approach but also signals that Immatics must execute faster and more cheaply than well-capitalized rivals.
+Immatics competes in the crowded field of cancer immunotherapy, but its niche of neoantigen-targeted approaches is less saturated than checkpoint inhibitors or CAR-T therapies. Other companies like BioNTech and [Moderna](/mrna-stock/) have pivoted significant resources toward personalized cancer vaccines, and large pharma has acquired smaller neoantigen specialists. This validates the approach but also signals that Immatics must execute faster and more cheaply than well-capitalized rivals.
 
 Regulatory approvals for cell-based therapies, particularly customized ones, follow a challenging path involving toxicology studies, manufacturing consistency validation, and Phase 1, 2, and 3 clinical trials. The FDA and EMA both expect extensive data on safety and efficacy, and any manufacturing deviation or adverse event can stall approval. This timeline and cost structure advantage larger, diversified biotech companies that can absorb clinical setbacks.
 

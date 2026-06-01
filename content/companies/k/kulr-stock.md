@@ -37,7 +37,7 @@ KULR's business model typically involves a combination of upfront engineering fe
 
 However, this creates operational challenges in forecasting and scaling. The company must maintain enough engineering capacity to support multiple simultaneous OEM integration programs, which have unpredictable timelines. A program planned for 18 months can slip; production ramps can accelerate or delay. Resource utilization in an engineering services business is notoriously difficult to manage efficiently.
 
-Revenue recognition is also complex. KULR may recognize engineering fees upfront or amortize them over the life of the vehicle program; per-unit royalties arrive as production data flows in. The company must reconcile actual production volumes against forecasts, manage OEM audits of royalty calculations, and resolve disputes about whether a vehicle qualifies under a specific license agreement.
+[Revenue recognition](/revenue-recognition/) is also complex. KULR may recognize engineering fees upfront or amortize them over the life of the vehicle program; per-unit royalties arrive as production data flows in. The company must reconcile actual production volumes against forecasts, manage OEM audits of royalty calculations, and resolve disputes about whether a vehicle qualifies under a specific license agreement.
 
 ## Operational Dependency on OEM Relationships
 

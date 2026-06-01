@@ -4,7 +4,7 @@ description: "Precious metals mining company focused on gold and silver explorat
 keywords: ["mining", "gold", "silver", "commodities", "exploration"]
 ---
 
-*Comstock Inc. (LODE) is a case study in cyclical inversion: a company whose secular prospects hinge on commodity demand but whose near-term fortunes oscillate with macroeconomic conditions, interest rates, and investor sentiment toward hard assets. The company operates as a precious-metals explorer and producer, primarily targeting gold and silver deposits in the western United States. The mining business is capital-intensive, time-consuming (development can take 5–10 years), and highly leveraged to commodity prices and financing availability. Unlike businesses that benefit from inflation or diversify into stable revenue streams, Comstock's operating performance is almost entirely cyclical—tied to the price of metals, the cost of capital, and investor appetite for mining risk.*
+*Comstock Inc. (LODE) is a case study in cyclical inversion: a company whose secular prospects hinge on commodity demand but whose near-term fortunes oscillate with macroeconomic conditions, [interest rates](/interest-rate/), and investor sentiment toward hard assets. The company operates as a precious-metals explorer and producer, primarily targeting gold and silver deposits in the western United States. The mining business is capital-intensive, time-consuming (development can take 5–10 years), and highly leveraged to commodity prices and financing availability. Unlike businesses that benefit from [inflation](/inflation/) or diversify into stable revenue streams, Comstock's operating performance is almost entirely cyclical—tied to the price of metals, the cost of capital, and investor appetite for mining risk.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LODE</td></tr>
@@ -21,7 +21,7 @@ Precious-metals mining is fundamentally cyclical because mining economics are ar
 
 Comstock's business model compounds the cyclicality. The company must decide to develop a deposit based on expectations about future gold and silver prices over the mine's 10–20 year lifespan. A $100 million development commitment is made when management believes the commodity price will justify it. If prices plummet six months after that decision, the company is locked into high costs and must either operate at a loss or suspend operations, writing off investment. Conversely, when commodity prices spike, mining companies often overinvest, adding supply that eventually saturates the market and crashes prices.
 
-The company must also navigate financing cycles. During precious-metals bull markets (2008–2011, 2019–2021), capital flows readily to junior miners, private-equity backs exploration, and equity issuance is relatively painless. During bear markets, capital dries up, equity raises are dilutive or impossible, and existing debt becomes expensive to refinance. A mining company with a great deposit but the misfortune of needing financing during a market downturn may be forced to sell assets at a discount or take on creditor-friendly terms that wipe out equity value.
+The company must also navigate financing cycles. During precious-metals [bull markets](/bull-market/) (2008–2011, 2019–2021), [capital flows](/capital-flows/) readily to junior miners, private-equity backs exploration, and equity issuance is relatively painless. During [bear markets](/bear-market/), capital dries up, equity raises are dilutive or impossible, and existing debt becomes expensive to refinance. A mining company with a great deposit but the misfortune of needing financing during a market downturn may be forced to sell assets at a discount or take on creditor-friendly terms that wipe out equity value.
 
 ## The Secular Headwind: Peak Optimism on Precious Metals
 
@@ -41,7 +41,7 @@ This capital structure means Comstock's true cash flow is determined by mining o
 
 Mining companies often finance development with debt, betting that production and commodity prices will generate sufficient cash to service debt and return equity capital. When this bet works—commodity prices hold and production costs are controlled—equity holders win big. When the bet fails—prices collapse or projects exceed costs—debt holders take priority, and equity is wiped out.
 
-Comstock's leverage position and debt covenants are therefore critical to assess. High debt relative to near-term production cash flows amplifies downside risk. Covenants tied to working capital or EBITDA become traps if commodity prices move against the company; a falling gold price can breach covenants, triggering default, refinancing crises, or forced asset sales.
+Comstock's leverage position and debt covenants are therefore critical to assess. High debt relative to near-term production cash flows amplifies downside risk. Covenants tied to working capital or [EBITDA](/ebitda/) become traps if commodity prices move against the company; a falling gold price can breach covenants, triggering default, refinancing crises, or forced asset sales.
 
 ## Geopolitical and Jurisdictional Risk
 
@@ -67,6 +67,6 @@ Start with the 10-K (SEC CIK 1120970) and quarterly reports to understand which 
 
 ### Wider context
 - [/stock/](/stock/) — commodity equities and price leverage
-- [/balance-sheet/](/balance-sheet/) — debt covenants and refinancing risk in cyclical industries
+- [/balance-sheet/](/balance-sheet/) — debt covenants and [refinancing risk](/refinancing-risk/) in cyclical industries
 
 </div>

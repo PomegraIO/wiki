@@ -40,7 +40,7 @@ Fusemachines' fortunes are tied to how many enterprises are actively budgeting f
 
 ## Comparison to AI Software Peers
 
-Compared to traditional AI software firms that have built repeatable products (like computer-vision platforms or natural-language processing libraries), Fusemachines competes on freshness and flexibility—it can tackle novel use cases without waiting for a product roadmap committee. Compared to larger consulting firms (Accenture, McKinsey) that also do AI implementation but in-house, Fusemachines can move faster and is not constrained by legacy client relationships or firm hierarchy. But it has less brand reach, smaller staff, and no Fortune 500 client roster to anchor stability.
+Compared to traditional AI software firms that have built repeatable products (like computer-vision platforms or natural-language processing libraries), Fusemachines competes on freshness and flexibility—it can tackle novel use cases without waiting for a product roadmap committee. Compared to larger consulting firms ([Accenture](/acn-stock/), McKinsey) that also do AI implementation but in-house, Fusemachines can move faster and is not constrained by legacy client relationships or firm hierarchy. But it has less brand reach, smaller staff, and no Fortune 500 client roster to anchor stability.
 
 <div class="wiki-seealso">
 ### Closely related

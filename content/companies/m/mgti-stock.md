@@ -23,7 +23,7 @@ The secondary audience is the portfolio of companies in which MGTI invests. Thes
 
 ## How Holding Companies Create Value
 
-A holding company like MGTI generates returns by buying equity stakes in private or public companies and realizing gains when those companies appreciate, are acquired, or go public. Revenue and profits depend primarily on the holding company's unrealized gains (increases in the value of portfolio companies) and realized gains (when MGTI exits an investment at a profit). Dividends from portfolio companies provide some steady cash, but most holding-company returns are capital appreciation.
+A holding company like MGTI generates returns by buying equity stakes in private or public companies and realizing gains when those companies appreciate, are acquired, or go public. Revenue and profits depend primarily on the holding company's unrealized gains (increases in the value of portfolio companies) and realized gains (when MGTI exits an investment at a profit). [Dividends](/dividend/) from portfolio companies provide some steady cash, but most holding-company returns are capital appreciation.
 
 The business model is fundamentally different from an operating company. MGTI does not make a product, does not have customers buying from it directly, and does not rely on sales or operational efficiency. Instead, MGTI's value-creation story hinges on two skills: identifying companies with upside potential at a reasonable price, and then creating conditions for those companies to grow. This requires investment discipline, networks, and the ability to add value to portfolio companies beyond just capital.
 
@@ -31,17 +31,17 @@ The business model is fundamentally different from an operating company. MGTI do
 
 A holding company's strength is its ability to absorb losses in any single portfolio company because gains from others offset them. MGTI's public shareholders are accepting risk—some investments will fail, some will underperform—in exchange for exposure to a diversified basket of opportunities. An investor who directly owned shares in one early-stage technology company would face binary outcomes; owning MGTI provides a more balanced risk profile.
 
-However, diversification is only valuable if the portfolio is truly diverse. If MGTI's holdings are concentrated in a single sector (e.g., all technology, all energy, all healthcare), then macroeconomic shocks to that sector damage the entire portfolio. Investors reading MGTI's filings will look carefully at sector concentration and whether the company's portfolio is truly spread across different markets and economic sensitivities.
+However, [diversification](/diversification/) is only valuable if the portfolio is truly diverse. If MGTI's holdings are concentrated in a single sector (e.g., all technology, all energy, all healthcare), then macroeconomic shocks to that sector damage the entire portfolio. Investors reading MGTI's filings will look carefully at sector concentration and whether the company's portfolio is truly spread across different markets and economic sensitivities.
 
 ## Capital Sources and Leverage
 
-MGTI finances its investments through a mix of retained earnings (profits from prior successes), public equity (shares sold to investors), debt, and potentially cash from operations. The company's willingness to take on debt affects returns: leverage amplifies gains in strong markets but magnifies losses in downturns. MGTI shareholders are implicitly making a bet on management's capital structure decisions—whether the company uses the right mix of debt and equity to maximize risk-adjusted returns.
+MGTI finances its investments through a mix of [retained earnings](/retained-earnings/) (profits from prior successes), public equity (shares sold to investors), debt, and potentially cash from operations. The company's willingness to take on debt affects returns: leverage amplifies gains in strong markets but magnifies losses in downturns. MGTI shareholders are implicitly making a bet on management's capital structure decisions—whether the company uses the right mix of debt and equity to maximize risk-adjusted returns.
 
 Portfolio companies benefit from MGTI's ability to raise capital on reasonable terms. A small start-up cannot borrow easily; MGTI can. This is part of the value proposition—founders view MGTI backing as a signal to other investors that the company is worthy of attention.
 
 ## Performance Measurement and the 10-K
 
-Investors tracking MGTI's performance will rely on the [10-K](/10-K/) filing for detailed portfolio disclosure. The filing should list major holdings, the size of each stake, and recent fair-value assessments. Net asset value (NAV) per share is a key metric: it tells investors whether MGTI's public stock price is trading at a premium or discount to the underlying value of the company's assets. If MGTI trades at a deep discount to NAV, public shareholders are getting a bargain; if it trades at a premium, they may be overpaying.
+Investors tracking MGTI's performance will rely on the [10-K](/10-K/) filing for detailed portfolio disclosure. The filing should list major holdings, the size of each stake, and recent fair-value assessments. [Net asset value](/net-asset-value/) (NAV) per share is a key metric: it tells investors whether MGTI's public stock price is trading at a premium or discount to the underlying value of the company's assets. If MGTI trades at a deep discount to NAV, public shareholders are getting a bargain; if it trades at a premium, they may be overpaying.
 
 The filing also reveals realized gains and losses from exits, which shows whether MGTI is successfully harvesting winners or holding onto losers. Management changes, new investment strategy shifts, and any changes in key personnel will be disclosed and can signal changing prospects.
 
@@ -59,7 +59,7 @@ The long-term investor in MGTI is wagering that management has the contrarian in
 
 ## A Proxy for Managerial Talent
 
-MGTI itself has no intrinsic value beyond its portfolio. The company's value is entirely a function of what management owns and the skill with which it manages those assets. Investors in MGTI are really investing in a bet on that management team: their networks, their judgment, their staying power. A change in leadership can transform MGTI's prospects, either for the better or worse.
+MGTI itself has no [intrinsic value](/intrinsic-value/) beyond its portfolio. The company's value is entirely a function of what management owns and the skill with which it manages those assets. Investors in MGTI are really investing in a bet on that management team: their networks, their judgment, their staying power. A change in leadership can transform MGTI's prospects, either for the better or worse.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -26,7 +26,7 @@ Impact BioMedical is a small biotechnology company focused on discovering and pa
 
 ## The business: licensing plant-derived compounds
 
-Impact BioMedical's core platforms are derived from polyphenols, naturally occurring plant chemicals. The flagship technology is **Linebacker**, a family of small-molecule compounds derived from myricetin (a flavonoid) that are designed to [target](/tgt-stock/) inflammatory pathways. The company has designated potential clinical applications in solid-tumor oncology, inflammatory disorders, and neurological conditions, though to date no formal trials have advanced Linebacker into human testing.
+Impact BioMedical's core platforms are derived from polyphenols, naturally occurring plant chemicals. The flagship technology is **Linebacker**, a family of small-molecule compounds derived from myricetin (a flavonoid) that are designed to target inflammatory pathways. The company has designated potential clinical applications in solid-tumor oncology, inflammatory disorders, and neurological conditions, though to date no formal trials have advanced Linebacker into human testing.
 
 The second major platform, **Equivir**, is a proprietary blend of polyphenols claimed to have antiviral properties. The company intends to launch Equivir first as an over-the-counter health supplement in the United States, a regulatory pathway that requires no clinical efficacy data—only safety documentation and adherence to label claims permitted under dietary-supplement law. Equivir has been licensed to a third party under terms the company disclosed in its March 2022 agreement.
 

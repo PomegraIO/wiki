@@ -52,7 +52,7 @@ International expansion is both an opportunity and a proving ground. Trip.com's 
 
 Trip.com's fortunes track China's travel cycles closely. In 2020–2021, the pandemic and subsequent Chinese lockdowns devastated bookings, forcing the company to cut costs and pivot toward domestic travel. When China reopened in late 2022 and into 2023, pent-up demand flooded back — both Chinese travelers going abroad and international visitors returning to China. That recovery drove a surge in bookings and revenue.
 
-However, China's tourism market carries [idiosyncratic risks](/idiosyncratic-risk/). Government travel restrictions, zero-Covid-style controls, or regional lockdowns can instantly halt travel. Geopolitical tensions, [visa](/v-stock/) restrictions, and regulatory changes in key destination countries (especially for Chinese outbound tourism) affect demand. And within China, economic cycles matter: consumer confidence and disposable income drive leisure travel, while business travel depends on corporate spending. Trip.com has no control over these macroeconomic forces and is highly exposed to them.
+However, China's tourism market carries [idiosyncratic risks](/idiosyncratic-risk/). Government travel restrictions, zero-Covid-style controls, or regional lockdowns can instantly halt travel. Geopolitical tensions, visa restrictions, and regulatory changes in key destination countries (especially for Chinese outbound tourism) affect demand. And within China, economic cycles matter: consumer confidence and disposable income drive leisure travel, while business travel depends on corporate spending. Trip.com has no control over these macroeconomic forces and is highly exposed to them.
 
 ## Technology and supply chain as competitive moats
 

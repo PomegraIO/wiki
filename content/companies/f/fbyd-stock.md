@@ -45,7 +45,7 @@ The storytelling is the product. If an attraction tells a generic or poorly exec
 
 ## Seasonal and Economic Sensitivity
 
-Entertainment spending is discretionary. During economic downturns, families reduce spending on entertainment experiences. During recessions, attendance at attractions drops. Falcon's Beyond is thus sensitive to economic cycles and consumer sentiment. The company must manage fixed costs (lease, staff) against variable visitor numbers—if a location's visitor count drops 30%, the company cannot instantly cut operating costs by 30%.
+Entertainment spending is discretionary. During economic downturns, families reduce spending on entertainment experiences. During [recessions](/recession/), attendance at attractions drops. Falcon's Beyond is thus sensitive to economic cycles and consumer sentiment. The company must manage fixed costs (lease, staff) against variable visitor numbers—if a location's visitor count drops 30%, the company cannot instantly cut operating costs by 30%.
 
 Seasonality also matters. Attractions near schools benefit from summer vacation and holiday breaks. Urban attractions in business districts may see weekday traffic from tourists and convention attendees. Weather affects foot traffic; a location in a cold climate may be busier indoors during winter. Falcon's Beyond's revenue profile depends heavily on the local seasonal patterns and economic character of each location.
 
@@ -59,7 +59,7 @@ Large media companies (Disney, Universal, Warner Bros.) have vast IP libraries a
 
 Each Falcon's Beyond location requires trained performers, technicians, and front-of-house staff. The quality of the experience depends partly on staff performance—how well characters inhabit roles, how professionally ticket-takers and guides operate, how responsively technicians handle technical issues. Staff turnover in entertainment venues is typically high; training new staff is ongoing.
 
-Labor costs are a major operating expense. Unlike a technology platform where marginal unit costs are negligible, adding each visitor to an attraction requires staff overhead. As minimum wages rise or labor markets tighten, operating margins compress. Falcon's Beyond must manage staffing efficiency—achieving high guest satisfaction while controlling payroll—or face margin pressure.
+Labor costs are a major operating expense. Unlike a technology platform where marginal unit costs are negligible, adding each visitor to an attraction requires staff overhead. As minimum wages rise or labor markets tighten, [operating margins](/operating-margin/) compress. Falcon's Beyond must manage staffing efficiency—achieving high guest satisfaction while controlling payroll—or face margin pressure.
 
 ## Technology and Experience Enhancement
 

@@ -16,7 +16,7 @@ keywords: ["medical devices", "healthcare technology", "investment holding", "po
 
 ## Portfolio Concentration as a Structural Risk
 
-Baird's core exposure is its held stakes in a number of private or emerging-stage medical device and healthcare IT companies—a portfolio structure that introduces immediate and unavoidable concentration risk. Unlike a diversified closed-end fund with hundreds of holdings, a smaller holding company often has 5–15 major positions, each representing a material percentage of net asset value. If any single portfolio company faces clinical setbacks, regulatory rejection, or simply slower-than-expected adoption, the impact on Baird's valuation is not absorbed across a broad base but felt directly.
+Baird's core exposure is its held stakes in a number of private or emerging-stage medical device and healthcare IT companies—a portfolio structure that introduces immediate and unavoidable [concentration risk](/concentration-risk/). Unlike a diversified [closed-end fund](/closed-end-fund/) with hundreds of holdings, a smaller holding company often has 5–15 major positions, each representing a material percentage of [net asset value](/net-asset-value/). If any single portfolio company faces clinical setbacks, regulatory rejection, or simply slower-than-expected adoption, the impact on Baird's valuation is not absorbed across a broad base but felt directly.
 
 This concentration is amplified by the medical device and healthcare technology cycle itself. Clinical validation, regulatory pathway completion (whether 510(k) clearance, PMA approval, or European notified-body review), and market adoption are neither swift nor certain. A portfolio company may be valued on the belief that its product will reach market and gain traction; if timelines slip, if a competitor launches first, or if clinical data falls short of expectations, the written-down value of that stake can significantly impair shareholder returns.
 
@@ -34,7 +34,7 @@ The quality of the investment committee and deal-sourcing function thus becomes 
 
 ## Illiquidity and Realized Returns Timeline
 
-Shares in Baird are traded on the AIM (Alternative Investment Market) in London, a marketplace with lower liquidity and tighter spreads than a major exchange. This illiquidity affects both Baird shareholders (who may struggle to exit large positions) and Baird itself; if the company needs to raise capital or sell a stake to fund distributions, it may face headwinds in finding buyers at reasonable valuations.
+Shares in Baird are traded on the AIM (Alternative Investment Market) in London, a marketplace with lower liquidity and tighter spreads than a major exchange. This illiquidity affects both Baird shareholders (who may struggle to exit large positions) and Baird itself; if the company needs to raise capital or sell a stake to [fund distributions](/fund-distribution/), it may face headwinds in finding buyers at reasonable valuations.
 
 More fundamentally, Baird's returns depend on realized exits—the sale or initial-public-offering of portfolio companies. Medical device companies may take 7–10 years or longer to mature to exit readiness. If exits are delayed, shareholders receive no cash return during that interval, while the company's share price may stagnate or decline based on NAV. If exits are rushed to meet liquidity needs, sale prices may be depressed.
 
@@ -54,7 +54,7 @@ The decision to carry debt versus equity also matters. Debt servicing is a fixed
 
 Even when a portfolio company reaches exit readiness—product-market fit achieved, regulatory clearance secured, early traction evident—the valuation at which it sells depends on market conditions, [price-to-earnings-ratio](/price-to-earnings-ratio/) multiples for comparable companies, and the specific buyer pool. A strong exit market (buoyant M&A, high IPO multiples) can deliver outsized returns; a weak market can force sales at prices below what Baird hoped to achieve.
 
-The company has limited control over exit timing and valuation once a holding is ready to sell. If an acquisition offer arrives at an inconvenient moment, rejecting it in hopes of a better price carries the risk that a better offer never materializes.
+The company has limited control over exit timing and valuation once a holding is ready to sell. If an [acquisition](/acquisition/) offer arrives at an inconvenient moment, rejecting it in hopes of a better price carries the risk that a better offer never materializes.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -42,7 +42,7 @@ The scaling challenge is also a competitive brake: gene-therapy demand is uncert
 
 Gene therapies typically target rare or orphan diseases because those indications offer the fastest regulatory pathways and highest per-patient prices. However, the total addressable market for any single rare disease is capped. FDMT's moat is stronger if the company's pipeline spans multiple indications in different disease areas—each represents a separate regulatory and market opportunity, and a competitor cannot easily dominate all of them.
 
-If FDMT concentrates on, say, inherited retinal disease, competitors can focus their resources on the same niche and erode the advantage through superior clinical execution or manufacturing capability. Diversification across indications and tissues (retina, muscle, liver, central nervous system) spreads FDMT's resources but also protects against a single therapeutic failure or competitive incursion in one market.
+If FDMT concentrates on, say, inherited retinal disease, competitors can focus their resources on the same niche and erode the advantage through superior clinical execution or manufacturing capability. [Diversification](/diversification/) across indications and tissues (retina, muscle, liver, central nervous system) spreads FDMT's resources but also protects against a single therapeutic failure or competitive incursion in one market.
 
 ## The Fragility of Gene-Therapy Moats
 

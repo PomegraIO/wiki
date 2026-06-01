@@ -55,7 +55,7 @@ IceCure generates revenue through device sales (the cryotherapy console, probes,
 
 The path to adoption is drawn-out: education of key opinion leaders, placement of demo units, publication of clinical cases, then conversion to regular purchasing. A single major academic medical center adoption might involve months of relationship-building, clinical trials, committee approvals, and training.
 
-Competitive intensity in medical devices is brutal. Large companies (Johnson & Johnson, Medtronic, Boston Scientific) dominate through distribution breadth, installed base, and bundled product portfolios. Smaller device companies like IceCure compete on innovation and clinical differentiation. IceCure's survival depends on continuously widening the clinical evidence base and finding oncology niches where cryotherapy's advantages are clearest.
+Competitive intensity in medical devices is brutal. Large companies ([Johnson & Johnson](/jnj-stock/), Medtronic, [Boston Scientific](/bsx-stock/)) dominate through distribution breadth, installed base, and bundled product portfolios. Smaller device companies like IceCure compete on innovation and clinical differentiation. IceCure's survival depends on continuously widening the clinical evidence base and finding oncology niches where cryotherapy's advantages are clearest.
 
 ## Competitive Threats and Consolidation
 

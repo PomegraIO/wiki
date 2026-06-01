@@ -4,7 +4,7 @@ description: "A shipping company focused on bulk carriers and contract freight, 
 keywords: ["shipping", "maritime", "bulk carriers", "freight", "commodities"]
 ---
 
-*Ocean freight markets operate on the edge between structural scarcity and brutal oversupply. **GLOBUS MARITIME LTD (GLBS)** is a vessel owner-operator in the bulk-shipping segment—the branch of maritime transport that moves iron ore, coal, grain, and other dry commodities across oceans. The industry is defined by global trade cycles, fleet capacity dynamics, and cargo rates that can swing wildly month to month.*
+*Ocean freight markets operate on the edge between structural scarcity and brutal oversupply. **GLOBUS MARITIME LTD (GLBS)** is a vessel owner-operator in the bulk-shipping segment—the branch of maritime transport that moves [iron ore](/iron-ore/), coal, grain, and other dry commodities across oceans. The industry is defined by global trade cycles, fleet capacity dynamics, and cargo rates that can swing wildly month to month.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLBS</td></tr>
@@ -17,7 +17,7 @@ keywords: ["shipping", "maritime", "bulk carriers", "freight", "commodities"]
 
 ## The Cyclicality of Bulk Shipping
 
-The bulk-shipping market is perhaps the purest expression of supply-and-demand economics in global commerce. Rates—the daily or voyage rental price for a cargo hold—respond instantaneously to the balance between the tons of cargo available to move and the number of cargo holds available to move it. When iron ore demand from Chinese steelmakers surges, ore shipments spike, and daily rates can double in weeks. When steel demand collapses, vessels sit idle, rates crater, and operators struggle to cover fuel and crew costs. GLBS's earnings are therefore directly exposed to the global business cycle, commodity production, and the relative strength or weakness of shipping supply and demand at any given time.
+The bulk-shipping market is perhaps the purest expression of supply-and-demand economics in global commerce. Rates—the daily or voyage rental price for a cargo hold—respond instantaneously to the balance between the tons of cargo available to move and the number of cargo holds available to move it. When iron ore demand from Chinese steelmakers surges, ore shipments spike, and daily rates can double in weeks. When steel demand collapses, vessels sit idle, rates crater, and operators struggle to cover fuel and crew costs. GLBS's earnings are therefore directly exposed to the global [business cycle](/business-cycle/), commodity production, and the relative strength or weakness of shipping supply and demand at any given time.
 
 This volatility is structural and difficult to hedge. Unlike container shipping, where long-term contracts provide some revenue stability, bulk shipping rates are still largely spot-market based. A vessel chartered on the open market may earn $50,000 per day in a tight market and $5,000 per day when supply surges. Operators like GLBS forecast average rate levels over years and manage their fleet size and deployment to capture upswings while surviving downturns.
 
@@ -31,7 +31,7 @@ Bulk-shipping rates are influenced by macroeconomic momentum, weather (storms di
 
 ## Capital Structure and Debt Burden
 
-Shipping companies are typically leverage-heavy. The vessels themselves serve as collateral for debt, and operators borrow heavily to finance fleet acquisitions or replacements. GLBS likely carries substantial debt, with quarterly obligations tied to bank loans taken to fund ships. During a shipping downturn, when cash flow from operations declines, servicing debt becomes the priority before dividends or growth spending. A company that is over-leveraged at the top of a cycle faces the risk of covenant violations or forced asset sales during the trough. Conversely, a company that maintains moderate leverage and preserves liquidity can weather downturns and emerge to capitalize on the subsequent upturn.
+Shipping companies are typically leverage-heavy. The vessels themselves serve as collateral for debt, and operators borrow heavily to finance fleet [acquisitions](/acquisition/) or replacements. GLBS likely carries substantial debt, with quarterly obligations tied to bank loans taken to fund ships. During a shipping downturn, when cash flow from operations declines, servicing debt becomes the priority before dividends or growth spending. A company that is over-leveraged at the top of a cycle faces the risk of covenant violations or forced asset sales during the trough. Conversely, a company that maintains moderate leverage and preserves liquidity can weather downturns and emerge to capitalize on the subsequent upturn.
 
 ## Operational Risks and Efficiency Drivers
 
@@ -43,7 +43,7 @@ Shipping is globally regulated. Environmental standards (fuel-quality requiremen
 
 ## Interpreting Financial Health
 
-Review GLBS's quarterly reports and [10-K](/10-k/) for fleet composition (number and age of vessels), average daily revenue per vessel, operating cash flow, leverage ratios, and liquidity. During a rising-rate environment, watch whether the company is maintaining discipline on capital spending or over-ordering vessels. During a falling-rate environment, observe whether it is preserving cash, refinancing debt, or cutting dividends—all signs of prudent management. A shipping company that maintains stable leverage, grows fleet capacity only when rates justify expansion, and accumulates cash during peaks to deploy in troughs is executing a sustainable strategy.
+Review GLBS's quarterly reports and [10-K](/10-k/) for fleet composition (number and age of vessels), average daily revenue per vessel, operating cash flow, [leverage ratios](/leverage-ratio-forex/), and liquidity. During a rising-rate environment, watch whether the company is maintaining discipline on capital spending or over-ordering vessels. During a falling-rate environment, observe whether it is preserving cash, refinancing debt, or cutting dividends—all signs of prudent management. A shipping company that maintains stable leverage, grows fleet capacity only when rates justify expansion, and accumulates cash during peaks to deploy in troughs is executing a sustainable strategy.
 
 <div class="wiki-seealso">
 

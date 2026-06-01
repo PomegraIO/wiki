@@ -29,7 +29,7 @@ BlueLinx stocks specialty products—items that regional contractors need but ca
 
 ## Cyclicality and Margin Exposure
 
-BlueLinx's moat has a structural weakness: it is highly cyclical. When construction activity slows, contractor volume dries up quickly. Margin pressure follows, as distributors compete to maintain volume during downturns. Additionally, home-improvement mega-retailers (Home Depot, Lowe's) and large lumber companies have begun direct-to-contractor sales, competing with BlueLinx in some categories. Large national homebuilders sometimes bypass distributors entirely, sourcing directly from manufacturers. These competitive pressures mean that BlueLinx's moat is strongest when construction is healthy and contractor cash flow is robust, weaker when the cycle turns.
+BlueLinx's moat has a structural weakness: it is highly cyclical. When construction activity slows, contractor volume dries up quickly. Margin pressure follows, as distributors compete to maintain volume during downturns. Additionally, home-improvement mega-retailers ([Home Depot](/hd-stock/), Lowe's) and large lumber companies have begun direct-to-contractor sales, competing with BlueLinx in some categories. Large national homebuilders sometimes bypass distributors entirely, sourcing directly from manufacturers. These competitive pressures mean that BlueLinx's moat is strongest when construction is healthy and contractor cash flow is robust, weaker when the cycle turns.
 
 ## Supplier Concentration and Pricing Power
 

@@ -23,7 +23,7 @@ This bookings-to-revenue lag creates working capital swings. Manufacturing crane
 
 ## Geographic and Cyclical Exposure
 
-Manitowoc's order intake is driven by construction activity in North America, Europe, and increasingly Asia-Pacific. A surge in infrastructure spending or commercial real estate development increases crane demand. A downturn in construction (recession, credit crisis, overbuilding) causes customers to defer equipment purchases, leading to backlog decline and future revenue contraction.
+Manitowoc's order intake is driven by construction activity in North America, Europe, and increasingly Asia-Pacific. A surge in infrastructure spending or [commercial real estate](/commercial-real-estate/) development increases crane demand. A downturn in construction ([recession](/recession/), credit crisis, overbuilding) causes customers to defer equipment purchases, leading to backlog decline and future revenue contraction.
 
 The company is therefore highly cyclical. During boom periods, backlog and revenue can grow rapidly, driving operating leverage if costs are managed. During downturns, fixed costs (manufacturing facilities, engineering staff, distribution networks) become a drag on profitability. Manitowoc has had to downsize manufacturing capacity multiple times in its history to align cost structure with demand.
 
@@ -42,7 +42,7 @@ Liebherr, a privately held German competitor, dominates the high-end market; Man
 
 Manitowoc's [gross margin](/gross-profit-margin/) is compressed by commodity steel prices, labor costs, and manufacturing complexity. Cranes are engineered products with hundreds of components; managing supply chain cost, manufacturing quality, and on-time delivery is operationally demanding. As steel prices rise, Manitowoc faces pressure either to absorb costs (margin compression) or pass them to customers through price increases (risking order loss).
 
-The company can partially hedge commodity costs through forward contracts or by adjusting product pricing (negotiated directly with customers on large orders). However, in competitive markets, pricing power is limited. Manitowoc's path to margin improvement is primarily through manufacturing efficiency: reducing scrap, improving labor productivity, and leveraging automation in assembly.
+The company can partially hedge commodity costs through [forward contracts](/forward-contract/) or by adjusting product pricing (negotiated directly with customers on large orders). However, in competitive markets, pricing power is limited. Manitowoc's path to margin improvement is primarily through manufacturing efficiency: reducing scrap, improving [labor productivity](/labor-productivity/), and leveraging automation in assembly.
 
 ## Aftermarket Services and Parts: The Sticky Revenue Stream
 
@@ -60,7 +60,7 @@ The company also must manage supply chain risk. Crane manufacturing depends on s
 
 Manitowoc offers financing programs to customers—either directly through a captive finance arm or through partnerships with third-party equipment financiers. This serves multiple purposes: (1) it removes a customer's capital constraint (making the sale possible), (2) it generates interest income as a side business, and (3) it can help Manitowoc "write down" pricing in competitive situations by offering below-market financing rates, effectively discounting the sale.
 
-However, equipment financing is risky if customers default. Manitowoc must underwrite credit quality and manage loan portfolios. A recession that depresses construction activity also increases default rates on equipment loans, potentially creating losses for the finance arm.
+However, equipment financing is risky if customers default. Manitowoc must underwrite credit quality and manage loan portfolios. A recession that depresses construction activity also increases [default rates](/default-rate/) on equipment loans, potentially creating losses for the finance arm.
 
 ## Reading the Backlog and Forward Guidance
 

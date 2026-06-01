@@ -19,7 +19,7 @@ The 10-K Item 1 (Business) for a company like BGDE is critical and often murky. 
 
 - **Specific revenue model**: Does the company earn fees for services? Mine cryptocurrency? Sell software licenses? Conduct consulting? The 10-K should itemize revenue sources and state the percentage each contributes. Vague descriptions like "blockchain solutions" without numbers attached suggest either very early stage or promotional intent.
 - **Geographic and regulatory footprint**: Cryptocurrency operations face varying regulation by jurisdiction. Some countries ban crypto mining; others allow it but tax it heavily. The 10-K risk section should disclose regulatory exposure. If BGDE operates mining facilities, where are they? If they provide exchange or custody services, are they licensed? Which countries?
-- **Competitive positioning**: The crypto infrastructure space is crowded and capital-intensive. What makes BGDE different from Ethereum, Solana, or layer-two scaling platforms? If the answer is not clear, the business may lack defensibility.
+- **Competitive positioning**: The crypto infrastructure space is crowded and capital-intensive. What makes BGDE different from [Ethereum](/ethereum/), Solana, or layer-two scaling platforms? If the answer is not clear, the business may lack defensibility.
 
 ## Revenue and profitability: the second test
 
@@ -27,13 +27,13 @@ OTC tech companies often carry significant losses. For BGDE, the [income-stateme
 
 Look for these specific items:
 
-- **Cost of revenue**: For a mining operation, cost of revenue is electricity and hardware depreciation. If BGDE operates mining hardware and cost of revenue is high, that is realistic. If the company claims to be a software platform with zero or minimal cost of revenue, it is either highly efficient or not yet scaling.
+- **Cost of revenue**: For a mining operation, cost of revenue is electricity and hardware [depreciation](/depreciation/). If BGDE operates mining hardware and cost of revenue is high, that is realistic. If the company claims to be a software platform with zero or minimal cost of revenue, it is either highly efficient or not yet scaling.
 - **Operating expenses**: Research & development, general and administrative, and selling expenses. OTC companies often have bloated G&A (corporate overhead) relative to revenue—a red flag for waste or lack of cost discipline.
-- **Dilution from options and restricted shares**: The compensation section shows how much equity the company has committed to employees and insiders through options and restricted stock. For a small OTC company, this can exceed the founder stake, meaning every dollar earned must be divided among many shareholders.
+- **Dilution from options and [restricted shares](/restricted-shares/)**: The compensation section shows how much equity the company has committed to employees and insiders through options and [restricted stock](/restricted-stock/). For a small OTC company, this can exceed the founder stake, meaning every dollar earned must be divided among many shareholders.
 
 ## Capital structure and dilution risk
 
-A researcher studying BGDE must understand the fully-diluted share count and capitalization. The 10-K discloses outstanding shares, but options (vesting schedules), warrants (potential conversion obligations), and convertible debt can dramatically increase the share count. An OTC company that has issued many warrants or convertible notes is essentially pre-diluted; when (or if) those instruments convert, existing shareholders are diluted.
+A researcher studying BGDE must understand the fully-diluted share count and capitalization. The 10-K discloses outstanding shares, but options ([vesting schedules](/vesting-schedule/)), warrants (potential conversion obligations), and convertible debt can dramatically increase the share count. An OTC company that has issued many warrants or convertible notes is essentially pre-diluted; when (or if) those instruments convert, existing shareholders are diluted.
 
 Look for:
 
@@ -45,7 +45,7 @@ Look for:
 
 For a blockchain or mining company, the 10-K should contain specific operational metrics:
 
-- **Hash rate (for mining)**: If BGDE operates mining hardware, it should disclose its combined computational power (hash rate). This can be compared to publicly-reported network statistics to gauge BGDE's share of block rewards.
+- **[Hash rate](/hash-rate/) (for mining)**: If BGDE operates mining hardware, it should disclose its combined computational power (hash rate). This can be compared to publicly-reported network statistics to gauge BGDE's share of block rewards.
 - **Facilities and hardware**: Where is the mining hardware located? How much capacity does it represent? What is the cost structure per unit of electricity? OTC mining companies sometimes exaggerate operational capacity or hide high electricity costs.
 - **Customer contracts (for services)**: If BGDE provides blockchain infrastructure or consulting, the 10-K should name material customers. Unnamed "enterprise clients" is a red flag.
 
@@ -53,18 +53,18 @@ For a blockchain or mining company, the 10-K should contain specific operational
 
 OTC stocks are less liquid, less regulated, and more prone to manipulation than exchange-listed securities. BGDE's 10-K risk section should address this, but often does not. A researcher should independently assess:
 
-- **Bid-ask spread**: Wide spreads indicate thin trading and high transaction costs for buyers and sellers.
+- **[Bid-ask spread](/bid-ask-spread/)**: Wide spreads indicate thin trading and high transaction costs for buyers and sellers.
 - **Share-lock-up periods**: Are insiders' shares restricted from sale, or free to dump? If insiders can sell freely, they may do so once prices spike on speculative momentum.
-- **Market capitalization relative to cash**: If BGDE's market cap is low and it has minimal cash on the balance sheet, a small negative surprise could wipe out shareholders.
+- **[Market capitalization](/market-capitalization/) relative to cash**: If BGDE's market cap is low and it has minimal cash on the balance sheet, a small negative surprise could wipe out shareholders.
 
 ## What to scrutinize in BGDE's 10-K specifically
 
 1. **Item 1 (Business)**: Does the description match known products or services? Can you find press releases or a website confirming the business?
 2. **Item 7 (MD&A)**: Is there honest discussion of losses and burn rate? Does management address the path to profitability?
 3. **Item 1A (Risk Factors)**: Are regulatory and technology risks disclosed candidly, or minimized?
-4. **Auditor opinion**: Is the audit unqualified (clean), or are there "going concern" warnings (suggesting the company may not survive)?
+4. **Auditor opinion**: Is the audit unqualified (clean), or are there "[going concern](/going-concern/)" warnings (suggesting the company may not survive)?
 
-A "going concern" warning in the audit opinion is a critical red flag—it signals that the auditors doubt the company's ability to continue operations.
+A "going concern" warning in the [audit opinion](/audit-opinion/) is a critical red flag—it signals that the auditors doubt the company's ability to continue operations.
 
 ## Why BGDE research matters
 

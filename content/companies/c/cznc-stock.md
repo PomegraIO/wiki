@@ -33,7 +33,7 @@ This relationship moat is defensible. A competitor entering the region starts fr
 
 A regional bank with deep customer relationships and consistent presence often enjoys stable, low-cost deposits. Customers in the region keep their checking and savings accounts with CZNC out of habit and convenience. These stable deposits are cheaper than wholesale funding (borrowing from other banks or capital markets), which gives CZNC a funding cost advantage relative to competitors that rely on wholesale markets.
 
-This is a real moat, but again it depends on service quality and competitive pricing. If CZNC falls behind on interest rates paid to depositors, or if service quality declines, customers will move money. The stability of the deposit base cannot be taken for granted.
+This is a real moat, but again it depends on service quality and competitive pricing. If CZNC falls behind on [interest rates](/interest-rate/) paid to depositors, or if service quality declines, customers will move money. The stability of the deposit base cannot be taken for granted.
 
 ## Lending Expertise and Underwriting
 
@@ -43,7 +43,7 @@ Lending moat is valuable in that it allows the bank to earn spreads on loans to 
 
 ## Scale Disadvantages Against National Competitors
 
-CZNC is significantly smaller than national megabanks like JPMorgan Chase, Bank of America, or Wells Fargo. It lacks their scale advantages in technology investment, compliance operations, and capital efficiency. A megabank can spread compliance and technology costs across a much larger asset base, resulting in lower average costs.
+CZNC is significantly smaller than national megabanks like [JPMorgan Chase](/jpmorgan-chase/), [Bank of America](/bank-of-america/), or [Wells Fargo](/wells-fargo/). It lacks their scale advantages in technology investment, compliance operations, and capital efficiency. A megabank can spread compliance and technology costs across a much larger asset base, resulting in lower average costs.
 
 This is not a moat; it is a vulnerability. CZNC's protection against national competitors comes not from outcompeting them on cost or technology but from occupying a niche—regional presence and relationship banking—that national competitors have deprioritized.
 
@@ -55,7 +55,7 @@ As banking becomes increasingly digital, CZNC must invest to match competitors' 
 
 ## Regulatory and Economic Headwinds
 
-CZNC operates in a regulated industry where economic cycles directly affect performance. Rising interest rates can be beneficial (wider spreads between what the bank lends and what it pays depositors), while falling rates squeeze margins. Economic recessions lead to higher loan losses and reduced loan demand. CZNC has no protection against these cyclical forces; it must endure them.
+CZNC operates in a regulated industry where economic cycles directly affect performance. Rising interest rates can be beneficial (wider spreads between what the bank lends and what it pays depositors), while falling rates squeeze margins. Economic [recessions](/recession/) lead to higher loan losses and reduced loan demand. CZNC has no protection against these cyclical forces; it must endure them.
 
 Additionally, regulatory requirements for capital, liquidity, and consumer protection are evolving. CZNC must spend to comply, but compliance is a cost that all competitors share and that does not differentiate the bank.
 
@@ -66,15 +66,15 @@ CZNC's competitive position is most accurately described not as a moat but as an
 <div class="wiki-seealso">
   <h3>Closely related</h3>
   <ul>
-    <li><a href="/czfs-stock/">CITIZENS FINANCIAL SERVICES INC (CZFS)</a></li>
+    <li><a href="/czfs-stock/">[CITIZENS FINANCIAL SERVICES](/czfs-stock/) INC (CZFS)</a></li>
     <li><a href="/cyrx-stock/">Cryoport, Inc. (CYRX)</a></li>
   </ul>
   <h3>Wider context</h3>
   <ul>
     <li><a href="/stock/">Stock</a></li>
     <li><a href="/public-company/">Public Company</a></li>
-    <li><a href="/securities-and-exchange-commission/">Securities and Exchange Commission</a></li>
+    <li><a href="/securities-and-exchange-commission/">[Securities and Exchange Commission](/securities-and-exchange-commission/)</a></li>
     <li><a href="/10-k/">10-K</a></li>
-    <li><a href="/balance-sheet/">Balance Sheet</a></li>
+    <li><a href="/balance-sheet/">[Balance Sheet](/balance-sheet/)</a></li>
   </ul>
 </div>

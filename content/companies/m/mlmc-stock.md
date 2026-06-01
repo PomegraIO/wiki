@@ -45,7 +45,7 @@ Distribution is critical; FrankSpeech must invest in mobile apps, web platforms,
 
 ## Revenue Concentration and Business Volatility
 
-If FrankSpeech derives significant revenue from a small number of content creators or sponsors, concentration risk is high. Loss of a top creator due to contractual disputes, health issues, or career moves can materially reduce viewership and revenue. Similarly, if a small number of sponsors or business partners fund operations, loss of those relationships can be devastating.
+If FrankSpeech derives significant revenue from a small number of content creators or sponsors, [concentration risk](/concentration-risk/) is high. Loss of a top creator due to contractual disputes, health issues, or career moves can materially reduce viewership and revenue. Similarly, if a small number of sponsors or business partners fund operations, loss of those relationships can be devastating.
 
 Political content is inherently volatile. Audience enthusiasm waxes and wanes with elections, legislation, and scandals. The platform's revenue is tightly coupled to these cycles, making forecasting difficult and operations unpredictable.
 
@@ -65,7 +65,7 @@ Association with false information or extremist content—whether created by pla
 
 ## Capital Requirements and Path to Profitability
 
-Media platforms, particularly streaming video platforms, require sustained capital investment. FrankSpeech must fund content acquisition, technology, marketing, and operations while building an audience. If the company is not currently profitable, it must secure funding or generate revenue quickly before capital runs out. Profitability in media is elusive; many media platforms run at losses for years or never achieve consistent profitability.
+Media platforms, particularly streaming video platforms, require sustained capital investment. FrankSpeech must fund content [acquisition](/acquisition/), technology, marketing, and operations while building an audience. If the company is not currently profitable, it must secure funding or generate revenue quickly before capital runs out. Profitability in media is elusive; many media platforms run at losses for years or never achieve consistent profitability.
 
 ## Upside Tied to Platform Loyalty
 

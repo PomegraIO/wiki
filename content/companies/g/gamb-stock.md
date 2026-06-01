@@ -4,7 +4,7 @@ description: "Digital-media and content platform connecting online gambling and 
 keywords: ["iGaming", "sports betting", "affiliate marketing", "user acquisition", "lead generation", "digital media"]
 ---
 
-*Someone searching "best online casino" or "sportsbook with live betting" encounters **GAMBLING.COM GROUP LTD** (GAMB) near the top of results—a destination where content, reviews, and comparison tools guide them toward regulated gambling operators. GAMB is neither a casino nor a sportsbook but rather a traffic and lead generator sitting between consumer search appetite and operator customer acquisition. From the operator's perspective, GAMB is a marketing expense; from the consumer's perspective, GAMB is a research tool; from the investor's perspective, GAMB is a commission-based digital publisher.*
+*Someone searching "best online casino" or "sportsbook with live betting" encounters **GAMBLING.COM GROUP LTD** (GAMB) near the top of results—a destination where content, reviews, and comparison tools guide them toward regulated gambling operators. GAMB is neither a casino nor a sportsbook but rather a traffic and lead generator sitting between consumer search appetite and operator customer [acquisition](/acquisition/). From the operator's perspective, GAMB is a marketing expense; from the consumer's perspective, GAMB is a research tool; from the investor's perspective, GAMB is a commission-based digital publisher.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GAMB</td></tr>
@@ -37,7 +37,7 @@ GAMB's websites are content-driven, but the underlying technology—ranking algo
 
 ## Revenue Cyclicality and Operator Dependence
 
-GAMB's revenue is directly tied to operator profitability and marketing budgets. During a recession, operators may cut customer acquisition spending. During a period of rapid expansion (e.g., new state legalizations in the U.S.), operators may increase spending dramatically. GAMB has no pricing power; it cannot dictate commission rates or minimum traffic guarantees. If one or two large operators account for a significant share of GAMB's revenue and those operators change their affiliate strategies or reduce spending, GAMB's earnings can drop sharply. This operator dependence is a structural risk that investors must evaluate—GAMB is not a direct bet on gambling demand but a higher-leverage bet on operator spending discipline.
+GAMB's revenue is directly tied to operator profitability and marketing budgets. During a [recession](/recession/), operators may cut customer acquisition spending. During a period of rapid expansion (e.g., new state legalizations in the U.S.), operators may increase spending dramatically. GAMB has no pricing power; it cannot dictate commission rates or minimum traffic guarantees. If one or two large operators account for a significant share of GAMB's revenue and those operators change their affiliate strategies or reduce spending, GAMB's earnings can drop sharply. This operator dependence is a structural risk that investors must evaluate—GAMB is not a direct bet on gambling demand but a higher-leverage bet on operator spending discipline.
 
 ## Content Authority and Brand Risk
 

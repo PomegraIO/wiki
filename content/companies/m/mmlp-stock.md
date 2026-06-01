@@ -4,7 +4,7 @@ description: "Limited partnership operating crude oil and refined products gathe
 keywords: ["midstream", "energy infrastructure", "crude oil gathering", "logistics", "petroleum products"]
 ---
 
-*Midstream energy infrastructure—the pipes, terminals, and logistics networks that move crude oil and refined products from wellhead to refinery to pump—occupies a structural position in the energy value chain. It sits between volatile commodity prices (affecting upstream producers) and consumer demand (shaping refinery runs). **MARTIN MIDSTREAM PARTNERS L.P. (MMLP)** operates as a limited partnership, a legal form that allows it to distribute cash and defer entity-level taxation, in the regional network of crude gathering and refined-product logistics across the U.S. Gulf Coast.*
+*Midstream energy infrastructure—the pipes, terminals, and logistics networks that move [crude oil](/crude-oil/) and refined products from wellhead to refinery to pump—occupies a structural position in the energy value chain. It sits between volatile commodity prices (affecting upstream producers) and consumer demand (shaping refinery runs). **MARTIN MIDSTREAM PARTNERS L.P. (MMLP)** operates as a limited partnership, a legal form that allows it to distribute cash and defer entity-level taxation, in the regional network of crude gathering and refined-product logistics across the U.S. Gulf Coast.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MMLP</td></tr>
@@ -21,7 +21,7 @@ The U.S. energy infrastructure was built over more than a century. Crude oil fro
 
 Large-scale midstream operates at low margins but high throughput. A pipeline that moves 100,000 barrels per day generates revenue proportional to volume and duration of service, not commodity price. That revenue stream is stable during production cycles—as long as crude or products flow, the infrastructure is paid. The business is capital-intensive (decades to build or expand a system) and long-lived (existing systems often operate at near-replacement cost).
 
-MMLP operates in that context. It is smaller and more regional than giant midstream corporates (like Magellan Midstream or Enterprise Products Partners). It focuses on the Gulf Coast gathering ecosystem—an area where crude production, refinery capacity, and chemical plant feedstock demand concentrate. Regional scale allows it to develop deep relationships with specific producers and refiners without the capital and geographic burden of a national network.
+MMLP operates in that context. It is smaller and more regional than giant midstream corporates (like Magellan Midstream or [Enterprise Products Partners](/epd-stock/)). It focuses on the Gulf Coast gathering ecosystem—an area where crude production, refinery capacity, and chemical plant feedstock demand concentrate. Regional scale allows it to develop deep relationships with specific producers and refiners without the capital and geographic burden of a national network.
 
 ## What a Limited Partnership Structure Enables
 
@@ -29,7 +29,7 @@ MMLP is organized as a limited partnership, a legal form that is common in energ
 
 That structure was created to maximize after-tax returns to equity investors. Because energy infrastructure generates steady, long-lived cash flows, partnerships can distribute a large portion of cash without requiring outside capital. An investor in MMLP units receives quarterly distributions derived from operating cash flow; those distributions are taxed at the individual level based on the partner's tax bracket and circumstances (ordinary income, return of capital, etc.).
 
-The partnership structure also allows the firm to fund growth through a combination of debt financing and new unit issuance, rather than relying on retained earnings or external bank lending alone. When MMLP needs capital to expand or maintain systems, it can issue new units (diluting existing partners) or borrow (increasing debt). The leverage is often substantial; midstream partnerships typically operate with 3–4x [debt](/bond/) to [enterprise value](/enterprise-value/), reflecting the stability of cash flows and the capital-intensity of the business.
+The partnership structure also allows the firm to fund growth through a combination of [debt financing](/debt-financing/) and new unit issuance, rather than relying on [retained earnings](/retained-earnings/) or external bank lending alone. When MMLP needs capital to expand or maintain systems, it can issue new units (diluting existing partners) or borrow (increasing debt). The leverage is often substantial; midstream partnerships typically operate with 3–4x [debt](/bond/) to [enterprise value](/enterprise-value/), reflecting the stability of cash flows and the capital-intensity of the business.
 
 ## Regional Crude Gathering and Logistics
 
@@ -47,7 +47,7 @@ A midstream limited partnership typically targets a specific investor profile: t
 
 Distributions to unitholders can be high relative to initial unit price—often 6–10% annually—but they are funded from operating cash flow, not asset sales or growth. A stable distribution requires stable volumes and cost control. In periods when crude production declines (a market downturn or geological exhaustion), distribution coverage can weaken.
 
-MMLP's balance sheet reflects the capital intensity of the business: substantial fixed assets (pipelines, terminals, barges), long-lived debt, and modest retained earnings. Cash flow from operations is reserved for distributions and debt service; growth is funded externally.
+MMLP's [balance sheet](/balance-sheet/) reflects the capital intensity of the business: substantial fixed assets (pipelines, terminals, barges), long-lived debt, and modest retained earnings. Cash flow from operations is reserved for distributions and debt service; growth is funded externally.
 
 ## Competitive and Regulatory Constraints
 
@@ -59,7 +59,7 @@ Regulatory oversight is light for logistics and gathering; the firm is not a rat
 
 ## Researching MMLP
 
-The 10-K will detail volumes (barrels per day), customer contracts, geographic concentration, and leverage ratios. Quarterly conference calls disclose distribution coverage, growth capital expenditure, and volume trends. Analyst reports compare MMLP's leverage and distribution yield to peer midstream entities. Industry data on crude production in the firm's basins and refinery utilization will illuminate demand trends.
+The 10-K will detail volumes (barrels per day), customer contracts, geographic concentration, and [leverage ratios](/leverage-ratio-forex/). Quarterly conference calls disclose distribution coverage, growth capital expenditure, and volume trends. Analyst reports compare MMLP's leverage and distribution yield to peer midstream entities. Industry data on crude production in the firm's basins and refinery utilization will illuminate demand trends.
 
 <div class="wiki-seealso">
 
@@ -71,7 +71,7 @@ The 10-K will detail volumes (barrels per day), customer contracts, geographic c
 
 ### Wider context
 
-- [mmi-stock](/mmi-stock/) — commercial real estate brokerage; asset-light, fee-based business model
+- [mmi-stock](/mmi-stock/) — [commercial real estate](/commercial-real-estate/) brokerage; asset-light, fee-based business model
 - [mms-stock](/mms-stock/) — government contractor; also asset-light, contract-driven model
 - [mmsi-stock](/mmsi-stock/) — medical devices; capital-intensive, patent-protected moat
 

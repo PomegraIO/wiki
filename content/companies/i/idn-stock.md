@@ -22,7 +22,7 @@ handwritten: true
 
 </aside>
 
-Intellicheck is a software company specializing in identity verification and fraud prevention, serving financial institutions, retailers, and government agencies. Its core product automates the validation of government-issued identification documents—driver's licenses, passports, and ID cards—through a combination of image analysis, optical character recognition, and database lookups. The company sells both as a standalone platform and as embedded tools that integrate into customer workflows, handling millions of identity checks annually.
+Intellicheck is a software company specializing in identity verification and fraud prevention, serving [financial institutions](/fisi-stock/), retailers, and government agencies. Its core product automates the validation of government-issued identification documents—driver's licenses, passports, and ID cards—through a combination of image analysis, optical character recognition, and database lookups. The company sells both as a standalone platform and as embedded tools that integrate into customer workflows, handling millions of identity checks annually.
 
 ## The Business Model
 

@@ -29,7 +29,7 @@ Middlesex Water serves central New Jersey, a densely populated region with both 
 
 Population density and commercial activity in the service territory directly affect water demand. Drier years may suppress demand, while droughts or heat waves can increase consumption. Commercial and industrial customers contribute significant revenue; their water needs depend on the health of local economic activity. Unlike consumer discretionary products, water demand is relatively inelastic—people cannot easily reduce usage below subsistence levels, and businesses that depend on water will pay rather than relocate.
 
-The fixed territory creates concentration risk: Middlesex cannot diversify by entering new markets or serving new customer segments without regulatory approval. Its fortunes depend on the economic and demographic stability of central New Jersey specifically.
+The fixed territory creates [concentration risk](/concentration-risk/): Middlesex cannot diversify by entering new markets or serving new customer segments without regulatory approval. Its fortunes depend on the economic and demographic stability of central New Jersey specifically.
 
 ## Infrastructure and Capital Requirements
 
@@ -51,7 +51,7 @@ Additionally, utilities face rate regulation that scrutinizes their spending and
 
 Middlesex generates revenue from two primary sources: metered water delivery to customers and wastewater treatment services. Both are billed to customers on a monthly or quarterly basis, creating a steady revenue stream. Water usage is metered, allowing the company to bill based on consumption; some fixed charges apply regardless of usage (connection fees, base rates).
 
-Revenue is thus relatively predictable and stable. Unlike companies dependent on discretionary spending or cyclical demand, water demand is driven by basic human and commercial necessity. Quarterly revenue does not typically vary wildly; droughts may reduce demand while wet periods may increase it, but these variations are typically manageable within a regulated utility's earnings base.
+Revenue is thus relatively predictable and stable. Unlike companies dependent on [discretionary spending](/discretionary-spending/) or cyclical demand, water demand is driven by basic human and commercial necessity. Quarterly revenue does not typically vary wildly; droughts may reduce demand while wet periods may increase it, but these variations are typically manageable within a regulated utility's earnings base.
 
 [Return on equity](/return-on-equity/) is constrained by regulation. The allowed return is typically set in rate cases and reflects what regulators consider a fair return on capital. This creates earnings ceilings but also earnings floors: the regulated return provides stability and predictability that growth companies do not offer.
 
@@ -69,7 +69,7 @@ Water utilities are often held for [dividend](/dividend/) income rather than cap
 
 ## Investment Research Directions
 
-Investors analyzing Middlesex should examine its SEC filings (CIK 66004) for historical capital expenditure patterns, debt levels, and [free cash flow](/free-cash-flow/) trends. Recent rate case decisions from the New Jersey Board of Public Utilities provide context on the allowed return and future revenue trajectory. Understanding the age and condition of the company's infrastructure is material: older pipes require more replacement spending and create higher operational risk. [Dividend](/dividend/) history and payout ratios indicate management's confidence in cash generation. Regional economic and demographic trends in central New Jersey affect long-term customer growth and water demand.
+Investors analyzing Middlesex should examine its SEC filings (CIK 66004) for historical capital expenditure patterns, debt levels, and [free cash flow](/free-cash-flow/) trends. Recent rate case decisions from the New Jersey Board of Public Utilities provide context on the allowed return and future revenue trajectory. Understanding the age and condition of the company's infrastructure is material: older pipes require more replacement spending and create higher [operational risk](/operational-risk/). [Dividend](/dividend/) history and [payout ratios](/payout-ratio/) indicate management's confidence in cash generation. Regional economic and demographic trends in central New Jersey affect long-term customer growth and water demand.
 
 <div class="wiki-seealso">
 

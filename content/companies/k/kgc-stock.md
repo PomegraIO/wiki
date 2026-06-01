@@ -44,7 +44,7 @@ Gold prices have historically cycled between roughly $250 and $2,000+ per ounce 
 
 As a public company, Kinross has a common equity and (typically) outstanding debt. The company's [balance sheet](/balance-sheet/) and cash flow are watched closely by equity analysts and [credit rating](/credit-rating/) agencies. Kinross has historically been active in returning capital to shareholders through dividends, though the size and frequency of these depend on cash generation and management's strategic priorities.
 
-The company is also a known participant in mining industry consolidation. Kinross has acquired smaller or struggling competitors in the past; conversely, larger mining companies could theoretically acquire Kinross. Takeover risk is a permanent part of the valuation conversation for all junior and mid-cap mining firms, though a company of Kinross's size and operational quality is less likely to be an acquisition [target](/tgt-stock/) than a distressed asset.
+The company is also a known participant in mining industry consolidation. Kinross has acquired smaller or struggling competitors in the past; conversely, larger mining companies could theoretically acquire Kinross. Takeover risk is a permanent part of the valuation conversation for all junior and mid-cap mining firms, though a company of Kinross's size and operational quality is less likely to be an acquisition target than a distressed asset.
 
 ## Regulatory and Political Context
 

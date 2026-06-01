@@ -35,7 +35,7 @@ The supply chain for components itself is subject to restrictions. Certain semic
 
 ## Customer Base and Concentration Risk
 
-Cleartronic's customer base is concentrated among prime defense contractors (Boeing, Lockheed, Northrop, Raytheon, and others) and occasionally direct government customers. Sales to government represent a significant portion of revenue and are subject to the budget cycles, appropriations schedules, and political shifts that affect defense spending. A shift in military priorities — away from certain platforms or toward acquisition freezes — can rapidly impact Cleartronic's demand.
+Cleartronic's customer base is concentrated among prime defense contractors ([Boeing](/ba-stock/), Lockheed, Northrop, Raytheon, and others) and occasionally direct government customers. Sales to government represent a significant portion of revenue and are subject to the budget cycles, appropriations schedules, and political shifts that affect defense spending. A shift in military priorities — away from certain platforms or toward acquisition freezes — can rapidly impact Cleartronic's demand.
 
 Conversely, the long qualification cycles and switching costs mean that once Cleartronic has secured a design win on a major program, the revenue is relatively stable. The challenge is to maintain a diverse portfolio of platforms in production and qualify onto emerging systems before they ramp. If Cleartronic is too dependent on a single major platform (an aircraft type, satellite constellation, or radar system) and that program is cancelled or delayed, the impact is acute.
 
@@ -53,9 +53,9 @@ This regulatory overhead is a fixed cost that small competitors often cannot abs
 
 ## Margins and Cash Generation
 
-The business model — high complexity, low volume, long lead times, documented quality — typically generates gross margins in the 40-60% range, depending on the product mix. Operating margins are compressed by the overhead of maintaining security compliance, R&D for next-generation designs, and customer-specific engineering. But the steady revenue from qualified-in programs and long platform lifecycles produces stable, predictable cash generation.
+The business model — high complexity, low volume, long lead times, documented quality — typically generates gross margins in the 40-60% range, depending on the product mix. [Operating margins](/operating-margin/) are compressed by the overhead of maintaining security compliance, R&D for next-generation designs, and customer-specific engineering. But the steady revenue from qualified-in programs and long platform lifecycles produces stable, predictable cash generation.
 
-For a public company of Cleartronic's size, this cash is often returned via dividends, share buybacks, or modest acquisitions of complementary RF or communications specialists. Growth is often constrained by market size and customer budgets rather than Cleartronic's ability to execute.
+For a public company of Cleartronic's size, this cash is often returned via [dividends](/dividend/), [share buybacks](/share-buyback/), or modest [acquisitions](/acquisition/) of complementary RF or communications specialists. Growth is often constrained by market size and customer budgets rather than Cleartronic's ability to execute.
 
 <div class="wiki-seealso">
 ### Closely related

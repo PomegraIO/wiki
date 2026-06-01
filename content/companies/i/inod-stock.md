@@ -4,7 +4,7 @@ description: "INNODATA is a content and data management services provider offeri
 keywords: [data services, content management, AI training, document processing, data annotation, business services]
 ---
 
-*[INNODATA INC](/inod-stock/) operates as a business process outsourcing and data services company, providing content transformation, document processing, and data annotation services. The company supplies structured data and labeled datasets to enterprise software companies, technology firms, and other clients who need high-quality training data for machine learning models or complex document workflows. INNODATA is a [public company](/public-company/) trading on NASDAQ, with SEC filings under [CIK 903651](/10-k/).*
+*[INNODATA INC](/inod-stock/) operates as a business process outsourcing and data services company, providing content transformation, document processing, and data annotation services. The company supplies structured data and labeled datasets to enterprise software companies, technology firms, and other clients who need high-quality training data for machine learning models or complex document workflows. INNODATA is a [public company](/public-company/) trading on [NASDAQ](/nasdaq/), with SEC filings under [CIK 903651](/10-k/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INOD</td></tr>
@@ -29,7 +29,7 @@ INNODATA generates revenue by selling data services on a project basis or throug
 
 The company has disclosed growth aligned with increased demand for machine learning training data. As enterprises and technology firms have invested more heavily in artificial intelligence applications, demand for labeled datasets has expanded. INNODATA has benefited from this tailwind, though competitive pressure from other data services providers, from freelance annotation marketplaces, and from clients building in-house capabilities remains constant.
 
-Large contracts with significant technology firms anchor the revenue base, but concentration risk is inherent: loss of a major client can materially impact quarterly results. INNODATA's filings disclose client concentration and contract backlog, providing transparency on revenue predictability.
+Large contracts with significant technology firms anchor the revenue base, but [concentration risk](/concentration-risk/) is inherent: loss of a major client can materially impact quarterly results. INNODATA's filings disclose client concentration and contract backlog, providing transparency on revenue predictability.
 
 ## Geographic Footprint and Labor Sourcing
 
@@ -47,11 +47,11 @@ The company also faces the risk that clients build in-house capabilities. Some l
 
 INNODATA operates with relatively light [capital requirements](/enterprise-value/). Unlike manufacturing or software product companies, the company does not require large upfront investments in equipment or infrastructure. It rents office and facility space, pays staff, and operates leaner. This translates to lower [free cash flow](/free-cash-flow/) needs but also lower barriers to entry for competitors.
 
-The company's [balance sheet](/balance-sheet/) is relatively straightforward: modest assets, operational liabilities (accrued payroll, accounts payable), and accumulated [retained earnings](/retained-earnings/) or equity funding from past growth. The company is not typically leveraged heavily, since its cash flow can self-fund growth and debt may not improve returns significantly.
+The company's [balance sheet](/balance-sheet/) is relatively straightforward: modest assets, operational liabilities (accrued payroll, [accounts payable](/accounts-payable/)), and accumulated [retained earnings](/retained-earnings/) or equity funding from past growth. The company is not typically leveraged heavily, since its cash flow can self-fund growth and debt may not improve returns significantly.
 
 ## Growth Through Acquisition
 
-INNODATA has pursued acquisitions to expand its capabilities and client base. Buying other data services or content processing companies allows INNODATA to gain new expertise, customer relationships, and operating capacity. Acquisitions in this space often involve integrating new teams and processes, which carry execution risk. The company's filings discuss material acquisitions, integration costs, and goodwill or intangible assets on the [balance sheet](/balance-sheet/).
+INNODATA has pursued [acquisitions](/acquisition/) to expand its capabilities and client base. Buying other data services or content processing companies allows INNODATA to gain new expertise, customer relationships, and operating capacity. Acquisitions in this space often involve integrating new teams and processes, which carry execution risk. The company's filings discuss material acquisitions, integration costs, and [goodwill](/goodwill/) or [intangible assets](/intangible-assets/) on the [balance sheet](/balance-sheet/).
 
 ## Understanding INNODATA Through Its Disclosures
 

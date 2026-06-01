@@ -4,7 +4,7 @@ description: "Michigan-based community bank holding company serving the Great La
 keywords: ["community bank", "Michigan", "commercial banking", "regional bank", "deposit gathering"]
 ---
 
-*INDEPENDENT BANK CORP /MI/ (IBCP) is a community bank holding company headquartered in Ionia, Michigan, that operates through its subsidiary Independent Bank and serves customers across Michigan's Lower Peninsula with commercial lending, consumer banking, and deposit products. The company competes in the fragmented upper-Midwest banking market where local market knowledge and relationship-driven lending remain competitive advantages.*
+*[INDEPENDENT BANK](/indb-stock/) CORP /MI/ (IBCP) is a community bank holding company headquartered in Ionia, Michigan, that operates through its subsidiary Independent Bank and serves customers across Michigan's Lower Peninsula with commercial lending, consumer banking, and deposit products. The company competes in the fragmented upper-Midwest banking market where local market knowledge and relationship-driven lending remain competitive advantages.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IBCP</td></tr>
@@ -29,7 +29,7 @@ IBCP's geographic concentration in central and western Michigan is both an asset
 
 ## Capital and funding structure
 
-Like all [bank holding companies](/public-company/), IBCP must maintain [regulatory capital](/balance-sheet/) ratios that exceed Federal Reserve minimums. These capital requirements ensure the bank can absorb loan losses and stay solvent during stress. The company funds itself through deposits (which are insured up to $250,000 per depositor by the Federal Deposit Insurance Corporation), borrowings from the Federal Home Loan Bank, and [equity](/common-stock/). Dividend payments to shareholders depend on profitability and capital levels; regulatory rules limit dividends if capital ratios drift below thresholds.
+Like all [bank holding companies](/public-company/), IBCP must maintain [regulatory capital](/balance-sheet/) ratios that exceed [Federal Reserve](/federal-reserve/) minimums. These capital requirements ensure the bank can absorb loan losses and stay solvent during stress. The company funds itself through deposits (which are insured up to $250,000 per depositor by the [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/)), borrowings from the Federal Home Loan Bank, and [equity](/common-stock/). Dividend payments to shareholders depend on profitability and capital levels; regulatory rules limit [dividends](/dividend/) if capital ratios drift below thresholds.
 
 The bank's [10-K filing](/10-k/) with the [Securities and Exchange Commission](/securities-and-exchange-commission/) discloses detailed breakdowns of the loan portfolio by customer type and geographic region, allowances for loan losses, and capital ratios. These documents are essential for assessing whether the bank's [asset quality](/balance-sheet/) is stable or deteriorating.
 
@@ -45,7 +45,7 @@ Quarterly and annual earnings depend on three factors: net interest income (inte
 
 ## Regulatory environment and deposit insurance
 
-Community banks operate under strict Federal Reserve supervision, OCC or state banking regulation depending on charter type, and FDIC insurance. Regulatory exams assess capital adequacy, asset quality, management, earnings, liquidity, and sensitivity to interest rates. Regulatory changes—such as revised capital rules, stress-testing frameworks, or deposit insurance reform—can raise compliance costs and alter competitive dynamics.
+Community banks operate under strict [Federal Reserve supervision](/federal-reserve-supervision/), OCC or state banking regulation depending on charter type, and FDIC insurance. Regulatory exams assess [capital adequacy](/capital-adequacy/), asset quality, management, earnings, liquidity, and sensitivity to [interest rates](/interest-rate/). Regulatory changes—such as revised capital rules, stress-testing frameworks, or deposit insurance reform—can raise compliance costs and alter competitive dynamics.
 
 <div class="wiki-seealso">
 ### Closely related

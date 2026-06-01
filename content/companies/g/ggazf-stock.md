@@ -51,7 +51,7 @@ A feasibility study that assumes permitting approval in 24 months is optimistic 
 
 ## The Partnership and Streaming Model
 
-Many development companies attract capital from larger miners or streaming companies. A streamer (like Wheaton Precious Metals or Sprott Physical Metals) purchases the right to buy a percentage of future production at a fixed price, providing development capital upfront. This reduces Goldgroup's cost of capital but locks in future price terms, sacrificing upside.
+Many development companies attract capital from larger miners or streaming companies. A streamer (like [Wheaton Precious Metals](/wpm-stock/) or Sprott Physical Metals) purchases the right to buy a percentage of future production at a fixed price, providing development capital upfront. This reduces Goldgroup's cost of capital but locks in future price terms, sacrificing upside.
 
 Alternatively, a major miner partners with Goldgroup, funding development in exchange for operating control or a majority stake. This accelerates the path to production (majors have execution capability) but dilutes Goldgroup shareholders significantly.
 

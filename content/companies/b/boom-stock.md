@@ -37,7 +37,7 @@ The company's profitability therefore depends on asset utilization. A facility r
 
 ## Cyclical Exposure and the Energy Market Link
 
-Because a large fraction of BOOM's revenue comes from oil and gas operators, the company's fortunes are closely tied to energy-sector capital spending. When crude oil prices are high and operators are drilling aggressively, demand for completion tools spikes and DMC's utilization rises. When oil prices collapse and drilling budgets shrivel, demand dries up and DMC is left with excess capacity.
+Because a large fraction of BOOM's revenue comes from oil and gas operators, the company's fortunes are closely tied to energy-sector capital spending. When [crude oil](/crude-oil/) prices are high and operators are drilling aggressively, demand for completion tools spikes and DMC's utilization rises. When oil prices collapse and drilling budgets shrivel, demand dries up and DMC is left with excess capacity.
 
 This cyclicality is hard for the company to mitigate. It can diversify into aerospace and defense (which it has done), but those segments also cycle with defense budgets and commercial aircraft production. The company is structurally exposed to macro conditions it cannot control.
 

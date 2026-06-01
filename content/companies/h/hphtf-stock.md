@@ -25,7 +25,7 @@ Photonic semiconductors—image sensors, light-emitting and light-detecting devi
 
 ## Supply-Chain Concentration and Geopolitical Risk
 
-Hamamatsu manufactures in Japan and relies on Japanese and global suppliers for materials and components. Disruption to Japan's supply chains—earthquakes, typhoons, geopolitical tension, or trade restrictions—directly threatens production. The company also depends on access to export markets; U.S.-Japan trade relations, China policy, and semiconductor export controls (which have tightened in recent years) affect its ability to sell globally. A U.S. ban on semiconductor sales to certain countries, or a Japan-Taiwan tension that disrupts supply of rare materials, could force production halts or customer losses.
+Hamamatsu manufactures in Japan and relies on Japanese and global suppliers for materials and components. Disruption to Japan's supply chains—earthquakes, typhoons, geopolitical tension, or trade restrictions—directly threatens production. The company also depends on access to export markets; U.S.-Japan trade relations, China policy, and semiconductor export controls (which have tightened in recent years) affect its ability to sell globally. A U.S. ban [on semiconductor](/on-stock/) sales to certain countries, or a Japan-Taiwan tension that disrupts supply of rare materials, could force production halts or customer losses.
 
 ## Competitive Pressure from Vertically Integrated Players
 

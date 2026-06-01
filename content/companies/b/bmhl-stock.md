@@ -17,11 +17,11 @@ keywords: ["holding company", "diversified investments", "real estate", "technol
 
 ## The Holding Company Model
 
-A holding company owns other companies. It does not necessarily operate factories, sell products, or serve customers directly. Instead, it acquires stakes—sometimes full ownership, sometimes partial—in operating firms. It collects [dividends](/dividend/) and capital gains from those stakes, and uses those returns to pay its own shareholders or fund new acquisitions.
+A holding company owns other companies. It does not necessarily operate factories, sell products, or serve customers directly. Instead, it acquires stakes—sometimes full ownership, sometimes partial—in operating firms. It collects [dividends](/dividend/) and capital gains from those stakes, and uses those returns to pay its own shareholders or fund new [acquisitions](/acquisition/).
 
 Holding companies are investment vehicles. Bluemount's job is to pick good acquisitions, let management teams run those businesses, extract cash when possible, and hopefully sell at a gain later or hold for steady income.
 
-This structure offers flexibility. It allows one entity to own pieces of unrelated businesses—a tech startup here, a real estate portfolio there, an industrial manufacturer elsewhere—without forcing them into an integrated operation that might not work. It also allows portfolio diversification: if one holding struggles, others may thrive.
+This structure offers flexibility. It allows one entity to own pieces of unrelated businesses—a tech startup here, a real estate portfolio there, an industrial manufacturer elsewhere—without forcing them into an integrated operation that might not work. It also allows portfolio [diversification](/diversification/): if one holding struggles, others may thrive.
 
 The downside is complexity. Investors must understand multiple businesses, not just one. Valuations are murky: how much is each stake worth? How much are overlapping costs? Are the subsidiaries well-managed or not?
 
@@ -49,13 +49,13 @@ Capital allocation is the core skill. A holding company led by thoughtful manage
 
 ## Leverage and Balance Sheet Structure
 
-Many holding companies carry debt. They borrow to fund acquisitions, betting that the acquired company will earn enough to service the debt and leave profit for equity holders. This [leverage](/enterprise-value/) magnifies returns if deals work, but threatens solvency if deals fail or interest rates rise.
+Many holding companies carry debt. They borrow to fund acquisitions, betting that the acquired company will earn enough to service the debt and leave profit for equity holders. This [leverage](/enterprise-value/) magnifies returns if deals work, but threatens solvency if deals fail or [interest rates](/interest-rate/) rise.
 
 Bluemount's [balance sheet](/balance-sheet/) should disclose total debt, the rate of interest, and maturity dates. High debt in a volatile portfolio is risky. Stable, recurring income (like real estate) can support debt. Speculative assets cannot.
 
 ## Geographic and Currency Risk
 
-Bluemount operates across borders. That brings currency risk. If the company earns profit in a weak currency and needs to pay dividends in dollars, exchange rates matter. A weakening local currency erodes returns. Conversely, a strengthening local currency boosts returns.
+Bluemount operates across borders. That brings [currency risk](/currency-risk/). If the company earns profit in a weak currency and needs to pay dividends in dollars, exchange rates matter. A weakening local currency erodes returns. Conversely, a strengthening local currency boosts returns.
 
 Political risk is also real. A shift in policy toward foreign investment, changes in property rights, or nationalization of assets can wipe out value overnight. Holding companies that diversify geographically hedge this risk—if one country becomes hostile, others may thrive.
 
@@ -67,7 +67,7 @@ Bluemount's domicile and the tax status of its subsidiaries matter to long-term 
 
 ## Valuation and Discount-to-NAV
 
-Holding companies are notoriously hard to value. Their worth is the sum of their subsidiaries' values plus or minus the value of management and leverage. In practice, holding companies often trade at a discount to their net asset value. Investors think the whole is worth less than the sum of its parts—due to poor management, hidden liabilities, or illiquidity of stakes.
+Holding companies are notoriously hard to value. Their worth is the sum of their subsidiaries' values plus or minus the value of management and leverage. In practice, holding companies often trade at a discount to their [net asset value](/net-asset-value/). Investors think the whole is worth less than the sum of its parts—due to poor management, hidden liabilities, or illiquidity of stakes.
 
 This discount is both risk and opportunity. An investor who believes a holding company is poorly managed and trades at a steep discount bets that new management or a breakup will unlock value. But the discount might persist if the business model is genuinely flawed.
 
@@ -78,7 +78,7 @@ Bluemount files [10-K](/10-k/) reports, but those reports may not break out ever
 - Read management's discussion of strategy and acquisitions.
 - Find what percentage Bluemount owns of each major stake.
 - Hunt for any consolidated financial statements of subsidiaries.
-- Watch for acquisitions and divestitures.
+- Watch for acquisitions and [divestitures](/divestiture/).
 - Monitor cash flow to dividends and new investments.
 
 The company's real value depends on the quality of its portfolio and the skill of its capital allocators.

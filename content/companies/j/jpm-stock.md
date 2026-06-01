@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-[JPMorgan Chase](/jpmorgan-chase/) is the largest bank in the United States by total assets, a position it has held or shared with its peers for decades. It is also one of the most complicated financial institutions on Earth, operating across consumer banking, commercial lending, investment banking, trading, and asset management — a sprawl of businesses that generates earnings from nearly every corner of the financial system. Its shares trade on the NYSE under the ticker JPM, and the bank holds a level of systemic importance such that its failure would likely trigger a cascading financial crisis, a burden that comes with permanent federal scrutiny, regulatory capital requirements far higher than smaller competitors, and shareholder returns perpetually constrained by what the government believes the bank should keep in reserve.
+[JPMorgan Chase](/jpmorgan-chase/) is the largest bank in the United States by total assets, a position it has held or shared with its peers for decades. It is also one of the most complicated [financial institutions](/fisi-stock/) on Earth, operating across consumer banking, commercial lending, investment banking, trading, and asset management — a sprawl of businesses that generates earnings from nearly every corner of the financial system. Its shares trade on the NYSE under the ticker JPM, and the bank holds a level of systemic importance such that its failure would likely trigger a cascading financial crisis, a burden that comes with permanent federal scrutiny, regulatory capital requirements far higher than smaller competitors, and shareholder returns perpetually constrained by what the government believes the bank should keep in reserve.
 
 <aside class="wiki-infobox">
 <table>

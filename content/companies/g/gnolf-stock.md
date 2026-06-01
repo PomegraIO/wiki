@@ -37,7 +37,7 @@ Industrial use of GMMs in the field is regulated. GENOIL has invested in underst
 
 ## Application-Specific Optimization
 
-GENOIL's strains are engineered or selected for specific hydrocarbon degradation profiles or extraction conditions. A strain optimized for crude oil cleanup in temperate soils may not perform equally in alkaline desert soils or arctic conditions. Competitors would need to develop application-specific variants—a process that multiplies R&D costs and timelines. GENOIL's portfolio of organism variants, each optimized for a particular use case, represents a catalog of moats rather than a single moat. Competing in one application means accepting a years-long lag in others. The company's cumulative investment across multiple application domains compounds its defensibility.
+GENOIL's strains are engineered or selected for specific hydrocarbon degradation profiles or extraction conditions. A strain optimized for [crude oil](/crude-oil/) cleanup in temperate soils may not perform equally in alkaline desert soils or arctic conditions. Competitors would need to develop application-specific variants—a process that multiplies R&D costs and timelines. GENOIL's portfolio of organism variants, each optimized for a particular use case, represents a catalog of moats rather than a single moat. Competing in one application means accepting a years-long lag in others. The company's cumulative investment across multiple application domains compounds its defensibility.
 
 ## Limited Regulatory Appetite for GMM Deployment
 

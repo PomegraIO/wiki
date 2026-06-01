@@ -37,7 +37,7 @@ The company may also acquire backlist titles—existing books with established r
 
 EDUC operates a distribution network that stocks books in retail locations, fulfills school orders, and manages inventory. Efficient distribution is critical to customer satisfaction. A school that orders a popular title needs it quickly; a parent who discovers a book through online retail expects convenient ordering and reliable shipping.
 
-Distribution involves logistics, warehousing, and relationships with retailers and distributors. Large retailers like Amazon have significant bargaining power, demanding price discounts or favorable payment terms. EDUC must negotiate these terms while maintaining margins to fund publishing operations. A reliance on a single dominant retailer creates risk; diversification across independent bookstores, school distributors, and online channels reduces that exposure.
+Distribution involves logistics, warehousing, and relationships with retailers and distributors. Large retailers like Amazon have significant bargaining power, demanding price discounts or favorable payment terms. EDUC must negotiate these terms while maintaining margins to fund publishing operations. A reliance on a single dominant retailer creates risk; [diversification](/diversification/) across independent bookstores, school distributors, and online channels reduces that exposure.
 
 ## Pricing and Margin Dynamics
 

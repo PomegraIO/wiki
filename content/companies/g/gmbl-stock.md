@@ -31,7 +31,7 @@ This is where customer concentration becomes a strategic issue. Esports betting 
 
 A customer base that is young and digitally native exists within jurisdictions that remain uncertain about esports betting itself. Unlike traditional sports betting, which is now legalized in dozens of states, esports betting operates in a regulatory gray zone in many places. Some jurisdictions classify it as permissible under existing gaming licenses; others have not clarified the status. This means a customer in Nevada may wager openly, while a customer in Texas cannot—or can only do so through an offshore platform.
 
-The company's customer acquisition cost is therefore geography-dependent and politically contingent. A favorable regulatory shift in a major state could unlock a new customer base overnight, while an adverse ruling could eliminate it entirely. The company must market and operate differently in each state where it has a presence or ambitions to expand, and it cannot rely on the unified national customer pool that traditional sportsbooks enjoy.
+The company's customer [acquisition](/acquisition/) cost is therefore geography-dependent and politically contingent. A favorable regulatory shift in a major state could unlock a new customer base overnight, while an adverse ruling could eliminate it entirely. The company must market and operate differently in each state where it has a presence or ambitions to expand, and it cannot rely on the unified national customer pool that traditional sportsbooks enjoy.
 
 ## Competition and the Moat Problem
 

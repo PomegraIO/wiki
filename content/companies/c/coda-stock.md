@@ -39,7 +39,7 @@ Cybersecurity standards imposed by the Department of Defense also raise the cost
 
 The underwater-imaging and sonar market is fragmented. There is no single dominant player; Coda competes with established firms like Kongsberg (Norwegian), iXblue (French), and smaller U.S. competitors like L3Harris in specific segments. This fragmentation means Coda does not have overwhelming scale but also that no competitor has overwhelming scale either. The market is small enough and specialized enough that a pure technology play can carve out a defensible position, as Coda has done.
 
-However, scale matters. Larger defense contractors (Raytheon, Lockheed Martin) could theoretically enter Coda's niches if they chose to. They choose not to because sonar and imaging systems are not core to their business and the market is too small to justify the management attention. This is a form of protection by irrelevance: the moat exists because larger competitors have bigger fish to fry.
+However, scale matters. Larger defense contractors (Raytheon, [Lockheed Martin](/lmt-stock/)) could theoretically enter Coda's niches if they chose to. They choose not to because sonar and imaging systems are not core to their business and the market is too small to justify the management attention. This is a form of protection by irrelevance: the moat exists because larger competitors have bigger fish to fry.
 
 ## Product-Line Continuation Risk
 

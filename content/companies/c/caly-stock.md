@@ -4,7 +4,7 @@ description: "Golf equipment manufacturer and distributor producing clubs, balls
 keywords: [golf, equipment, sporting goods, clubs, balls, apparel, consumer discretionary]
 ---
 
-*[Callaway Golf Co](/caly-stock/) (CALY) is a designer, manufacturer, and distributor of golf equipment—clubs, balls, bags, footwear, and apparel—sold to amateur golfers and professional players through retail channels, golf courses, and direct-to-consumer platforms. The company operates a portfolio of brand acquisitions that together span multiple price points and player segments.*
+*[Callaway Golf Co](/caly-stock/) (CALY) is a designer, manufacturer, and distributor of golf equipment—clubs, balls, bags, footwear, and apparel—sold to amateur golfers and professional players through retail channels, golf courses, and direct-to-consumer platforms. The company operates a portfolio of brand [acquisitions](/acquisition/) that together span multiple price points and player segments.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CALY</td></tr>
@@ -29,7 +29,7 @@ Product cycles are driven by equipment innovation cycles. Manufacturers introduc
 
 ## Distribution and sales channels
 
-Callaway products reach consumers through multiple pathways: traditional golf-specialty retailers (Golf Galaxy, Dick's Sporting Goods, local pro shops), mass-market sporting goods chains, big-box retailers, the company's own retail locations and e-commerce platform, and direct sales via the Topgolf Callaway entertainment venues. Each channel carries different margin profiles and customer demographics. Retail partnerships provide broad shelf presence; direct-to-consumer channels capture margins but require marketing spend and operational scale.
+Callaway products reach consumers through multiple pathways: traditional golf-specialty retailers (Golf Galaxy, [Dick's Sporting Goods](/dks-stock/), local pro shops), mass-market sporting goods chains, big-box retailers, the company's own retail locations and e-commerce platform, and direct sales via the Topgolf Callaway entertainment venues. Each channel carries different margin profiles and customer demographics. Retail partnerships provide broad shelf presence; direct-to-consumer channels capture margins but require marketing spend and operational scale.
 
 The company also sells to golf courses (equipment packages, branded merchandise for pro shops) and to professional golfers (tour sponsorships, equipment deals) as a form of brand marketing. Tour presence drives credibility; a major-championship win by a pro using Callaway equipment is a global advertisement.
 
@@ -37,7 +37,7 @@ The company also sells to golf courses (equipment packages, branded merchandise 
 
 Golf is a discretionary luxury activity; demand is sensitive to consumer confidence, disposable income, and free time. During economic downturns, amateur golfers may play less or delay equipment purchases. The COVID-era surge in golf participation (2020–2021) was anomalous—people sought outdoor, socially distanced leisure—and demand has normalized somewhat since. Long-term demand growth depends on the health of the leisure/affluence economy and, structurally, on golf's ability to attract younger players and to diversify formats (short-course golf, indoor golf simulation).
 
-Inflation in raw materials (steel, aluminum, plastics), manufacturing costs, and logistics affects product pricing and margins. Callaway must balance price-increase pass-through (risking demand elasticity) against cost containment (manufacturing optimization, supply-chain efficiency).
+[Inflation](/inflation/) in raw materials (steel, aluminum, plastics), manufacturing costs, and logistics affects product pricing and margins. Callaway must balance price-increase pass-through (risking demand elasticity) against cost containment (manufacturing optimization, supply-chain efficiency).
 
 ## Competitive landscape and differentiation
 

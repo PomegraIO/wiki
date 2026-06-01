@@ -80,7 +80,7 @@ The company must therefore make bets on long-term metal prices when deciding whe
 
 Colombia, Chile, and Peru are stable democracies compared to some developing regions, but mining operations are politically sensitive. Environmental movements have blocked or delayed major projects. Changes in government administration can alter permitting criteria or royalty rates. Indigenous land claims and water-rights disputes can halt work.
 
-Collective Mining's operational risk is not geological or technical; it is political and social. The company could drill perfect ore and still never develop it if local opposition or government policy shifts.
+Collective Mining's [operational risk](/operational-risk/) is not geological or technical; it is political and social. The company could drill perfect ore and still never develop it if local opposition or government policy shifts.
 
 ## How to research Collective Mining as an investment
 

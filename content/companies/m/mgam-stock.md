@@ -4,7 +4,7 @@ description: "Mobile gaming and esports platform operator, filing under CIK 1886
 keywords: ["mobile gaming", "esports", "gaming platform", "multiplayer games", "digital entertainment"]
 ---
 
-*Mobile Global Esports, Inc. (ticker **MGAM**) develops and operates mobile gaming and esports platforms designed to engage competitive and casual players through tournament play, live streaming, and in-game social features. The company operates in the fast-moving intersection of mobile gaming, competitive esports, and social entertainment—a space where user acquisition cost, retention, and monetization efficiency separate winners from closures.*
+*Mobile Global Esports, Inc. (ticker **MGAM**) develops and operates mobile gaming and esports platforms designed to engage competitive and casual players through tournament play, live streaming, and in-game social features. The company operates in the fast-moving intersection of mobile gaming, competitive esports, and social entertainment—a space where user [acquisition](/acquisition/) cost, retention, and monetization efficiency separate winners from closures.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MGAM</td></tr>
@@ -24,7 +24,7 @@ Mobile Global Esports' model likely hinges on creating network effects: more pla
 
 ## Revenue Streams and Monetization Efficiency
 
-A platform like Mobile Global Esports can derive revenue from multiple channels: (1) direct player spending (in-game cosmetics, entry fees); (2) advertising (video ads within the app or streamed tournaments); (3) sponsorships from hardware makers, energy drinks, or betting platforms; and (4) licensing partnerships with established game publishers. The mix determines gross margin and growth trajectory. A platform that relies mainly on cosmetics sales to whales (high-spending players) faces concentration risk: a handful of users subsidize many free players, and churn among whales tanks revenue. Diversification across sponsorship, media rights, and broader player monetization improves stability.
+A platform like Mobile Global Esports can derive revenue from multiple channels: (1) direct player spending (in-game cosmetics, entry fees); (2) advertising (video ads within the app or streamed tournaments); (3) sponsorships from hardware makers, energy drinks, or betting platforms; and (4) licensing partnerships with established game publishers. The mix determines gross margin and growth trajectory. A platform that relies mainly on cosmetics sales to whales (high-spending players) faces [concentration risk](/concentration-risk/): a handful of users subsidize many free players, and churn among whales tanks revenue. [Diversification](/diversification/) across sponsorship, media rights, and broader player monetization improves stability.
 
 ## User Acquisition and Retention Dynamics
 
@@ -32,7 +32,7 @@ Mobile gaming platforms live or die on retention. A typical mobile game loses 70
 
 ## Competitive Positioning in a Crowded Market
 
-The mobile gaming and esports space is saturated. Established publishers (Tencent, Activision Blizzard, Electronic Arts) leverage massive game IP, established player bases, and marketing budgets to dominate. Smaller pure-play esports platforms like Mobile Global Esports must compete by finding an underserved niche (a specific game genre, region, or player demographic) and building a devoted community faster than incumbents can replicate the feature set. Success requires either exceptional game design, an exclusive franchise, or a unique social/competitive hook. Absent one of these, the platform is easily displaced.
+The mobile gaming and esports space is saturated. Established publishers (Tencent, Activision Blizzard, [Electronic Arts](/ea-stock/)) leverage massive game IP, established player bases, and marketing budgets to dominate. Smaller pure-play esports platforms like Mobile Global Esports must compete by finding an underserved niche (a specific game genre, region, or player demographic) and building a devoted community faster than incumbents can replicate the feature set. Success requires either exceptional game design, an exclusive franchise, or a unique social/competitive hook. Absent one of these, the platform is easily displaced.
 
 ## Regulatory and Reputational Hazards
 

@@ -4,7 +4,7 @@ description: "A financial services firm focused on commercial lending and specia
 keywords: ["commercial lending", "specialty finance", "small-business lending", "relationship banking", "underwriting"]
 ---
 
-*The landscape for small-to-mid-market commercial lending has consolidated around large national banks (JPMorgan, Bank of America, Wells Fargo) and nonbank lenders, yet pockets of defensible advantage persist for firms that build deep expertise in specific niches. **Frequency Holdings, Inc (FRQN)** operates in these under-served segments, where size and specialization, rather than scale, are the basis of competitive strength.*
+*The landscape for small-to-mid-market commercial lending has consolidated around large national banks (JPMorgan, [Bank of America](/bank-of-america/), [Wells Fargo](/wells-fargo/)) and nonbank lenders, yet pockets of defensible advantage persist for firms that build deep expertise in specific niches. **Frequency Holdings, Inc (FRQN)** operates in these under-served segments, where size and specialization, rather than scale, are the basis of competitive strength.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FRQN</td></tr>
@@ -17,7 +17,7 @@ keywords: ["commercial lending", "specialty finance", "small-business lending", 
 
 ## Underwriting Expertise as a Defensive Moat
 
-In commercial lending, the ability to assess credit risk accurately—to separate good loans from bad ones in segments where data is sparse—is a genuine source of competitive advantage. Large banks rely heavily on standardized lending criteria and automated decision-making, which works well for commodity loans but is ill-suited to bespoke or relationship-driven segments. Frequency Holdings competes by developing proprietary underwriting models and leveraging specialized knowledge of borrower industries, geographies, or financial situations. A loan officer at Frequency may have spent years learning the cash-flow patterns of, say, health-care practices or equipment leasing companies, and that accumulated judgment is difficult for a generalist competitor to replicate. The barrier is not regulatory or capital-based; it is intellectual and human.
+In commercial lending, the ability to assess [credit risk](/credit-risk/) accurately—to separate good loans from bad ones in segments where data is sparse—is a genuine source of competitive advantage. Large banks rely heavily on standardized lending criteria and automated decision-making, which works well for commodity loans but is ill-suited to bespoke or relationship-driven segments. Frequency Holdings competes by developing proprietary underwriting models and leveraging specialized knowledge of borrower industries, geographies, or financial situations. A loan officer at Frequency may have spent years learning the cash-flow patterns of, say, health-care practices or equipment leasing companies, and that accumulated judgment is difficult for a generalist competitor to replicate. The barrier is not regulatory or capital-based; it is intellectual and human.
 
 ## Relationship Stickiness and Customer Lock-In
 

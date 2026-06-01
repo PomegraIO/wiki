@@ -18,7 +18,7 @@ keywords: ["specialty chemicals", "materials science", "process chemistry", "mar
 
 HyOrc occupies a lifecycle stage that is characteristic of mature specialty-chemicals and industrial-materials companies: it has a long operating history, established customer relationships, and proprietary processes or products that are defensible enough to generate positive margins, yet it operates in markets where growth is slow to absent and competitive pressure is relentless. The company survives not through innovation or market share gains, but through sustained operational competence and customer stickiness.
 
-Many companies at HyOrc's lifecycle stage are privately held or owned by larger conglomerates as divisions or bolt-on acquisitions. HyOrc's public listing—albeit on OTC markets rather than major exchanges—signals either a deliberate choice to remain independent or a legacy structure from earlier capital-raising that the company has not yet exited. Either way, the company's lifecycle is one of management without growth: maintain customer relationships, optimize processes, keep costs down, and convert stable cash flows into [dividends](/dividend/) or buybacks rather than reinvestment.
+Many companies at HyOrc's lifecycle stage are privately held or owned by larger conglomerates as divisions or bolt-on [acquisitions](/acquisition/). HyOrc's public listing—albeit on OTC markets rather than major exchanges—signals either a deliberate choice to remain independent or a legacy structure from earlier capital-raising that the company has not yet exited. Either way, the company's lifecycle is one of management without growth: maintain customer relationships, optimize processes, keep costs down, and convert stable cash flows into [dividends](/dividend/) or buybacks rather than reinvestment.
 
 ## Mature-Market Dynamics and Commoditization
 
@@ -40,9 +40,9 @@ This is economically rational: reinvesting heavily in a slowly-growing, commodit
 
 ## Legacy Structures and Hidden Value
 
-HyOrc's OTC listing and long operating history raise the possibility that the company carries legacy structures that obscure its true economics. These can include old shareholder agreements, family or founder control, or operations in geographies or regulatory environments that limit growth but create barriers to acquisition. Such companies often trade at steep discounts to their replacement value or liquidation value, not because they are poor businesses, but because their ownership structure, governance, or liquidity constraints make them inefficient vehicles for capital deployment.
+HyOrc's OTC listing and long operating history raise the possibility that the company carries legacy structures that obscure its true economics. These can include old shareholder agreements, family or founder control, or operations in geographies or regulatory environments that limit growth but create barriers to acquisition. Such companies often trade at steep discounts to their replacement value or [liquidation value](/liquidation-value/), not because they are poor businesses, but because their ownership structure, governance, or liquidity constraints make them inefficient vehicles for capital deployment.
 
-Understanding a company at HyOrc's lifecycle stage requires reading its filings with attention to related-party transactions, governance arrangements, and acquisition activity. The company's fate may not be determined by the strength of its core business, but by whether its management or board initiates a sale, merger, or strategic restructuring that unlocks hidden value or simplifies the shareholder base.
+Understanding a company at HyOrc's lifecycle stage requires reading its filings with attention to related-party transactions, governance arrangements, and acquisition activity. The company's fate may not be determined by the strength of its core business, but by whether its management or board initiates a sale, [merger](/merger/), or strategic restructuring that unlocks hidden value or simplifies the shareholder base.
 
 ## The Eventual Consolidation
 

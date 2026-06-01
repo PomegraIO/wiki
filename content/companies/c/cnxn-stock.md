@@ -19,7 +19,7 @@ keywords: ["IT distribution", "technology hardware", "software services", "B2B",
 
 ## The Core Cyclicality: Corporate IT Spending and Capital Cycles
 
-PC Connection's revenues depend primarily on business investment in technology: server purchases, workstation refreshes, software licenses, network infrastructure, and IT services. Corporate IT spending expands when companies are profitable and expect growth (capital expenditure budgets increase); it contracts when earnings pressure mounts or recessions loom (capex budgets are cut immediately).
+PC Connection's revenues depend primarily on business investment in technology: server purchases, workstation refreshes, software licenses, network infrastructure, and IT services. Corporate IT spending expands when companies are profitable and expect growth (capital expenditure budgets increase); it contracts when earnings pressure mounts or [recessions](/recession/) loom (capex budgets are cut immediately).
 
 This business-investment cycle is highly correlated with the broader economic cycle, but with a lag and greater magnitude. In strong economic periods, enterprises defer aging hardware refreshes and accelerate new deployments, driving IT distribution revenue. In recessions, IT budgets are often the first to contract—companies can defer software license renewals, delay server upgrades, and reduce consulting services while maintaining operations.
 
@@ -29,7 +29,7 @@ During downturns, corporate procurement cycles lengthen (approval delays) or sta
 
 ## The Distributor Margin Squeeze
 
-PC Connection operates as an intermediary between technology vendors (Dell, Microsoft, Cisco, HP, etc.) and enterprise customers. The company's value-add is aggregation, logistics, configuration, and customer service. Margins are thin—typical IT distribution margins are 5-10% gross and lower net.
+PC Connection operates as an intermediary between technology vendors (Dell, [Microsoft](/msft-stock/), Cisco, HP, etc.) and enterprise customers. The company's value-add is aggregation, logistics, configuration, and customer service. Margins are thin—typical IT distribution margins are 5-10% gross and lower net.
 
 In recessions, this margin model is vulnerable. Customers have greater bargaining power when they place fewer, larger orders; vendors have greater bargaining power when fewer distributors are placing orders. PC Connection can find itself squeezed from both sides: vendors demanding better terms, customers demanding lower prices.
 
@@ -47,7 +47,7 @@ This government business provides partial cyclical insulation, but it is not dom
 
 ## Hardware-vs-Services Mix
 
-PC Connection has evolved beyond hardware distribution into IT services and consulting (solutions like cloud migration, infrastructure management, cybersecurity). Services are typically higher-margin and slightly more counter-cyclical than hardware: companies may delay hardware purchases but maintain managed services to reduce operational risk.
+PC Connection has evolved beyond hardware distribution into IT services and consulting (solutions like cloud migration, infrastructure management, cybersecurity). Services are typically higher-margin and slightly more counter-cyclical than hardware: companies may delay hardware purchases but maintain managed services to reduce [operational risk](/operational-risk/).
 
 However, services remain cyclically sensitive—consulting budgets are often deferred in downturns, and managed services volumes can contract if customer enterprises cut IT staffing.
 

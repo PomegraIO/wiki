@@ -67,7 +67,7 @@ Genesco faces several specific, material risks:
 
 **Wholesale partner consolidation.** Genesco's wholesale division relies on department stores and independent retailers that are themselves consolidating or shifting to private-label products. A further wave of wholesale partner closures or a shift away from branded footwear in favor of cheaper imports could pressure this channel.
 
-**Economic sensitivity.** Footwear purchases, while necessary, have a discretionary component—consumers can delay new shoes, buy fewer pairs, or shift to cheaper options in a downturn. Genesco's [target](/tgt-stock/) customer, the trend-conscious middle-tier consumer, may be more cyclical than the ultra-premium (who have fewer price-sensitive buyers) or the discount tier (where customers are already price-minimizing).
+**Economic sensitivity.** Footwear purchases, while necessary, have a discretionary component—consumers can delay new shoes, buy fewer pairs, or shift to cheaper options in a downturn. Genesco's target customer, the trend-conscious middle-tier consumer, may be more cyclical than the ultra-premium (who have fewer price-sensitive buyers) or the discount tier (where customers are already price-minimizing).
 
 ## How to research Genesco
 

@@ -23,7 +23,7 @@ REITs like Apple Hospitality offer income investors several advantages. They pay
 
 ## How does it compete?
 
-Apple Hospitality competes against other [hotel REITs](/hotel-reit/) (like [Park Hotels & Resorts](/pk-stock/) or Chatham Lodging Trust), traditional hotel chains that own properties, and private hotel operators. Success depends on acquiring quality properties at favorable prices, maintaining strong relationships with brand operators, and keeping properties in high-demand locations. Brand affiliation matters enormously—a Marriott property typically maintains higher occupancy and rates than an independent hotel, but the brand charges franchise fees that reduce the owner's net margin. The company's scale is smaller than mega-REITs like Welk Resorts Trust, but it maintains significant independent presence in key markets.
+Apple Hospitality competes against other [hotel REITs](/hotel-reit/) (like [Park Hotels & Resorts](/pk-stock/) or [Chatham Lodging](/cldt-stock/) Trust), traditional hotel chains that own properties, and private hotel operators. Success depends on acquiring quality properties at favorable prices, maintaining strong relationships with brand operators, and keeping properties in high-demand locations. Brand affiliation matters enormously—a Marriott property typically maintains higher occupancy and rates than an independent hotel, but the brand charges franchise fees that reduce the owner's net margin. The company's scale is smaller than mega-REITs like Welk Resorts Trust, but it maintains significant independent presence in key markets.
 
 ## What's the risk profile?
 

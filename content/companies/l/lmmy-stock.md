@@ -39,7 +39,7 @@ An analyst should examine whether Exousia has partnered with a contract manufact
 
 ## Intellectual Property and Competitive Moat
 
-The cellular-therapy space includes heavyweights (Novartis, Juno Therapeutics, Kite Pharma) and dozens of well-funded startups. Exousia's defensibility rests on patent strength and whether its engineering approach is genuinely novel. Examine the company's patent portfolio in the 10-K filing disclosures: how many issued patents? How many years of exclusivity remain? Are there any pending litigation or freedom-to-operate challenges?
+The cellular-therapy space includes heavyweights ([Novartis](/nvs-stock/), Juno Therapeutics, Kite Pharma) and dozens of well-funded startups. Exousia's defensibility rests on patent strength and whether its engineering approach is genuinely novel. Examine the company's patent portfolio in the 10-K filing disclosures: how many issued patents? How many years of exclusivity remain? Are there any pending litigation or freedom-to-operate challenges?
 
 A narrow patent position (few issued patents, expiring soon) is a red flag; broad, well-maintained patents are a moat.
 

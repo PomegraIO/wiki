@@ -35,7 +35,7 @@ Cohen & Co.'s geographic advantage is therefore partly a switching-cost artifact
 
 Mid-market specialty-chemicals manufacturers typically serve a customer base dominated by a handful of large accounts (automotive suppliers, packaging converters, industrial-equipment manufacturers). This customer concentration is a classic risk: losing one large customer can compress revenue sharply. Conversely, winning a large customer (a new contract with a major automotive supplier, for instance) can drive step-function growth.
 
-The geographic concentration of key customers in the Northeast Megalopolis means that economic cycles affecting the region ripple directly into Cohen & Co.'s top line. A slowdown in automotive manufacturing, construction spending, or packaging demand—all tied to Northeast economic conditions—affects the company's revenue across multiple customer segments simultaneously.
+The geographic concentration of key customers in the Northeast Megalopolis means that economic cycles affecting the region ripple directly into Cohen & Co.'s top line. A slowdown in automotive manufacturing, [construction spending](/construction-spending/), or packaging demand—all tied to Northeast economic conditions—affects the company's revenue across multiple customer segments simultaneously.
 
 Customers themselves are often multinational, operating plants across the US and internationally. This can work in Cohen & Co.'s favor (a packaging converter with a facility in Connecticut becomes a long-term local customer) or against it (if the customer closes or consolidates its Northeast facility, or shifts to a lower-cost supplier closer to other production hubs). Geographic customer concentration is thus both a strength (local relationships, supply reliability value) and a risk (regional economic dependence).
 
@@ -61,13 +61,13 @@ Specialty adhesives and coatings depend on chemical feedstocks (resins, solvents
 
 Feedstock sourcing is partly a function of location. The Midwest has better proximity to petrochemical refining hubs (Gulf Coast refineries, Midwest derivatives); the Northeast depends on trucking and distribution networks. This geographic cost disadvantage is structural: Cohen & Co. cannot eliminate it without relocating manufacturing, which carries massive transition costs and customer disruption risk.
 
-Feedstock suppliers are themselves globally distributed, and prices are set by global supply-demand dynamics, not regional. A disruption in Middle East oil supplies, geopolitical sanctions, or petrochemical industry capacity constraints can rapidly inflate costs. Cohen & Co. has limited hedging options; it can lock in prices through forward contracts, but doing so locks in cost and reduces flexibility if demand weakens.
+Feedstock suppliers are themselves globally distributed, and prices are set by global supply-demand dynamics, not regional. A disruption in Middle East oil supplies, geopolitical sanctions, or petrochemical industry capacity constraints can rapidly inflate costs. Cohen & Co. has limited hedging options; it can lock in prices through [forward contracts](/forward-contract/), but doing so locks in cost and reduces flexibility if demand weakens.
 
 ## International Expansion and Currency Risk
 
-Cohen & Co. likely has some international sales, either through direct export or through partnerships with foreign distributors. International growth faces geographic barriers: tariffs, regulatory compliance costs (each country has different chemical regulations), distributor relationships that may be less intimate than domestic ones, and currency risk.
+Cohen & Co. likely has some international sales, either through direct export or through partnerships with foreign distributors. International growth faces geographic barriers: tariffs, regulatory compliance costs (each country has different chemical regulations), distributor relationships that may be less intimate than domestic ones, and [currency risk](/currency-risk/).
 
-If Cohen & Co. expands internationally by investing in foreign manufacturing (a European plant serving the EU, for instance), it adds complexity and capital intensity. Foreign operations face political risk, currency volatility, and the need to manage supply chains across multiple countries. For a mid-market manufacturer, international expansion is a strategic bet, not a default move.
+If Cohen & Co. expands internationally by investing in foreign manufacturing (a European plant serving the EU, for instance), it adds complexity and capital intensity. Foreign operations face political risk, [currency volatility](/currency-volatility/), and the need to manage supply chains across multiple countries. For a mid-market manufacturer, international expansion is a strategic bet, not a default move.
 
 The alternative is to focus on the North American market, where Cohen & Co. has established supply chains and customer relationships. That focus concedes international growth optionality but reduces execution risk and capital demands.
 

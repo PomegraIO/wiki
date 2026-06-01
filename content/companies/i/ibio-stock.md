@@ -51,7 +51,7 @@ FDA approval of a novel biologic drug involves a Biologics License Application (
 
 ## Market and competition
 
-If iBio's plant-based approach succeeds and gains regulatory acceptance, it could serve as a manufacturing platform for vaccines (a large, recurring market) and specialty therapeutics. The addressable market is large—millions of vaccine doses are needed globally each year. Competition includes traditional manufacturers (Merck, GSK, Pfizer), other contract manufacturers, and emerging platforms like mRNA vaccines (as used in COVID-19 vaccines). The company's advantage depends on cost, speed to market, and demonstrated efficacy.
+If iBio's plant-based approach succeeds and gains regulatory acceptance, it could serve as a manufacturing platform for vaccines (a large, recurring market) and specialty therapeutics. The addressable market is large—millions of vaccine doses are needed globally each year. Competition includes traditional manufacturers (Merck, GSK, [Pfizer](/pfe-stock/)), other contract manufacturers, and emerging platforms like mRNA vaccines (as used in COVID-19 vaccines). The company's advantage depends on cost, speed to market, and demonstrated efficacy.
 
 ## Valuation and investor risk
 

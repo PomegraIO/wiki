@@ -4,7 +4,7 @@ description: "A major Japanese materials and metals company offering American De
 keywords: [materials, metals, ADR, multinational manufacturing, Japanese conglomerate, commodities]
 ---
 
-*Among the large-cap materials companies, **Mitsubishi Materials Corp. (MIMTF)**, accessed via American Depositary Receipt under SEC CIK 1460447, occupies an unusual position: it is not primarily a miner or smelter competing on cost, but a vertically integrated materials processor and manufacturer defending a moat built on technical expertise, supply-chain control, and decades of customer relationships across aviation, electronics, and construction markets.*
+*Among the large-cap materials companies, **Mitsubishi Materials Corp. (MIMTF)**, accessed via [American Depositary Receipt](/adr/) under SEC CIK 1460447, occupies an unusual position: it is not primarily a miner or smelter competing on cost, but a vertically integrated materials processor and manufacturer defending a moat built on technical expertise, supply-chain control, and decades of customer relationships across aviation, electronics, and construction markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MIMTF</td></tr>
@@ -33,7 +33,7 @@ The moat is strongest in materials where specification tolerance is tight and co
 
 ## Supply-Chain Leverage Across Segments
 
-Mitsubishi Materials processes materials across multiple end-markets—aerospace, automotive, electronics, construction, energy. This diversification gives it scale advantages in purchasing raw materials and logistics, advantages that a single-market specialist cannot match. A supplier to aerospace can negotiate favorable terms with miners and refiners because it places large, consistent orders. This cost advantage filters down to aerospace customers, making Mitsubishi a more attractive vendor than a smaller specialist.
+Mitsubishi Materials processes materials across multiple end-markets—aerospace, automotive, electronics, construction, energy. This [diversification](/diversification/) gives it scale advantages in purchasing raw materials and logistics, advantages that a single-market specialist cannot match. A supplier to aerospace can negotiate favorable terms with miners and refiners because it places large, consistent orders. This cost advantage filters down to aerospace customers, making Mitsubishi a more attractive vendor than a smaller specialist.
 
 The integrated supply chain also provides resilience. When commodity prices spike, a vertically integrated company can shift product mix or temporarily absorb margin pressure, outlasting pure commodity traders or single-segment specialists that must cut capacity or margin immediately.
 
@@ -53,7 +53,7 @@ The moat here is relative, not absolute. Mitsubishi must continuously invest to 
 
 Mitsubishi's brand carries weight among engineers and technical decision-makers. A customer choosing a rare-earth supplier or advanced ceramic vendor may view Mitsubishi as inherently trustworthy due to its history and reputation. This intangible asset—accumulated over decades—is a moat that cannot be easily bought or replicated. A startup with identical technical capability may take years to build equivalent trust.
 
-However, brand is only as strong as recent performance. A single major quality failure, supply disruption, or unfulfilled obligation can erode decades of goodwill. In high-stakes industries like aerospace, reputation is fragile and expensive to restore.
+However, brand is only as strong as recent performance. A single major quality failure, supply disruption, or unfulfilled obligation can erode decades of [goodwill](/goodwill/). In high-stakes industries like aerospace, reputation is fragile and expensive to restore.
 
 ## Geographic Presence and Local Expertise
 

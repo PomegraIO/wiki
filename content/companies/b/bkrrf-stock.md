@@ -4,7 +4,7 @@ description: "Precious metals exploration company focused on silver discovery an
 keywords: [mining, silver, exploration, junior-mining, metals, commodity, value-chain]
 ---
 
-*The **BLACKROCK SILVER CORP. (BKRRF)** is an exploration and development company engaged in the search for economic silver and copper deposits, primarily in the western United States and Mexico. As a junior mining firm, it sits at the earliest and riskiest end of the mining industry's value chain—the phase before production begins, where capital is deployed in geological surveying, permitting, and proof-of-concept to establish whether a deposit exists and can be mined profitably.*
+*The **[BLACKROCK](/blk-stock/) SILVER CORP. (BKRRF)** is an exploration and development company engaged in the search for economic silver and copper deposits, primarily in the western United States and Mexico. As a junior mining firm, it sits at the earliest and riskiest end of the mining industry's value chain—the phase before production begins, where capital is deployed in geological surveying, permitting, and proof-of-concept to establish whether a deposit exists and can be mined profitably.*
 
 ## The Exploration Position in Mining's Long Value Chain
 
@@ -34,7 +34,7 @@ This means BlackRock's success is not merely a function of its technical compete
 
 ## From Exploration to Production
 
-If BlackRock successfully discovers a deposit that passes engineering and economic review, the next phase is major-project financing. A new mine requires hundreds of millions or billions of dollars to build. At this stage, BlackRock itself likely becomes a target for acquisition by a larger mining company, or it partners with a major miner to co-develop and co-fund the project.
+If BlackRock successfully discovers a deposit that passes engineering and economic review, the next phase is major-project financing. A new mine requires hundreds of millions or billions of dollars to build. At this stage, BlackRock itself likely becomes a target for [acquisition](/acquisition/) by a larger mining company, or it partners with a major miner to co-develop and co-fund the project.
 
 This transition—from exploration to development to production—is the ultimate value-chain story in mining. BlackRock's role is to locate and validate deposits that larger miners can productionize. If it succeeds, shareholders may see substantial returns as the company is acquired or as the developed mine generates cash flow. If it fails, the capital is lost.
 

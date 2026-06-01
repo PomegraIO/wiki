@@ -52,9 +52,9 @@ This iterative, data-driven workflow—grounded in wet-bench work, animal model 
 
 <div class="wiki-seealso">
 ### Closely related
-- Special-purpose acquisition company
-- Securities and exchange commission
-- Initial public offering
+- [Special-purpose acquisition company](/special-purpose-acquisition-company/)
+- [Securities and exchange commission](/securities-and-exchange-commission/)
+- [Initial public offering](/initial-public-offering/)
 
 ### Wider context
 - [Stock](/stock/)

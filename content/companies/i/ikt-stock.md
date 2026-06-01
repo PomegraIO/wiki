@@ -39,7 +39,7 @@ Advancing a neurological drug from Phase 1b to Phase 3 and potential approval re
 
 Biotech capital markets are cyclical and sentiment-driven. If the sector falls out of favor, or if early safety or efficacy signals disappoint, Inhibikase may face difficulty in raising follow-on capital. A capital shortfall could force the company to wind down, merge on unfavorable terms, or spike a promising but unfunded program.
 
-The company is also exposed to interest-rate risk: if the company has taken on debt financing or has warrant obligations, rising rates increase cost of capital and could force equity dilution to satisfy obligations.
+The company is also exposed to [interest-rate risk](/interest-rate-risk/): if the company has taken on [debt financing](/debt-financing/) or has warrant obligations, rising rates increase cost of capital and could force equity dilution to satisfy obligations.
 
 ## Competitive Landscape
 

@@ -63,7 +63,7 @@ This is a cost and a moat. High regulatory barriers protect Basel from fly-by-ni
 
 ## Competitive Dynamics and Consolidation Trends
 
-The diagnostic services market has consolidated globally. A few large players—LabCorp, Quest Diagnostics, and others—dominate the US. Internationally, regional players like Basel compete. Larger peers may have cost advantages. Smaller or more focused competitors may have better local market knowledge.
+The diagnostic services market has consolidated globally. A few large players—LabCorp, [Quest Diagnostics](/dgx-stock/), and others—dominate the US. Internationally, regional players like Basel compete. Larger peers may have cost advantages. Smaller or more focused competitors may have better local market knowledge.
 
 Basel's strategic question is whether it can grow fast enough to compete with giants or whether it should focus on smaller, less competitive regions where it can achieve local dominance.
 
@@ -77,7 +77,7 @@ Basel's [10-K](/10-k/) should disclose revenue by geography and service line. Wa
 
 Healthcare diagnostics is not growth-stage any longer in developed markets—it is mature. Growth comes from geographic expansion into underdeveloped markets, price increases, or consolidation gains. For Basel, success depends on executing in chosen markets, keeping costs down, and maintaining hospital relationships. Failure looks like expanding into markets with poor reimbursement, losing volume to competitors, or encountering unexpected regulation.
 
-The stock matters to those who believe in steady healthcare revenue and dividend potential, not to those chasing venture-scale returns.
+The stock matters to those who believe in steady healthcare revenue and [dividend](/dividend/) potential, not to those chasing venture-scale returns.
 
 <div class="wiki-seealso">
 ### Closely related
@@ -85,6 +85,6 @@ The stock matters to those who believe in steady healthcare revenue and dividend
 - [bmi-stock](/bmi-stock/)
 
 ### Wider context
-- healthcare services sector
+- [healthcare services](/hcsg-stock/) sector
 - regulatory compliance in medical devices
 </div>

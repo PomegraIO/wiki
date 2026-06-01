@@ -4,7 +4,7 @@ description: "Oncology biotech developing engineered cytokine therapies; clinica
 keywords: [biotech, oncology, immunotherapy, clinical trials, drug development, capital intensive]
 ---
 
-*Medicenna Therapeutics (MDNAF) is a Canadian clinical-stage biotech company focused on immuno-oncology, specifically engineered cytokine therapies intended to activate immune cells against tumors. Like all early-stage biopharmaceutical firms, Medicenna carries acute existential risk: regulatory rejection, clinical trial failure, or inability to raise capital before cash reserves expire. The company has not generated meaningful revenue from product sales and depends entirely on equity financing, venture capital, or partnerships to fund its pipeline through development. One failed trial or unfavorable regulatory signal can render the stock valueless.*
+*Medicenna Therapeutics (MDNAF) is a Canadian clinical-stage biotech company focused on immuno-oncology, specifically engineered cytokine therapies intended to activate immune cells against tumors. Like all early-stage biopharmaceutical firms, Medicenna carries acute existential risk: regulatory rejection, clinical trial failure, or inability to raise capital before cash reserves expire. The company has not generated meaningful revenue from product sales and depends entirely on [equity financing](/equity-financing/), venture capital, or partnerships to fund its pipeline through development. One failed trial or unfavorable regulatory signal can render the stock valueless.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MDNAF</td></tr>
@@ -51,7 +51,7 @@ Additionally, cytokine-based therapies have historically carried toxicity concer
 
 ## Financial Reporting and Dilution
 
-As a non-[NASDAQ](/nasdaq/) traded company (likely trading OTC), Medicenna has fewer reporting obligations and less analyst coverage than larger peers. This creates information asymmetry for retail investors, who may not know the company's current cash position, burn rate, or nearest financing deadline. Surprise dilution from secondary offerings or warrant exercises can hit equity holders unexpectedly.
+As a non-[NASDAQ](/nasdaq/) traded company (likely trading OTC), Medicenna has fewer reporting obligations and less analyst coverage than larger peers. This creates information asymmetry for retail investors, who may not know the company's current cash position, burn rate, or nearest financing deadline. Surprise dilution from [secondary offerings](/secondary-offering/) or warrant exercises can hit equity holders unexpectedly.
 
 <div class="wiki-seealso">
 ### Closely related

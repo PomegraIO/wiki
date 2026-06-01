@@ -4,7 +4,7 @@ description: "A blank-check acquisition company pursuing a merger or acquisition
 keywords: [SPAC, blank-check, acquisition, shell, merger vehicle, public company]
 ---
 
-*Highview Merger Corp. (HVMC) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) created to identify and merge with or acquire an operating business, holding investor capital in trust pending the completion of an acquisition and filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 2070602.*
+*Highview [Merger](/merger/) Corp. (HVMC) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) created to identify and merge with or acquire an operating business, holding investor capital in trust pending the completion of an [acquisition](/acquisition/) and filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 2070602.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HVMC</td></tr>
@@ -17,13 +17,13 @@ keywords: [SPAC, blank-check, acquisition, shell, merger vehicle, public company
 
 ## The Unit Mechanic: Trust Capital as Acquisition Currency
 
-Highview Merger Corp., like all SPACs, inverts the typical corporate funding model. Rather than an operating company raising equity and deploying it for expansion, a SPAC raises capital first and then searches for the use. The unit transaction at the core is the per-dollar trust deposit. When HVMC conducted its IPO, investor dollars flowed into a trustee-controlled account, segregated from the sponsor's and company's operating accounts. That separation is legal and financial armor: the trust cannot be tapped except by shareholder vote to fund an approved merger or liquidation.
+Highview Merger Corp., like all SPACs, inverts the typical corporate funding model. Rather than an operating company raising equity and deploying it for expansion, a SPAC raises capital first and then searches for the use. The unit transaction at the core is the per-dollar trust deposit. When HVMC conducted its IPO, investor dollars flowed into a trustee-controlled account, segregated from the sponsor's and company's operating accounts. That separation is legal and financial armor: the trust cannot be tapped except by shareholder vote to fund an approved merger or [liquidation](/liquidation/).
 
-The cost of capital in a SPAC is therefore embedded in the offering terms. If HVMC sold units at $10 each and paid 2 percent in underwriting fees, the effective cost to the sponsor of deploying $100 million is $102 million in share dilution (assuming the underwriter's stock compensation is converted to shares). The sponsor recoups this via founder shares—purchased at nominal cost before the IPO and representing sponsor ownership in the ultimate merged entity.
+The cost of capital in a SPAC is therefore embedded in the offering terms. If HVMC sold units at $10 each and paid 2 percent in underwriting fees, the effective cost to the sponsor of deploying $100 million is $102 million in [share dilution](/share-dilution/) (assuming the underwriter's stock compensation is converted to shares). The sponsor recoups this via [founder shares](/founder-shares/)—purchased at nominal cost before the IPO and representing sponsor ownership in the ultimate merged entity.
 
 ## Redemption as the Shareholder Escape Valve
 
-Upon a merger announcement, HVMC shareholders face a unit decision point: redeem or hold. Redemption means exchanging shares for a pro-rata slice of the trust account, plus accrued interest. This price—the redemption value—is predetermined and documented in the proxy materials. If HVMC raised $250 million and the trust earned $5 million in interest, each shareholder can redeem for approximately $10.50 per share (250 plus 5 in trust, divided by shares outstanding, assuming negligible operating losses).
+Upon a merger announcement, HVMC shareholders face a unit decision point: redeem or hold. Redemption means exchanging shares for a pro-rata slice of the trust account, plus [accrued interest](/accrued-interest/). This price—the redemption value—is predetermined and documented in the proxy materials. If HVMC raised $250 million and the trust earned $5 million in interest, each shareholder can redeem for approximately $10.50 per share (250 plus 5 in trust, divided by shares outstanding, assuming negligible operating losses).
 
 Holding means betting that the merged company will trade above that redemption price. If many shareholders redeem, the merged entity is thinner on cash, potentially limiting the purchase price it can offer the target or its post-merger runway. If redemptions exceed a contractual threshold, some SPAC agreements forbid the merger entirely, forcing liquidation. Highview's merger agreement with its target, detailed in the [10-K](/10-k/) and merger proxy filed with the SEC, specifies this threshold. The unit question for each shareholder becomes: is the post-merger stock worth more than the redemption floor?
 
@@ -41,15 +41,15 @@ In practice, this tension often resolves toward deal completion over deal qualit
 
 ## Warrant Economics and Leverage
 
-HVMC issued warrants as part of its offering. Each warrant entitles the holder to purchase one share at a set strike price (typically $11.50). Warrants are tradeable but cannot be redeemed in the trust; they vest and live (or die) with the merged entity's stock price. If post-merger HVMC stock trades at $9, the warrants are worthless. If it trades at $13, the warrant is worth $1.50 (stock price minus strike).
+HVMC issued warrants as part of its offering. Each warrant entitles the holder to purchase one share at a set [strike price](/strike-price/) (typically $11.50). Warrants are tradeable but cannot be redeemed in the trust; they vest and live (or die) with the merged entity's stock price. If post-merger HVMC stock trades at $9, the warrants are worthless. If it trades at $13, the warrant is worth $1.50 (stock price minus strike).
 
-This creates a leveraged bet for warrant holders. The upside is capped at some stock price (strikes are usually exercisable up to a five-year deadline), but the downside is not—warrant holders can lose 100 percent of their investment. Warrant hedging strategies and tracking are part of the post-merger investor toolbox, and the unit economics of the warrant tranche matter significantly to total returns.
+This creates a leveraged bet for warrant holders. The upside is capped at some stock price (strikes are usually exercisable up to a five-year deadline), but the downside is not—warrant holders can lose 100 percent of their investment. Warrant hedging strategies and tracking are part of the post-merger investor toolbox, and the unit economics of the warrant [tranche](/tranche/) matter significantly to total returns.
 
 ## The Merger Closing and Operating Transition
 
 Once Highview's merger closes, the SPAC formally ceases to exist. The target company's shareholders and the SPAC investors become shareholders of a combined entity. HVMC's ticker and name likely change to reflect the target's identity or a new agreed name. The trust account is now deployed toward acquisition consideration and working capital for the combined company.
 
-The unit transaction has now shifted: from shareholder choice (redeem or hold) to operational management (profitably deploying the merged company's combined assets). The SPAC phase is finished; the operating phase begins. For those who redeemed, the story is over—they captured the par value floor. For those who held, the outcome depends entirely on the merged entity's ability to operate profitably and trade above the redemption price. That risk transfer—from SPAC mechanics to business fundamentals—is the true point of the SPAC structure.
+The unit transaction has now shifted: from shareholder choice (redeem or hold) to operational management (profitably deploying the merged company's combined assets). The SPAC phase is finished; the operating phase begins. For those who redeemed, the story is over—they captured the [par value](/par-value/) floor. For those who held, the outcome depends entirely on the merged entity's ability to operate profitably and trade above the redemption price. That risk transfer—from SPAC mechanics to business fundamentals—is the true point of the SPAC structure.
 
 ## Timeline Discipline and Liquidation Risk
 

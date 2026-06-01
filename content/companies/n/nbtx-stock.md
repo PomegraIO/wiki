@@ -17,7 +17,7 @@ keywords: [biotech, oncology, nanomedicine, clinical-trial, drug-development, R&
 
 ## The secular frontier: nanomedicine and oncology
 
-Nanobiotix operates at the confluence of two durable secular trends: the aging of developed-world populations (driving persistent demand for oncology treatments) and the scientific maturation of nanotechnology as a therapeutic platform. Neither trend is tied to economic cycles. Cancer incidence does not decline in recessions; biotechnology funding may ebb in bull markets and flow in bear markets, but the underlying research programs continue regardless of credit availability or market sentiment.
+Nanobiotix operates at the confluence of two durable secular trends: the aging of developed-world populations (driving persistent demand for oncology treatments) and the scientific maturation of nanotechnology as a therapeutic platform. Neither trend is tied to economic cycles. Cancer incidence does not decline in [recessions](/recession/); biotechnology funding may ebb in [bull markets](/bull-market/) and flow in [bear markets](/bear-market/), but the underlying research programs continue regardless of credit availability or market sentiment.
 
 The company's core technology uses nanoparticles designed to concentrate therapeutic compounds at tumor sites or enhance the efficacy of radiation therapy. This is a long-term scientific bet: if the approach works, the eventual product portfolio could serve a global market of patients with limited treatment options. If the approach fails—or proves more difficult than anticipated—the company may face years of additional research before viable products reach patients, or may never achieve commercialization at all. The outcome is determined by laboratory results, clinical-trial data, and regulatory decisions, not by the state of the economy.
 
@@ -31,7 +31,7 @@ This disconnect creates pressure: biotech companies may be forced to raise equit
 
 Unlike an operating company whose quarterly results reflect current-period sales and profitability, a development-stage biotech firm's value is entirely forward-looking: it rests on the probability that its experimental therapies will reach patients and generate revenue. This probability shifts based on clinical-trial outcomes, regulatory feedback, and competitive developments in oncology. A positive Phase 2 trial result in a candidate therapy can increase the company's valuation substantially, regardless of macro conditions. A failed trial or unexpected safety signal can destroy value equally quickly.
 
-Nanobiotix's investors are buying a portfolio of research bets, not a stream of current earnings. The company's market cap reflects the probability-weighted value of each candidate program multiplied by the addressable market size for each indication. These probabilities and valuations are revised as clinical data emerges—a process uncoupled from business-cycle, interest-rate, or credit-cycle dynamics.
+Nanobiotix's investors are buying a portfolio of research bets, not a stream of current earnings. The company's [market cap](/market-capitalization/) reflects the probability-weighted value of each candidate program multiplied by the addressable market size for each indication. These probabilities and valuations are revised as clinical data emerges—a process uncoupled from business-cycle, interest-rate, or credit-cycle dynamics.
 
 ## Regulatory and competitive secular landscape
 
@@ -41,7 +41,7 @@ The secular opportunity in oncology is substantial: cancer remains a leading cau
 
 ## Capital structure and path to profitability
 
-Nanobiotix is unlikely to become [free-cash-flow](/free-cash-flow/) positive until it has regulatory approvals and patients using its drugs—likely years away. Until then, the company operates at a loss, consuming cash. Its balance sheet is dominated by cash reserves (from prior equity raises) and the intangible value of its research programs. The company has no traditional [earnings](/earnings-per-share/) to speak of; earnings-per-share metrics are not meaningful for development-stage firms.
+Nanobiotix is unlikely to become [free-cash-flow](/free-cash-flow/) positive until it has regulatory approvals and patients using its drugs—likely years away. Until then, the company operates at a loss, consuming cash. Its [balance sheet](/balance-sheet/) is dominated by cash reserves (from prior equity raises) and the intangible value of its research programs. The company has no traditional [earnings](/earnings-per-share/) to speak of; earnings-per-share metrics are not meaningful for development-stage firms.
 
 The path to profitability depends on regulatory approvals, successful commercialization (sales to patients and healthcare providers), and the company's ability to manufacture its products at scale. Each step is uncertain and no step is assured. The biotech investors who buy Nanobiotix are explicitly accepting that the company may never become profitable—a risk distinct from the cyclical risk faced by profitable pharmaceutical companies.
 

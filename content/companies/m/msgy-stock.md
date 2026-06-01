@@ -25,11 +25,11 @@ Commodity-based business models create sensitivity to input costs: if raw materi
 
 ## Manufacturing Operations and Production Efficiency
 
-Masonglory likely operates one or more manufacturing facilities producing its goods. Manufacturing plants require capital investment in equipment, infrastructure, and technology. Running these facilities efficiently—minimizing waste, optimizing labor productivity, managing energy costs—directly affects unit economics and profitability.
+Masonglory likely operates one or more manufacturing facilities producing its goods. Manufacturing plants require capital investment in equipment, infrastructure, and technology. Running these facilities efficiently—minimizing waste, optimizing [labor productivity](/labor-productivity/), managing energy costs—directly affects unit economics and profitability.
 
 Manufacturing operations introduce operational complexity: workforce management, equipment maintenance, supply chain logistics, quality control, and regulatory compliance all affect cost structure and reliability. A production disruption (equipment breakdown, supply shortage, labor dispute) can interrupt output and damage customer relationships if orders are delayed.
 
-Capacity utilization is material in manufacturing: if plants run at high capacity, fixed costs (facility overhead, management salaries, equipment depreciation) are spread over more units, reducing unit cost. If capacity is underutilized (demand is weak), fixed costs burden fewer units, raising per-unit cost and compressing margins. This means profitability swings with demand cycles: strong demand drives high utilization and strong margins, while weak demand creates losses despite fixed costs remaining.
+Capacity utilization is material in manufacturing: if plants run at high capacity, fixed costs (facility overhead, management salaries, equipment [depreciation](/depreciation/)) are spread over more units, reducing unit cost. If capacity is underutilized (demand is weak), fixed costs burden fewer units, raising per-unit cost and compressing margins. This means profitability swings with demand cycles: strong demand drives high utilization and strong margins, while weak demand creates losses despite fixed costs remaining.
 
 ## Supply Chain and Raw Material Exposure
 
@@ -45,7 +45,7 @@ Masonglory likely sells through a combination of direct customer relationships a
 
 Each distribution channel has different economics: direct sales allow higher margins but require sales and service infrastructure; indirect sales move volume quickly with lower margins but require managing distributor relationships and incentives. Market penetration (how many potential customers the company reaches) depends on distribution network strength and geographic scope.
 
-International sales introduce additional complexity: tariffs, shipping costs, regulatory requirements, payment risk, and currency fluctuations all affect profitability. A company operating in multiple countries has geographic diversification (reducing dependence on any single market) but faces operational and financial complexity.
+International sales introduce additional complexity: tariffs, shipping costs, regulatory requirements, payment risk, and currency fluctuations all affect profitability. A company operating in multiple countries has geographic [diversification](/diversification/) (reducing dependence on any single market) but faces operational and financial complexity.
 
 ## Competitive Landscape and Pricing Power
 
@@ -57,7 +57,7 @@ Larger multinational competitors may have economies of scale, lower financing co
 
 ## Cyclicality and Economic Sensitivity
 
-Building materials demand is cyclical: tied to construction activity, which expands during economic growth and contracts during recessions. Textile demand depends on consumer spending and fashion cycles. Manufacturing exports depend on global economic conditions and currency fluctuations.
+Building materials demand is cyclical: tied to construction activity, which expands during economic growth and contracts during [recessions](/recession/). Textile demand depends on consumer spending and fashion cycles. Manufacturing exports depend on global economic conditions and currency fluctuations.
 
 A downturn can rapidly reduce order volumes and force production cuts (or facility closures), eliminating revenue while fixed costs remain. Conversely, upturns create strong demand and capacity constraints, allowing pricing power and strong margins. Masonglory's earnings are thus volatile, expanding and contracting with broader economic cycles.
 
@@ -67,7 +67,7 @@ Investors in cyclical manufacturers must understand where in the economic cycle 
 
 Manufacturing businesses require capital to build or acquire facilities, purchase equipment, and maintain working capital for inventory and receivables. [Capital-intensive](/enterprise-value/) industries like manufacturing must generate sufficient [operating cash flow](/free-cash-flow/) to fund replacement capital spending or finance growth through external means.
 
-If MSGY carries significant debt (common for asset-heavy manufacturers), debt service reduces flexibility. Economic downturns that compress cash flow create refinancing risk or covenant violations if leverage ratios deteriorate. Asset-light competitors (those that outsource manufacturing) face lower capital requirements but may sacrifice margin control and responsiveness.
+If MSGY carries significant debt (common for asset-heavy manufacturers), debt service reduces flexibility. Economic downturns that compress cash flow create [refinancing risk](/refinancing-risk/) or covenant violations if [leverage ratios](/leverage-ratio-forex/) deteriorate. Asset-light competitors (those that outsource manufacturing) face lower capital requirements but may sacrifice margin control and responsiveness.
 
 ## Dividend and Shareholder Returns
 

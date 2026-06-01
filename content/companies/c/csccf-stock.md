@@ -40,7 +40,7 @@ The mine is staffed with skilled operators, maintenance workers, engineers, and 
 
 ## Environmental and Social License
 
-Modern copper mining in Chile operates under strict environmental regulations and under public scrutiny. Tailings management, water use, dust control, and closure planning are regulated and contested. A mine's social license—the acceptance of its operations by local communities and governments—is fragile. Capstone must invest in environmental controls, community engagement, and regulatory compliance. Environmental liability is real; if a tailings dam is breached or water is contaminated, Capstone could face massive cleanup costs and operational shutdown.
+Modern copper mining in Chile operates under strict environmental regulations and under public scrutiny. Tailings management, water use, dust control, and closure planning are regulated and contested. A mine's social license—the acceptance of its operations by local communities and governments—is fragile. Capstone must invest in environmental controls, community engagement, and regulatory compliance. [Environmental liability](/environmental-liability/) is real; if a tailings dam is breached or water is contaminated, Capstone could face massive cleanup costs and operational shutdown.
 
 ## Logistics and Sales
 

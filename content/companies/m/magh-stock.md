@@ -19,7 +19,7 @@ MAGH, as a diversified entity, does not ride a single cyclical wave. Instead, it
 
 This is both a strength and a weakness. The strength is resilience: when one segment weakens, others may still be in growth or mature phases, providing earnings stability. The weakness is complexity: investors cannot easily model or predict consolidated results because they must track multiple distinct cycles operating in parallel. And the company's consolidated margins may obscure real deterioration in one segment masked by outperformance in another.
 
-During broad recessions when all segments weaken together, diversification provides minimal protection. MAGH's earnings will fall because the firm lacks non-cyclical operations. The benefit of diversification accrues mainly in choppy cycles where different segments phase independently.
+During broad [recessions](/recession/) when all segments weaken together, [diversification](/diversification/) provides minimal protection. MAGH's earnings will fall because the firm lacks non-cyclical operations. The benefit of diversification accrues mainly in choppy cycles where different segments phase independently.
 
 ## Geographic Diversification as Structural Positioning
 
@@ -27,7 +27,7 @@ MAGH's international footprint—actual sales and earnings from multiple geograp
 
 Emerging markets are typically more volatile than developed markets, with sharper booms and busts. If MAGH derives significant earnings from emerging markets, those earnings will swing more violently. But emerging markets are also growing faster, so over a decade, earnings growth from emerging markets may exceed that from developed markets. A company biased toward emerging markets has higher growth but higher volatility; one biased toward developed markets has lower growth but smoother cash flows.
 
-This geographic mix is largely structural. It reflects where MAGH has invested, where it has customer relationships, and where local competitors and regulatory environments exist. Rebalancing geography takes years and requires strategic acquisitions or divestitures. In the near term (3–5 years), MAGH's geographic profile is fixed, and investors can therefore anticipate its cyclical sensitivity from its mix.
+This geographic mix is largely structural. It reflects where MAGH has invested, where it has customer relationships, and where local competitors and regulatory environments exist. Rebalancing geography takes years and requires strategic [acquisitions](/acquisition/) or [divestitures](/divestiture/). In the near term (3–5 years), MAGH's geographic profile is fixed, and investors can therefore anticipate its cyclical sensitivity from its mix.
 
 ## Segment Trends and Secular Shifts
 
@@ -39,9 +39,9 @@ MAGH's segment-by-segment performance and capex allocation are therefore key ind
 
 ## Margin Volatility and Operational Leverage
 
-Diversified companies often have mixed fixed-cost structures. Some segments are asset-heavy (factories, real estate) with high fixed costs and significant operating leverage. Others are service-driven with more variable costs. As revenue declines in a downturn, the firm's blended operating leverage determines how much operating margin is lost.
+Diversified companies often have mixed fixed-cost structures. Some segments are asset-heavy (factories, real estate) with high fixed costs and significant operating leverage. Others are service-driven with more variable costs. As revenue declines in a downturn, the firm's blended operating leverage determines how much [operating margin](/operating-margin/) is lost.
 
-MAGH's margin stability through cycles depends on its ability to adjust costs when revenue weakens. Companies with significant permanent headcount and facility leases will see margins compress sharply. Companies that can quickly right-size variable costs and defer discretionary spending may maintain margins better. This is a structural characteristic that can be observed from historical P&L trends: examine how MAGH's operating margin changed in prior recessions.
+MAGH's margin stability through cycles depends on its ability to adjust costs when revenue weakens. Companies with significant permanent headcount and facility leases will see margins compress sharply. Companies that can quickly right-size variable costs and defer [discretionary spending](/discretionary-spending/) may maintain margins better. This is a structural characteristic that can be observed from historical P&L trends: examine how MAGH's operating margin changed in prior recessions.
 
 If margins collapsed 40–50% in past downturns, expect similar performance in future ones. If margins held up due to cost flexibility, that is a structural advantage.
 

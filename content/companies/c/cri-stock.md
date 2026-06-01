@@ -24,7 +24,7 @@ The company's ability to finance this gap shapes its resilience. A retailer with
 
 Children's apparel is driven by fashion and seasonality, and unsold inventory must be marked down steeply—a direct hit to gross profit. A company that sourced too aggressively or missed demand trends can see gross margins compress from unexpected markdowns. This risk creates capital pressure: a markdown-heavy year generates less cash, constraining the company's ability to invest in stores, technology, or debt reduction.
 
-Casters' capital structure therefore reflects its pricing power and demand clarity. If the brand is strong and demand predictable, the company can hold higher inventory prices and less aggressively discount, preserving margin and cash. If the brand weakens or misses trends, margins shrink and cash dries up—forcing store closures, layoffs, or increased borrowing. The [10-K](/10-k/) inventory turnover and gross-margin trends show whether the company is tightly managing stock or enduring persistent pressure.
+Casters' capital structure therefore reflects its pricing power and demand clarity. If the brand is strong and demand predictable, the company can hold higher inventory prices and less aggressively discount, preserving margin and cash. If the brand weakens or misses trends, margins shrink and cash dries up—forcing store closures, layoffs, or increased borrowing. The [10-K](/10-k/) [inventory turnover](/inventory-turnover/) and gross-margin trends show whether the company is tightly managing stock or enduring persistent pressure.
 
 ## Store Lease Obligations and Fixed Costs
 
@@ -46,15 +46,15 @@ A company returning all free cash via dividends or buybacks signals maturity and
 
 ## Debt Structure and Refinancing Risk
 
-Like all large retailers, Carters likely carries [corporate-bond](/corporate-bond/) debt and bank credit facilities. The maturity profile and interest rates matter acutely if the company is in a restructuring phase (closing stores, rebuilding brand). Debt due soon must be refinanced when it matures; if the company is struggling operationally, refinancing becomes expensive or unavailable. Carters' debt schedule, shown in the balance sheet and debt footnote, shows whether refinancing is spread over time or concentrated.
+Like all large retailers, Carters likely carries [corporate-bond](/corporate-bond/) debt and bank credit facilities. The maturity profile and [interest rates](/interest-rate/) matter acutely if the company is in a restructuring phase (closing stores, rebuilding brand). Debt due soon must be refinanced when it matures; if the company is struggling operationally, refinancing becomes expensive or unavailable. Carters' debt schedule, shown in the balance sheet and debt footnote, shows whether refinancing is spread over time or concentrated.
 
-For a retailer, refinancing risk is acute because it is correlated with cyclical business conditions. A company refinancing debt during a consumer-spending dip faces wider spreads and stricter covenants. A company that has laddered maturities and paid down debt during good years enters downturns with breathing room.
+For a retailer, [refinancing risk](/refinancing-risk/) is acute because it is correlated with cyclical business conditions. A company refinancing debt during a consumer-spending dip faces wider spreads and stricter covenants. A company that has laddered maturities and paid down debt during good years enters downturns with breathing room.
 
 ## Understanding Cash Generation and Sustainability
 
-To evaluate Carters' capital health, examine the [cash flow statement](/cash-flow-statement/) in the [10-K](/10-k/) for operating cash flow trends. Has operating cash flow grown, shrunk, or stalled? Compare it to capital expenditures; if capex exceeds operating cash flow consistently, the company is burning cash and must borrow or reduce equity. Look for free cash flow (operating cash flow minus capex): Is it positive and growing, or negative?
+To evaluate Carters' capital health, examine the [cash flow statement](/cash-flow-statement/) in the [10-K](/10-k/) for operating cash flow trends. Has operating cash flow grown, shrunk, or stalled? Compare it to capital expenditures; if capex exceeds operating cash flow consistently, the company is burning cash and must borrow or reduce equity. Look for [free cash flow](/free-cash-flow/) (operating cash flow minus capex): Is it positive and growing, or negative?
 
-Compare Carters' debt-to-equity ratio and debt-to-operating-cash-flow to peers. High leverage relative to cash generation is a stress indicator, especially for a retailer where margins can compress rapidly. Review the footnote on debt for interest coverage (operating income divided by interest expense); if coverage is below 2x, the company has little cushion if sales slip.
+Compare Carters' [debt-to-equity ratio](/debt-to-equity-ratio/) and debt-to-operating-cash-flow to peers. High leverage relative to cash generation is a stress indicator, especially for a retailer where margins can compress rapidly. Review the footnote on debt for interest coverage (operating income divided by interest expense); if coverage is below 2x, the company has little cushion if sales slip.
 
 <div class="wiki-seealso">
 ### Closely related

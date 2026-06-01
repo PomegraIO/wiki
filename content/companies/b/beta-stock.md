@@ -31,7 +31,7 @@ The regulatory environment is both a moat and a risk. A moat because once certif
 
 ## Competing in a Sector Attracting Deep Capital
 
-Electric aviation is attracting venture capital, corporate investors from large aerospace and logistics firms, and airlines themselves. Joby Aviation, Archer Aviation, Lilium, and others are pursuing different configurations (multicopter vs. fixed-wing, passenger vs. cargo, short-range vs. regional). This fragmentation suggests that the market can support multiple winners—different route types, different use cases, and different regulatory approvals may favor different designs.
+Electric aviation is attracting venture capital, corporate investors from large aerospace and logistics firms, and airlines themselves. [Joby Aviation](/joby-stock/), [Archer Aviation](/achr-stock/), Lilium, and others are pursuing different configurations (multicopter vs. fixed-wing, passenger vs. cargo, short-range vs. regional). This fragmentation suggests that the market can support multiple winners—different route types, different use cases, and different regulatory approvals may favor different designs.
 
 However, it also suggests brutal competition for components, pilot talent, manufacturing capacity, and early customer relationships. A startup in BETA's position must differentiate on aircraft performance (range, payload, operating cost per available-ton-mile), manufacturing scalability, or customer relationships. It cannot compete on incumbency or capital depth.
 
@@ -49,6 +49,6 @@ Manufacturing capacity is equally critical. Even if BETA certifies successfully,
 
 ## The Longer Horizon: Substitution Dynamics and Incumbent Entry
 
-If eVTOL technology proves viable, regional aerospace incumbents (Textron, Airbus, Boeing, Sikorsky) have every incentive to enter. They have manufacturing scale, supply-chain relationships, regulatory expertise, and customer relationships. A startup like BETA must therefore either achieve dominant market share and cost leadership before incumbents enter, or carve out a sustainable niche (e.g., specialized cargo, particular route types, specific geographies) that justifies independent operation or acquisition.
+If eVTOL technology proves viable, regional aerospace incumbents (Textron, Airbus, [Boeing](/ba-stock/), Sikorsky) have every incentive to enter. They have manufacturing scale, supply-chain relationships, regulatory expertise, and customer relationships. A startup like BETA must therefore either achieve dominant market share and cost leadership before incumbents enter, or carve out a sustainable niche (e.g., specialized cargo, particular route types, specific geographies) that justifies independent operation or [acquisition](/acquisition/).
 
 BETA's long-term value therefore depends not on dominant market leadership but on whether it can demonstrate a path to profitable regional eVTOL operations before the window for independent viability closes. The sector tailwinds (electrification, decarbonization, on-demand mobility) are real, but the competitive and capital dynamics are severe.

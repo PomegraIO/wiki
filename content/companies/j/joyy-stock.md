@@ -42,7 +42,7 @@ Chinese regulations have increasingly restricted the live-streaming category, ca
 
 ## User acquisition costs and retention mechanics
 
-Acquiring new users in digital entertainment is expensive. Marketing spend to drive downloads and sign-ups consumes a portion of gross profit. The company's ability to retain users—to keep them opening the app, watching streams, and spending money—determines whether acquisition spending converts into lifetime value.
+Acquiring new users in digital entertainment is expensive. Marketing spend to drive downloads and sign-ups consumes a portion of gross profit. The company's ability to retain users—to keep them opening the app, watching streams, and spending money—determines whether [acquisition](/acquisition/) spending converts into lifetime value.
 
 Retention in JOYY's model depends on streamer quality and availability. If the top performers migrate to a competing platform, users follow. Conversely, exclusive or long-term performer relationships (contracts with popular streamers) build moats around user loyalty. The company must therefore invest in both content recruitment (paying performers to stay) and platform features (video quality, interactive mechanics, discovery algorithms) that keep viewers engaged.
 
@@ -52,7 +52,7 @@ Because JOYY is a U.S.-listed ADR, its reported [earnings-per-share](/earnings-p
 
 ## Cash flow profile
 
-The live-gift model generates cash upfront (users buy virtual currency before gifting) and pays out creators on delayed schedules, creating a favorable cash position for the platform. Money owed to streamers appears as a liability on the balance sheet, but the company holds user cash in advance of payout, generating float. This financing advantage is common in platform and gaming businesses but can reverse if user trust erodes or regulatory changes force faster payouts.
+The live-gift model generates cash upfront (users buy virtual currency before gifting) and pays out creators on delayed schedules, creating a favorable cash position for the platform. Money owed to streamers appears as a liability on the [balance sheet](/balance-sheet/), but the company holds user cash in advance of payout, generating float. This financing advantage is common in platform and gaming businesses but can reverse if user trust erodes or regulatory changes force faster payouts.
 
 ## Seasonal and event-driven revenue
 
@@ -69,6 +69,6 @@ The [10-K](/10-k/) disclosure should detail the breakdown of revenue by platform
 
 ### Wider context
 - Emerging Markets
-- Currency Risk
+- [Currency Risk](/currency-risk/)
 - [Free Cash Flow](/free-cash-flow/)
 </div>

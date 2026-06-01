@@ -41,7 +41,7 @@ However, reimbursement can change. If Medicare decides remote monitoring is not 
 
 ## Competitive Landscape
 
-BIOTRICITY operates in a crowded space. Large medical device companies (Medtronic, Philips, GE Healthcare) offer monitoring solutions. Startups with wearable technology compete on form factor and software. Smartwatch makers (Apple, Garmin) have added ECG capabilities, offering basic arrhythmia detection to consumers. BIOTRICITY must differentiate on clinical accuracy, ease of use, integration with clinical workflows, or pricing.
+BIOTRICITY operates in a crowded space. Large medical device companies (Medtronic, Philips, GE Healthcare) offer monitoring solutions. Startups with wearable technology compete on form factor and software. Smartwatch makers ([Apple](/aapl-stock/), Garmin) have added ECG capabilities, offering basic arrhythmia detection to consumers. BIOTRICITY must differentiate on clinical accuracy, ease of use, integration with clinical workflows, or pricing.
 
 The market is segmented. Consumer wearables (smartwatches) are low-cost but low-clinical-rigor. Clinical-grade devices (hospital-grade ECG monitors) are high-cost and high-accuracy. BIOTRICITY likely targets the mid-market: affordable enough for widespread use, rigorous enough for clinical decisions.
 

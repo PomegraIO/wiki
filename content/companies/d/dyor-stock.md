@@ -4,7 +4,7 @@ description: "An investment vehicle that acquires and operates digital and techn
 keywords: ["investment", "digital businesses", "acquisitions", "technology ownership", "special purpose company"]
 ---
 
-*Insight Digital Partners II (**DYOR**) is an investment company that acquires digital businesses, software platforms, e-commerce operations, and internet-enabled companies. Rather than managing assets for third parties, the firm uses its own capital and borrowed funds to buy controlling stakes in smaller technology companies, operate them for improved profitability, and eventually exit through sale or merger. The company's success depends on finding undervalued acquisitions, improving operations, and harvesting returns.*
+*Insight Digital Partners II (**DYOR**) is an investment company that acquires digital businesses, software platforms, e-commerce operations, and internet-enabled companies. Rather than managing assets for third parties, the firm uses its own capital and borrowed funds to buy controlling stakes in smaller technology companies, operate them for improved profitability, and eventually exit through sale or [merger](/merger/). The company's success depends on finding undervalued [acquisitions](/acquisition/), improving operations, and harvesting returns.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DYOR</td></tr>
@@ -30,11 +30,11 @@ Leverage amplifies returns. If Insight Digital buys a company for $100 million u
 
 But leverage also amplifies downside. If the acquired company loses money, the debt still needs to be serviced. If the company earns less than expected, equity returns shrink or turn negative.
 
-Insight Digital's [10-K](/10-k/) will detail the debt structure: the amount owed, the interest rate, maturity dates, and covenants. Covenants are restrictions that lenders impose—minimum earnings requirements, debt-to-equity limits, or restrictions on further borrowing. If a company breaches a covenant, lenders can accelerate the debt or seize collateral.
+Insight Digital's [10-K](/10-k/) will detail the debt structure: the amount owed, the [interest rate](/interest-rate/), maturity dates, and covenants. Covenants are restrictions that lenders impose—minimum earnings requirements, debt-to-equity limits, or restrictions on further borrowing. If a company breaches a covenant, lenders can accelerate the debt or seize collateral.
 
 ## The Portfolio Approach
 
-Rather than putting all capital into a single deal, Insight Digital typically acquires multiple companies, creating a portfolio. The logic is diversification: some acquisitions will perform better than expected, some worse, and the portfolio hedges risk.
+Rather than putting all capital into a single deal, Insight Digital typically acquires multiple companies, creating a portfolio. The logic is [diversification](/diversification/): some acquisitions will perform better than expected, some worse, and the portfolio hedges risk.
 
 Managing a portfolio of acquired companies is complex. Insight Digital has a headquarters team that oversees operations, financial reporting, and strategic decisions across multiple portfolio companies. Each portfolio company has its own management team and operations. Insight Digital's job is to:
 

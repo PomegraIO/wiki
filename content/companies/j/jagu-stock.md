@@ -25,7 +25,7 @@ Jaguar Uranium occupies the earliest and most speculative stage: identifying and
 
 An exploration company's value depends entirely on the prospectivity of its projects—geological models of where uranium concentrations are likely to exceed economic thresholds. Jaguar's projects are defined by jurisdiction (geographic location), geology (rock type and structural settings favored for uranium concentration), and regulatory access (whether the government grants exploration licenses and permits mining).
 
-The time horizon from initial exploration to production extends 5–10+ years. A junior explorer might spend 2–3 years on early-stage drilling and geological mapping, then 2–4 years on feasibility studies and permitting. Capital requirements grow sharply at each stage: early exploration costs millions; feasibility and permitting cost tens of millions; construction and production readiness require hundreds of millions. Jaguar, as a development-stage firm, likely requires external capital partnerships or acquisition to advance projects through later stages.
+The time horizon from initial exploration to production extends 5–10+ years. A junior explorer might spend 2–3 years on early-stage drilling and geological mapping, then 2–4 years on feasibility studies and permitting. Capital requirements grow sharply at each stage: early exploration costs millions; feasibility and permitting cost tens of millions; construction and production readiness require hundreds of millions. Jaguar, as a development-stage firm, likely requires external capital partnerships or [acquisition](/acquisition/) to advance projects through later stages.
 
 ## The Geological and Geopolitical Moat
 

@@ -24,7 +24,7 @@ Traditional therapies have relied on replacing C1 inhibitor (intravenous or subc
 
 KALV's pipeline includes Factor XII inhibitors in clinical development for hereditary angioedema and potentially other rare conditions. The company is advancing through Phase 2 and Phase 3 trials. Clinical-trial results are the company's defining moments; positive data can de-risk the pipeline and set up regulatory approvals and commercialization; negative data can invalidate the therapeutic hypothesis or require program redirects. For investors, KALV is a classic pre-revenue biotech: cash burn rate is the primary financial metric, and success hinges on clinical and regulatory milestones, not current revenue or earnings.
 
-The company's balance sheet reflects this stage: negative net income, cash burn, and dependence on capital raises or partnerships to fund development. KALV has likely raised capital from venture investors and institutional equity sources. Long-term success requires either [FDA](/securities-and-exchange-commission/) approval and successful commercialization, or a strategic partnership or acquisition by a larger pharma company that can fund late-stage trials and commercialization.
+The company's [balance sheet](/balance-sheet/) reflects this stage: negative net income, cash burn, and dependence on capital raises or partnerships to fund development. KALV has likely raised capital from venture investors and institutional equity sources. Long-term success requires either [FDA](/securities-and-exchange-commission/) approval and successful commercialization, or a strategic partnership or [acquisition](/acquisition/) by a larger pharma company that can fund late-stage trials and commercialization.
 
 ## Competitive Landscape and Differentiation
 

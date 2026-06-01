@@ -54,7 +54,7 @@ COTY's competitive moat is partly the brand portfolio itself (consumers have aff
 
 ## Sensitivity and Risk
 
-COTY is cyclical on beauty spending. During recessions, consumers defer discretionary purchases like prestige fragrances or color cosmetics. The company is also vulnerable to ingredient or supply disruptions, retail consolidation that reduces the number of buyer relationships it maintains, and shifts in consumer preferences (toward clean beauty, fragrance-free products, or natural ingredients that disrupt COTY's manufacturing and sourcing).
+COTY is cyclical on beauty spending. During [recessions](/recession/), consumers defer discretionary purchases like prestige fragrances or color cosmetics. The company is also vulnerable to ingredient or supply disruptions, retail consolidation that reduces the number of buyer relationships it maintains, and shifts in consumer preferences (toward clean beauty, fragrance-free products, or natural ingredients that disrupt COTY's manufacturing and sourcing).
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

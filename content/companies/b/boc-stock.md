@@ -39,7 +39,7 @@ For agents working at a brokerage—the internal customer—Boston Omaha's appro
 
 ## The Insurance Underwriting Customer and Risk Appetite
 
-Boston Omaha also underwrites specialty insurance—a segment where the customer is the insurance distributor, broker, or reinsurer seeking a capacity provider. In specialty insurance underwriting, success depends on disciplined risk selection and pricing. A customer (broker or distributor) seeking to place a risk looks for an underwriter who understands the niche well and prices fairly based on accurate risk assessment.
+Boston Omaha also underwrites specialty insurance—a segment where the customer is the insurance distributor, [broker](/broker/), or reinsurer seeking a capacity provider. In specialty insurance underwriting, success depends on disciplined risk selection and pricing. A customer (broker or distributor) seeking to place a risk looks for an underwriter who understands the niche well and prices fairly based on accurate risk assessment.
 
 Boston Omaha's insurance underwriting operations target niches where specialized knowledge and patient capital create an edge. Rather than compete as a volume underwriter in standard commercial markets, the company focuses on segments—for example, certain types of professional liability, niche property risks, or hard-to-place coverages—where careful underwriting and willingness to build relationships over years matter more than scale.
 
@@ -49,13 +49,13 @@ The customer in this segment is willing to work with a smaller, disciplined unde
 
 Boston Omaha has a third major customer: public equity investors. As a holding company, Boston Omaha's value to shareholders lies in the earnings and growth of its subsidiary businesses combined with the quality of capital allocation at the holding company level. Shareholders are, in effect, customers who have delegated investment decision-making to management.
 
-These investors demand transparency about subsidiary performance, confidence that acquired businesses will not destroy value, and evidence that management can deploy capital wisely. Boston Omaha's track record—having acquired numerous regional businesses, retained strong management, and grown earnings—builds investor confidence that future acquisitions will similarly succeed. The shareholder customer's needs are met by continued proof that the holding company model creates value through patient capital allocation rather than financial engineering.
+These investors demand transparency about subsidiary performance, confidence that acquired businesses will not destroy value, and evidence that management can deploy capital wisely. Boston Omaha's track record—having acquired numerous regional businesses, retained strong management, and grown earnings—builds investor confidence that future [acquisitions](/acquisition/) will similarly succeed. The shareholder customer's needs are met by continued proof that the holding company model creates value through patient capital allocation rather than financial engineering.
 
 ## The Integration Challenge and Local Autonomy
 
 Boston Omaha's strategy creates a tension: how can a holding company provide real value—capital, strategic guidance, operational support—without intruding on the autonomy of local management? The customer (the acquired business's owner or manager) does not want to be told how to run their operation. But the shareholder customer wants evidence that Boston Omaha is actively creating value, not just a passive financial holder.
 
-Successful integration requires distinguishing between decisions that should be centralized (capital allocation, large acquisitions or divestitures, corporate governance) and decisions that should remain fully local (day-to-day operations, client service, hiring, pricing). Boston Omaha's management team must be credible enough that subsidiaries view holding company input as valuable guidance rather than interference.
+Successful integration requires distinguishing between decisions that should be centralized (capital allocation, large acquisitions or [divestitures](/divestiture/), corporate governance) and decisions that should remain fully local (day-to-day operations, client service, hiring, pricing). Boston Omaha's management team must be credible enough that subsidiaries view holding company input as valuable guidance rather than interference.
 
 ## The Market for Regional Businesses and Consolidation
 

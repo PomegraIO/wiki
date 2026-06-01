@@ -24,7 +24,7 @@ CPSH operates through two principal business segments. The composites division m
 
 ## Position in the Value Chain
 
-CPSH sits as a [bond](/bond/)-qualified materials supplier in a tiered defense industrial base. Above CPSH are the prime contractors (Lockheed, Raytheon, General Dynamics) who win major platform contracts; below are the raw material and fiber suppliers who provide precursor materials. CPSH's position is defensible because qualifying new suppliers in aerospace is expensive and slow—a customer cannot easily switch to a competitor once CPSH's composite is embedded in their engine design. However, CPSH is not the sole supplier of ceramic composites; other specialty materials firms and some internal operations at the primes themselves provide alternatives. Volume growth depends on new platform development and production rate increases among existing platforms. If a platform is cancelled or production slows, CPSH's revenue from that customer declines sharply because aerospace does not tolerate inventory.
+CPSH sits as a [bond](/bond/)-qualified materials supplier in a tiered defense industrial base. Above CPSH are the prime contractors (Lockheed, Raytheon, [General Dynamics](/gd-stock/)) who win major platform contracts; below are the raw material and fiber suppliers who provide precursor materials. CPSH's position is defensible because qualifying new suppliers in aerospace is expensive and slow—a customer cannot easily switch to a competitor once CPSH's composite is embedded in their engine design. However, CPSH is not the sole supplier of ceramic composites; other specialty materials firms and some internal operations at the primes themselves provide alternatives. Volume growth depends on new platform development and production rate increases among existing platforms. If a platform is cancelled or production slows, CPSH's revenue from that customer declines sharply because aerospace does not tolerate inventory.
 
 ## SEC Filings and Transparency
 
@@ -32,7 +32,7 @@ Investors should consult CPSH's annual [10-K](/10-k/) filing with the [Securitie
 
 ## Cyclicality and Market Exposure
 
-CPS Technologies' fortunes are tightly coupled to defense and aerospace spending cycles. When the U.S. increases military procurement or major platforms enter high-rate production, demand for CPSH's materials rises. Conversely, when budget reviews freeze platforms or production plans slip, CPSH's order intake drops. Additionally, the commercial aerospace cycle—driven by airline capital spending and aircraft delivery rates—indirectly affects the company through engine manufacturers' build plans. A prolonged recession can depress both defense and commercial aviation simultaneously, creating a dual headwind.
+CPS Technologies' fortunes are tightly coupled to defense and aerospace spending cycles. When the U.S. increases military procurement or major platforms enter high-rate production, demand for CPSH's materials rises. Conversely, when budget reviews freeze platforms or production plans slip, CPSH's order intake drops. Additionally, the commercial aerospace cycle—driven by airline capital spending and aircraft delivery rates—indirectly affects the company through engine manufacturers' build plans. A prolonged [recession](/recession/) can depress both defense and commercial aviation simultaneously, creating a dual headwind.
 
 ## Research Notes
 

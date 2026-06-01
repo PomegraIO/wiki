@@ -35,7 +35,7 @@ The unit economics are straightforward: the cost to manufacture one pack of razo
 
 ## Competition from Gillette (P&G) and Niche Disruptors
 
-Edgewell is the number two or three player in razors and shaving gels, behind Gillette (owned by Procter & Gamble), which dominates through scale, marketing spend, and brand ubiquity. P&G can afford to advertise razors on television and online at scales Edgewell cannot match. However, Edgewell benefits from being the obvious alternative to Gillette: slightly cheaper, acceptable quality, and "different brand" appeal for price-conscious shoppers or those who prefer not to buy from P&G.
+Edgewell is the number two or three player in razors and shaving gels, behind Gillette (owned by [Procter & Gamble](/pg-stock/)), which dominates through scale, marketing spend, and brand ubiquity. P&G can afford to advertise razors on television and online at scales Edgewell cannot match. However, Edgewell benefits from being the obvious alternative to Gillette: slightly cheaper, acceptable quality, and "different brand" appeal for price-conscious shoppers or those who prefer not to buy from P&G.
 
 In recent years, online direct-to-consumer razor startups (Dollar Shave Club, Harry's, Billie) disrupted the market by selling subscriptions online, avoiding retail intermediaries, and marketing with humor and positioning. These companies captured a segment of younger, online-savvy consumers. Edgewell and Gillette have responded by developing their own direct-to-consumer offerings or acquiring upstart brands. The competitive landscape has shifted; however, the core retail channel remains dominant for volume, and the majority of consumers still buy razors in stores, not subscriptions.
 

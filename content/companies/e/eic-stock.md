@@ -4,7 +4,7 @@ description: "A business-development company in the middle arc of its lifecycle,
 keywords: ["BDC", "business development company", "credit investing", "income strategy", "debt financing", "portfolio manager"]
 ---
 
-*Eagle Point Income Co Inc., trading under **EIC** (CIK 1754836), exemplifies the business-development company (BDC) caught in the ambiguous middle years of its lifecycle—past the novelty of its founding model, mature enough to operate with steady revenue and distributions, yet perpetually vulnerable to credit cycles and rising interest rates that can undermine the earnings basis for those distributions. The company sits at a juncture where the macro environment, not operational excellence alone, determines returns.*
+*Eagle Point Income Co Inc., trading under **EIC** (CIK 1754836), exemplifies the business-development company (BDC) caught in the ambiguous middle years of its lifecycle—past the novelty of its founding model, mature enough to operate with steady revenue and distributions, yet perpetually vulnerable to credit cycles and rising [interest rates](/interest-rate/) that can undermine the earnings basis for those distributions. The company sits at a juncture where the macro environment, not operational excellence alone, determines returns.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EIC</td></tr>
@@ -17,7 +17,7 @@ keywords: ["BDC", "business development company", "credit investing", "income st
 
 ## The BDC Model at Midlife
 
-Eagle Point is a [business-development company](/special-purpose-acquisition-company/) (BDC), a regulatory structure designed to allow closed-end investment funds to provide debt and equity financing to middle-market private companies. The BDC framework is elegantly straightforward: raise capital from public shareholders, invest that capital into loans and equity stakes, earn interest and dividends, and distribute income to shareholders. Unlike mutual funds, BDCs are permitted to employ leverage, which magnifies returns when lending conditions are favorable and amplifies losses when credits deteriorate.
+Eagle Point is a [business-development company](/special-purpose-acquisition-company/) (BDC), a regulatory structure designed to allow closed-end investment funds to provide debt and [equity financing](/equity-financing/) to middle-market private companies. The BDC framework is elegantly straightforward: raise capital from public shareholders, invest that capital into loans and equity stakes, earn interest and dividends, and distribute income to shareholders. Unlike [mutual funds](/mutual-fund/), BDCs are permitted to employ leverage, which magnifies returns when lending conditions are favorable and amplifies losses when credits deteriorate.
 
 BDCs emerged as a category in the 1980s, enjoyed a boom during the 2010s when low rates and credit abundance made the model highly profitable, and now face a mature market in which many BDCs compete and credit conditions are tightening. Eagle Point is neither a novel entrant nor an established dynasty; it is a mid-market player trying to maintain relevance in a category saturated with choice.
 
@@ -29,7 +29,7 @@ This is fundamentally a credit-selection problem, and credit selection over cycl
 
 ## The Leverage and Liquidity Double-Bind
 
-Eagle Point, like most BDCs, uses leverage to amplify returns. It borrows at shorter tenors and fixed rates, lending out at longer tenors at higher rates. This maturity mismatch and leverage magnify net returns when spreads are wide, but they expose Eagle Point to refinancing risk when the credit market seizes. If Eagle Point's debt matures and cannot be rolled over at similar rates, the firm faces margin compression and potential forced asset sales.
+Eagle Point, like most BDCs, uses leverage to amplify returns. It borrows at shorter tenors and fixed rates, lending out at longer tenors at higher rates. This maturity mismatch and leverage magnify net returns when spreads are wide, but they expose Eagle Point to [refinancing risk](/refinancing-risk/) when the credit market seizes. If Eagle Point's debt matures and cannot be rolled over at similar rates, the firm faces margin compression and potential forced asset sales.
 
 The firm also faces a liquidity constraint: its portfolio consists mostly of illiquid private-company debt and equity stakes. If depositors (or the firm itself) need liquidity, Eagle Point cannot rapidly monetize its assets. Redeeming shareholders who lose faith in the [dividend-yield](/dividend-yield/) strategy or fear credit deterioration could create a run on the firm. Regulatory rules permit BDCs to gate redemptions, but gating itself signals distress. Most BDCs avoid gating at all costs to maintain market confidence.
 
@@ -47,7 +47,7 @@ This is not exciting work, and it does not command growth multiples. The firm's 
 
 ## The Macro Dependency
 
-Eagle Point's lifecycle and near-term prospects are disproportionately shaped by factors beyond its control: the Fed's interest-rate path, credit spreads, the health of the middle-market lending market, and whether large institutional lenders (banks, CLO managers) have appetite for risk. If rates decline sharply, spreads tighten, and Eagle Point's new originations become less profitable. If a recession emerges, credit losses accelerate and distributions are threatened. If rates rise and volatility persists, Eagle Point may see wider spreads and fewer refinance pressures on existing credits, but new originations slow as borrowers balk at higher rates.
+Eagle Point's lifecycle and near-term prospects are disproportionately shaped by factors beyond its control: the Fed's interest-rate path, [credit spreads](/credit-spread/), the health of the middle-market lending market, and whether large institutional lenders (banks, CLO managers) have appetite for risk. If rates decline sharply, spreads tighten, and Eagle Point's new originations become less profitable. If a [recession](/recession/) emerges, credit losses accelerate and distributions are threatened. If rates rise and volatility persists, Eagle Point may see wider spreads and fewer refinance pressures on existing credits, but new originations slow as borrowers balk at higher rates.
 
 The BDC in its middle years is not the author of its own returns; it is a prisoner of macro conditions, managing them as well as possible but fundamentally constrained.
 

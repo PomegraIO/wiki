@@ -32,7 +32,7 @@ Praxis was founded by a trio of neuroscientists and industry veterans in 2014. E
 
 This was not revolutionary science on its own: geneticists had identified GRIN2B mutations in affected families. But what made it valuable for a drug company was the possibility that you could treat the disease by blocking or modulating the mutant protein. If you could identify patients with GRIN2B mutations and give them a drug that worked specifically on GRIN2B, you might be able to reverse or halt the progression of intellectual disability or autism in that genetically defined subgroup.
 
-That idea — targeting a validated genetic cause with a drug designed for that cause — is the logic of precision medicine. It differs from traditional drug development, which often targets a pathway or symptom in a broad patient population and hopes it works. Precision medicine asks: does this patient have this genetic variant? If yes, does blocking this [target](/tgt-stock/) help them? The patient population is smaller, but the biological logic is tighter.
+That idea — targeting a validated genetic cause with a drug designed for that cause — is the logic of precision medicine. It differs from traditional drug development, which often targets a pathway or symptom in a broad patient population and hopes it works. Precision medicine asks: does this patient have this genetic variant? If yes, does blocking this target help them? The patient population is smaller, but the biological logic is tighter.
 
 ## The clinical-stage years and capital markets
 

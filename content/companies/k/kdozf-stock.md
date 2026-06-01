@@ -41,13 +41,13 @@ KIDOZ's addressable market is therefore bounded. The company is competing for a 
 
 ## Profitability path and cash burn
 
-Early-stage digital platforms often operate at losses (or near-breakeven) while building user bases, hoping for eventual scale economies. For KIDOZ, the question is whether scale improves unit economics. If the company grows users and inventory, ARPU for developers may fall (increased supply competition for ad budgets), or CPI for advertisers may rise (reduced pricing power as more advertisers chase the same impressions). Path to profitability is contingent on finding a sustainable advertiser-willing-to-pay level that exceeds developer acquisition costs plus platform overhead.
+Early-stage digital platforms often operate at losses (or near-breakeven) while building user bases, hoping for eventual scale economies. For KIDOZ, the question is whether scale improves unit economics. If the company grows users and inventory, ARPU for developers may fall (increased supply competition for ad budgets), or CPI for advertisers may rise (reduced pricing power as more advertisers chase the same impressions). Path to profitability is contingent on finding a sustainable advertiser-willing-to-pay level that exceeds developer [acquisition](/acquisition/) costs plus platform overhead.
 
-The 10-K should show gross margins (revenue after payment to developers), operating expenses (engineering, moderation, compliance, G&A), and EBITDA or operating income trends. If gross margins are compressing or operating leverage is absent despite growing revenue, the business model may be fundamentally limited.
+The 10-K should show gross margins (revenue after payment to developers), operating expenses (engineering, moderation, compliance, G&A), and [EBITDA](/ebitda/) or operating income trends. If gross margins are compressing or operating leverage is absent despite growing revenue, the business model may be fundamentally limited.
 
 ## Monetization dependence and concentration risk
 
-KIDOZ's revenue depends on advertiser spend in the child-focused ad category. If one or two large advertisers (e.g., major toy, app, or children's media companies) contribute disproportionate share of revenue, the platform faces concentration risk: loss of a single customer could cause significant revenue swings. The 10-K must disclose if any customer exceeds 10% of revenue; if multiple large customers are mentioned, analyze their stickiness and whether KIDOZ is a core partner or a replaceable vendor.
+KIDOZ's revenue depends on advertiser spend in the child-focused ad category. If one or two large advertisers (e.g., major toy, app, or children's media companies) contribute disproportionate share of revenue, the platform faces [concentration risk](/concentration-risk/): loss of a single customer could cause significant revenue swings. The 10-K must disclose if any customer exceeds 10% of revenue; if multiple large customers are mentioned, analyze their stickiness and whether KIDOZ is a core partner or a replaceable vendor.
 
 <div class="wiki-seealso">
 ### Closely related

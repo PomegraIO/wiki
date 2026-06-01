@@ -4,7 +4,7 @@ description: "A business development company providing lending and equity capita
 keywords: ["BDC", "business development company", "private equity", "middle-market lending", "yield"]
 ---
 
-*[Kayne Anderson BDC, Inc.](/kbdc-stock/) (KBDC) is a [business development company](/kbdc-stock/) (BDC) that lends to and invests in mid-sized private companies. Trading publicly, the firm functions as an intermediary between capital providers (investors seeking yield) and borrowers (business owners seeking growth capital without full acquisition). BDCs fill a gap in the financial ecosystem: too small for mainstream banks, too illiquid for institutional investors, middle-market companies need specialized lenders. Kayne Anderson deploys investor capital into this niche, targeting steady [dividend](/dividend/) income from interest payments and [equity](/common-stock/) appreciation.*
+*[Kayne Anderson BDC, Inc.](/kbdc-stock/) (KBDC) is a [business development company](/kbdc-stock/) (BDC) that lends to and invests in mid-sized private companies. Trading publicly, the firm functions as an intermediary between capital providers (investors seeking yield) and borrowers (business owners seeking growth capital without full [acquisition](/acquisition/)). BDCs fill a gap in the financial ecosystem: too small for mainstream banks, too illiquid for institutional investors, middle-market companies need specialized lenders. Kayne Anderson deploys investor capital into this niche, targeting steady [dividend](/dividend/) income from interest payments and [equity](/common-stock/) appreciation.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KBDC</td></tr>
@@ -17,15 +17,15 @@ keywords: ["BDC", "business development company", "private equity", "middle-mark
 
 ## The BDC Structure and Regulation
 
-A [Business Development Company](/kbdc-stock/) is a federally chartered investment company regulated under the Investment Company Act of 1940. The SEC oversees BDCs to ensure they invest in qualifying portfolio companies, maintain adequate capital, and disclose holdings and performance to shareholders. In return, BDCs receive a crucial tax break: if they distribute at least 90% of taxable income to shareholders as dividends, the BDC itself pays no corporate income tax. This pass-through structure makes BDCs tax-efficient vehicles for investors seeking yield.
+A [Business Development Company](/kbdc-stock/) is a federally chartered investment company regulated under the [Investment Company Act of 1940](/investment-company-act-of-1940/). The SEC oversees BDCs to ensure they invest in qualifying portfolio companies, maintain adequate capital, and disclose holdings and performance to shareholders. In return, BDCs receive a crucial tax break: if they distribute at least 90% of taxable income to shareholders as dividends, the BDC itself pays no [corporate income tax](/corporate-income-tax/). This pass-through structure makes BDCs tax-efficient vehicles for investors seeking yield.
 
-The regulatory framework also imposes requirements. A BDC must invest at least 70% of its assets in "qualifying investments"—typically debt or equity in small-to-mid-market private companies. This constraint forces focus; a BDC cannot act as a generalist hedge fund or diversify into public equities or commodities. Kayne Anderson must source and underwrite private company loans and equity investments, a skilled-labor-intensive business.
+The regulatory framework also imposes requirements. A BDC must invest at least 70% of its assets in "qualifying investments"—typically debt or equity in small-to-mid-market private companies. This constraint forces focus; a BDC cannot act as a generalist [hedge fund](/hedge-fund/) or diversify into public equities or commodities. Kayne Anderson must source and underwrite private company loans and equity investments, a skilled-labor-intensive business.
 
 ## How BDCs Earn Money
 
 Kayne Anderson generates income from two sources. First, interest on loans to portfolio companies. A mid-market company borrowing from a BDC typically pays 8% to 12% annual interest, higher than bank rates because the risk is higher and the lender has less liquidity. That spread between the cost of Kayne Anderson's capital (what it pays bondholders or shareholders for funding) and the interest it collects from borrowers is gross income.
 
-Second, equity appreciation. When Kayne Anderson invests alongside founders or other investors in a growth-stage company, it hopes the company appreciates over several years. An exit—sale to a larger firm, merger, or IPO—realizes that gain. Equity returns are irregular and lumpy; a few big winners offset many small winners and losers.
+Second, equity appreciation. When Kayne Anderson invests alongside founders or other investors in a growth-stage company, it hopes the company appreciates over several years. An exit—sale to a larger firm, [merger](/merger/), or IPO—realizes that gain. Equity returns are irregular and lumpy; a few big winners offset many small winners and losers.
 
 The dividend Kayne Anderson pays to shareholders comes primarily from interest income and is usually stable. Equity gains are volatile and often reinvested rather than distributed, but when realized, they can boost annual returns significantly.
 
@@ -33,11 +33,11 @@ The dividend Kayne Anderson pays to shareholders comes primarily from interest i
 
 Kayne Anderson's portfolio likely contains 30 to 50 different investments in private companies across industries: manufacturing, healthcare, business services, specialty retail, and others. Each portfolio company carries default risk—the loan could go bad, or the equity investment could lose value if the company underperforms.
 
-Kayne Anderson's credit-evaluation process determines the portfolio's health. The firm's investment team must assess borrower creditworthiness, industry headwinds, management quality, and exit scenarios. Successful underwriting means low default rates and equity stakes in strong performers. Poor underwriting means credit losses and illiquid equity stakes in struggling companies. The quality of Kayne Anderson's credit team is invisible to public investors but determinative of returns.
+Kayne Anderson's credit-evaluation process determines the portfolio's health. The firm's investment team must assess borrower creditworthiness, industry headwinds, management quality, and exit scenarios. Successful underwriting means low [default rates](/default-rate/) and equity stakes in strong performers. Poor underwriting means credit losses and illiquid equity stakes in struggling companies. The quality of Kayne Anderson's credit team is invisible to public investors but determinative of returns.
 
 ## Duration and Interest-Rate Risk
 
-BDCs face duration risk. When interest rates rise, the value of fixed-rate loans and bonds in the portfolio declines (because investors can now earn higher rates elsewhere). Conversely, a rising-rate environment makes new loans more valuable because they carry higher coupons. BDCs with older, lower-yielding portfolios are vulnerable in a rising-rate environment; newer loans issued at higher rates perform better.
+BDCs face duration risk. When [interest rates](/interest-rate/) rise, the value of fixed-rate loans and [bonds](/bond/) in the portfolio declines (because investors can now earn higher rates elsewhere). Conversely, a rising-rate environment makes new loans more valuable because they carry higher coupons. BDCs with older, lower-yielding portfolios are vulnerable in a rising-rate environment; newer loans issued at higher rates perform better.
 
 Kayne Anderson's performance depends partly on where we are in the interest-rate cycle. A period of falling rates generally hurts new loan origination (because borrowers can refinance at lower rates, or simply access cheaper bank financing) but helps existing loans in the portfolio hold their value. Rising rates help origination but hurt portfolio valuation.
 
@@ -61,7 +61,7 @@ Kayne Anderson's competitive advantage, if any, lies in a specialized focus or a
 
 ## Tax Considerations and Distributions
 
-The 90% distribution requirement makes BDC dividends attractive to taxable investors. However, the composition of distributions matters. Interest income is taxed as ordinary income at the highest tax rates. Long-term capital gains receive preferential treatment. Return of capital (when a BDC returns shareholders' original investment) is tax-free but reduces the shareholder's cost basis. Kayne Anderson's annual dividend statements will break down the components, and sophisticated investors model the tax impact.
+The 90% distribution requirement makes BDC dividends attractive to taxable investors. However, the composition of distributions matters. Interest income is taxed as ordinary income at the highest tax rates. Long-term capital gains receive preferential treatment. Return of capital (when a BDC returns shareholders' original investment) is tax-free but reduces the shareholder's [cost basis](/cost-basis/). Kayne Anderson's annual dividend statements will break down the components, and sophisticated investors model the tax impact.
 
 ## Market Conditions and Exit Environment
 

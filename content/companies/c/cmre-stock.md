@@ -19,7 +19,7 @@ keywords: [shipping, maritime, vessels, container ships, dry bulk, maritime econ
 
 ## What Costamare owns and operates
 
-Costamare is a ship-owner. It does not manufacture goods, does not sell products, does not lease commercial real estate. It buys large oceangoing vessels—container ships that carry standardized metal boxes and bulk carriers that haul commodities like coal, grain, or iron ore—and hires them out to shipping lines and charterers. A typical customer is a global shipper like Maersk or MSC that needs spot capacity (one voyage) or a term contract (months or years). Costamare provides the vessel, the crew, and the operational know-how; the customer provides the cargo and the route.
+Costamare is a ship-owner. It does not manufacture goods, does not sell products, does not lease [commercial real estate](/commercial-real-estate/). It buys large oceangoing vessels—container ships that carry standardized metal boxes and bulk carriers that haul commodities like coal, grain, or [iron ore](/iron-ore/)—and hires them out to shipping lines and charterers. A typical customer is a global shipper like Maersk or MSC that needs spot capacity (one voyage) or a term contract (months or years). Costamare provides the vessel, the crew, and the operational know-how; the customer provides the cargo and the route.
 
 ## The unit economics of a ship
 
@@ -27,11 +27,11 @@ A container ship or bulk carrier is a capital asset. New ships cost tens of mill
 
 ## The cyclical trap
 
-Shipping is intensely cyclical. When global trade surges—in booming years or after supply disruptions—freight rates spike. Shipping companies that own vessels see margins widen; they may even expand the fleet or refinance at better terms. But when trade slows, rates collapse. A ship that earned $30,000 per day in boom times might earn $12,000 in a downturn. If debt is fixed (as it usually is), the margin evaporates. Operators face a choice: cut costs aggressively, sell off vessels, or wait for the cycle to turn. Costamare and its peers live with this volatility. A shareholder buying Costamare at peak cycle pays high multiples for earnings that evaporate; one buying in trough benefits from margin expansion and potential capital gain. Timing is crucial.
+Shipping is intensely cyclical. When global trade surges—in booming years or after supply disruptions—freight rates spike. Shipping companies that own vessels see margins widen; they may even expand the fleet or refinance at better terms. But when trade slows, rates collapse. A ship that earned $30,000 per day in boom times might earn $12,000 in a downturn. If debt is fixed (as it usually is), the margin evaporates. Operators face a choice: cut costs aggressively, sell off vessels, or wait for the cycle to turn. Costamare and its peers live with this volatility. A shareholder buying Costamare at [peak cycle](/peak-cycle/) pays high multiples for earnings that evaporate; one buying in trough benefits from margin expansion and potential capital gain. Timing is crucial.
 
 ## Asset leverage and debt
 
-Costamare funds ship purchases with debt. A new $50 million ship might be financed with $40 million in debt and $10 million in equity. The company uses operating cash flow to service that debt. In a strong cycle, that is fine. In a weak cycle, when rates fall, debt service becomes onerous, and refinancing risk rises. The company's [balance sheet](/balance-sheet/)—the ratio of debt to assets, the maturity profile of debt, and the coverage ratio (can cash flow cover interest?)—is critical to understanding the downside risk. Read the [10-K](/10-k/) for debt terms and covenant triggers. Some shipping companies have failed because they overleveraged at peak rates and could not refinance when rates fell.
+Costamare funds ship purchases with debt. A new $50 million ship might be financed with $40 million in debt and $10 million in equity. The company uses operating cash flow to service that debt. In a strong cycle, that is fine. In a weak cycle, when rates fall, debt service becomes onerous, and [refinancing risk](/refinancing-risk/) rises. The company's [balance sheet](/balance-sheet/)—the ratio of debt to assets, the maturity profile of debt, and the coverage ratio (can cash flow cover interest?)—is critical to understanding the downside risk. Read the [10-K](/10-k/) for debt terms and covenant triggers. Some shipping companies have failed because they overleveraged at peak rates and could not refinance when rates fell.
 
 ## Regulatory overhead and environmental shift
 

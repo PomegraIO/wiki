@@ -4,7 +4,7 @@ description: "Community bank holding company; unit economics driven by net inter
 keywords: ["community bank", "net interest margin", "lending", "deposit funding", "credit risk"]
 ---
 
-*A community bank holding company, **FIDELITY D & D BANCORP INC (FDBC)** (CIK [1098151](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098151)) earns money by borrowing funds from depositors (or other sources) at a low cost and lending those funds to borrowers at a higher rate. The unit economics of a bank are governed by the spread between the average interest rate paid on deposits and the average interest rate charged on loans, offset by credit losses when borrowers default, and divided by the expense ratio—the percentage of assets consumed by salaries, rent, technology, and overhead.*
+*A community bank holding company, **FIDELITY D & D BANCORP INC (FDBC)** (CIK [1098151](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001098151)) earns money by borrowing funds from depositors (or other sources) at a low cost and lending those funds to borrowers at a higher rate. The unit economics of a bank are governed by the spread between the average interest rate paid on deposits and the average interest rate charged on loans, offset by credit losses when borrowers default, and divided by the [expense ratio](/expense-ratio/)—the percentage of assets consumed by salaries, rent, technology, and overhead.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FDBC</td></tr>
@@ -17,7 +17,7 @@ keywords: ["community bank", "net interest margin", "lending", "deposit funding"
 
 ## Net Interest Margin and the Core Transaction
 
-A community bank accepts deposits from customers and businesses, paying interest on those deposits at rates competitive with market alternatives (savings accounts, money markets, CDs). The bank then lends those deposits (and borrowed funds) to borrowers at higher interest rates. The difference between the rate paid on deposits and the rate earned on loans is the net interest margin (NIM), expressed as a percentage of earning assets.
+A community bank accepts deposits from customers and businesses, paying interest on those deposits at rates competitive with market alternatives (savings accounts, money markets, CDs). The bank then lends those deposits (and borrowed funds) to borrowers at higher [interest rates](/interest-rate/). The difference between the rate paid on deposits and the rate earned on loans is the net interest margin (NIM), expressed as a percentage of earning assets.
 
 For example, if FDBC's average deposit cost is 0.50% per annum (paying 0.5% interest on accounts) and its average loan portfolio yields 4.50%, the spread is 4.0 percentage points. Applied to a loan portfolio and earning assets of $500 million, a 4% NIM generates $20 million in annual net interest income—the fundamental gross profit of the bank before operating expenses and credit losses.
 
@@ -33,7 +33,7 @@ The provision rate varies with the bank's composition of loans. A bank heavily c
 
 A crucial variable in NIM sustainability is the bank's funding mix: what percentage of the loan portfolio is funded by customer deposits versus borrowed from markets (such as Federal Home Loan Bank advances or wholesale borrowing). Deposit funding is sticky (customers do not easily move accounts) and historically cheaper than wholesale funding. A bank that is highly dependent on customer deposits and has low wholesale funding costs has a structural advantage in net interest margin.
 
-When market interest rates change, deposit rates do not rise one-to-one with market rates—a phenomenon known as deposit beta. A customer's savings account may pay 0.25% when the Federal Funds rate is 3%, but when the rate rises to 5%, the bank may only raise the deposit rate to 1.50%, capturing part of the spread. A low deposit beta means wider NIMs as rates rise; a high deposit beta means NIMs narrow faster.
+When market interest rates change, deposit rates do not rise one-to-one with market rates—a phenomenon known as deposit beta. A customer's savings account may pay 0.25% when the [Federal Funds rate](/federal-funds-rate/) is 3%, but when the rate rises to 5%, the bank may only raise the deposit rate to 1.50%, capturing part of the spread. A low deposit beta means wider NIMs as rates rise; a high deposit beta means NIMs narrow faster.
 
 ## Expense Ratio and Operating Leverage
 
@@ -43,19 +43,19 @@ The leverage effect is powerful: if a community bank grows assets from $500 mill
 
 ## Loan Portfolio Composition and Yield
 
-The composition of the loan portfolio affects the average loan yield. Mortgages typically yield 4–5% and are lower-risk. Commercial real estate loans yield 5–6%. Commercial and industrial (C&I) loans to small businesses yield 6–8% and carry higher credit risk. A community bank that focuses on high-yielding C&I lending generates higher net interest income per dollar of assets but assumes more credit risk. A bank focused on mortgages has lower risk but lower yields.
+The composition of the loan portfolio affects the average loan yield. Mortgages typically yield 4–5% and are lower-risk. [Commercial real estate](/commercial-real-estate/) loans yield 5–6%. Commercial and industrial (C&I) loans to small businesses yield 6–8% and carry higher [credit risk](/credit-risk/). A community bank that focuses on high-yielding C&I lending generates higher net interest income per dollar of assets but assumes more credit risk. A bank focused on mortgages has lower risk but lower yields.
 
 FDBC's strategic focus on certain types of lending shapes its risk-return profile and influences whether it will be more profitable (or more risky) than peer community banks.
 
 ## Scale Inefficiency and Community Bank Reality
 
-Community banks are typically smaller than regional or national banks, which means they have less leverage on their fixed costs and less pricing power. A branch in a small town cannot easily merge with another branch to reduce overhead. Compliance costs (anti-money laundering, consumer protection) do not scale down for small banks—they must be borne regardless of asset size. This creates a structural disadvantage for FDBC relative to larger competitors.
+Community banks are typically smaller than regional or national banks, which means they have less leverage on their fixed costs and less pricing power. A branch in a small town cannot easily merge with another branch to reduce overhead. Compliance costs ([anti-money laundering](/anti-money-laundering/), consumer protection) do not scale down for small banks—they must be borne regardless of asset size. This creates a structural disadvantage for FDBC relative to larger competitors.
 
 However, community banks have a niche advantage in relationship banking: local decision-making, flexibility in underwriting small businesses, and personal customer relationships. These can generate higher yields or better credit quality in certain lending niches, offsetting the scale disadvantage.
 
 ## Capital Requirements and Return on Equity
 
-Banks are required by regulators to maintain capital ratios (capital as a percentage of risk-weighted assets). This regulatory capital cannot be deployed as loans and does not earn the bank's average return on assets; it serves as a loss buffer. A bank that is required to hold 10% capital on $500 million in assets must hold $50 million in non-deployed capital, which affects return on equity. FDBC's ability to generate returns on equity depends on how efficiently it deploys its available capital given these regulatory constraints.
+Banks are required by regulators to maintain capital ratios (capital as a percentage of risk-weighted assets). This regulatory capital cannot be deployed as loans and does not earn the bank's average [return on assets](/return-on-assets/); it serves as a loss buffer. A bank that is required to hold 10% capital on $500 million in assets must hold $50 million in non-deployed capital, which affects return on equity. FDBC's ability to generate returns on equity depends on how efficiently it deploys its available capital given these regulatory constraints.
 
 <div class="wiki-seealso">
 

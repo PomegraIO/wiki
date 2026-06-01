@@ -25,7 +25,7 @@ Artists and music creators develop operational dependencies on Destiny Media's p
 
 ## Relationships with Streaming Services and Radio
 
-Destiny Media's relationships with Spotify, Apple Music, SoundCloud, and other streaming platforms create a moat on the demand side. These platforms rely on digital distributors like Destiny Media to aggregate music from thousands of independent artists and smaller labels. Replacing Destiny Media requires finding an alternative aggregator or investing in direct relationships with thousands of individual artists—both options are costly and operationally burdensome for the streaming platform. This creates a semi-exclusive moat: streaming services are unlikely to replace Destiny Media unless a competitor offers significantly superior service or economics.
+Destiny Media's relationships with Spotify, [Apple](/aapl-stock/) Music, SoundCloud, and other streaming platforms create a moat on the demand side. These platforms rely on digital distributors like Destiny Media to aggregate music from thousands of independent artists and smaller labels. Replacing Destiny Media requires finding an alternative aggregator or investing in direct relationships with thousands of individual artists—both options are costly and operationally burdensome for the streaming platform. This creates a semi-exclusive moat: streaming services are unlikely to replace Destiny Media unless a competitor offers significantly superior service or economics.
 
 ## Data and Promotional Intelligence
 
@@ -33,7 +33,7 @@ As Destiny Media processes millions of music releases and tracks performance acr
 
 ## Technology and Operational Efficiency
 
-Destiny Media's platform must efficiently handle distribution (ensuring music reaches all relevant services), accounting (tracking royalties and payments), and compliance (navigating different service requirements and regulatory obligations). Building these capabilities requires significant technology investment and operational expertise. A competitor must invest similarly to offer equivalent functionality. Destiny Media's moat is partly technological: the company's distribution algorithms, metadata management systems, and promotional tools are difficult for competitors to replicate quickly. However, this advantage is not insurmountable; technology can be licensed, acquired through merger, or developed independently by well-capitalized competitors.
+Destiny Media's platform must efficiently handle distribution (ensuring music reaches all relevant services), accounting (tracking royalties and payments), and compliance (navigating different service requirements and regulatory obligations). Building these capabilities requires significant technology investment and operational expertise. A competitor must invest similarly to offer equivalent functionality. Destiny Media's moat is partly technological: the company's distribution algorithms, metadata management systems, and promotional tools are difficult for competitors to replicate quickly. However, this advantage is not insurmountable; technology can be licensed, acquired through [merger](/merger/), or developed independently by well-capitalized competitors.
 
 ## Scale and Cost Structure
 
@@ -49,7 +49,7 @@ Destiny Media's value extends beyond basic distribution; the platform offers pro
 
 ## Regulatory and Licensing Risks
 
-The music industry involves complex licensing, copyright, and royalty management. Destiny Media must ensure compliance with multiple distribution partners' requirements and various territorial music licensing rules. A competitor entering the market faces similar regulatory complexity, which creates a modest moat. However, the regulatory barriers are not proprietary to Destiny Media; any competent operator can navigate them given sufficient resources and time.
+The music industry involves complex licensing, copyright, and [royalty management](/rmco-stock/). Destiny Media must ensure compliance with multiple distribution partners' requirements and various territorial music licensing rules. A competitor entering the market faces similar regulatory complexity, which creates a modest moat. However, the regulatory barriers are not proprietary to Destiny Media; any competent operator can navigate them given sufficient resources and time.
 
 ## Vulnerability to Consolidation
 

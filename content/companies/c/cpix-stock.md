@@ -43,7 +43,7 @@ The reimbursement environment for specialty drugs is tightening. Payers want out
 
 CPIX likely operates with thin [free-cash-flow](/free-cash-flow/) margins given the capital demands of drug development, regulatory compliance, and sales infrastructure. The company must invest in sales representatives, clinical training, and real-world evidence generation to support its products, and these costs do not scale linearly with sales. As a result, achieving [operating-margin](/operating-margin/) improvement requires either revenue growth, expense discipline, or both—and revenue growth in specialty pharma is never guaranteed.
 
-The company's balance sheet is critical. If CPIX carries debt to fund product acquisitions or operations, rising interest rates or shrinking profitability can stress the balance sheet and limit strategic flexibility. Conversely, if the company relies on equity raises, existing shareholders face dilution each time CPIX needs capital.
+The company's [balance sheet](/balance-sheet/) is critical. If CPIX carries debt to fund product [acquisitions](/acquisition/) or operations, rising [interest rates](/interest-rate/) or shrinking profitability can stress the balance sheet and limit strategic flexibility. Conversely, if the company relies on equity raises, existing shareholders face dilution each time CPIX needs capital.
 
 ## Competitive Positioning in Acquisition-Driven Growth
 
@@ -53,7 +53,7 @@ This positioning is defensible but not durable. The moment a larger player decid
 
 ## Understanding CPIX's Competitive Position
 
-To assess CPIX as an investment or analytical subject, review the company's [10-K](/10-k/) (SEC CIK 1087294) with focus on revenue concentration by product and by customer. What percentage of revenue comes from the largest product? What percentage comes from the largest hospital network or customer? These figures reveal portfolio concentration risk. Cross-check product approval dates and patent expiration dates (available via FDA Orange Book searches) to understand which products are in growth versus decline phases. Compare CPIX's [gross-profit-margin](/gross-profit-margin/) to larger specialty pharma peers—lower margins indicate weaker pricing power or higher cost of goods. Finally, track the company's pipeline of new drugs in development and acquisition announcements; a company with zero new products in development faces a sunset scenario.
+To assess CPIX as an investment or analytical subject, review the company's [10-K](/10-k/) (SEC CIK 1087294) with focus on revenue concentration by product and by customer. What percentage of revenue comes from the largest product? What percentage comes from the largest hospital network or customer? These figures reveal portfolio [concentration risk](/concentration-risk/). Cross-check product approval dates and patent [expiration dates](/expiration-contracts/) (available via FDA Orange Book searches) to understand which products are in growth versus decline phases. Compare CPIX's [gross-profit-margin](/gross-profit-margin/) to larger specialty pharma peers—lower margins indicate weaker pricing power or higher cost of goods. Finally, track the company's pipeline of new drugs in development and acquisition announcements; a company with zero new products in development faces a sunset scenario.
 
 <div class="wiki-seealso">
 ### Closely related

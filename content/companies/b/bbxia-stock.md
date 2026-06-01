@@ -41,15 +41,15 @@ Real estate and insurance subsidiaries—the core of BBX's portfolio—are thems
 
 ## Market Position and Peer Context
 
-BBX is not the only diversified holding company trading in the U.S. public markets. Others include diversified financials and multi-sector conglomerates. However, BBX's specific mix—real estate plus insurance plus selective investments—gives it a different risk profile and return pattern than, say, a manufacturing conglomerate or a pure finance play. The company's performance is partly driven by broad financial-sector trends (interest rates, insurance underwriting cycles, real estate valuations) and partly by idiosyncratic management decisions.
+BBX is not the only diversified holding company trading in the U.S. public markets. Others include diversified financials and multi-sector conglomerates. However, BBX's specific mix—real estate plus insurance plus selective investments—gives it a different risk profile and return pattern than, say, a manufacturing conglomerate or a pure finance play. The company's performance is partly driven by broad financial-sector trends ([interest rates](/interest-rate/), insurance underwriting cycles, real estate valuations) and partly by idiosyncratic management decisions.
 
 Unlike [index funds](/index-fund/) or [ETFs](/etf/) that passively track a market, BBX requires active analysis. You are buying both the underlying assets and the management team's ability to allocate capital wisely. The company's [earnings per share](/earnings-per-share/) can be volatile, since it reflects the profitability of multiple subsidiaries and any one-off gains or losses on asset sales.
 
 ## Risk Considerations
 
-Holding companies carry structural risks. If the parent company needs cash urgently, it may sell subsidiary assets at unfavorable times. If a major subsidiary underperforms, the entire company's valuation can suffer. Regulatory changes in insurance or real estate can cascade through the portfolio. Additionally, holding companies can become takeover targets if the stock trades cheaply relative to intrinsic value—management faces pressure to either improve capital allocation or sell the company piecemeal.
+Holding companies carry structural risks. If the parent company needs cash urgently, it may sell subsidiary assets at unfavorable times. If a major subsidiary underperforms, the entire company's valuation can suffer. Regulatory changes in insurance or real estate can cascade through the portfolio. Additionally, holding companies can become takeover targets if the stock trades cheaply relative to [intrinsic value](/intrinsic-value/)—management faces pressure to either improve capital allocation or sell the company piecemeal.
 
-The company's [corporate bonds](/corporate-bond/) (if any are outstanding) and credit ratings are also relevant. A holding company under financial stress may find it expensive to refinance debt, which constrains flexibility. BBX's debt load and maturity schedule are disclosed in the 10-K and quarterly filings.
+The company's [corporate bonds](/corporate-bond/) (if any are outstanding) and [credit ratings](/credit-rating/) are also relevant. A holding company under financial stress may find it expensive to refinance debt, which constrains flexibility. BBX's debt load and maturity schedule are disclosed in the 10-K and quarterly filings.
 
 ---
 

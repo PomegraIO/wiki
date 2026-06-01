@@ -17,7 +17,7 @@ keywords: ["software", "unified-communications", "voip", "cloud", "collaboration
 
 ## Fragmentation of the unified-communications market
 
-8X8 entered the market as a VoIP pioneer, offering voice calls over the internet when that was novel and proprietary. That moat disappeared years ago. Today, the unified-communications market fragments across multiple modalities—voice, video, messaging, screen-sharing, calendar integration—and the winner in each modality differs. Zoom dominates video conferencing. Microsoft Teams dominates within Microsoft-centric enterprises (Exchange, Office, Azure). Google Meet dominates within Google Workspace users. Slack dominates chat. 8X8, by contrast, attempts to bundle all of these into a single platform, which sounds good in theory but creates a disadvantage: it is second-best in every category and must compete on price and integration rather than category leadership.
+8X8 entered the market as a VoIP pioneer, offering voice calls over the internet when that was novel and proprietary. That moat disappeared years ago. Today, the unified-communications market fragments across multiple modalities—voice, video, messaging, screen-sharing, calendar integration—and the winner in each modality differs. Zoom dominates video conferencing. [Microsoft](/msft-stock/) Teams dominates within Microsoft-centric enterprises (Exchange, Office, Azure). Google Meet dominates within Google Workspace users. Slack dominates chat. 8X8, by contrast, attempts to bundle all of these into a single platform, which sounds good in theory but creates a disadvantage: it is second-best in every category and must compete on price and integration rather than category leadership.
 
 ## Switching cost heterogeneity
 
@@ -39,7 +39,7 @@ Unlike EGAIN (which can claim contact-center software expertise) or ENIGMATIG (w
 
 ## Integrations and ecosystem lock-in
 
-8X8 could theoretically build a moat through deep integration with business-critical applications—Salesforce, ServiceNow, Workday, HR systems. If 8X8's phone system integrates so tightly with a company's CRM that removing it requires rearchitecting the CRM integration, that is a moat. However, Zoom, Teams, and others pursue the same strategy. Whoever builds the tightest integrations first and most broadly wins that game. 8X8's ability to win that race depends on API accessibility, engineering resources, and product-management focus—not on anything that protects 8X8 asymmetrically.
+8X8 could theoretically build a moat through deep integration with business-critical applications—[Salesforce](/crm-stock/), [ServiceNow](/now-stock/), [Workday](/wday-stock/), HR systems. If 8X8's phone system integrates so tightly with a company's CRM that removing it requires rearchitecting the CRM integration, that is a moat. However, Zoom, Teams, and others pursue the same strategy. Whoever builds the tightest integrations first and most broadly wins that game. 8X8's ability to win that race depends on API accessibility, engineering resources, and product-management focus—not on anything that protects 8X8 asymmetrically.
 
 ## Customer concentration and churn risk
 

@@ -27,7 +27,7 @@ The story of Hancock Whitney traces back more than a century to two separate ban
 
 ## The lineage: Whitney National Bank and Hancock Bank
 
-The deeper history of Hancock Whitney really begins with two institutions. Whitney National Bank was founded in 1883 in New Orleans, where it became a pillar of Louisiana banking for more than a century. It grew into the largest bank headquartered in Louisiana and carried that identity through generations of prosperity, economic disruption, and the particular upheavals of the Gulf region — the oil boom, the oil bust, and the consequences of Hurricane Katrina.
+The deeper history of Hancock Whitney really begins with two institutions. Whitney [National Bank](/nbhc-stock/) was founded in 1883 in New Orleans, where it became a pillar of Louisiana banking for more than a century. It grew into the largest bank headquartered in Louisiana and carried that identity through generations of prosperity, economic disruption, and the particular upheavals of the Gulf region — the oil boom, the oil bust, and the consequences of Hurricane Katrina.
 
 Hancock Bank, meanwhile, traces its roots to 1899 and Mississippi, where it became the dominant bank in that market and adjacent areas. For decades the two banks were fierce competitors, each dominant in their respective states, each rooted in the regional culture and business networks of their territory. Hancock Bank eventually grew beyond Mississippi into Alabama and Florida.
 

@@ -41,7 +41,7 @@ Municipalities impose impact fees on developers to fund school capacity, road im
 
 ## Regulatory Predictability and Project Risk
 
-Foxx's business model is hostage to regulatory timelines and discretionary approvals. A project that Foxx expects to deliver in three years might face zoning delays, environmental litigation, and permit review cycles that stretch timelines to five or six years. This regulatory delay is not cost-free: construction costs escalate, carrying costs accumulate, and buyer demand may shift. Foxx cannot accelerate approval by spending more money; it must navigate administrative and political processes. The regulatory framework also creates concentration risk: projects in slow-approval jurisdictions or with complex environmental profiles become marginal. Foxx's strategic focus on jurisdictions with streamlined approval processes and developer-friendly politics is a rational response to regulatory risk. The company's earnings volatility partly reflects not just market demand but regulatory timing—whether major projects clear entitlements on schedule.
+Foxx's business model is hostage to regulatory timelines and discretionary approvals. A project that Foxx expects to deliver in three years might face zoning delays, environmental litigation, and permit review cycles that stretch timelines to five or six years. This regulatory delay is not cost-free: construction costs escalate, carrying costs accumulate, and buyer demand may shift. Foxx cannot accelerate approval by spending more money; it must navigate administrative and political processes. The regulatory framework also creates [concentration risk](/concentration-risk/): projects in slow-approval jurisdictions or with complex environmental profiles become marginal. Foxx's strategic focus on jurisdictions with streamlined approval processes and developer-friendly politics is a rational response to regulatory risk. The company's earnings volatility partly reflects not just market demand but regulatory timing—whether major projects clear entitlements on schedule.
 
 <div class="wiki-seealso">
 ### Closely related
@@ -49,6 +49,6 @@ Foxx's business model is hostage to regulatory timelines and discretionary appro
 - [/balance-sheet/] — Reflects capitalization needs to carry projects through approval cycles
 
 ### Wider context
-- [/nasdaq/] — Market listing for FOXX
+- [/[nasdaq](/nasdaq/)/] — Market listing for FOXX
 - [/public-company/] — Publicly traded real-estate developer
 </div>

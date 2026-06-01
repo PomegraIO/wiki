@@ -17,7 +17,7 @@ keywords: ["reinsurance", "property and casualty", "catastrophe risk", "insuranc
 
 ## Secular Growth in Insurable Values
 
-Global insurable values—the total value of property, infrastructure, and other exposures that can be insured—grow steadily with economic development, urbanization, and the creation of new fixed assets. As developing nations build cities, highways, power plants, and industrial facilities, the amount of property exposed to loss increases. This expansion is secular: independent of economic cycles, it reflects long-term demographic and infrastructure trends. Reinsurers like Maiden Holdings benefit from this growth: more insurable values mean more premium volume flows into the insurance and reinsurance markets, regardless of near-term GDP growth or recession.
+Global insurable values—the total value of property, infrastructure, and other exposures that can be insured—grow steadily with economic development, urbanization, and the creation of new fixed assets. As developing nations build cities, highways, power plants, and industrial facilities, the amount of property exposed to loss increases. This expansion is secular: independent of economic cycles, it reflects long-term demographic and infrastructure trends. Reinsurers like Maiden Holdings benefit from this growth: more insurable values mean more premium volume flows into the insurance and reinsurance markets, regardless of near-term GDP growth or [recession](/recession/).
 
 ## The Catastrophe Cycle: Volatile But Secular
 
@@ -33,7 +33,7 @@ Reinsurers must maintain substantial capital reserves to absorb large claims. A 
 
 ## Investment Income and Duration Risk
 
-Reinsurers typically hold large investment portfolios, deploying premiums and capital into bonds and stocks. Investment income is a material component of earnings. In a low-interest-rate environment, bond yields are suppressed and investment income is meager; in a rising-rate environment, yields are higher. This creates a secondary cycle: when rate increases cause catastrophe losses (e.g., hurricane seasons exacerbated by warming oceans), they also raise bond yields, improving investment income. The offset is imperfect, but the direction matters. Maiden Holdings' earnings depend on both underwriting results and investment returns, both of which are cyclical but on different timescales.
+Reinsurers typically hold large investment portfolios, deploying premiums and capital into [bonds](/bond/) and stocks. Investment income is a material component of earnings. In a low-interest-rate environment, bond yields are suppressed and investment income is meager; in a rising-rate environment, yields are higher. This creates a secondary cycle: when rate increases cause catastrophe losses (e.g., hurricane seasons exacerbated by warming oceans), they also raise bond yields, improving investment income. The offset is imperfect, but the direction matters. Maiden Holdings' earnings depend on both underwriting results and investment returns, both of which are cyclical but on different timescales.
 
 ## Reinsurance Pricing Power and Cycles
 
@@ -41,7 +41,7 @@ In the aftermath of major catastrophes, reinsurance rates spike sharply, sometim
 
 ## Competitive Positioning in a Consolidating Market
 
-The reinsurance market has consolidated over decades; larger players have scale and diversification advantages. Maiden Holdings, as a smaller reinsurer, must compete on specialty focus, underwriting expertise, or niche market access. Its ability to sustain profitability depends partly on which catastrophes occur and when. A company focused on US hurricane exposure faces a different loss distribution than one focused on Japanese earthquake risk or European flood risk. Diversification across multiple perils and geographies reduces but does not eliminate catastrophe risk.
+The reinsurance market has consolidated over decades; larger players have scale and [diversification](/diversification/) advantages. Maiden Holdings, as a smaller reinsurer, must compete on specialty focus, underwriting expertise, or niche market access. Its ability to sustain profitability depends partly on which catastrophes occur and when. A company focused on US hurricane exposure faces a different loss distribution than one focused on Japanese earthquake risk or European flood risk. Diversification across multiple perils and geographies reduces but does not eliminate catastrophe risk.
 
 ## Capital Returns Tied to Profitability Cycles
 

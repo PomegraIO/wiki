@@ -19,7 +19,7 @@ keywords: ["mining", "exploration", "commodity risk", "project development", "ju
 
 Enduro Metals extracts or seeks to extract minerals whose prices are set globally and are volatile. Copper, zinc, nickel, and precious metals all experience multi-year cycles driven by global supply-demand imbalances, macroeconomic cycles, and currency moves. A junior miner's project—whether under development or producing—is economically viable only at certain commodity price thresholds. If prices fall below the cash cost of production plus sustaining capex plus overhead, the operation loses money and may be suspended.
 
-Enduro does not control commodity prices. A project that was profitable when copper was trading at $4 per pound becomes marginal if it falls to $3.50. If the firm has hedged (sold forward contracts to lock in prices), it foregoes upside in a rally but provides downside protection. If unhedged, a 20% price crash can turn a marginal operation into a loss-making sink of cash. Most junior miners are unhedged, betting on rising prices or betting that they can exit before prices fall too far.
+Enduro does not control commodity prices. A project that was profitable when copper was trading at $4 per pound becomes marginal if it falls to $3.50. If the firm has hedged (sold [forward contracts](/forward-contract/) to lock in prices), it foregoes upside in a rally but provides downside protection. If unhedged, a 20% price crash can turn a marginal operation into a loss-making sink of cash. Most junior miners are unhedged, betting on rising prices or betting that they can exit before prices fall too far.
 
 ## Project Development Risk and Timeline Uncertainty
 
@@ -31,11 +31,11 @@ Enduro's ability to move a project from exploration to development depends on fi
 
 A mine requires substantial upfront capital to build. A small or mid-scale operation might require hundreds of millions of dollars. Enduro, as a junior, cannot easily raise this capital from [equity](/common-stock/) investors tired of funding exploration. Debt is expensive (junior mining debt carries high yields and strict covenants). Strategic partnerships or joint ventures allow sharing risk but dilute Enduro's ownership.
 
-If Enduro discovers a world-class deposit, large mining majors (Barrick, Rio Tinto, Newmont) may acquire it or partner with Enduro to develop it, providing a liquidity event for shareholders. But this is a lottery outcome; most junior miners never reach this stage. The more likely scenarios are dilutive equity raises, project delays, or failure.
+If Enduro discovers a world-class deposit, large mining majors (Barrick, [Rio Tinto](/rtntf-stock/), Newmont) may acquire it or partner with Enduro to develop it, providing a liquidity event for shareholders. But this is a lottery outcome; most junior miners never reach this stage. The more likely scenarios are dilutive equity raises, project delays, or failure.
 
 ## Concentrated Geographic and Commodity Risk
 
-Enduro's exposure is likely concentrated in one or a few projects in specific countries. If the company's flagship project is in Peru and Peru changes mining laws or political instability rises, Enduro faces sudden regulatory or security risk. Mining companies operate in countries with extractive industries, which often have weaker institutional quality than advanced economies. Currency risk is also latent: if Enduro is spending US dollars on development but commodity prices are denominated in USD, there is a hedge, but operational costs in local currencies create exposure to exchange moves.
+Enduro's exposure is likely concentrated in one or a few projects in specific countries. If the company's flagship project is in Peru and Peru changes mining laws or political instability rises, Enduro faces sudden regulatory or security risk. Mining companies operate in countries with extractive industries, which often have weaker institutional quality than advanced economies. [Currency risk](/currency-risk/) is also latent: if Enduro is spending [US dollars](/us-dollar/) on development but commodity prices are denominated in USD, there is a hedge, but operational costs in local currencies create exposure to exchange moves.
 
 Commodity concentration is another risk. If Enduro is focused on copper, it is exposed to copper's cycle. If it pivots to rare earths or nickel to chase fashion, it enters an unfamiliar market with different supply-demand dynamics and competitive landscape.
 

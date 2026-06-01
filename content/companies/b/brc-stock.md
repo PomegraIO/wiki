@@ -33,7 +33,7 @@ Brady's 10-K filings note that its core markets are underpinned by regulatory ma
 
 ## Customer Concentration and Market Stickiness
 
-Brady's 10-K disclosures note the top customers but emphasize that no single customer represents a dominant share of revenue, reducing concentration risk. Filings suggest that Brady's diversified customer base across industries and geographies protects against downturns in any single sector. However, the company notes that its customers are themselves exposed to economic cycles—manufacturing downturns reduce plant activity and hence demand for consumables. The regulatory filings indicate that Brady's recurring consumables business provides some cushion against cyclical weakness, as customers continue to purchase labels and signs even during production slowdowns.
+Brady's 10-K disclosures note the top customers but emphasize that no single customer represents a dominant share of revenue, reducing [concentration risk](/concentration-risk/). Filings suggest that Brady's diversified customer base across industries and geographies protects against downturns in any single sector. However, the company notes that its customers are themselves exposed to economic cycles—manufacturing downturns reduce plant activity and hence demand for consumables. The regulatory filings indicate that Brady's recurring consumables business provides some cushion against cyclical weakness, as customers continue to purchase labels and signs even during production slowdowns.
 
 ## Margins and Manufacturing Efficiency
 
@@ -41,7 +41,7 @@ The company's 10-K details gross margins by segment and notes factors affecting 
 
 ## How to Research Brady Through Its Filings
 
-An analyst should first understand Brady's segment mix—which product lines are growing, which are mature—by reviewing the 10-K's segment reporting. Second, examine the consumables/recurring-revenue percentage, as this indicates earnings stability and customer stickiness. Third, trace pricing trends and volume trends separately, as this reveals whether growth is driven by price increases (less sustainable) or unit volume (more durable). Fourth, assess manufacturing capacity utilization and capital expenditure; Brady's ability to expand capacity efficiently signals confidence in market demand. Finally, review the company's disclosures on new regulations or compliance standards that could drive future demand—the 10-K often mentions upcoming regulatory changes that may benefit Brady's addressable market.
+An analyst should first understand Brady's segment mix—which product lines are growing, which are mature—by reviewing the 10-K's [segment reporting](/segment-reporting/). Second, examine the consumables/recurring-revenue percentage, as this indicates earnings stability and customer stickiness. Third, trace pricing trends and volume trends separately, as this reveals whether growth is driven by price increases (less sustainable) or unit volume (more durable). Fourth, assess manufacturing capacity utilization and capital expenditure; Brady's ability to expand capacity efficiently signals confidence in market demand. Finally, review the company's disclosures on new regulations or compliance standards that could drive future demand—the 10-K often mentions upcoming regulatory changes that may benefit Brady's addressable market.
 
 ---
 

@@ -17,11 +17,11 @@ keywords: ["royalty", "mining", "gold", "metals", "cash flow", "commodities"]
 
 ## The Financing Model: Royalty as Alternative to Debt
 
-Mining development requires enormous upfront capital. A company discovering a gold deposit must spend hundreds of millions (or billions) on permitting, construction, equipment, and initial operations before producing a single ounce. Traditional financing options—bank loans, bonds, or raising equity—all have drawbacks. Banks may demand restrictive covenants; bonds dilute [free cash flow](/free-cash-flow/); equity raises dilute existing shareholders' ownership.
+Mining development requires enormous upfront capital. A company discovering a gold deposit must spend hundreds of millions (or billions) on permitting, construction, equipment, and initial operations before producing a single ounce. Traditional financing options—bank loans, [bonds](/bond/), or raising equity—all have drawbacks. Banks may demand restrictive covenants; bonds dilute [free cash flow](/free-cash-flow/); equity raises dilute existing shareholders' ownership.
 
 A royalty arrangement is a third option. Elemental approaches a mining company and offers to provide capital in exchange for a net smelter return (NSR) royalty—typically 1–3% of the mine's revenue, payable monthly or quarterly. The mining company receives the capital it needs without increasing debt or equity; Elemental receives a contractual claim on revenues for the life of the mine (often 20–50 years, or until the deposit is exhausted).
 
-This structure transfers risk asymmetrically. If the mine succeeds and produces abundantly, Elemental captures proportional revenue upside. If the mine fails or produces less than expected, Elemental loses its investment but has no further claim. The mining company, once the royalty is in place, bears all operational risk and reward.
+This structure transfers risk asymmetrically. If the mine succeeds and produces abundantly, Elemental captures proportional revenue upside. If the mine fails or produces less than expected, Elemental loses its investment but has no further claim. The mining company, once the royalty is in place, bears all [operational risk](/operational-risk/) and reward.
 
 ## Upstream: Mineral Production and Grade Variation
 
@@ -35,13 +35,13 @@ The mining company's capital expenditure and operating efficiency directly deter
 
 Elemental's revenues are denominated in commodity prices. Gold production in ounces is fixed (or near-fixed) by geology and mining pace; revenue depends on the dollar price of gold. If gold prices spike from $1,500 per ounce to $2,000, Elemental's revenue rises proportionally. If gold prices crash to $1,000, revenue falls.
 
-This exposure is Elemental's core risk and opportunity. Unlike a diversified commodity trader that can hedge or arbitrage price swings, Elemental is a passive receiver of whatever the market pays for the metal its royalty-paying mines produce. Some royalty companies hedge by selling forward contracts (locking in future prices), reducing upside but also downside. Elemental's approach (hedging or passive exposure) shapes its downside risk and return profile.
+This exposure is Elemental's core risk and opportunity. Unlike a diversified commodity trader that can hedge or arbitrage price swings, Elemental is a passive receiver of whatever the market pays for the metal its royalty-paying mines produce. Some royalty companies hedge by selling [forward contracts](/forward-contract/) (locking in future prices), reducing upside but also downside. Elemental's approach (hedging or passive exposure) shapes its downside risk and return profile.
 
 Many mining operators also hedge production, selling forward a percentage of expected output at fixed prices. This reduces the operator's price risk but also Elemental's potential upside from rallies.
 
 ## Geographic and Commodity Diversification
 
-Elemental reduces risk by diversifying royalties across geographies (gold in Canada, copper in South America, silver in Australia) and commodities (gold, copper, zinc, lithium). A downturn in one metal or region is offset by strength elsewhere. However, commodities tend to move together in response to macro factors (dollar strength, interest rates, inflation expectations), so diversification only partially hedges.
+Elemental reduces risk by diversifying royalties across geographies (gold in Canada, copper in South America, silver in Australia) and commodities (gold, copper, zinc, lithium). A downturn in one metal or region is offset by strength elsewhere. However, commodities tend to move together in response to macro factors (dollar strength, [interest rates](/interest-rate/), [inflation](/inflation/) expectations), so [diversification](/diversification/) only partially hedges.
 
 Elemental's portfolio weighting—how much revenue comes from gold versus other metals, from developed-country operations versus emerging markets—reflects a strategic bet on commodity and geopolitical trends. A company heavy in lithium bets on EV growth; a company heavy in gold bets on inflation and currency weakness.
 
@@ -67,11 +67,11 @@ Unlike mining operators, which must continuously reinvest to replace depleting o
 
 Royalties decline over time as ore deposits are depleted. A high-grade deposit producing 500,000 ounces of gold per year might do so for 20 years, then be exhausted. Elemental's cash flow from that royalty plateaus and then falls to zero. To maintain overall cash flow, Elemental must acquire new royalties faster than existing ones deplete.
 
-This dynamic creates a growth treadmill: the company must continuously hunt for new royalty opportunities and complete acquisitions. Companies that lack a pipeline of new royalties see cash flow decline as existing royalties age. Conversely, companies aggressively acquiring new royalties may overpay and accept below-market returns.
+This dynamic creates a growth treadmill: the company must continuously hunt for new royalty opportunities and complete [acquisitions](/acquisition/). Companies that lack a pipeline of new royalties see cash flow decline as existing royalties age. Conversely, companies aggressively acquiring new royalties may overpay and accept below-market returns.
 
 ## Valuation and Investor Appeal
 
-Royalty companies are valued by investors as yield plays. If Elemental generates $10 million in annual cash flow on a $100 million market capitalization, the yield is 10%. Investors compare this to bond yields, stock dividends, and alternative investments. Higher commodity prices increase cash flow and make royalties more attractive; lower prices reduce appeal.
+Royalty companies are valued by investors as yield plays. If Elemental generates $10 million in annual cash flow on a $100 million [market capitalization](/market-capitalization/), the yield is 10%. Investors compare this to bond yields, [stock dividends](/stock-dividend/), and alternative investments. Higher commodity prices increase cash flow and make royalties more attractive; lower prices reduce appeal.
 
 This makes royalty companies procyclical: they are most valuable (and valued highest) when commodities are strong, and least attractive when commodities are weak. A royalty company's stock price often moves in tandem with gold or copper prices, even though the company itself does not control commodity exposure.
 

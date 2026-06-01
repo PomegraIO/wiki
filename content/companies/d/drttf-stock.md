@@ -16,7 +16,7 @@ keywords:
 
 DIRTT's foundational unit is not a single widget, but a *process*: design-to-build-to-install. A designer or architect sits at DIRTT's software and specifies interior spaces—partitions, doors, storage, finishes—with precision and visual feedback. The software quotes a price, and the customer orders. At DIRTT's facility (primarily in the US), workers build the specified components, largely through numerically controlled manufacturing fed by the software design. Truckloads of prefabricated panels, frames, and hardware ship to the jobsite. Field labor, usually DIRTT's own technicians or licensed contractors, assemble the pieces on-site in hours or days, versus weeks of traditional drywall, framing, and finish-out.
 
-The per-project cost basis breaks into three parts: software engineering amortized across licenses, manufacturing labor and material, and logistics. The revenue model captures this layering. A small design job—a single office suite in a corporate fit-out—might generate $50,000 to $100,000 in revenue. A large tenant build-out in a skyscraper could run into the millions. But the unit profit is the revenue minus direct factory labor, material, freight, and installation crew wages. That margin is structurally thinner than the software licensing margin but thicker than traditional construction labor.
+The per-project [cost basis](/cost-basis/) breaks into three parts: software engineering amortized across licenses, manufacturing labor and material, and logistics. The revenue model captures this layering. A small design job—a single office suite in a corporate fit-out—might generate $50,000 to $100,000 in revenue. A large tenant build-out in a skyscraper could run into the millions. But the unit profit is the revenue minus direct factory labor, material, freight, and installation crew wages. That margin is structurally thinner than the software licensing margin but thicker than traditional construction labor.
 
 ## The Software Moat and Licensing Economics
 
@@ -40,7 +40,7 @@ DIRTT does not compete against general contractors on bare cost per square foot.
 
 As a relatively capital-intensive manufacturer with significant R&D on software, DIRTT historically accessed equity and debt markets to fund factory expansion and working capital. The company's capital structure shapes its pricing power: if borrowing is cheap, DIRTT can invest in capacity and absorb margin pressure from custom projects. If borrowing is expensive or unavailable, DIRTT must focus on higher-margin, faster-turn projects and may lose share in price-sensitive segments.
 
-The unit economics ultimately depend on maintaining healthy gross margins across the software and manufacturing mix while scaling field labor without letting wage inflation eat into profits. DIRTT's profitability and growth are not determined by sector tailwinds alone, but by how efficiently the company can execute each stage of its three-part transaction.
+The unit economics ultimately depend on maintaining healthy gross margins across the software and manufacturing mix while scaling field labor without letting wage [inflation](/inflation/) eat into profits. DIRTT's profitability and growth are not determined by sector tailwinds alone, but by how efficiently the company can execute each stage of its three-part transaction.
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DRTTF</td></tr>

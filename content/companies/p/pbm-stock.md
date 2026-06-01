@@ -30,7 +30,7 @@ Because Psyence is pre-revenue and early-stage, its financial situation is criti
 
 ## The competitive and partnership landscape
 
-Psilocybin development is crowded at the early stage. Other private and public companies pursuing similar indications include Compass Pathways, Tryp Therapeutics, and various smaller startups and academic spin-outs. The intensity of competition will increase if early clinical data continues to support the approach and if regulatory pathways clarify further. However, the space is not yet saturated with FDA-approved psilocybin products, so first-mover or fast-follower advantages remain substantial.
+Psilocybin development is crowded at the early stage. Other private and public companies pursuing similar indications include [Compass Pathways](/cmps-stock/), Tryp Therapeutics, and various smaller startups and academic spin-outs. The intensity of competition will increase if early clinical data continues to support the approach and if regulatory pathways clarify further. However, the space is not yet saturated with FDA-approved psilocybin products, so first-mover or fast-follower advantages remain substantial.
 
 Most psychedelic biotech companies are pursuing partnership deals with larger pharmaceutical or specialty pharmaceutical firms. A major pharma company has greater resources to fund late-stage trials, navigate regulatory complexity, and commercialize an approved drug. For a company like Psyence, a partnership—whether a licensing agreement, a joint venture, or an [acquisition](/acquisition/) by a larger player—is often the exit path. Few clinical-stage biotechs have the [balance sheet](/balance-sheet/) to fund Phase 3 trials, an FDA approval process, and commercial launch independently.
 

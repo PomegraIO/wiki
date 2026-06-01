@@ -4,7 +4,7 @@ description: "An Israeli autonomous-vehicle technology developer specializing in
 keywords: ["autonomous vehicles", "computer vision", "perception systems", "IP", "driver monitoring"]
 ---
 
-*The autonomous vehicle industry spans OEMs (Tesla, Waymo, Cruise), large automotive suppliers (Mobileye, Bosch, Denso), and specialized technology developers fighting for relevance as the industry consolidates around dominant platforms. **Foresight Autonomous Holdings Ltd. (FRSX)**, an Israeli company, competes in perception and driver-monitoring systems, where intellectual property, software architecture, and embedded relationships with vehicle manufacturers are the bases of defensibility.*
+*The autonomous vehicle industry spans OEMs ([Tesla](/tsla-stock/), Waymo, Cruise), large automotive suppliers (Mobileye, Bosch, Denso), and specialized technology developers fighting for relevance as the industry consolidates around dominant platforms. **Foresight Autonomous Holdings Ltd. (FRSX)**, an Israeli company, competes in perception and driver-monitoring systems, where intellectual property, software architecture, and embedded relationships with vehicle manufacturers are the bases of defensibility.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FRSX</td></tr>
@@ -25,7 +25,7 @@ Autonomous vehicle technology is not a standalone product; it is integrated into
 
 ## Software Ecosystem and Data Advantage
 
-Foresight's driver-monitoring and perception systems generate data about driver behavior, road conditions, and vehicle interactions. If the company can build a data moat—accumulating anonymized data from thousands or millions of vehicles—it can train better machine-learning models and create a virtuous cycle where its software becomes more accurate and valuable. This data moat is powerful but difficult to sustain: it requires massive scale (many vehicles, many miles driven), privacy safeguards that maintain customer trust, and continuous investment in model training. A competitor with its own installed base can develop similar models. Larger competitors (Mobileye, owned by Intel; Tesla with its Autopilot fleet) have advantages in data scale. Foresight's moat is stronger if it can differentiate on specialized use cases (driver monitoring, specific road types) where its data advantage is relevant and defensible.
+Foresight's driver-monitoring and perception systems generate data about driver behavior, road conditions, and vehicle interactions. If the company can build a data moat—accumulating anonymized data from thousands or millions of vehicles—it can train better machine-learning models and create a virtuous cycle where its software becomes more accurate and valuable. This data moat is powerful but difficult to sustain: it requires massive scale (many vehicles, many miles driven), privacy safeguards that maintain customer trust, and continuous investment in model training. A competitor with its own installed base can develop similar models. Larger competitors (Mobileye, owned by [Intel](/intc-stock/); Tesla with its Autopilot fleet) have advantages in data scale. Foresight's moat is stronger if it can differentiate on specialized use cases (driver monitoring, specific road types) where its data advantage is relevant and defensible.
 
 ## Capital Intensity and the Commercialization Challenge
 

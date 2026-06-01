@@ -24,7 +24,7 @@ keywords:
 
 ## The Holding Company Structure and Capital Flows
 
-Multi Ways Holdings operates as an investment vehicle that owns and operates multiple business units, likely across real estate, manufacturing, services, or trading. Unlike a single-line business that can optimize capital for one product or market, a holding company must manage the capital needs of diverse businesses with different growth profiles, risk profiles, and cash-generation timelines. Capital flows upward from subsidiaries in the form of dividends, intercompany loans, and equity distributions; capital flows downward as new equity injections, loans, or purchases of additional subsidiaries. The parent company's ability to fund acquisitions, debt repayment, and shareholder returns depends on the aggregate cash generation of its portfolio and its ability to access external capital.
+Multi Ways Holdings operates as an investment vehicle that owns and operates multiple business units, likely across real estate, manufacturing, services, or trading. Unlike a single-line business that can optimize capital for one product or market, a holding company must manage the capital needs of diverse businesses with different growth profiles, risk profiles, and cash-generation timelines. [Capital flows](/capital-flows/) upward from subsidiaries in the form of [dividends](/dividend/), intercompany loans, and equity distributions; capital flows downward as new equity injections, loans, or purchases of additional subsidiaries. The parent company's ability to fund [acquisitions](/acquisition/), debt repayment, and shareholder returns depends on the aggregate cash generation of its portfolio and its ability to access external capital.
 
 ## Subsidiary Funding and Internal Capital Markets
 
@@ -44,7 +44,7 @@ If MWG owns a subsidiary with minority external shareholders, those minority sha
 
 ## Portfolio Rebalancing and Strategic Optionality
 
-Holding companies often use divestitures and acquisitions to rebalance their portfolio: selling mature, slow-growth units to raise capital for newer, faster-growing ones. MWG's history of acquisitions and divestitures (disclosed in the cash flow statement and MD&A section of the [10-K](/10-k/)) shows how actively management trades assets. Frequent portfolio churn can create short-term gains but also disruption costs, management distraction, and integration risk. Conversely, a static portfolio may indicate either management confidence in the existing mix or inertia and underperformance. Understanding the pace and rationale for M&A activity reveals management's view of value creation.
+Holding companies often use [divestitures](/divestiture/) and acquisitions to rebalance their portfolio: selling mature, slow-growth units to raise capital for newer, faster-growing ones. MWG's history of acquisitions and divestitures (disclosed in the [cash flow statement](/cash-flow-statement/) and MD&A section of the [10-K](/10-k/)) shows how actively management trades assets. Frequent portfolio churn can create short-term gains but also disruption costs, management distraction, and integration risk. Conversely, a static portfolio may indicate either management confidence in the existing mix or inertia and underperformance. Understanding the pace and rationale for M&A activity reveals management's view of value creation.
 
 ## Tax Efficiency and Repatriation Constraints
 
@@ -56,13 +56,13 @@ A holding company typically carries some underperforming or turnaround operation
 
 ## Leverage and Financial Flexibility
 
-A holding company with high parent-level leverage has limited financial flexibility: most cash flow is committed to debt service, leaving little for new acquisitions, share buybacks, or dividend growth. A lightly leveraged parent with strong subsidiary cash flow has optionality: it can fund growth, return capital, or navigate downturns without distress. MWG's debt-to-EBITDA ratio at the consolidated level masks the structure of that debt and its vulnerability to subsidiary underperformance. A 2× leverage ratio looks safe until a major subsidiary stumbles; then parent-level debt becomes unsustainable.
+A holding company with high parent-level leverage has limited financial flexibility: most cash flow is committed to debt service, leaving little for new acquisitions, [share buybacks](/share-buyback/), or dividend growth. A lightly leveraged parent with strong subsidiary cash flow has optionality: it can fund growth, return capital, or navigate downturns without distress. MWG's [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) at the consolidated level masks the structure of that debt and its vulnerability to subsidiary underperformance. A 2× [leverage ratio](/leverage-ratio-forex/) looks safe until a major subsidiary stumbles; then parent-level debt becomes unsustainable.
 
 ## Shareholder Returns and NAV Discount
 
-Diversified holding companies often trade at a discount to the sum of their parts—the aggregate value of subsidiaries if valued independently. This "conglomerate discount" arises from perceived capital-allocation inefficiency, complexity, and minority interests that reduce parent shareholders' claims. A holding company returning substantial cash to shareholders through dividends or buybacks can narrow the discount by proving it prioritizes shareholder value; one hoarding cash invites activist criticism. MWG's [market capitalization](/market-capitalization/) relative to estimated [enterprise value](/enterprise-value/) of its parts reveals whether investors see it as a well-managed capital-allocation vehicle or a discount-riddled conglomerate.
+Diversified holding companies often trade at a discount to the sum of their parts—the aggregate value of subsidiaries if valued independently. This "[conglomerate discount](/conglomerate-discount/)" arises from perceived capital-allocation inefficiency, complexity, and minority interests that reduce parent shareholders' claims. A holding company returning substantial cash to shareholders through dividends or buybacks can narrow the discount by proving it prioritizes shareholder value; one hoarding cash invites activist criticism. MWG's [market capitalization](/market-capitalization/) relative to estimated [enterprise value](/enterprise-value/) of its parts reveals whether investors see it as a well-managed capital-allocation vehicle or a discount-riddled conglomerate.
 
-The company's [10-K](/10-k/) filings, segment reporting, and investor presentations detail the composition of the portfolio, the performance of major subsidiaries, and management's strategy for capital allocation and portfolio rebalancing.
+The company's [10-K](/10-k/) filings, [segment reporting](/segment-reporting/), and investor presentations detail the composition of the portfolio, the performance of major subsidiaries, and management's strategy for capital allocation and portfolio rebalancing.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>
@@ -71,14 +71,14 @@ The company's [10-K](/10-k/) filings, segment reporting, and investor presentati
 <li><a href="/mwc-stock/">Micware Co., Ltd. (MWC)</a></li>
 <li><a href="/balance-sheet/">Balance Sheet</a></li>
 <li><a href="/enterprise-value/">Enterprise Value</a></li>
-<li><a href="/capital-allocation/">Capital Allocation</a></li>
+<li>Capital Allocation</li>
 </ul>
 </div>
 
 <h3>Wider context</h3>
 <ul>
 <li><a href="/10-k/">10-K Annual Report</a></li>
-<li><a href="/common-stock/">Common Stock</a></li>
+<li><a href="/common-stock/">[Common Stock](/common-stock/)</a></li>
 <li><a href="/dividend/">Dividend</a></li>
 <li><a href="/acquisition/">Acquisition</a></li>
 <li><a href="/securities-and-exchange-commission/">Securities and Exchange Commission</a></li>

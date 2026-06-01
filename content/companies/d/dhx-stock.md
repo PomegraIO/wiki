@@ -4,7 +4,7 @@ description: "Digital recruitment platform connecting employers with skilled tra
 keywords: ["recruitment", "talent acquisition", "job boards", "skilled trades", "employment platform"]
 ---
 
-*The evolution of hiring from passive job listings to targeted talent networks defines **DHI Group** (NASDAQ: DHX), a digital employment platform that has carved a specialized niche serving industries starved for qualified workers. Where general-purpose job boards cast wide nets, DHI focuses on segments—skilled trades, healthcare, IT—where matching the right person to the right role unlocks disproportionate value for employers facing chronic labor shortages.*
+*The evolution of hiring from passive job listings to targeted talent networks defines **DHI Group** ([NASDAQ](/nasdaq/): DHX), a digital employment platform that has carved a specialized niche serving industries starved for qualified workers. Where general-purpose job boards cast wide nets, DHI focuses on segments—skilled trades, healthcare, IT—where matching the right person to the right role unlocks disproportionate value for employers facing chronic labor shortages.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>DHX</td></tr>
@@ -33,7 +33,7 @@ DHI competes against LinkedIn (dominant in professional hiring), Indeed (massive
 
 ## Challenges in a Tight Labor Market
 
-Paradoxically, tight labor markets that drive demand for DHI's services also empower candidates, reducing the stickiness of any single platform. When skilled tradespeople are scarce, they field offers from multiple sources simultaneously; they have less incentive to maintain profiles on DHI if they can job-hunt on Indeed or through word-of-mouth. Additionally, large employers increasingly build their own talent acquisition teams and branded job portals, bypassing intermediaries. Generalist [mutual funds](/mutual-fund/) and [index funds](/index-fund/) tracking the software sector have reduced DHI's equity valuations in recent years, signaling investor skepticism about the durability of online recruiting as a defensible business—a risk that hinges on platform switching costs and the sustainability of vertical moat defensibility.
+Paradoxically, tight labor markets that drive demand for DHI's services also empower candidates, reducing the stickiness of any single platform. When skilled tradespeople are scarce, they field offers from multiple sources simultaneously; they have less incentive to maintain profiles on DHI if they can job-hunt on Indeed or through word-of-mouth. Additionally, large employers increasingly build their own talent [acquisition](/acquisition/) teams and branded job portals, bypassing intermediaries. Generalist [mutual funds](/mutual-fund/) and [index funds](/index-fund/) tracking the software sector have reduced DHI's equity valuations in recent years, signaling investor skepticism about the durability of online recruiting as a defensible business—a risk that hinges on platform switching costs and the sustainability of vertical moat defensibility.
 
 ## Earnings Model and Capital Structure
 

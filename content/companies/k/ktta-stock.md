@@ -31,7 +31,7 @@ An analyst reviewing Pasithea's 10-K must immediately calculate cash runway: div
 
 ## Pipeline and Indication Selection
 
-Pasithea's competitive advantage, if any, lies in its compound library and selection of psychiatric and neurological indications. The psychiatry space is drawing intense interest and capital: FDA approval paths for depression, anxiety, PTSD, and cognitive disorders have broadened, and payers increasingly recognize the mental-health crisis. However, psychiatry is also crowded. Major pharma (Pfizer, Eli Lilly, Janssen) and well-funded competitors (Compass Pathways, Perception Neuroscience, Sage Therapeutics) are all developing compounds in overlapping spaces.
+Pasithea's competitive advantage, if any, lies in its compound library and selection of psychiatric and neurological indications. The psychiatry space is drawing intense interest and capital: FDA approval paths for depression, anxiety, PTSD, and cognitive disorders have broadened, and payers increasingly recognize the mental-health crisis. However, psychiatry is also crowded. Major pharma ([Pfizer](/pfe-stock/), Eli Lilly, Janssen) and well-funded competitors ([Compass Pathways](/cmps-stock/), Perception Neuroscience, Sage Therapeutics) are all developing compounds in overlapping spaces.
 
 The 10-K's "Pipeline" or "Development Program" section should list each compound in development, its current trial phase, indication, and expected milestone dates. An analyst should cross-reference these dates against Pasithea's cash runway. If the lead program won't reach Phase II readout for two years but the company has only 15 months of cash, financing risk is acute.
 
@@ -43,7 +43,7 @@ Patent life is equally critical. Compounds in development are typically patented
 
 ## Capital Structure and Dilution Risk
 
-Pasithea likely has a multi-tier capital structure: common stock held by founders and early investors, and preferred shares issued in venture or private-equity funding rounds. Each funding round dilutes existing shareholders. The 10-K's balance sheet and equity section detail issued shares, options, and warrants.
+Pasithea likely has a multi-tier capital structure: [common stock](/common-stock/) held by founders and early investors, and preferred shares issued in venture or private-equity funding rounds. Each funding round dilutes existing shareholders. The 10-K's [balance sheet](/balance-sheet/) and equity section detail issued shares, options, and warrants.
 
 As Pasithea faces funding pressure, future capital raises will dilute common shareholders further. An investor in KTTA shares today faces the prospect that by clinical approval, the original shareholders' ownership has been diluted to a small fraction. This dilution is structural and unavoidable in biotech; it is not a sign of failure but a reality of the industry's capital intensity.
 
@@ -55,13 +55,13 @@ The MD&A section should disclose management's view of the competitive landscape 
 
 ## Cash Expenditure by Function
 
-The income statement or cash flow statement should itemize research and development spending, broken down by function: salaries, laboratory supplies, contract research organization (CRO) fees for outsourced trials, regulatory consulting, manufacturing, and overhead. The largest line item is typically CRO fees; Pasithea likely outsources clinical trial design and patient recruitment to specialized contract firms.
+The [income statement](/income-statement/) or [cash flow statement](/cash-flow-statement/) should itemize research and development spending, broken down by function: salaries, laboratory supplies, contract research organization (CRO) fees for outsourced trials, regulatory consulting, manufacturing, and overhead. The largest line item is typically CRO fees; Pasithea likely outsources clinical trial design and patient recruitment to specialized contract firms.
 
 Comparing Pasithea's R&D spending to that of peers at similar pipeline stages and indications provides context. If Pasithea spends $3 million per quarter on one Phase II trial while a competitor spends $5 million on a similar trial, it may indicate Pasithea has more efficient processes or a smaller, slower-paced trial. Either interpretation changes the investment thesis.
 
 ## Liquidity and Stock-Based Compensation
 
-KTTA trades on OTC markets, often with minimal volume. Share price can be volatile and disconnected from fundamental value. Additionally, Pasithea likely compensates employees and consultants with stock options and restricted stock units (RSUs). Vesting schedules and option exercises create dilution not immediately visible in share count but disclosed in the 10-K's equity tables.
+KTTA trades on OTC markets, often with minimal volume. Share price can be volatile and disconnected from fundamental value. Additionally, Pasithea likely compensates employees and consultants with stock options and [restricted stock units](/restricted-stock-units/) (RSUs). [Vesting schedules](/vesting-schedule/) and option exercises create dilution not immediately visible in share count but disclosed in the 10-K's equity tables.
 
 A cash runway analysis must account for dilution from vesting and options. If Pasithea has $10 million cash and 10 million shares outstanding but 5 million options are outstanding (all in-the-money), the effective share count is higher, and runway is stretched thinner.
 

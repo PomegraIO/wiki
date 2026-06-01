@@ -10,7 +10,7 @@ keywords:
   - asia-pacific
 ---
 
-*[Kumyang Co., Ltd.](/kmygy-stock/) operates as a South Korean manufacturer and trades in US markets via American Depositary Receipt (ADR) structure under the ticker KMYGY, filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 2003770. Like many Asian manufacturers, Kumyang's competitive position rests on cost efficiency, supply-chain integration, and regional market access rather than intellectual property or brand dominance.*
+*[Kumyang Co., Ltd.](/kmygy-stock/) operates as a South Korean manufacturer and trades in US markets via [American Depositary Receipt](/adr/) (ADR) structure under the ticker KMYGY, filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 2003770. Like many Asian manufacturers, Kumyang's competitive position rests on cost efficiency, supply-chain integration, and regional market access rather than intellectual property or brand dominance.*
 
 <aside class="wiki-infobox">
 <table>
@@ -69,7 +69,7 @@ These lock-in effects are real but time-bound. Supply contracts expire, and when
 
 As a South Korean exporter, Kumyang faces exposure to exchange-rate fluctuations. A stronger Korean won makes Kumyang's products more expensive for foreign buyers, eroding price competitiveness. A weaker won improves competitiveness but may trigger inflationary pressure on imported inputs. For commodity manufacturers with thin [margins](/operating-margin/), currency swings can mean the difference between profitability and loss.
 
-This macroeconomic vulnerability is not a traditional moat, but it is a risk factor that shapes Kumyang's competitive position. Competitors in countries with more stable currencies or those with natural hedges (costs and revenues in the same currency) enjoy a protective advantage. Kumyang must manage currency risk actively, either through hedging instruments or by diversifying operations and customer base across currencies.
+This macroeconomic vulnerability is not a traditional moat, but it is a risk factor that shapes Kumyang's competitive position. Competitors in countries with more stable currencies or those with natural hedges (costs and revenues in the same currency) enjoy a protective advantage. Kumyang must manage [currency risk](/currency-risk/) actively, either through hedging instruments or by diversifying operations and customer base across currencies.
 
 ## Limited Innovation and Technology Moat
 

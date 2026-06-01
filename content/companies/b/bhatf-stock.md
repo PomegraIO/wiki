@@ -24,7 +24,7 @@ keywords:
 
 ## Who Plays These Games and Why
 
-Casual gamers in Asian markets—particularly those accustomed to brief, social, reward-driven gameplay on smartphones—form the intended customer base. These users seek lightweight entertainment that fits into daily routines without demanding sustained attention, combined with social features that create ongoing engagement loops. The buyer profile skews toward mobile-first populations in China, Southeast Asia, and India where gaming monetization through in-game purchases and ad placements has proven scalable. For a company like Blue Hat, the appeal lies in access to markets where mobile gaming penetration is deep and user acquisition costs remain modest compared to North American or Western European channels.
+Casual gamers in Asian markets—particularly those accustomed to brief, social, reward-driven gameplay on smartphones—form the intended customer base. These users seek lightweight entertainment that fits into daily routines without demanding sustained attention, combined with social features that create ongoing engagement loops. The buyer profile skews toward mobile-first populations in China, Southeast Asia, and India where gaming monetization through in-game purchases and ad placements has proven scalable. For a company like Blue Hat, the appeal lies in access to markets where mobile gaming penetration is deep and user [acquisition](/acquisition/) costs remain modest compared to North American or Western European channels.
 
 ## The Business Model: Monetization Through Engagement
 
@@ -44,7 +44,7 @@ Digital entertainment targeting Chinese and Southeast Asian audiences operates w
 
 ## The Investor's Perspective and Risks
 
-For equity holders, Blue Hat represents a lottery ticket: massive upside if the company identifies a hit game or builds a beloved franchise, complete loss if user acquisition proves uneconomical or retention metrics collapse. The development-stage designation signals pre-profitability or early monetization; cash runway becomes critical. OTC listing means less liquidity, fewer analyst followers, and wider bid-ask spreads—traders should expect friction. The broader risk is existential: casual gaming is a hits-driven business where most titles fail to achieve meaningful user bases, and capital efficiency matters ruthlessly. A company with thin resources must choose its bets carefully or exhaust capital before finding product-market fit.
+For equity holders, Blue Hat represents a lottery ticket: massive upside if the company identifies a hit game or builds a beloved franchise, complete loss if user acquisition proves uneconomical or retention metrics collapse. The development-stage designation signals pre-profitability or early monetization; cash runway becomes critical. OTC listing means less liquidity, fewer analyst followers, and wider [bid-ask spreads](/bid-ask-spread/)—traders should expect friction. The broader risk is existential: casual gaming is a hits-driven business where most titles fail to achieve meaningful user bases, and capital efficiency matters ruthlessly. A company with thin resources must choose its bets carefully or exhaust capital before finding product-market fit.
 
 ## Researching Further
 

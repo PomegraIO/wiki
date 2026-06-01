@@ -18,15 +18,15 @@ keywords: ["holding company", "real estate", "consulting", "micro-cap", "diversi
 
 ## The Conglomerate Revenue Structure
 
-Capstone Companies earns money by owning and operating (or partially owning) distinct businesses rather than competing in a single market. This structure is common among micro-cap and small-cap firms that either grew through acquisition and never consolidated, or deliberately chose to remain diversified to hedge industry-specific downturns. The advantage of holding company structure is portfolio effect: if one segment faces a cyclical downturn, others may remain stable or grow, smoothing overall earnings. The disadvantage is complexity—investors must understand multiple business models, and management must allocate capital across fundamentally different sectors with different risk and growth profiles.
+Capstone Companies earns money by owning and operating (or partially owning) distinct businesses rather than competing in a single market. This structure is common among micro-cap and small-cap firms that either grew through [acquisition](/acquisition/) and never consolidated, or deliberately chose to remain diversified to hedge industry-specific downturns. The advantage of holding company structure is portfolio effect: if one segment faces a cyclical downturn, others may remain stable or grow, smoothing overall earnings. The disadvantage is complexity—investors must understand multiple business models, and management must allocate capital across fundamentally different sectors with different risk and growth profiles.
 
-In Capstone's case, the real estate services segment likely generates revenue via commissions on property transactions, management fees for properties under management, or leasing income from properties the company owns. Consulting services are typically sold as billable hours or project fees—a service business with labor cost as the primary input. Specialty manufacturing might produce industrial components, equipment, or finished goods sold to original equipment manufacturers or industrial distributors. Each has distinct unit economics, working capital requirements, and capital intensity.
+In Capstone's case, the real estate services segment likely generates revenue via commissions on property transactions, [management fees](/management-fee/) for properties under management, or leasing income from properties the company owns. Consulting services are typically sold as billable hours or project fees—a service business with labor cost as the primary input. Specialty manufacturing might produce industrial components, equipment, or finished goods sold to original equipment manufacturers or industrial distributors. Each has distinct unit economics, working capital requirements, and capital intensity.
 
 ## Segmented Margin Dynamics
 
 The real estate segment likely operates on 8–15% [operating margins](/operating-margin/) if it is primarily a brokerage or advisory business (high-margin transactions, but variable compensation to agents erodes margin). If it owns rental properties, margins depend on rental income, occupancy rates, property maintenance, and leverage. Manufacturing margins depend on the specific product, whether the company competes on cost or differentiation, and capacity utilization. A consulting services segment typically has 20–40% [gross margins](/gross-profit-margin/) if staffed efficiently, but operating margins are lower because overhead (office space, support staff, business development) is relatively fixed.
 
-Capstone's consolidated [gross margin](/gross-profit-margin/) is thus a blended number that obscures the heterogeneity beneath. If the company is 40% real estate, 35% consulting, and 25% manufacturing by revenue, and those segments have gross margins of 12%, 35%, and 28% respectively, consolidated gross margin is approximately 24%. This is neither particularly healthy nor alarming—it reflects the weighted average of three different industries. Similarly, operating margins depend on overhead allocation, corporate G&A, and how efficiently each segment converts gross margin to operating profit.
+Capstone's consolidated [gross margin](/gross-profit-margin/) is thus a blended number that obscures the heterogeneity beneath. If the company is 40% real estate, 35% consulting, and 25% manufacturing by revenue, and those segments have gross margins of 12%, 35%, and 28% respectively, consolidated gross margin is approximately 24%. This is neither particularly healthy nor alarming—it reflects the weighted average of three different industries. Similarly, operating margins depend on [overhead allocation](/overhead-allocation/), corporate G&A, and how efficiently each segment converts gross margin to operating profit.
 
 ## Capital Allocation and Portfolio Thinking
 
@@ -42,17 +42,17 @@ Capstone's [balance sheet](/balance-sheet/) likely reflects the asset mix of its
 
 ## Valuation and Investor Challenges
 
-Holding companies at the micro-cap scale often trade at a discount to the sum of their parts. If an analyst calculates that each segment, valued independently, is worth $X, Capstone's market cap is often discounted by 10–30% because investors face:
+Holding companies at the micro-cap scale often trade at a discount to the sum of their parts. If an analyst calculates that each segment, valued independently, is worth $X, Capstone's [market cap](/market-capitalization/) is often discounted by 10–30% because investors face:
 - Complexity: harder to model, fewer analysts cover it
 - Transparency: the company may not break out segment profit clearly
 - Management credibility: smaller firms have less-proven leadership
 - Liquidity: the stock itself may be thinly traded
 
-This "conglomerate discount" can be a buying opportunity if the company has a capable manager who can improve segment performance and then spin off or divest underperformers. Conversely, it is a permanent drag if the company is poorly managed or if segment performance is mediocre.
+This "[conglomerate discount](/conglomerate-discount/)" can be a buying opportunity if the company has a capable manager who can improve segment performance and then spin off or divest underperformers. Conversely, it is a permanent drag if the company is poorly managed or if segment performance is mediocre.
 
 ## Cyclicality and Stability
 
-Capstone's exposure to economic cycles depends on the mix. Real estate is cyclical; consulting is less so if the firm has recurring retainers. Manufacturing is highly cyclical. A downturn that reduces construction, real estate transactions, and capital equipment purchases simultaneously could hit all three segments hard, negating the diversification benefit. Conversely, if the company is skilled at counter-cyclical timing (buying distressed assets in downturns, reinvesting when sectors recover), the diversified structure is a genuine advantage.
+Capstone's exposure to economic cycles depends on the mix. Real estate is cyclical; consulting is less so if the firm has recurring retainers. Manufacturing is highly cyclical. A downturn that reduces construction, real estate transactions, and capital equipment purchases simultaneously could hit all three segments hard, negating the [diversification](/diversification/) benefit. Conversely, if the company is skilled at counter-cyclical timing (buying distressed assets in downturns, reinvesting when sectors recover), the diversified structure is a genuine advantage.
 
 The firm's [stock](/stock/) is likely volatile because it is small, potentially illiquid, and exposed to multiple industry cycles without a clear single narrative that attracts analyst attention or institutional capital.
 

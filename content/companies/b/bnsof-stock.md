@@ -21,7 +21,7 @@ keywords: ["contract manufacturing", "electronics", "OEM", "manufacturing standa
 
 Large manufacturers that outsource electronics production impose rigorous quality standards on their suppliers. BONSO must maintain ISO 9001 certification (quality management) and often ISO/TS 16949 (automotive-specific quality management) depending on customer base. These certifications are verified through annual audits by accredited third parties; failure to maintain them can result in loss of customer contracts.
 
-Beyond certification, Bonso's customers conduct their own supplier audits—unannounced visits to manufacturing facilities to inspect processes, worker competency, documentation, and test equipment. An automotive customer like Ford or General Motors may audit Bonso annually or more frequently if quality issues arise. A failed audit can trigger immediate suspension of shipments, customer notifications, and corrective-action demands. The cost of maintaining audit readiness—documented procedures, staff training, clean facilities—is embedded in Bonso's cost structure and competed away among contract manufacturers.
+Beyond certification, Bonso's customers conduct their own supplier audits—unannounced visits to manufacturing facilities to inspect processes, worker competency, documentation, and test equipment. An automotive customer like Ford or [General Motors](/gm-stock/) may audit Bonso annually or more frequently if quality issues arise. A failed audit can trigger immediate suspension of shipments, customer notifications, and corrective-action demands. The cost of maintaining audit readiness—documented procedures, staff training, clean facilities—is embedded in Bonso's cost structure and competed away among contract manufacturers.
 
 ## Electrical and Product Safety Standards
 
@@ -33,7 +33,7 @@ Bonso does not typically design these products; its customers do. However, Bonso
 
 US and international regulations now require manufacturers to confirm that their products do not contain conflict minerals (tin, tantalum, tungsten, or gold sourced from conflict zones, primarily in the Democratic Republic of Congo). Bonso must issue conflict-minerals statements to its customers, either certifying compliance or disclosing if it cannot confirm mineral sourcing.
 
-This requirement cascades through the supply chain: Bonso must obtain declarations from its component suppliers, who must obtain them from their suppliers, and so on. Tracing minerals through a global supply chain is logistically complex. Bonso must maintain documented supplier questionnaires and due-diligence records to satisfy customer demands and regulatory requirements under the Dodd-Frank Act.
+This requirement cascades through the supply chain: Bonso must obtain declarations from its component suppliers, who must obtain them from their suppliers, and so on. Tracing minerals through a global supply chain is logistically complex. Bonso must maintain documented supplier questionnaires and due-diligence records to satisfy customer demands and regulatory requirements under the [Dodd-Frank Act](/dodd-frank-act/).
 
 ## Restricted Substances and RoHS/REACH Compliance
 

@@ -23,7 +23,7 @@ This deregulated structure is not universal. Much of the US, particularly the So
 
 ## Fuel and Resource Geography
 
-Independence Power's generation mix—whether natural gas, renewable, coal, or hydro—is constrained by the locations where it holds or develops assets. A natural-gas-fired plant must sit where pipelines deliver feedstock; a wind farm must be sited where wind resources and transmission capacity permit; a coal plant depends on rail access and face dwindling investment appetite across much of the continent. The geographic distribution of its assets thereby determines fuel costs, availability of feedstock, and exposure to resource-price volatility.
+Independence Power's generation mix—whether [natural gas](/natural-gas/), renewable, coal, or hydro—is constrained by the locations where it holds or develops assets. A natural-gas-fired plant must sit where pipelines deliver feedstock; a wind farm must be sited where wind resources and transmission capacity permit; a coal plant depends on rail access and face dwindling investment appetite across much of the continent. The geographic distribution of its assets thereby determines fuel costs, availability of feedstock, and exposure to resource-price volatility.
 
 For example, a generator operating in the Northeast, where natural-gas pipelines terminate and LNG imports arrive via port, faces different fuel-cost dynamics than one operating in Texas or the upper Midwest, where pipeline density varies. Seasonal variations also differ: winter peak demand in the Northeast raises marginal prices for power supplied during cold snaps; summer peaks in Texas during air-conditioning season create different pricing signals. Independence Power's profitability across quarters and years thus depends partly on the geographic correlation of its assets with regional demand seasonality.
 
@@ -31,7 +31,7 @@ For example, a generator operating in the Northeast, where natural-gas pipelines
 
 Within deregulated markets, electricity prices vary by location—a feature called locational marginal pricing (LMP). A generator sited at a point in the grid where power flows are congested (many generators, few transmission paths out) receives depressed prices because its output adds to local oversupply. A generator sited at a point with transmission bottlenecks (power demand exceeds local supply and transmission limits the import of remote generation) receives premium prices because its output relieves congestion.
 
-Independence Power's siting strategy directly reflects this geographic reality. Building or acquiring generation at high-LMP nodes—points where the grid is often congested—creates structural advantage because even mediocre fuel costs are offset by price premiums. Conversely, entry into low-LMP nodes requires either exceptionally low cost structure or long-term contracts that lock in offtake at fixed prices, insulating the plant from locational basis risk.
+Independence Power's siting strategy directly reflects this geographic reality. Building or acquiring generation at high-LMP nodes—points where the grid is often congested—creates structural advantage because even mediocre fuel costs are offset by price premiums. Conversely, entry into low-LMP nodes requires either exceptionally low cost structure or long-term contracts that lock in offtake at fixed prices, insulating the plant from locational [basis risk](/basis-risk/).
 
 ## Regulatory Jurisdiction and Capacity Markets
 

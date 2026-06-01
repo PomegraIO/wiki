@@ -4,7 +4,7 @@ description: "CITY HOLDING CO is a regional bank holding company trading as CHCO
 keywords: [city-holding, chco-ticker, regional-bank, bank-holding-company, community-banking]
 ---
 
-*[CITY HOLDING CO](/chco-stock/) (CHCO) is a bank holding company whose earnings depend on the net interest margin between what it pays depositors and what it earns from loans, a spread that compresses dangerously when the Federal Reserve cuts rates or when loan losses rise. The company's regional focus, small market share relative to national banks, and exposure to economically challenged communities create structural vulnerabilities that become visible only after stress appears.*
+*[CITY HOLDING CO](/chco-stock/) (CHCO) is a bank holding company whose earnings depend on the net interest margin between what it pays depositors and what it earns from loans, a spread that compresses dangerously when the [Federal Reserve](/federal-reserve/) cuts rates or when loan losses rise. The company's regional focus, small market share relative to national banks, and exposure to economically challenged communities create structural vulnerabilities that become visible only after stress appears.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CHCO</td></tr>
@@ -18,15 +18,15 @@ keywords: [city-holding, chco-ticker, regional-bank, bank-holding-company, commu
 
 CITY HOLDING's profitability rests entirely on its net interest margin (NIM)—the spread between what it earns on loans and what it pays on deposits. When the Federal Reserve begins cutting rates, CHCO faces an immediate structural problem: the rates it earns on its loan portfolio fall much faster than the rates it must pay on deposits can fall (deposits already paying near-zero rates cannot go lower). The result is NIM compression, which hits [earnings](/earnings-per-share/) directly.
 
-For a regional bank without the scale of JPMorgan or Bank of America, this compression is especially acute. Large banks have lower funding costs because they attract institutional deposits and have more granular pricing power. CITY HOLDING must compete in local markets where customers have more limited options, but also have less reason to stay if another bank offers fractionally higher rates. The bank's cost of deposits is thus both sticky and rising when rates fall, creating the worst possible outcome: revenue erosion without offsetting cost cuts.
+For a regional bank without the scale of JPMorgan or [Bank of America](/bank-of-america/), this compression is especially acute. Large banks have lower funding costs because they attract institutional deposits and have more granular pricing power. CITY HOLDING must compete in local markets where customers have more limited options, but also have less reason to stay if another bank offers fractionally higher rates. The bank's cost of deposits is thus both sticky and rising when rates fall, creating the worst possible outcome: revenue erosion without offsetting cost cuts.
 
 The [10-K](/10-k/) should detail the composition of the loan portfolio (what percentage is real estate versus commercial versus consumer loans) and the deposit base (what percentage is non-interest-bearing, checking accounts versus savings accounts). A portfolio skewed toward variable-rate loans and a deposit base heavily weighted to interest-bearing deposits signals worse NIM risk during rate-cut cycles.
 
 ## Credit Risk Concentration in Economically Sensitive Markets
 
-Regional banks are not geographically diversified in the way national banks are. CITY HOLDING operates in the mid-Atlantic and Appalachian regions, areas with lower average incomes, older industrial bases, and more volatile employment. When a regional economy weakens, loan losses spike. If CHCO's loan book is concentrated in real estate—and regional banks typically lend heavily on commercial real estate and home mortgages—the company faces magnified loss severity if property values or rents fall in its core markets.
+Regional banks are not geographically diversified in the way national banks are. CITY HOLDING operates in the mid-Atlantic and Appalachian regions, areas with lower average incomes, older industrial bases, and more volatile employment. When a regional economy weakens, loan losses spike. If CHCO's loan book is concentrated in real estate—and regional banks typically lend heavily on [commercial real estate](/commercial-real-estate/) and home mortgages—the company faces magnified [loss severity](/loss-severity/) if property values or rents fall in its core markets.
 
-This is not hypothetical. The 2008 financial crisis devastated regional banks in the South and Midwest. Banks that thought their local economies were stable saw commercial real estate prices collapse, construction lending portfolios turn toxic, and agricultural lending hit hard by commodity price swings. CITY HOLDING survived that period, but the question is whether current loan quality assumptions are realistic or if they reflect a long benign cycle. A recession that hits the industrial Midwest and mid-Atlantic harder than the national average would expose CHCO to credit losses that could exceed provisions.
+This is not hypothetical. The 2008 financial crisis devastated regional banks in the South and Midwest. Banks that thought their local economies were stable saw commercial real estate prices collapse, construction lending portfolios turn toxic, and agricultural lending hit hard by commodity price swings. CITY HOLDING survived that period, but the question is whether current loan quality assumptions are realistic or if they reflect a long benign cycle. A [recession](/recession/) that hits the industrial Midwest and mid-Atlantic harder than the national average would expose CHCO to credit losses that could exceed provisions.
 
 ## Deposit Flight in Stressed Conditions
 
@@ -38,11 +38,11 @@ If CHCO experiences significant deposit outflows, it must replace funding at hig
 
 Regional banks have high fixed costs: branch infrastructure, compliance staff, IT systems, and payment processing. These costs do not scale down easily if loan volume declines or NIM compresses. CITY HOLDING's cost-to-income ratio (operating expenses as a percentage of operating revenue) is thus critical to watch. If CHCO has been able to grow and consolidate branches, maintaining a reasonable cost base, it has some operational flexibility. If branches and headcount are sticky, the bank becomes increasingly inefficient if revenue falls.
 
-Consolidation offers the only real lever—if CHCO acquires smaller competitors and closes redundant branches, it can reduce fixed costs. But acquisitions create integration risk, disruption, and often fail to achieve projected savings. And they require capital, which a bank under margin pressure may not want to deploy.
+Consolidation offers the only real lever—if CHCO acquires smaller competitors and closes redundant branches, it can reduce fixed costs. But [acquisitions](/acquisition/) create integration risk, disruption, and often fail to achieve projected savings. And they require capital, which a bank under margin pressure may not want to deploy.
 
 ## Interest Rate Volatility and Loan Portfolio Duration
 
-Banks hold longer-duration loan portfolios (mortgages, term loans) and fund them with shorter-duration deposits (checking accounts that can withdraw on demand). This maturity mismatch creates a subtle but powerful risk: when rates are rising, the loans in the portfolio earn less than inflation in the cost of funding, because deposits reprice faster. The [balance-sheet](/balance-sheet/) technically shows assets and liabilities, but does not capture interest rate risk clearly—the bank's economic value can deteriorate rapidly if rates spike unexpectedly.
+Banks hold longer-duration loan portfolios (mortgages, term loans) and fund them with shorter-duration deposits (checking accounts that can withdraw on demand). This maturity mismatch creates a subtle but powerful risk: when rates are rising, the loans in the portfolio earn less than [inflation](/inflation/) in the cost of funding, because deposits reprice faster. The [balance-sheet](/balance-sheet/) technically shows assets and liabilities, but does not capture interest rate risk clearly—the bank's economic value can deteriorate rapidly if rates spike unexpectedly.
 
 CITY HOLDING's exposure to this risk depends on its loan composition (what percentage is floating-rate versus fixed-rate) and the duration profile of its deposits. The [10-K](/10-k/) may not highlight this clearly, but it is implicit in the balance-sheet structure.
 
@@ -58,7 +58,7 @@ Many investors buy regional bank stocks for the [dividend](/dividend/). But divi
 
 ## Questions to Ask
 
-Is CHCO's loan portfolio concentrated in sectors or geographies that are vulnerable to a recession? How much of the portfolio is non-interest-bearing deposits, which are the stickiest funding source? What is the bank's efficiency ratio, and is it trending favorably? And what would a 2% rise in interest rates do to loan volumes and NIM? The answers matter far more than management's macro outlook—which tends to be optimistic until it suddenly isn't.
+Is CHCO's loan portfolio concentrated in sectors or geographies that are vulnerable to a recession? How much of the portfolio is non-interest-bearing deposits, which are the stickiest funding source? What is the bank's efficiency ratio, and is it trending favorably? And what would a 2% rise in [interest rates](/interest-rate/) do to loan volumes and NIM? The answers matter far more than management's macro outlook—which tends to be optimistic until it suddenly isn't.
 
 <div class="wiki-seealso">
 ### Closely related

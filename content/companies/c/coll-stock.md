@@ -29,7 +29,7 @@ Collegium was founded in 2007 and went [public](/initial-public-offering/) in 20
 
 Collegium's [cash flow](/free-cash-flow/) depends on how many prescriptions insurance plans will cover at what copay, and how many patients will tolerate the copay. The company must maintain sales representatives, manage prior-authorization relationships, and conduct health-economics studies to justify formulary placement. It must also comply with the FDA's Risk Evaluation and Mitigation Strategy (REMS) program, which limits how opioids can be prescribed and distributed—a regulatory overlay that adds cost and reduces addressable market.
 
-This is a capital-intensive, margin-squeezed business model. R&D spending continues (to develop new formulations, combinations, or delivery mechanisms), but the return on that R&D is uncertain. Sales and marketing dominate the expense structure because formulary adoption and prescriber awareness are won through relationships, not innovation.
+This is a capital-intensive, margin-squeezed business model. R&D spending continues (to develop new formulations, combinations, or [delivery mechanisms](/delivery-mechanisms/)), but the return on that R&D is uncertain. Sales and marketing dominate the expense structure because formulary adoption and prescriber awareness are won through relationships, not innovation.
 
 ## The Lifecycle Inflection
 
@@ -37,7 +37,7 @@ Collegium is at an inflection point specific to specialty pharma. It has moved p
 
 ## Capital Structure and Sustainability
 
-Collegium carries [debt](/corporate-bond/) from growth financing and acquisitions. Like many specialty pharmas, it must manage the tension between investing in future products and servicing debt while maintaining attractive [dividends](/dividend/) or [returns to shareholders](/return-on-equity/). The company's [balance sheet](/balance-sheet/) is stable but not fortress-like; it is reliant on positive [operating cash flow](/free-cash-flow/), which depends on sustained commercial success and cost control.
+Collegium carries [debt](/corporate-bond/) from growth financing and [acquisitions](/acquisition/). Like many specialty pharmas, it must manage the tension between investing in future products and servicing debt while maintaining attractive [dividends](/dividend/) or [returns to shareholders](/return-on-equity/). The company's [balance sheet](/balance-sheet/) is stable but not fortress-like; it is reliant on positive [operating cash flow](/free-cash-flow/), which depends on sustained commercial success and cost control.
 
 The company's quarterly [earnings](/earnings-per-share/) are watched closely for gross-margin trends (which signal pricing pressure and payer reimbursement shifts) and for pipeline progress (which signals future revenue potential). A deterioration in either would pressure the [stock](/stock/) and make refinancing debt more expensive.
 
@@ -49,7 +49,7 @@ Additionally, the [patent](/common-stock/) expirations on key assets (both owned
 
 ## Competitive Positioning
 
-Collegium is one of several specialty pharmas in pain management. Larger players (Purdue, Mallinckrodt, Johnson & Johnson) have deeper market access and more diverse portfolios. Smaller competitors and generic makers compete on price. Collegium must differentiate on efficacy claims, formulary relationships, patient support programs, or novel delivery mechanisms—all of which cost money to develop and market, and none of which guarantee success.
+Collegium is one of several specialty pharmas in pain management. Larger players (Purdue, Mallinckrodt, [Johnson & Johnson](/jnj-stock/)) have deeper market access and more diverse portfolios. Smaller competitors and generic makers compete on price. Collegium must differentiate on efficacy claims, formulary relationships, patient support programs, or novel delivery mechanisms—all of which cost money to develop and market, and none of which guarantee success.
 
 The company is not a leader in pain management, nor is it a follower awaiting acquisition. It is a mid-tier player with a real but contested market position, dependent on execution and reimbursement environment that it does not control.
 

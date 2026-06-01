@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-Camden National Corporation traces its lineage to an era when Maine's industrial heartland was thriving. In 1875, as Camden's shipbuilding and textile mills were drawing wealth and workers to the coast, local investors established the Camden National Bank. That single institution—born during the Gilded Age, navigating the panics and [recessions](/recession/) of more than a century—would become the anchor of what is now Northern New England's largest publicly traded bank holding company.
+Camden National Corporation traces its lineage to an era when Maine's industrial heartland was thriving. In 1875, as Camden's shipbuilding and textile mills were drawing wealth and workers to the coast, local investors established the Camden [National Bank](/nbhc-stock/). That single institution—born during the Gilded Age, navigating the panics and [recessions](/recession/) of more than a century—would become the anchor of what is now Northern New England's largest publicly traded bank holding company.
 
 For most of its early existence, Camden National operated as a traditional regional institution, embedded in the rhythms of a mill-based economy. Like other community banks of that era, it served individuals, merchants, and small manufacturers within a defined geographic radius, building relationships over decades and generations. The bank weathered the [Great Depression](/great-depression/), the volatility of the twentieth century, and the long structural shift away from industrial Maine toward tourism and professional services.
 

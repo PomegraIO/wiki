@@ -41,7 +41,7 @@ This is a source of persistent competitive tension. A dealer facing margin press
 
 ## Cyclicality and Affluent Consumer Sensitivity
 
-The recreational boating market is highly cyclical, linked to the wealth and spending patterns of high-net-worth consumers. In downturns, discretionary spending on luxury boats collapses faster and more severely than spending on necessities. Malibu's competitive position is therefore acutely sensitive to macroeconomic cycles and financial-market performance. A stock market crash reduces the purchasing power and confidence of Malibu's core customer base within months.
+The recreational boating market is highly cyclical, linked to the wealth and spending patterns of high-net-worth consumers. In downturns, [discretionary spending](/discretionary-spending/) on luxury boats collapses faster and more severely than spending on necessities. Malibu's competitive position is therefore acutely sensitive to macroeconomic cycles and financial-market performance. A [stock market](/stock-market/) crash reduces the purchasing power and confidence of Malibu's core customer base within months.
 
 Competitors with diversified product portfolios (ski boats, cruisers, fishing boats, entry-level recreational craft) can smooth cyclicality across product lines. Malibu's focus on wake sports and performance boating makes it more leveraged to the health of the affluent consumer segment. This is both an advantage (in strong markets, Malibu captures disproportionate growth among wealthy buyers) and a disadvantage (in downturns, the segment contracts more sharply).
 

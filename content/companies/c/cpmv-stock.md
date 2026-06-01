@@ -17,13 +17,13 @@ keywords: ["biotech", "immunology", "balance sheet", "intangible assets", "R&D"]
 
 ## The Intangible Asset Trap
 
-Most balance-sheet readers expect physical assets—buildings, equipment, inventory with cash value. Mosaic ImmunoEngineering instead carries patent portfolios, in-process R&D, and scientific expertise. These appear on the balance sheet as "goodwill," "capitalized development costs," or are buried in general intangible assets. None of this is real-estate collateral; if the firm fails, a lender cannot seize a patent and sell it at auction with confidence.
+Most balance-sheet readers expect physical assets—buildings, equipment, inventory with cash value. Mosaic ImmunoEngineering instead carries patent portfolios, in-process R&D, and scientific expertise. These appear on the balance sheet as "[goodwill](/goodwill/)," "capitalized development costs," or are buried in general [intangible assets](/intangible-assets/). None of this is real-estate collateral; if the firm fails, a lender cannot seize a patent and sell it at auction with confidence.
 
 Biotech balance sheets are exercises in faith. The largest "asset" is often the value of the research pipeline—experimental drugs at various stages of clinical testing. These have zero guaranteed market value. Regulatory approval is uncertain; even approved drugs may not sell. The asset line item "in-process research and development" is a placeholder for expensive hope. A company might have $50 million in capitalized development costs; that does not mean those compounds are worth $50 million when disclosed, nor does it guarantee FDA approval.
 
 ## Cash Burn and the Burn Rate Horizon
 
-For a firm like Mosaic, the practical balance-sheet metric is cash position and monthly burn rate. How much cash does the firm have? How fast is it spending? How many months of operation remain before cash depletes, requiring dilutive fundraising or acquisition? Early biotech firms rarely show positive earnings; they show losses. The "loss" is really R&D investment; it is spending that might eventually produce a blockbuster drug or might be money set on fire.
+For a firm like Mosaic, the practical balance-sheet metric is cash position and monthly burn rate. How much cash does the firm have? How fast is it spending? How many months of operation remain before cash depletes, requiring dilutive fundraising or [acquisition](/acquisition/)? Early biotech firms rarely show positive earnings; they show losses. The "loss" is really R&D investment; it is spending that might eventually produce a blockbuster drug or might be money set on fire.
 
 Examine the [balance-sheet](/balance-sheet/) cash line carefully. If Mosaic has $20 million cash and burns $2 million quarterly, the firm has roughly ten quarters (two and a half years) before cash approaches zero. That is the timeline in which the firm must achieve a meaningful milestone—FDA approval, a partnership deal, or success in a clinical trial—to justify new financing. Miss that window and dilution or insolvency follows.
 
@@ -35,7 +35,7 @@ Look at Mosaic's liabilities for deferred revenue or milestone payments—invest
 
 ## Stockholders' Equity and Dilution History
 
-Biotech firms live through serial dilution. Each funding round—seed, Series A, B, C—brings new investors and new shares. A founder who owned 10 million shares of 20 million outstanding (50%) may own 10 million of 100 million outstanding (10%) after four rounds. The balance sheet shows common stock and additional paid-in capital; the paid-in capital line swells as new money enters. Accumulated deficit, meanwhile, tells the operating story: if Mosaic has a $100 million accumulated deficit, it has burned $100 million cumulatively.
+Biotech firms live through serial dilution. Each funding round—seed, Series A, B, C—brings new investors and new shares. A founder who owned 10 million shares of 20 million outstanding (50%) may own 10 million of 100 million outstanding (10%) after four rounds. The balance sheet shows [common stock](/common-stock/) and additional paid-in capital; the paid-in capital line swells as new money enters. Accumulated deficit, meanwhile, tells the operating story: if Mosaic has a $100 million accumulated deficit, it has burned $100 million cumulatively.
 
 Equity holders of a biotech firm are betting on a future event—drug approval, commercial success—that is not yet on the balance sheet. Current shareholders may be fully diluted by future preferred investors. Study the cap table (share count, preferred shares, warrants, options) alongside the balance sheet; the balance sheet alone is incomplete.
 
@@ -47,7 +47,7 @@ This disconnect is a risk. If the pipeline fails, the stock can collapse even if
 
 ## Partnership and Licensing Obligations
 
-Biotech firms often partner with larger pharma companies or license out technologies. These arrangements generate upfront cash (a liability boost—deferred revenue) and long-term milestone payments (contingent liabilities). Mosaic's balance sheet footnotes should disclose these deals. A $10 million upfront payment appears as cash (strengthening the balance sheet now) but carries a risk: if the firm cannot deliver under the license, it may owe repayment.
+Biotech firms often partner with larger pharma companies or license out technologies. These arrangements generate upfront cash (a liability boost—deferred revenue) and long-term milestone payments ([contingent liabilities](/contingent-liabilities-government/)). Mosaic's balance sheet footnotes should disclose these deals. A $10 million upfront payment appears as cash (strengthening the balance sheet now) but carries a risk: if the firm cannot deliver under the license, it may owe repayment.
 
 ## Equity Volatility and Fundraising Needs
 

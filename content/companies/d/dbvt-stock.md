@@ -35,7 +35,7 @@ The filings note the company's access to capital markets as constrained. Biotech
 
 ## Intellectual Property and Patent Position
 
-DBV's value rests significantly on its patent portfolio covering the Viaskin platform, patch design, manufacturing process, and specific allergen applications. The filings detail the key patents and their expiration dates. Once a patent expires, generic competitors can enter the market, compressing pricing and market share. The company's filings note the importance of filing continuation patents and claiming new indications to extend intellectual property protection.
+DBV's value rests significantly on its patent portfolio covering the Viaskin platform, patch design, manufacturing process, and specific allergen applications. The filings detail the key patents and their [expiration dates](/expiration-contracts/). Once a patent expires, generic competitors can enter the market, compressing pricing and market share. The company's filings note the importance of filing continuation patents and claiming new indications to extend intellectual property protection.
 
 However, patent strength is not assured. A competitor could challenge the validity of DBV's patents, or design around them through alternative technical approaches. The filings note litigation risk: competitors or generics manufacturers may contest patent scope, and the outcome of patent litigation creates uncertainty around exclusivity duration and market protection.
 

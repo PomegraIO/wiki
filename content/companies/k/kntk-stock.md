@@ -4,7 +4,7 @@ description: "Kinetik is a midstream energy infrastructure operator focused on n
 keywords: ["midstream energy", "natural gas", "infrastructure", "Permian Basin", "gathering system", "energy transition"]
 ---
 
-*Embedded in the arterial infrastructure of North American hydrocarbon production, **Kinetik Holdings (KNTK)** operates as a modern midstream energy company—owning and running the pipes, processing plants, and logistics networks that move natural gas and crude oil from wellhead to market. Rather than engaging in the exploration or production that captures headlines, Kinetik extracts economic value from the fundamental fact that commodity flows require reliable, capital-intensive plumbing.*
+*Embedded in the arterial infrastructure of North American hydrocarbon production, **Kinetik Holdings (KNTK)** operates as a modern midstream energy company—owning and running the pipes, processing plants, and logistics networks that move [natural gas](/natural-gas/) and [crude oil](/crude-oil/) from wellhead to market. Rather than engaging in the exploration or production that captures headlines, Kinetik extracts economic value from the fundamental fact that commodity flows require reliable, capital-intensive plumbing.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>KNTK</td></tr>
@@ -33,7 +33,7 @@ The risk, however, is structural: midstream infrastructure designed and built to
 
 Unlike upstream producers, which profit only if commodity prices exceed their lifting costs, Kinetik generates revenue streams less tightly coupled to price volatility. The company typically earns:
 
-**Gathering fees**: Producers pay per unit volume (per thousand cubic feet of natural gas, for instance) to move their product from wellhead to processing facilities. Long-term contracts, often indexed to inflation, lock in pricing.
+**Gathering fees**: Producers pay per unit volume (per thousand cubic feet of natural gas, for instance) to move their product from wellhead to processing facilities. Long-term contracts, often indexed to [inflation](/inflation/), lock in pricing.
 
 **Processing margins**: Kinetik's plants remove impurities, separate hydrocarbons into useful fractions (ethane, propane, dry gas), and may capture value from the liquids recovered. These margins compress when commodity prices fall but remain positive over wide price ranges.
 
@@ -43,9 +43,9 @@ This model creates more stable cash flows than upstream production—a virtue th
 
 ## Competitive Landscape and Industry Consolidation
 
-Kinetik competes within a midstream sector populated by large, diversified infrastructure firms and smaller, basin-focused operators. Enterprise Products Partners, Targa Resources, Plainpipe, and others operate sprawling networks across multiple basins and commodity types. Kinetik's strategy, by contrast, emphasizes focused operations in core basins where it can achieve high utilization and deep relationships with producers.
+Kinetik competes within a midstream sector populated by large, diversified infrastructure firms and smaller, basin-focused operators. [Enterprise Products Partners](/epd-stock/), [Targa Resources](/trgp-stock/), Plainpipe, and others operate sprawling networks across multiple basins and commodity types. Kinetik's strategy, by contrast, emphasizes focused operations in core basins where it can achieve high utilization and deep relationships with producers.
 
-Consolidation has periodically reshaped midstream competition. Large firms acquire smaller rivals to achieve scale, integrate assets, and create networks with pricing power. Kinetik has positioned itself as either a consolidator-in-place—building upon its basin footprint to capture adjacent assets and volumes—or as an acquisition target for larger infrastructure firms seeking Permian-specific exposure. The firm's economic value to a larger parent would hinge on the quality of its contracts, the utilization rates of its infrastructure, and the durability of the underlying production base.
+Consolidation has periodically reshaped midstream competition. Large firms acquire smaller rivals to achieve scale, integrate assets, and create networks with pricing power. Kinetik has positioned itself as either a consolidator-in-place—building upon its basin footprint to capture adjacent assets and volumes—or as an [acquisition](/acquisition/) target for larger infrastructure firms seeking Permian-specific exposure. The firm's economic value to a larger parent would hinge on the quality of its contracts, the utilization rates of its infrastructure, and the durability of the underlying production base.
 
 ## Energy Transition Considerations and Stranded Asset Risk
 

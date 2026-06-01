@@ -23,7 +23,7 @@ This creates persistent unmet need: patients want less-frequent dosing, oral or 
 
 ## Competitive Terrain and the VEGF Incumbent Dominance
 
-The retinal disease market is carved by a small number of dominant players: Novartis (Lucentis, Beovu), Regeneron Pharmaceuticals (Eylea, Eylea HD), Allergan/AbbVie (Ozurdex and others), and Bayer (Eyer of the Storm pipeline activities). These firms have entrenched positions, established relationships with retinal specialists, robust clinical evidence supporting their products, and pricing power backed by payer reimbursement. Regeneron, in particular, has achieved extraordinary commercial success with Eylea, a product that commands multi-billion-dollar annual sales and remains the first-line choice for most retinal specialists.
+The retinal disease market is carved by a small number of dominant players: [Novartis](/nvs-stock/) (Lucentis, Beovu), [Regeneron Pharmaceuticals](/regn-stock/) (Eylea, Eylea HD), Allergan/[AbbVie](/abbv-stock/) (Ozurdex and others), and Bayer (Eyer of the Storm pipeline activities). These firms have entrenched positions, established relationships with retinal specialists, robust clinical evidence supporting their products, and pricing power backed by payer reimbursement. Regeneron, in particular, has achieved extraordinary commercial success with Eylea, a product that commands multi-billion-dollar annual sales and remains the first-line choice for most retinal specialists.
 
 Kodiak's challenge is to differentiate at either the clinical or economic level—demonstrating superior efficacy, better tolerability, less-frequent dosing, or breakthrough potential in eyes that have failed existing therapy—sufficient to justify the adoption and reimbursement friction inherent in displacing entrenched therapeutics. This is not unique to Kodiak; many biotech firms pursue similar strategies in retinal diseases. The industry's graveyard is littered with promising retinal candidates that failed in late-stage development or, more commonly, succeeded in trials but faced commercial adoption barriers when payers and physicians saw no compelling reason to switch from established, cheaper, well-understood alternatives.
 
@@ -31,7 +31,7 @@ Kodiak's challenge is to differentiate at either the clinical or economic level�
 
 Kodiak's strategy emphasizes mechanisms beyond VEGF suppression. Potential targets include inflammatory cytokines, complement pathway components, or structural proteins implicated in retinal cell death and scarring. The rationale is that retinal degeneration is multifactorial—involving inflammation, oxidative stress, neuronal loss, and vascular dysfunction—and single-pathway inhibition (VEGF alone) may be insufficient for some patients or disease stages.
 
-This mechanistic diversification creates both opportunity and risk. If Kodiak's candidate succeeds and demonstrates benefit over anti-VEGF therapy, the market reward is substantial. If it fails in the clinic—whether due to insufficient efficacy, tolerability problems, manufacturing challenges, or unexpected biology—the firm has spent years and hundreds of millions in development capital with no revenue to show. The binary nature of biotech development means that Kodiak's value hinges almost entirely on the outcomes of its late-stage clinical programs.
+This mechanistic [diversification](/diversification/) creates both opportunity and risk. If Kodiak's candidate succeeds and demonstrates benefit over anti-VEGF therapy, the market reward is substantial. If it fails in the clinic—whether due to insufficient efficacy, tolerability problems, manufacturing challenges, or unexpected biology—the firm has spent years and hundreds of millions in development capital with no revenue to show. The binary nature of biotech development means that Kodiak's value hinges almost entirely on the outcomes of its late-stage clinical programs.
 
 ## Therapeutic Development and Regulatory Pathways
 
@@ -43,7 +43,7 @@ However, retinal disease development carries its own complexities. Measuring vis
 
 Pure-play biotech firms like Kodiak are capital-intensive, burning cash in development phases and surviving through a combination of venture funding, institutional equity investment, and—once public—offerings of new equity. Kodiak's path to profitability depends on achieving regulatory approval, building commercial infrastructure, and generating sufficient revenue from approved products to offset R&D spending and ongoing trials for pipeline candidates.
 
-If Kodiak's lead candidates succeed, the firm could achieve profitability relatively quickly, given that the market for retinal therapies is large and inelastic to some price elasticity. If development fails, the firm faces a choice between pursuing alternative candidates, seeking acquisition, or returning remaining capital to shareholders and winding down.
+If Kodiak's lead candidates succeed, the firm could achieve profitability relatively quickly, given that the market for retinal therapies is large and inelastic to some price elasticity. If development fails, the firm faces a choice between pursuing alternative candidates, seeking [acquisition](/acquisition/), or returning remaining capital to shareholders and winding down.
 
 ## Acquisition and Partnership Landscape
 

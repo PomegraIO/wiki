@@ -4,7 +4,7 @@ description: "Video delivery and cable access infrastructure software company; p
 keywords: [video streaming, broadband, cable networks, software, content delivery, video infrastructure, cable operators]
 ---
 
-*A cable subscriber streaming a movie or checking email never types in "Harmonic" — they type in their cable provider's URL or open their provider's app. But behind that interface, **Harmonic (HLIT)** supplies the software and hardware infrastructure that processes billions of video streams, routes broadband traffic, and manages the network that makes cable television and internet delivery possible. A customer of Harmonic is a cable operator like Comcast or Charter, a telecom incumbent like AT&T, or an international broadband provider needing to process massive video libraries and customer data.*
+*A cable subscriber streaming a movie or checking email never types in "Harmonic" — they type in their cable provider's URL or open their provider's app. But behind that interface, **Harmonic (HLIT)** supplies the software and hardware infrastructure that processes billions of video streams, routes broadband traffic, and manages the network that makes cable television and internet delivery possible. A customer of Harmonic is a cable operator like [Comcast](/cmcsa-stock/) or Charter, a telecom incumbent like AT&T, or an international broadband provider needing to process massive video libraries and customer data.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HLIT</td></tr>
@@ -21,7 +21,7 @@ Harmonic operates in a market segment with almost no direct consumer visibility.
 
 ## The Streaming Transition and Market Pressure
 
-For decades, Harmonic profited from cable operators' need to manage video content in a broadcast and video-on-demand model. The rise of streaming services (Netflix, Disney+, Amazon Prime) and the shift of consumers' media consumption away from linear television has pressured the cable industry's traditional business model. In response, cable operators have evolved their strategies: some build their own streaming services (Comcast's Peacock, Charter's Spectrum TV+), while others focus on being the broadband pipes through which all content flows. Harmonic, as a vendor to these operators, has had to evolve alongside them. Its customers now need software that handles vast libraries of streaming content, manages the quality of experience for millions of simultaneous users, and optimizes bandwidth usage in increasingly crowded networks.
+For decades, Harmonic profited from cable operators' need to manage video content in a broadcast and video-on-demand model. The rise of streaming services ([Netflix](/nflx-stock/), Disney+, Amazon Prime) and the shift of consumers' media consumption away from linear television has pressured the cable industry's traditional business model. In response, cable operators have evolved their strategies: some build their own streaming services (Comcast's Peacock, Charter's Spectrum TV+), while others focus on being the broadband pipes through which all content flows. Harmonic, as a vendor to these operators, has had to evolve alongside them. Its customers now need software that handles vast libraries of streaming content, manages the quality of experience for millions of simultaneous users, and optimizes bandwidth usage in increasingly crowded networks.
 
 ## Two Revenue Streams: Hardware and Software
 
@@ -37,7 +37,7 @@ Outside North America, broadband and video delivery markets operate under differ
 
 ## Technology Shift to Cloud and Edge Computing
 
-The industry is moving toward cloud-native, software-defined infrastructure, where video processing and content delivery migrate from physical servers at cable headends to distributed cloud and edge nodes. Harmonic has invested in software platforms designed for this architecture, but transitioning its customer base and revenue model from hardware-heavy to software-heavy is a multi-year challenge. Customers often operate hybrid environments for years, and switching to new platforms involves testing, integration, and operational risk that makes customers conservative adopters.
+The industry is moving toward cloud-native, software-defined infrastructure, where video processing and content delivery migrate from physical servers at cable headends to distributed cloud and edge nodes. Harmonic has invested in software platforms designed for this architecture, but transitioning its customer base and revenue model from hardware-heavy to software-heavy is a multi-year challenge. Customers often operate hybrid environments for years, and switching to new platforms involves testing, integration, and [operational risk](/operational-risk/) that makes customers conservative adopters.
 
 <div class="wiki-seealso">
 ### Closely related

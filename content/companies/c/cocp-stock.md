@@ -25,7 +25,7 @@ Patents around the platform amplify the moat. Cocrystal holds patents on specifi
 
 ## Scope and Niche Positioning
 
-Cocrystal's moat is strongest when it remains focused. The company is not a diversified pharma giant with revenues spread across oncology, cardiology, and rare disease. It concentrates on antivirals targeting respiratory viruses: influenza, respiratory syncytial virus (RSV), rhinovirus, and coronaviruses. This narrow focus is a strategic choice. It allows the team to deepen expertise in a small set of viral families and their structural biology. It also limits the company's direct competition—it is not competing with Merck or Pfizer across all therapeutic areas, but only in the smaller, more specialized space of rational-design respiratory antivirals.
+Cocrystal's moat is strongest when it remains focused. The company is not a diversified pharma giant with revenues spread across oncology, cardiology, and rare disease. It concentrates on antivirals targeting respiratory viruses: influenza, respiratory syncytial virus (RSV), rhinovirus, and coronaviruses. This narrow focus is a strategic choice. It allows the team to deepen expertise in a small set of viral families and their structural biology. It also limits the company's direct competition—it is not competing with Merck or [Pfizer](/pfe-stock/) across all therapeutic areas, but only in the smaller, more specialized space of rational-design respiratory antivirals.
 
 That niche positioning is also the moat's weakness. If the company fails to deliver a clinical candidate, or if a larger pharma commits to the same space and outspends them, the moat collapses. Large firms can absorb failures; small biotechs cannot. Cocrystal's protection depends on staying ahead of the R&D curve in its chosen niche.
 
@@ -43,9 +43,9 @@ However, clinical success is uncertain. Many rational-design candidates fail in 
 
 ## Competitive Threats and Erosion
 
-Large pharmaceutical firms have made respiratory antivirals a strategic priority, particularly since the COVID-19 pandemic. Merck, Pfizer, and others have approved or are developing antivirals in Cocrystal's target space. These competitors have manufacturing scale, regulatory experience, sales forces, and pricing power that Cocrystal does not. They also have balance sheets allowing them to fund R&D in multiple approaches simultaneously—not just rational design but also high-throughput screening, virtual screening, and others.
+Large pharmaceutical firms have made respiratory antivirals a strategic priority, particularly since the COVID-19 pandemic. Merck, Pfizer, and others have approved or are developing antivirals in Cocrystal's target space. These competitors have manufacturing scale, regulatory experience, sales forces, and pricing power that Cocrystal does not. They also have [balance sheets](/balance-sheet/) allowing them to fund R&D in multiple approaches simultaneously—not just rational design but also high-throughput screening, virtual screening, and others.
 
-The threat to Cocrystal is not that it lacks a moat but that the moat is finite and competitive. If the company's lead candidate succeeds clinically, the moat buys time—perhaps a window to profitability or acquisition. If it fails, the moat offers little protection because a failed clinical program is worthless regardless of how elegant the science.
+The threat to Cocrystal is not that it lacks a moat but that the moat is finite and competitive. If the company's lead candidate succeeds clinically, the moat buys time—perhaps a window to profitability or [acquisition](/acquisition/). If it fails, the moat offers little protection because a failed clinical program is worthless regardless of how elegant the science.
 
 Cocrystal's moat is real but precarious: it is built on a specialized skill (rational antiviral design), concentrated focus (respiratory viruses), patent protection (time-limited), and the credibility earned by clinical success (not yet proven at scale). The company's survival depends on executing this plan before larger competitors either replicate the approach or overwhelm it with resources.
 

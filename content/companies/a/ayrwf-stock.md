@@ -17,7 +17,7 @@ The company's core operations center on controlled-environment cultivation facil
 
 ## Geographic Footprint and Product Portfolio
 
-Ayr's revenue model divides across retail sales channels and wholesale product distribution. Its retail stores carry both proprietary and third-party branded products, with particular focus on high-margin packaged goods and consumables. The company operated retail locations in each of its [target](/tgt-stock/) states, with Florida historically representing the largest market opportunity given the state's mature medical cannabis licensing framework.
+Ayr's revenue model divides across retail sales channels and wholesale product distribution. Its retail stores carry both proprietary and third-party branded products, with particular focus on high-margin packaged goods and consumables. The company operated retail locations in each of its target states, with Florida historically representing the largest market opportunity given the state's mature medical cannabis licensing framework.
 
 | Segment | Focus Area | Status |
 |---------|-----------|--------|

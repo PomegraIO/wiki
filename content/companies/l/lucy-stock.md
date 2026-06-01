@@ -23,7 +23,7 @@ This positioning creates a tension. The eyewear market rewards either brand cach
 
 ## Market Position and Distribution
 
-LUCY operates through two primary channels: wholesale supply to optical retailers and direct-to-consumer online sales. The wholesale channel ties the company's fortunes to the retail optical market—optometrists, ophthalmologists, and chains like Warby Parker and LensCrafters who stock multiple brands. Here, LUCY must prove that its frame styles or lens technologies drive higher attach rates, lower returns, and customer loyalty relative to house brands or established competitors.
+LUCY operates through two primary channels: wholesale supply to optical retailers and direct-to-consumer online sales. The wholesale channel ties the company's fortunes to the retail optical market—optometrists, ophthalmologists, and chains like [Warby Parker](/wrby-stock/) and LensCrafters who stock multiple brands. Here, LUCY must prove that its frame styles or lens technologies drive higher attach rates, lower returns, and customer loyalty relative to house brands or established competitors.
 
 The direct channel bypasses traditional retail, positioning LUCY against digital natives who have no supply chain or manufacturing heritage but operate at lower cost. This duality mirrors the broader industry tension: optical retail remains rooted in local shops and professional oversight, yet consumer purchasing has shifted online. LUCY's dual-channel strategy hedges this volatility, but it also incurs the cost of maintaining both channels in parallel, a burden that pure-play e-commerce or pure-play retail avoid.
 

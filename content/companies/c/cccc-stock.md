@@ -61,7 +61,7 @@ The market size for oncology drugs is large (the most-expensive disease category
 
 ## Strategic Partnerships and Liquidity Options
 
-C4 can raise capital and de-risk programs through partnerships. A larger pharma company might co-develop a program, providing capital and expertise in exchange for co-ownership of profits or sales. Alternatively, C4 could be acquired by a larger biotech or pharma company seeking to add protein degradation assets to its pipeline. The acquisition price would reflect the value of the pipeline and technology platform.
+C4 can raise capital and de-risk programs through partnerships. A larger pharma company might co-develop a program, providing capital and expertise in exchange for co-ownership of profits or sales. Alternatively, C4 could be acquired by a larger biotech or pharma company seeking to add protein degradation assets to its pipeline. The [acquisition](/acquisition/) price would reflect the value of the pipeline and technology platform.
 
 Without partnerships or a successful marketed drug, C4 must repeatedly raise equity capital, diluting existing shareholders each round. This path is viable as long as investors believe in the pipeline, but each failed trial or disappointing clinical result will reduce investor appetite and raise the cost of capital.
 

@@ -21,11 +21,11 @@ An insurer collects premium income at known times and in known amounts, but clai
 
 ## Catastrophe Exposure and Tail Risk
 
-Catastrophic events — hurricanes, earthquakes, industrial accidents, liability litigation clusters — can occur with little warning and generate losses that vastly exceed the year's premium income. JRVR, as an underwriter with real exposure, faces this tail risk directly. The company purchases [reinsurance](/bond/) to transfer some of this risk, but reinsurance is expensive and imperfect; it creates moral hazard (once you transfer risk, you lose the incentive to manage it tightly) and leaves a layer of uninsured exposure. A single major catastrophe can wipe out years of underwriting profit. Moreover, as climate change and social conditions generate new loss patterns, JRVR's actuarial models — built on historical loss data — become less reliable. Modeling error can leave the company chronically under-reserved for emerging risks like coastal flooding, wildfire, or litigation regarding product liability.
+Catastrophic events — hurricanes, earthquakes, industrial accidents, liability litigation clusters — can occur with little warning and generate losses that vastly exceed the year's premium income. JRVR, as an underwriter with real exposure, faces this [tail risk](/tail-risk/) directly. The company purchases [reinsurance](/bond/) to transfer some of this risk, but reinsurance is expensive and imperfect; it creates moral hazard (once you transfer risk, you lose the incentive to manage it tightly) and leaves a layer of uninsured exposure. A single major catastrophe can wipe out years of underwriting profit. Moreover, as climate change and social conditions generate new loss patterns, JRVR's actuarial models — built on historical loss data — become less reliable. Modeling error can leave the company chronically under-reserved for emerging risks like coastal flooding, wildfire, or litigation regarding product liability.
 
 ## Interest Rate and Investment Portfolio Risk
 
-Insurers collect premium and invest it until claims must be paid. JRVR's investment portfolio — typically weighted toward bonds and high-quality equities — generates income and capital appreciation that supplements underwriting profit. However, the portfolio creates its own risks. Rising interest rates reduce bond prices; a sudden need to liquidate bonds at depressed prices (forced by large unexpected claims) locks in losses. Conversely, a prolonged low-rate environment pressures investment income. Equity holdings introduce volatility and market risk. The matching between investment horizons and claims payment patterns is imperfect; JRVR must balance yield against liquidity. A portfolio tilt toward higher-yielding assets creates spread risk and, if rates fall, opportunity cost.
+Insurers collect premium and invest it until claims must be paid. JRVR's investment portfolio — typically weighted toward bonds and high-quality equities — generates income and capital appreciation that supplements underwriting profit. However, the portfolio creates its own risks. Rising [interest rates](/interest-rate/) reduce bond prices; a sudden need to liquidate bonds at depressed prices (forced by large unexpected claims) locks in losses. Conversely, a prolonged low-rate environment pressures investment income. Equity holdings introduce volatility and [market risk](/market-risk/). The matching between investment horizons and claims payment patterns is imperfect; JRVR must balance yield against liquidity. A portfolio tilt toward higher-yielding assets creates spread risk and, if rates fall, opportunity cost.
 
 ## Competitive Margin Compression
 
@@ -41,7 +41,7 @@ JRVR relies on reinsurers to absorb large losses. Reinsurance counterparties are
 
 ## Claims Inflation and Adverse Development
 
-Historical claims experience is JRVR's foundation for reserving and pricing. But claims inflate faster than general inflation when liability standards shift, medical costs rise, or litigation becomes more aggressive. A workers' compensation insurer that underpriced claims, expecting historical claim sizes, faces adverse development when actual claims exceed reserves. Once reserve deficiencies are identified, the company must take charge-backs against profit and raise reserves, which crushes reported earnings and signals underwriting failure to the market. Adverse development is a persistent hazard; JRVR must assume that some portion of past underwriting will eventually be revealed as mispriced and require reserve additions.
+Historical claims experience is JRVR's foundation for reserving and pricing. But claims inflate faster than general [inflation](/inflation/) when liability standards shift, medical costs rise, or litigation becomes more aggressive. A workers' compensation insurer that underpriced claims, expecting historical claim sizes, faces adverse development when actual claims exceed reserves. Once reserve deficiencies are identified, the company must take charge-backs against profit and raise reserves, which crushes reported earnings and signals underwriting failure to the market. Adverse development is a persistent hazard; JRVR must assume that some portion of past underwriting will eventually be revealed as mispriced and require reserve additions.
 
 ## Looking to SEC Filings
 
@@ -50,7 +50,7 @@ Investors evaluating JRVR should examine its [10-K](/10-k/) for loss-reserve ade
 <div class="wiki-seealso">
 ### Closely related
 - Insurance underwriting and risk fundamentals
-- Reinsurance markets and counterparty risk
+- Reinsurance markets and [counterparty risk](/counterparty-risk/)
 - Catastrophe bonds as capital management tools
 
 ### Wider context

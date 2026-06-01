@@ -27,7 +27,7 @@ Once a teacher is in an Horace Mann group, renewal is typically automatic: if th
 
 An insurer's profitability is measured by the combined ratio: (Claims Paid + Operating Expenses) / Premiums Collected. A combined ratio below 100% means the insurer is profitable on underwriting alone; above 100% means the insurer loses money on underwriting and depends on investment income to remain profitable overall.
 
-For Horace Mann, the relevant unit economics are the loss ratio and expense ratio for each line of business. Teachers' automobile insurance, for example, might have a loss ratio of 60% (meaning 60 cents of every premium dollar is paid out in claims) and an expense ratio of 25% (25 cents per premium dollar goes to underwriting, marketing, claims processing, and overhead). That yields a combined ratio of 85%, which is profitable. Home insurance for educators might have similar economics.
+For Horace Mann, the relevant unit economics are the loss ratio and [expense ratio](/expense-ratio/) for each line of business. Teachers' automobile insurance, for example, might have a loss ratio of 60% (meaning 60 cents of every premium dollar is paid out in claims) and an expense ratio of 25% (25 cents per premium dollar goes to underwriting, marketing, claims processing, and overhead). That yields a combined ratio of 85%, which is profitable. Home insurance for educators might have similar economics.
 
 The company's life insurance business operates on different mechanics: life insurance premiums are typically much higher relative to claims (because death is less frequent than accidents), and the company's investment return on accumulated premiums is critical to profitability. A life insurer that prices policies assuming a 4% investment return and achieves only a 2% return will struggle to meet underwriting targets.
 
@@ -37,7 +37,7 @@ Horace Mann's fundamental advantage is that educators are, on average, a lower-r
 
 However, this advantage has limits. An educator is still a human: accidents, illnesses, and deaths occur at rates governed by age, geography, and individual behavior. As the educator population ages, claims experience worsens. Older drivers have higher accident rates; older individuals require more medical care. If Horace Mann's policyholder base is aging faster than the general population, claims experience could deteriorate relative to younger-population competitors.
 
-The company's claims experience is also sensitive to economic and social trends. A severe recession increases automobile accident rates (people drive more when searching for work); opioid epidemics increase life insurance claims; catastrophic weather events spike home insurance claims. Horace Mann's exposure to these trends depends on the geographic distribution of policyholders and the company's portfolio mix.
+The company's claims experience is also sensitive to economic and social trends. A severe [recession](/recession/) increases automobile accident rates (people drive more when searching for work); opioid epidemics increase life insurance claims; catastrophic weather events spike home insurance claims. Horace Mann's exposure to these trends depends on the geographic distribution of policyholders and the company's portfolio mix.
 
 ## Pricing Discipline and Market Competition
 
@@ -49,35 +49,35 @@ However, if competitors begin competing aggressively for educator customers—of
 
 ## Capital Structure and Investment Returns
 
-Insurance companies have a unique opportunity: they collect premiums before paying claims, which means they hold customers' money (float) and invest it in securities, bonds, and other assets. Horace Mann's underwriting profitability is supplemented by investment income on the float. If the company invests float in high-yielding bonds and equities and underwriting is break-even or slightly profitable, the company can be overall profitable due to investment returns.
+Insurance companies have a unique opportunity: they collect premiums before paying claims, which means they hold customers' money (float) and invest it in securities, [bonds](/bond/), and other assets. Horace Mann's underwriting profitability is supplemented by investment income on the float. If the company invests float in high-yielding bonds and equities and underwriting is break-even or slightly profitable, the company can be overall profitable due to investment returns.
 
-This creates a hidden leverage: when interest rates are high, insurance companies benefit from higher yields on bond portfolios; when rates fall, investment income falls and profitability compresses. A company relying on investment returns to shore up weak underwriting profitability is vulnerable to interest rate declines.
+This creates a hidden leverage: when [interest rates](/interest-rate/) are high, insurance companies benefit from higher yields on bond portfolios; when rates fall, investment income falls and profitability compresses. A company relying on investment returns to shore up weak underwriting profitability is vulnerable to interest rate declines.
 
 Horace Mann must therefore manage its investment portfolio carefully. Conservative positioning (bonds, cash) limits return but reduces risk; aggressive positioning (equities, long-duration bonds) increases return but increases drawdown risk during market crashes. The company's capital-allocation decisions directly affect unit economics.
 
 ## Acquisition and Retention Economics
 
-Horace Mann's growth depends on member acquisition (new educators bought to insurance policies) and retention (existing members keeping policies). The acquisition cost per member depends on the channel: group acquisitions are far cheaper than individual acquisitions. A school district with 1,000 teachers that adopts Horace Mann adds 1,000 members at a cost of perhaps $50,000 for underwriting, underwriting, and implementation—or $50 per member. An individual teacher acquired through direct mail or digital marketing might cost $100–300 to acquire.
+Horace Mann's growth depends on member acquisition (new educators bought to insurance policies) and retention (existing members keeping policies). The acquisition cost per member depends on the channel: group [acquisitions](/acquisition/) are far cheaper than individual acquisitions. A school district with 1,000 teachers that adopts Horace Mann adds 1,000 members at a cost of perhaps $50,000 for underwriting, underwriting, and implementation—or $50 per member. An individual teacher acquired through direct mail or digital marketing might cost $100–300 to acquire.
 
 Retention economics are also critical. If 15% of individual policyholders lapse each year, the insurer must acquire 15 new individuals per 100 existing members just to stay flat. If group churn is 5%, the insurer must acquire far fewer groups to grow. The company's investment in distribution through school districts is partly a play on lower retention cost and higher lifetime value.
 
 ## Regulatory and Interest-Rate Sensitivities
 
-Horace Mann is subject to state insurance regulation, which constrains pricing (states set or influence rates), claims handling, and capital requirements. A state that tightens rate regulation or mandates claims payment terms can erode unit economics. The company is also exposed to federal interest-rate policy: when the Federal Reserve raises rates, bond yields rise and investment income increases; when rates fall, investment income falls.
+Horace Mann is subject to state insurance regulation, which constrains pricing (states set or influence rates), claims handling, and capital requirements. A state that tightens rate regulation or mandates claims payment terms can erode unit economics. The company is also exposed to federal interest-rate policy: when the [Federal Reserve](/federal-reserve/) raises rates, bond yields rise and investment income increases; when rates fall, investment income falls.
 
-The company's reliance on the educator market is both a strength and a weakness. Strength: that market is stable, low-risk, and renewals are predictable. Weakness: the company has no geographic or demographic diversification—if educator populations decline, or if a major school district cuts ties with Horace Mann, the company has limited offsetting growth opportunities.
+The company's reliance on the educator market is both a strength and a weakness. Strength: that market is stable, low-risk, and renewals are predictable. Weakness: the company has no geographic or demographic [diversification](/diversification/)—if educator populations decline, or if a major school district cuts ties with Horace Mann, the company has limited offsetting growth opportunities.
 
 ## Financial Stability and Solvency
 
 As a regulated insurance company, Horace Mann must maintain minimum capital ratios set by state regulators and national insurance oversight. If the company's underwriting losses or investment losses cause capital to fall below thresholds, regulators can restrict the company's ability to write new business or force capital injections from shareholders.
 
-The company's balance sheet is therefore crucial: abundant capital and liquid reserves allow for short-term underwriting losses or market downturns without regulatory pressure; thin capital leaves little margin for error. Investors should examine whether the company's capital levels are adequate given its business mix and risk profile.
+The company's [balance sheet](/balance-sheet/) is therefore crucial: abundant capital and liquid reserves allow for short-term underwriting losses or market downturns without regulatory pressure; thin capital leaves little margin for error. Investors should examine whether the company's capital levels are adequate given its business mix and risk profile.
 
 ## Path to Sustained Profitability
 
 Horace Mann's path to sustained profitability requires three things: accurate claims underwriting (pricing policies correctly so that total claims plus expenses stay below premiums), disciplined capital allocation (investing float to generate adequate returns), and consistent member retention (keeping educator customers from switching to competitors).
 
-The company's scale limits its ability to diversify away from educator risk. A larger insurance company with multiple customer segments can offset weakness in one segment with strength in another; Horace Mann cannot. This concentration risk is reflected in the company's stock price and valuation—investors should demand a margin of safety given the lack of diversification.
+The company's scale limits its ability to diversify away from educator risk. A larger insurance company with multiple customer segments can offset weakness in one segment with strength in another; Horace Mann cannot. This [concentration risk](/concentration-risk/) is reflected in the company's stock price and valuation—investors should demand a margin of safety given the lack of diversification.
 
 The company's viability also depends on the stability of the educator market itself. If K-12 education undergoes structural change—charter school growth, homeschooling expansion, teacher shortages, consolidation of school districts—Horace Mann's addressable market could shrink. The company's long-term success depends on educators remaining a stable, definable, and growing market segment, which is not guaranteed.
 

@@ -4,7 +4,7 @@ description: "A snack-food processor competing on operational efficiency, supply
 keywords: ["food manufacturing", "snack foods", "nuts", "private label", "commodity pricing", "supply chain"]
 ---
 
-*In the processed-food landscape where national brands (PepsiCo, Mondelez, General Mills) command shelf space and marketing budgets, **John B. Sanfilippo & Son (JBSS)** competes as a producer-supplier, operating nut-processing facilities and manufacturing snack products for retailers' private-label lines and smaller branded competitors. The company's competitive edge is not brand power or distribution clout but operational scale, supply-chain relationships with farmers and agricultural traders, and the efficiency of its roasting and processing plants—assets that create stickiness with retail customers who depend on JBSS for consistent, quality supply at controlled costs.*
+*In the processed-food landscape where national brands (PepsiCo, Mondelez, [General Mills](/gis-stock/)) command shelf space and marketing budgets, **John B. Sanfilippo & Son (JBSS)** competes as a producer-supplier, operating nut-processing facilities and manufacturing snack products for retailers' private-label lines and smaller branded competitors. The company's competitive edge is not brand power or distribution clout but operational scale, supply-chain relationships with farmers and agricultural traders, and the efficiency of its roasting and processing plants—assets that create stickiness with retail customers who depend on JBSS for consistent, quality supply at controlled costs.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>JBSS</td></tr>
@@ -17,7 +17,7 @@ keywords: ["food manufacturing", "snack foods", "nuts", "private label", "commod
 
 ## The Private-Label Economy and Retail Consolidation
 
-The grocery market has undergone decades-long consolidation: Albertsons, Kroger, Walmart, Costco, and a handful of other chains now control most shelf space in the United States. These chains have enormous leverage over manufacturers. They demand low prices, set terms that compress supplier margins, and increasingly push their own private-label products—which they can brand and price as they choose.
+The grocery market has undergone decades-long consolidation: Albertsons, [Kroger](/kr-stock/), [Walmart](/wmt-stock/), Costco, and a handful of other chains now control most shelf space in the United States. These chains have enormous leverage over manufacturers. They demand low prices, set terms that compress supplier margins, and increasingly push their own private-label products—which they can brand and price as they choose.
 
 JBSS competes in this environment not by selling "Sanfilippo Brand" products to consumers (a strategy that would require national marketing spend the company cannot afford) but by manufacturing snack products for retailers' private-label lines. Kroger needs roasted cashews for its "Kroger Cashews" SKU; Costco needs bulk almonds for its Kirkland line. JBSS has the processing capacity and supply relationships to deliver consistent, cost-effective volumes. This is a commodity-like relationship—the buyer cares about price, quality, and reliability, not brand prestige—but it is sticky because switching suppliers is operationally disruptive.
 
@@ -59,7 +59,7 @@ This is why scale matters so much for JBSS. Operating a large facility at high c
 
 Consumer snacking is relatively recession-resistant—people buy snacks even in downturns, though they may shift to private-label products. JBSS benefits from this shift: when consumers trade down from branded snacks to retailers' private-label lines, demand for JBSS's products increases.
 
-But JBSS is also exposed to broader economic cycles through retail customer health. A prolonged recession that squeezes retail customers' margins puts pressure on suppliers to cut costs. Retailers consolidate suppliers, demand deeper discounts, and improve their own margins at suppliers' expense. JBSS's ability to weather this depends on its cost leadership and customer stickiness.
+But JBSS is also exposed to broader economic cycles through retail customer health. A prolonged [recession](/recession/) that squeezes retail customers' margins puts pressure on suppliers to cut costs. Retailers consolidate suppliers, demand deeper discounts, and improve their own margins at suppliers' expense. JBSS's ability to weather this depends on its cost leadership and customer stickiness.
 
 ## Competitive Evolution and Margin Defense
 

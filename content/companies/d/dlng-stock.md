@@ -4,7 +4,7 @@ description: "A shipping company specializing in liquefied natural gas (LNG) tra
 keywords: ["LNG shipping", "liquefied natural gas", "maritime", "infrastructure", "energy"]
 ---
 
-*[Dynagas LNG Partners LP](/dlng-stock/) (DLNG) operates a fleet of liquefied natural gas carriers in global shipping markets, tracing its existence to the mid-2000s when rising energy demand and LNG supply expansion created demand for dedicated carriers. Structured as a [master limited partnership](/special-purpose-acquisition-company/), the company serves as an intermediary between LNG producers seeking reliable vessel capacity and consumers dependent on long-distance seaborne transport of natural gas.*
+*[Dynagas LNG Partners LP](/dlng-stock/) (DLNG) operates a fleet of liquefied [natural gas](/natural-gas/) carriers in global shipping markets, tracing its existence to the mid-2000s when rising energy demand and LNG supply expansion created demand for dedicated carriers. Structured as a [master limited partnership](/special-purpose-acquisition-company/), the company serves as an intermediary between LNG producers seeking reliable vessel capacity and consumers dependent on long-distance seaborne transport of natural gas.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ The founding coincided with a shift in how energy companies viewed transportatio
 
 The company's evolution reflects broader structural changes in shipping finance. Initially, Dynagas operated as a conventional shipping company, purchasing vessels and managing fleets. But in the early 2010s, it restructured as a master limited partnership (MLP), a legal form common in energy infrastructure that allows the company to distribute cash flow directly to unitholders with tax advantages. This shift was not incidental; it reflected economic reality. LNG shipping generates stable, long-term cash flows—vessels are chartered on multi-year contracts with predictable pricing—and requires continuous capital reinvestment. The MLP structure allowed Dynagas to attract capital from yield-seeking investors (pension funds, insurance companies, high-net-worth holders) who valued the distributions more than capital appreciation.
 
-The partnership structure also simplified ownership and governance. Rather than managing a traditional corporate balance sheet with equity and debt, an MLP distributes nearly all cash after maintenance capital expenditures and debt service to unitholders. This means Dynagas's purpose became mechanically aligned with cash generation rather than growth or market share. The company would acquire vessels that fit its charter criteria, finance them with debt, and pass remaining cash to unitholders.
+The partnership structure also simplified ownership and governance. Rather than managing a traditional corporate [balance sheet](/balance-sheet/) with equity and debt, an MLP distributes nearly all cash after maintenance capital expenditures and debt service to unitholders. This means Dynagas's purpose became mechanically aligned with cash generation rather than growth or market share. The company would acquire vessels that fit its charter criteria, finance them with debt, and pass remaining cash to unitholders.
 
 ## Fleet Composition and Charter Economics
 
@@ -43,7 +43,7 @@ This dependence on long-term contracts with major oil and gas companies created 
 
 ## Capital Discipline and Debt
 
-As an MLP, Dynagas prioritized distributions to unitholders, which meant the company could not easily accumulate cash for major fleet modernization or expansion. This created a paradox: in boom periods, the company distributed cash and took on more debt to fund new acquisitions. In downturns, distributions had to be cut or suspended, which immediately damaged the company's unit price and made access to capital more difficult. The company's debt structure—typically a combination of bank loans and bonds—had to cover decades-long vessel mortgages, requiring long-dated financing and strong credit ratings from counterparties.
+As an MLP, Dynagas prioritized distributions to unitholders, which meant the company could not easily accumulate cash for major fleet modernization or expansion. This created a paradox: in boom periods, the company distributed cash and took on more debt to fund new [acquisitions](/acquisition/). In downturns, distributions had to be cut or suspended, which immediately damaged the company's unit price and made access to capital more difficult. The company's debt structure—typically a combination of bank loans and [bonds](/bond/)—had to cover decades-long vessel mortgages, requiring long-dated financing and strong [credit ratings](/credit-rating/) from counterparties.
 
 The founding vision of Dynagas—a pure-play LNG shipping company with stable, long-term contracts and high cash generation—depended on assumptions about energy markets that proved increasingly fragile. The company's origin as an operator of a niche but essential maritime service fit a specific moment in global energy. How that moment would evolve—whether LNG trade would expand or contract, whether renewables would disrupt gas markets, whether climate policy would reshape demand—was unknowable at founding, yet it determined everything about the company's trajectory.
 

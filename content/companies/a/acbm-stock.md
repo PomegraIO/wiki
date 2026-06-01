@@ -17,7 +17,7 @@ ACRO BIOMEDICAL produces orthopedic and medical devices focused on bone fixation
 
 ## How does the business model generate revenue?
 
-Revenue comes from selling medical devices to healthcare institutions, orthopedic specialists, and surgical centers. Demand depends on procedure volume in [target](/tgt-stock/) geographies and the frequency with which surgeons and hospitals upgrade to newer implant systems. Pricing is set based on product complexity, regulatory clearances, clinical evidence supporting superior outcomes, and competitive positioning against global and regional competitors. Customer concentration varies by geography—some revenue may come from large hospital networks or exclusive distributors in specific countries.
+Revenue comes from selling medical devices to healthcare institutions, orthopedic specialists, and surgical centers. Demand depends on procedure volume in target geographies and the frequency with which surgeons and hospitals upgrade to newer implant systems. Pricing is set based on product complexity, regulatory clearances, clinical evidence supporting superior outcomes, and competitive positioning against global and regional competitors. Customer concentration varies by geography—some revenue may come from large hospital networks or exclusive distributors in specific countries.
 
 ## What competitive advantages does ACRO possess?
 

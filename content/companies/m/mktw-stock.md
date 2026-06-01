@@ -36,7 +36,7 @@ This also means the company is vulnerable to shifts in how people consume financ
 
 ## How the 10-K Tells This Story
 
-Reading Marketwise's [10-K](/10-k/) filing reveals the exact composition of revenue and the rate at which the company achieves [operating-margin](/operating-margin/) improvements. The company discloses user counts, subscription counts, and advertising revenue separately, allowing a reader to reverse-engineer subscriber acquisition cost and lifetime value. Observing how these metrics change year-over-year shows whether the company is optimizing the mix of free and paid users, or burning cash to grow subscribers without regard to payback.
+Reading Marketwise's [10-K](/10-k/) filing reveals the exact composition of revenue and the rate at which the company achieves [operating-margin](/operating-margin/) improvements. The company discloses user counts, subscription counts, and advertising revenue separately, allowing a reader to reverse-engineer subscriber [acquisition](/acquisition/) cost and lifetime value. Observing how these metrics change year-over-year shows whether the company is optimizing the mix of free and paid users, or burning cash to grow subscribers without regard to payback.
 
 ## The Perpetual Question of Scale Without Moat
 

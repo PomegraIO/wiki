@@ -41,7 +41,7 @@ The shift toward digital distribution and simplified underwriting practices refl
 
 Globe Life occupies a distinct niche in U.S. insurance: providing life and health coverage to middle-income and working-class Americans who often lack access to employer-sponsored plans or who seek supplemental coverage. It competes with national carriers like AFLAC and Allstate, as well as smaller regional and specialist insurers, but differentiates itself through simplified underwriting, agent relationships, and brand familiarity.
 
-The company has not pursued the large-scale acquisitions or consolidation that have reshaped the industry in recent years. Instead, it has deepened its footprint in its [target](/tgt-stock/) markets and expanded digital capabilities. Its brands are recognizable to millions of U.S. households, particularly across the South and Midwest, which provides a durable moat against commoditization.
+The company has not pursued the large-scale acquisitions or consolidation that have reshaped the industry in recent years. Instead, it has deepened its footprint in its target markets and expanded digital capabilities. Its brands are recognizable to millions of U.S. households, particularly across the South and Midwest, which provides a durable moat against commoditization.
 
 **Revenue drivers and profitability**
 

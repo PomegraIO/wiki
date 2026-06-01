@@ -33,7 +33,7 @@ As a smaller public biotech, Cardiol operates with finite staffing, limited manu
 
 ## Capital Efficiency and Financing Risk
 
-Cardiol operates with the capital constraints typical of microcap biotechs. The company must advance programs within cash-on-hand and any new capital it raises, without the cushion of product revenues. If capital markets tighten or biotech sector sentiment deteriorates, Cardiol may face inflated cost of equity financing or inability to raise sufficient capital without substantial shareholder dilution. Partnerships or out-licensing deals could provide funding relief, but they also transfer upside opportunity and introduce counterparty risk. Each financing event tests market confidence in the company's science and management.
+Cardiol operates with the capital constraints typical of microcap biotechs. The company must advance programs within cash-on-hand and any new capital it raises, without the cushion of product revenues. If capital markets tighten or biotech sector sentiment deteriorates, Cardiol may face inflated cost of [equity financing](/equity-financing/) or inability to raise sufficient capital without substantial shareholder dilution. Partnerships or out-licensing deals could provide funding relief, but they also transfer upside opportunity and introduce [counterparty risk](/counterparty-risk/). Each financing event tests market confidence in the company's science and management.
 
 ## Intellectual Property and Freedom to Operate
 
@@ -45,7 +45,7 @@ Some Cardiol programs may pursue novel mechanisms or rare cardiac indications wh
 
 ## Dependence on Continued Capital Markets Access
 
-Ultimately, Cardiol's ability to execute depends on its repeated access to the capital markets—equity raises, debt financing, or strategic partnerships that inject cash. In a downturn in biotech sentiment or equity markets generally, access to capital may vanish, forcing the company to halt programs, divest assets, or seek rescue financing at distressed valuations. This refinancing risk is structural to preclinical and clinical-stage biotechs; investors must assess the company's current runway and likelihood of achieving value-inflecting milestones (trial readouts, partnerships) before capital becomes constrained.
+Ultimately, Cardiol's ability to execute depends on its repeated access to the capital markets—equity raises, [debt financing](/debt-financing/), or strategic partnerships that inject cash. In a downturn in biotech sentiment or equity markets generally, access to capital may vanish, forcing the company to halt programs, divest assets, or seek rescue financing at distressed valuations. This [refinancing risk](/refinancing-risk/) is structural to preclinical and clinical-stage biotechs; investors must assess the company's current runway and likelihood of achieving value-inflecting milestones (trial readouts, partnerships) before capital becomes constrained.
 
 <div class="wiki-seealso">
 ### Closely related

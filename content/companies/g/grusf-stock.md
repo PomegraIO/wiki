@@ -4,7 +4,7 @@ description: "Cannabis cultivation and retailer operating in the Pacific Northwe
 keywords: ["cannabis", "cultivation", "retail", "agriculture", "Pacific Northwest", "SEC"]
 ---
 
-*Grown Rogue (GRUSF) sits at the intersection of two opposing forces: a powerful long-term legalization trend reshaping cannabis from prohibited substance to regulated commodity, and intensifying price deflation as supply outpaces demand across mature state markets. The company's prospects hinge less on whether cannabis consumption grows—the secular case is compelling—and more on whether it can survive the margin compression that arrives as the industry consolidates and commoditizes.*
+*Grown Rogue (GRUSF) sits at the intersection of two opposing forces: a powerful long-term legalization trend reshaping cannabis from prohibited substance to regulated commodity, and intensifying price [deflation](/deflation/) as supply outpaces demand across mature state markets. The company's prospects hinge less on whether cannabis consumption grows—the secular case is compelling—and more on whether it can survive the margin compression that arrives as the industry consolidates and commoditizes.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GRUSF</td></tr>
@@ -43,13 +43,13 @@ The classic pattern: first-mover advantage vanishes. Regulatory licensing become
 
 Cannabis operators face two simultaneous regulatory cycles. The first is favorable: gradual legalization at state and federal levels. The second is adverse: each state's maturing market oversupplies, triggering tightening of regulations (plant count caps, licensing freezes, testing mandates) as policymakers try to support incumbent operators and tax revenue stability.
 
-Capital cycles are equally volatile. Cannabis firms cannot bank with federally chartered institutions; access to credit is restricted. Equity financing from institutional investors has been spotty, depending on sentiment toward the sector. A regulatory setback (a state rejecting licenses, the federal government intensifying enforcement) can freeze capital markets instantly. Grown Rogue's funding runway depends on maintaining profitability or securing private capital—both challenging when wholesale prices are collapsing.
+Capital cycles are equally volatile. Cannabis firms cannot bank with federally chartered institutions; access to credit is restricted. [Equity financing](/equity-financing/) from institutional investors has been spotty, depending on sentiment toward the sector. A regulatory setback (a state rejecting licenses, the federal government intensifying enforcement) can freeze capital markets instantly. Grown Rogue's funding runway depends on maintaining profitability or securing private capital—both challenging when wholesale prices are collapsing.
 
 ## Vertical Integration as a Hedge
 
 Grown Rogue operates cultivation and retail outlets, giving it some leverage to protect margins. A pure-play grower must accept wholesale prices set by the market. A vertically integrated operator can sell some output at retail, capturing the entire margin stack. This is a structural advantage in a commodity market.
 
-However, vertical integration also creates exposure: retail demand in Oregon and Washington is itself cyclical, tied to local discretionary spending. In a regional recession, retail cannabis spending softens before it recovers. A cultivation-focused operator in a national downturn might maintain market share but see wholesale prices remain depressed. A retail-focused operator might see traffic decline.
+However, vertical integration also creates exposure: retail demand in Oregon and Washington is itself cyclical, tied to local [discretionary spending](/discretionary-spending/). In a regional [recession](/recession/), retail cannabis spending softens before it recovers. A cultivation-focused operator in a national downturn might maintain market share but see wholesale prices remain depressed. A retail-focused operator might see traffic decline.
 
 ## The Long View and the Short Reckoning
 

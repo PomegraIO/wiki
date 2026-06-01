@@ -21,13 +21,13 @@ keywords: ["royalty", "master limited partnership", "oil and gas", "mineral inte
 
 Royalty companies like Kimbell monetize oil and gas reserves without bearing the capital and operational burden of drilling, completing, and managing wells. When a well produces oil or gas, Kimbell collects a fixed percentage (typically 2–5% of revenue, sometimes higher for overriding interests) regardless of the operator's costs. This model inverts the risk-return profile: royalty holders have no control over drilling decisions, completion techniques, or well maintenance, but their cash flows depend entirely on operator competence and commodity prices. An operator who over-completes a well or neglects maintenance reduces ultimate recovery and harm Kimbell's revenues; conversely, an operator who applies best practices and deploys cutting-edge technology increases recovery and benefits Kimbell.
 
-This asymmetry—sharing upside with competent operators while having no say in how they operate—is inherent to the royalty business. Kimbell mitigates this risk through portfolio diversification: owning royalties on hundreds of wells across multiple operators and basins reduces the impact of any single operator's missteps. It also screens operators and avoids interests in fields where operators are undercapitalized or historically careless.
+This asymmetry—sharing upside with competent operators while having no say in how they operate—is inherent to the royalty business. Kimbell mitigates this risk through portfolio [diversification](/diversification/): owning royalties on hundreds of wells across multiple operators and basins reduces the impact of any single operator's missteps. It also screens operators and avoids interests in fields where operators are undercapitalized or historically careless.
 
 ## Commodity Price Exposure and Hedging
 
-Kimbell's revenues fluctuate with oil and natural gas prices. When crude oil prices spike, Kimbell's cash flow from oil-producing wells surges; when prices collapse, so does cash flow. Natural gas price swings are even more volatile than oil, as natural gas markets are smaller and more sensitive to storage levels, weather, and LNG export dynamics. Kimbell faces this price exposure frontally: it cannot control whether commodity prices rise or fall.
+Kimbell's revenues fluctuate with oil and [natural gas](/natural-gas/) prices. When [crude oil](/crude-oil/) prices spike, Kimbell's cash flow from oil-producing wells surges; when prices collapse, so does cash flow. Natural gas price swings are even more volatile than oil, as natural gas markets are smaller and more sensitive to storage levels, weather, and LNG export dynamics. Kimbell faces this price exposure frontally: it cannot control whether commodity prices rise or fall.
 
-Some royalty partners use commodity hedges—futures contracts, swaps, and put options on oil and gas prices—to reduce near-term price volatility and stabilize cash flows available for distribution. Hedging is not cost-free (it requires paying for insurance-like instruments), and it forgoes upside when prices rise. Kimbell's hedging strategy is disclosed in its [10-K](/10-K/) and changes based on management's view of commodity outlook and the need to protect distributions to unit holders.
+Some royalty partners use commodity hedges—[futures contracts](/futures-contract/), swaps, and [put options](/put-option/) on oil and gas prices—to reduce near-term price volatility and stabilize cash flows available for distribution. Hedging is not cost-free (it requires paying for insurance-like instruments), and it forgoes upside when prices rise. Kimbell's hedging strategy is disclosed in its [10-K](/10-K/) and changes based on management's view of commodity outlook and the need to protect distributions to unit holders.
 
 ## Portfolio Composition and Geographic Diversification
 
@@ -41,7 +41,7 @@ Kimbell is structured as a master limited partnership (MLP), a legal entity that
 
 MLPs are required to distribute at least 90% of their taxable income annually, making them high-distribution-yield vehicles. Kimbell's distribution yield—the annual distribution per unit divided by the unit price—is typically 5–10%, much higher than [dividend yields](/dividend-yield/) on [common stock](/common-stock/). This high yield attracts income-focused investors, including retirees and long-term holders seeking steady cash returns.
 
-However, MLP distributions are not the same as [dividends](/dividend/): they are ordinary income and often include return-of-capital components, making the tax situation complex. Unitholders receive a Schedule K-1 (partnership tax form) each year showing their share of partnership income, deductions, and credits, often with complexities related to depreciation and depletion allowances.
+However, MLP distributions are not the same as [dividends](/dividend/): they are ordinary income and often include return-of-capital components, making the tax situation complex. Unitholders receive a Schedule K-1 (partnership tax form) each year showing their share of partnership income, deductions, and credits, often with complexities related to [depreciation](/depreciation/) and depletion allowances.
 
 ## Production Declines and Reserve Replacement
 
@@ -53,7 +53,7 @@ This risk is partially offset by acquisition: Kimbell can use cash from operatio
 
 If Kimbell's royalties are concentrated among a few large operators (say, three operators accounting for 50%+ of production), the credit quality and operational competence of those operators materially affects Kimbell's cash flows. A major operator filing for bankruptcy or suspending drilling due to financial distress would immediately reduce Kimbell's revenues. Diversification across multiple operators (ten or twenty, each with single-digit percentage shares) reduces this risk.
 
-The [10-K](/10-K/) discloses operator concentration. Investors should examine whether the portfolio is well-diversified or whether a few operators represent material revenue risks. Large independent operators (Pioneer, Continental, EOG, etc.) are generally reliable; smaller private operators or those with weak balance sheets carry higher risk.
+The [10-K](/10-K/) discloses operator concentration. Investors should examine whether the portfolio is well-diversified or whether a few operators represent material revenue risks. Large independent operators (Pioneer, Continental, EOG, etc.) are generally reliable; smaller private operators or those with weak [balance sheets](/balance-sheet/) carry higher risk.
 
 ## Drilling Activity Trends and Basin Dynamics
 
@@ -63,13 +63,13 @@ Longer-term, basin maturity also matters. The Permian Basin has decades of produ
 
 ## Capital Allocation and Unit Buybacks
 
-Kimbell generates cash from operations, pays distributions to unitholders, and may retain cash to fund acquisitions or reduce debt. In periods of low cash generation (low commodity prices, high decline), Kimbell may reduce distributions or suspend unit buyback programs. In periods of strong cash generation, management may opportunistically repurchase units (reducing the unit count and increasing per-unit distributions) or accelerate acquisitions.
+Kimbell generates cash from operations, pays distributions to unitholders, and may retain cash to fund [acquisitions](/acquisition/) or reduce debt. In periods of low cash generation (low commodity prices, high decline), Kimbell may reduce distributions or suspend unit buyback programs. In periods of strong cash generation, management may opportunistically repurchase units (reducing the unit count and increasing per-unit distributions) or accelerate acquisitions.
 
 The balance between distributions and reinvestment is a key strategic choice. A conservative approach prioritizes distributions and stability; an aggressive approach sacrifices near-term distributions to fund growth through acquisitions, with the aim of growing per-unit cash flow over time. Kimbell's history and management commentary in earnings calls and the 10-K reveal this orientation.
 
 ## Interest Rate Sensitivity and Leverage
 
-If Kimbell carries debt to fund operations or acquisitions, its financing costs are sensitive to interest rates. Rising rates increase borrowing costs, reducing cash available for distribution; falling rates ease the burden. The [10-K](/10-K/) discloses debt levels, interest rates, and debt covenants. Investors should assess whether Kimbell is highly leveraged (debt-to-assets ratio high) or lightly leveraged, as high leverage amplifies both the upside in strong commodity cycles and the downside in weak cycles.
+If Kimbell carries debt to fund operations or acquisitions, its financing costs are sensitive to [interest rates](/interest-rate/). Rising rates increase borrowing costs, reducing cash available for distribution; falling rates ease the burden. The [10-K](/10-K/) discloses debt levels, interest rates, and debt covenants. Investors should assess whether Kimbell is highly leveraged ([debt-to-assets ratio](/debt-to-assets-ratio/) high) or lightly leveraged, as high leverage amplifies both the upside in strong commodity cycles and the downside in weak cycles.
 
 <div class="wiki-seealso">
 ### Closely related

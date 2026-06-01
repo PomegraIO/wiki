@@ -19,7 +19,7 @@ keywords: [financial-services, holding-company, banking, business-services, inve
 
 BNB Plus Corp.'s first disclosure in the 10-K should clearly identify its operating segments. Read Note 1 ("Business Description") and any segment-reporting note. Does BNBX operate as a bank holding company, an investment advisory firm, a securities broker-dealer, a consumer-finance provider, or a diversified financial intermediary? The segment structure tells you the revenue mix and where profits come from.
 
-If BNBX holds banking subsidiaries, the 10-K will reference bank regulatory filings (call reports to the OCC or Federal Reserve), and you should cross-reference these. If it operates securities businesses, read the disclosures around broker-dealer regulatory compliance, customer protection, and litigation risk. Different financial lines carry different capital requirements, risk profiles, and regulatory oversight.
+If BNBX holds banking subsidiaries, the 10-K will reference bank regulatory filings (call reports to the OCC or [Federal Reserve](/federal-reserve/)), and you should cross-reference these. If it operates securities businesses, read the disclosures around broker-dealer regulatory compliance, customer protection, and litigation risk. Different financial lines carry different capital requirements, risk profiles, and regulatory oversight.
 
 Key revenue sources in financial services include:
 - Net interest income (for banks: interest earned on loans and securities, less interest paid on deposits).
@@ -27,11 +27,11 @@ Key revenue sources in financial services include:
 - Trading or principal gains.
 - Commission income.
 
-The consolidated statements of earnings should clearly break down these buckets. If revenue is predominantly net interest income, BNBX is a lending or deposit-taking business (bank-like). If revenue is predominantly fees, it is an intermediary or advisor. The mix shapes your analysis of margins, competitive position, and cyclicality.
+The [consolidated statements](/consolidated-statements/) of earnings should clearly break down these buckets. If revenue is predominantly net interest income, BNBX is a lending or deposit-taking business (bank-like). If revenue is predominantly fees, it is an intermediary or advisor. The mix shapes your analysis of margins, competitive position, and cyclicality.
 
 ## If BNBX Operates Banking Subsidiaries
 
-If BNBX is a bank holding company, the balance sheet and regulatory capital requirements are central. Banks must maintain minimum capital ratios (Tier 1, common equity Tier 1, leverage ratio) set by regulators. The 10-K should disclose regulatory capital ratios and how they compare to well-capitalized thresholds. If BNBX is at or near minimum ratios, it has limited cushion for losses or expansion.
+If BNBX is a bank holding company, the [balance sheet](/balance-sheet/) and regulatory capital requirements are central. Banks must maintain minimum capital ratios (Tier 1, common equity Tier 1, [leverage ratio](/leverage-ratio-forex/)) set by regulators. The 10-K should disclose regulatory capital ratios and how they compare to well-capitalized thresholds. If BNBX is at or near minimum ratios, it has limited cushion for losses or expansion.
 
 Loan portfolio composition and credit quality are critical. Pull the schedule of loans by type (commercial, consumer, real estate, etc.) and the allowance for credit losses (the reserve the bank holds for expected defaults). Compare the allowance to non-performing loans (NPLs) — loans on which the borrower is 90+ days delinquent. A loan allowance-to-NPL ratio above 100% suggests the bank is well-reserved; below 80% suggests the reserve may be inadequate. Rising NPLs quarter-over-quarter signal deteriorating credit quality.
 
@@ -49,7 +49,7 @@ Advisor compensation is often the largest expense; in some advisory firms, advis
 
 ## Regulatory and Compliance Risk
 
-All financial services are heavily regulated. The 10-K should disclose regulatory exams, consent orders, fines, or sanctions from the SEC, FINRA, OCC, Federal Reserve, or state regulators. A company operating under a consent order or subject to a Material Weakness (internal control deficiency) is worth investigating further. These disclosures appear in Item 1A (Risk Factors) and in legal/contingency notes.
+All financial services are heavily regulated. The 10-K should disclose regulatory exams, consent orders, fines, or sanctions from the SEC, [FINRA](/finra/), OCC, Federal Reserve, or state regulators. A company operating under a consent order or subject to a [Material Weakness](/material-weakness/) (internal control deficiency) is worth investigating further. These disclosures appear in Item 1A (Risk Factors) and in legal/contingency notes.
 
 Advisor conduct and customer disputes are also relevant. If BNBX operates a broker-dealer or advisory business, arbitration claims and litigation can be material. Check FINRA BrokerCheck data for BNBX's regulatory history and any disciplinary actions.
 
@@ -61,9 +61,9 @@ Operating efficiency is measured by the cost-income ratio (operating expenses di
 
 ## Balance Sheet Leverage and Debt
 
-Check total debt and compare it to equity. For bank holding companies, debt typically includes long-term debt and [preferred stock](/preferred-stock/). For advisory or service companies, debt might be used for acquisitions or buybacks. High debt relative to equity limits flexibility; in a downturn, a leveraged financial-services company may face covenant breaches or forced capital raises.
+Check total debt and compare it to equity. For bank holding companies, debt typically includes long-term debt and [preferred stock](/preferred-stock/). For advisory or service companies, debt might be used for [acquisitions](/acquisition/) or buybacks. High debt relative to equity limits flexibility; in a downturn, a leveraged financial-services company may face covenant breaches or forced capital raises.
 
-Also check intangible assets (goodwill, customer relationships) on the balance sheet. If BNBX has acquired other financial firms or advisory businesses, the purchase price may have created goodwill. Goodwill is at risk of impairment if acquired assets underperform or fail. Significant goodwill write-downs indicate prior acquisitions were overpriced or poorly integrated.
+Also check [intangible assets](/intangible-assets/) ([goodwill](/goodwill/), customer relationships) on the balance sheet. If BNBX has acquired other financial firms or advisory businesses, the purchase price may have created goodwill. Goodwill is at risk of impairment if acquired assets underperform or fail. Significant goodwill write-downs indicate prior acquisitions were overpriced or poorly integrated.
 
 ## Capital Allocation and Shareholder Returns
 
@@ -75,4 +75,4 @@ BNBX is a small financial-services company. Compare its size (assets, AUM, reven
 
 ## Key Research Checkpoints
 
-(1) What are BNBX's primary operating segments and revenue sources? (2) If banking-related: What are the key regulatory capital ratios, loan portfolio composition, and NPL trends? What is the net interest margin? (3) If advisory-related: What is the AUM, AUM growth, and fee rate? Are net flows positive or negative? (4) What is the cost-income or operating efficiency ratio and is it improving? (5) Is the company profitable and cash-flow positive? (6) Has BNBX disclosed any regulatory orders, consent agreements, or material litigation? (7) What is the total debt and leverage, and is it manageable?
+(1) What are BNBX's primary operating segments and revenue sources? (2) If banking-related: What are the key regulatory capital ratios, loan portfolio composition, and NPL trends? What is the net interest margin? (3) If advisory-related: What is the AUM, AUM growth, and fee rate? Are net flows positive or negative? (4) What is the cost-income or [operating efficiency ratio](/operating-efficiency-ratio/) and is it improving? (5) Is the company profitable and cash-flow positive? (6) Has BNBX disclosed any regulatory orders, consent agreements, or material litigation? (7) What is the total debt and leverage, and is it manageable?

@@ -4,7 +4,7 @@ description: "US-listed digital media and streaming company; capital structure s
 keywords: [FUBO, FuboTV, streaming, capital structure, media technology]
 ---
 
-*[**FuboTV Inc. (FUBO)**](/stock/) is a US-listed streaming television and media platform that funds technology development and customer acquisition through a combination of equity capital, operating cash flow, and debt, structured around the lifetime value economics of subscriber relationships.*
+*[**FuboTV Inc. (FUBO)**](/stock/) is a US-listed streaming television and media platform that funds technology development and customer [acquisition](/acquisition/) through a combination of equity capital, operating cash flow, and debt, structured around the lifetime value economics of subscriber relationships.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FUBO</td></tr>
@@ -29,7 +29,7 @@ FuboTV has raised substantial equity to fund technology development, content acq
 
 ## Debt Facilities and Subscriber-Backed Covenants
 
-FuboTV has issued debt (likely [corporate bonds](/corporate-bond/) or term loans from media-focused lenders) secured by its subscriber contracts and brand value. Lenders structure covenants around subscriber counts, customer acquisition costs, and churn rates—the operational metrics that determine cash flow stability. A decline in paying subscribers, a rise in churn, or a deterioration in unit economics can trigger covenant violations and accelerate debt repayment or force asset sales. This makes FuboTV's debt "covenant-lite" only in bull markets; in weak periods, covenants bite. The company's ability to refinance debt depends on maintaining investor belief in eventual profitability and scale. If subscriber growth slows for quarters, refinancing risk rises, and the company may be forced to sell assets (divest international operations, pare back content investments) or raise equity at distressed valuations. Unlike a mature cable company with stable cash flows and investment-grade ratings, FuboTV operates in the higher-yield debt category where spreads are wide and refinancing risk is material.
+FuboTV has issued debt (likely [corporate bonds](/corporate-bond/) or term loans from media-focused lenders) secured by its subscriber contracts and brand value. Lenders structure covenants around subscriber counts, customer acquisition costs, and churn rates—the operational metrics that determine cash flow stability. A decline in paying subscribers, a rise in churn, or a deterioration in unit economics can trigger covenant violations and accelerate debt repayment or force asset sales. This makes FuboTV's debt "covenant-lite" only in [bull markets](/bull-market/); in weak periods, covenants bite. The company's ability to refinance debt depends on maintaining investor belief in eventual profitability and scale. If subscriber growth slows for quarters, [refinancing risk](/refinancing-risk/) rises, and the company may be forced to sell assets (divest international operations, pare back content investments) or raise equity at distressed valuations. Unlike a mature cable company with stable cash flows and investment-grade ratings, FuboTV operates in the higher-yield debt category where spreads are wide and refinancing risk is material.
 
 ## Path to Profitability and Capital Allocation Shift
 

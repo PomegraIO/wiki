@@ -17,7 +17,7 @@ keywords: [biotech, diabetes, insulin delivery, inhalable medicine, Novo Nordisk
 
 ## The Inhalation Thesis
 
-The conventional insulin market is dominated by three giants—Novo Nordisk, Eli Lilly, and Sanofi—who compete on formulation speed, duration, and pen-device ergonomics. Their devices are needles. This fact anchors hundreds of millions of patient decisions: if you have diabetes, you inject. MANNKIND's bet is that needle aversion and the ritual burden of injections create demand for an alternative. Inhalable insulin reaches the lungs, crosses the alveolar barrier, and enters the bloodstream without a needle. For needle-phobic patients or those who travel frequently, this is materially different.
+The conventional insulin market is dominated by three giants—Novo Nordisk, Eli Lilly, and [Sanofi](/sny-stock/)—who compete on formulation speed, duration, and pen-device ergonomics. Their devices are needles. This fact anchors hundreds of millions of patient decisions: if you have diabetes, you inject. MANNKIND's bet is that needle aversion and the ritual burden of injections create demand for an alternative. Inhalable insulin reaches the lungs, crosses the alveolar barrier, and enters the bloodstream without a needle. For needle-phobic patients or those who travel frequently, this is materially different.
 
 The barrier to adoption is not efficacy—inhalable insulin works. It is familiarity and reimbursement. Patients accustomed to injections must be convinced to inhale. Insurers must be convinced the added cost of a proprietary inhaler device justifies the benefit over standard insulin. MANNKIND's entire business hinges on winning that argument with both constituencies.
 

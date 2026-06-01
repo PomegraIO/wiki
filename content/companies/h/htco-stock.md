@@ -25,13 +25,13 @@ When opening the 10-K, look first at the business description. It should state w
 
 Trading firms often exhibit lumpy revenue patterns. A single large deal or shipment might represent 30–50% of quarterly revenue. This lumpiness makes quarter-to-quarter comparisons misleading and makes the business model inherently unpredictable. In the 10-K, check for revenue seasonality or concentration. If one or two customers account for most revenue, the firm is transactional rather than having a customer base. If revenue is driven by a few large shipments per year, the business is more like project work than an operating business with steady-state processes.
 
-The accounts-receivable line on the balance sheet is critical. For a trading firm, receivables often represent unsold goods or completed shipments awaiting payment. If receivables are growing faster than revenue, it may indicate the firm is extending credit to customers (financing their working capital) or is sitting on goods that have not yet sold. Either way, cash is trapped in receivables.
+The accounts-receivable line on the [balance sheet](/balance-sheet/) is critical. For a trading firm, receivables often represent unsold goods or completed shipments awaiting payment. If receivables are growing faster than revenue, it may indicate the firm is extending credit to customers (financing their working capital) or is sitting on goods that have not yet sold. Either way, cash is trapped in receivables.
 
 ## Inventory and Working Capital
 
 Many trading firms carry significant inventory—goods in warehouses or in transit. Check the inventory line and compare it to revenue and cost of goods sold. An inventory-to-revenue ratio that is rising suggests either buildup in preparation for future sales or accumulation of slow-moving stock. Slow-moving inventory can become obsolete, especially if the firm deals in perishables, fashion, electronics, or other categories with shelf-life risk. The 10-K should discuss inventory reserves for obsolescence; a large reserve or a write-off in a given year indicates past misjudgments in sourcing.
 
-Working-capital management is crucial. A trading firm with tight margins (say, 5–10% gross margin, typical for commodity goods) needs rapid inventory turnover and rapid cash conversion. If it takes 90 days to sell inventory and 60 days to collect cash, the firm must finance that gap. The cash-flow statement should be examined for changes in working capital; a growing negative working-capital burden is a cash drain.
+Working-capital management is crucial. A trading firm with tight margins (say, 5–10% gross margin, typical for commodity goods) needs rapid [inventory turnover](/inventory-turnover/) and rapid cash conversion. If it takes 90 days to sell inventory and 60 days to collect cash, the firm must finance that gap. The cash-flow statement should be examined for changes in working capital; a growing negative working-capital burden is a cash drain.
 
 ## Margins and Profitability
 
@@ -41,11 +41,11 @@ Operating leverage is minimal. Many trading firms have outsourced logistics, so 
 
 ## Currency Risk and International Operations
 
-A firm engaged in international trade faces currency exposure. If High-Trend sources in one currency (say, Chinese yuan) and sells in another (U.S. dollars or euros), a swing in the exchange rate directly hits margins. The 10-K should disclose whether the firm hedges currency risk (using forwards or options) or accepts it as a business cost. Unhedged currency exposure adds volatility to earnings and makes the business harder to forecast.
+A firm engaged in international trade faces currency exposure. If High-Trend sources in one currency (say, Chinese yuan) and sells in another (U.S. dollars or euros), a swing in the exchange rate directly hits margins. The 10-K should disclose whether the firm hedges [currency risk](/currency-risk/) (using forwards or options) or accepts it as a business cost. Unhedged currency exposure adds volatility to earnings and makes the business harder to forecast.
 
 ## Customer and Supplier Concentration
 
-As with any business, concentration risk matters. The 10-K should disclose if any customer or supplier represents more than 10% of revenue or purchases. A trading firm dependent on a single large supplier is vulnerable to that supplier's actions (price increases, quota restrictions, or terminating the relationship). A trading firm dependent on a single large customer is vulnerable to that customer's demand fluctuations or insistence on tighter payment terms or lower prices.
+As with any business, [concentration risk](/concentration-risk/) matters. The 10-K should disclose if any customer or supplier represents more than 10% of revenue or purchases. A trading firm dependent on a single large supplier is vulnerable to that supplier's actions (price increases, quota restrictions, or terminating the relationship). A trading firm dependent on a single large customer is vulnerable to that customer's demand fluctuations or insistence on tighter payment terms or lower prices.
 
 ## Cash Flow and Sustainability
 
@@ -57,7 +57,7 @@ Watch for: large one-time revenue items that do not repeat, frequent changes in 
 
 ## Analytical Approach
 
-For a trading firm like High-Trend, build a simple model based on observed margins, inventory turnover, receivables days, and payables days. Project cash needs for working capital. If the firm is not profitable enough to self-fund growth and has no access to cheap debt, growth will be constrained. If the firm is relying on equity financing or frequent capital raises to fund working capital, the existing shareholders are being diluted—a red flag.
+For a trading firm like High-Trend, build a simple model based on observed margins, inventory turnover, receivables days, and payables days. Project cash needs for working capital. If the firm is not profitable enough to self-fund growth and has no access to cheap debt, growth will be constrained. If the firm is relying on [equity financing](/equity-financing/) or frequent capital raises to fund working capital, the existing shareholders are being diluted—a red flag.
 
 ## See Also
 

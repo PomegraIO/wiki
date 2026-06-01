@@ -28,7 +28,7 @@ The product mix expanded as well. Small loans (roughly $500 to $2,500) remained 
 
 ## The Modern Platform
 
-Today, Regional Management operates as a diversified consumer finance company serving borrowers who exist in the "nonprime" segment—people with fair or limited credit histories who need borrowing options. The company has a presence across multiple states, operating through branches that remain the primary servicing channel. Loan origination occurs through the multi-source model: branches, direct marketing, online applications, and partnerships with retailers. The company also partners with financial institutions and digital platforms to source additional loan volume.
+Today, Regional Management operates as a diversified consumer finance company serving borrowers who exist in the "nonprime" segment—people with fair or limited credit histories who need borrowing options. The company has a presence across multiple states, operating through branches that remain the primary servicing channel. Loan origination occurs through the multi-source model: branches, direct marketing, online applications, and partnerships with retailers. The company also partners with [financial institutions](/fisi-stock/) and digital platforms to source additional loan volume.
 
 The loan products themselves follow a deliberate structure. They are fixed-rate, fixed-term, fully amortizing installments with equal monthly payments. Borrowers can repay without penalty, an important feature for customers looking to build credit or manage cash flow. The loans typically range from $500 to around $20,000 in principal, sized to address legitimate personal finance needs rather than large-ticket purchases.
 

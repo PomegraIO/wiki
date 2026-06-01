@@ -47,11 +47,11 @@ That vertical integration strategy paid off in the 2000s and 2010s as demand for
 
 ## The acquisition and Western Digital integration
 
-SanDisk's growth trajectory and market position made it an attractive acquisition [target](/tgt-stock/). In 2016, Western Digital — a long-time hard-drive manufacturer facing the same secular shift toward SSDs as the rest of the industry — acquired SanDisk for $19 billion. The deal combined Western Digital's hard-drive business with SanDisk's flash expertise and NAND production, creating an integrated storage company.
+SanDisk's growth trajectory and market position made it an attractive acquisition target. In 2016, Western Digital — a long-time hard-drive manufacturer facing the same secular shift toward SSDs as the rest of the industry — acquired SanDisk for $19 billion. The deal combined Western Digital's hard-drive business with SanDisk's flash expertise and NAND production, creating an integrated storage company.
 
 The integration was complex. Western Digital had to absorb SanDisk's engineering teams, manufacturing relationships, and product lines, while managing the cultural difference between a hard-drive legacy company and a flash-focused innovator. Over time, Western Digital has consolidated manufacturing, eliminated duplicate product lines, and leveraged its sales channels to distribute SanDisk products more broadly.
 
-As a result of the acquisition, SanDisk no longer trades as an independent public company. It operates as SanDisk Corp, a division of Western Digital Corporation, and its products are sold under both the SanDisk and Western Digital brands depending on the product category and market segment.
+As a result of the acquisition, SanDisk no longer trades as an independent public company. It operates as SanDisk Corp, a division of Western Digital Corporation, and its products are sold under both the SanDisk and Western [Digital brands](/dbgi-stock/) depending on the product category and market segment.
 
 ## The market context and the evolution
 

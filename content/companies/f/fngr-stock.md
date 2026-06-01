@@ -27,13 +27,13 @@ The economics are potentially high-margin. If FingerMotion processes one million
 
 FingerMotion operates in markets at an inflection point. India's demonetization (2016) accelerated digital payment adoption. Southeast Asia is seeing rapid smartphone penetration and a reduction in unbanked populations. China's mobile payment ecosystem (Alipay, WeChat Pay) is mature, but smaller Asian economies are earlier in adoption curves. For a processor willing to navigate regulatory fragmentation, language barriers, and local partnerships, the growth opportunity is substantial.
 
-Yet timing cuts both ways. FingerMotion competes against established payment networks (Visa, Mastercard, local banking consortiums) and against well-funded fintech startups. A company's success depends on signing large merchant networks (or their associations), which requires sales teams, relationships, and often subsidy during ramp.
+Yet timing cuts both ways. FingerMotion competes against established payment networks ([Visa](/v-stock/), [Mastercard](/ma-stock/), local banking consortiums) and against well-funded fintech startups. A company's success depends on signing large merchant networks (or their associations), which requires sales teams, relationships, and often subsidy during ramp.
 
 ## Business model and unit economics
 
 FingerMotion's main revenue is transaction fees: a percentage (typically 1–3 percent, lower than US merchant fees) of gross payment volume. The company also earns income from software subscriptions, value-added services (loan origination, analytics), and potentially from lending against merchant receivables. These diversified revenue streams reduce dependence on any single transaction channel.
 
-The challenge is customer acquisition and retention. A street vendor or small restaurant has no brand loyalty; if another processor offers lower fees or better service, the merchant will switch. FingerMotion must build a strong local network of sales agents and partners — often small fintech firms or bank subsidiaries — to sign and support merchants.
+The challenge is customer [acquisition](/acquisition/) and retention. A street vendor or small restaurant has no brand loyalty; if another processor offers lower fees or better service, the merchant will switch. FingerMotion must build a strong local network of sales agents and partners — often small fintech firms or bank subsidiaries — to sign and support merchants.
 
 ## Geography and execution risk
 
@@ -43,15 +43,15 @@ The company's ability to execute locally — hire strong management teams, negot
 
 ## How the company funds itself
 
-FingerMotion likely funds growth through a combination of retained earnings, bank credit, and occasional equity raises. As an OTC-listed company, access to capital markets is limited. The company cannot easily raise large amounts of equity capital at favorable valuations. This puts discipline on growth: the company must generate [free-cash-flow](/free-cash-flow/) sufficient to fund expansion, or growth stalls.
+FingerMotion likely funds growth through a combination of [retained earnings](/retained-earnings/), bank credit, and occasional equity raises. As an OTC-listed company, access to capital markets is limited. The company cannot easily raise large amounts of equity capital at favorable valuations. This puts discipline on growth: the company must generate [free-cash-flow](/free-cash-flow/) sufficient to fund expansion, or growth stalls.
 
 ## Regulatory and currency risks
 
-Emerging-market regulators are tightening payment-processing rules. India requires payment processors to hold certain amounts of capital and meet anti-money-laundering standards. China restricts foreign involvement in payment systems. Currency fluctuations affect reported earnings: if the rupee or Vietnamese dong weakens against the US dollar, dollar-converted revenue falls even if local-currency revenue is stable.
+Emerging-market regulators are tightening payment-processing rules. India requires payment processors to hold certain amounts of capital and meet anti-money-laundering standards. China restricts foreign involvement in payment systems. Currency fluctuations affect reported earnings: if the rupee or Vietnamese dong weakens against the [US dollar](/us-dollar/), dollar-converted revenue falls even if local-currency revenue is stable.
 
 ## Competitive positioning
 
-FingerMotion is not a household name like Square or PayPal. It lacks their global reach, capital, and brand. Its competitors include local payment processors (often subsidiaries of banks), other fintech startups, and international players expanding into emerging markets. Its edge, if any, is focused expertise in specific geographic or merchant-segment niches and willingness to operate in less-mature payment markets.
+FingerMotion is not a household name like Square or [PayPal](/pypl-stock/). It lacks their global reach, capital, and brand. Its competitors include local payment processors (often subsidiaries of banks), other fintech startups, and international players expanding into emerging markets. Its edge, if any, is focused expertise in specific geographic or merchant-segment niches and willingness to operate in less-mature payment markets.
 
 <div class="wiki-seealso">
 ### Closely related

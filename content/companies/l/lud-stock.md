@@ -31,7 +31,7 @@ The advantage of this model is stability: component manufacturers have longer-te
 
 ## Conglomerate Discount and Valuation
 
-Investors typically apply a "conglomerate discount" to LUD's [market capitalization](/market-capitalization/): the total is valued at less than the sum of its parts because the capital-allocation clarity, governance, and strategic focus of a pure-play competitor (like LUCY in eyewear or a pure-play mobile components firm) are seen as more valuable. This discount reflects real costs—management distraction, higher capital requirements to fund multiple businesses, and the difficulty of exiting underperforming divisions.
+Investors typically apply a "[conglomerate discount](/conglomerate-discount/)" to LUD's [market capitalization](/market-capitalization/): the total is valued at less than the sum of its parts because the capital-allocation clarity, governance, and strategic focus of a pure-play competitor (like LUCY in eyewear or a pure-play mobile components firm) are seen as more valuable. This discount reflects real costs—management distraction, higher capital requirements to fund multiple businesses, and the difficulty of exiting underperforming divisions.
 
 For LUD shareholders, the discount is a drag on valuation. For potential acquirers, the discount creates an opportunity: break up the conglomerate, sell divisions to strategic buyers, and realize hidden value. This dynamic means LUD's [stock](/stock/) price is perpetually influenced not only by operational performance but by speculation about potential restructuring, activist investors, or breakup scenarios.
 
@@ -39,17 +39,17 @@ For LUD shareholders, the discount is a drag on valuation. For potential acquire
 
 LUD's [debt and equity mix](/stock/) must accommodate multiple businesses with different capital intensity. A mobile components factory requires high CapEx but generates steady cash; an eyewear retail initiative might require less CapEx but higher marketing and working-capital spend. The consolidated [balance sheet](/balance-sheet/) obscures whether LUD is deploying capital efficiently within each division or whether cash from components funds strategically dubious experiments elsewhere.
 
-The company's dividend policy, debt levels, and [share buyback](/share-buyback/) activity signal management's view of capital surplus. If LUD's [free cash flow](/free-cash-flow/) generation far exceeds growth investment, the company should return excess capital. If management withholds cash in hopes of deploying it to unknown future acquisitions, shareholders lose optionality and yield.
+The company's [dividend](/dividend/) policy, debt levels, and [share buyback](/share-buyback/) activity signal management's view of capital surplus. If LUD's [free cash flow](/free-cash-flow/) generation far exceeds growth investment, the company should return excess capital. If management withholds cash in hopes of deploying it to unknown future [acquisitions](/acquisition/), shareholders lose optionality and yield.
 
 ## Positioning Relative to Peers
 
-Versus [LUCY](/lucy-stock/), LUD sacrifices focus and transparency for diversification and capital flexibility. LUCY is legible: it either nails eyewear innovation and retail distribution or it fails. LUD is ambiguous: it could be undervalued (if a sum-of-parts analysis reveals upside in one division), or it could be chronically undermanaged (if capital is misallocated between divisions).
+Versus [LUCY](/lucy-stock/), LUD sacrifices focus and transparency for [diversification](/diversification/) and capital flexibility. LUCY is legible: it either nails eyewear innovation and retail distribution or it fails. LUD is ambiguous: it could be undervalued (if a sum-of-parts analysis reveals upside in one division), or it could be chronically undermanaged (if capital is misallocated between divisions).
 
 Versus [LUDG](/ludg-stock/), a smaller, focused retailer, LUD is a manufacturing incumbent with scale but less nimble than a pure retailer in responding to consumer taste shifts. Versus [LUNG](/lung-stock/), a medical-device maker, LUD operates in more mature, commoditized markets where growth is driven by operational excellence and cost discipline rather than innovation or regulatory approval.
 
 ## Research Path
 
-Readers of LUD should seek disaggregated financial data: segment revenue, operating margins, and CapEx by division, if disclosed. Look for evidence of transfer pricing (intra-company sales) that might inflate affiliate volumes but obscure real market demand. Assess customer concentration within each division and competitive positioning relative to pure-play manufacturers in that line. Check whether LUD has a credible strategy to exit or consolidate underperforming divisions or whether the conglomerate structure is permanent.
+Readers of LUD should seek disaggregated financial data: segment revenue, [operating margins](/operating-margin/), and CapEx by division, if disclosed. Look for evidence of transfer pricing (intra-company sales) that might inflate affiliate volumes but obscure real market demand. Assess customer concentration within each division and competitive positioning relative to pure-play manufacturers in that line. Check whether LUD has a credible strategy to exit or consolidate underperforming divisions or whether the conglomerate structure is permanent.
 
 <div class="wiki-seealso">
 

@@ -9,13 +9,13 @@ keywords:
   - corporate structure
 ---
 
-*The story of **TGE Value Creative Solutions Corp (BEBE)** is not one of founding a business in the traditional sense, but rather of incorporating a financial vehicle—a shell company created to raise capital and identify a target for [/special-purpose-acquisition-company/](/special-purpose-acquisition-company/) (SPAC) merger. A SPAC like BEBE exists at the structural intersection of capital markets and corporate law: it raises money from public investors, trades under a ticker, but has no operating business until it acquires one. The company's history is therefore less about what it was when founded and more about the mechanics of how it aimed to become something.*
+*The story of **TGE Value Creative Solutions Corp (BEBE)** is not one of founding a business in the traditional sense, but rather of incorporating a financial vehicle—a shell company created to raise capital and identify a target for [/special-purpose-acquisition-company/](/special-purpose-acquisition-company/) (SPAC) [merger](/merger/). A SPAC like BEBE exists at the structural intersection of capital markets and corporate law: it raises money from public investors, trades under a ticker, but has no operating business until it acquires one. The company's history is therefore less about what it was when founded and more about the mechanics of how it aimed to become something.*
 
 ## The SPAC Formation and Capital Raise
 
 Like all SPACs, BEBE was created by sponsors (often experienced businesspeople or investment firms) who incorporated a company, raised capital from public investors through an IPO, and held the proceeds in a trust. The investors who bought BEBE's units (combining common stock and warrants) were betting on the sponsors' judgment and track record. The sponsors had a defined window—typically two to three years—to identify and acquire a private operating company at a valuation that would make sense for public shareholders.
 
-The SPAC structure was designed to offer a faster, less regulated path to going public than a traditional IPO. For private companies, a SPAC merger offered an alternative to the lengthy SEC registration process. For public markets, SPACs represented a way to capitalize on sponsorship expertise and market sentiment. BEBE was incorporated with this dual-option logic: if the sponsors made a good acquisition, shareholders benefited; if they made a poor one or missed the deadline, shareholders were entitled to get their money back.
+The SPAC structure was designed to offer a faster, less regulated path to going public than a traditional IPO. For private companies, a SPAC merger offered an alternative to the lengthy SEC registration process. For public markets, SPACs represented a way to capitalize on sponsorship expertise and market sentiment. BEBE was incorporated with this dual-option logic: if the sponsors made a good [acquisition](/acquisition/), shareholders benefited; if they made a poor one or missed the deadline, shareholders were entitled to get their money back.
 
 ## The Sponsor Story and Market Position
 
@@ -31,7 +31,7 @@ This pathway offered speed compared to traditional IPO and fundraising processes
 
 ## The Legislative and Market Backdrop
 
-BEBE's founding and registration (CIK 2079933 with the SEC) occurred within a regulatory landscape where SPACs had become a mainstream capital-markets tool. The SEC had proposed and implemented rules around SPAC disclosures, merger accounting, and sponsor conflicts of interest, but the core SPAC structure remained intact. Sponsors were incentivized to find acquisition targets; shareholders had redemption rights if they disliked the deal; and the clock was ticking.
+BEBE's founding and registration (CIK 2079933 with the SEC) occurred within a regulatory landscape where SPACs had become a mainstream capital-markets tool. The SEC had proposed and implemented rules around SPAC disclosures, merger accounting, and sponsor conflicts of interest, but the core SPAC structure remained intact. Sponsors were incentivized to find acquisition targets; shareholders had [redemption rights](/redemption-rights-equity/) if they disliked the deal; and the clock was ticking.
 
 The evolution of the SPAC market reflected changing investor appetite. In the euphoric 2020-2021 era, SPACs were launched by celebrities, retired athletes, prominent CEOs, and established investment firms. Returns on early-stage SPACs had been strong, and the media celebrated SPAC deals as the future of capital markets. By 2022-2023, however, market sentiment had cooled as post-merger performance disappointed and regulatory scrutiny increased.
 

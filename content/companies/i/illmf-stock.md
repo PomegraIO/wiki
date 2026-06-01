@@ -26,13 +26,13 @@ illumin's core product grew out of this insight: a dashboard that aggregated cam
 
 The value proposition hinged on three mechanics. First, unified reporting reduced the time spent stitching together spreadsheets and PDFs from a dozen sources. Second, the dashboard layered in audience segmentation logic—allowing marketers to target based on behavioral or demographic data that cut across platforms. Third, the platform offered optimization recommendations; if one channel consistently outperformed others for a given audience, the software could suggest reallocating budget.
 
-This positioned illumin as a "middleware" company—sitting between the advertiser and the ad platforms, making the entire ecosystem more efficient and transparent. The model resembled SaaS platforms in other domains: Shopify in e-commerce, Guidepoint in research, Salesforce in CRM. The firm was solving a genuine operational problem, and the solution had sticky unit economics—customers who integrated the software into their weekly workflow were unlikely to rip it out.
+This positioned illumin as a "middleware" company—sitting between the advertiser and the ad platforms, making the entire ecosystem more efficient and transparent. The model resembled SaaS platforms in other domains: [Shopify](/shop-stock/) in e-commerce, Guidepoint in research, [Salesforce](/crm-stock/) in CRM. The firm was solving a genuine operational problem, and the solution had sticky unit economics—customers who integrated the software into their weekly workflow were unlikely to rip it out.
 
 ## The Revenue and Customer Dynamics
 
 Rather than charging a flat subscription, illumin typically took a percentage of ad spend flowing through the platform or a combination of platform fees plus a percentage of managed budget. This alignment was clever: as customers spent more on advertising and moved more volume through illumin's interface, the software company's revenue grew, and there was no inherent cap on customer value creation. The larger a brand's advertising operation, the greater the efficiency gains and data aggregation benefits.
 
-Customer acquisition came through two channels: direct sales to e-commerce brands and partnerships with digital marketing agencies. Agencies found value in using illumin to manage multiple client campaigns under one roof, and the software became a competitive advantage in their own pitches. A medium-sized agency managing $5 million in annual ad spend across 20 clients could standardize on illumin, reduce operational overhead, and redeploy those savings to strategy and customer service.
+Customer [acquisition](/acquisition/) came through two channels: direct sales to e-commerce brands and partnerships with digital marketing agencies. Agencies found value in using illumin to manage multiple client campaigns under one roof, and the software became a competitive advantage in their own pitches. A medium-sized agency managing $5 million in annual ad spend across 20 clients could standardize on illumin, reduce operational overhead, and redeploy those savings to strategy and customer service.
 
 The customer base skewed toward small and mid-market e-commerce and DTC (direct-to-consumer) brands rather than Fortune 500 enterprises. Those larger companies often built proprietary tools or used enterprise agencies with white-label systems. But the SMB and mid-market segment was large, fragmented, and underserved—exactly the territory where SaaS platforms flourished.
 
@@ -44,7 +44,7 @@ That shift created demand for software that could manage the operational complex
 
 ## The Data and Privacy Inflection
 
-As illumin's platform matured and ingested more data, it confronted regulatory and ethical boundaries. Apple's iOS privacy changes (limiting ad tracking), rising consumer expectations around data privacy, and emerging regulations like GDPR and CCPA constrained the kinds of audience data available to ad platforms. This affected not just illumin but the entire digital advertising ecosystem.
+As illumin's platform matured and ingested more data, it confronted regulatory and ethical boundaries. [Apple](/aapl-stock/)'s iOS privacy changes (limiting ad tracking), rising consumer expectations around data privacy, and emerging regulations like GDPR and CCPA constrained the kinds of audience data available to ad platforms. This affected not just illumin but the entire digital advertising ecosystem.
 
 For illumin specifically, stricter privacy rules made some of its original audience-targeting and aggregation capabilities harder to execute. However, the basic efficiency gain—consolidating reporting across channels and reducing time spent in manual workflows—remained valuable regardless of privacy constraints. The company could adapt its product to work within tighter data boundaries without losing core value.
 
@@ -56,7 +56,7 @@ The evolution also reflected the maturation of the marketing-technology market. 
 
 ## Funding and the Public Markets Path
 
-Like many growth-stage software companies, illumin raised capital through venture funding or private equity before pursuing a path to public liquidity. The company's OTC listing reflected the reality of modern tech finance: not all valuable software companies achieve or pursue a Nasdaq debut. OTC venues allowed smaller or emerging SaaS platforms to access public capital and offer founder/employee equity liquidity without the disclosure burden and regulatory scrutiny of a major exchange. For customers and prospects, an OTC listing still signaled a certain scale and institutional quality compared to purely private venture-backed firms.
+Like many growth-stage software companies, illumin raised capital through venture funding or private equity before pursuing a path to public liquidity. The company's OTC listing reflected the reality of modern tech finance: not all valuable software companies achieve or pursue a [Nasdaq](/nasdaq/) debut. OTC venues allowed smaller or emerging SaaS platforms to access public capital and offer founder/employee equity liquidity without the disclosure burden and regulatory scrutiny of a major exchange. For customers and prospects, an OTC listing still signaled a certain scale and institutional quality compared to purely private venture-backed firms.
 
 The founding purpose—solving fragmented digital advertising complexity for e-commerce brands—remained the core engine of illumin Holdings' business model and strategy.
 

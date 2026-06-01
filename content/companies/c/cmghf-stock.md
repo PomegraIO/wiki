@@ -33,7 +33,7 @@ The scaling strategy depended on continuous capital investment in land, faciliti
 
 ## IPO and International Listing
 
-In 2000, Chaoda listed on Hong Kong's main stock exchange, becoming one of the first major Chinese agricultural companies to access international capital markets. The IPO narrative—a modern, science-driven farm company transforming Chinese agriculture—attracted investors eager for exposure to China's growth and food consumption trends. The stock price surged, and Chaoda raised substantial capital for expansion.
+In 2000, Chaoda listed on Hong Kong's main [stock exchange](/stock-exchange/), becoming one of the first major Chinese agricultural companies to access international capital markets. The IPO narrative—a modern, science-driven farm company transforming Chinese agriculture—attracted investors eager for exposure to China's growth and food consumption trends. The stock price surged, and Chaoda raised substantial capital for expansion.
 
 The company's public filings emphasized the scale of operations, the efficiency gains from vertical integration, and the growing urban Chinese middle class driving demand for premium produce. Chaoda promoted itself as a technological and management innovator within an agriculture sector typically dominated by small, unscientific operators.
 
@@ -41,13 +41,13 @@ The company's public filings emphasized the scale of operations, the efficiency 
 
 In 2012, Chaoda's trajectory was violently disrupted when Hong Kong regulators and short-seller research firms accused the company of accounting fraud. Allegations included inflated revenue numbers, manipulation of sales data, and overstated asset values. Chaoda's management denied wrongdoing, but the scandal triggered a dramatic stock decline, regulatory investigations, and loss of investor confidence.
 
-The exact nature and extent of the alleged fraud remains disputed and complicated by jurisdictional issues between Hong Kong regulators, Chinese authorities, and the company. However, the scandal was consequential: Chaoda's stock price collapsed, the company faced ongoing regulatory scrutiny, and its ability to raise capital was severely impaired. By 2015, Chaoda had ceased trading on Hong Kong's main exchange and moved to Hong Kong's Growth Enterprise Market, a less-regulated tier, and later to over-the-counter markets in the United States.
+The exact nature and extent of the alleged fraud remains disputed and complicated by jurisdictional issues between Hong Kong regulators, Chinese authorities, and the company. However, the scandal was consequential: Chaoda's stock price collapsed, the company faced ongoing regulatory scrutiny, and its ability to raise capital was severely impaired. By 2015, Chaoda had ceased trading on Hong Kong's main exchange and moved to Hong Kong's Growth Enterprise Market, a less-regulated tier, and later to [over-the-counter markets](/over-the-counter-market/) in the United States.
 
 ## Structural Challenges in Agricultural Production
 
 Beyond the accounting scandal, Chaoda faced structural challenges inherent to large-scale agricultural production in China. Agriculture in China is characterized by fragmented land ownership, significant government involvement in food supply management, and price volatility driven by commodity markets and imports. As China's own agricultural modernization advanced and as cheap agricultural imports from Vietnam, Thailand, and other Southeast Asian countries increased, price competition intensified.
 
-Chaoda's competitive advantages—modern farming techniques and cold-chain logistics—gradually eroded. Other Chinese agricultural companies adopted similar techniques, and imports provided cheaper alternatives. The company's diversification into processed foods and further value-added products was an attempt to escape commodity pricing, but executing food-processing businesses at scale and managing food safety standards proved complex.
+Chaoda's competitive advantages—modern farming techniques and cold-chain logistics—gradually eroded. Other Chinese agricultural companies adopted similar techniques, and imports provided cheaper alternatives. The company's [diversification](/diversification/) into processed foods and further value-added products was an attempt to escape commodity pricing, but executing food-processing businesses at scale and managing food safety standards proved complex.
 
 ## Present Standing and Market Position
 

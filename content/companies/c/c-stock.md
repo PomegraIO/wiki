@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Citigroup is one of the world's largest financial institutions, operating a sprawling global business that combines consumer banking, commercial lending, investment banking, trading, and wealth management under a single corporate umbrella. The company's reach spans more than a hundred countries, and it holds tens of billions of dollars in customer deposits, making it a pillar of the international financial system. Yet behind the scale lies a company that has struggled since the financial crisis to manage its own complexity, improve profitability, and justify the cost of capital that comes with being deemed "systemically important" by regulators worldwide.
+Citigroup is one of the world's largest [financial institutions](/fisi-stock/), operating a sprawling global business that combines consumer banking, commercial lending, investment banking, trading, and wealth management under a single corporate umbrella. The company's reach spans more than a hundred countries, and it holds tens of billions of dollars in customer deposits, making it a pillar of the international financial system. Yet behind the scale lies a company that has struggled since the financial crisis to manage its own complexity, improve profitability, and justify the cost of capital that comes with being deemed "systemically important" by regulators worldwide.
 
 <aside class="wiki-infobox">
 <table>

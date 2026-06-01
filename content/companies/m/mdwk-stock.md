@@ -37,7 +37,7 @@ The customer base must remain diverse to reduce dependency risk. If one customer
 
 ## Evolution and Consolidation Pressures
 
-MDWerks' trajectory has been pressured by structural forces in contract manufacturing. Large, well-capitalized manufacturers (like Flex Ltd., Sanmina, or Celestica) have consolidated the industry, offering global scale, advanced automation, and efficient operations. Smaller specialists like MDWerks must compete either on niches where scale doesn't matter or accept acquisition as the exit path.
+MDWerks' trajectory has been pressured by structural forces in contract manufacturing. Large, well-capitalized manufacturers (like Flex Ltd., Sanmina, or Celestica) have consolidated the industry, offering global scale, advanced automation, and efficient operations. Smaller specialists like MDWerks must compete either on niches where scale doesn't matter or accept [acquisition](/acquisition/) as the exit path.
 
 The company's founding purpose — to serve specialized manufacturers with technical depth and responsiveness — remains valid, but the addressable market has narrowed. Customers increasingly favor single-source global suppliers who can manage international operations, supply chain risk, and complex logistics. MDWerks, as a regional player, serves customers who value local presence, design collaboration, and rapid iteration more than global footprint.
 

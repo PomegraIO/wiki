@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Pegasystems makes software that large enterprises use to automate and manage their core business processes. The company's platform — marketed as Pega Platform — helps financial institutions, insurers, telcos, and government agencies orchestrate complex workflows, from mortgage approval and insurance claims to customer service routing and regulatory compliance. Most of Pegasystems' revenue comes from selling software licenses and supporting them with implementation services, though the company has increasingly moved toward subscription-based delivery and cloud deployment. It is a business software company, not a consumer-facing one, but it serves some of the world's largest and most heavily regulated organizations.
+Pegasystems makes software that large enterprises use to automate and manage their core business processes. The company's platform — marketed as Pega Platform — helps [financial institutions](/fisi-stock/), insurers, telcos, and government agencies orchestrate complex workflows, from mortgage approval and insurance claims to customer service routing and regulatory compliance. Most of Pegasystems' revenue comes from selling software licenses and supporting them with implementation services, though the company has increasingly moved toward subscription-based delivery and cloud deployment. It is a business software company, not a consumer-facing one, but it serves some of the world's largest and most heavily regulated organizations.
 
 ## The platform business: what the software does
 

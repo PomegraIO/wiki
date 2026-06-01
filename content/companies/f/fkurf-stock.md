@@ -24,7 +24,7 @@ Beyond optical fiber, Fujikura manufactures automotive wiring harnesses (bundled
 
 ## Geographic and Currency Exposure
 
-Fujikura is a Japanese-domiciled company earning revenue in yen, dollars, euros, and other currencies, with manufacturing and distribution across Asia, North America, and Europe. Its SEC filings detail geographic revenue breakdown and exposure to foreign-exchange fluctuations, which affect both reported results (when yen strengthens, non-yen revenue translates to fewer yen at home) and competitive positioning (if the yen weakens, Fujikura's products become cheaper in foreign markets, boosting competitiveness but potentially inviting pricing pressure from competitors). The 20-F filing discusses hedging strategies and currency risks in its MD&A (Management's Discussion and Analysis) section.
+Fujikura is a Japanese-domiciled company earning revenue in yen, dollars, euros, and other currencies, with manufacturing and distribution across Asia, North America, and Europe. Its SEC filings detail geographic revenue breakdown and exposure to foreign-exchange fluctuations, which affect both reported results (when yen strengthens, non-yen revenue translates to fewer yen at home) and competitive positioning (if the yen weakens, Fujikura's products become cheaper in foreign markets, boosting competitiveness but potentially inviting pricing pressure from competitors). The 20-F filing discusses hedging strategies and [currency risks](/currency-risk/) in its MD&A (Management's Discussion and Analysis) section.
 
 ## Telecom Cyclicality and 5G Rollout Dependency
 
@@ -36,7 +36,7 @@ The global optical-fiber market is consolidated among a small number of large pr
 
 ## Capital Allocation and Returns
 
-As a mature multinational manufacturer, Fujikura allocates cash to reinvestment (capacity expansion, new factories, equipment), research and development (new fiber types, materials, manufacturing processes), dividends to shareholders, and occasional acquisitions. The 20-F filing's cash-flow statement discloses capital expenditures and trends in investing activity. Fujikura's dividend policy and [earnings-per-share](/earnings-per-share/) trajectory are visible in the SEC filings, allowing investors to assess the company's commitment to returning cash versus reinvesting for growth.
+As a mature multinational manufacturer, Fujikura allocates cash to reinvestment (capacity expansion, new factories, equipment), research and development (new fiber types, materials, manufacturing processes), [dividends](/dividend/) to shareholders, and occasional [acquisitions](/acquisition/). The 20-F filing's cash-flow statement discloses capital expenditures and trends in investing activity. Fujikura's dividend policy and [earnings-per-share](/earnings-per-share/) trajectory are visible in the SEC filings, allowing investors to assess the company's commitment to returning cash versus reinvesting for growth.
 
 ## Regulatory and Trade Considerations
 

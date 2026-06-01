@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Tenet Healthcare operates a network of hospitals, outpatient surgical centers, and diagnostic facilities across the United States. The company sits at the intersection of two major healthcare trends: the ongoing consolidation of independent hospitals into larger systems and the shift of routine procedures away from full-sized acute-care hospitals toward lower-cost outpatient settings. Tenet's shares (NYSE: THC) trade publicly, and the company is one of a handful of large for-profit hospital operators in America alongside [HCA Healthcare](/hca-stock/) and Community Health Systems.
+Tenet Healthcare operates a network of hospitals, outpatient surgical centers, and diagnostic facilities across the United States. The company sits at the intersection of two major healthcare trends: the ongoing consolidation of independent hospitals into larger systems and the shift of routine procedures away from full-sized acute-care hospitals toward lower-cost outpatient settings. Tenet's shares (NYSE: THC) trade publicly, and the company is one of a handful of large for-profit hospital operators in America alongside [HCA Healthcare](/hca-stock/) and [Community Health Systems](/cyh-stock/).
 
 <aside class="wiki-infobox">
 <table>

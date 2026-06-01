@@ -36,7 +36,7 @@ This segment is particularly sensitive to manufacturing cycle and capex spending
 
 A company with a diverse portfolio of products at different development stages creates accounting and disclosure complexity. Some products may generate recurring license or service revenue; others may be project-based. Some may be sold directly; others through distributors or partners. The 10-K's revenue-recognition policy should explain how the company accounts for each revenue stream.
 
-Investors should also track deferred revenue and backlog. If customers have committed to purchases but not yet received products, that appears in the balance sheet as deferred revenue (a liability, but one that turns into cash). The 10-K should disclose backlog or pipeline opportunities for each segment, giving visibility into future revenue growth.
+Investors should also track deferred revenue and backlog. If customers have committed to purchases but not yet received products, that appears in the [balance sheet](/balance-sheet/) as deferred revenue (a liability, but one that turns into cash). The 10-K should disclose backlog or pipeline opportunities for each segment, giving visibility into future revenue growth.
 
 ## Research and Development Intensity
 
@@ -52,7 +52,7 @@ Sales channels also matter. Is Dalrada selling directly to end customers, or thr
 
 ## Acquisition and Organic Growth Strategy
 
-Dalrada's business model depends on acquisitions of smaller technology firms or assets that the company can integrate and scale. The 10-K discloses material acquisitions and the carrying value of goodwill and intangible assets. If the company has acquired multiple small businesses and now carries large goodwill balances, there is implied risk: if those acquired products fail to commercialize or are displaced, the company may take charges to write down the goodwill.
+Dalrada's business model depends on [acquisitions](/acquisition/) of smaller technology firms or assets that the company can integrate and scale. The 10-K discloses material acquisitions and the carrying value of [goodwill](/goodwill/) and [intangible assets](/intangible-assets/). If the company has acquired multiple small businesses and now carries large goodwill balances, there is implied risk: if those acquired products fail to commercialize or are displaced, the company may take charges to write down the goodwill.
 
 The company's 10-K should discuss both acquired and organic-growth initiatives. Is Dalrada acquiring businesses, or is it developing products internally? Can the company achieve growth without further acquisitions? Or is the model dependent on an ongoing stream of acquisitions to maintain growth?
 
@@ -72,6 +72,6 @@ Dalrada frames its portfolio as addressing large, fragmented healthcare and indu
 
 ## Research Approach
 
-For researching Dalrada, start with the 10-K's business overview and segment reporting. Understand which products or subsidiaries are generating revenue and which remain in development. Then examine R&D spending, regulatory approvals, and recent acquisitions. Finally, assess the balance sheet and burn rate to determine how long the company can fund development without additional capital.
+For researching Dalrada, start with the 10-K's business overview and [segment reporting](/segment-reporting/). Understand which products or subsidiaries are generating revenue and which remain in development. Then examine R&D spending, regulatory approvals, and recent acquisitions. Finally, assess the balance sheet and burn rate to determine how long the company can fund development without additional capital.
 
 Dalrada is a portfolio of technology businesses at various development stages, held together by a management team and a cash base. Its value depends on whether the portfolio companies commercialize successfully and whether the company can achieve profitability before capital runs out.

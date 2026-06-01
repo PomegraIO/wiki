@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AccuStem Sciences began as a demerged entity from Tiziana Life Sciences plc in October 2020, carving out StemPrintER Sciences Limited as an independent clinical-stage diagnostics company focused on genomic testing for cancer patients. The new entity brought with it a portfolio of gene-expression and miRNA-based tests that had been developed to address gaps in oncology care—particularly the need for more accurate biomarker assessment in high-stakes diagnostic moments.
+AccuStem Sciences began as a demerged entity from [Tiziana Life Sciences](/tlsa-stock/) plc in October 2020, carving out StemPrintER Sciences Limited as an independent clinical-stage diagnostics company focused on genomic testing for cancer patients. The new entity brought with it a portfolio of gene-expression and miRNA-based tests that had been developed to address gaps in oncology care—particularly the need for more accurate biomarker assessment in high-stakes diagnostic moments.
 
 The company's initial flagship product is the MSC test, a 24-microRNA assay designed to help physicians distinguish benign from malignant lung nodules detected during low-dose CT screening. Lung cancer screening programs identify thousands of nodules annually, but most are benign; the MSC test aims to reduce unnecessary biopsies and invasive follow-up procedures by providing non-invasive molecular evidence. In parallel, the company markets StemPrintER, a 20-gene prognostic assay for luminal breast cancer patients that predicts the risk of distant recurrence—information intended to guide treatment intensity and monitoring decisions.
 

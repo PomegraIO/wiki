@@ -25,7 +25,7 @@ This positioning carries both strength and vulnerability. A marketing team in mo
 
 monday.com monetizes through per-seat subscriptions, a model shared by Asana and Jira. Its pricing, however, targets a lower rung: teams of 5–50 people often find monday.com's entry-tier cost lower than alternatives, positioning it as the upgrade path for teams that have outgrown internal spreadsheets or single-owner tools. As accounts grow beyond 100 seats, the cost difference narrows.
 
-The company's expansion lever is not pricing pressure but platform breadth. Since going public in 2021, monday.com has acquired niche platforms—dapulse (its own prior work-management layer), Twyla (for customer service), andreportly (for dashboarding)—to add vertical-specific modules on top of its core engine. This bundling strategy differs from Asana's acquisition of Wistia (video) or Jira's organic feature bloat. monday.com is assembling an ecosystem, aiming to become the base layer for operations teams in media, professional services, retail, and logistics.
+The company's expansion lever is not pricing pressure but platform breadth. Since going public in 2021, monday.com has acquired niche platforms—dapulse (its own prior work-management layer), Twyla (for customer service), andreportly (for dashboarding)—to add vertical-specific modules on top of its core engine. This bundling strategy differs from Asana's [acquisition](/acquisition/) of Wistia (video) or Jira's organic feature bloat. monday.com is assembling an ecosystem, aiming to become the base layer for operations teams in media, professional services, retail, and logistics.
 
 ## Competitive Anchors
 
@@ -47,7 +47,7 @@ monday.com is classified as a mid-market platform competing in a market estimate
 
 ## Why It Matters
 
-monday.com's existence proves that the work-management market is not a binary—Asana or nothing. Thousands of teams find Asana too expensive or too opinionated, and Jira too developer-centric. In that gap, monday.com has built a business that serves real operational needs at a price point that makes adoption feasible for teams with limited software budgets. Whether it can defend that position against Asana's inevitable price reduction or survive if Microsoft integrates project management deeply into Teams remains an open question.
+monday.com's existence proves that the work-management market is not a binary—Asana or nothing. Thousands of teams find Asana too expensive or too opinionated, and Jira too developer-centric. In that gap, monday.com has built a business that serves real operational needs at a price point that makes adoption feasible for teams with limited software budgets. Whether it can defend that position against Asana's inevitable price reduction or survive if [Microsoft](/msft-stock/) integrates project management deeply into Teams remains an open question.
 
 <div class="wiki-seealso">
 

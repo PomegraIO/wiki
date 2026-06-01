@@ -52,7 +52,7 @@ Green Planet Bio's profitability trajectory is thus critical. Is the company nea
 
 ## Geographic and Crop Diversification
 
-The company's concentration in Asia reflects its founding and early markets, but expansion into North America suggests management's belief that larger commodity-crop opportunities exist there. The company's ability to serve multiple crops—not dependent on a single customer or crop category—provides portfolio diversification. However, it also spreads limited resources across multiple development and commercialization efforts.
+The company's concentration in Asia reflects its founding and early markets, but expansion into North America suggests management's belief that larger commodity-crop opportunities exist there. The company's ability to serve multiple crops—not dependent on a single customer or crop category—provides portfolio [diversification](/diversification/). However, it also spreads limited resources across multiple development and commercialization efforts.
 
 ## Competition and Market Dynamics
 

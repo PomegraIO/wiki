@@ -33,7 +33,7 @@ IDT was founded in 1990 by Howard Jonas with a simple idea: sell international l
 
 The early years were profitable. IDT built out infrastructure, acquired smaller carriers, and by the late 1990s had grown into a meaningful regional player in telecom arbitrage. The company exploited the gap between retail rates for international calls and the wholesale cost of terminating calls in foreign countries, capturing the spread.
 
-But IDT's trajectory was atypical for a telecom company. Rather than consolidating into a single integrated operator, the company pursued a holding-company structure and repeatedly spun off divisions into separate public companies. In 2006, IDT separated its energy business into Genie Energy (now a standalone public company). Years later, the company divested wireless spectrum assets. These moves reflected the founder's philosophy of creating specialized, focused entities that could pursue distinct strategies rather than keeping everything under one roof.
+But IDT's trajectory was atypical for a telecom company. Rather than consolidating into a single integrated operator, the company pursued a holding-company structure and repeatedly spun off divisions into separate public companies. In 2006, IDT separated its energy business into [Genie Energy](/gne-stock/) (now a standalone public company). Years later, the company divested wireless spectrum assets. These moves reflected the founder's philosophy of creating specialized, focused entities that could pursue distinct strategies rather than keeping everything under one roof.
 
 ## How the business splits across segments
 

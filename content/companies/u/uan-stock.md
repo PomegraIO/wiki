@@ -13,7 +13,7 @@ handwritten: true
 
 ## What is CVR Partners?
 
-CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of CVR Energy Company, though CVR Energy is itself a subsidiary of [Berkshire Hathaway](/brk-b-stock/) as of 2023. UAN trades on the [NASDAQ](/nasdaq/) exchange.
+CVR Partners, LP is a Delaware limited partnership that owns and operates a large-scale ammonia production facility and fertilizer terminal in Wichita, Kansas. It is structured as a master limited partnership (MLP), a publicly traded pass-through entity that distributes cash flow to unit holders rather than retaining earnings. The partnership was formed in 2007 as a subsidiary of [CVR Energy](/cvi-stock/) Company, though CVR Energy is itself a subsidiary of [Berkshire Hathaway](/brk-b-stock/) as of 2023. UAN trades on the [NASDAQ](/nasdaq/) exchange.
 
 ## Where does its cash come from?
 

@@ -17,7 +17,7 @@ keywords: [gold-exploration, senegal-mining, junior-explorer, precious-metals, e
 
 ## West African Gold Belt and Geological Targeting
 
-Compass's properties sit within the West African Gold Belt—a geological province stretching across Mali, Senegal, Guinea, and Ivory Coast that hosts multiple world-class gold mines operated by majors like Barrick, Newmont, and AngloGold Ashanti. The belt is geologically exceptional: Archean and Proterozoic greenstone belts with proven metallogenic potential. Compass's core acreage in Senegal (particularly around the Kénéba project) is located in an area where nearby exploration successes have validated the geological model.
+Compass's properties sit within the West African Gold Belt—a geological province stretching across Mali, Senegal, Guinea, and Ivory Coast that hosts multiple world-class gold mines operated by majors like Barrick, Newmont, and [AngloGold Ashanti](/au-stock/). The belt is geologically exceptional: Archean and Proterozoic greenstone belts with proven metallogenic potential. Compass's core acreage in Senegal (particularly around the Kénéba project) is located in an area where nearby exploration successes have validated the geological model.
 
 However, operating in Senegal rather than in Ivory Coast or Ghana (which have more mature mining industries and established permitting frameworks) introduces operational friction. Senegal has less developed mining infrastructure: fewer established contractors, limited refueling and supply-chain redundancy, and mining-sector experience concentrated in phosphate rather than gold. For a junior explorer with limited capital, these logistics matter enormously. Importing drilling equipment, hiring experienced mine geologists, and managing supply chains across West Africa requires relationships, patience, and higher costs than exploring in established mining jurisdictions like Canada or Australia.
 
@@ -37,7 +37,7 @@ This social geography is geopolitically fluid. A political or security shift in 
 
 ## Financing Dependency and Currency Risk
 
-Compass, as a pre-revenue exploration company, depends entirely on capital markets—equity issuance, investment partnerships, or joint-venture deals—to fund exploration programs. Canadian and US investors provide this capital, meaning Compass raises in Canadian dollars and US dollars but spends Senegalese francs (or converts to francs for local expenses). Currency fluctuations between the Canadian dollar, US dollar, and the West African Financial Community franc (the currency peg used in Senegal) directly impact Compass's exploration budget in real terms.
+Compass, as a pre-revenue exploration company, depends entirely on capital markets—equity issuance, investment partnerships, or joint-venture deals—to fund exploration programs. Canadian and US investors provide this capital, meaning Compass raises in [Canadian dollars](/canadian-dollar/) and [US dollars](/us-dollar/) but spends Senegalese francs (or converts to francs for local expenses). Currency fluctuations between the Canadian dollar, US dollar, and the West African Financial Community franc (the [currency peg](/currency-peg/) used in Senegal) directly impact Compass's exploration budget in real terms.
 
 If the Canadian dollar weakens against the US dollar (increasing the C$ cost of USD funding) or if the West African franc strengthens against the Canadian dollar (increasing the Senegalese-peso cost of exploration), Compass's funded program shrinks in real terms. This currency exposure is particularly acute for junior explorers with limited capital reserves; a 10% currency move against them can delay drilling or require fundraising rounds at unfavorable terms.
 
@@ -53,7 +53,7 @@ Geographic remoteness from major financial centers (compared to, say, a Vancouve
 
 ## Acquisition and Exit Possibilities
 
-For most junior explorers, including Compass, the realistic exit is acquisition by a larger mining company or a development-stage company with capital to advance a discovery. A major miner discovering or validating a 1–2 million-ounce gold resource in Compass's concessions would immediately want to acquire the company to consolidate control and development optionality.
+For most junior explorers, including Compass, the realistic exit is [acquisition](/acquisition/) by a larger mining company or a development-stage company with capital to advance a discovery. A major miner discovering or validating a 1–2 million-ounce [gold resource](/goro-stock/) in Compass's concessions would immediately want to acquire the company to consolidate control and development optionality.
 
 Compass's value therefore depends on both its own success (discovery) and on the appetite of major mining companies to enter Senegal. If majors retreat from African gold exploration due to political risk or prefer other regions, Compass's exit options shrink even if it makes a discovery—the buyer pool contracts.
 
@@ -69,7 +69,7 @@ Compass, like all pre-revenue juniors, has raised capital through equity issuanc
 
 Compass's challenges are amplified by comparison to peers exploring in jurisdictions with lower geopolitical and regulatory risk—Canadian explorers in Ontario, Australian explorers in Queensland, or South American explorers in Chile. These competitors face simpler permitting, more developed mining supply chains, lower social-license friction, and stronger institutional investor appetite. Compass must therefore deliver exceptional geological upside—a genuine world-class discovery—just to equal the risk-adjusted returns of a marginal discovery in a safer jurisdiction.
 
-The Senegal bet is that the geology is sufficiently exceptional and that Compass's early acreage position provides discovery leverage. If that bet does not pay off (no discovery, or a discovery too small to develop), Compass shareholders will have borne currency risk, geopolitical risk, and years of dilution for a return worse than they could have achieved owning a junior explorer in a safer region.
+The Senegal bet is that the geology is sufficiently exceptional and that Compass's early acreage position provides discovery leverage. If that bet does not pay off (no discovery, or a discovery too small to develop), Compass shareholders will have borne [currency risk](/currency-risk/), geopolitical risk, and years of dilution for a return worse than they could have achieved owning a junior explorer in a safer region.
 
 <div class="wiki-seealso">
 ### Closely related

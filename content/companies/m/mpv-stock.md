@@ -21,7 +21,7 @@ The defining structural advantage of a closed-end fund like MPV is its ability t
 
 The moat works in two directions. First, MPV can participate in funding rounds and growth opportunities that conventional public-market investors cannot meaningfully access. When a venture-backed company needs patient capital to reach profitability or acquisition readiness, a closed-end fund with a committed capital base can say yes without worrying about quarterly redemptions. This access privilege, paired with Barings' reputation and networks in venture capital, creates a structural advantage in deal sourcing and terms.
 
-Second, illiquidity allows MPV to avoid the performance drag of the trading cycle. Open-end funds must often harvest tax losses, rebalance holdings, and execute trades to meet flows—each action incurs costs. MPV can simply hold and allow portfolio companies to mature. Over a full investment cycle (typically 7–10 years), this drag avoidance can compound into meaningful outperformance.
+Second, illiquidity allows MPV to avoid the performance drag of the trading cycle. [Open-end funds](/open-end-fund/) must often harvest tax losses, rebalance holdings, and execute trades to meet flows—each action incurs costs. MPV can simply hold and allow portfolio companies to mature. Over a full investment cycle (typically 7–10 years), this drag avoidance can compound into meaningful outperformance.
 
 ## Dependency on Barings' Judgment
 
@@ -31,9 +31,9 @@ This creates a temporal moat: early investors benefit from Barings' picks before
 
 ## Portfolio Concentration and Sector Risk
 
-Growth-stage venture portfolios are inherently concentrated: MPV likely holds positions in a handful of fast-scaling technology or healthcare companies, with a few outperformers driving returns for many failures. This concentration risk is the flip side of the moat. The illiquidity that protects against forced sales also means shareholders cannot easily rebalance or de-risk if one large holding falters.
+Growth-stage venture portfolios are inherently concentrated: MPV likely holds positions in a handful of fast-scaling technology or healthcare companies, with a few outperformers driving returns for many failures. This [concentration risk](/concentration-risk/) is the flip side of the moat. The illiquidity that protects against forced sales also means shareholders cannot easily rebalance or de-risk if one large holding falters.
 
-Moreover, venture capital returns are power-law distributed: a small number of breakaway winners (IPOs, acquisitions at high valuation) generate most of the fund's returns, while the median investment loses money or returns capital. MPV's moat depends entirely on whether Barings' portfolio contains any such winners in its current vintage or near-term exits. In years when no major exits materialize, the fund's [price-to-book-ratio](/price-to-book-ratio/) may trade at a steep discount as shareholders flee illiquidity.
+Moreover, venture capital returns are power-law distributed: a small number of breakaway winners (IPOs, [acquisitions](/acquisition/) at high valuation) generate most of the fund's returns, while the median investment loses money or returns capital. MPV's moat depends entirely on whether Barings' portfolio contains any such winners in its current vintage or near-term exits. In years when no major exits materialize, the fund's [price-to-book-ratio](/price-to-book-ratio/) may trade at a steep discount as shareholders flee illiquidity.
 
 ## Market Discount Dynamics
 
@@ -43,7 +43,7 @@ But the discount is also a liability. If MPV's NAV per share rises 10% in a year
 
 ## How Barings' Distribution Rights Create Stickiness
 
-Barings, as the fund's investment adviser, earns management fees and performance incentives tied to assets under management and returns. This creates a misalignment risk: Barings benefits from keeping capital locked in MPV regardless of opportunity cost to shareholders. However, reputation effects partially mitigate this risk. If MPV underperforms and shareholders suffer, Barings' ability to raise future funds deteriorates. The long-term incentive to maintain track record thus somewhat aligns interests, creating a secondary moat via reputational capital.
+Barings, as the fund's investment adviser, earns [management fees](/management-fee/) and performance incentives tied to assets under management and returns. This creates a misalignment risk: Barings benefits from keeping capital locked in MPV regardless of opportunity cost to shareholders. However, reputation effects partially mitigate this risk. If MPV underperforms and shareholders suffer, Barings' ability to raise future funds deteriorates. The long-term incentive to maintain track record thus somewhat aligns interests, creating a secondary moat via reputational capital.
 
 ## Evaluating MPV's Durability
 

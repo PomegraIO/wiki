@@ -21,7 +21,7 @@ Envirotech operates in the capital-voracious world of vehicle manufacturing. Unl
 
 Like most EV manufacturers at its stage, Envirotech has financed growth through [equity](/stock/) issuance rather than traditional debt. This choice reflects both the risk profile of vehicle startups and the current appetite for clean-technology [common stock](/common-stock/). Equity capital allows the company to carry losses during the pre-revenue or low-volume phases without covenant violations that would trigger default. The tradeoff is dilution: each funding round reduces the ownership stake of earlier investors and employees.
 
-The company's ability to access public markets through [NASDAQ](/nasdaq/) listing provides ongoing liquidity for insiders and employees holding [shares](/stock/) while enabling future secondary offerings. This is critical for firms in capital-intensive industries—they must maintain access to public capital or face starvation in a multi-year runway to profitability.
+The company's ability to access public markets through [NASDAQ](/nasdaq/) listing provides ongoing liquidity for insiders and employees holding [shares](/stock/) while enabling future [secondary offerings](/secondary-offering/). This is critical for firms in capital-intensive industries—they must maintain access to public capital or face starvation in a multi-year runway to profitability.
 
 ## The Balance-Sheet Constraint
 
@@ -47,7 +47,7 @@ What matters more for equity holders is the opportunity cost: has management dep
 
 ## Debt Capacity and Strategic Borrowing
 
-As Envirotech demonstrates sustained production and sales, its ability to borrow via [corporate bonds](/corporate-bond/) or secured loans may improve. Traditional automakers use debt extensively because their cash flows are stable and collateral (vehicle inventory, accounts receivable) can back loans. An EV startup can follow suit only once operations are proven.
+As Envirotech demonstrates sustained production and sales, its ability to borrow via [corporate bonds](/corporate-bond/) or secured loans may improve. Traditional automakers use debt extensively because their cash flows are stable and collateral (vehicle inventory, [accounts receivable](/accounts-receivable/)) can back loans. An EV startup can follow suit only once operations are proven.
 
 Strategic debt can actually lower the cost of capital: if Envirotech can borrow at 5% and reinvest in capacity that generates 15% returns, that spread benefits equity holders. However, too much debt creates financial risk; if production falls short of expectations, the company must still service interest payments, which can force asset sales or equity dilution under duress.
 

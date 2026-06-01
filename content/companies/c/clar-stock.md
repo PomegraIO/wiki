@@ -21,7 +21,7 @@ Clarus manufactures climbing harnesses, carabiners, ropes, and related safety-cr
 
 What makes this regulatory environment particularly sharp is the inherent nature of Clarus's products: they are sold specifically as safety equipment for use in high-risk activities (climbing, rescue, rappelling). If a Clarus product fails—a carabiner breaks during a climb, a harness tears—the injury or death often involves high speeds and serious trauma. Litigation follows, and plaintiffs' attorneys argue design defects, manufacturing flaws, or inadequate warnings. Clarus must therefore maintain rigorous design verification, testing, and documentation to defend against product-liability claims.
 
-The company likely carries substantial product-liability insurance and may self-insure some exposure. It must disclose contingent liabilities if litigation reaches a probable-and-estimable threshold. A major product recall—say, discovering that a batch of carabiners has a metallurgical defect—would trigger SEC disclosure obligations, consumer notification requirements under state product-safety laws, and potential FDA (if Clarus also makes rescue-related medical devices) or CPSC oversight depending on the product category.
+The company likely carries substantial product-liability insurance and may self-insure some exposure. It must disclose [contingent liabilities](/contingent-liabilities-government/) if litigation reaches a probable-and-estimable threshold. A major product recall—say, discovering that a batch of carabiners has a metallurgical defect—would trigger SEC disclosure obligations, consumer notification requirements under state product-safety laws, and potential FDA (if Clarus also makes rescue-related medical devices) or CPSC oversight depending on the product category.
 
 ## International Standards and Market-Access Regulation
 
@@ -61,7 +61,7 @@ The regulatory and legal environment pushes Clarus toward more transparent, prom
 
 ## Environmental and Sustainability Regulation
 
-Outdoor companies face increasing pressure from customers and regulators to disclose environmental impacts and pursue sustainability. While not yet universally mandated in the US, the EU's Corporate Sustainability Reporting Directive (CSRD) and similar schemes in other markets require disclosure of greenhouse-gas emissions, waste management, and supply-chain environmental practices. Clarus, if selling significantly in Europe, may face these obligations.
+Outdoor companies face increasing pressure from customers and regulators to disclose environmental impacts and pursue sustainability. While not yet universally mandated in the US, the EU's Corporate Sustainability Reporting Directive (CSRD) and similar schemes in other markets require disclosure of greenhouse-gas emissions, [waste management](/wm-stock/), and supply-chain environmental practices. Clarus, if selling significantly in Europe, may face these obligations.
 
 The company likely discloses sustainability commitments voluntarily in corporate reports; regulators and shareholders expect consistency between stated commitments and actual practices. Greenwashing—claiming environmental benefits that are not substantiated—exposes Clarus to FTC and state attorney general enforcement and shareholder litigation.
 

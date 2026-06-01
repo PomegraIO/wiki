@@ -45,7 +45,7 @@ Hamilton's brand rests on the claim that its underwriting standards remain consi
 
 For all insurers, adequacy of loss reserves determines whether the company has earned its stated profit or whether future claim development will erode it. Reserves must cover all incurred losses—those already known and those incurred but not yet reported. Overestimate reserves and earnings look conservative but weak; underestimate and the company faces adverse development later.
 
-Hamilton's [balance sheet](/balance-sheet/) must support both current operations and the potential for large catastrophic events. Natural disasters—hurricanes, earthquakes, floods—can generate billions in industry-wide losses, and any single insurer can take a significant hit. The company maintains capital adequate to survive such stress scenarios, a discipline enforced by regulators and rating agencies. Securities and Exchange Commission filings (the 10-K especially) detail reserve balances, prior-year development, and the company's modeling of [tail risks](/tail-risk/).
+Hamilton's [balance sheet](/balance-sheet/) must support both current operations and the potential for large catastrophic events. Natural disasters—hurricanes, earthquakes, floods—can generate billions in industry-wide losses, and any single insurer can take a significant hit. The company maintains capital adequate to survive such stress scenarios, a discipline enforced by regulators and rating agencies. [Securities and Exchange Commission](/securities-and-exchange-commission/) filings (the 10-K especially) detail reserve balances, prior-year development, and the company's modeling of [tail risks](/tail-risk/).
 
 ## Competitive Pressures
 

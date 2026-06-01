@@ -30,7 +30,7 @@ Reimbursement presents another margin pinch. Even if Longeveron wins regulatory 
 
 ## Capital Intensity and Financing Reality
 
-Longeveron's balance sheet reflects early-stage biotech dependency: it must raise capital continuously to fund clinical trials, manufacturing scale-up, and operating overhead. Revenue is minimal; cash burn is steady. The company's margin story is entirely prospective—it trades on the promise that approved products will eventually earn royalties that exceed ongoing R&D costs. Until that inflection, Longeveron exists on grants, partnerships, and equity offerings. This is not a mistake; it is the structural reality of cell therapy. But it means the company's business model is vulnerable to capital markets sentiment, to changes in biotech funding appetite, and to clinical setbacks that spoil investor confidence.
+Longeveron's [balance sheet](/balance-sheet/) reflects early-stage biotech dependency: it must raise capital continuously to fund clinical trials, manufacturing scale-up, and operating overhead. Revenue is minimal; cash burn is steady. The company's margin story is entirely prospective—it trades on the promise that approved products will eventually earn royalties that exceed ongoing R&D costs. Until that inflection, Longeveron exists on grants, partnerships, and equity offerings. This is not a mistake; it is the structural reality of cell therapy. But it means the company's business model is vulnerable to capital markets sentiment, to changes in biotech funding appetite, and to clinical setbacks that spoil investor confidence.
 
 ## Differentiation in a Crowded Field
 

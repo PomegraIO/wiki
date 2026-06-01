@@ -19,7 +19,7 @@ keywords: ["electronics components", "B2B marketplace", "supply chain", "invento
 
 Electronics manufacturing operates through layered distribution. Component makers produce chips, capacitors, resistors, connectors—often in large production runs. These components flow through authorized distributors (large firms like Arrow, Heilind, Tech Data) to system integrators, original equipment manufacturers, repair shops, and industrial facilities that incorporate them into finished products or repairs. This channel works for high-volume, standardized parts but breaks down for obsolete, specialized, or hard-to-find components.
 
-Integrators and repair technicians frequently encounter situations where a specific part is needed but suppliers of record have discontinued it, warehouses carry insufficient stock, or lead times stretch to months. In such cases, technicians turn to secondary markets—searching through small distributors, resellers, and inventory liquidation brokers. ICZOOM's platform digitalizes and aggregates this fragmented secondary and specialized supply layer.
+Integrators and repair technicians frequently encounter situations where a specific part is needed but suppliers of record have discontinued it, warehouses carry insufficient stock, or lead times stretch to months. In such cases, technicians turn to [secondary markets](/secondary-market/)—searching through small distributors, resellers, and inventory [liquidation](/liquidation/) [brokers](/broker/). ICZOOM's platform digitalizes and aggregates this fragmented secondary and specialized supply layer.
 
 ## The Search and Inventory Discovery Problem
 

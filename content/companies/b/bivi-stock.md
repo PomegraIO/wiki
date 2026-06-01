@@ -36,7 +36,7 @@ Each step up the pyramid requires more capital. BioVie's position in this funnel
 
 Clinical-stage biotech companies typically burn through $5–$20 million per year or more, depending on the scale and complexity of their trials. For a company like BioVie, generating no revenue from product sales, this burn is funded entirely by equity issuance, debt, or (rarely) out-licensing deals and upfront payments from larger pharma partners. The company's runway—the number of months it can continue operations at current burn before capital runs out—is its most closely watched metric.
 
-BioVie must regularly return to the capital markets: institutional investors, venture capital funds, or strategic partners. Each round of financing dilutes existing shareholders, which creates pressure to demonstrate progress and de-risk the program. Companies that can show positive Phase 2 data, partnerships with larger firms, or regulatory approvals command premium valuations. Companies that announce failed trials or slower-than-expected enrollment see funding access evaporate.
+BioVie must regularly return to the capital markets: institutional investors, [venture capital funds](/venture-capital-fund/), or strategic partners. Each round of financing dilutes existing shareholders, which creates pressure to demonstrate progress and de-risk the program. Companies that can show positive Phase 2 data, partnerships with larger firms, or regulatory approvals command premium valuations. Companies that announce failed trials or slower-than-expected enrollment see funding access evaporate.
 
 This dynamic creates a strategic imperative: the company must not merely discover good drugs, but must do so at a pace and with results that sustain investor confidence and capital flow.
 
@@ -52,7 +52,7 @@ BioVie's ability to navigate these regulatory pathways depends on the quality of
 
 Clinical-stage companies exist in a pre-commercial lifecycle. Once a program receives FDA approval and the company launches a marketed product, the company enters a new phase: early commercialization. At this point, revenue begins, and the company transitions from pure cash burn to a trajectory toward profitability. This inflection is existential—it determines whether the company is acquired, remains independent, or becomes a chronic cash burn destined for delisting.
 
-BioVie's path to this inflection depends on whether any of its programs reaches approval. Success in even one indication can generate enough revenue and investor optimism to fund subsequent programs. Failure across the portfolio, or repeated delays, forces the company toward merger, licensing away of assets, or insolvency.
+BioVie's path to this inflection depends on whether any of its programs reaches approval. Success in even one indication can generate enough revenue and investor optimism to fund subsequent programs. Failure across the portfolio, or repeated delays, forces the company toward [merger](/merger/), licensing away of assets, or insolvency.
 
 ## Portfolio Composition and Risk Reduction
 
@@ -62,7 +62,7 @@ The company may also pursue partnerships or licensing deals to share financial b
 
 ## The Strategic Holding Period
 
-BioVie exists in a strategic holding period. It has de-risked the earliest phases (preclinical and initial safety), but it has not yet reached the regulatory finish line (approval) or the commercial finish line (sustained profitability). The company's stock price and financial viability depend almost entirely on market belief in its programs' potential and its ability to fund development until approval.
+BioVie exists in a strategic [holding period](/holding-period/). It has de-risked the earliest phases (preclinical and initial safety), but it has not yet reached the regulatory finish line (approval) or the commercial finish line (sustained profitability). The company's stock price and financial viability depend almost entirely on market belief in its programs' potential and its ability to fund development until approval.
 
 For shareholders and partners, BioVie represents a leveraged bet: small capital outlay for equity, with convex returns if a program succeeds and catastrophic loss if all programs fail. For management, the challenge is to balance scientific rigor with execution speed, to manage capital carefully, and to communicate results clearly enough to maintain access to funding.
 

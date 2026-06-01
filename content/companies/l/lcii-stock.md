@@ -17,7 +17,7 @@ keywords: [recreational-vehicles, rv-industry, components-supplier, automotive-s
 
 ## Supplying the RV Industry's Backbone
 
-LCI's strategic position is as an intermediate supplier—not a raw materials producer (steel mills, appliance makers), not a final OEM assembler (Thor Industries, Winnebago), but the orchestrator of integrated subsystems. When a travel-trailer manufacturer or motorhome builder needs a complete chassis frame, electrical distribution system, plumbing infrastructure, cabinetry, and appliance installation, they can either build all of that in-house (capital-intensive and slow) or source it from a specialist integrator like LCI. LCI's value is in designing modular systems that fit different OEM platforms, managing the supply chain for dozens of components, and pre-assembling them into configurations that OEMs can rapidly integrate into their final products. This supplier role means LCI's revenue moves in lockstep with RV production volumes—a direct input to end demand. During periods when RVs are selling (typically driven by consumer leisure spending, interest rates, and gasoline prices), LCI's output is constrained by capacity. During downturns, utilization drops sharply and margins compress.
+LCI's strategic position is as an intermediate supplier—not a raw materials producer (steel mills, appliance makers), not a final OEM assembler ([Thor Industries](/tho-stock/), Winnebago), but the orchestrator of integrated subsystems. When a travel-trailer manufacturer or motorhome builder needs a complete chassis frame, electrical distribution system, plumbing infrastructure, cabinetry, and appliance installation, they can either build all of that in-house (capital-intensive and slow) or source it from a specialist integrator like LCI. LCI's value is in designing modular systems that fit different OEM platforms, managing the supply chain for dozens of components, and pre-assembling them into configurations that OEMs can rapidly integrate into their final products. This supplier role means LCI's revenue moves in lockstep with RV production volumes—a direct input to end demand. During periods when RVs are selling (typically driven by consumer leisure spending, [interest rates](/interest-rate/), and gasoline prices), LCI's output is constrained by capacity. During downturns, utilization drops sharply and margins compress.
 
 ## The Modular Systems Economics
 
@@ -33,7 +33,7 @@ LCI operates multiple facilities across North America, concentrating production 
 
 ## Demand Drivers and Cyclical Exposure
 
-RV demand is driven by consumer discretionary spending, which is sensitive to unemployment, interest rates, fuel prices, and consumer confidence. During recessions or interest-rate spikes, RV purchases decline sharply—RVs are expensive durable goods that most consumers finance. During low-interest-rate periods and strong employment, demand surges. The industry also has a built-in secular trend: an aging population with more leisure time and wealth tends to spend more on RVs, and younger consumers (especially post-pandemic) have shown renewed interest in RV travel as an alternative to hotels. However, seasonal patterns and economic cycles still dominate short-term demand. For LCI, this cyclicality means that the 10-K will show material swings in backlog, capacity utilization, and margin trends from one quarter to the next. Investors should track RV industry production forecasts (published by industry associations) and new dealer inventory levels to anticipate pressure or strength in LCI's incoming orders.
+RV demand is driven by consumer [discretionary spending](/discretionary-spending/), which is sensitive to unemployment, interest rates, fuel prices, and consumer confidence. During [recessions](/recession/) or interest-rate spikes, RV purchases decline sharply—RVs are expensive durable goods that most consumers finance. During low-interest-rate periods and strong employment, demand surges. The industry also has a built-in secular trend: an aging population with more leisure time and wealth tends to spend more on RVs, and younger consumers (especially post-pandemic) have shown renewed interest in RV travel as an alternative to hotels. However, seasonal patterns and economic cycles still dominate short-term demand. For LCI, this cyclicality means that the 10-K will show material swings in backlog, capacity utilization, and margin trends from one quarter to the next. Investors should track RV industry production forecasts (published by industry associations) and new dealer inventory levels to anticipate pressure or strength in LCI's incoming orders.
 
 ## Research and Positioning in Filings
 
@@ -43,8 +43,8 @@ LCI's 10-K discusses its segment revenue (by OEM customer or by RV type), gross 
 
 ### Closely related
 - Thor Industries — major RV OEM and LCI customer
-- Winnebago Industries — another major RV OEM
-- General Motors — automobile OEM; similar supplier relationships
+- [Winnebago Industries](/wgo-stock/) — another major RV OEM
+- [General Motors](/gm-stock/) — automobile OEM; similar supplier relationships
 
 ### Wider context
 - [/public-company/](/public-company/) — corporate structure

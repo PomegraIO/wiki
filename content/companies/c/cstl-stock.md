@@ -29,7 +29,7 @@ An insurance company must decide whether to cover Castle's test. The test costs 
 
 ## Competitive Threats and Test Commoditization
 
-Castle operates in a competitive market. Competitors—including Myriad Genetics, Genomic Health (acquired by Exact Sciences), and emerging startups—offer competing genomic tests for cancer prognosis and treatment selection. As more tests enter the market, payers face pressure to negotiate discounts. A payer might tell Castle: "We will cover your test, but only at $2,000 instead of $3,500." Castle faces margin pressure. Additionally, as more competitors enter, dermatologists and oncologists might see genomic testing as a commodity; if Castle's test is clinically equivalent to a competitor's but costs more, the customer (the oncology practice) switches. Castle must therefore differentiate on clinical evidence, brand reputation, and ease of use to maintain premium pricing.
+Castle operates in a competitive market. Competitors—including [Myriad Genetics](/mygn-stock/), Genomic Health (acquired by Exact Sciences), and emerging startups—offer competing genomic tests for cancer prognosis and treatment selection. As more tests enter the market, payers face pressure to negotiate discounts. A payer might tell Castle: "We will cover your test, but only at $2,000 instead of $3,500." Castle faces margin pressure. Additionally, as more competitors enter, dermatologists and oncologists might see genomic testing as a commodity; if Castle's test is clinically equivalent to a competitor's but costs more, the customer (the oncology practice) switches. Castle must therefore differentiate on clinical evidence, brand reputation, and ease of use to maintain premium pricing.
 
 ## The Test Workflow as Customer Experience
 

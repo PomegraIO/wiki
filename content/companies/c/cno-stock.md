@@ -4,7 +4,7 @@ description: A publicly traded insurance holding company focusing on supplementa
 keywords: [insurance, holding company, underwriting, state regulation, 10-K, solvency]
 ---
 
-*At **CNO Financial Group** (ticker CNO, CIK 1224608), the business is fundamentally constrained by the insurance regulatory framework—a state-by-state web of licensing, reserve requirements, and capital mandates that shape what it can underwrite, how much margin it must hold, and what it can return to shareholders. The company operates through subsidiaries licensed to sell supplemental health and life policies, each subsidiary subject to its state insurance department's approval and ongoing oversight.*
+*At **CNO Financial Group** (ticker CNO, CIK 1224608), the business is fundamentally constrained by the insurance regulatory framework—a state-by-state web of licensing, [reserve requirements](/reserve-requirements/), and capital mandates that shape what it can underwrite, how much margin it must hold, and what it can return to shareholders. The company operates through subsidiaries licensed to sell supplemental health and life policies, each subsidiary subject to its state insurance department's approval and ongoing oversight.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CNO</td></tr>
@@ -17,7 +17,7 @@ keywords: [insurance, holding company, underwriting, state regulation, 10-K, sol
 
 ## How Insurance Regulation Defines the Margin
 
-CNO sells what regulators call "supplemental" insurance—policies that cover what other insurance doesn't, or fill gaps in major medical or life coverage. Each policy form, before it can be sold in a state, must be filed with and approved by that state's insurance commissioner. The filing process is not merely administrative; it is a bottleneck that can delay product launches and force product redesigns. Insurers must prove that rates are not excessive, inadequate, or unfairly discriminatory. This means CNO's pricing power is constrained. It cannot simply raise premiums to offset cost inflation; it must file for rate increases and justify them to state regulators who balance the insurer's financial solvency against consumer protection.
+CNO sells what regulators call "supplemental" insurance—policies that cover what other insurance doesn't, or fill gaps in major medical or life coverage. Each policy form, before it can be sold in a state, must be filed with and approved by that state's insurance commissioner. The filing process is not merely administrative; it is a bottleneck that can delay product launches and force product redesigns. Insurers must prove that rates are not excessive, inadequate, or unfairly discriminatory. This means CNO's pricing power is constrained. It cannot simply raise premiums to offset cost [inflation](/inflation/); it must file for rate increases and justify them to state regulators who balance the insurer's financial solvency against consumer protection.
 
 More consequentially, insurance regulation creates reserve requirements. When CNO collects a premium from a policyholder, it cannot simply keep the money as cash. Insurance accounting rules—established by the National Association of Insurance Commissioners and adopted into state law—require that the company set aside reserves (liabilities on the balance sheet) to cover the expected cost of claims over the life of those policies. For long-tail policies like life insurance, reserves can be substantial relative to premium income. These reserves are not available to deploy into higher-return investments; they are essentially locked. The company's [return-on-equity](/return-on-equity/) is thus constrained by the fact that a large portion of its equity must sit in low-return assets to back those liabilities.
 
@@ -25,7 +25,7 @@ More consequentially, insurance regulation creates reserve requirements. When CN
 
 Insurance holding companies are subject to dual oversight. CNO itself, as a holding company, is regulated at the parent level by state insurance regulators (typically the state where its principal subsidiary is domiciled). Its operating subsidiaries are each separately licensed and subject to the insurance code of their own state. This creates a cascading compliance burden: each subsidiary must maintain its own capital standards, satisfy its own state's reserve calculations, and file its own regulatory returns.
 
-State insurance regulators use a metric called "surplus"—essentially, the difference between assets and liabilities. A subsidiary must maintain surplus above a statutory minimum, often expressed as a percentage of premiums written or in absolute dollar terms. If surplus falls below the minimum, the state commissioner can issue a directive requiring corrective action. In extreme cases, if an insurer becomes insolvent (liabilities exceed assets), the state can seize it, put it into rehabilitation or liquidation, and exhaust a state insurance guaranty fund to pay claims.
+State insurance regulators use a metric called "surplus"—essentially, the difference between assets and liabilities. A subsidiary must maintain surplus above a statutory minimum, often expressed as a percentage of premiums written or in absolute dollar terms. If surplus falls below the minimum, the state commissioner can issue a directive requiring corrective action. In extreme cases, if an insurer becomes insolvent (liabilities exceed assets), the state can seize it, put it into rehabilitation or [liquidation](/liquidation/), and exhaust a state insurance guaranty fund to pay claims.
 
 CNO's holding company structure adds a layer: the parent must ensure that its subsidiaries remain solvent and capitalized. If a subsidiary is in distress, the parent may need to inject capital downstream. This ties the company's financial flexibility to the regulatory health of its operating units.
 
@@ -41,9 +41,9 @@ Changes to state insurance codes—such as new mandates to cover specific benefi
 
 ## Holding Company Restrictions on Capital Movement
 
-The holding company itself cannot freely deploy capital between subsidiaries or upstream dividends to shareholders. Many states require prior approval for intercompany dividends; a subsidiary cannot pay a dividend to its parent without filing with its state insurance commissioner and demonstrating that the dividend does not impair the subsidiary's surplus below statutory minimums. CNO's ability to return capital to shareholders thus depends on its subsidiaries' earnings and surplus positions.
+The holding company itself cannot freely deploy capital between subsidiaries or upstream [dividends](/dividend/) to shareholders. Many states require prior approval for intercompany dividends; a subsidiary cannot pay a dividend to its parent without filing with its state insurance commissioner and demonstrating that the dividend does not impair the subsidiary's surplus below statutory minimums. CNO's ability to return capital to shareholders thus depends on its subsidiaries' earnings and surplus positions.
 
-Acquisitions by insurance holding companies are also regulated. If CNO acquires another insurer or is acquired, the transaction must typically be approved by insurance commissioners in states where the target company is licensed. These approvals can be lengthy and conditional, adding uncertainty to deal timelines.
+[Acquisitions](/acquisition/) by insurance holding companies are also regulated. If CNO acquires another insurer or is acquired, the transaction must typically be approved by insurance commissioners in states where the target company is licensed. These approvals can be lengthy and conditional, adding uncertainty to deal timelines.
 
 ## Risk Dependencies and Competitive Constraints
 

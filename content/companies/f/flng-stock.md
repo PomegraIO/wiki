@@ -4,7 +4,7 @@ description: "Shipping company specializing in floating liquefied natural gas st
 keywords: [shipping, LNG, tankers, maritime, energy transport, fleet owner, charter revenue]
 ---
 
-*Flex LNG Ltd. is a **FLNG** shipping company that owns and operates liquefied natural gas (LNG) carriers—vessels engineered to transport natural gas cooled to minus-161 degrees Celsius. The company derives revenue primarily by contracting these vessels to oil majors, gas producers, and LNG traders under both fixed-term charters and spot market deployments. Unlike a traditional tanker operator, FLNG specializes in a narrower, capital-intensive segment: it owns fewer but larger and newer vessels, targeting long-term contracts that lock in stable cash flows while maintaining upside exposure to volatile spot rates when vessels are undeployed.*
+*Flex LNG Ltd. is a **FLNG** shipping company that owns and operates liquefied [natural gas](/natural-gas/) (LNG) carriers—vessels engineered to transport natural gas cooled to minus-161 degrees Celsius. The company derives revenue primarily by contracting these vessels to oil majors, gas producers, and LNG traders under both fixed-term charters and spot market deployments. Unlike a traditional tanker operator, FLNG specializes in a narrower, capital-intensive segment: it owns fewer but larger and newer vessels, targeting long-term contracts that lock in stable cash flows while maintaining upside exposure to volatile spot rates when vessels are undeployed.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FLNG</td></tr>
@@ -29,19 +29,19 @@ The company's approach also decouples it from the traditional shipping lines' ra
 
 ## Charter Contracts as Cash-Flow Anchors
 
-FLNG's published financial returns derive almost entirely from the quality and length of its contract backlog. A 5-year charter at $140,000 per day generates $255 million in contracted revenue (less operating costs, depreciation, and financing). This visibility is a competitive advantage against spot-driven competitors; investors and creditors can model future cash flows with confidence. However, the trade-off is severe: a company locked into a 5-year fixed rate has zero upside if market rates climb to $180,000 per day halfway through. FLNG's capital allocation discipline therefore hinges on the decision to sign long-term contracts: opportunistic owners wait for rate spikes to lock in high fixed rates, while distressed owners sign whenever cash is tight, locking in low rates and deferring pain.
+FLNG's published financial returns derive almost entirely from the quality and length of its contract backlog. A 5-year charter at $140,000 per day generates $255 million in contracted revenue (less operating costs, [depreciation](/depreciation/), and financing). This visibility is a competitive advantage against spot-driven competitors; investors and creditors can model future cash flows with confidence. However, the trade-off is severe: a company locked into a 5-year fixed rate has zero upside if market rates climb to $180,000 per day halfway through. FLNG's capital allocation discipline therefore hinges on the decision to sign long-term contracts: opportunistic owners wait for rate spikes to lock in high fixed rates, while distressed owners sign whenever cash is tight, locking in low rates and deferring pain.
 
-The accounting treatment matters. A long-term charter is revenue-recognized ratably over the contract term, not upon spot conclusion; depreciation and operating costs are spread similarly. This means a profitable FLNG contract generates steady EBITDA, but depreciation is substantial: vessels are capitalized and amortized over their useful lives (typically 25–30 years). A company with many old vessels appears less profitable on a net income basis than one with newer, smaller fleets, even if both generate similar cash. FLNG's focus on newer vessels therefore provides a visible earnings profile.
+The accounting treatment matters. A long-term charter is revenue-recognized ratably over the contract term, not upon spot conclusion; depreciation and operating costs are spread similarly. This means a profitable FLNG contract generates steady [EBITDA](/ebitda/), but depreciation is substantial: vessels are capitalized and amortized over their useful lives (typically 25–30 years). A company with many old vessels appears less profitable on a net income basis than one with newer, smaller fleets, even if both generate similar cash. FLNG's focus on newer vessels therefore provides a visible earnings profile.
 
 ## Leverage and Refinancing Risk
 
-Maritime operators traditionally carry heavy debt. A $180 million LNG carrier often finances at 60–70% loan-to-value (LTV), meaning $110–$125 million of debt per vessel. FLNG's profitability is hostage to (a) interest rates on refinancing, (b) availability of shipping finance, and (c) the spread between contracted charter rates and all-in debt service. In a rising-rate environment or a shipping downturn that depresses refinancing availability, FLNG's leverage becomes a drag. Conversely, in a low-rate regime with healthy refinancing markets, leverage amplifies equity returns.
+Maritime operators traditionally carry heavy debt. A $180 million LNG carrier often finances at 60–70% loan-to-value (LTV), meaning $110–$125 million of debt per vessel. FLNG's profitability is hostage to (a) [interest rates](/interest-rate/) on refinancing, (b) availability of shipping finance, and (c) the spread between contracted charter rates and all-in debt service. In a rising-rate environment or a shipping downturn that depresses refinancing availability, FLNG's leverage becomes a drag. Conversely, in a low-rate regime with healthy refinancing markets, leverage amplifies equity returns.
 
 The company also faces covenant risk: lenders require minimum [returns-on-equity](/return-on-equity/), debt-service coverage ratios, and sometimes prohibit asset sales below book value. A sharp rate collapse could trigger covenant violations, forcing asset sales at distressed prices or equity dilution.
 
 ## Exposure to LNG Market Dynamics
 
-FLNG's customers are gas producers, traders, and utilities building LNG supply chains. When global LNG demand is robust—driven by manufacturing growth, power generation, or strategic diversification away from pipeline gas—demand for shipping tonnage rises. Conversely, pipeline expansion (e.g., new Russia-to-Europe pipelines before 2022, or proposed connections in Asia) reduces the addressable LNG market. The company is thus indirectly exposed to geopolitical energy shifts, regulatory push toward renewable transport, and the pace of new LNG liquefaction plant construction (which takes 5–10 years and generates shipping demand years later).
+FLNG's customers are gas producers, traders, and utilities building LNG supply chains. When global LNG demand is robust—driven by manufacturing growth, power generation, or strategic [diversification](/diversification/) away from pipeline gas—demand for shipping tonnage rises. Conversely, pipeline expansion (e.g., new Russia-to-Europe pipelines before 2022, or proposed connections in Asia) reduces the addressable LNG market. The company is thus indirectly exposed to [geopolitical energy](/geopolitical-energy/) shifts, regulatory push toward renewable transport, and the pace of new LNG liquefaction plant construction (which takes 5–10 years and generates shipping demand years later).
 
 Unlike an oil or gas producer, FLNG does not own reserves or transformation assets. Its upside is entirely in the rent it collects for capital equipment already deployed. This makes FLNG a play on shipping supply discipline and contract quality, not on commodity prices per se (though tight commodity markets do tighten shipping).
 
@@ -58,7 +58,7 @@ Capital expenditure beyond the initial fleet is minimal; FLNG is not a heavy gro
 ### Closely related
 
 - Maritime shipping and tonnage dynamics
-- Flex LNG peers: Golar LNG, Mitsui O.S.K. Lines, Teekay LNG Partners
+- Flex LNG peers: [Golar LNG](/glng-stock/), Mitsui O.S.K. Lines, Teekay LNG Partners
 
 ### Wider context
 

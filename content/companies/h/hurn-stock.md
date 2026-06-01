@@ -16,7 +16,7 @@ keywords: [consulting, services, digital-transformation, crisis-management, prof
 
 ## Recession-Resistant Advice, Cyclical Client Capital Budgets
 
-Huron Consulting occupies a curious middle ground in the cyclical landscape. Its basic proposition—advising corporations on operations, costs, technology, and organizational restructuring—is partly recession-proof and partly sensitive to the broader economy. When firms face profitability pressure or disruptive competition, they hire external consultants to reimagine their operating model or cut costs. Recessions often drive such projects, as CFOs become aggressive about efficiency. But when capital markets collapse and credit tightens, even this "defensive" advisory work can dry up if clients impose hiring freezes across all external spend.
+Huron Consulting occupies a curious middle ground in the cyclical landscape. Its basic proposition—advising corporations on operations, costs, technology, and organizational restructuring—is partly recession-proof and partly sensitive to the broader economy. When firms face profitability pressure or disruptive competition, they hire external consultants to reimagine their operating model or cut costs. [Recessions](/recession/) often drive such projects, as CFOs become aggressive about efficiency. But when capital markets collapse and credit tightens, even this "defensive" advisory work can dry up if clients impose hiring freezes across all external spend.
 
 Similarly, Huron advises government agencies on efficiency and technology modernization. Government budgets are less cyclical than corporate budgets, but they are political and volatile; changes in appropriations or priority can shift demand quickly.
 
@@ -40,7 +40,7 @@ Because consulting is human-capital-intensive and difficult to automate, Huron c
 
 ## Capital Structure and Growth Reinvestment
 
-As a services firm, Huron's capital intensity is low; it needs minimal physical plant or equipment. Its R&D and internal investment are modest compared to manufacturing or software companies. The primary claim on [free cash flow](/free-cash-flow/) is usually dividend payments and [share buybacks](/share-buyback/), not growth capital expenditure. This gives the firm flexibility to adjust shareholder returns with the cycle, or to fund acquisitions of complementary consulting practices.
+As a services firm, Huron's capital intensity is low; it needs minimal physical plant or equipment. Its R&D and internal investment are modest compared to manufacturing or software companies. The primary claim on [free cash flow](/free-cash-flow/) is usually [dividend](/dividend/) payments and [share buybacks](/share-buyback/), not growth capital expenditure. This gives the firm flexibility to adjust shareholder returns with the cycle, or to fund [acquisitions](/acquisition/) of complementary consulting practices.
 
 The firm has pursued acquisitions to broaden its service lines and add scale, particularly in digital transformation and healthcare. These acquisitions are less cyclical than organic revenue growth; they can be timed to buy distressed competitors in downturns or to fast-track into new markets. Their success depends on integration discipline and the durability of client relationships transferred in the acquisition.
 

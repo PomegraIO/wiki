@@ -41,9 +41,9 @@ IIPR's ability to grow depends on entering new legalized markets at attractive p
 
 ## Capital Intensity and REIT Structure
 
-As a [REIT](/real-estate-investment-trust/), IIPR must distribute at least 90% of taxable income to shareholders as [dividends](/dividend/). This structure creates a requirement for continuous capital deployment to maintain growth. The company must regularly refinance or issue new debt and equity to fund acquisitions.
+As a [REIT](/real-estate-investment-trust/), IIPR must distribute at least 90% of taxable income to shareholders as [dividends](/dividend/). This structure creates a requirement for continuous capital deployment to maintain growth. The company must regularly refinance or issue new debt and equity to fund [acquisitions](/acquisition/).
 
-Rising interest rates increase IIPR's cost of capital, compressing returns on new acquisitions. If the company cannot fund deals at acceptable yields, growth slows. Conversely, if the company grows too aggressively by issuing equity, existing shareholders face dilution.
+Rising [interest rates](/interest-rate/) increase IIPR's cost of capital, compressing returns on new acquisitions. If the company cannot fund deals at acceptable yields, growth slows. Conversely, if the company grows too aggressively by issuing equity, existing shareholders face dilution.
 
 IIPR is also sensitive to real-estate credit conditions. If capital markets tighten or if institutional investors lose appetite for cannabis-focused real-estate risk, the company could face refinancing challenges or forced asset sales at unfavorable prices.
 

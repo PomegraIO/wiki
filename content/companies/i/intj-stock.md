@@ -34,7 +34,7 @@ Intelligent Group must therefore manage workforce planning carefully. Hiring too
 
 ## Margin drivers and cost structure
 
-Profitability in services delivery hinges on controlling three things: the cost of talent acquisition and retention, the ability to command premium rates, and the overhead burden. Southeast Asian labor costs favor Intelligent Group relative to Western competitors, but this advantage erodes if talent competition intensifies or if the company must maintain expensive international footprints to serve global clients. Many regional services firms have scaled by expanding into multiple countries, which increases overhead but allows them to serve multinational clients from nearshore locations.
+Profitability in services delivery hinges on controlling three things: the cost of talent [acquisition](/acquisition/) and retention, the ability to command premium rates, and the overhead burden. Southeast Asian labor costs favor Intelligent Group relative to Western competitors, but this advantage erodes if talent competition intensifies or if the company must maintain expensive international footprints to serve global clients. Many regional services firms have scaled by expanding into multiple countries, which increases overhead but allows them to serve multinational clients from nearshore locations.
 
 Overhead—rent, utilities, management salaries, finance and HR functions, legal and compliance—grows with scale but not linearly with revenue. Efficient services firms achieve leverage by growing revenue while managing overhead as a percentage of sales. Intelligent Group's margin profile will reflect how well it balances capacity investment, talent cost management, and pricing discipline.
 
@@ -50,7 +50,7 @@ Unlike pure staff-augmentation shops, services firms that build and own intellec
 
 ## How to research further
 
-Examine Intelligent Group's [10-K](/10-k/) filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1916416) to understand revenue breakdown by service line and geography, customer concentration, gross margin trends, and management's guidance on growth and profitability. Investor presentations often provide deeper color on competitive positioning and strategic initiatives. For services firms, tracking the year-over-year change in [gross-profit-margin](/gross-profit-margin/) and operating margin reveals whether the company is gaining pricing power or losing it to competition, and whether overhead is being leveraged effectively.
+Examine Intelligent Group's [10-K](/10-k/) filing with the [Securities and Exchange Commission](/securities-and-exchange-commission/) (CIK 1916416) to understand revenue breakdown by service line and geography, customer concentration, gross margin trends, and management's guidance on growth and profitability. Investor presentations often provide deeper color on competitive positioning and strategic initiatives. For services firms, tracking the year-over-year change in [gross-profit-margin](/gross-profit-margin/) and [operating margin](/operating-margin/) reveals whether the company is gaining pricing power or losing it to competition, and whether overhead is being leveraged effectively.
 
 <div class="wiki-seealso">
 

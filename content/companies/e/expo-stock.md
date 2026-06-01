@@ -57,7 +57,7 @@ The firm also faces pricing pressure. Corporate defendants want cheaper experts.
 
 ## Diversification
 
-Exponent's client base is broad: automotive, pharmaceutical, consumer products, aerospace, energy, construction, chemicals, and others. A recession in one sector might not affect another. A legal change in auto safety might create demand for consulting in that area. This diversification reduces the risk that a single industry trend kills the business.
+Exponent's client base is broad: automotive, pharmaceutical, consumer products, aerospace, energy, construction, chemicals, and others. A [recession](/recession/) in one sector might not affect another. A legal change in auto safety might create demand for consulting in that area. This [diversification](/diversification/) reduces the risk that a single industry trend kills the business.
 
 ## Reading the Financials
 

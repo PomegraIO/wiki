@@ -43,7 +43,7 @@ Vulnerability: In a downturn, buyers may pause adoption altogether, waiting for 
 
 ## International Diversification and Geopolitical Cycles
 
-DroneShield operates globally, with customers across US, European, and Asia-Pacific markets. This geographic diversification provides some buffer against any single nation's defense budget cycle. A US defense contraction may be offset by strength in European NATO buildup or Australian defense expansion driven by Indo-Pacific concerns. However, geopolitical cycles—conflict escalation, alliance shifts, threat perception changes—can synchronize defense spending across allies, creating simultaneous boom or drought for counter-UAS vendors.
+DroneShield operates globally, with customers across US, European, and Asia-Pacific markets. This geographic [diversification](/diversification/) provides some buffer against any single nation's defense budget cycle. A US defense contraction may be offset by strength in European NATO buildup or Australian defense expansion driven by Indo-Pacific concerns. However, geopolitical cycles—conflict escalation, alliance shifts, threat perception changes—can synchronize defense spending across allies, creating simultaneous boom or drought for counter-UAS vendors.
 
 The Ukraine conflict's impact on European defense spending (NATO expansion, increased allocations) exemplifies how geopolitical events override normal budget cycles. Conversely, a period of geopolitical detente can suppress defense spending across regions simultaneously. DroneShield's diversification across geographies helps, but geopolitical risk remains significant and can synchronize or desynchronize regional cycles unpredictably.
 
@@ -55,13 +55,13 @@ DroneShield's success depends on positioning counter-UAS capabilities as compone
 
 ## Capital Intensity and Scale Economics
 
-Counter-UAS systems require R&D investment, manufacturing capacity, and supply-chain infrastructure. Capital intensity is moderate relative to aerospace but substantial relative to pure software. This means DroneShield must manage fixed costs carefully. During expansions, the company can invest in manufacturing scale and technology advancement; during downturns, excess capacity drives unit-cost inflation and margin compression.
+Counter-UAS systems require R&D investment, manufacturing capacity, and supply-chain infrastructure. Capital intensity is moderate relative to aerospace but substantial relative to pure software. This means DroneShield must manage fixed costs carefully. During expansions, the company can invest in manufacturing scale and technology advancement; during downturns, excess capacity drives unit-cost [inflation](/inflation/) and margin compression.
 
 Scale economics matter for counter-UAS: larger competitors can amortize R&D costs across higher volumes, offering lower prices. DroneShield must either reach sufficient scale to compete on cost or differentiate on capability and integration depth such that customers accept premium pricing. Both paths require sustained growth; a prolonged contraction that prevents scale achievement can disadvantage DroneShield competitively.
 
 ## The Dual Nature of Counter-UAS Demand
 
-DroneShield's market demand reflects a unique duality: the underlying problem (drone proliferation, airspace security) is secular and expanding; the capital expenditure to address it is cyclical. Customers cannot ignore the problem during recessions, but they can postpone solution deployment. This creates a mismatch: the secular problem grows steadily; procurement dollars respond to cycles, not problem severity.
+DroneShield's market demand reflects a unique duality: the underlying problem (drone proliferation, airspace security) is secular and expanding; the capital expenditure to address it is cyclical. Customers cannot ignore the problem during [recessions](/recession/), but they can postpone solution deployment. This creates a mismatch: the secular problem grows steadily; procurement dollars respond to cycles, not problem severity.
 
 Over a decade or longer, the secular expansion of drone proliferation and the regulatory mandates requiring counter-UAS deployment will drive DroneShield's growth. The company benefits from a market that expands structurally, independent of economic cycles. But over quarters and years, cycles drive cash flow. Management must balance secular growth investment (R&D in detection technology, AI-powered classification, integration platforms) with financial discipline, maintaining cash buffers sufficient to absorb procurement delays and budget pauses that inevitably occur during downturns.
 

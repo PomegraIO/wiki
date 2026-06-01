@@ -41,7 +41,7 @@ Spotify also offers a free tier with ads. Users can listen to music and podcasts
 
 The ad-supported model is important because it extends Spotify's addressable market: users who cannot or will not pay for subscriptions can still use the platform. However, the free tier creates a cannibalizing dynamic: too many free users relative to paying ones depresses overall revenue growth. Spotify has managed this by offering features (offline downloads, skipping ahead, superior audio quality) that are exclusive to paid tiers, making the free tier experience deliberately limited.
 
-Spotify has invested in its advertising platform, allowing advertisers to [target](/tgt-stock/) users by age, location, genre, and listening behavior. This has made the ad offering more sophisticated and valuable. Podcast advertising, where Spotify can insert host-read ads into specific shows, commands premium rates because listeners find host-read ads less intrusive than pre-recorded ones.
+Spotify has invested in its advertising platform, allowing advertisers to target users by age, location, genre, and listening behavior. This has made the ad offering more sophisticated and valuable. Podcast advertising, where Spotify can insert host-read ads into specific shows, commands premium rates because listeners find host-read ads less intrusive than pre-recorded ones.
 
 ## Podcast strategy and the content bet
 

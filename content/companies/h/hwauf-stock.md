@@ -4,7 +4,7 @@ description: "A publicly traded mineral exploration company focused on precious 
 keywords: ["gold mining", "mineral exploration", "junior mining", "precious metals", "OTC markets"]
 ---
 
-*[Headwater Gold Inc.](/hwauf-stock/) (HWAUF) is a mineral exploration company pursuing gold and precious metals properties in geologically prospective regions. Trading on over-the-counter markets, the firm operates as a junior explorer whose competitive position depends entirely on the skill and capital efficiency of its exploration teams and the location of its properties.*
+*[Headwater Gold Inc.](/hwauf-stock/) (HWAUF) is a mineral exploration company pursuing gold and precious metals properties in geologically prospective regions. Trading on [over-the-counter markets](/over-the-counter-market/), the firm operates as a junior explorer whose competitive position depends entirely on the skill and capital efficiency of its exploration teams and the location of its properties.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>HWAUF</td></tr>
@@ -21,7 +21,7 @@ In mineral exploration, competitive advantage does not derive from economies of 
 
 ## Cash Efficiency in the Face of Perpetual Capital Calls
 
-Junior explorers operate under perpetual cash scarcity. Each drilling program, each assay, each environmental study burns capital with no revenue offset. Headwater's ability to compete depends on stretching each dollar of raised capital into measurable exploration progress that justifies the next capital raise. Companies that waste money on poorly targeted drilling or bloated overhead do not survive the cycle; those that allocate exploration budgets with surgical precision toward the most promising targets can accumulate enough positive results to attract the next tranche of investors. This means management discipline and technical judgment are not luxuries but the bedrock of competitive persistence.
+Junior explorers operate under perpetual cash scarcity. Each drilling program, each assay, each environmental study burns capital with no revenue offset. Headwater's ability to compete depends on stretching each dollar of raised capital into measurable exploration progress that justifies the next capital raise. Companies that waste money on poorly targeted drilling or bloated overhead do not survive the cycle; those that allocate exploration budgets with surgical precision toward the most promising targets can accumulate enough positive results to attract the next [tranche](/tranche/) of investors. This means management discipline and technical judgment are not luxuries but the bedrock of competitive persistence.
 
 ## Geographic Positioning Within Productive Terranes
 

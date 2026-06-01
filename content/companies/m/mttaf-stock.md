@@ -31,13 +31,13 @@ The company's shareholders are therefore taking a levered bet on where critical 
 
 Every drill hole costs money. Defining a mineral resource to a standard acceptable to regulators (43-101 standards in Canada) requires multiple seasons of work, assays, metallurgical testing, and engineering estimates. Meta must continuously raise capital to fund this pipeline—through [equity](/common-stock/) offerings, debt, or joint venture partners. Equity raises dilute existing shareholders; debt raises increase financial risk if the company runs out of capital before a project reaches development or sale.
 
-Many junior mining companies eventually exhaust their initial capital and must conduct a financing at a lower price per share than previous rounds, further diluting early investors. The math is harsh: if Meta raises $10 million at $0.50 per share, then two years later raises another $8 million at $0.25 per share (because drilling was disappointing), early investors have lost 50% on the later tranche and face the original capital nearly halved in value.
+Many junior mining companies eventually exhaust their initial capital and must conduct a financing at a lower price per share than previous rounds, further diluting early investors. The math is harsh: if Meta raises $10 million at $0.50 per share, then two years later raises another $8 million at $0.25 per share (because drilling was disappointing), early investors have lost 50% on the later [tranche](/tranche/) and face the original capital nearly halved in value.
 
 ## Geographic and Jurisdictional Risk
 
-Meta's projects are located in specific geographies—Canada, Australia, or other mining-friendly jurisdictions depending on its portfolio. Each region carries political, regulatory, environmental, and operational risk. A change in permitting requirements, Indigenous land rights, or water access can delay or kill a project. Conversely, a supportive government policy toward critical mineral development can accelerate permitting and increase land values.
+Meta's projects are located in specific geographies—Canada, Australia, or other mining-friendly jurisdictions depending on its portfolio. Each region carries political, regulatory, environmental, and [operational risk](/operational-risk/). A change in permitting requirements, Indigenous land rights, or water access can delay or kill a project. Conversely, a supportive government policy toward critical mineral development can accelerate permitting and increase land values.
 
-Mining projects also face currency risk if Meta's revenue (from future mine sales or joint venture payments) is in a different currency than its cost base, or if its shares trade in multiple currencies.
+Mining projects also face [currency risk](/currency-risk/) if Meta's revenue (from future mine sales or joint venture payments) is in a different currency than its cost base, or if its shares trade in multiple currencies.
 
 ## The Optionality Stack: Exploration, Asset Sales, M&A
 

@@ -4,7 +4,7 @@ description: "MakeMyTrip is an Indian online travel agency providing flight book
 keywords: ["online travel", "India", "flight booking", "hotel reservation", "travel services", "OTA"]
 ---
 
-*MakeMyTrip Ltd (MMYT) is India's largest online travel agency, headquartered in New Delhi and trading as a [public-company](/public-company/) on the Nasdaq. The company operates a digital marketplace where customers in India and abroad book flights, hotels, trains, buses, and travel packages. It connects hundreds of millions of potential travelers to airlines, hotel chains, and tour operators through a single platform.*
+*MakeMyTrip Ltd (MMYT) is India's largest online travel agency, headquartered in New Delhi and trading as a [public-company](/public-company/) on the [Nasdaq](/nasdaq/). The company operates a digital marketplace where customers in India and abroad book flights, hotels, trains, buses, and travel packages. It connects hundreds of millions of potential travelers to airlines, hotel chains, and tour operators through a single platform.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MMYT</td></tr>
@@ -41,7 +41,7 @@ However, the global online travel market includes fierce competitors. Booking.co
 
 ## Geography and Growth Constraints
 
-MakeMyTrip is fundamentally an Indian business. While it serves some international customers (Indians traveling abroad, foreigners visiting India), the bulk of its revenue comes from India. This creates opportunity but also concentration risk. A slowdown in Indian travel demand, whether from economic weakness, geopolitical events, or health crises, directly impacts the company.
+MakeMyTrip is fundamentally an Indian business. While it serves some international customers (Indians traveling abroad, foreigners visiting India), the bulk of its revenue comes from India. This creates opportunity but also [concentration risk](/concentration-risk/). A slowdown in Indian travel demand, whether from economic weakness, geopolitical events, or health crises, directly impacts the company.
 
 Travel demand is also cyclical and discretionary. When economic growth is strong and consumer confidence is high, people travel more and spend more. In downturns, travel is among the first spending categories to contract. This makes MakeMyTrip's earnings vulnerable to broad economic cycles.
 
@@ -49,7 +49,7 @@ International expansion could reduce this risk, but building market share in dev
 
 ## Technology and Customer Acquisition
 
-The platform itself is a technology asset. MakeMyTrip must invest continuously in its mobile app, website, payment infrastructure, and search algorithms to remain competitive. The company competes for users through digital marketing—search engine optimization, social media, brand advertising—which is expensive. Customer acquisition costs are high, and the company must justify them by ensuring customers return repeatedly and generate strong lifetime value.
+The platform itself is a technology asset. MakeMyTrip must invest continuously in its mobile app, website, payment infrastructure, and search algorithms to remain competitive. The company competes for users through digital marketing—search engine optimization, social media, brand advertising—which is expensive. Customer [acquisition](/acquisition/) costs are high, and the company must justify them by ensuring customers return repeatedly and generate strong lifetime value.
 
 The company's technology team must handle enormous transaction volumes during peak seasons. Flights are booked around major holidays, long weekends, and vacation periods. The infrastructure must scale to handle these spikes without crashing. Technical reliability is non-negotiable in travel booking.
 

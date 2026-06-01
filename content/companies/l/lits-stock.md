@@ -28,9 +28,9 @@ Watch for headcount turnover in the filings. High turnover signals poor retentio
 
 ## Market Positioning and Competitive Dynamics
 
-Strategy consulting is fractured. Global leaders (McKinsey, BCG, Deloitte) dominate large engagements. Regional and boutique firms compete on speed, specialization, or personal relationships. Lite Strategy's competitive position depends on whether it has carved out a defensible niche. Is it the expert in manufacturing strategy? Healthcare transformation? Mid-market growth planning? Or is it generic—willing to advise any client on anything—and therefore competing primarily on price and availability? Generic positioning is a trap in services: you compete away margin and never build a moat.
+Strategy consulting is fractured. [Global leaders](/glcp-stock/) (McKinsey, BCG, Deloitte) dominate large engagements. Regional and boutique firms compete on speed, specialization, or personal relationships. Lite Strategy's competitive position depends on whether it has carved out a defensible niche. Is it the expert in manufacturing strategy? Healthcare transformation? Mid-market growth planning? Or is it generic—willing to advise any client on anything—and therefore competing primarily on price and availability? Generic positioning is a trap in services: you compete away margin and never build a moat.
 
-The company's client roster, if disclosed, provides clues. Concentrated relationships with Fortune 500 firms suggest access to large budgets but high concentration risk. A diverse base of mid-market clients (companies with $500M to $5B revenue) suggests a more stable, repeatable model.
+The company's client roster, if disclosed, provides clues. Concentrated relationships with Fortune 500 firms suggest access to large budgets but high [concentration risk](/concentration-risk/). A diverse base of mid-market clients (companies with $500M to $5B revenue) suggests a more stable, repeatable model.
 
 ## Growth Constraints and Leverage Points
 
@@ -50,7 +50,7 @@ Finally, assess management stability. High turnover of CFOs or managing director
 
 The professional-services space is crowded. Digital tools (software, templates, AI-assisted analysis) increasingly commoditize strategy work that used to require hand-crafted consulting. A client that once paid $200,000 for a strategy study might now run the analysis internally for $10,000 in software licenses. This structural headwind affects the entire consulting industry.
 
-Client concentration is a knife's edge: one large client departing can crater earnings. Small firms have limited diversification and no global footprint to absorb shocks. Economic downturns also hit hard—companies cut strategy budgets first when revenue tightens. Lite Strategy's earnings are therefore cyclical, rising in expansion and falling in recession.
+Client concentration is a knife's edge: one large client departing can crater earnings. Small firms have limited [diversification](/diversification/) and no global footprint to absorb shocks. Economic downturns also hit hard—companies cut strategy budgets first when revenue tightens. Lite Strategy's earnings are therefore cyclical, rising in expansion and falling in [recession](/recession/).
 
 Talent retention is existential. If competitors hire away senior consultants, client relationships go with them. Building a durable firm requires creating an environment where talented people want to stay, and that is hard and expensive.
 

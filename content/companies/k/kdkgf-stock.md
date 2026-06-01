@@ -19,7 +19,7 @@ keywords: [gold, mining, exploration, Yukon, Canada, base-metals, junior-miner]
 
 Junior miners like Klondike live and die by drill results—but results alone do not determine success. The company must identify a mineral deposit with sufficient tonnage, grade, and economics to sustain a mine-plan over 20+ years. This requires vast capital investment, environmental permits, Indigenous community consent, and favorable commodity prices at the time of production. Most exploration plays fail to cross from discovery into development.
 
-Klondike's financials reflect this reality. The company has minimal revenue (or zero revenue, typical for early-stage explorers), sustained only by equity financing, deferred cash burn, and hope. Analysts reading the 10-K should treat this company as a binary bet: either the next drill campaign confirms a major deposit (rewarding patient shareholders), or capital dries up, shares dilute, and the company either merges, downsizes, or disappears.
+Klondike's financials reflect this reality. The company has minimal revenue (or zero revenue, typical for early-stage explorers), sustained only by [equity financing](/equity-financing/), deferred cash burn, and hope. Analysts reading the 10-K should treat this company as a binary bet: either the next drill campaign confirms a major deposit (rewarding patient shareholders), or capital dries up, shares dilute, and the company either merges, downsizes, or disappears.
 
 ## Yukon geology and the vintage of Canadian gold play
 
@@ -31,7 +31,7 @@ Klondike's specific properties and claim positions are the crux of its investmen
 
 Exploration companies have no operating cash flow, so they fund exploration campaigns and overhead via equity issuance, debt (rare), or dilutive financing arrangements. Klondike's 10-K will show the company's cash balance, burn rate, and whether management has secured committed financing or optioned its properties to richer partners. A falling cash balance without signs of partnership or financing talks is a red flag; conversely, a major partner backing the exploration program suggests conviction in the geology.
 
-Equity dilution is chronic and severe in this sector. Existing shareholders are perpetually diluted by stock grants to insiders, debt-conversion features, and equity private placements. An analyst should calculate shares outstanding over the past five years and note the rate of dilution; if shares have tripled while the company has no new discoveries to show, the value may be slipping away regardless of gold prices.
+Equity dilution is chronic and severe in this sector. Existing shareholders are perpetually diluted by stock grants to insiders, debt-conversion features, and equity [private placements](/private-placement/). An analyst should calculate shares outstanding over the past five years and note the rate of dilution; if shares have tripled while the company has no new discoveries to show, the value may be slipping away regardless of gold prices.
 
 ## Commodity price exposure and hedging
 
@@ -47,7 +47,7 @@ A company with signed permitting agreements or Indigenous partnerships has de-ri
 
 ## Peer survival rates and exit scenarios
 
-In junior mining, most companies do not transition to production. Common exits include: a richer major mining company acquiring the property (and the juniors); merger or reversal with another junior (often a sign of financial distress); or outright failure, winding down and returning remaining capital. Klondike's 10-K should include discussion of comparable exits or mergers in the sector; management may also highlight any "strategic partnership" discussions, even if non-binding.
+In junior mining, most companies do not transition to production. Common exits include: a richer major mining company acquiring the property (and the juniors); merger or reversal with another junior (often a sign of financial distress); or outright failure, winding down and returning remaining capital. Klondike's 10-K should include discussion of comparable exits or [mergers](/merger/) in the sector; management may also highlight any "strategic partnership" discussions, even if non-binding.
 
 <div class="wiki-seealso">
 ### Closely related

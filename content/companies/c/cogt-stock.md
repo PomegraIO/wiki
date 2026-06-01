@@ -12,7 +12,7 @@ keywords:
 
 > "The rarest cancers and blood disorders often go untreated because the market is too small for large pharmaceutical companies to justify the investment—which is exactly where a focused biotech can win."
 
-Cogent Biosciences is a pharmaceutical research company with no approved drugs yet. It is trying to develop small-molecule kinase inhibitors—drugs that [target](/tgt-stock/) specific cancer-causing mutations and overactive proteins—for rare tumors and blood disorders where the unmet medical need is large and few therapeutic options exist. The company is entirely dependent on its pipeline of experimental drugs advancing through clinical trials, winning regulatory approval, and eventually generating sales.
+Cogent Biosciences is a pharmaceutical research company with no approved drugs yet. It is trying to develop small-molecule kinase inhibitors—drugs that target specific cancer-causing mutations and overactive proteins—for rare tumors and blood disorders where the unmet medical need is large and few therapeutic options exist. The company is entirely dependent on its pipeline of experimental drugs advancing through clinical trials, winning regulatory approval, and eventually generating sales.
 
 <aside class="wiki-infobox">
 <table>

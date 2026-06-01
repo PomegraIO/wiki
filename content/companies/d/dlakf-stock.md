@@ -17,7 +17,7 @@ keywords: [DLAKF, Lufthansa, airline, Germany, cyclical, fuel, labor, aviation]
 
 ## Demand Volatility and the Margin Squeeze
 
-Airlines operate on razor-thin [operating margins](/operating-margin/). In a typical year, the difference between capacity utilization at 80% versus 85% translates into vastly different net income. Lufthansa carries enormous fixed costs—leases on aircraft and terminals, labor agreements, fuel hedges—that do not flex with demand. When demand falls (due to recession, pandemic, geopolitical crisis, or travel trend shifts), the company cannot quickly reduce capacity; aircraft are leased, crews are under contract, and terminal slots are fixed. The result is brutal: revenue falls, but costs remain largely fixed, and profitability can evaporate in weeks. A single quarter of weak bookings or load factors (percentage of seats filled) can erase a year's worth of operational improvements.
+Airlines operate on razor-thin [operating margins](/operating-margin/). In a typical year, the difference between capacity utilization at 80% versus 85% translates into vastly different net income. Lufthansa carries enormous fixed costs—leases on aircraft and terminals, labor agreements, fuel hedges—that do not flex with demand. When demand falls (due to [recession](/recession/), pandemic, geopolitical crisis, or travel trend shifts), the company cannot quickly reduce capacity; aircraft are leased, crews are under contract, and terminal slots are fixed. The result is brutal: revenue falls, but costs remain largely fixed, and profitability can evaporate in weeks. A single quarter of weak bookings or load factors (percentage of seats filled) can erase a year's worth of operational improvements.
 
 ## Fuel Price Exposure and Hedging Complexity
 
@@ -25,7 +25,7 @@ Jet fuel typically accounts for 25–35% of an airline's operating costs, depend
 
 ## Labor Agreements and Wage Pressure
 
-Lufthansa operates in Western Europe, where labor unions are powerful and labor agreements are binding and durable. Pilots, flight attendants, ground crews, and mechanics all have union representation. Labor negotiations occur periodically, and unions typically push for wage increases tied to inflation and productivity. When the company is profitable, unions extract concessions; when the company is struggling, the negotiations are contentious and can result in strikes or operational disruptions. Recent labor actions at Lufthansa have caused flight cancellations; future labor disputes could do the same. Additionally, wages in Western European aviation are substantially higher than in low-cost carrier markets, which constrains Lufthansa's ability to compete on cost.
+Lufthansa operates in Western Europe, where labor unions are powerful and labor agreements are binding and durable. Pilots, flight attendants, ground crews, and mechanics all have union representation. Labor negotiations occur periodically, and unions typically push for wage increases tied to [inflation](/inflation/) and productivity. When the company is profitable, unions extract concessions; when the company is struggling, the negotiations are contentious and can result in strikes or operational disruptions. Recent labor actions at Lufthansa have caused flight cancellations; future labor disputes could do the same. Additionally, wages in Western European aviation are substantially higher than in low-cost carrier markets, which constrains Lufthansa's ability to compete on cost.
 
 ## Competitive Dynamics and Low-Cost Carrier Pressure
 
@@ -33,7 +33,7 @@ Lufthansa operates in an industry increasingly dominated by low-cost carriers (R
 
 ## Geopolitical and Regulatory Risk
 
-Airlines operate under regulatory oversight in every country they serve. Changes in regulations—slot allocation rules, noise restrictions, fuel-efficiency mandates, carbon taxes—can increase costs or constrain operations. Additionally, Lufthansa operates extensively in Europe, the Middle East, and Asia; geopolitical tensions can lead to route closures, airspace restrictions, or sanctions on fuel or spare parts. The Russia-Ukraine war, for instance, forced European carriers (including Lufthansa) to avoid Russian airspace, lengthening routes and increasing fuel costs. Middle East tensions could affect Middle Eastern routes. U.S. foreign policy shifts could impact transatlantic operations. These tail risks are unpredictable but can have acute financial impact.
+Airlines operate under regulatory oversight in every country they serve. Changes in regulations—slot allocation rules, noise restrictions, fuel-efficiency mandates, carbon taxes—can increase costs or constrain operations. Additionally, Lufthansa operates extensively in Europe, the Middle East, and Asia; geopolitical tensions can lead to route closures, airspace restrictions, or sanctions on fuel or spare parts. The Russia-Ukraine war, for instance, forced European carriers (including Lufthansa) to avoid Russian airspace, lengthening routes and increasing fuel costs. Middle East tensions could affect Middle Eastern routes. U.S. foreign policy shifts could impact transatlantic operations. These [tail risks](/tail-risk/) are unpredictable but can have acute financial impact.
 
 ## Aircraft Leasing and Capital Intensity
 

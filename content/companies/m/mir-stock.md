@@ -31,7 +31,7 @@ The company's business-model leverage lies not in hardware gross margin alone bu
 
 Mirion operates across distinct end markets with different regulatory drivers. Nuclear power plants face aging-fleet questions (do old reactor safety systems meet modern standards?), creating retrofit and upgrade demand. Medical imaging facilities must comply with radiation-exposure audit requirements; new CT or PET scanner installations trigger detector purchases. Post-Cold War proliferation concerns and border-security programs have sustained government dosimeter procurement.
 
-Mirion's filings parse revenue by segment and geography, allowing readers to assess exposure to each tail risk. If 60% of Mirion's revenue comes from nuclear utilities and government contracts, a reader must evaluate regulatory changes (reactor shutdowns, government budget cycles) as material risks. If medical and research markets provide diversification, the company is less vulnerable to any single regulatory shock.
+Mirion's filings parse revenue by segment and geography, allowing readers to assess exposure to each [tail risk](/tail-risk/). If 60% of Mirion's revenue comes from nuclear utilities and government contracts, a reader must evaluate regulatory changes (reactor shutdowns, government budget cycles) as material risks. If medical and research markets provide [diversification](/diversification/), the company is less vulnerable to any single regulatory shock.
 
 ## Competitive Positioning and Substitution Risk
 
@@ -43,7 +43,7 @@ The company also faces non-traditional competitive risk: digital or software-bas
 
 Mirion is a manufacturing company, not a growth-story biotech or exploration miner. Its capital needs are moderate and predictable: factory equipment, working capital for inventory and receivables, and R&D for next-generation detectors. Filings disclose capital-allocation patterns: how much cash goes to capex, how much to debt reduction or [share-buyback](/share-buyback/) programs.
 
-A high [free-cash-flow](/free-cash-flow/) margin and predictable working-capital cycle make Mirion a potential [dividend](/dividend/)-paying stock. If the company pays a quarterly [dividend](/dividend/), filings reveal the payout ratio and sustainability under different revenue scenarios. A stable or rising dividend signals management confidence in cash durability.
+A high [free-cash-flow](/free-cash-flow/) margin and predictable working-capital cycle make Mirion a potential [dividend](/dividend/)-paying stock. If the company pays a quarterly [dividend](/dividend/), filings reveal the [payout ratio](/payout-ratio/) and sustainability under different revenue scenarios. A stable or rising dividend signals management confidence in cash durability.
 
 ## Regulatory and Geopolitical Risk
 

@@ -25,11 +25,11 @@ DCFC Holdings addresses this by lending against the assets themselves, not the c
 
 The company operates as both originator and servicer. It underwrites loans based on the collateral (inventory, receivables, equipment) and the stability of the borrower's business model. A key insight of asset-based lending is that the collateral itself has value independent of the company's survival. If the borrower fails, DCFC can liquidate the inventory or collect the receivables itself and recover most of its principal.
 
-This changes the risk calculus. A bank would decline a loan to a business with only three months of cash reserves and volatile revenue. DCFC, by contrast, can accept more operating risk because the collateral is tangible and liquid. The trade-off is cost to the borrower: these loans carry interest rates, origination fees, and monitoring charges that run 8–15 percent annually, multiples of what a creditworthy large corporation pays.
+This changes the risk calculus. A bank would decline a loan to a business with only three months of cash reserves and volatile revenue. DCFC, by contrast, can accept more operating risk because the collateral is tangible and liquid. The trade-off is cost to the borrower: these loans carry [interest rates](/interest-rate/), origination fees, and monitoring charges that run 8–15 percent annually, multiples of what a creditworthy large corporation pays.
 
 ## Position in the Financial Chain
 
-DCFC stands between two groups: lenders (banks, investors, commercial paper markets) and borrowers (distributors, importers, wholesalers, light manufacturers). On one side, DCFC raises capital itself by borrowing from banks or issuing securities. On the other, it deploys that capital as small loans to operating businesses.
+DCFC stands between two groups: lenders (banks, investors, [commercial paper](/commercial-paper/) markets) and borrowers (distributors, importers, wholesalers, light manufacturers). On one side, DCFC raises capital itself by borrowing from banks or issuing securities. On the other, it deploys that capital as small loans to operating businesses.
 
 The spread between the cost of capital and the rate charged to borrowers is the company's margin. If DCFC borrows at 5 percent and lends at 11 percent, the 6-point spread must cover administrative costs, loan losses, and profit. Scale matters enormously: a loan officer handling a thousand three-hundred-thousand-dollar loans can absorb the labor cost more easily than one handling ten loans.
 
@@ -47,7 +47,7 @@ This creates a secondary business: sourcing yield. In a low-rate environment, in
 
 ## The Cyclical Exposure
 
-Because asset-based lending depends on the health of small and mid-market operating businesses, the portfolio is cyclical. In a recession, these businesses slow or fail, collateral values fall, and defaults spike. In growth periods, working-capital demand rises, loans perform well, and origination volume increases.
+Because asset-based lending depends on the health of small and mid-market operating businesses, the portfolio is cyclical. In a [recession](/recession/), these businesses slow or fail, collateral values fall, and defaults spike. In growth periods, working-capital demand rises, loans perform well, and origination volume increases.
 
 DCFC's capital structure must absorb loss cycles. The company funds itself with equity and subordinated debt, both of which can absorb losses if the portfolio deteriorates. During downturns, the company may need to build loan-loss reserves, reducing reported earnings. During upturns, reserve releases can boost earnings.
 
@@ -55,7 +55,7 @@ DCFC's capital structure must absorb loss cycles. The company funds itself with 
 
 Mainstream banks do not efficiently serve this market. Their cost structure requires larger transactions, longer relationships, and more creditworthy borrowers. They do not want to monitor inventory levels weekly or track receivable aging daily. DCFC, by contrast, makes money from that operational intensity. The higher fee structure and smaller loan size are viable at scale.
 
-The value DCFC adds is availability of capital when traditional lenders won't lend. That availability comes with a cost, but it is a cost small businesses are often willing to pay to avoid the alternative: slowing growth or missing opportunities because cash flow timing does not align with business cycles.
+The value DCFC adds is availability of capital when traditional lenders won't lend. That availability comes with a cost, but it is a cost small businesses are often willing to pay to avoid the alternative: slowing growth or missing opportunities because cash flow timing does not align with [business cycles](/business-cycle/).
 
 ---
 

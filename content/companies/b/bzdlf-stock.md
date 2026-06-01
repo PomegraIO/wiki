@@ -37,7 +37,7 @@ The company's specific claim blocks determine its prospects. A property adjacent
 
 ## Commodity Price Sensitivity and Timing Risk
 
-Kincora's ultimate value depends on copper prices. Even if the company discovers a world-class deposit, the decision to move to development and production will hinge on whether the copper [market](/stock-exchange/) price justifies the tens of millions or hundreds of millions of dollars required to build a mine. If copper prices collapse, economic deposits become uneconomic and projects languish. Conversely, a multi-year copper bull market can resurrect exploration spending and raise capital more easily.
+Kincora's ultimate value depends on copper prices. Even if the company discovers a world-class deposit, the decision to move to development and production will hinge on whether the copper [market](/stock-exchange/) price justifies the tens of millions or hundreds of millions of dollars required to build a mine. If copper prices collapse, economic deposits become uneconomic and projects languish. Conversely, a multi-year copper [bull market](/bull-market/) can resurrect exploration spending and raise capital more easily.
 
 This is the longest-cycle exposure in all of business. Kincora must conduct exploration, achieve discovery, define a resource, advance permitting, and build a mine—all while copper prices fluctuate unpredictably across years or decades. Companies that discover resources at the bottom of a commodity cycle may wait 10+ years for prices to rise enough to justify development.
 
@@ -51,7 +51,7 @@ The company also faces geological surprises. A property that looks prospective o
 
 Kincora's full lifecycle arc, if successful, would progress from explorer to developer (if a resource is defined) to producer (if the deposit is built into a mine). This progression typically takes 10–20 years and requires hundreds of millions to billions in capital from multiple sources: public equity raises, joint ventures, off-take agreements, and project financing.
 
-More realistically, Kincora's lifecycle may terminate earlier. If the company fails to make discoveries or defines only sub-economic deposits, it may be acquired by a larger explorer, merged with another junior, or wound down. Many junior explorers never transition to development; they either discover resources that are later advanced by other companies (after acquisition), or they disappear without significant finds.
+More realistically, Kincora's lifecycle may terminate earlier. If the company fails to make discoveries or defines only sub-economic deposits, it may be acquired by a larger explorer, merged with another junior, or wound down. Many junior explorers never transition to development; they either discover resources that are later advanced by other companies (after [acquisition](/acquisition/)), or they disappear without significant finds.
 
 The current lifecycle stage—exploration with unproven properties—is the longest and most uncertain. Success requires geological luck, patient capital, sound management, and favorable commodity prices all aligning over years. Few junior explorers achieve production; most remain explorers or exit through acquisition.
 

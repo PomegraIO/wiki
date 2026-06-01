@@ -47,7 +47,7 @@ The company likely maintains underwriting guidelines specifying maximum exposure
 
 Between premium receipt and claim payment, Greenlight Capital RE invests the float. The company likely maintains a portfolio of investment-grade [bonds](/bond/), government securities, and liquid equities. The allocation reflects the liability profile—short-duration claims (paid within months) support shorter-duration investments; long-tail claims (paid over years) can support longer-duration assets.
 
-The investment yield directly contributes to profitability. A reinsurer with 3% underwriting loss but 5% investment yield on float still achieves overall profitability. Conversely, a reinsurer achieving 5% underwriting profit but deploying float in near-zero-yield money markets leaves significant return on the table. Asset allocation decisions—how much to invest in equities versus fixed income, domestic versus international—reflect management's view of market conditions and the company's risk tolerance.
+The investment yield directly contributes to profitability. A reinsurer with 3% underwriting loss but 5% investment yield on float still achieves overall profitability. Conversely, a reinsurer achieving 5% underwriting profit but deploying float in near-zero-yield money markets leaves significant return on the table. [Asset allocation](/asset-allocation/) decisions—how much to invest in equities versus fixed income, domestic versus international—reflect management's view of market conditions and the company's risk tolerance.
 
 ## Capital Management and Return of Capital
 

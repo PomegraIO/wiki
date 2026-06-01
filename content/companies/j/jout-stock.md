@@ -24,7 +24,7 @@ keywords:
 
 Johnson Outdoors generates revenue through several distinct revenue streams, each tied to distinct customer segments and purchase occasions. The core watercraft business—centered on brands like Minn Kota, Humminbird, and Johnson outboard motors—captures fishermen and recreational boaters willing to invest hundreds or thousands in equipment they expect to last years. These categories operate on relatively high unit prices but lower per-unit margins, compensated by the value engineering embedded in a fishing boat or trolling motor system.
 
-The camping and diving segments operate differently. Jetboil camping stoves and Scubapro diving gear sell at accessible consumer price points with faster inventory turnover. The unit economics here reflect faster cash conversion cycles, though at lower absolute margin per item. Across the portfolio, the company monetizes both the hardware sale and the accessory ecosystem—batteries, replacement parts, software updates for electronics—that repeat the transaction after the initial purchase.
+The camping and diving segments operate differently. Jetboil camping stoves and Scubapro diving gear sell at accessible consumer price points with faster [inventory turnover](/inventory-turnover/). The unit economics here reflect faster [cash conversion cycles](/cash-conversion-cycle/), though at lower absolute margin per item. Across the portfolio, the company monetizes both the hardware sale and the accessory ecosystem—batteries, replacement parts, software updates for electronics—that repeat the transaction after the initial purchase.
 
 This revenue architecture creates natural load-balancing: fishing and boating purchases are sharply seasonal and weather-dependent; camping and diving products moderate the year-to-year volatility. The business model also relies on brand recognition and customer loyalty within each segment, since a diehard fisherman tends to replace trolling electronics with the same brand he trusts, and a scuba enthusiast returns to known gear.
 
@@ -42,13 +42,13 @@ Inventory management is critical because recreational products cannot be manufac
 
 ## Risk structure and cyclical exposure
 
-Johnson Outdoors rides consumer discretionary spending. Boat and recreational equipment purchases decline sharply during economic downturns when households defer big-ticket leisure spending. The company is therefore pro-cyclical with overall consumer confidence and employment, making its earnings volatile relative to more defensive consumer segments.
+Johnson Outdoors rides consumer [discretionary spending](/discretionary-spending/). Boat and recreational equipment purchases decline sharply during economic downturns when households defer big-ticket leisure spending. The company is therefore pro-cyclical with overall consumer confidence and employment, making its earnings volatile relative to more defensive consumer segments.
 
 The watercraft portion of its business is especially weather-sensitive. Severe winters, flooding, or drought that impact fishing can suppress purchases across the year. Supply chain disruptions hit differently across segments: a shortage in boat-building materials affects the marine partners who buy its trolling motors, while disruptions to camping or diving manufacturing directly impair margins on those product lines.
 
 ## Financial structure and capital returns
 
-The company funds operations through operating cash flow and debt. Its dividend policy reflects maturity and cash generation capacity, with shares repurchased when the company views them as undervalued. The portfolio approach—multiple brands under one parent company—allows Johnson Outdoors to allocate capital toward whichever segment offers the best return on invested capital in any given period, though brand-specific management means that each line operates with some autonomy over its own P&L.
+The company funds operations through operating cash flow and debt. Its [dividend](/dividend/) policy reflects maturity and cash generation capacity, with shares repurchased when the company views them as undervalued. The portfolio approach—multiple brands under one parent company—allows Johnson Outdoors to allocate capital toward whichever segment offers the best [return on invested capital](/return-on-invested-capital/) in any given period, though brand-specific management means that each line operates with some autonomy over its own P&L.
 
 ## Distribution and brand architecture
 
@@ -56,7 +56,7 @@ Success depends on maintaining distinct brand identities while capturing shared 
 
 ## Research pointers
 
-Review the company's [10-K](/10-k/) annual report to understand segment-by-segment profitability and how the company allocates capital. Pay attention to gross margin trends by product line and how price increases or cost inflation flow through each segment. Cash conversion cycles and working capital management signal how efficiently the company monetizes its inventory. Geographic concentration in North America appears throughout the disclosure, along with analysis of how fishing participation rates and boating economics shape demand.
+Review the company's [10-K](/10-k/) annual report to understand segment-by-segment profitability and how the company allocates capital. Pay attention to gross margin trends by product line and how price increases or cost [inflation](/inflation/) flow through each segment. Cash conversion cycles and working capital management signal how efficiently the company monetizes its inventory. Geographic concentration in North America appears throughout the disclosure, along with analysis of how fishing participation rates and boating economics shape demand.
 
 <div class="wiki-seealso">
 ### Closely related

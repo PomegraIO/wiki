@@ -11,7 +11,7 @@ keywords:
   - sec-filing
 ---
 
-*K2 Gold Corp (KTGDF) is a mineral exploration and development company focused on gold-bearing properties, primarily in Canada. As a foreign issuer, it files with the U.S. Securities and Exchange Commission while operating under Canadian provincial mining regulations. Understanding K2 requires tracking both its exploration portfolio and the regulatory permissions—permits, environmental assessments, First Nations consultation—that determine whether any prospect becomes a producing mine.*
+*K2 Gold Corp (KTGDF) is a mineral exploration and development company focused on gold-bearing properties, primarily in Canada. As a foreign issuer, it files with the U.S. [Securities and Exchange Commission](/securities-and-exchange-commission/) while operating under Canadian provincial mining regulations. Understanding K2 requires tracking both its exploration portfolio and the regulatory permissions—permits, environmental assessments, First Nations consultation—that determine whether any prospect becomes a producing mine.*
 
 <aside class="wiki-infobox">
 <table>
@@ -49,9 +49,9 @@ When reading a company like K2, the regulatory calendar matters as much as the e
 
 ## Valuation and the Role of Geological Speculation
 
-K2 trades over-the-counter, typically at low share prices with wide bid-ask spreads. The stock price reflects pure speculation on whether the company's properties contain ore bodies large and rich enough to justify development. No cash flow multiple applies; there is no revenue. Instead, traders price in odds of a discovery, odds of project financing, and odds that the company dilutes shareholders before any monetization.
+K2 trades over-the-counter, typically at low share prices with wide [bid-ask spreads](/bid-ask-spread/). The stock price reflects pure speculation on whether the company's properties contain ore bodies large and rich enough to justify development. No cash flow multiple applies; there is no revenue. Instead, traders price in odds of a discovery, odds of project financing, and odds that the company dilutes shareholders before any monetization.
 
-Comparing K2 to peer exploration companies requires reading their recent 43-101 reports (Canadian technical disclosure rules for mineral properties). These third-party reports estimate ore grades, tonnage, and confidence levels. A property with an inferred resource estimate trading at a lower market cap per ounce of gold (in-ground) may be considered a bargain—or may be cheap because the ore is harder to extract or the company's cash situation is dire.
+Comparing K2 to peer exploration companies requires reading their recent 43-101 reports (Canadian technical disclosure rules for mineral properties). These third-party reports estimate ore grades, tonnage, and confidence levels. A property with an inferred resource estimate trading at a lower [market cap](/market-capitalization/) per ounce of gold (in-ground) may be considered a bargain—or may be cheap because the ore is harder to extract or the company's cash situation is dire.
 
 ## Reading the 10-K for Exploration Context
 

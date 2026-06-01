@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Annovis Bio is a small [clinical-stage biopharmaceutical](/wiki/public-company/) company pursuing a narrow but potentially high-impact [target](/tgt-stock/): protein misfolding in neurodegenerative disease. The company's lead program, buntanetap, operates via a novel mechanism—inhibiting protein synthesis initiation—to reduce the accumulation of misfolded proteins implicated in Alzheimer's disease, Parkinson's disease, and related tauopathies.
+Annovis Bio is a small [clinical-stage biopharmaceutical](/wiki/public-company/) company pursuing a narrow but potentially high-impact target: protein misfolding in neurodegenerative disease. The company's lead program, buntanetap, operates via a novel mechanism—inhibiting protein synthesis initiation—to reduce the accumulation of misfolded proteins implicated in Alzheimer's disease, Parkinson's disease, and related tauopathies.
 
 The scientific thesis rests on addressing what the company calls a root cause rather than downstream symptoms. Many established Alzheimer's therapies operate as amyloid-targeting antibodies that aim to clear accumulation; Annovis takes an upstream approach by attempting to slow the production of the toxic proteins themselves. This represents a meaningful difference in strategic intent, though clinical translation remains uncertain. Buntanetap advanced through early Phase 2 testing, with the company reporting cognitive preservation signals in small patient cohorts—results that drew attention from the biotech community but remain far from regulatory approval.
 

@@ -32,7 +32,7 @@ The logic was defensible for a small, platform-based biotech: with bermekimab mo
 
 ## Remaining Pipeline and Competitive Context
 
-After the bermekimab sale, XBiotech retained its discovery platform and various earlier-stage candidates. The company continued development of a True Human antibody targeting IL-1α for restenosis (a cardiovascular indication), and received FDA Fast Track designation for this program. The company also worked on candidates for serious bacterial infections and explored applications in infectious disease more broadly, including flu-related research.
+After the bermekimab sale, XBiotech retained its discovery platform and various earlier-stage candidates. The company continued development of a True Human antibody targeting IL-1α for restenosis (a cardiovascular indication), and received FDA [Fast Track](/ftrk-stock/) designation for this program. The company also worked on candidates for serious bacterial infections and explored applications in infectious disease more broadly, including flu-related research.
 
 The competitive landscape for monoclonal antibodies is crowded—hundreds of clinical programs exist, and the field has matured from a novel technology in the 1990s to an established therapeutic modality. XBiotech's True Human approach is genuinely differentiated in concept, but differentiation in discovery does not guarantee clinical success or commercial traction. Efficacy, safety, manufacturing scale, and regulatory approval remain the gatekeepers.
 

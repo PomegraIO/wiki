@@ -16,7 +16,7 @@ keywords: [venture-capital, investment-company, development, small-cap, holdings
 
 ## Operating Model and Portfolio Construction
 
-IVHI's core function is identifying early-stage opportunities—often undervalued or overlooked startups, failed ventures with salvageable assets, or niche market opportunities—acquiring them or providing development capital, and attempting to build those businesses toward profitability or acquisition by a larger buyer. This is distinct from venture capital, which is primarily capital provision and board oversight; IVHI operates more as an active developer, often managing or restructuring the businesses it owns.
+IVHI's core function is identifying early-stage opportunities—often undervalued or overlooked startups, failed ventures with salvageable assets, or niche market opportunities—acquiring them or providing development capital, and attempting to build those businesses toward profitability or [acquisition](/acquisition/) by a larger buyer. This is distinct from venture capital, which is primarily capital provision and board oversight; IVHI operates more as an active developer, often managing or restructuring the businesses it owns.
 
 The portfolio is typically diversified across industries and stages, reflecting the reality that early-stage ventures are high-risk: most fail, a few succeed spectacularly. IVHI must therefore maintain a portfolio large enough that a few winners can offset losses among the broader slate. At the company's size, achieving that statistical outcome is difficult. A single success can justify the entire portfolio, but so can a single major failure wipe out returns across a wider base.
 
@@ -40,9 +40,9 @@ For founders seeking capital, institutional venture backing is almost always pre
 
 ## Valuation and Return Expectations
 
-IVHI's valuation depends on the market's perception of the value of its portfolio companies. If the market believes those companies are building toward major exits, IVHI's stock is worth the net asset value (NAV) of the portfolio plus a premium for management skill. If the market perceives the portfolio as a collection of stalled or low-growth ventures, IVHI trades at a discount to NAV, reflecting skepticism that management can execute exits.
+IVHI's valuation depends on the market's perception of the value of its portfolio companies. If the market believes those companies are building toward major exits, IVHI's stock is worth the [net asset value](/net-asset-value/) (NAV) of the portfolio plus a premium for management skill. If the market perceives the portfolio as a collection of stalled or low-growth ventures, IVHI trades at a discount to NAV, reflecting skepticism that management can execute exits.
 
-A discount to NAV is common for closed-end development and venture funds, as public shareholders demand a return for liquidity risk and for skepticism about management's ability to allocate capital as effectively as the founders themselves. IVHI likely trades at such a discount, which reflects realistic expectations about the difficulty of the development business.
+A discount to NAV is common for closed-end development and venture funds, as public shareholders demand a return for [liquidity risk](/liquidity-risk/) and for skepticism about management's ability to allocate capital as effectively as the founders themselves. IVHI likely trades at such a discount, which reflects realistic expectations about the difficulty of the development business.
 
 ## Lifecycle Position and Durability
 

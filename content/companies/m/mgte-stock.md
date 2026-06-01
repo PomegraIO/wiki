@@ -4,7 +4,7 @@ description: "MGTE is a special-purpose acquisition company that pools investor 
 keywords: [spac, special-purpose acquisition company, blank-check, capital merger, public company]
 ---
 
-*The customers of **Marblegate Capital Corp** (MGTE) are not retail users but rather private company founders and their shareholders seeking a capital-efficient path to the public markets. A SPAC like Marblegate exists to broker a deal between investors (who have pooled cash in a vehicle designed for this purpose) and a private operating company, allowing that company to bypass the traditional Initial Public Offering process and access public-market capital and currency more quickly.*
+*The customers of **Marblegate Capital Corp** (MGTE) are not retail users but rather private company founders and their shareholders seeking a capital-efficient path to the public markets. A SPAC like Marblegate exists to [broker](/broker/) a deal between investors (who have pooled cash in a vehicle designed for this purpose) and a private operating company, allowing that company to bypass the traditional Initial Public Offering process and access public-market capital and currency more quickly.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MGTE</td></tr>
@@ -18,11 +18,11 @@ keywords: [spac, special-purpose acquisition company, blank-check, capital merge
 
 A [special-purpose acquisition company](/special-purpose-acquisition-company/) like Marblegate operates as a shell: it raises capital from investors, holds it in a trust account, and searches for a private operating company to merge with. The value to the private company's owners is access to capital without the time and expense of a traditional IPO roadshow, prospectus, and listing application. Instead of a three- to six-month process with high underwriting fees and regulatory scrutiny, a SPAC merge can close in months and give founders direct control over the messaging.
 
-For Marblegate, the "customer" is the private company seeking to go public. Its leadership team wants to raise capital, create a liquid security for employee stock options, access to an established trading history, and the ability to use stock as currency for acquisitions. A SPAC offers all of that in exchange for dilution and a share of the combined company's equity going to the SPAC's sponsors and investors.
+For Marblegate, the "customer" is the private company seeking to go public. Its leadership team wants to raise capital, create a liquid security for [employee stock options](/employee-stock-options/), access to an established trading history, and the ability to use stock as currency for [acquisitions](/acquisition/). A SPAC offers all of that in exchange for dilution and a share of the combined company's equity going to the SPAC's sponsors and investors.
 
 ## The Economic Model: Sponsor Returns and Merger Economics
 
-Marblegate's revenue model is indirect but real. The SPAC sponsors (the company's founders and early management) typically own a percentage of the blank check company's shares, often referred to as founder shares. When the SPAC merges with an operating company, the sponsors' equity is diluted but the merged entity is now public, and that public equity has value. In successful mergers, sponsor returns can be substantial.
+Marblegate's revenue model is indirect but real. The SPAC sponsors (the company's founders and early management) typically own a percentage of the blank check company's shares, often referred to as [founder shares](/founder-shares/). When the SPAC merges with an operating company, the sponsors' equity is diluted but the merged entity is now public, and that public equity has value. In successful [mergers](/merger/), sponsor returns can be substantial.
 
 Additionally, SPACs often include warrants—rights to purchase shares at a set price—that give early investors and the sponsor a leveraged payoff if the stock appreciates. These warrants are a second source of upside beyond the founder equity stake. Investors in a SPAC are betting that the sponsor will identify a merger target attractive enough to drive stock appreciation from the public-market debut price.
 
@@ -46,7 +46,7 @@ Founders of private companies evaluating a SPAC merger are paying careful attent
 
 ## The Timeline and Market Conditions
 
-Marblegate's success hinges on market conditions and the sponsor team's ability to execute. SPACs typically have a two- to three-year window to complete a merger, after which the trust account is returned to investors if no deal closes. During bull markets, when IPO demand is high and private companies feel pressure to go public, SPACs thrive. During downturns, when confidence in capital markets declines and private founders have less urgency to exit, SPAC deals dry up.
+Marblegate's success hinges on market conditions and the sponsor team's ability to execute. SPACs typically have a two- to three-year window to complete a merger, after which the trust account is returned to investors if no deal closes. During [bull markets](/bull-market/), when IPO demand is high and private companies feel pressure to go public, SPACs thrive. During downturns, when confidence in capital markets declines and private founders have less urgency to exit, SPAC deals dry up.
 
 The company's "customer"—a private company seeking public-market access—will shop Marblegate against other SPACs and traditional IPO advisors. If market conditions deteriorate or the SPAC's cash balances are too small relative to the target company's size, the private company may walk away and pursue a different path.
 

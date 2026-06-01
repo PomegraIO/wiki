@@ -41,11 +41,11 @@ Regional banks often offset margin compression by growing advisory, wealth-manag
 
 ## Loan Portfolio Concentration Risk
 
-Bank of Hawaii's loan portfolio is highly concentrated in Hawaii sectors—hospitality, real estate, agriculture. Diversification into mainland markets would require branch networks or loan-origination partnerships that the bank does not have. This concentration amplifies cyclical stress: when Hawaii's economy stumbles, all of the bank's major segments stumble together. There are no offsetting geographic diversifications or uncorrelated business lines. A deep recession in Hawaii or a major hospitality disruption (another pandemic, climate event) could compress earnings faster than the bank can reposition.
+Bank of Hawaii's loan portfolio is highly concentrated in Hawaii sectors—hospitality, real estate, agriculture. Diversification into mainland markets would require branch networks or loan-origination partnerships that the bank does not have. This concentration amplifies cyclical stress: when Hawaii's economy stumbles, all of the bank's major segments stumble together. There are no offsetting geographic [diversifications](/diversification/) or uncorrelated business lines. A deep [recession](/recession/) in Hawaii or a major hospitality disruption (another pandemic, climate event) could compress earnings faster than the bank can reposition.
 
 ## Capital Returns and Shareholder Expectations
 
-Bank of Hawaii's [dividend](/dividend/) yield has long been attractive to income investors, and the bank has maintained consistent [dividend](/dividend/) payments through cycles. But as secular headwinds reduce return on equity, the sustainability of high payout ratios becomes questionable. Regulators also cap dividend payouts relative to capital levels. Over time, lower return on equity will force lower payout ratios or push the stock multiple lower, reducing total shareholder return even if the company survives the secular shift.
+Bank of Hawaii's [dividend](/dividend/) yield has long been attractive to income investors, and the bank has maintained consistent [dividend](/dividend/) payments through cycles. But as secular headwinds reduce [return on equity](/return-on-equity/), the sustainability of high [payout ratios](/payout-ratio/) becomes questionable. Regulators also cap dividend payouts relative to capital levels. Over time, lower return on equity will force lower payout ratios or push the stock multiple lower, reducing total shareholder return even if the company survives the secular shift.
 
 ## Secular Escape Routes: Unlikely But Not Impossible
 

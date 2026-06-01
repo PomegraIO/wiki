@@ -19,11 +19,11 @@ keywords: ["BTBT", "Bit Digital", "cryptocurrency mining", "blockchain", "Bitcoi
 
 ## Mining as a Commodity Business
 
-Cryptocurrency mining is a pure commodity enterprise. Miners compete on one metric: the lowest cost per unit of hash power (the computing work required to find a valid block). The winner is whoever can generate a hash for the cheapest electricity and hardware amortization. This is not like consulting or software, where differentiation and brand matter. It is like oil drilling: location, fuel cost, and equipment uptime.
+Cryptocurrency mining is a pure commodity enterprise. Miners compete on one metric: the lowest cost per unit of hash power (the computing work required to find a valid block). The winner is whoever can generate a hash for the cheapest electricity and hardware [amortization](/amortization/). This is not like consulting or software, where differentiation and brand matter. It is like oil drilling: location, fuel cost, and equipment uptime.
 
-Bit Digital's job is to own and operate data centers filled with specialized chips called ASICs (application-specific integrated circuits). These machines run 24/7, performing quadrillions of calculations per second in an attempt to find a cryptographic hash that meets the network's difficulty target. When successful, the miner earns a reward—a newly created unit of the cryptocurrency plus transaction fees paid by users. The company keeps this reward, less the cost of electricity, cooling, labor, and hardware depreciation.
+Bit Digital's job is to own and operate data centers filled with specialized chips called ASICs (application-specific integrated circuits). These machines run 24/7, performing quadrillions of calculations per second in an attempt to find a cryptographic hash that meets the network's difficulty target. When successful, the miner earns a reward—a newly created unit of the cryptocurrency plus transaction fees paid by users. The company keeps this reward, less the cost of electricity, cooling, labor, and hardware [depreciation](/depreciation/).
 
-Profitability is therefore a function of: (a) hash rate (computing power), (b) electricity price, (c) the price of the mined cryptocurrency, and (d) the overall difficulty of the mining network. BTBT controls (a), (b), and its capital allocation strategy. It has no control over (c) or (d). This is why cryptocurrency miners are highly cyclical. When Bitcoin or Ethereum prices are high, mining is profitable, and new miners enter the market, raising difficulty. When prices crash, miners shut down, and the weak exit. This boom-bust cycle is baked into the business model.
+Profitability is therefore a function of: (a) [hash rate](/hash-rate/) (computing power), (b) electricity price, (c) the price of the mined cryptocurrency, and (d) the overall difficulty of the mining network. BTBT controls (a), (b), and its capital allocation strategy. It has no control over (c) or (d). This is why cryptocurrency miners are highly cyclical. When [Bitcoin](/bitcoin/) or [Ethereum](/ethereum/) prices are high, mining is profitable, and new miners enter the market, raising difficulty. When prices crash, miners shut down, and the weak exit. This boom-bust cycle is baked into the business model.
 
 ## Electricity: The Dominant Cost Factor
 
@@ -53,7 +53,7 @@ The decision is not trivial. Bit Digital must forecast electricity prices, crypt
 
 ## Where to Research BTBT
 
-Read BTBT's [10-K](/10-k/) filing. Look for: (1) Total hash rate (expressed in exahashes per second or similar) and trend—is it growing or shrinking? (2) Electricity cost per unit and the company's power sourcing strategy. (3) Hardware inventory and depreciation schedules. (4) Geographic footprint and concentration risk. (5) Management's disclosure of profitability thresholds—what cryptocurrency price would make mining uneconomical? A strong filing will quantify all of these. A weak one will be vague about operating assumptions.
+Read BTBT's [10-K](/10-k/) filing. Look for: (1) Total hash rate (expressed in exahashes per second or similar) and trend—is it growing or shrinking? (2) Electricity cost per unit and the company's power sourcing strategy. (3) Hardware inventory and depreciation schedules. (4) Geographic footprint and [concentration risk](/concentration-risk/). (5) Management's disclosure of profitability thresholds—what cryptocurrency price would make mining uneconomical? A strong filing will quantify all of these. A weak one will be vague about operating assumptions.
 
 Track cryptocurrency prices and network difficulty via external sources. Understanding how BTBT's earnings respond to these variables is essential to valuation.
 

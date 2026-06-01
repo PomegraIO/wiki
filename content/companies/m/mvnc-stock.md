@@ -41,9 +41,9 @@ The company has likely explored adjacent diagnostic applications: cardiology ris
 
 ## The Funding and Dilution Cycle
 
-As a private-equity-backed or venture-backed biotech, MVNC has required multiple rounds of financing to fund the long runway from concept to commercialization. This capital structure creates founder and employee dilution and a pressure to demonstrate progress or reach a liquidity event—either profitable operations (unlikely for a diagnostics-stage biotech) or a strategic acquisition by a larger diagnostics or pharma company.
+As a private-equity-backed or venture-backed biotech, MVNC has required multiple rounds of financing to fund the long runway from concept to commercialization. This capital structure creates founder and employee dilution and a pressure to demonstrate progress or reach a liquidity event—either profitable operations (unlikely for a diagnostics-stage biotech) or a strategic [acquisition](/acquisition/) by a larger diagnostics or pharma company.
 
-Public listing on OTC markets suggests the company sought access to capital without the rigor or liquidity of a Nasdaq biotech IPO. OTC quotation provides theoretical equity currency for employee options and acquisition negotiations, but minimal trading volume and investor research. The stock price likely swings on news cycles—regulatory approvals, partnership announcements, or trial results—rather than reflecting intrinsic fundamental values that equity analysts have vetted.
+Public listing on OTC markets suggests the company sought access to capital without the rigor or liquidity of a [Nasdaq](/nasdaq/) biotech IPO. OTC quotation provides theoretical equity currency for employee options and acquisition negotiations, but minimal trading volume and investor research. The stock price likely swings on news cycles—regulatory approvals, partnership announcements, or trial results—rather than reflecting intrinsic fundamental values that equity analysts have vetted.
 
 ## Regulatory and Reimbursement Hurdles
 

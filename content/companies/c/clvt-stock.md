@@ -25,11 +25,11 @@ The foundation of Clarivate's pricing power is the proprietary nature of its dat
 
 ## Portfolio Consolidation and Organic Growth
 
-Clarivate has grown partially through organic expansion (adding new databases, increasing customer seats, raising prices) and partially through acquisition of complementary data and software assets. Each acquisition is a bet that Clarivate can integrate a new data source or tool into its existing platform, cross-sell it to the existing customer base, and improve margins through consolidation. The success of this strategy depends on execution: overpaying for assets, failing to integrate them, or cannibalizing existing products can destroy value. Conversely, disciplined acquisition in adjacent markets (e.g., legal analytics, regulatory intelligence) can expand the addressable market and improve customer retention by selling a broader suite of tools.
+Clarivate has grown partially through organic expansion (adding new databases, increasing customer seats, raising prices) and partially through [acquisition](/acquisition/) of complementary data and software assets. Each acquisition is a bet that Clarivate can integrate a new data source or tool into its existing platform, cross-sell it to the existing customer base, and improve margins through consolidation. The success of this strategy depends on execution: overpaying for assets, failing to integrate them, or cannibalizing existing products can destroy value. Conversely, disciplined acquisition in adjacent markets (e.g., legal analytics, regulatory intelligence) can expand the addressable market and improve customer retention by selling a broader suite of tools.
 
 ## Vertical Market Concentration
 
-Clarivate's customers are not broadly distributed; they concentrate in pharma, biotech, law firms, and academic institutions. A significant portion of revenue often comes from a small number of large customers. This concentration creates vulnerability: loss of a major customer (due to budget cuts, platform migration, or merger) is material. But it also creates advantage: Clarivate has deep relationships in these vertical markets, understands their specific needs and workflows, and can tailor products to their demands. A small competitor targeting the same verticals must overcome established relationships and the incumbent's product knowledge.
+Clarivate's customers are not broadly distributed; they concentrate in pharma, biotech, law firms, and academic institutions. A significant portion of revenue often comes from a small number of large customers. This concentration creates vulnerability: loss of a major customer (due to budget cuts, platform migration, or [merger](/merger/)) is material. But it also creates advantage: Clarivate has deep relationships in these vertical markets, understands their specific needs and workflows, and can tailor products to their demands. A small competitor targeting the same verticals must overcome established relationships and the incumbent's product knowledge.
 
 ## International Expansion and Geographic Mix
 
@@ -41,13 +41,13 @@ Although the incremental cost to serve a new subscription customer is low, the t
 
 ## Secular Tailwinds in IP and Scientific Output
 
-The volume of patent filings and scientific publications has grown substantially, and the competitive importance of IP strategy in biotechnology and software has intensified. This secular trend creates tailwinds for Clarivate: more companies need better IP management tools, more researchers depend on citation metrics, and more litigators rely on patent databases. This growth can exceed organic subscription expansion, providing a margin of safety even in mature customer relationships. The risk is that regulatory pressures (e.g., changes to patent law, open-access mandates in scientific publishing) reduce the demand for proprietary indices or commoditize the data.
+The volume of patent filings and scientific publications has grown substantially, and the competitive importance of [IP strategy](/ipst-stock/) in biotechnology and software has intensified. This secular trend creates tailwinds for Clarivate: more companies need better IP management tools, more researchers depend on citation metrics, and more litigators rely on patent databases. This growth can exceed organic subscription expansion, providing a margin of safety even in mature customer relationships. The risk is that regulatory pressures (e.g., changes to patent law, open-access mandates in scientific publishing) reduce the demand for proprietary indices or commoditize the data.
 
 <div class="wiki-seealso">
 ### Closely related
 - [clsdq-stock](/clsdq-stock/)
 - [clst-stock](/clst-stock/)
-- Information services
+- [Information services](/iii-stock/)
 
 ### Wider context
 - Data and analytics industry

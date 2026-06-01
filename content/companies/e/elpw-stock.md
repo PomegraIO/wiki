@@ -21,7 +21,7 @@ If ELPW is a regulated utility serving a franchise territory, its competitive po
 
 ## Fuel Cost Exposure and Margin Dynamics
 
-ELPW's profitability depends on the cost of fuel (natural gas, coal, or nuclear) relative to the price it can charge customers or receive in wholesale markets. For a regulated utility, fuel costs are typically passed through to customers under fuel-adjustment clauses, isolating ELPW from fuel-price volatility. For a merchant generator, fuel-price swings directly affect profit margins. If ELPW is a natural-gas generator, rising gas prices compress margins; if it's a coal generator, both coal prices and regulatory pressure on coal create margin risk.
+ELPW's profitability depends on the cost of fuel ([natural gas](/natural-gas/), coal, or nuclear) relative to the price it can charge customers or receive in wholesale markets. For a regulated utility, fuel costs are typically passed through to customers under fuel-adjustment clauses, isolating ELPW from fuel-price volatility. For a merchant generator, fuel-price swings directly affect profit margins. If ELPW is a natural-gas generator, rising gas prices compress margins; if it's a coal generator, both coal prices and regulatory pressure on coal create margin risk.
 
 This fuel-cost exposure is a key competitive lever. Larger utilities can hedge fuel costs through long-term contracts or financial instruments; smaller utilities like ELPW may lack the scale or expertise to hedge effectively, making it more exposed to commodity-price swings. A competitor with locked-in, long-term fuel contracts at favorable prices has a competitive advantage over a competitor buying fuel in spot markets at volatile prices.
 
@@ -37,13 +37,13 @@ Conversely, ELPW's competitive advantage could be location and agility. If ELPW 
 
 Power generation and transmission are capital-intensive businesses. Building a new power plant, transmission line, or renewable farm requires tens to hundreds of millions of dollars. Larger utilities can access capital at lower cost and can spread capex across a larger rate base, lowering per-unit costs. ELPW, as a smaller operator, faces higher financing costs and must be more selective about capital allocation.
 
-This financing constraint is a structural competitive disadvantage. ELPW cannot outbid larger competitors for acquisition targets, cannot invest in growth capex at the same scale, and faces higher borrowing costs for debt capital. Over time, this constraint forces ELPW into smaller, niche markets or into partnership with larger utilities or financial sponsors.
+This financing constraint is a structural competitive disadvantage. ELPW cannot outbid larger competitors for [acquisition](/acquisition/) targets, cannot invest in growth capex at the same scale, and faces higher borrowing costs for debt capital. Over time, this constraint forces ELPW into smaller, niche markets or into partnership with larger utilities or financial sponsors.
 
 ## Customer Concentration and Power-Purchase Agreements
 
 ELPW's revenues depend on who buys its power. If ELPW sells to a regulated utility under a long-term power-purchase agreement, revenues are stable and predictable. If ELPW sells into wholesale markets, revenues fluctuate with commodity prices. If ELPW serves industrial or commercial customers, those customers may have significant negotiating leverage and can threaten to install their own generation or buy power from competitors.
 
-ELPW's competitive position is therefore shaped by the stability and diversity of its customer base. A concentration on one large customer or market exposes ELPW to customer churn or contract renegotiation risk. Diversification across multiple customer segments and geographies reduces this risk.
+ELPW's competitive position is therefore shaped by the stability and diversity of its customer base. A concentration on one large customer or market exposes ELPW to customer churn or contract renegotiation risk. [Diversification](/diversification/) across multiple customer segments and geographies reduces this risk.
 
 ## Grid Infrastructure and Transmission Challenges
 

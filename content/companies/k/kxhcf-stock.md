@@ -9,7 +9,7 @@ keywords:
   - international compliance
 ---
 
-*Kioxia manufactures NAND flash memory and storage semiconductors with production facilities across Japan, the United States, and partnership arrangements globally. **Kioxia Holdings Corporation (KXHCF)**, as an ADR (American Depositary Receipt), operates at the intersection of three regulatory regimes: US export controls on advanced semiconductors, Japanese fair-trade and technology-policy frameworks, and Taiwanese manufacturing oversight—making it one of the most heavily regulated companies in the global tech supply chain.*
+*Kioxia manufactures NAND flash memory and storage semiconductors with production facilities across Japan, the United States, and partnership arrangements globally. **Kioxia Holdings Corporation (KXHCF)**, as an ADR ([American Depositary Receipt](/adr/)), operates at the intersection of three regulatory regimes: US export controls on advanced semiconductors, Japanese fair-trade and technology-policy frameworks, and Taiwanese manufacturing oversight—making it one of the most heavily regulated companies in the global tech supply chain.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KXHCF</td></tr>
@@ -34,7 +34,7 @@ Kioxia operates in a concentrated market. Global NAND flash memory production is
 
 For Kioxia, this antitrust environment shapes commercial behavior. The company must be careful not to engage in communications with competitors that might appear to coordinate pricing or market allocation. Even casual conversations between technical or commercial personnel at competing firms can create antitrust exposure. Kioxia must also ensure its sales practices do not impose exclusive-dealing or tied-selling arrangements that might be deemed anticompetitive. The FTC and international antitrust authorities regularly investigate semiconductor supply markets, and Kioxia's commercial practices are likely subject to ongoing informal regulatory review.
 
-Antitrust enforcement also affects capital allocation. If Kioxia and another major manufacturer were to propose a joint venture or merger that would further concentrate the market, regulatory authorities would likely challenge it. This limits Kioxia's options for industry consolidation and forces the company to grow organically or through smaller, non-consolidative acquisitions.
+Antitrust enforcement also affects capital allocation. If Kioxia and another major manufacturer were to propose a joint venture or [merger](/merger/) that would further concentrate the market, regulatory authorities would likely challenge it. This limits Kioxia's options for industry consolidation and forces the company to grow organically or through smaller, non-consolidative [acquisitions](/acquisition/).
 
 ## Japanese Corporate Governance and Fair-Trade Act Compliance
 

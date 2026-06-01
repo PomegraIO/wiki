@@ -16,7 +16,7 @@ keywords: energy sector, commodity exposure, regulatory risk, operational levera
 
 ## Commodity Price Exposure and Volatility
 
-Energy companies are price-takers. If Leishen Energy produces oil, natural gas, electricity, or derived products, the selling price is set by global (or regional) commodity markets, not by the company's actions. A 30% drop in crude oil prices compresses Leishen's revenue by a similar magnitude, regardless of operational efficiency.
+Energy companies are price-takers. If Leishen Energy produces oil, [natural gas](/natural-gas/), electricity, or derived products, the selling price is set by global (or regional) commodity markets, not by the company's actions. A 30% drop in [crude oil](/crude-oil/) prices compresses Leishen's revenue by a similar magnitude, regardless of operational efficiency.
 
 This exposure is asymmetric to investor expectations. A company that is profitable at $60/barrel oil may be underwater at $40/barrel. When commodity prices fall, not only do margins compress, but often capital expenditure budgets must be cut, projects mothballed, and staff reduced—all of which weaken the company's competitive position for when prices eventually rise. The company that cuts deepest during downturns may be weakest when growth returns.
 
@@ -42,9 +42,9 @@ If Leishen is purely a conventional fossil-fuel producer (coal, oil, gas), its c
 
 ## Leverage and Debt Service Risk
 
-Energy companies often carry substantial debt to finance large capital projects. If Leishen is leveraged and commodity prices fall, the company's cash flow may fall below debt-service levels. The company might be forced to cut dividends, defer capital expenditure, or refinance at worse terms. In severe downturns, even solvent companies can face distress if refinancing markets tighten.
+Energy companies often carry substantial debt to finance large capital projects. If Leishen is leveraged and commodity prices fall, the company's cash flow may fall below debt-service levels. The company might be forced to cut [dividends](/dividend/), defer capital expenditure, or refinance at worse terms. In severe downturns, even solvent companies can face distress if refinancing markets tighten.
 
-The company's [balance-sheet](/balance-sheet/) structure is therefore critical. Review debt-to-EBITDA ratios, interest-coverage multiples, and debt maturity schedules. A company with high leverage and short-duration debt maturing in down markets faces acute risk.
+The company's [balance-sheet](/balance-sheet/) structure is therefore critical. Review [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/), interest-coverage multiples, and debt maturity schedules. A company with high leverage and short-duration debt maturing in down markets faces acute risk.
 
 ## Geopolitical and Supply-Chain Constraints
 

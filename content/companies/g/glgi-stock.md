@@ -25,7 +25,7 @@ The practical implication is that Greystone's [return-on-equity](/return-on-equi
 
 ## The Asset-Light Opportunity
 
-Unlike traditional trucking companies that own fleets, Greystone's intermodal model relies on container assets and coordination agreements with rail carriers and dray operators. This creates a structurally different [capital intensity](/free-cash-flow/) than owning thousands of trailers and tractors. Fewer company-owned assets mean lower depreciation, less vehicle maintenance overhead, and reduced exposure to fuel prices for the fleet itself (though fuel remains an input cost for subcontracted dray services).
+Unlike traditional trucking companies that own fleets, Greystone's intermodal model relies on container assets and coordination agreements with rail carriers and dray operators. This creates a structurally different [capital intensity](/free-cash-flow/) than owning thousands of trailers and tractors. Fewer company-owned assets mean lower [depreciation](/depreciation/), less vehicle maintenance overhead, and reduced exposure to fuel prices for the fleet itself (though fuel remains an input cost for subcontracted dray services).
 
 However, "asset-light" is not "asset-free." Greystone still owns or leases the containers themselves, which are capital assets subject to replacement and maintenance. The advantage is degree, not kind: a 500-container fleet is far less capital-hungry than a 500-truck fleet, and the operational leverage is better. As volume grows, Greystone can add containers for incremental capital outlay, whereas adding trucking capacity often requires hiring and equipping entire teams.
 
@@ -45,19 +45,19 @@ Greystone's chosen vulnerability is geographic concentration. A recession that c
 
 The question for investors is whether Greystone's team has chosen regions with enough inherent resilience. A footprint anchored in agricultural hinterlands and manufacturing-dependent corridors will be far more cyclical than one serving major ports with year-round containerized demand. Greystone's 10-K details its geographic mix and lane-by-lane economics; sophisticated analysis compares that against regional economic trends and competing transportation capacity.
 
-This is a classic small-company strategic trade-off: forgo the diversification that scale provides, accept concentrated risk, but gain operational depth and pricing power in chosen niches. Investors comfortable with that trade-off and confident in management's lane selection can see value; those seeking low-volatility, broad diversification should look elsewhere.
+This is a classic small-company strategic trade-off: forgo the [diversification](/diversification/) that scale provides, accept concentrated risk, but gain operational depth and pricing power in chosen niches. Investors comfortable with that trade-off and confident in management's lane selection can see value; those seeking low-volatility, broad diversification should look elsewhere.
 
 ## Revenue Model and Pricing Dynamics
 
 Greystone earns revenue from container moves—the transportation of a single container from origin to destination—and from demurrage and detention fees (charges for containers held beyond standard return windows). The move-based model creates relatively predictable [revenue](/income-statement/) but limited pricing power if shipping demand drops. Demurrage and detention are higher-margin opportunistic revenue, but shippers resist these fees and often negotiate them away in competitive periods.
 
-Unlike asset-heavy trucking firms that can reduce utilization quickly during downturns, Greystone's containers still incur yard and maintenance costs even when idle. Profitability hinges on keeping utilization rates high across cycles. During boom periods, Greystone can drive rates up and fill empty slots; during recessions, empty containers still burn cash. This is why container-focused operators are more vulnerable to shipping-cycle downturns than carriers who can cut fleet size quickly.
+Unlike asset-heavy trucking firms that can reduce utilization quickly during downturns, Greystone's containers still incur yard and maintenance costs even when idle. Profitability hinges on keeping utilization rates high across cycles. During boom periods, Greystone can drive rates up and fill empty slots; during [recessions](/recession/), empty containers still burn cash. This is why container-focused operators are more vulnerable to shipping-cycle downturns than carriers who can cut fleet size quickly.
 
 Pricing is ultimately subject to competing offers from other intermodal operators and even from shippers who consider trucking or rail directly. Greystone's edge is customer relationships and service reliability in its chosen lanes—if a shipper can achieve equivalent service and cost elsewhere, switching costs are low. This argues for Greystone to invest heavily in service consistency and operational reliability to defend pricing.
 
 ## Capital Allocation and Growth
 
-Studying Greystone's 10-K reveals the company's capital-expenditure philosophy. Is management aggressively deploying capital into new lanes and container acquisitions, or is it conservatively holding cash and returning it via [dividends](/dividend/) or [share buybacks](/share-buyback/)? The answer signals confidence in growth opportunities and competitive position.
+Studying Greystone's 10-K reveals the company's capital-expenditure philosophy. Is management aggressively deploying capital into new lanes and container [acquisitions](/acquisition/), or is it conservatively holding cash and returning it via [dividends](/dividend/) or [share buybacks](/share-buyback/)? The answer signals confidence in growth opportunities and competitive position.
 
 A growth-focused Greystone might earn [free cash flow](/free-cash-flow/) and immediately reinvest it into network expansion, betting that additional containers in new markets will generate acceptable returns. A capital-conservative approach might hedge by returning cash to shareholders, acknowledging that shipping is inherently cyclical and downturns will come. Neither is wrong; they reflect different bets on market sustainability and management's return-on-capital thresholds.
 

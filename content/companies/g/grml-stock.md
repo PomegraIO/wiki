@@ -19,7 +19,7 @@ keywords: ["mining", "Greenland", "rare earths", "extraction", "operations", "Ar
 
 Greenland's capital, Nuuk, has a population under 20,000. The island has no road network connecting settlements; travel is by helicopter, boat, or small aircraft. This means a mining operation in Greenland is operationally isolated. Equipment, fuel, food, and personnel must be shipped in. In winter, sea ice and short daylight hours constrain marine logistics. A miner who gets injured faces evacuation by helicopter at extreme cost and limited immediate-care options.
 
-The mining site itself is typically many kilometers from any town, reachable only by specialized transport. Greenland Mines likely operates a "fly-in, fly-out" (FIFO) camp: workers arrive for scheduled shifts, live in camp housing, and depart on rotation. This requires the company to provide accommodation, food, water, and waste management at the mine site—infrastructure that a mine closer to civilization can source from the surrounding area.
+The mining site itself is typically many kilometers from any town, reachable only by specialized transport. Greenland Mines likely operates a "fly-in, fly-out" (FIFO) camp: workers arrive for scheduled shifts, live in camp housing, and depart on rotation. This requires the company to provide accommodation, food, water, and [waste management](/wm-stock/) at the mine site—infrastructure that a mine closer to civilization can source from the surrounding area.
 
 Permafrost and seasonal snow cover mean the mining site is accessible only during limited months. A Greenland hard-rock mine may operate at full capacity only in summer; winter operations may be reduced or halted. This creates operational pressure to maximize extraction when conditions allow and forces the company to manage equipment and personnel for seasonal transitions.
 
@@ -77,7 +77,7 @@ Shipping schedules are constrained by Greenland's maritime season. In summer, re
 
 Building a new mine in Greenland is a multi-year, multi-hundred-million-dollar project. Feasibility studies, permitting (with multiple Danish and Greenlandic authorities), construction, and commissioning can span a decade. Operating costs (labor, energy, logistics) are high relative to mines in temperate zones.
 
-The company typically builds mines in phases, bringing sections online as capital is available. Early phases focus on mine development and mill construction. Expansion phases add more milling capacity or extract ore from new zones. This phased approach spreads capital but extends the timeline to profitability.
+The company typically builds mines in phases, bringing sections online as capital is available. Early phases focus on mine development and mill construction. [Expansion phases](/expansion-phase/) add more milling capacity or extract ore from new zones. This phased approach spreads capital but extends the timeline to profitability.
 
 Energy supply is a strategic question. Greenland has hydroelectric potential, but building hydro for a remote mine site is itself a major capital project. Some operations run diesel generators, incurring high fuel costs and emissions. The company must evaluate make-or-buy decisions for energy.
 
@@ -85,7 +85,7 @@ Energy supply is a strategic question. Greenland has hydroelectric potential, bu
 
 If Greenland Mines extracts rare earth elements, its revenue is exposed to rare earth pricing. Rare earth prices are volatile due to geopolitical supply constraints, technological changes in demand (e.g., wind turbine demand for neodymium), and China's production dominance. A 30% price drop can erase projected profits for a multi-year project.
 
-Similarly, if the company extracts zinc or lead, prices for those metals fluctuate with industrial demand and global inventory. The company has limited ability to influence prices; it is a price-taker in commodity markets. Hedging strategies (futures contracts, fixed-price customer contracts) can lock in some revenue, but they are not available for all operations and all periods.
+Similarly, if the company extracts zinc or lead, prices for those metals fluctuate with industrial demand and global inventory. The company has limited ability to influence prices; it is a price-taker in commodity markets. Hedging strategies ([futures contracts](/futures-contract/), fixed-price customer contracts) can lock in some revenue, but they are not available for all operations and all periods.
 
 The combination of high fixed costs (mine camp, concentration mill, shipping infrastructure) and volatile revenue creates earnings volatility. Greenland Mines may be highly profitable in strong commodity-price years and loss-making in weak years.
 

@@ -39,7 +39,7 @@ Iron and zinc are abundant and globally sourced, unlike lithium, which is geogra
 
 ## Capital Structure and Burn Rate
 
-Eos Energy is pre-profitable. Revenue from early system sales or pilot deployments does not yet cover engineering, manufacturing setup, and sales expenses. The company has likely raised venture capital and then gone public (through SPAC or direct listing) to access equity funding and give early investors liquidity. As a public company, Eos must disclose quarterly burn rate, cash position, and runway in its filings. Investors track how quickly the company depletes cash and whether it can reach cash flow break-even before capital runs dry.
+Eos Energy is pre-profitable. Revenue from early system sales or pilot deployments does not yet cover engineering, manufacturing setup, and sales expenses. The company has likely raised venture capital and then gone public (through SPAC or [direct listing](/direct-listing/)) to access equity funding and give early investors liquidity. As a public company, Eos must disclose quarterly burn rate, cash position, and runway in its filings. Investors track how quickly the company depletes cash and whether it can reach cash flow break-even before capital runs dry.
 
 If grid battery demand accelerates faster than expected and Eos captures share, manufacturing margins can improve and the company reaches profitability. If adoption is slower or if another chemistry (lithium cost reductions, flow batteries, or compressed-air storage) emerges as dominant, Eos may face funding challenges or forced restructuring. The company's stock price reflects these outcome probabilities.
 

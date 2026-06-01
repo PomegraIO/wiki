@@ -41,7 +41,7 @@ Growth depends on expansion within existing customers — adding new departments
 
 ## Competitive Positioning and Market Structure
 
-Sprinklr competes against specialized point solutions (tools for social media monitoring, customer service, marketing automation) that focus deeply on one domain but lack integration. It also competes against broader enterprise-software platforms — Salesforce, Microsoft Dynamics, SAP — that have added customer experience features to their suites over time. Sprinklr's differentiation rests on depth in the omnichannel layer: it is more specialized in consolidating disparate channels and more focused on customer feedback and experience than general-purpose CRM systems.
+Sprinklr competes against specialized point solutions (tools for social media monitoring, customer service, marketing automation) that focus deeply on one domain but lack integration. It also competes against broader enterprise-software platforms — [Salesforce](/crm-stock/), [Microsoft](/msft-stock/) Dynamics, SAP — that have added customer experience features to their suites over time. Sprinklr's differentiation rests on depth in the omnichannel layer: it is more specialized in consolidating disparate channels and more focused on customer feedback and experience than general-purpose CRM systems.
 
 However, this specialization also narrows the addressable market. Only large enterprises with complex, distributed customer interactions justify the implementation cost. Small and mid-market companies often patch together cheaper point solutions or accept manual integration. Sprinklr's growth ceiling is thus tied to the size and willingness to spend of the enterprise segment it serves.
 

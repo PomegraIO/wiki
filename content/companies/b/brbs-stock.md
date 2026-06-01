@@ -25,7 +25,7 @@ Blue Ridge's disclosures emphasize its concentration in specific Appalachian and
 
 ## Loan Portfolio and Credit Exposure
 
-The company's filings break down the loan portfolio by type: commercial loans, real estate (construction and permanent), consumer installment, and agricultural. BRBS notes in its 10-K that it is exposed to local real-estate cycles and that commercial borrowers in its markets often depend on regional industries (manufacturing, hospitality, healthcare). The company discloses its nonaccrual loan ratios and loan-loss reserve policies, signaling how management views credit risk in its specific markets. Filings indicate that Blue Ridge has focused on underwriting standards suited to its market rather than competing on price, suggesting the company emphasizes credit quality over market-share growth.
+The company's filings break down the loan portfolio by type: commercial loans, real estate (construction and permanent), consumer installment, and agricultural. BRBS notes in its 10-K that it is exposed to local real-estate cycles and that commercial borrowers in its markets often depend on regional industries (manufacturing, hospitality, healthcare). The company discloses its nonaccrual loan ratios and loan-loss reserve policies, signaling how management views [credit risk](/credit-risk/) in its specific markets. Filings indicate that Blue Ridge has focused on underwriting standards suited to its market rather than competing on price, suggesting the company emphasizes credit quality over market-share growth.
 
 ## Deposit Base and Funding Stability
 
@@ -33,7 +33,7 @@ Disclosures reveal that BRBS funds itself primarily through retail and small-bus
 
 ## Regulatory Constraints and Capital Adequacy
 
-As a bank holding company, BRBS operates under [Federal Reserve](/federal-reserve/) oversight and capital-adequacy requirements, all detailed in regulatory filings. The company's 10-K notes its regulatory capital ratios and compliance with Basel standards applicable to its size category. Filings indicate that the company maintains capital above regulatory minimums, creating capacity for [dividends](/dividend/) or acquisitions, though the company notes that regulatory approval is required for significant capital distributions or material acquisitions. The company's disclosure of regulatory examinations and any enforcement actions (or absence thereof) is a standard proxy for operational compliance.
+As a bank holding company, BRBS operates under [Federal Reserve](/federal-reserve/) oversight and capital-adequacy requirements, all detailed in regulatory filings. The company's 10-K notes its regulatory capital ratios and compliance with Basel standards applicable to its size category. Filings indicate that the company maintains capital above regulatory minimums, creating capacity for [dividends](/dividend/) or [acquisitions](/acquisition/), though the company notes that regulatory approval is required for significant capital distributions or material acquisitions. The company's disclosure of regulatory examinations and any enforcement actions (or absence thereof) is a standard proxy for operational compliance.
 
 ## Competitive Position Within Regional Banking
 
@@ -41,7 +41,7 @@ BRBS's regulatory filings position the company as competing in a segment of mid-
 
 ## How to Study BRBS's Financial Disclosures
 
-An analyst preparing a research note on Blue Ridge should first map the loan portfolio by type and geography—most of the 10-K is devoted to this—to understand concentration risk and earnings sensitivity to different economic scenarios. Second, examine net interest margin trends and manage for changes in deposit mix and funding costs. Third, assess asset quality by reviewing nonaccrual loans and loan-loss reserves; for regional banks, credit cycles matter more than scale. Fourth, trace acquisition activity and integration costs, as these often drive volatility in BRBS's reported results. Finally, compare BRBS's capital ratios and profitability to peer regional banks to gauge whether the company is generating competitive returns on equity.
+An analyst preparing a research note on Blue Ridge should first map the loan portfolio by type and geography—most of the 10-K is devoted to this—to understand [concentration risk](/concentration-risk/) and earnings sensitivity to different economic scenarios. Second, examine net interest margin trends and manage for changes in deposit mix and funding costs. Third, assess asset quality by reviewing nonaccrual loans and loan-loss reserves; for regional banks, credit cycles matter more than scale. Fourth, trace acquisition activity and integration costs, as these often drive volatility in BRBS's reported results. Finally, compare BRBS's capital ratios and profitability to peer regional banks to gauge whether the company is generating competitive returns on equity.
 
 ---
 

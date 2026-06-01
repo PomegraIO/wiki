@@ -45,9 +45,9 @@ The company must establish delivery logistics hubs in each metro area it serves.
 
 ## Banking and Financial Services
 
-Cannabis businesses, even those operating in states where cannabis is legal, face banking challenges because cannabis remains federally illegal. Many banks are unwilling to serve cannabis companies due to federal anti-money-laundering concerns. This creates geographic variation: states with robust state-level banking (California, Colorado, some Northeast states) have more available banking relationships; others have fewer. MAPS' ability to access banking, credit, and financial infrastructure varies by state, affecting cash flow management and expansion financing.
+Cannabis businesses, even those operating in states where cannabis is legal, face banking challenges because cannabis remains federally illegal. Many banks are unwilling to serve cannabis companies due to federal anti-money-laundering concerns. This creates geographic variation: states with robust state-level banking (California, Colorado, some Northeast states) have more available banking relationships; others have fewer. MAPS' ability to access banking, credit, and financial infrastructure varies by state, affecting [cash flow management](/cash-flow-management-personal/) and expansion financing.
 
-Some states have established cannabis-specific financial institutions or credit unions; others rely on private banking relationships. MAPS' capital structure and access to credit is affected by geographic exposure to states with better cannabis banking.
+Some states have established cannabis-specific [financial institutions](/fisi-stock/) or credit unions; others rely on private banking relationships. MAPS' capital structure and access to credit is affected by geographic exposure to states with better cannabis banking.
 
 ## Tax Structure and Profitability
 
@@ -63,7 +63,7 @@ Some geographic markets are dominated by regional players or integrated operator
 
 ## Regulatory Risk and Prohibition Reversal
 
-A reversal of state legalization (unlikely but not impossible) or strict enforcement against platforms or delivery would eliminate revenue in affected states overnight. MAPS' geographic diversification is a hedge against this risk: presence in 20+ states means that prohibition in one or two states does not collapse the business. However, if federal legalization reversed (via new administration policy or legislation), the entire business would be at risk.
+A reversal of state legalization (unlikely but not impossible) or strict enforcement against platforms or delivery would eliminate revenue in affected states overnight. MAPS' geographic [diversification](/diversification/) is a hedge against this risk: presence in 20+ states means that prohibition in one or two states does not collapse the business. However, if federal legalization reversed (via new administration policy or legislation), the entire business would be at risk.
 
 Conversely, if more states legalize, MAPS' addressable market expands. Its exposure to near-term legalization risks (New York's post-launch regulatory changes, California's market stabilization) and longer-term expansion opportunities (federal legalization, Texas, the South) determines its growth path.
 

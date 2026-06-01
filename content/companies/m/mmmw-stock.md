@@ -19,7 +19,7 @@ keywords: ["wind power", "renewable energy", "power generation", "wind turbines"
 
 Wind power generation has two core economics. First, the physical fact: a turbine in a windy location with sufficient capacity factor (the percentage of theoretical maximum output it actually generates) can run at low marginal cost. Once built, a turbine has no fuel expense; maintenance is the main variable cost. Second, the financial fact: building a large wind farm requires tens or hundreds of millions of dollars in upfront capital. Projects are long-lived (20–25 years) and depend on stable revenue streams.
 
-That dependence on stable long-term revenue is where policy enters. The U.S. federal government offers tax credits (the Investment Tax Credit and Production Tax Credit) that reduce the net cost of wind projects by 30–40%. Numerous states have renewable portfolio standards—mandates that a certain percentage of electricity sold come from renewable sources, creating artificial demand. Utilities that fail to meet those mandates face penalties or must buy renewable energy credits on secondary markets at a premium.
+That dependence on stable long-term revenue is where policy enters. The U.S. federal government offers tax credits (the Investment Tax Credit and Production Tax Credit) that reduce the net cost of wind projects by 30–40%. Numerous states have renewable portfolio standards—mandates that a certain percentage of electricity sold come from renewable sources, creating artificial demand. Utilities that fail to meet those mandates face penalties or must buy renewable energy credits on [secondary markets](/secondary-market/) at a premium.
 
 MMMW operates in that environment. Its projects are built with the expectation that government support will remain in place for the project lifetime. Changes to tax credit rules, expiration of federal subsidies, or shifts in state renewable mandates can materially alter project returns.
 
@@ -71,7 +71,7 @@ The 10-K discloses the portfolio of wind farms, their age, capacity, and PPA ter
 
 ### Wider context
 
-- [mmi-stock](/mmi-stock/) — commercial real estate brokerage; transaction-driven model
+- [mmi-stock](/mmi-stock/) — [commercial real estate](/commercial-real-estate/) brokerage; transaction-driven model
 - [mmlp-stock](/mmlp-stock/) — midstream energy infrastructure; regulated cash-generative model
 - [mmsi-stock](/mmsi-stock/) — medical devices; technology-driven, capital-light model
 

@@ -21,7 +21,7 @@ keywords: ["offshore drilling", "oil and gas", "jackup rig", "drilling contracto
 
 Borr's economic model is built on one simple metric: the daily rate. An oil operator drilling an offshore well needs a rig. Borr charges a fixed rate per day (or per month, or per contract term) for the rig to be on location, staffed, operational, and ready to drill. A state-of-the-art jackup rig might command $300,000–600,000 per day in a strong market; a smaller or older tender rig might earn $50,000–150,000 per day.
 
-The profit per day is the revenue (daily rate) minus the cost of operating the rig (crew salaries, fuel, maintenance, insurance, mobilization to the well site). If a rig is operating under a $350,000-per-day contract and daily costs run $100,000, the contribution is $250,000 per day. Over a 100-day contract, that is $25 million of contribution against which Borr must cover depreciation, debt service, and corporate overhead.
+The profit per day is the revenue (daily rate) minus the cost of operating the rig (crew salaries, fuel, maintenance, insurance, mobilization to the well site). If a rig is operating under a $350,000-per-day contract and daily costs run $100,000, the contribution is $250,000 per day. Over a 100-day contract, that is $25 million of contribution against which Borr must cover [depreciation](/depreciation/), debt service, and corporate overhead.
 
 The brutal aspect of the rig business is utilization. If a rig is idle (not contracted), it generates zero revenue but still incurs fixed costs—crew wages, insurance, maintenance reserve—eating into profitability. A rig working 330 days per year at $350,000 per day with $100,000 daily costs generates $82.5 million of contribution. The same rig working only 165 days per year generates $41.25 million—half the profit with the same capital asset and large portions of overhead.
 
@@ -33,7 +33,7 @@ High leverage magnifies both upside and downside. In a strong market (high oil p
 
 ## The Cyclical Nature of Rig Economics
 
-The offshore drilling market is procyclical and unforgiving. When crude oil prices are high, operators have strong incentives to develop and produce reserves, and rig demand spikes. When prices collapse, operators cut capital spending sharply and demand for rigs plummets. This cycle is multi-year: a downturn (like 2014–2016, when oil fell to $30–50 per barrel) can keep utilization depressed for years.
+The offshore drilling market is procyclical and unforgiving. When [crude oil](/crude-oil/) prices are high, operators have strong incentives to develop and produce reserves, and rig demand spikes. When prices collapse, operators cut capital spending sharply and demand for rigs plummets. This cycle is multi-year: a downturn (like 2014–2016, when oil fell to $30–50 per barrel) can keep utilization depressed for years.
 
 Borr's earnings, [cash-flow](/free-cash-flow/), and stock price oscillate with this cycle. A reader of BORR's [10-k](/10-k/) should understand: (a) how many rigs does the company operate, (b) what is the current utilization rate (percentage of available days contracted), (c) at what average day rates are rigs contracted, and (d) how much debt must be serviced regardless of utilization. These factors determine whether the company is currently profitable or heading toward losses.
 

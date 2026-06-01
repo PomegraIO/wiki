@@ -31,9 +31,9 @@ The regulatory pathway was complex. HeartBeam's software needed to be cleared by
 
 ## The Arrhythmia Market Context
 
-Atrial fibrillation alone affects millions of people and is a major driver of strokes and hospitalizations. The electrophysiology space had been consolidating among larger medical-device companies—Boston Scientific, Abbott, Medtronic—who dominated catheter ablation. HeartBeam's founding thesis was that a non-invasive alternative could capture part of this enormous market, and that doctors would adopt it for appropriate patients.
+Atrial fibrillation alone affects millions of people and is a major driver of strokes and hospitalizations. The electrophysiology space had been consolidating among larger medical-device companies—[Boston Scientific](/bsx-stock/), Abbott, Medtronic—who dominated catheter ablation. HeartBeam's founding thesis was that a non-invasive alternative could capture part of this enormous market, and that doctors would adopt it for appropriate patients.
 
-This required not just technical excellence but a clear story about when to use non-invasive mapping versus traditional catheter mapping. For screening, for follow-up, for patients who couldn't tolerate invasive procedures, or for initial assessment—these were all plausible niches. But displacing catheter ablation entirely was unlikely; invasive mapping would remain the gold standard for complex arrhythmias requiring precise ablation.
+This required not just technical excellence but a clear story about when to use non-invasive mapping versus traditional catheter mapping. For screening, for follow-up, for patients who couldn't tolerate invasive procedures, or for initial assessment—these were all plausible niches. But displacing catheter ablation entirely was unlikely; invasive mapping would remain the [gold standard](/gold-standard/) for complex arrhythmias requiring precise ablation.
 
 ## The Spin-Out Reality
 

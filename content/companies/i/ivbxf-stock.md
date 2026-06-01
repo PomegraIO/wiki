@@ -4,7 +4,7 @@ description: Chinese biopharmaceutical company developing oncology and immunolog
 keywords: China, biopharmaceutical, oncology, immunology, drug-development, ADR
 ---
 
-*[**Innovent Biologics Inc**](IVBXF) is a Chinese biopharmaceutical firm pursuing discovery and development of monoclonal antibodies and biologics for oncology, immunology, and other therapeutic areas. The company's geographic foundation—China as both operating base and lead market—fundamentally shapes its business model, regulatory pathway, competitive position, and relationship to global pharmaceutical development. US investors access the firm through American Depositary Receipts (ADRs), a structure reflecting the firm's reliance on Chinese regulatory approval and commercial infrastructure.*
+*[**Innovent Biologics Inc**](IVBXF) is a Chinese biopharmaceutical firm pursuing discovery and development of monoclonal antibodies and biologics for oncology, immunology, and other therapeutic areas. The company's geographic foundation—China as both operating base and lead market—fundamentally shapes its business model, regulatory pathway, competitive position, and relationship to global pharmaceutical development. US investors access the firm through [American Depositary Receipts](/adr/) (ADRs), a structure reflecting the firm's reliance on Chinese regulatory approval and commercial infrastructure.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IVBXF</td></tr>
@@ -47,7 +47,7 @@ However, manufacturing a monoclonal antibody or biologic drug in China for distr
 
 ## Currency, Capital Controls, and ADR Structure
 
-Innovent operates in Chinese Yuan but seeks to develop a global business requiring capital in US dollars. China's capital-control regime restricts free movement of currency offshore; this creates a structural mismatch between where the company earns revenue (China, in Yuan) and where it requires capital for global R&D, partnerships, and operations (primarily in dollars).
+Innovent operates in Chinese Yuan but seeks to develop a global business requiring capital in [US dollars](/us-dollar/). China's capital-control regime restricts free movement of currency offshore; this creates a structural mismatch between where the company earns revenue (China, in Yuan) and where it requires capital for global R&D, partnerships, and operations (primarily in dollars).
 
 The ADR structure allows US investors to own shares while the underlying company remains Chinese-registered. This is a geographic workaround enabling the firm to access US capital markets (and investor base) without relisting to a US exchange or restructuring as a US entity. However, it also creates currency translation risk: a depreciating Yuan reduces the dollar-equivalent value of Chinese earnings; US investors bear this risk explicitly.
 

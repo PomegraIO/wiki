@@ -4,7 +4,7 @@ description: "Himalaya Shipping Ltd. operates a fleet of cargo vessels, primaril
 keywords: [shipping, bulk carriers, maritime, shipping industry, cargo vessels, ocean freight]
 ---
 
-*The **Himalaya Shipping Ltd. (HSHP)** owns and operates ships—bulk cargo vessels that carry iron ore, coal, grain, and other raw materials across the world's oceans. Shipping is simple in theory: buy or lease a ship, contract it to carry goods, pocket the difference between freight rates and operating costs. In practice, it is cyclical, capital-intensive, and dependent on global trade volume, fuel prices, and how many ships are in the water chasing the same cargoes. Himalaya Shipping is a small player in an industry dominated by much larger operators. Its survival depends on maintaining its fleet, avoiding major accidents, and capturing profitable contracts in whatever cycle the market is in.*
+*The **Himalaya Shipping Ltd. (HSHP)** owns and operates ships—bulk cargo vessels that carry [iron ore](/iron-ore/), coal, grain, and other raw materials across the world's oceans. Shipping is simple in theory: buy or lease a ship, contract it to carry goods, pocket the difference between freight rates and operating costs. In practice, it is cyclical, capital-intensive, and dependent on global trade volume, fuel prices, and how many ships are in the water chasing the same cargoes. Himalaya Shipping is a small player in an industry dominated by much larger operators. Its survival depends on maintaining its fleet, avoiding major accidents, and capturing profitable contracts in whatever cycle the market is in.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HSHP</td></tr>
@@ -28,7 +28,7 @@ Global shipping faces tightening environmental regulations. The International Ma
 
 ## Seasonality and Trade Cycle Dependence
 
-Bulk shipping is volatile. Seasons matter (agricultural commodity movements peak at harvest). Major economic shifts matter (a recession cuts global trade, pushing rates down for years). Trade wars, shipping container imbalances, canal blockages—all ripple through bulk shipping. When large ships are stranded in the Suez Canal or ports are congested, spot rates for alternative routes spike. When Chinese steel demand falters, iron ore shipments collapse. Himalaya Shipping has no control over these forces. It can only manage fleet utilization, lock in some contracts early, and hope the cycle turns favorable before cash runs out.
+Bulk shipping is volatile. Seasons matter (agricultural commodity movements peak at harvest). Major economic shifts matter (a [recession](/recession/) cuts global trade, pushing rates down for years). [Trade wars](/trade-war/), shipping container imbalances, canal blockages—all ripple through bulk shipping. When large ships are stranded in the Suez Canal or ports are congested, spot rates for alternative routes spike. When Chinese steel demand falters, iron ore shipments collapse. Himalaya Shipping has no control over these forces. It can only manage fleet utilization, lock in some contracts early, and hope the cycle turns favorable before cash runs out.
 
 ## Competition and Scale Disadvantage
 
@@ -40,7 +40,7 @@ Most shipping companies are heavily leveraged. A ship that costs 30 million doll
 
 ## The Exit Question
 
-For a small publicly traded shipping company, the end game is often acquisition. A larger peer buys your fleet and your slots on key routes. Or private equity acquires you and rolls you into a larger platform. Few small shipping companies remain independent for decades. The economics do not support permanent independence; the cycles force consolidation. Himalaya Shipping's long-term value may depend less on sustained profitability and more on whether a buyer emerges willing to pay for the fleet, the contracts, and the operational expertise.
+For a small publicly traded shipping company, the end game is often [acquisition](/acquisition/). A larger peer buys your fleet and your slots on key routes. Or private equity acquires you and rolls you into a larger platform. Few small shipping companies remain independent for decades. The economics do not support permanent independence; the cycles force consolidation. Himalaya Shipping's long-term value may depend less on sustained profitability and more on whether a buyer emerges willing to pay for the fleet, the contracts, and the operational expertise.
 
 <div class="wiki-seealso">
 ### Closely related

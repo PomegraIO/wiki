@@ -17,13 +17,13 @@ keywords: ["bank", "community bank", "Louisiana", "commercial lending", "deposit
 
 ## Geography as Destiny: The Louisiana Economic Exposure
 
-Investar is not nationally diversified; it is rooted in Louisiana's economy — particularly South Louisiana's energy and manufacturing hubs. When oil prices collapse or petrochemical employers contract, lending demand softens, loan-loss provisions spike, and profitability plunges. When regional construction and manufacturing boom, Investar's commercial real-estate loans and working-capital lines grow; net interest margins expand; and loan losses stay benign. The bank's earnings, in other words, are a lagging indicator of the region's employment and credit health.
+Investar is not nationally diversified; it is rooted in Louisiana's economy — particularly South Louisiana's energy and manufacturing hubs. When oil prices collapse or petrochemical employers contract, lending demand softens, loan-loss provisions spike, and profitability plunges. When regional construction and manufacturing boom, Investar's commercial real-estate loans and working-capital lines grow; net interest margins expand; and loan losses stay benign. The bank's earnings, in other words, are a [lagging indicator](/lagging-indicator/) of the region's employment and credit health.
 
 This is the defining trait of a small regional bank: it cannot diversify away its geography. Investar can open a branch in another parish, but it cannot escape South Louisiana. Its fate is its place.
 
 ## The Loan Portfolio: Credit Cycles are the Business Cycle
 
-The core of Investar's profit is the gap between what it pays on deposits and what it earns on loans. That spread is thinnest when the Fed keeps rates low and widest when rates rise — but that macro tail wags only as long as credit quality holds. When recessions arrive, borrowers default, loss-loss allowances grow, and that spread evaporates into provisions. A 5% loan-loss rate in a downturn can wipe out months of margin expansion from higher rates.
+The core of Investar's profit is the gap between what it pays on deposits and what it earns on loans. That spread is thinnest when the Fed keeps rates low and widest when rates rise — but that macro tail wags only as long as credit quality holds. When [recessions](/recession/) arrive, borrowers default, loss-loss allowances grow, and that spread evaporates into provisions. A 5% loan-loss rate in a downturn can wipe out months of margin expansion from higher rates.
 
 Investar's portfolio is concentrated in commercial real-estate loans to small and mid-size businesses, owner-occupied properties, and agricultural credit — precisely the exposures most sensitive to regional economic downturns. A manufacturing plant closing means a property loan turns impaired; a contractor stops bidding; a farm faces cash-flow stress. For Investar, these are not abstract macro events — they are direct hits on its balance sheet.
 
@@ -37,7 +37,7 @@ When the Fed raises rates, Investar earns more on floating-rate loans and repays
 
 ## Scale Limitations: No Recession-Proof Niche
 
-Unlike the largest national banks, which can shift capital across regions and business lines, Investar is a one-market player. It cannot shift lending away from Louisiana; it cannot grow mortgage originations nationally; it cannot launch an investment-banking division. Its only levers are cost-cutting (layoffs) and dividend suspension (capital preservation), both of which signal distress. Growth must come from market share, which requires either acquisition or winning customers during booms—reinforcing the cyclical dependency.
+Unlike the largest national banks, which can shift capital across regions and business lines, Investar is a one-market player. It cannot shift lending away from Louisiana; it cannot grow mortgage originations nationally; it cannot launch an investment-banking division. Its only levers are cost-cutting (layoffs) and dividend suspension (capital preservation), both of which signal distress. Growth must come from market share, which requires either [acquisition](/acquisition/) or winning customers during booms—reinforcing the cyclical dependency.
 
 ## The Secular Headwind: Consolidation
 

@@ -33,7 +33,7 @@ Looking at EVVO's [10-K](/10-k/) filings and proxy statements reveals insider ow
 
 ## Debt and Financial Leverage
 
-A profitable software company can prudently borrow because its cash flows are predictable and growing. Many [enterprise software](/stock/) firms carry modest debt loads—term loans or [corporate bonds](/corporate-bond/)—to fund acquisitions, buybacks, or expansion without fully diluting shareholders. The amount of debt Evvolutions LeadTech carries relative to its [market capitalization](/market-capitalization/) and annual cash flow indicates management's confidence in the business and its appetite for financial leverage.
+A profitable software company can prudently borrow because its cash flows are predictable and growing. Many [enterprise software](/stock/) firms carry modest debt loads—term loans or [corporate bonds](/corporate-bond/)—to fund [acquisitions](/acquisition/), buybacks, or expansion without fully diluting shareholders. The amount of debt Evvolutions LeadTech carries relative to its [market capitalization](/market-capitalization/) and annual cash flow indicates management's confidence in the business and its appetite for financial leverage.
 
 Low or zero debt might signal one of two things: either management prefers to avoid financial risk and fund growth entirely from equity (conservative, but leaves value on the table if debt is cheap), or the company is reinvesting every dollar of cash into growth and expansion. Moderate debt suggests the company is willing to trade financial leverage for capital discipline. High debt in a software company is unusual and often signals either distress (a company in decline that borrowed to fund buybacks or dividends) or an acquisition that was heavily financed.
 
@@ -45,9 +45,9 @@ Once a software company reaches mature cash generation—often years into profit
 
 If Evvolutions LeadTech is in hypergrowth (expanding 20%+ annually), reinvestment is likely the priority. The company plows cash into R&D, product development, sales expansion, and strategic acquisitions. Shareholders benefit not from cash distributions but from the hope that reinvested cash generates higher future growth and [enterprise value](/enterprise-value/).
 
-If EVVO has matured and growth is steadier (5–10% annually), management might introduce [dividends](/dividend/) to attract income-focused investors, or buy back shares to thank long-term holders. Buybacks are particularly attractive when management believes the stock is undervalued relative to intrinsic value; each buyback reduces the number of shares outstanding, so remaining shareholders own a larger percentage and, if earnings hold steady, see [earnings per share](/earnings-per-share/) increase.
+If EVVO has matured and growth is steadier (5–10% annually), management might introduce [dividends](/dividend/) to attract income-focused investors, or buy back shares to thank long-term holders. Buybacks are particularly attractive when management believes the stock is undervalued relative to [intrinsic value](/intrinsic-value/); each buyback reduces the number of shares outstanding, so remaining shareholders own a larger percentage and, if earnings hold steady, see [earnings per share](/earnings-per-share/) increase.
 
-The absence of dividends in a profitable software company is not a red flag—it simply means management thinks growth investing is a better use of capital than returning cash today. However, if a company claims to be mature yet continues to reinvest heavily with no clear return on that capital (declining competitive position, slowing growth, higher R&D with lower output), that could signal capital is being wasted.
+The absence of dividends in a profitable software company is not a red flag—it simply means management thinks [growth investing](/growth-investing/) is a better use of capital than returning cash today. However, if a company claims to be mature yet continues to reinvest heavily with no clear return on that capital (declining competitive position, slowing growth, higher R&D with lower output), that could signal capital is being wasted.
 
 ## Cost of Capital and Valuation
 

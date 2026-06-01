@@ -37,11 +37,11 @@ Corbus's path to commercialization depends on successful completion of clinical 
 
 ## Competitive Landscape and Therapeutic Alternatives
 
-Corbus does not compete in a vacuum. Systemic sclerosis patients have access to conventional immunosuppressants (mycophenolate mofetil, cyclophosphamide), corticosteroids, and supportive therapies. Newer agents (pirfenidone for pulmonary fibrosis, nintedanib for progressive fibrosing interstitial lung disease) extend conventional options. For lupus, a market dominated by large pharma (Pfizer's hydroxychloroquine, GlaxoSmithKline's belimumab, Aurinia's voclosporin), Corbus's cannabinoid drug would face established protocols and provider familiarity with conventional therapies. Payers (insurers, Medicare, Medicaid) typically prefer proven, cost-effective drugs; approval of a novel cannabinoid would require demonstration of clinical superiority or meaningful cost advantage relative to existing options.
+Corbus does not compete in a vacuum. Systemic sclerosis patients have access to conventional immunosuppressants (mycophenolate mofetil, cyclophosphamide), corticosteroids, and supportive therapies. Newer agents (pirfenidone for pulmonary fibrosis, nintedanib for progressive fibrosing interstitial lung disease) extend conventional options. For lupus, a market dominated by large pharma ([Pfizer](/pfe-stock/)'s hydroxychloroquine, GlaxoSmithKline's belimumab, Aurinia's voclosporin), Corbus's cannabinoid drug would face established protocols and provider familiarity with conventional therapies. Payers (insurers, Medicare, Medicaid) typically prefer proven, cost-effective drugs; approval of a novel cannabinoid would require demonstration of clinical superiority or meaningful cost advantage relative to existing options.
 
 ## Capital Intensity and Financing Risk
 
-Clinical-stage biotech companies require sustained capital to fund drug development; Corbus is not cash-generative and depends on dilutive equity financing, debt, or partnerships with larger pharmaceutical companies. Biotech financing is cyclical, and investor appetite for cannabinoid-focused companies fluctuates with changing federal policy, clinical outcomes of competitors, and broader sentiment toward alternative medicine. Funding challenges could delay clinical programs or force unfavorable partnerships that limit Corbus's upside.
+Clinical-stage biotech companies require sustained capital to fund drug development; Corbus is not cash-generative and depends on dilutive [equity financing](/equity-financing/), debt, or partnerships with larger pharmaceutical companies. Biotech financing is cyclical, and investor appetite for cannabinoid-focused companies fluctuates with changing federal policy, clinical outcomes of competitors, and broader sentiment toward alternative medicine. Funding challenges could delay clinical programs or force unfavorable partnerships that limit Corbus's upside.
 
 ## Partnership and Licensing Options
 
@@ -58,7 +58,7 @@ Even if Corbus successfully brings a cannabinoid drug to market, commercializati
 <div class="wiki-seealso">
 ### Closely related
 - Allergan PLC — Diversified pharma with cannabinoid research programs
-- GW Pharmaceuticals — Cannabis-derived therapeutics leader (acquired by Jazz Pharmaceuticals)
+- GW Pharmaceuticals — Cannabis-derived therapeutics leader (acquired by [Jazz Pharmaceuticals](/jazz-stock/))
 
 ### Wider context
 - [Public company](/public-company/)

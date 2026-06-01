@@ -9,7 +9,7 @@ keywords:
   - supply chain
 ---
 
-*MILLERKNOLL manufactures and sells office furniture, contract furnishings, and related products to corporate, institutional, and government customers. The company operates amid cyclical commercial real estate markets, volatile commodity input costs, and intense price competition from global competitors and Chinese manufacturers.*
+*MILLERKNOLL manufactures and sells office furniture, contract furnishings, and related products to corporate, institutional, and government customers. The company operates amid cyclical [commercial real estate](/commercial-real-estate/) markets, volatile commodity input costs, and intense price competition from global competitors and Chinese manufacturers.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>MLKN</td></tr>
@@ -21,13 +21,13 @@ keywords:
 
 ## Cyclical Exposure to Commercial Real Estate
 
-MILLERKNOLL's business is tied to commercial office construction and refurbishment cycles. When corporations and institutions expand or modernize facilities, they purchase office systems, desks, seating, and accessories. During recessions or periods of economic contraction—or when remote work reduces office occupancy—demand for new furniture drops sharply. The company cannot easily predict or insulate itself from these cycles; capital budgets at corporate customers move in lock-step with economic confidence and corporate profit cycles.
+MILLERKNOLL's business is tied to commercial office construction and refurbishment cycles. When corporations and institutions expand or modernize facilities, they purchase office systems, desks, seating, and accessories. During [recessions](/recession/) or periods of economic contraction—or when remote work reduces office occupancy—demand for new furniture drops sharply. The company cannot easily predict or insulate itself from these cycles; capital budgets at corporate customers move in lock-step with economic confidence and corporate profit cycles.
 
 The rise of remote and hybrid work since 2020 has permanently altered office-space dynamics. Many companies reduced office footprints and postponed facility upgrades. This structural shift, if durable, undercuts long-term demand for office furniture. Even if firms return to greater office usage, the pace is uncertain and uneven across industries and geographies.
 
 ## Commodity and Labor Cost Volatility
 
-Furniture manufacturing is material-intensive; MILLERKNOLL depends on steel, foam, textiles, wood, and plastics. Commodity prices fluctuate with global supply and demand, geopolitical events, and inflation. When steel or foam prices spike, MILLERKNOLL's input costs rise. If the company cannot raise prices quickly or faces customer resistance to price increases, margins compress.
+Furniture manufacturing is material-intensive; MILLERKNOLL depends on steel, foam, textiles, wood, and plastics. Commodity prices fluctuate with global supply and demand, geopolitical events, and [inflation](/inflation/). When steel or foam prices spike, MILLERKNOLL's input costs rise. If the company cannot raise prices quickly or faces customer resistance to price increases, margins compress.
 
 Labor is another major cost. Domestic manufacturing facilities in the US require skilled and semi-skilled workers. Wage pressures, union negotiations (if applicable), and labor availability affect unit costs. Automation can reduce labor costs but requires upfront capital investment, which smaller manufacturers may struggle to fund. If MILLERKNOLL falls behind competitors in automation or must absorb higher labor costs, its competitive position weakens.
 

@@ -17,7 +17,7 @@ keywords: biotech, regenerative medicine, cell therapy, clinical trials, orthope
 
 ## The R&D Cliff and Cash-Burn Reality
 
-BRTX's balance sheet is its mortality timer. Without revenue, the company survives by burning cash against a runway. Clinical-stage biotech companies typically burn $10–30 million annually depending on trial enrollment and complexity; regenerative medicine trials, which often require long patient follow-up periods and specialized manufacturing, tend toward the higher end. The company must either complete trials, raise capital, or shut down. Trials slip routinely — enrollment lags, safety signals emerge, patient recruitment proves harder than modeled. Each delay erodes runway and compounds dilution risk as the company returns to capital markets from a weaker negotiating position. BRTX shareholders have been through multiple financing rounds; each dilutes existing holders unless new capital unlocks a material catalyst.
+BRTX's [balance sheet](/balance-sheet/) is its mortality timer. Without revenue, the company survives by burning cash against a runway. Clinical-stage biotech companies typically burn $10–30 million annually depending on trial enrollment and complexity; regenerative medicine trials, which often require long patient follow-up periods and specialized manufacturing, tend toward the higher end. The company must either complete trials, raise capital, or shut down. Trials slip routinely — enrollment lags, safety signals emerge, patient recruitment proves harder than modeled. Each delay erodes runway and compounds dilution risk as the company returns to capital markets from a weaker negotiating position. BRTX shareholders have been through multiple financing rounds; each dilutes existing holders unless new capital unlocks a material catalyst.
 
 ## Clinical Trial Risk and the Regulatory Path
 
@@ -33,7 +33,7 @@ Even if BRTX obtains FDA clearance, payers (insurers, government programs, hospi
 
 ## Capital Availability and Financing Stress
 
-Biotech financing markets are cyclical and sentiment-driven. When investor appetite for early-stage biotech cools — during market downturns, rising interest rates, or periods of sector-wide clinical disappointments — companies like BRTX face a freeze: existing capital sources dry up, and the company must either halt programs or dilute shareholders at punitive terms. BRTX's ability to raise capital hinges on trial momentum. A delay or setback can shift perception from "promising catalyst ahead" to "execution risk ahead," widening financing costs dramatically or closing the door entirely.
+Biotech financing markets are cyclical and sentiment-driven. When investor appetite for early-stage biotech cools — during market downturns, rising [interest rates](/interest-rate/), or periods of sector-wide clinical disappointments — companies like BRTX face a freeze: existing capital sources dry up, and the company must either halt programs or dilute shareholders at punitive terms. BRTX's ability to raise capital hinges on trial momentum. A delay or setback can shift perception from "promising catalyst ahead" to "execution risk ahead," widening financing costs dramatically or closing the door entirely.
 
 ## Competitive Displacement Risk
 
@@ -41,13 +41,13 @@ Regenerative medicine is crowded with venture-backed and public companies. Large
 
 ## Key Filings and Monitoring
 
-BRTX's [10-k](/10-k/) and quarterly reports detail trial enrollment, cash runway, burn rate, and clinical program timelines. Investors should read FDA meeting minutes (released by the company) and watch for press releases on trial milestones. Clinical-stage biotech transparency is limited — much rides on the company's characterization of trial progress. Watch cash flow statements obsessively: if burn is accelerating or runway is unexpectedly short, the next raise may be closer and more dilutive than current expectations suggest. SEC filings also detail intellectual property, patent expirations, and licensing agreements that underpin the commercial case.
+BRTX's [10-k](/10-k/) and quarterly reports detail trial enrollment, cash runway, burn rate, and clinical program timelines. Investors should read FDA meeting minutes (released by the company) and watch for press releases on trial milestones. Clinical-stage biotech transparency is limited — much rides on the company's characterization of trial progress. Watch [cash flow statements](/cash-flow-statement/) obsessively: if burn is accelerating or runway is unexpectedly short, the next raise may be closer and more dilutive than current expectations suggest. SEC filings also detail intellectual property, patent expirations, and licensing agreements that underpin the commercial case.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - [brun-stock](/brun-stock/) — another microcap with execution risk and pathway dependencies
-- [brvo-stock](/brvo-stock/) — exposure to different but equally acute business model risks
+- [brvo-stock](/brvo-stock/) — exposure to different but equally acute business [model risks](/model-risk/)
 
 ### Wider context
 - [initial-public-offering](/initial-public-offering/) — biotech IPO venues and capital markets dynamics

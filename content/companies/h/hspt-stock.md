@@ -4,7 +4,7 @@ description: "A second blank-check company from the same sponsor team, pursuing 
 keywords: ["SPAC", "space", "aerospace", "acquisition", "blank-check company"]
 ---
 
-*Sponsored by the same management team behind Horizon Space Acquisition I, **Horizon Space Acquisition II Corp.** (HSPT, CIK 2032950) represents a parallel capital-raising vehicle in the space sector, illustrating a pattern familiar in SPAC history where successful or credentialed sponsors launch multiple blank-check vehicles simultaneously to diversify deal risk and scale capital deployment. Unlike a single-fund manager raising one SPAC, this sponsor pursues two concurrent mergers, creating potential conflicts and forcing a parsing of what makes each target attractive.*
+*Sponsored by the same management team behind Horizon Space [Acquisition](/acquisition/) I, **Horizon Space Acquisition II Corp.** (HSPT, CIK 2032950) represents a parallel capital-raising vehicle in the space sector, illustrating a pattern familiar in SPAC history where successful or credentialed sponsors launch multiple blank-check vehicles simultaneously to diversify deal risk and scale capital deployment. Unlike a single-fund manager raising one SPAC, this sponsor pursues two concurrent [mergers](/merger/), creating potential conflicts and forcing a parsing of what makes each target attractive.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HSPT</td></tr>
@@ -18,7 +18,7 @@ keywords: ["SPAC", "space", "aerospace", "acquisition", "blank-check company"]
 
 The decision to launch two SPACs instead of one reflects a sponsor's confidence and appetite for deal velocity. In traditional private equity, a manager might raise Fund I and Fund II concurrently, each with its own capital base and investment mandate. SPACs operate similarly: a sponsor with strong track record and capital access can raise multiple blank-check entities, targeting different subsegments of a sector or geographic regions.
 
-This approach reduces concentration risk. If Horizon Space Acquisition I's deal closes below expectations, Horizon Space Acquisition II remains independent, still hunting for a more attractive combination. Conversely, the sponsor achieves leverage: two deal teams, twice the management bandwidth, and the ability to present multiple attractive combinations to different target companies. A space-tech founder might choose one vehicle over another based on which SPAC's terms, post-merger capital availability, or sponsor expertise aligns better with execution strategy.
+This approach reduces [concentration risk](/concentration-risk/). If [Horizon Space Acquisition I](/hspof-stock/)'s deal closes below expectations, Horizon Space Acquisition II remains independent, still hunting for a more attractive combination. Conversely, the sponsor achieves leverage: two deal teams, twice the management bandwidth, and the ability to present multiple attractive combinations to different target companies. A space-tech founder might choose one vehicle over another based on which SPAC's terms, post-merger capital availability, or sponsor expertise aligns better with execution strategy.
 
 The drawback emerges in shareholder conflicts. If both HSPOF and HSPT pursue the same target, the sponsor must choose which vehicle moves forward—subordinating one pool of investors. More likely, the sponsor steers each SPAC toward distinct targets to avoid internal bidding wars. This creates asymmetry in deal sourcing: neither SPAC receives priority access to all opportunities; each receives a curated deal flow.
 
@@ -32,7 +32,7 @@ HSPT's comparables, therefore, are not other aerospace companies or even HSPOF i
 
 ## Capital Sufficiency and Deal Timing
 
-Both HSPOF and HSPT presumably raised capital within the same fund cycle, likely with similar terms and investors. That simultaneity creates timing pressure: the sponsor must complete both mergers within the SPAC window or face redemptions and forced liquidations. If market conditions shift—capital markets freeze, the space sector narrative falters, or interesting targets become unavailable—the sponsor may be forced to merge at suboptimal terms with HSPT, or walk away.
+Both HSPOF and HSPT presumably raised capital within the same fund cycle, likely with similar terms and investors. That simultaneity creates timing pressure: the sponsor must complete both mergers within the SPAC window or face redemptions and forced [liquidations](/liquidation/). If market conditions shift—capital markets freeze, the space sector narrative falters, or interesting targets become unavailable—the sponsor may be forced to merge at suboptimal terms with HSPT, or walk away.
 
 Compare this to a traditional company or a single SPAC: timing pressure is lower because the entity is not racing against a ticking clock. A single-SPAC sponsor can walk away from a poor deal; a multi-SPAC sponsor juggling two redemption deadlines may not enjoy that luxury. This creates latent risk in HSPT: the eventual deal may be chosen because timing forced the sponsor's hand, not because it was the optimal target.
 
@@ -44,7 +44,7 @@ This creates divergent shareholder bases: HSPOF might attract the sponsor's most
 
 ## Sponsor Economics and Alignment
 
-The sponsor earns founder shares and a promote on both HSPOF and HSPT. This creates powerful incentive to complete both deals, because each successful merger generates a carried interest payout. However, it can also misalign sponsor and public shareholder interests: a mediocre deal that closes generates sponsor returns while diluting public shareholders who have endured years of waiting.
+The sponsor earns [founder shares](/founder-shares/) and a promote on both HSPOF and HSPT. This creates powerful incentive to complete both deals, because each successful merger generates a carried interest payout. However, it can also misalign sponsor and public shareholder interests: a mediocre deal that closes generates sponsor returns while diluting public shareholders who have endured years of waiting.
 
 The difference between a single SPAC and sister vehicles is meaningful here. A sponsor running one SPAC can afford to be selective; a sponsor managing two is incentivized to move capital and collect fees. HSPT shareholders implicitly bet that the sponsor's judgment improves when managing multiple vehicles, or at minimum stays consistent. In practice, sponsors tend to be cautious across vehicles (protecting reputation) or aggressive across vehicles (deploying capital quickly). HSPT's valuation relative to HSPOF often reflects investor sentiment about the sponsor team's reputation and likelihood of disciplined target selection.
 

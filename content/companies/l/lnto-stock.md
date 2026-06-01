@@ -50,7 +50,7 @@ Manufacturing changes—new suppliers, process modifications, facility relocatio
 
 ## Intellectual Property and Patent Strategy
 
-LELANTOS' drugs are protected by utility patents covering the chemical composition, method of use, or formulation. Patent strategy is intertwined with FDA approval: the company can request patent term extension (up to five years beyond the patent expiration date) if FDA approval delayed the effective patent life. A drug that took eight years to develop and gain approval before patent expiration may qualify for extension, effectively prolonging exclusivity.
+LELANTOS' drugs are protected by utility patents covering the chemical composition, method of use, or formulation. Patent strategy is intertwined with FDA approval: the company can request patent term extension (up to five years beyond the patent [expiration date](/expiration-date/)) if FDA approval delayed the effective patent life. A drug that took eight years to develop and gain approval before patent expiration may qualify for extension, effectively prolonging exclusivity.
 
 The FDA also grants data exclusivity: for a period (often five years for new chemical entities), competitors cannot reference LELANTOS' clinical trial data in their own NDAs, even if the patent has expired. This regulatory protection is distinct from patent protection and can be equally valuable. Some drugs lose patent protection but retain market dominance for years due to data exclusivity, because competitors cannot easily generate the evidence to support their own generic or biosimilar versions.
 

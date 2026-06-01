@@ -22,7 +22,7 @@ This hybrid model is not accidental. Small biotechs in Bioquest's lifecycle stag
 
 ## Revenue Sources and the Cash Burn Cadence
 
-The income statement typically shows two streams: contract and service revenue (from pharma companies, research institutes, and sometimes government grants), and minimal or zero revenue from proprietary programs still in preclinical or early clinical stages. Bioquest's burn rate—the amount of cash consumed monthly—is the crucial metric investors track; it determines how many quarters of independence remain before the company must raise again or achieve a milestone that improves valuation.
+The [income statement](/income-statement/) typically shows two streams: contract and service revenue (from pharma companies, research institutes, and sometimes government grants), and minimal or zero revenue from proprietary programs still in preclinical or early clinical stages. Bioquest's burn rate—the amount of cash consumed monthly—is the crucial metric investors track; it determines how many quarters of independence remain before the company must raise again or achieve a milestone that improves valuation.
 
 Contract work revenue, while lower-margin than a marketed drug, provides optionality. It pays current salaries and supplies, reduces the need for frequent capital raises, and—if the company executes well—generates reputation and relationships that can accelerate partnerships or licensing deals. The trap biotech startups fall into is allowing services revenue to become a distraction from core drug development, or allowing it to so dominate the portfolio that investors lose faith in the firm's ability to develop proprietary assets. Bioquest's balance requires navigating this precisely.
 
@@ -36,7 +36,7 @@ The regulatory environment shapes the business profoundly: patent expiration win
 
 ## The Dilution and Valuation Question
 
-Most biotech startups at Bioquest's stage have raised multiple equity rounds, each at a higher (or sometimes lower) valuation than the last, with accompanying dilution to founders and earlier investors. Common [stock](/stock/) held by founders and employees is vastly outnumbered by preferred shares held by venture and institutional investors; liquidation preferences in venture rounds mean that in a downside scenario (low acquisition price or bankruptcy), earlier investors are made whole before common holders receive anything.
+Most biotech startups at Bioquest's stage have raised multiple equity rounds, each at a higher (or sometimes lower) valuation than the last, with accompanying dilution to founders and earlier investors. Common [stock](/stock/) held by founders and employees is vastly outnumbered by preferred shares held by venture and institutional investors; [liquidation preferences](/liquidation-preference/) in venture rounds mean that in a downside scenario (low [acquisition](/acquisition/) price or bankruptcy), earlier investors are made whole before common holders receive anything.
 
 The pressure to raise capital again is relentless. A biotech with two years of runway and no partnering agreement must begin fund-raising activities eighteen months into that runway or risk running out before the next milestone is achieved. The valuation at the next round depends on progress (data generated, partnerships announced, regulatory feedback), the market environment (venture capital appetite for biotech waxes and wanes), and the company's burn rate (faster burn is worse, as it implies larger dilution for the same amount of capital raised).
 

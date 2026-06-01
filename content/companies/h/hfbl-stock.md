@@ -35,19 +35,19 @@ The cost of deposits is low, but it is not free. Banks must pay for infrastructu
 
 ## Scale and Competitive Position
 
-Community banks like Home Federal Bancorp are squeezed from above and below. Large national banks (JPMorgan Chase, Bank of America) offer convenience, investment services, and the ability to refinance mortgages at better rates because of their scale. Digital-native lenders and fintech platforms offer frictionless mortgage origination and instant funding. Meanwhile, local banks must maintain physical branches, hire experienced credit officers, and handle regulatory compliance—all expensive per dollar of loans.
+Community banks like Home Federal Bancorp are squeezed from above and below. Large national banks ([JPMorgan Chase](/jpmorgan-chase/), [Bank of America](/bank-of-america/)) offer convenience, investment services, and the ability to refinance mortgages at better rates because of their scale. Digital-native lenders and fintech platforms offer frictionless mortgage origination and instant funding. Meanwhile, local banks must maintain physical branches, hire experienced credit officers, and handle regulatory compliance—all expensive per dollar of loans.
 
-Home Federal Bancorp survives by being embedded in its local market. It knows local real-estate values, local business owners, and local credit patterns better than a national bank ever could. It can make credit decisions faster and with fewer bureaucratic delays. It offers a relationship, not a transaction. This is sufficient in markets where borrowers value speed and local judgment over rock-bottom rates, but it is fragile against any challenger that can undercut on price or convenience.
+Home Federal Bancorp survives by being embedded in its local market. It knows local real-estate values, local business owners, and local credit patterns better than a [national bank](/nbhc-stock/) ever could. It can make credit decisions faster and with fewer bureaucratic delays. It offers a relationship, not a transaction. This is sufficient in markets where borrowers value speed and local judgment over rock-bottom rates, but it is fragile against any challenger that can undercut on price or convenience.
 
 ## Interest-Rate Sensitivity
 
-The profitability of banks like HFBL is highly sensitive to [interest rates](/interest-rate/). When the Federal Reserve sets short-term rates low, banks fund deposits cheaply, but they also offer lower mortgage rates (because mortgage rates track the broader yield curve). When rates are high, mortgages earn more, but deposits cost more to keep. The ideal scenario for a bank is when it can lock in long-term mortgages at high rates while funding them with low-cost deposits—but this happens only during a rising-rate environment that is brief.
+The profitability of banks like HFBL is highly sensitive to [interest rates](/interest-rate/). When the [Federal Reserve](/federal-reserve/) sets short-term rates low, banks fund deposits cheaply, but they also offer lower mortgage rates (because mortgage rates track the broader [yield curve](/yield-curve/)). When rates are high, mortgages earn more, but deposits cost more to keep. The ideal scenario for a bank is when it can lock in long-term mortgages at high rates while funding them with low-cost deposits—but this happens only during a rising-rate environment that is brief.
 
 A sustained period of very low rates pressures profitability. A sudden rate spike can trap the bank: it may have locked in a portfolio of 3% mortgages before rates rose, and now it must fund those mortgages with 5% deposits, losing money on new customers. Home Federal Bancorp must manage this risk through careful [balance-sheet](/balance-sheet/) positioning, hedging strategies, and loan-pricing discipline.
 
 ## Regulatory Burden and Capital Requirements
 
-As a bank, HFBL is regulated by the Federal Deposit Insurance Corporation (FDIC), the Office of the Comptroller of the Currency (OCC), and the Federal Reserve, depending on its charter. It must maintain minimum capital ratios (typically 10% or higher of risk-weighted assets) and undergo regular stress tests and examinations. Regulatory compliance is costly—legal, audit, and risk management—and is often harder to scale than lending itself.
+As a bank, HFBL is regulated by the [Federal Deposit Insurance Corporation](/federal-deposit-insurance-corporation/) (FDIC), the [Office of the Comptroller of the Currency](/office-of-the-comptroller-of-the-currency/) (OCC), and the Federal Reserve, depending on its charter. It must maintain minimum capital ratios (typically 10% or higher of risk-weighted assets) and undergo regular stress tests and examinations. Regulatory compliance is costly—legal, audit, and risk management—and is often harder to scale than lending itself.
 
 This regulatory moat protects Home Federal Bancorp from non-bank competitors, but it also raises the cost of operations and constrains how aggressively the bank can price lending or growth.
 
@@ -55,7 +55,7 @@ This regulatory moat protects Home Federal Bancorp from non-bank competitors, bu
 
 Community banks are under structural pressure. The number of U.S. banks has declined from 12,000 in 1985 to around 4,000 today. Consolidation is ongoing. A small, Louisiana-focused bank must prove it can earn returns above its cost of capital, even in a low-rate environment, and must compete against larger, more-efficient rivals. The bank's survival depends on its credit quality (how few loans go bad), its deposit costs (how much it must pay to fund lending), and its operational efficiency (how cheap it can run per dollar lent).
 
-HFBL's future will likely be shaped by whether it can grow profitably in its region or whether it becomes an acquisition target for a larger regional or national bank. [SEC filings](/securities-and-exchange-commission/) and annual [10-K](/10-k/) reports detail the bank's loan portfolio, deposit base, and capital position, offering investors a window into these dynamics.
+HFBL's future will likely be shaped by whether it can grow profitably in its region or whether it becomes an [acquisition](/acquisition/) target for a larger regional or national bank. [SEC filings](/securities-and-exchange-commission/) and annual [10-K](/10-k/) reports detail the bank's loan portfolio, deposit base, and capital position, offering investors a window into these dynamics.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -11,7 +11,7 @@ handwritten: true
 
 LQR House Inc. (ticker YHC, traded on [NASDAQ](/nasdaq/)) is a specialized digital platform and marketing services company focused on the alcoholic beverage market. Founded in 2021 and headquartered in Miami Beach, Florida, the company has positioned itself at the intersection of ecommerce and brand marketing, offering both direct consumer sales channels and performance-based promotional services to distilleries, wineries, and spirit brands seeking growth in an increasingly digital market.
 
-The core of LQR House's operation rests on two complementary business pillars: an owned ecommerce platform (CWSpirits.com, acquired in 2023) where consumers purchase wine and spirits directly, and a marketing services division that helps beverage brands reach and engage [target](/tgt-stock/) audiences. This hybrid model creates a feedback loop—the company's marketing drives traffic to its platform, while platform data informs and validates the effectiveness of marketing campaigns.
+The core of LQR House's operation rests on two complementary business pillars: an owned ecommerce platform (CWSpirits.com, acquired in 2023) where consumers purchase wine and spirits directly, and a marketing services division that helps beverage brands reach and engage target audiences. This hybrid model creates a feedback loop—the company's marketing drives traffic to its platform, while platform data informs and validates the effectiveness of marketing campaigns.
 
 ## Revenue Architecture and Market Position
 

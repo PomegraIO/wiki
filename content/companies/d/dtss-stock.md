@@ -24,7 +24,7 @@ Technology companies face a critical customer-concentration risk. If DTSS has 10
 
 ## Churn and Retention Metrics
 
-For subscription-revenue businesses, churn rate—the percentage of customers who cancel each period—is the dominant economic metric. A SaaS company with 100 customers at $10,000 per year and 20% annual churn loses $200,000 in revenue annually just from customer defection. It must acquire 20 new customers to stay even. A company that cannot grow faster than its churn is on a runway to zero. Retention is therefore more important than acquisition: a company with 90% annual churn that spends aggressively on sales is unprofitable and will run out of capital. A company with 95% annual churn and low-cost sales (primarily word-of-mouth) can be profitable and growing. DTSS's customer-retention metrics, disclosed in earnings calls or investor presentations, reveal whether the business is fundamentally healthy or in distress.
+For subscription-revenue businesses, churn rate—the percentage of customers who cancel each period—is the dominant economic metric. A SaaS company with 100 customers at $10,000 per year and 20% annual churn loses $200,000 in revenue annually just from customer defection. It must acquire 20 new customers to stay even. A company that cannot grow faster than its churn is on a runway to zero. Retention is therefore more important than [acquisition](/acquisition/): a company with 90% annual churn that spends aggressively on sales is unprofitable and will run out of capital. A company with 95% annual churn and low-cost sales (primarily word-of-mouth) can be profitable and growing. DTSS's customer-retention metrics, disclosed in earnings calls or investor presentations, reveal whether the business is fundamentally healthy or in distress.
 
 ## Pricing Power and Net-Revenue Retention
 
@@ -32,7 +32,7 @@ A software company with strong pricing power can raise prices on existing custom
 
 ## Cloud Infrastructure Costs and Scalability
 
-If DTSS operates cloud services, its cost structure includes cloud hosting, data-center bandwidth, and data-storage fees (typically to AWS, Azure, or Google Cloud). These costs scale with customer usage and data volume. A company with growing customers and increasing data storage faces rising infrastructure costs that must be managed aggressively through optimization and architectural efficiency. Poor cost management can erase margins even as revenue grows—a trap called "growing into insolvency." Efficient data-center operators maintain infrastructure costs at 10–15% of revenue; inefficient ones can reach 40% or higher. DTSS's cost-of-revenue will signal infrastructure efficiency.
+If DTSS operates cloud services, its cost structure includes cloud hosting, data-center bandwidth, and data-storage fees (typically to AWS, Azure, or Google Cloud). These costs scale with customer usage and data volume. A company with growing customers and increasing [data storage](/dtst-stock/) faces rising infrastructure costs that must be managed aggressively through optimization and architectural efficiency. Poor cost management can erase margins even as revenue grows—a trap called "growing into insolvency." Efficient data-center operators maintain infrastructure costs at 10–15% of revenue; inefficient ones can reach 40% or higher. DTSS's cost-of-revenue will signal infrastructure efficiency.
 
 ## R&D Investment and Product Competitiveness
 
@@ -40,7 +40,7 @@ Technology companies must continually invest in product development to remain co
 
 ## International or Multi-Currency Exposure
 
-If DTSS operates globally and prices in local currencies or earns revenue in non-dollar markets, it faces foreign-exchange translation risk. A strong US dollar increases the US-dollar value of foreign costs while reducing the dollar equivalent of foreign revenue. This can create volatility in reported [earnings-per-share](/earnings-per-share/) independent of operational performance. Some software companies hedge currency exposure; others accept the volatility as a cost of serving global markets.
+If DTSS operates globally and prices in local currencies or earns revenue in non-dollar markets, it faces foreign-exchange translation risk. A strong [US dollar](/us-dollar/) increases the US-dollar value of foreign costs while reducing the dollar equivalent of foreign revenue. This can create volatility in reported [earnings-per-share](/earnings-per-share/) independent of operational performance. Some software companies hedge currency exposure; others accept the volatility as a cost of serving global markets.
 
 ## Sales Efficiency and Customer Acquisition Cost
 
@@ -48,7 +48,7 @@ A technology company's sustainability depends on the ratio of customer acquisiti
 
 ## What to Analyze in the 10-K
 
-Readers evaluating DTSS should examine: (1) revenue recognition policy (subscription vs. services vs. mixed), which reveals the cash-flow predictability; (2) customer-concentration disclosures (often in MD&A or Risk Factors), which signal fragility; (3) gross margin trends and cost-of-revenue breakdown, which show operating-leverage improvement or deterioration; (4) deferred revenue balance, which represents future cash from customers already committed; (5) churn and net-revenue retention disclosures, which forecast growth sustainability; (6) operating-expense breakdown (R&D, sales, general & administrative), which reveals how management is allocating resources; and (7) capital efficiency metrics (CAC payback, LTV-to-CAC ratio), which determine whether growth is profitable.
+Readers evaluating DTSS should examine: (1) [revenue recognition policy](/revenue-recognition-policy/) (subscription vs. services vs. mixed), which reveals the cash-flow predictability; (2) customer-concentration disclosures (often in MD&A or Risk Factors), which signal fragility; (3) gross margin trends and cost-of-revenue breakdown, which show operating-leverage improvement or deterioration; (4) deferred revenue balance, which represents future cash from customers already committed; (5) churn and net-revenue retention disclosures, which forecast growth sustainability; (6) operating-expense breakdown (R&D, sales, general & administrative), which reveals how management is allocating resources; and (7) capital efficiency metrics (CAC payback, LTV-to-CAC ratio), which determine whether growth is profitable.
 
 <div class="wiki-seealso">
 ### Closely related

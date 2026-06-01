@@ -26,7 +26,7 @@ MBX Biosciences is a biopharmaceutical company in the clinical stage of developm
 
 ## The peptide approach to metabolic disease
 
-MBX Biosciences builds its pipeline around peptide chemistry—proteins synthesized in the laboratory to mimic natural signaling molecules in the human body. Peptides are particularly suited to treating endocrine disorders because they can [target](/tgt-stock/) specific receptors in the body's hormone systems with precision. Unlike small-molecule drugs, which tend to be chemical compounds that bind broadly across multiple targets, peptides offer the potential for specificity, which can reduce off-target side effects and improve the therapeutic window.
+MBX Biosciences builds its pipeline around peptide chemistry—proteins synthesized in the laboratory to mimic natural signaling molecules in the human body. Peptides are particularly suited to treating endocrine disorders because they can target specific receptors in the body's hormone systems with precision. Unlike small-molecule drugs, which tend to be chemical compounds that bind broadly across multiple targets, peptides offer the potential for specificity, which can reduce off-target side effects and improve the therapeutic window.
 
 The company's strategic focus is on the growing market for treatments addressing obesity and metabolic syndrome. These conditions represent a substantial and growing medical need, as obesity rates have risen globally and the health complications tied to obesity—diabetes, cardiovascular disease, fatty liver disease—have multiplied. The emergence of GLP-1 receptor agonist therapies (such as Ozempic and Wegovy) has established both patient demand and regulatory pathways for this category, drawing many companies including MBX into the space.
 

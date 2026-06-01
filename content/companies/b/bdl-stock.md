@@ -31,13 +31,13 @@ Casual dining restaurants operate on thin [operating-margin](/operating-margin/)
 
 Flanigans' concentration in South Florida matters operationally and competitively. South Florida has high labor costs (higher minimum wage, skilled labor scarcity) and high rent (tourist and residential demand inflates real estate). These pressures compress [gross-profit-margin](/gross-profit-margin/) versus companies with presence in lower-cost regions. To offset this, Flanigans must either achieve higher per-unit revenue (premium pricing, higher traffic) or maintain tight operational discipline.
 
-Geographic concentration also creates market risk: economic downturns, demographic shifts, or competitive saturation in South Florida directly impacts restaurant utilization. A company with national presence can offset weakness in one region with strength in another; Flanigans cannot.
+Geographic concentration also creates [market risk](/market-risk/): economic downturns, demographic shifts, or competitive saturation in South Florida directly impacts restaurant utilization. A company with national presence can offset weakness in one region with strength in another; Flanigans cannot.
 
 ## Distribution Segment: Wholesale Margin and Volume
 
 The distribution business is fundamentally about **scale and territory**. A distributor earns margin on every dollar of wholesale goods it moves. Larger distributors with better supplier relationships (volume discounts from breweries and importers) and lower logistics costs per dollar delivered earn higher margins than small competitors. Flanigans' geographic focus on South Florida limits distribution scale relative to national players; however, supplying its own restaurants guarantees steady, predictable volume—a valuable characteristic for a wholesaler.
 
-Distribution also requires working-capital efficiency and logistics optimization. A distributor must carry inventory (beer, wine, spirits have shelf life and require proper storage), manage delivery routes, and maintain sales relationships with hundreds of on-premise and retail accounts. This working capital (inventory, accounts receivable) is a drag on cash flow; the larger the business, the larger the working-capital requirement.
+Distribution also requires working-capital efficiency and logistics optimization. A distributor must carry inventory (beer, wine, spirits have shelf life and require proper storage), manage delivery routes, and maintain sales relationships with hundreds of on-premise and retail accounts. This working capital (inventory, [accounts receivable](/accounts-receivable/)) is a drag on cash flow; the larger the business, the larger the working-capital requirement.
 
 Flanigans' risk is that large national distributors (with billions in volume) can undercut regional wholesalers on price, or that consolidation among beer producers and importers squeezes distributor margins. Margins in the distribution business are cyclical and vulnerable to commoditization.
 

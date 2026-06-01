@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Custom mineral processing and toll milling for precious metals recovery.** American Clean Resources Group operates as an exploration-stage company focused on establishing a specialized toll milling facility. The firm plans to offer custom processing and permitted milling services for gold, silver, and platinum group metals—materials often recovered from electronic waste, mining concentrates, and other mineral sources that require specialized metallurgical treatment.
+**Custom mineral processing and toll milling for precious metals recovery.** American Clean Resources Group operates as an exploration-stage company focused on establishing a specialized toll milling facility. The firm plans to offer custom processing and permitted milling services for gold, silver, and [platinum group metals](/plg-stock/)—materials often recovered from electronic waste, mining concentrates, and other mineral sources that require specialized metallurgical treatment.
 
 ## The Facility and Process
 

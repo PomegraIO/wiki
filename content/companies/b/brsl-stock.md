@@ -21,13 +21,13 @@ A lottery or gaming business model is distinct from most other industries becaus
 
 The take-rate is either set by regulation (state and local authorities permit lottery operators to retain no more than X% of wagers) or market-determined (in unregulated or lightly regulated jurisdictions). In many cases, regulatory caps exist to ensure that an adequate portion of wagered funds flows to state education, infrastructure, or charitable causes. Brightstar's profitability is therefore bounded by the regulatory take-rate and by achieving sufficient wagering volume to absorb its operating costs.
 
-The gross profit on $100 million wagered at a 30% take-rate is $30 million. The operating cost to run the lottery—personnel, technology infrastructure, fraud prevention, retailer commissions, marketing, and compliance—typically ranges from $3 million to $8 million, depending on scale and distribution complexity. Operating margin, before taxes, is therefore 70–80% of gross take, an exceptionally high margin compared to most industries. The profitability lever is volume: every marginal dollar wagered adds close to the full take-rate as incremental profit.
+The gross profit on $100 million wagered at a 30% take-rate is $30 million. The operating cost to run the lottery—personnel, technology infrastructure, fraud prevention, retailer commissions, marketing, and compliance—typically ranges from $3 million to $8 million, depending on scale and distribution complexity. [Operating margin](/operating-margin/), before taxes, is therefore 70–80% of gross take, an exceptionally high margin compared to most industries. The profitability lever is volume: every marginal dollar wagered adds close to the full take-rate as incremental profit.
 
 ## Customer Acquisition and Retention Dynamics
 
-Unlike most consumer businesses, lottery and gaming have natural customer acquisition advantages: players are motivated by the possibility of a large payoff, and lottery play is often habitual. A player who buys one ticket is likely to buy again; lottery operators benefit from this inherent stickiness without heavy marketing spend.
+Unlike most consumer businesses, lottery and gaming have natural customer [acquisition](/acquisition/) advantages: players are motivated by the possibility of a large payoff, and lottery play is often habitual. A player who buys one ticket is likely to buy again; lottery operators benefit from this inherent stickiness without heavy marketing spend.
 
-However, competition for share-of-wallet is real. Players have finite discretionary spending, and a saturated market with many gaming options (state lotteries, casinos, online betting platforms, fantasy sports) means that Brightstar competes for player attention and wagering. Customer acquisition cost (CAC) varies by channel: retail lottery tickets through convenience stores require minimal marketing (the retailer's location and signage suffice); online wagering requires digital marketing and app distribution; scratch-off games and promotional gimmicks require targeted advertising.
+However, competition for share-of-wallet is real. Players have finite [discretionary spending](/discretionary-spending/), and a saturated market with many gaming options (state lotteries, casinos, online betting platforms, fantasy sports) means that Brightstar competes for player attention and wagering. Customer acquisition cost (CAC) varies by channel: retail lottery tickets through convenience stores require minimal marketing (the retailer's location and signage suffice); online wagering requires digital marketing and app distribution; scratch-off games and promotional gimmicks require targeted advertising.
 
 Retention depends on jackpot sizes, player experience, brand recognition, and the psychological appeal of the game. Some lottery products (e.g., Powerball in the U.S.) have multi-state scale, allowing them to build massive jackpots that attract casual and regular players. A smaller operator must compete on game variety, frequency of wins, or geographic convenience.
 
@@ -65,7 +65,7 @@ Lottery operators hold large prize liabilities. If Brightstar has sold tickets w
 
 ### Wider context
 - Gaming and wagering economics (when available)
-- Regulatory licensing and franchise model risk (when available)
+- Regulatory licensing and franchise [model risk](/model-risk/) (when available)
 - Consumer psychology and habit formation in discretionary spending (when available)
 
 </div>

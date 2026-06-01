@@ -34,7 +34,7 @@ This dual oversight creates complexity. FMFG must ensure that its holding-compan
 
 ## Debt Issuance at the Holding Company Level
 
-FMFG can issue [corporate debt](/corporate-bond/)—notes or bonds—to capital markets. That debt is held by lenders and investors, not customers. It provides capital for the holding company to inject into subsidiaries, fund acquisitions of other banks, or return capital to shareholders. The debt is typically unsecured, meaning it is not backed by specific collateral; instead, it is backed by the consolidated earnings and assets of FMFG and its subsidiaries.
+FMFG can issue [corporate debt](/corporate-bond/)—notes or [bonds](/bond/)—to capital markets. That debt is held by lenders and investors, not customers. It provides capital for the holding company to inject into subsidiaries, fund [acquisitions](/acquisition/) of other banks, or return capital to shareholders. The debt is typically unsecured, meaning it is not backed by specific collateral; instead, it is backed by the consolidated earnings and assets of FMFG and its subsidiaries.
 
 Because the holding company's credit quality rests on the subsidiaries' health, lenders care about the banks' loan quality, capital ratios, and deposit stability. A holding company with weak subsidiaries will find debt markets closed or will face very high borrowing costs. Conversely, a holding company with profitable, well-capitalized subsidiaries and stable deposits can borrow at reasonable rates.
 
@@ -42,7 +42,7 @@ Because the holding company's credit quality rests on the subsidiaries' health, 
 
 FMFG's [common stock](/common-stock/) represents public ownership of the holding company and, indirectly, its subsidiaries. The holding company typically retains 70–90% of consolidated earnings, allowing equity to grow from accumulated profits. That growth in equity provides the capital buffer regulators demand and supports subsidiary growth without external equity raises, which would dilute existing shareholders.
 
-New equity issuances are rare except for acquisitions. If FMFG wants to acquire another bank or bank holding company, it might issue new stock to fund the acquisition, diluting existing shareholders. But for organic growth and routine operations, the holding company prefers retained earnings to equity dilution. As a result, FMFG's equity grows steadily from reinvested profits, a process that compounds over decades.
+New equity issuances are rare except for acquisitions. If FMFG wants to acquire another bank or bank holding company, it might issue new stock to fund the acquisition, diluting existing shareholders. But for organic growth and routine operations, the holding company prefers [retained earnings](/retained-earnings/) to equity dilution. As a result, FMFG's equity grows steadily from reinvested profits, a process that compounds over decades.
 
 ## Acquisitions and Roll-Up Strategy
 
@@ -58,9 +58,9 @@ The dividend also signals confidence. A rising dividend, sustained over years, i
 
 ## Leverage and Financial Risk
 
-Bank holding companies carry moderate leverage through [corporate debt](/corporate-bond/). A typical leverage ratio might be 8–10 times equity (holding-company debt plus subsidiary debt divided by equity). This is high compared to industrial companies but moderate for financial institutions. The leverage is sustainable because the subsidiary banks' deposits are stable and funded at reasonable rates, allowing consistent cash generation to service debt.
+Bank holding companies carry moderate leverage through [corporate debt](/corporate-bond/). A typical [leverage ratio](/leverage-ratio-forex/) might be 8–10 times equity (holding-company debt plus subsidiary debt divided by equity). This is high compared to industrial companies but moderate for [financial institutions](/fisi-stock/). The leverage is sustainable because the subsidiary banks' deposits are stable and funded at reasonable rates, allowing consistent cash generation to service debt.
 
-However, leverage creates risk during downturns. If loan losses spike and subsidiary capital declines, the holding company's debt service may become onerous. In severe crises (like 2008), holding companies with high leverage faced stress or insolvency if subsidiaries' assets deteriorated sharply. Regulatory capital ratios exist to prevent this tail risk, but they do not eliminate leverage risk entirely.
+However, leverage creates risk during downturns. If loan losses spike and subsidiary capital declines, the holding company's debt service may become onerous. In severe crises (like 2008), holding companies with high leverage faced stress or insolvency if subsidiaries' assets deteriorated sharply. Regulatory capital ratios exist to prevent this [tail risk](/tail-risk/), but they do not eliminate leverage risk entirely.
 
 <div class="wiki-seealso">
 ### Closely related

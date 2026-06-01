@@ -48,7 +48,7 @@ The FDA regulates powered orthotic devices as medical devices, typically Class I
 
 ## Capital Intensity and Funding
 
-Manufacturing and developing a medical device is capital-intensive. MyoMo maintains inventory, operates or contracts manufacturing, and invests in design iterations. The company has raised capital through multiple rounds of venture funding and then a public offering (reverse merger or IPO). The capital structure usually includes debt and equity. Large institutional investors include venture funds focused on healthcare and medical devices.
+Manufacturing and developing a medical device is capital-intensive. MyoMo maintains inventory, operates or contracts manufacturing, and invests in design iterations. The company has raised capital through multiple rounds of venture funding and then a public offering ([reverse merger](/reverse-merger/) or IPO). The capital structure usually includes debt and equity. Large institutional investors include venture funds focused on healthcare and medical devices.
 
 ## Barriers to Scale
 
@@ -62,7 +62,7 @@ Look for clinical trial results. MyoMo publishes studies on device efficacy in p
 
 Quarterly earnings reports disclose the number of devices sold or in pilot use with healthcare providers. Growth in device units and expansion into new hospitals or payers are signs of traction.
 
-The company's cash balance and burn rate (reported in the cash flow statement) tell you how long until MyoMo must raise capital again. If cash is depleting rapidly and reimbursement expansion is slow, the company may face pressure to raise capital at an unfavorable valuation or to be acquired.
+The company's cash balance and burn rate (reported in the [cash flow statement](/cash-flow-statement/)) tell you how long until MyoMo must raise capital again. If cash is depleting rapidly and reimbursement expansion is slow, the company may face pressure to raise capital at an unfavorable valuation or to be acquired.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>
@@ -74,7 +74,7 @@ The company's cash balance and burn rate (reported in the cash flow statement) t
 <h3>Wider context</h3>
 <ul>
 <li>Neurorehabilitation and stroke recovery outcomes</li>
-<li><a href="/balance-sheet/">Balance sheet</a> analysis for capital-intensive businesses</li>
+<li><a href="/balance-sheet/">[Balance sheet](/balance-sheet/)</a> analysis for capital-intensive businesses</li>
 <li>Payer coverage policy and reimbursement rates</li>
 </ul>
 </div>

@@ -16,7 +16,7 @@ The company has positioned itself as a geographically diversified precious metal
 
 ## The mining footprint
 
-**Haile (USA).** The South Carolina operation represents OceanaGold's entry into U.S. gold mining. Haile is an open-pit mine that produces gold and copper; it is one of the few active large-scale gold mining operations in the continental United States and has been developed with a significant capital investment. The mine serves as the company's flagship property in North America and is a substantial part of the company's production base.
+**Haile (USA).** The South Carolina operation represents OceanaGold's entry into [U.S. gold](/usau-stock/) mining. Haile is an open-pit mine that produces gold and copper; it is one of the few active large-scale gold mining operations in the continental United States and has been developed with a significant capital investment. The mine serves as the company's flagship property in North America and is a substantial part of the company's production base.
 
 **Didipio (Philippines).** Located in Isabela Province, Didipio is an open-pit gold and copper mine that OceanaGold has owned and operated for years. The Philippines is a major mining jurisdiction in Asia with significant gold and base metal resources. Didipio contributes meaningfully to OceanaGold's overall production and represents exposure to Asian growth and demand for precious metals, though it operates under Philippine regulatory and political frameworks that carry their own risk profile.
 

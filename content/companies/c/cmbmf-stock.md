@@ -41,7 +41,7 @@ Equipment manufacturing depends on secure sourcing of components, particularly s
 
 ## Capital Intensity and Cash Generation Constraints
 
-Maintaining competitive products, funding sales and marketing, and investing in manufacturing require sustained capital. If **CMBMF** generates weak cash flows due to pricing pressure or competitive headwinds, it must either reduce investment—risking product obsolescence—or raise external capital, diluting shareholders. Debt financing introduces fixed obligations that must be serviced regardless of revenue cycles, amplifying financial risk during downturns.
+Maintaining competitive products, funding sales and marketing, and investing in manufacturing require sustained capital. If **CMBMF** generates weak cash flows due to pricing pressure or competitive headwinds, it must either reduce investment—risking product obsolescence—or raise external capital, diluting shareholders. [Debt financing](/debt-financing/) introduces fixed obligations that must be serviced regardless of revenue cycles, amplifying financial risk during downturns.
 
 <div class="wiki-seealso">
 ### Closely related

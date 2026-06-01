@@ -33,7 +33,7 @@ When evaluating land value, consider water rights. California water is finite an
 
 Lemon prices cycle with global supply, weather events, and demand. In years of citrus oversupply (Argentina had a bumper crop, or California's frost was light), lemon prices fall and Limoneira's margins compress. In years of supply shock (drought in Argentina, frost in California), prices spike.
 
-Limoneira has partially mitigated this by diversifying into avocados, which have different seasonality and demand drivers. Avocados are higher-margin (20–35% gross margin vs. 15–25% for lemons) but are also more weather-sensitive (frost kills avocado trees) and involve higher establishment costs (trees take 3–4 years to reach productivity). The company's disclosure of revenue split between lemons and avocados reveals diversification: a 50/50 split between the two crops reduces commodity-price risk relative to a 90% lemon portfolio.
+Limoneira has partially mitigated this by diversifying into avocados, which have different seasonality and demand drivers. Avocados are higher-margin (20–35% gross margin vs. 15–25% for lemons) but are also more weather-sensitive (frost kills avocado trees) and involve higher establishment costs (trees take 3–4 years to reach productivity). The company's disclosure of revenue split between lemons and avocados reveals [diversification](/diversification/): a 50/50 split between the two crops reduces commodity-price risk relative to a 90% lemon portfolio.
 
 ## Labor and Water Costs: Rising Structural Headwinds
 
@@ -51,13 +51,13 @@ This means Limoneira cannot create a moat through brand power or product innovat
 
 ## Valuation and Dividend Sustainability
 
-Limoneira has historically paid dividends, attractive to income-seeking investors. An analyst should model dividend sustainability: is the company harvesting land appreciation to fund dividends, or are operating profits sufficient? If operating free cash flow is growing, dividends are likely sustainable. If operating cash flow is stagnant and land appreciation is funding distributions, the model is fragile.
+Limoneira has historically paid [dividends](/dividend/), attractive to income-seeking investors. An analyst should model dividend sustainability: is the company harvesting land appreciation to fund dividends, or are operating profits sufficient? If operating free cash flow is growing, dividends are likely sustainable. If operating cash flow is stagnant and land appreciation is funding distributions, the model is fragile.
 
 Examine the [free-cash-flow](/free-cash-flow/) statement in the 10-K: capital expenditures for tree replacement and replanting are ongoing and necessary. After capex, is there cash left for dividends and debt reduction?
 
 ## What to Look for in the 10-K
 
-File the [10-k](/10-k/) and scan for: revenue and gross margin by crop (lemons, avocados), yield per acre, acreage under cultivation, water sourcing and costs, labor costs as a percentage of revenue, capital expenditures for replanting, dividend payments and payout ratio, and discussion of weather impacts and drought risk.
+File the [10-k](/10-k/) and scan for: revenue and gross margin by crop (lemons, avocados), yield per acre, acreage under cultivation, water sourcing and costs, labor costs as a percentage of revenue, capital expenditures for replanting, dividend payments and [payout ratio](/payout-ratio/), and discussion of weather impacts and drought risk.
 
 Compare gross and operating margins across the past 5–10 years to discern structural trends versus cyclic variation. Review the risk-factors section for discussion of drought, pest disease (especially citrus greening), labor availability, and commodity-price exposure.
 

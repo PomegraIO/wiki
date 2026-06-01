@@ -21,7 +21,7 @@ For a century, medicine has treated the symptoms of genetic disease. If a person
 
 CRISPR-Cas9 changed that. The technology works by using a guide RNA (synthetic RNA programmed to match a specific DNA sequence) and a protein (Cas9) that acts like molecular scissors. The guide RNA directs Cas9 to the exact spot in the genome where the mutation lives. Cas9 cuts. The cell's own repair machinery fixes the break, either disabling the mutated gene or inserting a corrected version. The result is a permanent edit—the cell and its descendants now carry the corrected DNA.
 
-CRISPR Therapeutics holds foundational patents and licenses from UC Berkeley, the Broad Institute, and other research institutions. The company competes in a crowded space: Editas Medicine, Intellia Therapeutics, and others are also pursuing CRISPR therapies. But CRISPR Therapeutics has first-mover advantage and has advanced programs further into the clinical pipeline.
+CRISPR Therapeutics holds foundational patents and licenses from UC Berkeley, the Broad Institute, and other research institutions. The company competes in a crowded space: [Editas Medicine](/edit-stock/), [Intellia Therapeutics](/ntla-stock/), and others are also pursuing CRISPR therapies. But CRISPR Therapeutics has first-mover advantage and has advanced programs further into the clinical pipeline.
 
 ## Lead Programs and Clinical Status
 

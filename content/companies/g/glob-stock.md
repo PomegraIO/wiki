@@ -23,7 +23,7 @@ Analysts reading GLOB's filings should parse the MD&A for commentary on utilizat
 
 ## Nearshore Advantage and Currency Headwinds
 
-Globant's geographic moat is partly geographic and partly historical. The company can employ software engineers in Argentina, Uruguay, and other Latin American countries at salary costs that are substantially lower than equivalent talent in Silicon Valley or London, while maintaining quality standards and time-zone proximity to North American clients. This nearshore model is the competitive lever. However, it introduces currency risk: the Argentine peso has experienced significant volatility and devaluation episodes, which inflate the dollar-denominated cost of maintaining a large Argentine workforce. The [balance-sheet](/balance-sheet/) and MD&A will reveal what percentage of headcount sits in Argentina versus other geographies and currencies, and whether the company hedges currency exposure. Material peso weakness can pressure [gross-profit-margin](/gross-profit-margin/) unless billing rates rise in tandem.
+Globant's geographic moat is partly geographic and partly historical. The company can employ software engineers in Argentina, Uruguay, and other Latin American countries at salary costs that are substantially lower than equivalent talent in Silicon Valley or London, while maintaining quality standards and time-zone proximity to North American clients. This nearshore model is the competitive lever. However, it introduces [currency risk](/currency-risk/): the Argentine peso has experienced significant volatility and devaluation episodes, which inflate the dollar-denominated cost of maintaining a large Argentine workforce. The [balance-sheet](/balance-sheet/) and MD&A will reveal what percentage of headcount sits in Argentina versus other geographies and currencies, and whether the company hedges currency exposure. Material peso weakness can pressure [gross-profit-margin](/gross-profit-margin/) unless billing rates rise in tandem.
 
 ## Client Concentration and Revenue Durability
 
@@ -31,7 +31,7 @@ Globant's top-10 customers represent a material fraction of revenue. The [10-K](
 
 ## Competitive Position Within Software Services
 
-The global software outsourcing market is dominated by India-headquartered giants (Tata Consultancy Services, Infosys, Cognizant) and established North American consulting firms (Accenture, IBM, Deloitte). GLOB occupies a smaller niche but with some distinct characteristics: proximity to U.S. clients, a focus on digital transformation and cloud-native development rather than legacy IT operations, and a younger, more startup-friendly culture. The [10-K](/10-k/) should be read in context of how GLOB differentiates. If it is competing primarily on cost and available capacity, margins are likely to compress. If it is winning based on quality, speed, or specialized technical depth, it has more pricing power.
+The global software outsourcing market is dominated by India-headquartered giants (Tata Consultancy Services, Infosys, Cognizant) and established North American consulting firms ([Accenture](/acn-stock/), IBM, Deloitte). GLOB occupies a smaller niche but with some distinct characteristics: proximity to U.S. clients, a focus on digital transformation and cloud-native development rather than legacy IT operations, and a younger, more startup-friendly culture. The [10-K](/10-k/) should be read in context of how GLOB differentiates. If it is competing primarily on cost and available capacity, margins are likely to compress. If it is winning based on quality, speed, or specialized technical depth, it has more pricing power.
 
 ## Technology Stack and Emerging Capabilities
 
@@ -39,7 +39,7 @@ GLOB's service offerings have evolved from traditional software development into
 
 ## Balance Sheet and Debt Financing
 
-Software services companies typically require less capital intensity than manufacturing but still need working capital to fund payroll and accounts receivable. Globant likely carries debt or operates credit facilities to manage cash flow between billings and payroll cycles, or to fund acquisitions. The [balance-sheet](/balance-sheet/) will show cash, receivables, and any outstanding debt. The company's [free-cash-flow](/free-cash-flow/) conversion (net income to actual cash from operations) is worth scrutinizing; if GLOB reports profit but cash declines, receivable collection or payroll timing mismatches may be a concern. Analysts should also track whether the company is using stock or cash to acquire smaller software teams or capabilities—a common growth strategy in software services.
+Software services companies typically require less capital intensity than manufacturing but still need working capital to fund payroll and [accounts receivable](/accounts-receivable/). Globant likely carries debt or operates credit facilities to manage cash flow between billings and payroll cycles, or to fund [acquisitions](/acquisition/). The [balance-sheet](/balance-sheet/) will show cash, receivables, and any outstanding debt. The company's [free-cash-flow](/free-cash-flow/) conversion (net income to actual cash from operations) is worth scrutinizing; if GLOB reports profit but cash declines, receivable collection or payroll timing mismatches may be a concern. Analysts should also track whether the company is using stock or cash to acquire smaller software teams or capabilities—a common growth strategy in software services.
 
 ## Retention, Talent, and Wage Inflation
 
@@ -47,14 +47,14 @@ The real constraint in scaling software services is hiring and retaining enginee
 
 ## Free Cash Flow and Shareholder Returns
 
-GLOB's ability to generate free cash flow and return it to shareholders (through dividends or [share-buyback](/share-buyback/) programs) reflects underlying business health. A growing, margin-expanding software services firm should convert an increasing fraction of revenue to free cash. The [10-K](/10-k/) details capital allocation: whether the company prioritizes buybacks, dividends, debt reduction, or reinvestment in growth. Mature software services firms often shift toward returning capital once growth moderates; tracking this shift helps analysts anticipate margin guidance and valuation multiples.
+GLOB's ability to generate free cash flow and return it to shareholders (through [dividends](/dividend/) or [share-buyback](/share-buyback/) programs) reflects underlying business health. A growing, margin-expanding software services firm should convert an increasing fraction of revenue to free cash. The [10-K](/10-k/) details capital allocation: whether the company prioritizes buybacks, dividends, debt reduction, or reinvestment in growth. Mature software services firms often shift toward returning capital once growth moderates; tracking this shift helps analysts anticipate margin guidance and valuation multiples.
 
 <div class="wiki-seealso">
 
 ### Closely related
 - Software-development-outsourcing — Broader context for nearshore and offshore models
 - Accenture — Larger, global competitor in IT services and digital transformation
-- [Return-on-equity](/return-on-equity/) — GLOB's ROE tracks labor productivity and capital efficiency
+- [Return-on-equity](/return-on-equity/) — GLOB's ROE tracks [labor productivity](/labor-productivity/) and capital efficiency
 
 ### Wider context
 - [Free-cash-flow](/free-cash-flow/) — Key metric for service businesses with minimal capex

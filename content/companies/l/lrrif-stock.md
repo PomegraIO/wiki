@@ -30,7 +30,7 @@ In this model, Lion Rock's role is to take on early-stage exploration risk (geol
 
 ## Cash Burn and Exploration Spending
 
-Lion Rock sustains operations through equity financing (stock issuance) and, occasionally, debt or vendor financing. The company's cash outflows are primarily:
+Lion Rock sustains operations through [equity financing](/equity-financing/) (stock issuance) and, occasionally, debt or vendor financing. The company's cash outflows are primarily:
 
 1. **Exploration drilling and sampling**: A single exploration well can cost $100,000–$500,000 depending on depth, location, and target. A robust exploration program might involve 10–50 wells per season, requiring $1–$25 million annual spending. This cost is necessary to generate geological data that defines ore grade, thickness, and lateral extent.
 
@@ -46,7 +46,7 @@ The outcome: a junior exploration company with no revenue and modest exploration
 
 ## The Property Portfolio as an Asset
 
-Lion Rock's assets on its balance sheet are mineral claims and capitalized exploration costs—intangible assets representing money spent on drilling, surveys, and geological interpretation. These have accounting value but no market value unless the company defines a ore body that a buyer (a major mining company or a more advanced junior explorer) considers worth acquiring or funding.
+Lion Rock's assets on its [balance sheet](/balance-sheet/) are mineral claims and capitalized exploration costs—[intangible assets](/intangible-assets/) representing money spent on drilling, surveys, and geological interpretation. These have accounting value but no market value unless the company defines a ore body that a buyer (a major mining company or a more advanced junior explorer) considers worth acquiring or funding.
 
 The risk is total: if drilling shows no ore mineralization of economic interest, the exploration costs are impaired to zero on the balance sheet, and the claims revert to the government or are surrendered. Many exploration companies and projects fail at this stage—geological exploration is inherently uncertain, and most properties yield no economic resource.
 
@@ -64,15 +64,15 @@ Lion Rock's competitive positioning is determined by the quality of its geologic
 
 ## Metal Price Exposure and Cyclicality
 
-Lion Rock's business is indirectly sensitive to precious-metals and base-metals prices. Exploration budgets—both the company's own and potential partners'—expand when metal prices are high and commodity outlooks are optimistic, because the economic threshold for a mineral deposit to become mineable improves. When metal prices collapse (e.g., copper from $4/lb to $2/lb), majors pull back on exploration spending and acquisitions, and junior explorers face severe capital constraints.
+Lion Rock's business is indirectly sensitive to precious-metals and base-metals prices. Exploration budgets—both the company's own and potential partners'—expand when metal prices are high and commodity outlooks are optimistic, because the economic threshold for a mineral deposit to become mineable improves. When metal prices collapse (e.g., copper from $4/lb to $2/lb), majors pull back on exploration spending and [acquisitions](/acquisition/), and junior explorers face severe capital constraints.
 
 Lion Rock has no immediate production exposure to metal prices, but its funding prospects and asset valuation are correlated with commodity cycles.
 
 ## Margin and Profitability Horizon
 
-Lion Rock has no positive operating margin today and likely will not until (and unless) one of its properties is acquired by or funded by a major company, or until the company itself is taken over. The business model expects losses; investors fund exploration with the expectation that a rare property will eventually pay out 10–100x.
+Lion Rock has no positive [operating margin](/operating-margin/) today and likely will not until (and unless) one of its properties is acquired by or funded by a major company, or until the company itself is taken over. The business model expects losses; investors fund exploration with the expectation that a rare property will eventually pay out 10–100x.
 
-The effective return is realized by equity holders if the company is acquired or if a productive mine is developed and pays dividends to shareholders. Until then, shareholder value depends entirely on market sentiment regarding the company's geological prospects and the commodity-price environment.
+The effective return is realized by equity holders if the company is acquired or if a productive mine is developed and pays [dividends](/dividend/) to shareholders. Until then, shareholder value depends entirely on market sentiment regarding the company's geological prospects and the commodity-price environment.
 
 <div class="wiki-seealso">
 

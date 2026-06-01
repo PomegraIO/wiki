@@ -53,7 +53,7 @@ Beachbody must keep trainers satisfied through compensation, creative freedom, a
 
 Beachbody built its infomercial-era brand through customer testimonials. Real people—ordinary-looking at the start, transformed by the program—shared their stories. These testimonials were powerful because they created an identification mechanism for potential customers. A viewer could see someone who looked like them, faced similar challenges, and had succeeded with Beachbody's programs.
 
-This testimonial-driven marketing remains central to modern Beachbody acquisition. The company sources and elevates customer transformation stories, often rewarding customers who share their journeys publicly. These stories are the strongest marketing asset because they reduce perceived risk for potential customers—if someone like me succeeded, so can I.
+This testimonial-driven marketing remains central to modern Beachbody [acquisition](/acquisition/). The company sources and elevates customer transformation stories, often rewarding customers who share their journeys publicly. These stories are the strongest marketing asset because they reduce perceived risk for potential customers—if someone like me succeeded, so can I.
 
 This creates a secondary customer segment: the participant who becomes a brand ambassador. Beachbody offers opportunities for customers to become "coaches" in a seller-driven affiliate program, earning commissions on referred subscriptions. This turns a subset of customers into active promoters, deepening their engagement while providing low-cost customer acquisition.
 

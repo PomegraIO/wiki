@@ -25,7 +25,7 @@ keywords:
 
 Canopy's operations rest on two pillars. First, large-scale growing facilities—greenhouses, indoor cultivation sites, and processing plants—that produce cannabis flower, extracts, and concentrate products. These facilities are capital-intensive, require continuous licensing compliance, and generate commodity-like margins on the basic plant material. Second, consumer brands (names and trademarks acquired or developed in-house) that package and market finished products to retail and direct consumers. The 10-K discloses the footprint: number of facilities, square footage of growing space, production capacity (typically measured in kilograms of dried cannabis per year). Readers should track capacity utilization—how fully the company is deploying its growing infrastructure—as a marker of demand and operational efficiency.
 
-The business model straddles agriculture (large, low-margin commodity production) and consumer goods (smaller, higher-margin branded products). The company's gross margin varies considerably by product category: bulk dried flower generates lower margins, while branded consumer packaged goods (edibles, beverages, wellness products) command higher prices and margins. The 10-K's segment reporting, if disclosed, or the MD&A should clarify this mix and trends.
+The business model straddles agriculture (large, low-margin commodity production) and consumer goods (smaller, higher-margin branded products). The company's gross margin varies considerably by product category: bulk dried flower generates lower margins, while branded consumer packaged goods (edibles, beverages, wellness products) command higher prices and margins. The 10-K's [segment reporting](/segment-reporting/), if disclosed, or the MD&A should clarify this mix and trends.
 
 ## The regulatory maze and compliance costs
 
@@ -43,11 +43,11 @@ Cannabis cultivation is seasonal and subject to crop failure, disease, and pest 
 
 ## Acquisition strategy and integration
 
-Canopy has grown partly organically (opening new facilities) and partly through acquisitions of other producers and brands. The 10-K details acquisitions: purchase prices, any goodwill recorded, integration progress, and expected synergies. Acquisitions in the cannabis space have historically underperformed, with integration challenges and post-acquisition write-downs common. Readers should inspect how many acquired brands have been divested or written down, a signal of whether management's acquisition discipline is strong.
+Canopy has grown partly organically (opening new facilities) and partly through [acquisitions](/acquisition/) of other producers and brands. The 10-K details acquisitions: purchase prices, any [goodwill](/goodwill/) recorded, integration progress, and expected synergies. Acquisitions in the cannabis space have historically underperformed, with integration challenges and post-acquisition write-downs common. Readers should inspect how many acquired brands have been divested or written down, a signal of whether management's acquisition discipline is strong.
 
 ## Cash burn and capital structure
 
-Canopy's path to profitability and free cash flow is critical. Many cannabis producers operate at a loss or minimal profitability despite strong revenue, because capital expenditures for facilities and compliance, combined with high operating costs, exceed [operating-margin](/operating-margin/) gains. The cash-flow statement in the 10-K reveals whether the company is free-cash-flow positive or burning cash. In growth phases, cash burn is acceptable; in mature phases, it is a warning sign. The [balance-sheet](/balance-sheet/) shows debt and equity structure; highly leveraged cannabis companies risk covenant breaches if earnings disappoint, a risk disclosed in the Filing Details.
+Canopy's path to profitability and [free cash flow](/free-cash-flow/) is critical. Many cannabis producers operate at a loss or minimal profitability despite strong revenue, because capital expenditures for facilities and compliance, combined with high operating costs, exceed [operating-margin](/operating-margin/) gains. The cash-flow statement in the 10-K reveals whether the company is free-cash-flow positive or burning cash. In growth phases, cash burn is acceptable; in mature phases, it is a warning sign. The [balance-sheet](/balance-sheet/) shows debt and equity structure; highly leveraged cannabis companies risk covenant breaches if earnings disappoint, a risk disclosed in the Filing Details.
 
 ## Excise taxes and regulatory pricing
 

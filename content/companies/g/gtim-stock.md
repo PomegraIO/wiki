@@ -4,7 +4,7 @@ description: "Good Times Restaurants operates a small chain of casual-dining est
 keywords: ["restaurant chain", "casual dining", "food service", "franchise", "restaurant operations"]
 ---
 
-*Good Times Restaurants occupies the intersection where consumer demand for quick, affordable dining meets the economics of operating physical locations in smaller cities and secondary markets. **GTIM** (CIK 825324) is neither a high-volume fast-food powerhouse nor a high-check-average fine-dining establishment; it operates in the terrain between them, where the opportunity is to deliver consistent, modestly-priced meals in markets too small or economically marginal for major national chains.*
+*Good Times Restaurants occupies the intersection where consumer demand for quick, affordable dining meets the economics of operating physical locations in smaller cities and [secondary markets](/secondary-market/). **GTIM** (CIK 825324) is neither a high-volume fast-food powerhouse nor a high-check-average fine-dining establishment; it operates in the terrain between them, where the opportunity is to deliver consistent, modestly-priced meals in markets too small or economically marginal for major national chains.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>GTIM</td></tr>
@@ -16,7 +16,7 @@ keywords: ["restaurant chain", "casual dining", "food service", "franchise", "re
 
 ## The Secondary-Market Niche
 
-The restaurant industry stratifies by location economics. In dense urban cores and affluent suburbs, major chains and premium independents compete fiercely, driving rent up and check averages higher. In secondary and tertiary markets—mid-sized cities, rural areas, declining industrial towns—the competition is thinner, but so is the density of potential customers. GTIM's strategic position is to identify and operate locations in these thinner markets where a casual-dining concept can achieve acceptable returns without the scale that large chains require. The company is not trying to win in New York or Los Angeles; it is winning in Pueblo, in Wichita, in the small regional centers where a local restaurant group has gone under or a national chain has exited, leaving a gap in the dining landscape.
+The restaurant industry stratifies by location economics. In dense urban cores and affluent suburbs, major chains and premium independents compete fiercely, driving rent up and check averages higher. In secondary and [tertiary markets](/tertiary-market/)—mid-sized cities, rural areas, declining industrial towns—the competition is thinner, but so is the density of potential customers. GTIM's strategic position is to identify and operate locations in these thinner markets where a casual-dining concept can achieve acceptable returns without the scale that large chains require. The company is not trying to win in New York or Los Angeles; it is winning in Pueblo, in Wichita, in the small regional centers where a local restaurant group has gone under or a national chain has exited, leaving a gap in the dining landscape.
 
 ## The Supply Chain in Food Service
 

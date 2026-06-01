@@ -29,7 +29,7 @@ This is fundamentally different from being a software-as-a-service company or a 
 
 ## Structural Dependencies
 
-The concentration of the airline industry—dominated in the U.S. by Delta, United, Southwest, and American Airlines—means that Gogo's fate is tied directly to those carriers' capital expenditure decisions, fleet renewal timelines, and competitive strategy. If a major airline decides to switch to a competitor's system, Gogo loses not just subscription revenue but also the opportunity to install new equipment on replacement aircraft. Conversely, if an airline decides to make connectivity a free standard amenity, Gogo's per-passenger yield declines.
+The concentration of the airline industry—dominated in the U.S. by Delta, United, Southwest, and [American Airlines](/aal-stock/)—means that Gogo's fate is tied directly to those carriers' capital expenditure decisions, fleet renewal timelines, and competitive strategy. If a major airline decides to switch to a competitor's system, Gogo loses not just subscription revenue but also the opportunity to install new equipment on replacement aircraft. Conversely, if an airline decides to make connectivity a free standard amenity, Gogo's per-passenger yield declines.
 
 International expansion offers potential growth, but it brings regulatory complexity, different airline ownership structures, and regional competitors that may have local advantages. The company's ability to expand internationally is therefore constrained by its need to negotiate with government-backed carriers and to conform to local infrastructure regulations.
 
@@ -37,7 +37,7 @@ International expansion offers potential growth, but it brings regulatory comple
 
 As a capital-intensive infrastructure business, Gogo must balance growth investment with profitability. Ground networks require upgrades; satellite systems require periodic replacement; aircraft equipment must be installed and maintained. These outlays generate long-term recurring revenue streams, but the time lag between capex and return is significant, and the revenue stream is never fully predictable (it depends on airline orders for new aircraft and on existing airline decisions to upgrade or extend service contracts).
 
-This profiles as a business that generates steady but unspectacular cash flows, with earnings heavily influenced by depreciation schedules and the timing of major infrastructure investments. It is the kind of company that attracts value investors and infrastructure-focused funds but rarely excites growth investors.
+This profiles as a business that generates steady but unspectacular cash flows, with earnings heavily influenced by [depreciation](/depreciation/) schedules and the timing of major infrastructure investments. It is the kind of company that attracts value investors and infrastructure-focused funds but rarely excites growth investors.
 
 ## Competitive Alternatives
 

@@ -25,13 +25,13 @@ This growth is real, but it is also subject to competitive pressure and saturati
 
 ## Com7's service portfolio and positioning
 
-Com7 operates multiple business segments. Its broadband (fixed) business provides home internet, primarily in Thailand, targeting middle- and upper-income households and small business customers. This segment generates relatively stable, recurring revenue but faces pressure from mobile-broadband competition and cost inflation.
+Com7 operates multiple business segments. Its broadband (fixed) business provides home internet, primarily in Thailand, targeting middle- and upper-income households and small business customers. This segment generates relatively stable, recurring revenue but faces pressure from mobile-broadband competition and cost [inflation](/inflation/).
 
 The mobile segment includes a wireless carrier operation offering voice, SMS, and data services on cellular networks. This is the high-growth opportunity (more subscribers, rising data usage per subscriber), but also the most competitive—Thailand has several national mobile operators, including international players, all vying for share. Differentiation is difficult; networks are comparable in quality, and pricing tends to commoditize.
 
 Com7 also operates digital-media and advertising businesses, including online platforms for content distribution and digital marketing. This segment capitalizes on growing e-commerce and social media adoption in Thailand. As more Thai businesses shift marketing budgets online, demand for advertising services grows. However, this market is also increasingly competitive, with global platforms (Google, Facebook) competing against local players.
 
-The diversification across fixed, mobile, and digital services is strategic—it spreads risk and allows cross-selling (customers can bundle services)—but it also means Com7 is competing in multiple sub-sectors simultaneously, none of which offers pricing power or high margin protection.
+The [diversification](/diversification/) across fixed, mobile, and digital services is strategic—it spreads risk and allows cross-selling (customers can bundle services)—but it also means Com7 is competing in multiple sub-sectors simultaneously, none of which offers pricing power or high margin protection.
 
 ## Emerging-market operating environment
 
@@ -39,7 +39,7 @@ Operating in Thailand exposes Com7 to regulatory, currency, and macroeconomic ri
 
 Currency is a second consideration. Com7 reports in Thai baht; revenue and costs are denominated in baht, but many technology inputs (equipment, software, cloud services) are priced in dollars. Currency weakness against the dollar increases input costs, squeezing margins. The reverse is also true—if the baht strengthens, input costs fall.
 
-Macroeconomically, Thailand is a middle-income economy with solid but uneven growth; tourism and export-dependent manufacturing are primary GDP drivers. Economic slowdowns reduce consumer and business spending on telecom services, even if usage patterns don't change much. During recessions, customers downgrade plans or cut budgets for digital services.
+Macroeconomically, Thailand is a middle-income economy with solid but uneven growth; tourism and export-dependent manufacturing are primary GDP drivers. Economic slowdowns reduce consumer and business spending on telecom services, even if usage patterns don't change much. During [recessions](/recession/), customers downgrade plans or cut budgets for digital services.
 
 ## Capital and competitive structure
 
@@ -51,11 +51,11 @@ The Thai telecom market is oligopolistic—a few licensed operators control the 
 
 Com7's growth depends on several factors: rising smartphone and internet penetration in Thailand (a long-term trend that remains in early-to-middle phases), increasing data consumption per subscriber (driven by video streaming, social media, cloud services), and the ability to grow digital advertising and related high-margin services. Each is a real tailwind.
 
-Constraints are equally important: competition from larger, better-capitalized operators; price commoditization in broadband and mobile; currency headwinds if the baht weakens; and the inherent capital intensity of telecom, which limits free cash flow and dividend capacity. Additionally, global tech giants (Google, Meta, Amazon) increasingly compete for ad spend and own telecom-adjacent services (cloud, content), creating structural competition beyond traditional carriers.
+Constraints are equally important: competition from larger, better-capitalized operators; price commoditization in broadband and mobile; currency headwinds if the baht weakens; and the inherent capital intensity of telecom, which limits [free cash flow](/free-cash-flow/) and [dividend](/dividend/) capacity. Additionally, global tech giants (Google, Meta, Amazon) increasingly compete for ad spend and own telecom-adjacent services (cloud, content), creating structural competition beyond traditional carriers.
 
 ## Foreign listing and investor access
 
-Com7 is a Thai-domiciled company trading on the OTC market in the U.S. (the ADR structure). This is common for foreign telecom and media operators seeking U.S. capital and visibility. OTC listings typically trade with lower liquidity and more limited analyst coverage than Nasdaq or NYSE stocks, which increases volatility and reduces the ability to raise capital quickly via equity issuance.
+Com7 is a Thai-domiciled company trading on the OTC market in the U.S. (the ADR structure). This is common for foreign telecom and media operators seeking U.S. capital and visibility. OTC listings typically trade with lower liquidity and more limited analyst coverage than [Nasdaq](/nasdaq/) or NYSE stocks, which increases volatility and reduces the ability to raise capital quickly via equity issuance.
 
 <div class="wiki-seealso">
 ### Closely related

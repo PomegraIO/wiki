@@ -65,7 +65,7 @@ If Stellantis successfully consolidates engineering and platforms, it can lower 
 
 ## Competition and market share
 
-Stellantis competes against [Tesla](/tsla-stock/) in electric vehicles, against Volkswagen and Hyundai in mainstream segments, against Toyota and Honda in reliability perception, and against Lucid and Rivian in premium segments. In trucks and full-size SUVs, it faces Ford and General Motors, both of which have strong footprints in the same profitable categories. The competitive pressure is intense and price-based; the path to profit is through cost discipline and differentiation on features and brand.
+Stellantis competes against [Tesla](/tsla-stock/) in electric vehicles, against Volkswagen and Hyundai in mainstream segments, against Toyota and Honda in reliability perception, and against [Lucid](/lcid-stock/) and Rivian in premium segments. In trucks and full-size SUVs, it faces Ford and General Motors, both of which have strong footprints in the same profitable categories. The competitive pressure is intense and price-based; the path to profit is through cost discipline and differentiation on features and brand.
 
 The consolidation trend in autos continues: there are far fewer independent carmakers than there were 20 years ago. Stellantis' formation was part of that trend, and further consolidation may come. Yet Stellantis is now large enough that it is more likely to be a consolidator than consolidated, assuming management can prove the merger's synergies.
 

@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ZenaTech, Inc. (ticker ZENA) is a technology company attempting to build a diversified business across unmanned aerial systems, artificial intelligence, and quantum computing research. The company operates at the intersection of several fast-moving technology frontiers, while simultaneously maintaining a traditional IT services and software acquisition strategy designed to generate near-term revenue. Unlike many pure-play technology startups, ZenaTech has taken a pragmatic path: it acquires smaller software and IT services firms to fund cash flow while laying groundwork in higher-margin technology areas where success remains uncertain.
+ZenaTech, Inc. (ticker ZENA) is a technology company attempting to build a diversified business across unmanned aerial systems, artificial intelligence, and [quantum computing](/qubt-stock/) research. The company operates at the intersection of several fast-moving technology frontiers, while simultaneously maintaining a traditional IT services and software acquisition strategy designed to generate near-term revenue. Unlike many pure-play technology startups, ZenaTech has taken a pragmatic path: it acquires smaller software and IT services firms to fund cash flow while laying groundwork in higher-margin technology areas where success remains uncertain.
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ ZenaTech, Inc. (ticker ZENA) is a technology company attempting to build a diver
 
 ZenaTech's strategy reveals a company caught between two worlds. On one hand, it operates through subsidiaries and [acquisitions](/wiki/acquisition/) of software firms and IT service providers—the kind of steady, revenue-generating businesses that keep the lights on. On the other hand, it has publicly committed itself to technologies like drones, machine learning, and quantum computing where the path from research to profitable business remains long and uncertain. This dual strategy is not uncommon among small technology companies: the acquired businesses generate cash that funds experimental initiatives, and the experimental initiatives theoretically create the high-growth story the [stock market](/wiki/stock/) rewards.
 
-The company has grown primarily through bolt-on acquisitions of smaller technology firms and IT service shops. These deals typically bring established customer relationships and recurring revenue contracts into the ZenaTech fold. The consolidation playbook is straightforward—buy a profitable-enough business at a reasonable price, integrate it into operations, extract cost synergies, and then use the combined cash flow to acquire the next [target](/tgt-stock/). For investors, this is either a sensible bootstrap strategy or a sign that management cannot build organic growth at sufficient pace, depending on how generous one wants to be.
+The company has grown primarily through bolt-on acquisitions of smaller technology firms and IT service shops. These deals typically bring established customer relationships and recurring revenue contracts into the ZenaTech fold. The consolidation playbook is straightforward—buy a profitable-enough business at a reasonable price, integrate it into operations, extract cost synergies, and then use the combined cash flow to acquire the next target. For investors, this is either a sensible bootstrap strategy or a sign that management cannot build organic growth at sufficient pace, depending on how generous one wants to be.
 
 ## The unmanned systems ambition
 

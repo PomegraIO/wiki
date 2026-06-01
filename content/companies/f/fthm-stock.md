@@ -17,7 +17,7 @@ keywords: [real estate, MLS, brokerage, digital real estate, housing technology]
 
 ## Founding Impatience and Structural Critique
 
-Fathom Holdings was founded by Josh Harley, a real-estate entrepreneur who saw not a market gap but a structural deficiency: American residential real estate relied on inherited transaction patterns that technology had made obsolete. Traditional brokerages operated on [commission](/stock/) splits, agent herding, and information asymmetry. Sellers and buyers alike paid the cost—slow closings, inflated fees, broker gatekeeping of data that was public record.
+Fathom Holdings was founded by Josh Harley, a real-estate entrepreneur who saw not a market gap but a structural deficiency: American [residential real estate](/residential-real-estate/) relied on inherited transaction patterns that technology had made obsolete. Traditional brokerages operated on [commission](/stock/) splits, agent herding, and information asymmetry. Sellers and buyers alike paid the cost—slow closings, inflated fees, broker gatekeeping of data that was public record.
 
 Harley's founding purpose was to build a technology platform that would let agents transact more efficiently, pass savings to clients, and create transparency around pricing and inventory. Rather than build a Craigslist-style disintermediation (eliminating agents entirely), Fathom chose to keep agents but equip them with better tools. This decision proved crucial: American real estate still required licensed agents for complex negotiations and legal liability; Fathom's innovation was to make agents more productive, not superfluous.
 
@@ -37,7 +37,7 @@ Each new state also brought local regulatory variation. Real-estate law, disclos
 
 When Fathom became [public](/public-company/) in 2021 via [initial public offering](/initial-public-offering/), it had a multi-state brokerage network, thousands of agents, and a proprietary software platform. The [IPO](/initial-public-offering/) provided capital to accelerate expansion and validated the business model to markets: a publicly-traded real-estate technology firm was now possible, differentiated from discount brokerages by its technology focus rather than its commission compression alone.
 
-The company's [earnings](/earnings-per-share/) narrative centered on two metrics: agent count (a leading indicator of transaction volume) and agent productivity (transactions per agent per year). A growing agent base meant growing transaction volume and commission [revenue](/public-company/); higher productivity meant each agent was more valuable and less likely to leave for a competitor. Fathom invested heavily in both acquisition and tooling to drive productivity.
+The company's [earnings](/earnings-per-share/) narrative centered on two metrics: agent count (a leading indicator of transaction volume) and agent productivity (transactions per agent per year). A growing agent base meant growing transaction volume and commission [revenue](/public-company/); higher productivity meant each agent was more valuable and less likely to leave for a competitor. Fathom invested heavily in both [acquisition](/acquisition/) and tooling to drive productivity.
 
 ## The Margin Challenge
 
@@ -49,7 +49,7 @@ This economic reality distinguished Fathom's path from tech darlings that compou
 
 Fathom faced competition from traditional brokerages (which were slowly digitizing), discount brokerages (which competed on [commission](/stock/) structure rather than tooling), and emerging proptech startups (which aimed to eliminate agents). By remaining agent-centric rather than choosing a different path, Fathom bet that professional real-estate agents would remain essential to American residential transactions. That bet has held, though the margin to invest in agent recruitment and retention remains narrow.
 
-The company also had to contend with MLS governance, which is fragmented and often controlled by incumbent brokers. Fathom's national MLS aspirations faced resistance from local MLSes, which guarded their data and pricing power. Building a unified MLS experience across 50 states while respecting existing MLS governance structures was a political and technical challenge that continues to shape the company's options.
+The company also had to contend with MLS governance, which is fragmented and often controlled by incumbent [brokers](/broker/). Fathom's national MLS aspirations faced resistance from local MLSes, which guarded their data and pricing power. Building a unified MLS experience across 50 states while respecting existing MLS governance structures was a political and technical challenge that continues to shape the company's options.
 
 ## Durable Origins
 

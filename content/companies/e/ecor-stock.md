@@ -29,7 +29,7 @@ The operational cadence is: identify a disease indication, design a trial protoc
 
 ## Sales and Patient Engagement
 
-Unlike industrial equipment sold through wholesale channels, electroCore devices reach end-users through a hybrid model. Hospital neurology departments and pain clinics can stock devices and prescribe them; private practitioners acquire devices for clinic use; and patients can buy directly (often subsidized by copay assistance programs). The company employs clinical liaisons who educate hospital systems, works with insurance brokers who help patients navigate coverage, and maintains a patient support line that handles technical troubleshooting and reimbursement questions.
+Unlike industrial equipment sold through wholesale channels, electroCore devices reach end-users through a hybrid model. Hospital neurology departments and pain clinics can stock devices and prescribe them; private practitioners acquire devices for clinic use; and patients can buy directly (often subsidized by copay assistance programs). The company employs clinical liaisons who educate hospital systems, works with insurance [brokers](/broker/) who help patients navigate coverage, and maintains a patient support line that handles technical troubleshooting and reimbursement questions.
 
 This sprawl means electroCore carries sales, customer-support, and compliance costs that manufacturing companies can avoid. A patient who buys a gammaCore may need two support calls to learn to use it correctly and three reimbursement inquiries as her insurance processes claims. Every call is an operational cost and a reputation vector.
 

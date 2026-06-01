@@ -31,7 +31,7 @@ Refining processes vary by metal. Copper refining typically uses electrolytic ce
 
 The facility must manage byproducts and waste streams. Refining produces slag, dust, and potentially hazardous residues containing lead, cadmium, or other contaminants. Handling and disposal must comply with environmental regulations. The company must either treat waste in-house or contract with licensed waste processors, creating operational and cost complexity. Facilities in regions with stricter environmental standards face higher waste-management costs.
 
-Energy costs are significant. Melting metals to remove impurities requires high temperatures. Natural gas, electricity, or coke are consumed in bulk. Facilities located near cheap energy sources (hydroelectric regions, natural gas pipelines) have operational advantage. Conversely, a facility in a high-energy-cost jurisdiction (California, parts of Europe) has structural cost disadvantage.
+Energy costs are significant. Melting metals to remove impurities requires high temperatures. [Natural gas](/natural-gas/), electricity, or coke are consumed in bulk. Facilities located near cheap energy sources (hydroelectric regions, natural gas pipelines) have operational advantage. Conversely, a facility in a high-energy-cost jurisdiction (California, parts of Europe) has structural cost disadvantage.
 
 ## Alloy Blending and Specification Management
 

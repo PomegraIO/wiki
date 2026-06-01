@@ -23,7 +23,7 @@ For developmental biotech, the operative cycle is not economic—it is clinical 
 
 ## Capital Dependence and the Funding Cycle
 
-Boundless burns cash every quarter to fund R&D, clinical trials, and operations, with no offsetting product revenue. Its survival depends on continuous access to funding: venture capital, strategic partnerships, debt facilities, or equity issuance. The availability of capital is partially correlated with macroeconomic conditions (venture returns on existing bets shrink in recessions, reducing new fund raises) but is also driven by sentiment toward biotech as a sector and the perceived promise of Boundless's specific programs. A successful Phase 2 readout can unlock new capital even in a weak market; a failed readout can dry up funding in a strong market. The funding cycle is loosely cyclical—there are boom periods in biotech investment and dry spells—but the cycles are driven by progress in the science and investor appetite for high-risk R&D, not by GDP growth.
+Boundless burns cash every quarter to fund R&D, clinical trials, and operations, with no offsetting product revenue. Its survival depends on continuous access to funding: venture capital, strategic partnerships, debt facilities, or equity issuance. The availability of capital is partially correlated with macroeconomic conditions (venture returns on existing bets shrink in [recessions](/recession/), reducing new fund raises) but is also driven by sentiment toward biotech as a sector and the perceived promise of Boundless's specific programs. A successful Phase 2 readout can unlock new capital even in a weak market; a failed readout can dry up funding in a strong market. The funding cycle is loosely cyclical—there are boom periods in biotech investment and dry spells—but the cycles are driven by progress in the science and investor appetite for high-risk R&D, not by GDP growth.
 
 ## De-Risking Through Clinical Milestones
 
@@ -31,7 +31,7 @@ Boundless's path to value creation is fundamentally secular in direction: cell a
 
 ## Competitive Dynamics in Cell and Gene Therapy
 
-The cell and gene therapy space has attracted enormous venture and corporate capital, creating a crowded field. Established pharma companies (Gilead, Novartis, Regeneron) have acquired or partnered with leaders in the space. Larger biotech firms have in-house programs. Academic research has yielded multiple programs moving into the clinic. This means that even if Boundless has a promising therapy, it faces competition—often from better-capitalized peers—for patients, regulatory attention, and clinical-trial sites. The competitive pressure is secular (structural consolidation of biotech around larger players) and event-driven (which companies advance which programs faster and further). It is not primarily cyclical.
+The cell and gene therapy space has attracted enormous venture and corporate capital, creating a crowded field. Established pharma companies (Gilead, [Novartis](/nvs-stock/), Regeneron) have acquired or partnered with leaders in the space. Larger biotech firms have in-house programs. Academic research has yielded multiple programs moving into the clinic. This means that even if Boundless has a promising therapy, it faces competition—often from better-capitalized peers—for patients, regulatory attention, and clinical-trial sites. The competitive pressure is secular (structural consolidation of biotech around larger players) and event-driven (which companies advance which programs faster and further). It is not primarily cyclical.
 
 ## Manufacturing and Scalability
 
@@ -39,11 +39,11 @@ Cell therapies are notoriously difficult and expensive to manufacture at scale. 
 
 ## Regulatory Pathway Uncertainty
 
-The FDA's pathway for cell therapies is still evolving. What constitutes sufficient safety and efficacy data for approval is not yet entirely settled. This regulatory uncertainty is secular—it will be present across multiple business cycles—and gradually resolved as agencies gain experience. Boundless's ability to navigate this uncertainty (by working closely with regulators, designing trials that meet emerging standards) is a durable advantage or disadvantage, not something that cycles with the economy.
+The FDA's pathway for cell therapies is still evolving. What constitutes sufficient safety and efficacy data for approval is not yet entirely settled. This regulatory uncertainty is secular—it will be present across multiple [business cycles](/business-cycle/)—and gradually resolved as agencies gain experience. Boundless's ability to navigate this uncertainty (by working closely with regulators, designing trials that meet emerging standards) is a durable advantage or disadvantage, not something that cycles with the economy.
 
 ## Exit Scenarios and M&A Dynamics
 
-Many developmental biotech companies never reach profitability independently. Instead, they are acquired by larger firms before or after regulatory approval. Boundless's long-term future may involve acquisition by a pharma giant, a strategic partner, or a larger biotech player. The timing and valuation of such an exit depend on clinical progress, market conditions, and the acquirer's appetite for adding programs to its pipeline. M&A activity in biotech does correlate somewhat with stock-market conditions (easier to do stock deals in bull markets), but the driving force is strategic fit and clinical de-risking, not economic cycles.
+Many developmental biotech companies never reach profitability independently. Instead, they are acquired by larger firms before or after regulatory approval. Boundless's long-term future may involve [acquisition](/acquisition/) by a pharma giant, a strategic partner, or a larger biotech player. The timing and valuation of such an exit depend on clinical progress, market conditions, and the acquirer's appetite for adding programs to its pipeline. M&A activity in biotech does correlate somewhat with stock-market conditions (easier to do stock deals in [bull markets](/bull-market/)), but the driving force is strategic fit and clinical de-risking, not economic cycles.
 
 ## Stock Price Volatility Without Economic Correlation
 

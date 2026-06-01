@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Itau Unibanco is Brazil's largest bank and among the most profitable financial institutions in Latin America. The company traces its lineage to Itau Bank, founded in 1945, and Unibanco, founded in 1924, which merged in 2008 to create the modern Itau Unibanco. It operates across Brazil with a vast network of branches and digital channels, serving individuals, small and medium-sized businesses, large corporations, and institutional investors. The business is traditional: take deposits from customers, lend money to borrowers at higher rates, and capture the spread as profit. But Itau is much more than that simple description. It is a wealth manager for the richest Brazilians, an investment banker for large corporations, an insurance company, an asset manager, and a trading operation. The [diversification](/diversification/) and scale have made it remarkably profitable even in an environment where Brazil's economic growth has been uneven and its currency has been volatile.
+Itau Unibanco is Brazil's largest bank and among the most profitable [financial institutions](/fisi-stock/) in Latin America. The company traces its lineage to Itau Bank, founded in 1945, and Unibanco, founded in 1924, which merged in 2008 to create the modern Itau Unibanco. It operates across Brazil with a vast network of branches and digital channels, serving individuals, small and medium-sized businesses, large corporations, and institutional investors. The business is traditional: take deposits from customers, lend money to borrowers at higher rates, and capture the spread as profit. But Itau is much more than that simple description. It is a wealth manager for the richest Brazilians, an investment banker for large corporations, an insurance company, an asset manager, and a trading operation. The [diversification](/diversification/) and scale have made it remarkably profitable even in an environment where Brazil's economic growth has been uneven and its currency has been volatile.
 
 ## The Brazilian banking tradition
 
@@ -51,7 +51,7 @@ That currency exposure is significant. Brazil's [external debt](/external-debt/)
 
 ## Challenges and limits to profitability
 
-Itau's dominance and profitability make it a [target](/tgt-stock/) for regulation. The Brazilian government and regulators are sensitive to the power that the large banks hold over credit allocation and the economy. There is periodic discussion of breaking up the large banks or capping the interest rates they can charge. So far, those discussions have not led to major action, but the regulatory risk is real.
+Itau's dominance and profitability make it a target for regulation. The Brazilian government and regulators are sensitive to the power that the large banks hold over credit allocation and the economy. There is periodic discussion of breaking up the large banks or capping the interest rates they can charge. So far, those discussions have not led to major action, but the regulatory risk is real.
 
 Second, Itau faces competitive pressure from digital-first banks and fintech lenders. These newer entrants have lower cost structures because they do not operate physical branches. They have attracted customers, particularly younger customers, who are comfortable with mobile banking and do not need face-to-face service. So far, Itau's scale and brand have allowed it to compete, but the margin pressure from fintech competition is real.
 

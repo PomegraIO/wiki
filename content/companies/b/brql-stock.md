@@ -4,7 +4,7 @@ description: "Aerospace and defense contractor with focus on specialized compone
 keywords: ["aerospace", "defense", "government", "manufacturing", "contractor"]
 ---
 
-*[**DYNAMIC AEROSPACE SYSTEMS Corp**](BRQL), listed under ticker BRQL and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1854526, is an aerospace and defense contractor serving government and commercial aerospace customers. The company competes in the specialized segment of the aerospace supply chain where scale is smaller than tier-one primes (Boeing, Lockheed Martin) but margins and customer stickiness can be higher for firms holding critical subcontract positions. Its competitive position depends on technical capability, manufacturing efficiency, regulatory compliance, and sustained relationships with integrators and end-customers.*
+*[**DYNAMIC AEROSPACE SYSTEMS Corp**](BRQL), listed under ticker BRQL and registered with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1854526, is an aerospace and defense contractor serving government and commercial aerospace customers. The company competes in the specialized segment of the aerospace supply chain where scale is smaller than tier-one primes ([Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/)) but margins and customer stickiness can be higher for firms holding critical subcontract positions. Its competitive position depends on technical capability, manufacturing efficiency, regulatory compliance, and sustained relationships with integrators and end-customers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BRQL</td></tr>
@@ -31,7 +31,7 @@ Government contracts also impose compliance and security requirements: cost-trac
 
 Beyond government contracts, DYNAMIC AEROSPACE may serve commercial aircraft manufacturers (Boeing, Airbus) or suppliers to those integrators. Commercial aerospace is cyclical: new aircraft orders and production surge during economic growth, and contract sharply during downturns or when airlines defer purchases. An aerospace supplier with exposure to commercial programs faces [cyclical revenue](/public-company/) and profit volatility, whereas a firm focused on defense faces steadier but possibly lower-growth dynamics (defense budgets are stable, growth tied to new programs or geopolitical spending priorities).
 
-The company's segment reporting (if available) or management commentary on government vs. commercial revenue mix reveals this exposure. A 60/40 split (government/commercial) differs materially from 80/20 in terms of revenue sustainability during downturns.
+The company's [segment reporting](/segment-reporting/) (if available) or management commentary on government vs. commercial revenue mix reveals this exposure. A 60/40 split (government/commercial) differs materially from 80/20 in terms of revenue sustainability during downturns.
 
 ## Manufacturing Complexity and Capital Intensity
 
@@ -41,7 +41,7 @@ DYNAMIC AEROSPACE's capital expenditure, facility footprint, and equipment moder
 
 ## Program Dependence and Customer Concentration
 
-Aerospace contracts often extend over years or decades, creating long-term revenue visibility. However, customer concentration risk is high: if 50% of revenue comes from one program (say, an engine component for a specific fighter jet), and that program ends or is redirected, revenue drops sharply. Program terminations, production delays, or customer consolidations are material risks.
+Aerospace contracts often extend over years or decades, creating long-term revenue visibility. However, customer [concentration risk](/concentration-risk/) is high: if 50% of revenue comes from one program (say, an engine component for a specific fighter jet), and that program ends or is redirected, revenue drops sharply. Program terminations, production delays, or customer consolidations are material risks.
 
 DYNAMIC AEROSPACE's largest customers and the revenue contribution of the top few customers are disclosed in footnotes or MD&A sections. High concentration (top three customers > 50% of revenue) signals risk; diversified customer bases are more resilient.
 

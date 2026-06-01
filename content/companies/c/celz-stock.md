@@ -45,7 +45,7 @@ This customer-adoption dynamic creates a critical dependency: CELZ's revenue and
 
 ## Competitive Landscape and Market Positioning
 
-The point-of-care cell therapy space is fragmented. CELZ competes against other regenerative medicine device makers, conventional orthopedic treatments (PRP injections, corticosteroid shots, surgical repair), and centralized cell therapy providers. Some competitors are larger medical-device companies (Johnson & Johnson, Zimmer Biomet) that have developed cell therapy capabilities. Others are venture-funded startups pursuing similar decentralized manufacturing concepts.
+The point-of-care cell therapy space is fragmented. CELZ competes against other regenerative medicine device makers, conventional orthopedic treatments (PRP injections, corticosteroid shots, surgical repair), and centralized cell therapy providers. Some competitors are larger medical-device companies ([Johnson & Johnson](/jnj-stock/), [Zimmer Biomet](/zbh-stock/)) that have developed cell therapy capabilities. Others are venture-funded startups pursuing similar decentralized manufacturing concepts.
 
 CELZ's competitive position depends on whether its devices produce reliable, reproducible results; whether the process is easy enough for hospital staff to execute; and whether clinical data demonstrates superiority or equivalence at a lower total cost. If CELZ is perceived as a niche player with limited clinical validation, hospitals may be reluctant to invest. If clinical data is strong and adoption starts, the company gains scale, which lowers manufacturing costs and enables price competition.
 
@@ -57,7 +57,7 @@ This dependence on clinical evidence introduces a long development cycle and sig
 
 ## Capital Requirements and Financing Model
 
-CELZ is a capital-intensive biotech company that burns cash on R&D, clinical trials, regulatory affairs, and manufacturing scale-up. The company depends on equity raises, debt financing, and any interim revenue from early device sales or licensing partnerships. As with other early-stage device companies, CELZ's [balance sheet](/balance-sheet/) and cash runway are critical; insufficient capital forces the company to prioritize programs, delay launches, or seek partnerships.
+CELZ is a capital-intensive biotech company that burns cash on R&D, clinical trials, regulatory affairs, and manufacturing scale-up. The company depends on equity raises, [debt financing](/debt-financing/), and any interim revenue from early device sales or licensing partnerships. As with other early-stage device companies, CELZ's [balance sheet](/balance-sheet/) and cash runway are critical; insufficient capital forces the company to prioritize programs, delay launches, or seek partnerships.
 
 Early commercial traction—the first hospitals adopting CELZ devices and purchasing consumables—is crucial to demonstrating viability and securing continued funding. If devices are launched but hospital adoption is slow, investors may lose confidence and funding becomes scarce. Conversely, rapid adoption provides revenue that can fund further R&D and reduces dependence on external capital.
 

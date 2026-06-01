@@ -54,9 +54,9 @@ Exyn's competitive advantage is its software and autonomous flight technology. I
 
 ## The Venture Path
 
-Exyn was (or is) a venture-backed startup. This means it raised capital from investors betting on robotics and autonomy. Venture investors expect companies to grow quickly and achieve a large exit—either a lucrative acquisition or an IPO. Early on, Exyn was probably burning cash while building the product. At some point, it needed to show traction: customer contracts, revenue growth, path to profitability.
+Exyn was (or is) a venture-backed startup. This means it raised capital from investors betting on robotics and autonomy. Venture investors expect companies to grow quickly and achieve a large exit—either a lucrative [acquisition](/acquisition/) or an IPO. Early on, Exyn was probably burning cash while building the product. At some point, it needed to show traction: customer contracts, revenue growth, path to profitability.
 
-The company went public, likely via a [SPAC](/special-purpose-acquisition-company/) merger (a shell company that raises capital and acquires a startup to bring it public). This gave Exyn capital to scale and access to the [stock](/stock/) market. But it also meant public scrutiny, quarterly earnings pressure, and a need to deliver on promises.
+The company went public, likely via a [SPAC](/special-purpose-acquisition-company/) [merger](/merger/) (a shell company that raises capital and acquires a startup to bring it public). This gave Exyn capital to scale and access to the [stock](/stock/) market. But it also meant public scrutiny, quarterly earnings pressure, and a need to deliver on promises.
 
 ## Revenue and Unit Economics
 

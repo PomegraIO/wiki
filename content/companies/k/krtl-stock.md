@@ -29,9 +29,9 @@ Casual-dining restaurants, by contrast, are heavier. KRTL may own and operate th
 
 ## The capital structure and leverage
 
-Restaurant holding companies, especially those with expansion plans, often finance growth through [corporate bonds](/corporate-bond/) or bank loans. Capital is needed to open new company-operated locations or to buy out franchisees and consolidate unit-level economics. A holding company with debt is exposed to interest-rate risk and to the business risk of a downturn in restaurant traffic. If consumers stop dining out—or trade down to cheaper chains—revenue falls and cash becomes tight. With outstanding debt, the company may face covenant violations and pressure to sell assets or cut growth plans.
+Restaurant holding companies, especially those with expansion plans, often finance growth through [corporate bonds](/corporate-bond/) or bank loans. Capital is needed to open new company-operated locations or to buy out franchisees and consolidate unit-level economics. A holding company with debt is exposed to [interest-rate risk](/interest-rate-risk/) and to the business risk of a downturn in restaurant traffic. If consumers stop dining out—or trade down to cheaper chains—revenue falls and cash becomes tight. With outstanding debt, the company may face covenant violations and pressure to sell assets or cut growth plans.
 
-KRTL's [balance sheet](/balance-sheet/) (disclosed in the 10-K and quarterly reports) will show how much debt the company carries and how much cash flow it generates. Investors watch the ratio of debt to earnings before interest, taxes, depreciation, and amortization (EBITDA) to see if the company has room to invest or if it is stretched.
+KRTL's [balance sheet](/balance-sheet/) (disclosed in the 10-K and quarterly reports) will show how much debt the company carries and how much cash flow it generates. Investors watch the ratio of debt to earnings before interest, taxes, [depreciation](/depreciation/), and [amortization](/amortization/) ([EBITDA](/ebitda/)) to see if the company has room to invest or if it is stretched.
 
 ## Competitive position and brand
 
@@ -41,7 +41,7 @@ A brand that is losing customer traffic will struggle to recruit and retain fran
 
 ## Cyclical exposure
 
-Restaurant traffic is cyclical. During recessions, casual dining suffers as consumers eat at home or trade down to quick-service. Quick-service holds up better but still feels pressure. KRTL's exposure depends on its brand mix and customer base. If the holding company is heavily weighted toward casual dining, it is more vulnerable to an economic slowdown. If it is more quick-service, it may see less volatility. The company's [10-K](/10-k/) details this exposure.
+Restaurant traffic is cyclical. During [recessions](/recession/), casual dining suffers as consumers eat at home or trade down to quick-service. Quick-service holds up better but still feels pressure. KRTL's exposure depends on its brand mix and customer base. If the holding company is heavily weighted toward casual dining, it is more vulnerable to an economic slowdown. If it is more quick-service, it may see less volatility. The company's [10-K](/10-k/) details this exposure.
 
 ## Where to research
 

@@ -4,7 +4,7 @@ description: "South African gold miner recycling tailings and processing ore in 
 keywords: ["gold mining", "tailings", "South Africa", "Witwatersrand", "precious metals", "mining operations"]
 ---
 
-*A South African [stock](/stock/) traded on the [NASDAQ](/nasdaq/), **DRDGOLD LTD (DRD)** extracts and processes gold from both in-situ ore and recycled tailings deposits in and around the Witwatersrand Basin, a region that has driven global gold supply for over a century. The firm's customer is the worldwide market for refined gold bullion—a commodity with fixed price discovery on international exchanges—and its competitive edge rests on geology, operational scale, and the ability to extract value from deposits others have abandoned.*
+*A South African [stock](/stock/) traded on the [NASDAQ](/nasdaq/), **DRDGOLD LTD (DRD)** extracts and processes gold from both in-situ ore and recycled tailings deposits in and around the Witwatersrand Basin, a region that has driven global gold supply for over a century. The firm's customer is the worldwide market for refined gold bullion—a commodity with fixed [price discovery](/price-discovery/) on international exchanges—and its competitive edge rests on geology, operational scale, and the ability to extract value from deposits others have abandoned.*
 
 <aside class="wiki-infobox">
 <table>
@@ -23,7 +23,7 @@ DRDGOLD operates in the heart of what was once the world's dominant gold-mining 
 
 ## Who Buys Gold Mined Here
 
-The buyer is globally dispersed: central banks holding reserves, jewelry fabricators, industrial processors, and investment traders. The price is set daily on the London Bullion Market and by futures contracts on the COMEX. DRDGOLD has no influence over that price. Its job is to convert ore and tailings into a refined product—typically doré bars (rough bullion) or gold concentrate—that meets purity standards for downstream refining. The customer doesn't care about the company's name; they care that the product is what it claims to be, delivered on time, and carries no geopolitical or supply-chain risk that outweighs the price savings. South African gold carries a known, legal, and transparent supply chain—a modest advantage in a market where some production crosses reputational thresholds.
+The buyer is globally dispersed: [central banks](/central-bank/) holding reserves, jewelry fabricators, industrial processors, and investment traders. The price is set daily on the London Bullion Market and by [futures contracts](/futures-contract/) on the COMEX. DRDGOLD has no influence over that price. Its job is to convert ore and tailings into a refined product—typically doré bars (rough bullion) or gold concentrate—that meets purity standards for downstream refining. The customer doesn't care about the company's name; they care that the product is what it claims to be, delivered on time, and carries no geopolitical or supply-chain risk that outweighs the price savings. South African gold carries a known, legal, and transparent supply chain—a modest advantage in a market where some production crosses reputational thresholds.
 
 ## The Tailings Play and Its Limits
 
@@ -35,11 +35,11 @@ Mining in South Africa operates under strict environmental, labor, and black eco
 
 ## Capital Structure and Cyclical Exposure
 
-Like all mining, DRDGOLD is cyclical. When gold prices fall, margins compress. When they spike, cash generation accelerates and capex capacity expands. The company funds operations from gold sales, maintenance capex from cash flow, and growth capex from balance-sheet debt or equity raises. Because gold is priced in US dollars and DRDGOLD pays in South African rand, currency movements matter: a weak rand makes gold revenues larger in rands, improving local profitability; a strong rand does the reverse. The company's stock is sensitive to both gold prices and the rand/dollar exchange rate, making it a play not only on gold supply and demand but also on South African currency and commodity volatility.
+Like all mining, DRDGOLD is cyclical. When gold prices fall, margins compress. When they spike, cash generation accelerates and capex capacity expands. The company funds operations from gold sales, maintenance capex from cash flow, and growth capex from balance-sheet debt or equity raises. Because gold is priced in [US dollars](/us-dollar/) and DRDGOLD pays in [South African rand](/south-african-rand/), currency movements matter: a weak rand makes gold revenues larger in rands, improving local profitability; a strong rand does the reverse. The company's stock is sensitive to both gold prices and the rand/dollar exchange rate, making it a play not only on gold supply and demand but also on South African currency and commodity volatility.
 
 ## Competitive Positioning Within South African Mining
 
-DRDGOLD is one of a handful of pure-gold miners still operating in the Witwatersrand. Larger regional competitors (AngloGold Ashanti, Harmony Gold) operate multiple mines across continents and have deeper balance sheets. Smaller competitors are typically single-mine operations or exploration companies. DRDGOLD's advantage is focused expertise in tailings processing—a specific sub-segment—and scale large enough to absorb regulatory and infrastructure headwinds. Its disadvantage is the narrowness of that niche and its exposure to a single geography with known political and regulatory risks.
+DRDGOLD is one of a handful of pure-gold miners still operating in the Witwatersrand. Larger regional competitors ([AngloGold Ashanti](/au-stock/), Harmony Gold) operate multiple mines across continents and have deeper [balance sheets](/balance-sheet/). Smaller competitors are typically single-mine operations or exploration companies. DRDGOLD's advantage is focused expertise in tailings processing—a specific sub-segment—and scale large enough to absorb regulatory and infrastructure headwinds. Its disadvantage is the narrowness of that niche and its exposure to a single geography with known political and regulatory risks.
 
 ## What Moves the Stock
 

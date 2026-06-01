@@ -4,7 +4,7 @@ description: "International mining or resource extraction company, trading in th
 keywords: ["mining", "resources", "commodities", "adr", "extraction", "international"]
 ---
 
-*DATELINE RESOURCES LTD, trading in the United States as **DTREF** via American Depositary Receipt, operates in natural-resource extraction or mining, earning revenue from the sale of extracted commodities. The company's margin profile is driven by commodity pricing, production scale, and extraction costs, making it vulnerable to commodity cycles and currency fluctuations.*
+*DATELINE RESOURCES LTD, trading in the United States as **DTREF** via [American Depositary Receipt](/adr/), operates in natural-resource extraction or mining, earning revenue from the sale of extracted commodities. The company's margin profile is driven by commodity pricing, production scale, and extraction costs, making it vulnerable to commodity cycles and currency fluctuations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DTREF</td></tr>
@@ -24,7 +24,7 @@ DATELINE's extraction costs include raw materials (mining equipment, fuel, explo
 
 ## International Exposure and Currency Risk
 
-As an international resource company trading in the US via ADR (American Depositary Receipt), DATELINE faces currency exposure. If the company is based in Canada, Australia, or another commodity-exporting nation, its costs may be denominated in local currency while its revenue is priced in US dollars (the global commodity standard). A weakening US dollar increases the dollar value of local costs, squeezing margins. Conversely, a strengthening US dollar makes the company's product more expensive in local markets where it competes with other producers. Currency hedging can mitigate this risk but requires cost (option premiums, futures losses) and commitment. Smaller resource companies often lack sophisticated hedging programs, leaving them exposed to currency volatility that can swamp operational margin changes.
+As an international resource company trading in the US via ADR (American Depositary Receipt), DATELINE faces currency exposure. If the company is based in Canada, Australia, or another commodity-exporting nation, its costs may be denominated in local currency while its revenue is priced in [US dollars](/us-dollar/) (the global commodity standard). A weakening US dollar increases the dollar value of local costs, squeezing margins. Conversely, a strengthening US dollar makes the company's product more expensive in local markets where it competes with other producers. [Currency hedging](/currency-hedging/) can mitigate this risk but requires cost ([option premiums](/option-premium/), futures losses) and commitment. Smaller resource companies often lack sophisticated hedging programs, leaving them exposed to [currency volatility](/currency-volatility/) that can swamp operational margin changes.
 
 ## Capital Requirements and Project Economics
 
@@ -44,7 +44,7 @@ Mining operations are subject to stringent environmental regulations: reclamatio
 
 ## What to Focus on in the 10-K
 
-Readers examining DATELINE should review: (1) production volumes and extraction costs by mine and commodity, which show operational efficiency and cash-generation per unit; (2) reserve estimates and reserve replacement rates, which forecast production sustainability; (3) commodity-price sensitivity analysis in the risk section, which quantifies margin impact from price swings; (4) capex plans and asset-replacement schedules, which reveal capital discipline and growth ambitions; (5) debt levels and covenant structures, which determine financial stability through downturns; (6) hedging policies and derivative positions (if any), which show whether the company is locked in to certain prices; and (7) environmental liabilities and closure provisions, which reveal hidden cost obligations.
+Readers examining DATELINE should review: (1) production volumes and extraction costs by mine and commodity, which show operational efficiency and cash-generation per unit; (2) reserve estimates and reserve replacement rates, which forecast production sustainability; (3) commodity-price [sensitivity analysis](/sensitivity-analysis-valuation/) in the risk section, which quantifies margin impact from price swings; (4) capex plans and asset-replacement schedules, which reveal capital discipline and growth ambitions; (5) debt levels and covenant structures, which determine financial stability through downturns; (6) hedging policies and derivative positions (if any), which show whether the company is locked in to certain prices; and (7) environmental liabilities and closure provisions, which reveal hidden cost obligations.
 
 <div class="wiki-seealso">
 ### Closely related

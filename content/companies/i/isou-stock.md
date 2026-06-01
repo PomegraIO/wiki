@@ -46,7 +46,7 @@ A customer buying ISOU equity absorbs this commodity cycle risk. If nuclear dema
 
 ## The Financial Tether
 
-IsoEnergy is a public company, listed on OTC markets, which allows retail and institutional investors to own equity. The company funds exploration by issuing shares, issuing debt, or relying on partner companies (major miners often fund junior explorers' programs in exchange for later acquisition rights or production deals). This capital structure means ISOU is available to customers globally—a nuclear utility in France, a uranium mutual fund in Toronto, or a retail investor seeking commodity upside can all own shares.
+IsoEnergy is a public company, listed on OTC markets, which allows retail and institutional investors to own equity. The company funds exploration by issuing shares, issuing debt, or relying on partner companies (major miners often fund junior explorers' programs in exchange for later [acquisition](/acquisition/) rights or production deals). This capital structure means ISOU is available to customers globally—a nuclear utility in France, a uranium [mutual fund](/mutual-fund/) in Toronto, or a retail investor seeking commodity upside can all own shares.
 
 A customer who owns ISOU is betting on an asymmetric outcome: if a world-class uranium deposit is discovered and mined, equity value may multiply 10x or 100x. If drilling reveals sub-economic ore or technical obstacles, the company burns capital toward $0. Most exploration companies fail; a few become major mines. IsoEnergy's customers accept this distribution in hopes ISOU is among the successful few.
 

@@ -26,7 +26,7 @@ MAGNA's assets are not factories or equipment; they are rights to explore specif
 
 Properties in early-stage exploration are worth little on a balance sheet—they carry nominal book value. Their true value is speculative: the market assigns value based on geological potential (Is the rock type and alteration style consistent with ore deposits?), location (Is it accessible? Are there nearby operating mines suggesting mineralization in the region?), and management's track record. A property transition from early exploration to resource estimation to reserve definition represents a progression in risk and value; each stage refines the estimate of ore tonnage and grade, narrowing uncertainty.
 
-MAGNA's exploration portfolio likely spans multiple commodity targets (copper, gold, nickel, silver, or combinations thereof), which diversifies geological risk. However, no single property likely justifies the company's market capitalization independently; the portfolio's value is the sum of all its optionality.
+MAGNA's exploration portfolio likely spans multiple commodity targets (copper, gold, nickel, silver, or combinations thereof), which diversifies geological risk. However, no single property likely justifies the company's [market capitalization](/market-capitalization/) independently; the portfolio's value is the sum of all its optionality.
 
 ## Drilling Programs and Exploration Spending
 
@@ -36,13 +36,13 @@ The company's cash burn rate (how fast it consumes cash) is set by its explorati
 
 ## Permitting and Regulatory Path to Development
 
-Even if MAGNA discovers an economically viable deposit, converting it to a mine requires permits. In Canada, this involves environmental assessments, water-use permits, Indigenous consultation (in many jurisdictions, now legally required), and approval from provincial and federal regulators. This permitting phase can extend several years and impose conditions on mine operations, including reclamation bonds (cash set aside to restore the site after mining), water-quality monitoring, and restrictions on mining schedules.
+Even if MAGNA discovers an economically viable deposit, converting it to a mine requires permits. In Canada, this involves environmental assessments, water-use permits, Indigenous consultation (in many jurisdictions, now legally required), and approval from provincial and federal regulators. This permitting phase can extend several years and impose conditions on mine operations, including reclamation [bonds](/bond/) (cash set aside to restore the site after mining), water-quality monitoring, and restrictions on mining schedules.
 
 The regulatory environment shapes whether a deposit can become a mine at all. A property in a jurisdiction with predictable permitting timelines and established mine operations nearby has a clearer path to development than one in a region with environmental sensitivities, Indigenous land claims, or anti-mining political movements. MAGNA's property locations therefore carry implicit permitting risk that affects long-term optionality.
 
 ## Financing and Capital Dependency
 
-MAGNA raises capital through equity issuances (selling stock to investors) because debt financing is unavailable or unfavorable for a pre-revenue company. Each equity issuance dilutes existing shareholders but funds exploration. The company's ability to raise capital depends on stock-market appetite for exploration risk and the company's ability to demonstrate exploration success (new drill intersections, resource estimates, or property-option agreements with established mining companies).
+MAGNA raises capital through equity issuances (selling stock to investors) because [debt financing](/debt-financing/) is unavailable or unfavorable for a pre-revenue company. Each equity issuance dilutes existing shareholders but funds exploration. The company's ability to raise capital depends on stock-market appetite for exploration risk and the company's ability to demonstrate exploration success (new drill intersections, resource estimates, or property-option agreements with established mining companies).
 
 A development-stage mining company often pursues partnerships with larger miners—joint-venture agreements where the junior company earns an interest in the property by funding exploration, while the major company retains a participating interest. This model allows MAGNA to continue earning deeper ownership interests while leveraging the major partner's eventual mine-development capabilities.
 

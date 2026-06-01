@@ -31,7 +31,7 @@ Dental practices are sticky geographic assets. A practice's patient base is loca
 
 This geographic diffusion creates a durable asset structure: practices cannot easily be competed away by a larger practice opening down the street, because practices do not scale geographically. A third-generation family dentistry in a suburban neighborhood has real monopoly-like power over that neighborhood's patients. But that same practice faces vulnerability to consolidation — it may have no succession plan (the owner is nearing retirement and no child wants to take over), no capital for equipment replacement, and difficulty attracting and retaining associates.
 
-CID's role is to acquire these practices, preserve their local autonomy and patient relationships, remove the business headaches, and free the owner to retire or reduce hours while earning ongoing management fees. The practice owner keeps the community brand and clinical independence; CID gets scale in back-office, purchasing, and financial engineering.
+CID's role is to acquire these practices, preserve their local autonomy and patient relationships, remove the business headaches, and free the owner to retire or reduce hours while earning ongoing [management fees](/management-fee/). The practice owner keeps the community brand and clinical independence; CID gets scale in back-office, purchasing, and financial engineering.
 
 ## Multi-State Regulation and Compliance Burden
 
@@ -41,9 +41,9 @@ This regulatory fragmentation means CID cannot simply install the same managemen
 
 ## The Unit Economics of Acquisition
 
-A critical question for any practice-consolidation play is: At what price are practices being acquired, and how quickly do those acquisitions accrete to earnings? If CID pays high multiples for practices (say, ten times EBITDA) and back-office savings take years to materialize, shareholder returns will lag. If CID pays disciplined prices (six times EBITDA) and can extract 20–30% back-office savings within one to two years, then each acquisition pulls forward earnings growth.
+A critical question for any practice-consolidation play is: At what price are practices being acquired, and how quickly do those acquisitions accrete to earnings? If CID pays high multiples for practices (say, ten times [EBITDA](/ebitda/)) and back-office savings take years to materialize, shareholder returns will lag. If CID pays disciplined prices (six times EBITDA) and can extract 20–30% back-office savings within one to two years, then each acquisition pulls forward earnings growth.
 
-The [10-K](/10-k/) will disclose the acquisition history, the average purchase prices, and the EBITDA margins pre- and post-acquisition for each practice or batch of practices. An investor reading CID should examine: Are acquisition prices trending up or down? Are post-acquisition margins improving? How many practices have been acquired, at what total cost, and what is the run-rate revenue and EBITDA of the portfolio?
+The [10-K](/10-k/) will disclose the acquisition history, the average purchase prices, and the [EBITDA margins](/ebitda-margin/) pre- and post-acquisition for each practice or batch of practices. An investor reading CID should examine: Are acquisition prices trending up or down? Are post-acquisition margins improving? How many practices have been acquired, at what total cost, and what is the run-rate revenue and EBITDA of the portfolio?
 
 ## Geographic Saturation and Reinvestment Risk
 
@@ -55,7 +55,7 @@ This is a structural risk for consolidation platforms: they live on acquisition-
 
 ### Closely related
 - Practice consolidation
-- Healthcare services
+- [Healthcare services](/hcsg-stock/)
 - Back-office efficiency
 
 ### Wider context

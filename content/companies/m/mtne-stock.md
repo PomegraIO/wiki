@@ -34,7 +34,7 @@ However, the commodity channel is subject to wholesale gas prices, electricity m
 
 ## Competitive Landscape and Market Fragmentation
 
-The methane-capture and waste-gas-management space is populated by regional specialists, engineering firms offering environmental services, utilities managing their own landfill gas, and newer clean-tech startups. No dominant national or global player has yet consolidated the segment. This fragmentation reflects the regional nature of waste management and the site-by-site customization required.
+The methane-capture and waste-gas-management space is populated by regional specialists, engineering firms offering environmental services, utilities managing their own landfill gas, and newer clean-tech startups. No dominant national or global player has yet consolidated the segment. This fragmentation reflects the regional nature of [waste management](/wm-stock/) and the site-by-site customization required.
 
 CH4 competes against both direct rivals (other environmental service firms) and against the internal capabilities of large waste operators. Waste Management Inc, Swana (Solid Waste Association of North America), and other industry incumbents could theoretically internalize methane-capture operations or develop partnerships with technology providers. CH4's differentiation depends on having proprietary technology, operational expertise that justifies outsourcing, or scale that allows it to offer customer rates superior to what waste operators can achieve independently.
 
@@ -52,7 +52,7 @@ Regulatory maturity also varies by state. California and the Northeast have aggr
 
 ## Research Priorities for Evaluating CH4
 
-Examine the [10-K](/10-K/) (CIK 2044817) for the breakdown of revenue between service fees and commodity sales, the number of customer sites, customer concentration risk, and capital expenditure needs. Understand which geographies the company operates in and what the regulatory environment is in each.
+Examine the [10-K](/10-K/) (CIK 2044817) for the breakdown of revenue between service fees and commodity sales, the number of customer sites, customer [concentration risk](/concentration-risk/), and capital expenditure needs. Understand which geographies the company operates in and what the regulatory environment is in each.
 
 Look for forward-looking statements about pipeline demand—are municipalities and waste operators planning increased investments in methane capture, or is demand flattening? Review commodity price exposure: if the company has long-term fixed-price contracts, upside from rising gas prices is limited but downside is protected. If it captures commodity upside, earnings are more volatile.
 

@@ -4,7 +4,7 @@ description: "Software platform for enterprise analytics and data integration; u
 keywords: ["software", "saas", "analytics", "enterprise-software", "customer-lifetime-value", "recurring-revenue", "data-integration"]
 ---
 
-*Software companies earn their returns in a fundamentally different way than banks, brokers, or manufacturers. **Fermi Inc.** (FRMI) sells licenses or subscriptions to enterprise customers—companies that use Fermi's platform to analyze data, integrate systems, or automate workflows. Every customer generates recurring annual contract value (ACV), but only after the company has spent significant money to acquire, implement, and support them. The unit economics of the software business hang on a simple ratio: how many years of profit does each customer generate relative to the cost to acquire and land them?*
+*Software companies earn their returns in a fundamentally different way than banks, [brokers](/broker/), or manufacturers. **Fermi Inc.** (FRMI) sells licenses or subscriptions to enterprise customers—companies that use Fermi's platform to analyze data, integrate systems, or automate workflows. Every customer generates recurring annual contract value (ACV), but only after the company has spent significant money to acquire, implement, and support them. The unit economics of the software business hang on a simple ratio: how many years of profit does each customer generate relative to the cost to acquire and land them?*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FRMI</td></tr>
@@ -19,7 +19,7 @@ keywords: ["software", "saas", "analytics", "enterprise-software", "customer-lif
 
 For Fermi, a typical enterprise sale might look like this: a prospect evaluates the software, the company deploys a salesperson to close the deal, professional-services staff implement it at the customer site, and support engineers help the customer succeed. The total cost to land the customer might be $100,000 across sales, implementation, and onboarding. The customer then pays Fermi an annual subscription of $50,000 per year—say, 10 users at $5,000 per user.
 
-The unit economics come into focus when you ask: when does Fermi break even on this customer? At $50,000 annual revenue and $100,000 acquisition cost, the payback period is two years. If the customer stays for three years, Fermi generates $150,000 in total revenue, netting $50,000 in profit on a $100,000 investment. If the customer leaves after eighteen months, Fermi loses $25,000 on the deal. This is the fulcrum that every SaaS company must balance: the relationship between acquisition cost, annual contract value, and retention.
+The unit economics come into focus when you ask: when does Fermi break even on this customer? At $50,000 annual revenue and $100,000 [acquisition](/acquisition/) cost, the payback period is two years. If the customer stays for three years, Fermi generates $150,000 in total revenue, netting $50,000 in profit on a $100,000 investment. If the customer leaves after eighteen months, Fermi loses $25,000 on the deal. This is the fulcrum that every SaaS company must balance: the relationship between acquisition cost, annual contract value, and retention.
 
 ## Retention and Lifetime Value
 
@@ -27,7 +27,7 @@ The second half of the unit-economics equation is customer retention. A software
 
 Fermi's ability to retain customers depends on the value the software delivers relative to its price, the switching costs (how painful it is to migrate to a competitor), and the expansion potential (whether customers buy more seats, add modules, or increase usage as they grow). A customer that, instead of churning at two years, stays for five years and doubles spending over that time is worth multiples more to the business. Conversely, a customer who churns at one year destroys unit economics regardless of annual revenue.
 
-The churn rate—typically expressed as a monthly or annual percentage loss of customers or ACV—is the single most important metric in a software business. It is also the hardest to sustain. As competition increases, as customers' needs change, or as the product fails to evolve, churn rises and lifetime value falls. Fermi's published churn rate (if disclosed) or inferred churn rate from annual reports is the clearest window into whether the company's unit economics are improving or deteriorating.
+The churn rate—typically expressed as a monthly or annual percentage loss of customers or ACV—is the single most important metric in a software business. It is also the hardest to sustain. As competition increases, as customers' needs change, or as the product fails to evolve, churn rises and lifetime value falls. Fermi's published churn rate (if disclosed) or inferred churn rate from [annual reports](/10-k/) is the clearest window into whether the company's unit economics are improving or deteriorating.
 
 ## Pricing and Per-Unit Economics
 

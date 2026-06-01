@@ -39,7 +39,7 @@ Public markets are unpredictable for pre-commercial biotech and medtech firms. A
 
 Moving from prototype to commercial manufacturing is a major inflection point. The company must establish or partner with manufacturers who can produce the device to medical-device quality standards (ISO 13485, FDA QSR). Any defect or contamination discovered in clinical manufacturing could pause trials. Supply-chain disruptions — shortages of key components, shipping delays, or geopolitical constraints affecting Israeli companies — could delay timelines further.
 
-The company is Israeli, which adds geopolitical risk. Any escalation in regional conflict, sanctions, or trade restrictions could disrupt supply chains or limit the company's ability to raise capital in U.S. markets. While this risk is not immediate, it is a known tail risk in the region.
+The company is Israeli, which adds geopolitical risk. Any escalation in regional conflict, sanctions, or trade restrictions could disrupt supply chains or limit the company's ability to raise capital in U.S. markets. While this risk is not immediate, it is a known [tail risk](/tail-risk/) in the region.
 
 ## Reimbursement and Market Access
 

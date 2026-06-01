@@ -29,9 +29,9 @@ The firm has likely also pursued strategic partnerships, collaborations, or opti
 
 ## Debt Constraints and the Nature of Biotech Leverage
 
-Unlike a mature operating company, BLRX cannot easily borrow against future cash flows that may never materialize. Banks and bondholders require assets or cash generation to collateralize debt. A development-stage biotech has neither, making traditional debt financing impractical. Some biotech firms have accessed debt through royalty-backed financing (where a lender takes a percentage of future sales revenue) or convertible bonds, but these are expensive and contingent on eventual success.
+Unlike a mature operating company, BLRX cannot easily borrow against future cash flows that may never materialize. Banks and bondholders require assets or cash generation to collateralize debt. A development-stage biotech has neither, making traditional [debt financing](/debt-financing/) impractical. Some biotech firms have accessed debt through royalty-backed financing (where a lender takes a percentage of future sales revenue) or [convertible bonds](/convertible-bond/), but these are expensive and contingent on eventual success.
 
-BLRX's balance sheet likely carries minimal debt, reflecting this structural reality. The firm is not a borrower in the traditional sense; it is a pure equity-financed enterprise betting on the success of its pipeline. This absence of debt service obligations is actually an advantage in development-stage biotech—it means the company has maximum flexibility to allocate scarce capital to R&D without servicing interest payments.
+BLRX's [balance sheet](/balance-sheet/) likely carries minimal debt, reflecting this structural reality. The firm is not a borrower in the traditional sense; it is a pure equity-financed enterprise betting on the success of its pipeline. This absence of debt service obligations is actually an advantage in development-stage biotech—it means the company has maximum flexibility to allocate scarce capital to R&D without servicing interest payments.
 
 ## Runway and the Milestone Financing Schedule
 
@@ -41,13 +41,13 @@ BLRX's management must constantly monitor runway and plan the timing of the next
 
 ## Valuation and the Path to Positive Returns
 
-The market value of BLRX trades on the perceived probability of its pipeline programs succeeding times the eventual revenue potential if approved. A single successful drug can generate billions in peak sales, justifying a market cap worth far more than current cash burn. Conversely, a failed program or regulatory setback destroys value instantly.
+The market value of BLRX trades on the perceived probability of its pipeline programs succeeding times the eventual revenue potential if approved. A single successful drug can generate billions in peak sales, justifying a [market cap](/market-capitalization/) worth far more than current cash burn. Conversely, a failed program or regulatory setback destroys value instantly.
 
-This binary, milestone-driven valuation means BLRX shareholders are not receiving current earnings or dividend yields. They are investing in a claim on future success. The firm's financial statements will show only cash burn and accumulated deficit; operating [profit](/operating-margin/) or positive [cash flow](/free-cash-flow/) is years away at best. Investors understand this and price the stock accordingly—often with high volatility as clinical or regulatory news arrives.
+This binary, milestone-driven valuation means BLRX shareholders are not receiving current earnings or [dividend yields](/dividend-yield/). They are investing in a claim on future success. The firm's financial statements will show only cash burn and accumulated deficit; operating [profit](/operating-margin/) or positive [cash flow](/free-cash-flow/) is years away at best. Investors understand this and price the stock accordingly—often with high volatility as clinical or regulatory news arrives.
 
 ## The Alternative: Strategic Acquisition or Partnership
 
-For many development-stage biotechs, the path to capital returns is not an independent public-company exit but acquisition by a larger pharma firm. Such deals value the company based on pipeline potential and the probability-weighted present value of future revenues. Alternatively, a major [partnership](/blpg-stock/) with a Big Pharma partner can provide a substantial upfront payment plus milestone payments and royalties, effectively solving the capital problem while retaining some equity upside.
+For many development-stage biotechs, the path to capital returns is not an independent public-company exit but [acquisition](/acquisition/) by a larger pharma firm. Such deals value the company based on pipeline potential and the probability-weighted present value of future revenues. Alternatively, a major partnership with a Big Pharma partner can provide a substantial upfront payment plus milestone payments and royalties, effectively solving the capital problem while retaining some equity upside.
 
 BLRX's shareholder base should be prepared for the possibility that the company is a stepping stone to a larger entity rather than an independent long-term public company. The capital structure of a biotech firm that gets acquired is ultimately validated by the acquisition price; if the equity and partnerships were managed well, shareholders see a premium return upon exit.
 

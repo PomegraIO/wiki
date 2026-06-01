@@ -25,7 +25,7 @@ Building a modern chip factory requires billions of dollars of equipment, much o
 
 ## Serving Different Chip Types and Customers
 
-Semiconductor customers have different implantation needs depending on the chips they make. Logic chipmakers producing processors and microcontrollers require different implant profiles than memory manufacturers (DRAM or NAND flash). Analog and power semiconductor makers have different requirements again. Kokusai Electric serves this diverse customer base: large integrated device manufacturers like Samsung and Intel use its equipment; pure-play foundries like TSMC use its systems; smaller specialty chipmakers rely on Kokusai implanter technology. Each customer segment requires technical support, customization for their specific process, and often training for equipment operators. Kokusai must maintain expertise across all these applications to serve the market comprehensively.
+Semiconductor customers have different implantation needs depending on the chips they make. Logic chipmakers producing processors and microcontrollers require different implant profiles than memory manufacturers (DRAM or NAND flash). Analog and power semiconductor makers have different requirements again. Kokusai Electric serves this diverse customer base: large integrated device manufacturers like Samsung and [Intel](/intc-stock/) use its equipment; pure-play foundries like TSMC use its systems; smaller specialty chipmakers rely on Kokusai implanter technology. Each customer segment requires technical support, customization for their specific process, and often training for equipment operators. Kokusai must maintain expertise across all these applications to serve the market comprehensively.
 
 ## Japanese Manufacturing Heritage and Global Supply
 
@@ -41,7 +41,7 @@ Kokusai Electric's business model relies on equipment sales, installation and co
 
 ## Exposure to Chip Cycle Dynamics
 
-Semiconductor manufacturing goes through cyclical capex patterns. During booms, chipmakers invest heavily in new fabs and expansion, driving strong equipment demand. During downturns, fab utilization drops and customers defer capex, causing equipment revenue to collapse. Kokusai is exposed to this cyclicality: when the memory market or logic market goes into a downturn, chipmaker capex budgets shrink and orders for implanters decline. Recessions also reduce fab investment because customers cannot justify high capital spending when demand is uncertain. Kokusai's revenue is therefore not recession-proof, despite the essential role of its equipment in chip production.
+Semiconductor manufacturing goes through cyclical capex patterns. During booms, chipmakers invest heavily in new fabs and expansion, driving strong equipment demand. During downturns, fab utilization drops and customers defer capex, causing equipment revenue to collapse. Kokusai is exposed to this cyclicality: when the memory market or logic market goes into a downturn, chipmaker capex budgets shrink and orders for implanters decline. [Recessions](/recession/) also reduce fab investment because customers cannot justify high capital spending when demand is uncertain. Kokusai's revenue is therefore not recession-proof, despite the essential role of its equipment in chip production.
 
 ## Geopolitical and Trade Risks
 
@@ -56,5 +56,5 @@ Semiconductor equipment, particularly advanced systems used in cutting-edge fabs
 ### Wider context
 - Semiconductor industry capital cycles and fab expansion patterns
 - [Japanese manufacturing](/stock/) and export-dependent business models
-- Geopolitical trade policy effects on semiconductor equipment markets
+- Geopolitical trade policy effects [on semiconductor](/on-stock/) equipment markets
 </div>

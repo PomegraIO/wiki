@@ -9,7 +9,7 @@ keywords:
   - hemp
 ---
 
-*The **C21 Investments Inc. (CWLXF)** operates within one of the most heavily regulated consumer industries in North America—cannabis retail and cultivation. Federal prohibition under Schedule I coexists with dozens of state regimes that permit cannabis sale and production, creating a patchwork where legal status varies by jurisdiction and compliance demand is relentless. C21 navigates this split reality through retail and cultivation operations that must satisfy state licensing authorities, local zoning rules, and an array of tax and tracking requirements that do not exist for mainstream retailers.*
+*The **[C21 Investments](/cxxif-stock/) Inc. (CWLXF)** operates within one of the most heavily regulated consumer industries in North America—cannabis retail and cultivation. Federal prohibition under Schedule I coexists with dozens of state regimes that permit cannabis sale and production, creating a patchwork where legal status varies by jurisdiction and compliance demand is relentless. C21 navigates this split reality through retail and cultivation operations that must satisfy state licensing authorities, local zoning rules, and an array of tax and tracking requirements that do not exist for mainstream retailers.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>CWLXF</td></tr>
@@ -38,7 +38,7 @@ Every gram of cannabis that C21 cultivates, processes, or sells must be entered 
 
 Testing is mandatory. Before C21 can sell any product, an independent, state-licensed testing laboratory must verify potency (tetrahydrocannabinol and cannabidiol levels), screen for pesticides, heavy metals, microbial contamination, and mold. Products that fail testing are destroyed. Packaging must display test results, serving sizes, health warnings, QR codes linking to lab data, and plain-language potency labels. Marketing is restricted more strictly than alcohol: no billboards in some states, no advertising that targets minors, no claims of medical efficacy unless the product is sold under a state pharmacy model.
 
-Point-of-sale systems must integrate with the track-and-trace database. C21's retail staff cannot sell to anyone under 21 (in most states) without age verification, just as a liquor retailer cannot—but cannabis retailers face more stringent ID checking rules and more frequent compliance audits. State agents may conduct unannounced inspections at retail locations and cultivation facilities. Violations can include selling without a license, exceeding inventory limits, failing to pay excise taxes (which states layer on top of regular sales tax, sometimes reaching 45 percent of retail price), or selling to unlicensed processors.
+Point-of-sale systems must integrate with the track-and-trace database. C21's retail staff cannot sell to anyone under 21 (in most states) without age verification, just as a liquor retailer cannot—but cannabis retailers face more stringent ID checking rules and more frequent compliance audits. State agents may conduct unannounced inspections at retail locations and cultivation facilities. Violations can include selling without a license, exceeding inventory limits, failing to pay excise taxes (which states layer on top of regular [sales tax](/sales-tax/), sometimes reaching 45 percent of retail price), or selling to unlicensed processors.
 
 ## Tax Burden and Banking Constraints
 

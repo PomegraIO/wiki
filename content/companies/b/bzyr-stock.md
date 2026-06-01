@@ -31,7 +31,7 @@ This regulatory stalemate is central to Burzynski's risk profile, as disclosed. 
 
 The filings do not shy away from noting that antineoplaston research is scientifically controversial. The mainstream oncology and pharmaceutical establishment has not adopted antineoplastons as a therapeutic category; major cancer centers do not offer antineoplaston treatment. This scientific skepticism is reflected in the difficulty Burzynski has faced in publishing large, blinded clinical trials in leading peer-reviewed journals and in securing research collaboration with major academic medical centers.
 
-The company's disclosures indicate that it views itself as pursuing an alternative or complementary oncology approach and that its patient base includes individuals who have exhausted conventional treatments or who seek options outside mainstream medicine. This positioning is central to understanding Burzynski's business model: it is not competing head-to-head with Merck, Bristol Myers Squibb, or other major pharmaceutical companies for market share in oncology. Instead, it operates in a niche serving patients and families who are willing to pursue experimental and unproven therapies.
+The company's disclosures indicate that it views itself as pursuing an alternative or complementary oncology approach and that its patient base includes individuals who have exhausted conventional treatments or who seek options outside mainstream medicine. This positioning is central to understanding Burzynski's business model: it is not competing head-to-head with Merck, [Bristol Myers Squibb](/bmy-stock/), or other major pharmaceutical companies for market share in oncology. Instead, it operates in a niche serving patients and families who are willing to pursue experimental and unproven therapies.
 
 ## Key Person Risk
 
@@ -41,7 +41,7 @@ A signature risk disclosed repeatedly in Burzynski's filings is dependence on a 
 
 Burzynski's public filings reveal a company with modest [market-capitalization](/market-capitalization/), limited access to traditional venture or public-market capital, and reliance on operational cash flow from patient treatment fees. The company does not appear to conduct aggressive capital raising, which limits its ability to fund large-scale clinical trials or accelerate drug development. The filings note that the company carries modest debt and maintains sufficient working capital to operate the clinic and support ongoing research.
 
-This capital constraint is structural: traditional institutional investors are skeptical of investing in a micro-cap clinic dependent on a single researcher and pursuing a scientifically controversial therapeutic approach. The company's equity is traded over-the-counter, not on a major exchange, further limiting its ability to raise capital through secondary offerings.
+This capital constraint is structural: traditional institutional investors are skeptical of investing in a micro-cap clinic dependent on a single researcher and pursuing a scientifically controversial therapeutic approach. The company's equity is traded over-the-counter, not on a major exchange, further limiting its ability to raise capital through [secondary offerings](/secondary-offering/).
 
 ## Clinical Operations as Recurring Revenue
 

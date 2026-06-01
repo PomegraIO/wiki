@@ -21,7 +21,7 @@ GrowGeneration operates as a specialty distributor and retailer of hydroponics e
 
 A grower walks into a GrowGeneration store or orders online and buys a complete grow kit—hydroponic system, high-intensity discharge lights, nutrients, ventilation, and monitoring gear. The cost to GrowGeneration might be $500 (wholesale purchase from manufacturers), marked up to $800 at retail (a 60% gross margin). The profit per transaction is $300. If the store turns that specific product category 8 times per year, it generates $2,400 in gross profit per inventory slot annually. After labor, rent, and operational overhead, net margins are thin—typically in the mid-single-digit to low-double-digit range.
 
-The profitability of GrowGeneration therefore depends on three operational levers: (1) purchasing power to negotiate wholesale costs lower than competitors, (2) ability to command higher retail prices (through brand, expertise, or exclusive products), and (3) inventory turnover—how quickly shelves clear and cash cycles.
+The profitability of GrowGeneration therefore depends on three operational levers: (1) purchasing power to negotiate wholesale costs lower than competitors, (2) ability to command higher retail prices (through brand, expertise, or exclusive products), and (3) [inventory turnover](/inventory-turnover/)—how quickly shelves clear and cash cycles.
 
 ## Wholesale Consolidation and Purchasing Power
 
@@ -49,7 +49,7 @@ The company has responded by building e-commerce capabilities and expanding into
 
 ## Geographic Expansion and Local Market Saturation
 
-GrowGeneration has expanded into new geographic markets through acquisition and organic growth. The unit economics of opening a new store are favorable if the market is undersaturated (few competing hydroponics retailers) and has a large growing base (both cannabis cultivation and home gardeners). Mature markets with multiple competitors see lower returns on invested capital because store-to-store cannibalization compresses margins and traffic.
+GrowGeneration has expanded into new geographic markets through [acquisition](/acquisition/) and organic growth. The unit economics of opening a new store are favorable if the market is undersaturated (few competing hydroponics retailers) and has a large growing base (both cannabis cultivation and home gardeners). Mature markets with multiple competitors see lower returns on invested capital because store-to-store cannibalization compresses margins and traffic.
 
 The company's ability to identify and penetrate undersaturated markets is therefore central to long-term unit economics. As the company matures and saturates initial markets, growth becomes reliant on market-share gains at the expense of competitors—a zero-sum game that typically erodes margins.
 

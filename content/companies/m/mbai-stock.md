@@ -46,7 +46,7 @@ The company's revenue model depends on a combination of:
 
 - Device sales (hardware purchased by clinics and hospitals).
 - Service and maintenance contracts (consumables, support, repairs).
-- Licensing or royalties if the technology is sublicensed to larger medical-device companies.
+- Licensing [or royalties](/or-stock/) if the technology is sublicensed to larger medical-device companies.
 
 ## Relationship to Incumbent Competitors
 

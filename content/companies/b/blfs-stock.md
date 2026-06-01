@@ -29,11 +29,11 @@ Beyond preservation media, BIOLIFE has built a logistics capability for transpor
 
 ## The Cell-Therapy Adoption Curve
 
-BIOLIFE's revenue is ultimately tied to the pace of cell-therapy adoption. As more cell therapies are approved by the FDA and enter the market, demand for biopreservation and cold-chain services grows. The company's forward guidance depends on its ability to forecast how many new cell-therapy products will be commercialized and how large their patient populations will become. This introduces a strategic risk: if cell-therapy development slows (due to scientific setbacks, regulatory delays, or disappointing clinical trial results), BIOLIFE's growth may stall. Conversely, a surge in cell-therapy approvals and adoptions creates substantial tailwinds.
+BIOLIFE's revenue is ultimately tied to the pace of cell-therapy adoption. As more cell therapies are approved by the FDA and enter the market, demand for biopreservation and cold-chain services grows. The company's [forward guidance](/forward-guidance/) depends on its ability to forecast how many new cell-therapy products will be commercialized and how large their patient populations will become. This introduces a strategic risk: if cell-therapy development slows (due to scientific setbacks, regulatory delays, or disappointing clinical trial results), BIOLIFE's growth may stall. Conversely, a surge in cell-therapy approvals and adoptions creates substantial tailwinds.
 
 ## Competitive Positioning Within a Growing Market
 
-BIOLIFE competes with smaller niche providers and with larger life-sciences suppliers (Thermo Fisher, Lonza, Merck KGaA) that offer overlapping products. Larger competitors have deeper pockets and broader portfolios but may not have specialized expertise in cell preservation. BIOLIFE's advantage is focused innovation in biopreservation and accumulated customer relationships in the cell-therapy ecosystem. However, larger players could invest in acquisition or in-house development to enter this space more aggressively. BIOLIFE's path to sustainable competitive advantage is to maintain technical leadership in preservation science and to deepen integration with cell-therapy manufacturers through service-based relationships.
+BIOLIFE competes with smaller niche providers and with larger life-sciences suppliers (Thermo Fisher, Lonza, Merck KGaA) that offer overlapping products. Larger competitors have deeper pockets and broader portfolios but may not have specialized expertise in cell preservation. BIOLIFE's advantage is focused innovation in biopreservation and accumulated customer relationships in the cell-therapy ecosystem. However, larger players could invest in [acquisition](/acquisition/) or in-house development to enter this space more aggressively. BIOLIFE's path to sustainable competitive advantage is to maintain technical leadership in preservation science and to deepen integration with cell-therapy manufacturers through service-based relationships.
 
 ## Manufacturing and Scale Economics
 
@@ -45,7 +45,7 @@ Because BIOLIFE's products are used in FDA-approved therapies, any quality issue
 
 ## Geographic and Market Expansion
 
-BIOLIFE's primary market has been North America, where most advanced cell-therapy development is concentrated. As cell-therapy adoption spreads globally—particularly in Europe and Asia—demand for biopreservation and logistics in those regions will grow. BIOLIFE must either expand its own cold-chain footprint internationally or partner with local logistics providers. International expansion requires navigating different regulatory frameworks and building local relationships, which takes time and capital.
+BIOLIFE's [primary market](/primary-market/) has been North America, where most advanced cell-therapy development is concentrated. As cell-therapy adoption spreads globally—particularly in Europe and Asia—demand for biopreservation and logistics in those regions will grow. BIOLIFE must either expand its own cold-chain footprint internationally or partner with local logistics providers. International expansion requires navigating different regulatory frameworks and building local relationships, which takes time and capital.
 
 ## Research Path
 

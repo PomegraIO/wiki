@@ -19,7 +19,7 @@ keywords: ["pharmaceuticals", "drug distribution", "API", "generic drugs", "smal
 
 CPHI's competitive arena is defined by brutal mathematics. The company operates as a middleman in generic drug distribution, where the margin between what it pays for APIs or finished goods and what hospitals, pharmacies, and group purchasing organizations will pay is measured in single-digit percentages. This compresses the company's profit potential relative to branded pharmaceutical peers and forces relentless cost discipline—every vendor relationship, logistics contract, and labor decision becomes a lever for survival.
 
-The firm's dual footprint—leveraging relationships and cost structures in Asia while serving North American buyers—was once a competitive advantage. Chinese manufacturers offer lower-cost APIs; North American customers need reliable supply. But this advantage erodes as larger distributors (McKesson, Cardinal Health) use their scale to source globally, and as buyers increasingly demand direct relationships with manufacturers to cut out middlemen. CPHI must compete on relationships, speed, and willingness to take unpopular products that larger rivals bypass.
+The firm's dual footprint—leveraging relationships and cost structures in Asia while serving North American buyers—was once a competitive advantage. Chinese manufacturers offer lower-cost APIs; North American customers need reliable supply. But this advantage erodes as larger distributors (McKesson, [Cardinal Health](/cah-stock/)) use their scale to source globally, and as buyers increasingly demand direct relationships with manufacturers to cut out middlemen. CPHI must compete on relationships, speed, and willingness to take unpopular products that larger rivals bypass.
 
 ## The API-to-Patient Problem
 
@@ -41,11 +41,11 @@ This positioning is defensible but precarious. As long as there are niche custom
 
 ## Capital Structure and Debt Dependency
 
-Given tight operating margins, CPHI relies on leverage to finance working capital and growth. This debt load amplifies cash-flow pressure—any shortfall in revenue or any spike in acquisition costs for inventory directly impacts the company's ability to service obligations. Interest payments reduce already-thin margins further, and refinancing risk matters in a business where sudden changes in customer demand or supplier pricing can swing quickly.
+Given tight [operating margins](/operating-margin/), CPHI relies on leverage to finance working capital and growth. This debt load amplifies cash-flow pressure—any shortfall in revenue or any spike in [acquisition](/acquisition/) costs for inventory directly impacts the company's ability to service obligations. Interest payments reduce already-thin margins further, and [refinancing risk](/refinancing-risk/) matters in a business where sudden changes in customer demand or supplier pricing can swing quickly.
 
 ## Research Pathways
 
-To understand CPHI's competitive position, begin with its [10-K](/10-k/) annual report (SEC CIK 1106644), which details supplier concentration, customer concentration, and inventory turnover. Compare the company's gross margins to those of larger peers (McKesson, Cardinal) to see the scale disadvantage in real numbers. Review the Investor Relations section for any disclosures on major customer wins or losses—these signal the company's competitive standing. Track the company's debt levels and interest expense over several years to understand refinancing risk and cash burn.
+To understand CPHI's competitive position, begin with its [10-K](/10-k/) annual report (SEC CIK 1106644), which details supplier concentration, customer concentration, and [inventory turnover](/inventory-turnover/). Compare the company's gross margins to those of larger peers (McKesson, Cardinal) to see the scale disadvantage in real numbers. Review the Investor Relations section for any disclosures on major customer wins or losses—these signal the company's competitive standing. Track the company's debt levels and interest expense over several years to understand refinancing risk and cash burn.
 
 <div class="wiki-seealso">
 ### Closely related

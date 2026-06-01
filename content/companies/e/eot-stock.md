@@ -1,0 +1,32 @@
+---
+title: "Eaton Vance National Municipal Opportunities Trust (EOT)"
+description: "EOT is a closed-end municipal bond fund structured as a trust, using leverage to enhance tax-exempt income from U.S. municipal debt across diverse state and local issuers."
+keywords:
+  - municipal bonds
+  - closed-end fund
+  - tax-exempt income
+  - leverage
+  - bond portfolio
+  - fixed income
+handwritten: true
+---
+
+EOT is a [closed-end fund](/closed-end-fund/) trading on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker EOT, holding a diversified portfolio of municipal debt issued across the United States. Where an open-end [mutual fund](/mutual-fund/) issues and redeems shares at [net asset value](/net-asset-value/), a closed-end fund issues a fixed number of shares that trade on an exchange like any stock — which means the share price can diverge from underlying value, trading at a discount or premium depending on demand. Eaton Vance National Municipal Opportunities Trust launched in 2009 and uses a leverage strategy called residual interest bonds to amplify its income generation.
+
+The portfolio consists of municipal obligations — bonds issued by states, counties, cities, water authorities, and other public entities. The income these bonds generate is exempt from regular federal income tax, the primary attraction for taxable accounts. EOT's job is to assemble a broad basket of these bonds from across the country, manage [credit risk](/credit-risk/) within that basket, and extract enhanced returns through leverage.
+
+**Leverage mechanics.** The fund owns [municipal bonds](/municipal-bond/) outright and separately issues residual interest bonds to capital providers. The residual bonds are a form of leverage — essentially secured borrowing against the municipal portfolio. The yields on the residual bonds are lower than the yields on the underlying munis, which means if the fund's managers select bonds skillfully and structure the leverage properly, the spread between what the fund earns and what it pays to finance itself flows through to shareholders. This amplifies upside when the municipal market is healthy; it can amplify losses if [credit events](/credit-event-sovereign/) spike and underlying bond prices decline sharply, because the fund has borrowed money against assets that are now worth less.
+
+**Closed-end fund dynamics.** The fund's share price and its net asset value (NAV) often diverge. In periods when demand for municipal bonds is strong, EOT's shares might trade at a premium to NAV — investors paying more than per-share net value because they perceive the fund's bond selection and tax-exempt income as attractive. During soft periods or broader risk-off sentiment, the same fund can trade at a steep discount. This dynamic creates an additional layer of risk or opportunity for traders: a discount-to-NAV position can be attractive if you believe the discount will close, but it also signals weak investor demand.
+
+**Recent performance context.** For the period ended March 31, 2026, EOT returned 4.41% at net asset value, outperforming its Bloomberg Municipal Bond Index benchmark at 4.29%. That outperformance is modest but noteworthy; it suggests the fund's leverage and security selection added value in a period of stable municipal credit and relatively benign municipal bond market conditions. Whether that outperformance persists across an economic cycle is the actual test.
+
+**Cyclical exposure.** Municipal bond credit depends on the tax revenue health of the issuers behind them. When the economy is strong, state and local tax collections rise, making defaults rare. When growth stalls, states and municipalities face revenue shortfalls, layoffs, and reduced service capacity. The most direct hit comes when the real estate market cools — [property tax](/property-tax/) revenues plummet as assessments decline. A major [recession](/recession/) that shrinks state budgets significantly can create a wave of downgrades and defaults among municipal credits, particularly those concentrated in economically sensitive regions or heavily dependent on single industries.
+
+EOT's leverage amplifies this cycle. In benign markets, the spread between what the fund earns and what it pays to finance the residual bonds is positive and compounds shareholder returns. In a municipal credit crisis, the fund faces the worst of both worlds: underlying bonds may fall in price (due to downgrades or default expectations), and the leverage becomes a liability rather than an enhancer.
+
+**Current regime sensitivity.** The fund's 2026 performance data suggests municipal markets remain relatively stable, but the structures in EOT's portfolio concentrate its returns on three factors: the spread between municipal yields and the cost of leverage financing, credit quality (whether issuers actually pay), and duration risk (how sensitive bond prices are to interest rate moves). Each of these has shifted with policy changes and fiscal conditions across different states and municipalities. The largest tax-revenue-dependent cities are particularly exposed if local real estate markets weaken.
+
+**Structural note for investors.** Anyone holding EOT or comparing it to open-end municipal bond funds should understand the leverage cost. EOT must finance its residual bonds, and that cost rises when short-term borrowing rates climb or [credit spreads](/credit-spread/) widen. An open-end municipal fund without leverage holds the same bonds but pays for them with shareholder capital, which has no financing cost. EOT's leverage advantage evaporates if [interest rates](/interest-rate/) rise sharply or the cost of financing through residual bonds increases faster than municipal yields rise. The fund's historical practice has been to maintain a steady distribution to shareholders, which means management will try to keep leverage in place even if it becomes less attractive economically.
+
+For analysis, watch the fund's [annual report](/10-k/) or semi-annual disclosure (10-K and N-CSR forms filed with the SEC, CIK 0001454741). The municipal bond market itself — tracked through Bloomberg municipal indices and sector-specific yields — tells you whether EOT's underlying asset class is cheap or expensive relative to history. A widening spread between closed-end fund discount-to-NAV and the beginning of the cycle often precedes performance troubles, because it signals that even patient investors are rotating out of the space.

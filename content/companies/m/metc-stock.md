@@ -4,7 +4,7 @@ description: "Metallurgical coal mining company operating underground mines in W
 keywords: ["coal mining", "metallurgical coal", "coking coal", "Appalachian coal", "mining operations"]
 ---
 
-*Digging coal from the Appalachian seam belt: **RAMACO RESOURCES, INC.** (METC) mines metallurgical coal—the harder, hotter-burning variety that steelmakers require to reduce iron ore and foundries need for specialized applications. Unlike thermal coal (burned for power), metallurgical coal commands premium prices when in demand, but the market is smaller, more cyclical, and increasingly constrained by decarbonization pressure in developed economies.*
+*Digging coal from the Appalachian seam belt: **RAMACO RESOURCES, INC.** (METC) mines metallurgical coal—the harder, hotter-burning variety that steelmakers require to reduce [iron ore](/iron-ore/) and foundries need for specialized applications. Unlike thermal coal (burned for power), metallurgical coal commands premium prices when in demand, but the market is smaller, more cyclical, and increasingly constrained by decarbonization pressure in developed economies.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>METC</td></tr>
@@ -41,7 +41,7 @@ Mining is capital-intensive: underground equipment is expensive, mines require c
 
 Met coal prices are volatile. In strong years when steelmakers are building inventory, Ramaco can sell high volumes at premium prices and generate substantial free cash. In weak years, prices collapse, volumes fall, and the company struggles to cover fixed costs. The stock price often reflects sentiment about the commodity cycle rather than the company's operational excellence.
 
-Debt levels are crucial: a coal miner can service debt in good times but will struggle in downturns if leverage is high. Ramaco's balance sheet and debt covenants determine how much pain it can absorb before being forced to cut dividends, raise dilutive equity, or default.
+Debt levels are crucial: a coal miner can service debt in good times but will struggle in downturns if leverage is high. Ramaco's [balance sheet](/balance-sheet/) and debt covenants determine how much pain it can absorb before being forced to cut [dividends](/dividend/), raise dilutive equity, or default.
 
 ## Regulatory and Environmental Reality
 

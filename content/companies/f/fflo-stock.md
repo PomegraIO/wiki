@@ -37,7 +37,7 @@ This licensing pathway becomes especially valuable if the technology addresses a
 
 ## Regulatory Tailwinds and Customer Urgency
 
-Water-treatment demand is driven by regulation and litigation. When the EPA sets new drinking-water standards (as it has for certain "forever chemicals"), utilities and water districts suddenly face compliance urgency. They cannot defer treatment; they must build or upgrade systems to meet deadlines. This creates project-driven demand with less price elasticity than discretionary spending.
+Water-treatment demand is driven by regulation and litigation. When the EPA sets new drinking-water standards (as it has for certain "forever chemicals"), utilities and water districts suddenly face compliance urgency. They cannot defer treatment; they must build or upgrade systems to meet deadlines. This creates project-driven demand with less price elasticity than [discretionary spending](/discretionary-spending/).
 
 Contaminated sites—whether industrial properties, military installations, or development parcels—carry liability for the current owner or responsible party. Remediation often precedes redevelopment or sale. A developer cannot sell or build on a contaminated site; remediation is not optional. These project drivers mean that Free Flow's customers often operate under deadline, making relationship quality and execution capability high-value attributes.
 
@@ -55,7 +55,7 @@ Smaller or younger water-treatment companies like Free Flow often compete on spe
 
 ## Sustainability and Regulatory Demand
 
-Demand for water treatment is structurally underpinned by environmental regulation that is unlikely to weaken. The EPA's drinking-water standards have historically tightened (more contaminants regulated, lower concentration limits), and litigation over emerging contaminants creates pressure to remediate legacy sites. This provides a baseline of customer spending irrespective of economic cycle, though project timing and margins remain cyclically sensitive.
+Demand for water treatment is structurally underpinned by environmental regulation that is unlikely to weaken. The EPA's drinking-water standards have historically tightened (more contaminants regulated, lower [concentration limits](/concentration-limits/)), and litigation over emerging contaminants creates pressure to remediate legacy sites. This provides a baseline of customer spending irrespective of economic cycle, though project timing and margins remain cyclically sensitive.
 
 Free Flow's long-term value depends on maintaining technical credibility, winning contracts in its target niches, and executing installations profitably. Capital intensity (the cost of developing new treatment technologies or building manufacturing capacity) is moderate relative to heavy manufacturing, allowing the company to scale with modest investment if project volume grows.
 

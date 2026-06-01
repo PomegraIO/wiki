@@ -21,7 +21,7 @@ keywords: [industrial-services, equipment-management, facility-operations, BTTC,
 
 Black Titan's revenue model rests on direct service contracts with industrial operators — manufacturers, utilities, energy facilities, petrochemical plants, and similar capital-intensive operations. These customers face constant uptime demands: a production line down for hours erodes margins; a power system failure becomes catastrophic. Rather than employ all required technicians in-house, many facilities outsource routine and emergency maintenance to specialized providers. Black Titan positions itself as that outsourced technical workforce. The company bids on service contracts, negotiates labor rates and response-time guarantees, and deploys its technicians to customer sites according to contracted schedules and on-call requirements.
 
-The business model depends almost entirely on labor: the cost structure is technician wages, transportation, equipment, and overhead. Margins thus hinge on technician utilization (how fully booked they are), labor productivity (how much work each technician completes per shift), and the pricing power of the service contracts. A technician fully deployed and billable at profitable labor rates is the unit of production. Idle technicians or gaps between jobs destroy margin. Competition is fierce — facility operators can shop among dozens of regional and national service providers — so Black Titan must maintain reputation for reliability and responsiveness to retain and renew contracts.
+The business model depends almost entirely on labor: the cost structure is technician wages, transportation, equipment, and overhead. Margins thus hinge on technician utilization (how fully booked they are), [labor productivity](/labor-productivity/) (how much work each technician completes per shift), and the pricing power of the service contracts. A technician fully deployed and billable at profitable labor rates is the unit of production. Idle technicians or gaps between jobs destroy margin. Competition is fierce — facility operators can shop among dozens of regional and national service providers — so Black Titan must maintain reputation for reliability and responsiveness to retain and renew contracts.
 
 ## Facilities and Fieldwork Cadence
 
@@ -45,7 +45,7 @@ The company may address this through competitive wages, benefits, training progr
 
 Unlike software or product companies, Black Titan cannot scale linearly without adding headcount. Revenue growth requires either acquiring more contracts (which requires available technicians to fill) or expanding geographically (which requires building new service centers and recruiting in new regions). Both approaches are capital and labor-intensive.
 
-Acquisition of regional service competitors can offer one growth path — consolidating market share, pooling technician bases, and standardizing operations across regions. Organic growth relies on building market presence region by region. The company's ability to scale is ultimately bounded by its ability to hire and retain skilled labor faster than its market grows.
+[Acquisition](/acquisition/) of regional service competitors can offer one growth path — consolidating market share, pooling technician bases, and standardizing operations across regions. Organic growth relies on building market presence region by region. The company's ability to scale is ultimately bounded by its ability to hire and retain skilled labor faster than its market grows.
 
 ## Competitive Position in Operations
 

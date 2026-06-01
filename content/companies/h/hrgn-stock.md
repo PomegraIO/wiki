@@ -17,7 +17,7 @@ keywords: [regenerative medicine, biotech, tissue engineering, harvard apparatus
 
 ## The Equity-Funded Model
 
-HRGN has no debt in any material sense. The company's capital structure is straightforwardly equity—shares outstanding and the occasional restricted stock unit grant to employees and advisors. This is the standard posture for early-stage biotech: lenders will not finance the multi-year R&D phase before revenue, and equity markets understand that biotech companies must build a war chest of cash to fund years of preclinical and clinical work. HRGN raised capital through private rounds before its public listing and has since conducted [initial-public-offering](/initial-public-offering/)-related equity issuances to top up its cash reserves. The company maintains no debt covenants, credit rating, or refinancing risk because it has no debt to speak of.
+HRGN has no debt in any material sense. The company's capital structure is straightforwardly equity—shares outstanding and the occasional [restricted stock](/restricted-stock/) unit grant to employees and advisors. This is the standard posture for early-stage biotech: lenders will not finance the multi-year R&D phase before revenue, and equity markets understand that biotech companies must build a war chest of cash to fund years of preclinical and clinical work. HRGN raised capital through private rounds before its public listing and has since conducted [initial-public-offering](/initial-public-offering/)-related equity issuances to top up its cash reserves. The company maintains no debt covenants, [credit rating](/credit-rating/), or [refinancing risk](/refinancing-risk/) because it has no debt to speak of.
 
 ## Cash Burn and Runway
 
@@ -25,15 +25,15 @@ HRGN burns cash monthly on salaries, lab reagents, equipment, and clinical-trial
 
 ## Partnership Revenue and Non-Dilutive Capital
 
-HRGN has structured partnerships with larger pharmaceutical and medical-device firms, some of which include upfront payments, milestone fees, and royalties on future product sales. These arrangements serve dual purposes: they validate the company's technology platform and provide non-dilutive funding (capital raised without issuing new equity shares). Partnership revenue appears as a line item in the income statement and modestly offsets cash burn. However, partnership terms are typically uneven; the partner often retains rights to the technology in certain geographic markets or therapeutic areas, and royalty rates are negotiated from a position of HRGN's dependence. Such partnerships are thus a financial resource but also a strategic constraint.
+HRGN has structured partnerships with larger pharmaceutical and medical-device firms, some of which include upfront payments, milestone fees, and royalties on future product sales. These arrangements serve dual purposes: they validate the company's technology platform and provide non-dilutive funding (capital raised without issuing new equity shares). Partnership revenue appears as a line item in the [income statement](/income-statement/) and modestly offsets cash burn. However, partnership terms are typically uneven; the partner often retains rights to the technology in certain geographic markets or therapeutic areas, and royalty rates are negotiated from a position of HRGN's dependence. Such partnerships are thus a financial resource but also a strategic constraint.
 
 ## Equity Structure and Dilution
 
-HRGN's public shares represent one class of equity, with institutional investors (mutual funds, hedge funds) holding significant stakes. The company has authorized shares available for future equity issuances and option grants to employees. Each new capital raise dilutes existing shareholders' ownership percentage. Over time, as the company issues shares to fund operations and acquisitions, early investors and founders see their ownership stakes decline. This is expected and accepted in biotech but represents a real trade-off between preserving runway and preserving ownership—management must balance the timing and size of capital raises.
+HRGN's public shares represent one class of equity, with institutional investors ([mutual funds](/mutual-fund/), [hedge funds](/hedge-fund/)) holding significant stakes. The company has authorized shares available for future equity issuances and option grants to employees. Each new capital raise dilutes existing shareholders' ownership percentage. Over time, as the company issues shares to fund operations and [acquisitions](/acquisition/), early investors and founders see their ownership stakes decline. This is expected and accepted in biotech but represents a real trade-off between preserving runway and preserving ownership—management must balance the timing and size of capital raises.
 
 ## No Dividend, No Buyback
 
-Biotech companies at HRGN's stage do not distribute dividends; every dollar of available capital is reserved for operations and growth. Similarly, [share-buyback/](/share-buyback/) programs are not part of the capital-allocation strategy. The company's entire focus is on development and survival to the point where it can either achieve regulatory approval and commercialization or be acquired by a larger firm.
+Biotech companies at HRGN's stage do not distribute [dividends](/dividend/); every dollar of available capital is reserved for operations and growth. Similarly, [share-buyback/](/share-buyback/) programs are not part of the capital-allocation strategy. The company's entire focus is on development and survival to the point where it can either achieve regulatory approval and commercialization or be acquired by a larger firm.
 
 ## Acquisition Risk and Exit Structure
 
@@ -41,7 +41,7 @@ HRGN's long-term capital structure is fungible in a sense: the company could be 
 
 ## Expense Allocation and Cost of Capital
 
-HRGN's capital is not cheap. Raising equity at a biotech stage implies dilution and opportunity cost; the company is issuing shares at a valuation that reflects risk of failure. Unlike a profitable, dividend-paying firm that can tap debt at low interest rates, HRGN must continually prove technical progress and market potential to attract fresh investors. The cost of capital is embedded in the dilution—a higher percentage of shares outstanding to raise the same dollar amount than a larger, de-risked company would require.
+HRGN's capital is not cheap. Raising equity at a biotech stage implies dilution and opportunity cost; the company is issuing shares at a valuation that reflects risk of failure. Unlike a profitable, dividend-paying firm that can tap debt at low [interest rates](/interest-rate/), HRGN must continually prove technical progress and market potential to attract fresh investors. The cost of capital is embedded in the dilution—a higher percentage of shares outstanding to raise the same dollar amount than a larger, de-risked company would require.
 
 ## Path to Financial Sustainability
 

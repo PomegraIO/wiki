@@ -17,7 +17,7 @@ keywords: ["holding company", "industrial", "cyclical", "portfolio", "diversific
 
 ## The Holding Company Premise: Portfolio Resilience Through Diversity
 
-A holding company is a legal wrapper and financial abstraction: it owns stock or control of other companies and collects cash flow (dividends, management fees, or income from operations) to pass to shareholders. The logic is theoretically elegant. If you own a coal business (cyclically depressed in downturns) and a utilities business (more stable), the holding company smooths the aggregate volatility. Diversification, the theory goes, reduces drawdowns and improves risk-adjusted returns.
+A holding company is a legal wrapper and financial abstraction: it owns stock or control of other companies and collects cash flow (dividends, [management fees](/management-fee/), or income from operations) to pass to shareholders. The logic is theoretically elegant. If you own a coal business (cyclically depressed in downturns) and a utilities business (more stable), the holding company smooths the aggregate volatility. [Diversification](/diversification/), the theory goes, reduces drawdowns and improves risk-adjusted returns.
 
 GreenVector's value proposition rests on this premise: that it holds a portfolio of assets that generate resilient, diversified returns. If executed well, the company's earnings are less cyclical than those of a pure-play industrial operator. Downturns in one sector are offset by stability or upside in another. Over cycles, the holding structure captures value that specialty operators forfeit.
 
@@ -25,7 +25,7 @@ This is a structural, secular argument: holding companies work better than pure 
 
 ## When Diversification Fails: Correlation in Downturns
 
-The Achilles heel of holding-company theory is correlation. In normal times, different industries move somewhat independently. Coal weakness is offset by telecom strength. But in severe recessions, almost all corporate cash flows fall together. Asset classes "de-correlate" in theory but move in lockstep during systemic stress.
+The Achilles heel of holding-company theory is correlation. In normal times, different industries move somewhat independently. Coal weakness is offset by telecom strength. But in severe [recessions](/recession/), almost all corporate cash flows fall together. Asset classes "de-correlate" in theory but move in lockstep during systemic stress.
 
 GreenVector's portfolio is exposed to this risk. If its holdings are concentrated in industrial and technology sectors, both of which contract sharply in downturns, the diversification benefit vanishes. An investor might have been better served buying a single high-quality industrial company that weathered the cycle well rather than a portfolio that all declined together.
 
@@ -33,15 +33,15 @@ This is a cyclical exposure that cannot be engineered away: it is inherent to ca
 
 ## The Tax and Fee Drag: Structural Weakness
 
-Holding companies also impose structural costs. Dividends received by the parent from subsidiaries are taxed at the corporate level, then taxed again when distributed to shareholders (double taxation, mitigated but not eliminated by holding-company tax optimization). Management fees and overhead at the parent level reduce net returns to shareholders. An investor can often achieve the same diversification by directly owning a mutual fund or exchange-traded fund with lower fees and no structural tax drag.
+Holding companies also impose structural costs. Dividends received by the parent from subsidiaries are taxed at the corporate level, then taxed again when distributed to shareholders (double taxation, mitigated but not eliminated by holding-company tax optimization). Management fees and overhead at the parent level reduce net returns to shareholders. An investor can often achieve the same diversification by directly owning a [mutual fund](/mutual-fund/) or exchange-traded fund with lower fees and no structural tax drag.
 
-This is why holding-company valuations typically trade at a discount to the sum of their parts: investors rationally price in the overhead and tax inefficiency. GreenVector's shares are presumably valued at a discount to the intrinsic value of its portfolio, implicitly reflecting this structural cost.
+This is why holding-company valuations typically trade at a discount to the sum of their parts: investors rationally price in the overhead and tax inefficiency. GreenVector's shares are presumably valued at a discount to the [intrinsic value](/intrinsic-value/) of its portfolio, implicitly reflecting this structural cost.
 
-Over long periods—secular timescales—this discount accumulates and underperforms. Yet cyclically, the discount widens and narrows. In bull markets, investors pay up for holding companies, assuming skilled management will outperform. In bear markets, investors punish the structure, selling at deeper discounts. This is a pure-play cyclical swing in valuation multiples, independent of underlying asset quality.
+Over long periods—secular timescales—this discount accumulates and underperforms. Yet cyclically, the discount widens and narrows. In [bull markets](/bull-market/), investors pay up for holding companies, assuming skilled management will outperform. In [bear markets](/bear-market/), investors punish the structure, selling at deeper discounts. This is a pure-play cyclical swing in valuation multiples, independent of underlying asset quality.
 
 ## Asset Quality and Timing Mismatch
 
-GreenVector's true cyclical exposure is the quality and timing of its portfolio. If the company made acquisitions or took positions near market peaks, those assets are now underwater or stagnant. If positions were taken at troughs, they appreciate. This is a timing game, not unique to holding companies but acutely relevant.
+GreenVector's true cyclical exposure is the quality and timing of its portfolio. If the company made [acquisitions](/acquisition/) or took positions near market peaks, those assets are now underwater or stagnant. If positions were taken at troughs, they appreciate. This is a timing game, not unique to holding companies but acutely relevant.
 
 A CEO who built a holding company by buying industrial assets in 2006–2007 (top of the cycle) faces a decade of underwhelming returns. A CEO who held cash and deployed it in 2009 (trough) captures enormous gains. GreenVector's cyclical exposure is partly its portfolio's intrinsic quality and partly the vintage of its investments relative to the cycle.
 

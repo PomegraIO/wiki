@@ -4,7 +4,7 @@ description: "High-end residential and commercial real estate brokerage serving 
 keywords: [real estate, brokerage, residential, commercial, new york, luxury, market cycles]
 ---
 
-*Douglas Elliman Inc. is a **DOUG** brokerage firm operating across residential and commercial real estate across the United States and select international markets. The company moves capital between sellers and buyers, earning commissions on transaction value while managing a network of agents across metropolitan regions where capital and inventory converge.*
+*Douglas Elliman Inc. is a **DOUG** brokerage firm operating across residential and [commercial real estate](/commercial-real-estate/) across the United States and select international markets. The company moves capital between sellers and buyers, earning commissions on transaction value while managing a network of agents across metropolitan regions where capital and inventory converge.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DOUG</td></tr>
@@ -19,13 +19,13 @@ keywords: [real estate, brokerage, residential, commercial, new york, luxury, ma
 
 Douglas Elliman's operational core is straightforward but capital-intensive: recruit and retain licensed agents, provide them with brand, marketing support, and deal infrastructure, then take a share of their commissions. The company does not own property, originate mortgages, or manage portfolios; it lives off the spread between what agents earn and what the firm retains. This means efficiency depends entirely on agent productivity, retention, and willingness to channel deals through the firm's platform rather than competing brokerages.
 
-The financial model is fragile in ways familiar to all commission-based intermediaries. When property values rise and transaction volume accelerates, agent productivity and retention both improve, and the cost of retaining talent falls. When markets soften, agents defect to competitors, margins compress, and the firm's payroll becomes a large fixed cost dragging against declining revenue. The firm's leverage to pricing is near zero—it cannot charge sellers or buyers a premium above market rates without losing deals to rival brokers.
+The financial model is fragile in ways familiar to all commission-based intermediaries. When property values rise and transaction volume accelerates, agent productivity and retention both improve, and the cost of retaining talent falls. When markets soften, agents defect to competitors, margins compress, and the firm's payroll becomes a large fixed cost dragging against declining revenue. The firm's leverage to pricing is near zero—it cannot charge sellers or buyers a premium above market rates without losing deals to rival [brokers](/broker/).
 
 ## Geographic Concentration and Capital Markets
 
 Douglas Elliman's strength lies in its dominance in specific high-value markets: New York City and the Hamptons remain the firm's historical anchor, where it has deployed brand and agent relationships over decades. Florida operations, particularly Miami and Palm Beach, serve as a complementary wealth center where international capital and domestic retirees intersect. California expansion adds exposure to Los Angeles and San Francisco, though competitive intensity in these markets is high and agent switching costs are low.
 
-The firm's revenue is therefore hostage to real estate market cycles in three coastal metropolitan regions. When these markets experience sustained inventory shortages and rapid appreciation, as occurred in parts of 2021–2023, transaction velocity and deal sizes both expand, and the firm's commissions scale. Conversely, when mortgage rates rise, buyer affordability contracts, and institutional investors pause acquisitions, transaction volume collapses before any adjustment to the agent base can be made.
+The firm's revenue is therefore hostage to real estate market cycles in three coastal metropolitan regions. When these markets experience sustained inventory shortages and rapid appreciation, as occurred in parts of 2021–2023, transaction velocity and deal sizes both expand, and the firm's commissions scale. Conversely, when mortgage rates rise, buyer affordability contracts, and institutional investors pause [acquisitions](/acquisition/), transaction volume collapses before any adjustment to the agent base can be made.
 
 ## Talent and Scale Trade-Offs
 
@@ -57,7 +57,7 @@ Douglas Elliman competes by positioning as a premium brand in wealth-concentrate
 
 Douglas Elliman's operational resilience depends on sustainable transaction velocity and pricing. Because the firm takes a commission (typically 5–6% of transaction value in residential, varying in commercial), a 20% decline in transaction volume translates to a 20% decline in revenue but does not immediately reduce the agent base, support staff, or office footprint. This leverage works powerfully in an expanding market and destructively in a contraction.
 
-The firm cannot easily shift into other revenue streams—it is not a lender, an appraiser, an insurer, or a property manager. Its diversification is geographic and, to a lesser extent, product-based (residential vs. commercial, primary residence vs. investment). In a severe downturn, scale becomes a liability: the firm's large fixed costs mean it must reduce headcount aggressively, risking cultural collapse and agent flight at precisely the moment when competitive differentiation matters most.
+The firm cannot easily shift into other revenue streams—it is not a lender, an appraiser, an insurer, or a property manager. Its [diversification](/diversification/) is geographic and, to a lesser extent, product-based (residential vs. commercial, primary residence vs. investment). In a severe downturn, scale becomes a liability: the firm's large fixed costs mean it must reduce headcount aggressively, risking cultural collapse and agent flight at precisely the moment when competitive differentiation matters most.
 
 <div class="wiki-seealso">
 

@@ -4,7 +4,7 @@ description: "Online insurance and financial-services marketplace connecting con
 keywords: ["insurance", "fintech", "China", "marketplace", "wealth management"]
 ---
 
-*Huize operates as a digital marketplace where millions of Chinese consumers discover, compare, and purchase insurance products and wealth-management services. **HUIZ** (CIK 1778982) exists to solve a specific customer frustration: traditional insurance and investment products in China are sold through agents, banks, and brokers who have limited transparency on pricing, often favor high-commission products, and make it difficult for customers to compare options. Huize aggregates insurance carriers, funds, and financial advisors onto a single platform, letting consumers research, compare, and buy products online with visibility into fees and performance. The company's customers are both the consumers buying insurance and the insurance companies and asset managers paying for customer acquisition and distribution.*
+*Huize operates as a digital marketplace where millions of Chinese consumers discover, compare, and purchase insurance products and wealth-management services. **HUIZ** (CIK 1778982) exists to solve a specific customer frustration: traditional insurance and investment products in China are sold through agents, banks, and [brokers](/broker/) who have limited transparency on pricing, often favor high-commission products, and make it difficult for customers to compare options. Huize aggregates insurance carriers, funds, and financial advisors onto a single platform, letting consumers research, compare, and buy products online with visibility into fees and performance. The company's customers are both the consumers buying insurance and the insurance companies and asset managers paying for customer [acquisition](/acquisition/) and distribution.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>HUIZ</td></tr>
@@ -23,7 +23,7 @@ On the other side are insurance companies, asset managers, and other financial-s
 
 ## The Marketplace Economics
 
-Huize's revenue model hinges on commissions from financial-services providers. When a customer visits the Huize platform and purchases a health insurance policy, Huize keeps a percentage of the first-year premium or receives a flat-fee commission from the insurance carrier. If a customer buys a mutual fund or invests in a wealth product, Huize takes a fee. The larger the customer base, the more purchases happen, and the higher the total commission revenue. Huize's costs include technology development and maintenance (the platform, mobile app, data infrastructure), customer acquisition (marketing to bring new end users to the platform), customer service, and operating overhead. The margin is the commission revenue minus those operating costs.
+Huize's revenue model hinges on commissions from financial-services providers. When a customer visits the Huize platform and purchases a health insurance policy, Huize keeps a percentage of the first-year premium or receives a flat-fee commission from the insurance carrier. If a customer buys a [mutual fund](/mutual-fund/) or invests in a wealth product, Huize takes a fee. The larger the customer base, the more purchases happen, and the higher the total commission revenue. Huize's costs include technology development and maintenance (the platform, mobile app, data infrastructure), customer acquisition (marketing to bring new end users to the platform), customer service, and operating overhead. The margin is the commission revenue minus those operating costs.
 
 This model gives Huize strong incentive to grow users and transaction volume. More users mean more shopping and buying, which means more commission revenue. Retention also matters: a user who visits Huize multiple times a year and makes multiple purchases is far more valuable than a one-time visitor. Huize can increase customer lifetime value through personalization (showing customers relevant products based on their profile and past behavior), improving user experience (faster checkout, better comparisons, mobile optimization), and expanding the range of financial products available.
 
@@ -54,15 +54,15 @@ Huize is ultimately a platform that survives by capturing growth in China's digi
 <div class="wiki-seealso">
 <h3>Closely related</h3>
 <ul>
-<li><a href="/hudi-stock/">Huadi International Group Co., Ltd.</a></li>
+<li><a href="/hudi-stock/">[Huadi International](/hudi-stock/) Group Co., Ltd.</a></li>
 <li><a href="/huma-stock/">Humacyte, Inc.</a></li>
-<li><a href="/insurance/">Insurance</a></li>
+<li>Insurance</li>
 </ul>
 
 <h3>Wider context</h3>
 <ul>
-<li><a href="/10-k/">10-K Annual Report</a></li>
+<li><a href="/10-k/">10-K [Annual Report](/10-k/)</a></li>
 <li><a href="/public-company/">Public Company</a></li>
-<li><a href="/marketplace/">Marketplace</a></li>
+<li>Marketplace</li>
 </ul>
 </div>

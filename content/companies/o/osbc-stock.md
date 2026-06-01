@@ -1,0 +1,34 @@
+---
+title: "Old Second Bancorp Inc (OSBC)"
+description: "A historic Illinois community bank serving the Chicago suburbs, Old Second makes money from traditional deposit-funded lending while managing the structural economics of regional banking and exposure to commercial real estate."
+keywords:
+  - chicago banking
+  - community bank
+  - deposit-funded lending
+  - commercial lending
+  - regional banking
+  - mortgage lending
+handwritten: true
+---
+
+Old Second Bancorp is a bank holding company based in Aurora, Illinois, operating through Old Second Bank. The company is old in fact as well as name—founded in 1871. It operates in the Chicago suburbs, which is affluent, competitive territory. A bank here competes directly against other regional operators and indirectly against every national and international bank that will lend to a Chicago-area business or take a mortgage application online.
+
+The fundamentals are standard regional-bank economics: deposit-funded lending. Old Second gathers deposits—from individuals, small businesses, nonprofits, and local institutions—then lends that money out. The net interest income is the margin between what it pays depositors and what it earns on loans. Loan fees, deposit service fees, trust revenue, and wealth-management fees add to the total, but net interest income is the engine. In a low-rate environment, that engine runs slow. When rates rise, the mechanics turn torturous: depositors demand higher rates to stay, and new loans come on at higher rates while the old loan book still earns the rates from five years ago. For several quarters after a sharp rate increase, bank margins often compress before they eventually expand again.
+
+Old Second's loan portfolio is split into commercial and consumer pieces. Commercial lending includes term loans to businesses, [commercial real estate](/commercial-real-estate/) mortgages, and construction loans. Consumer lending is mortgages, home equity lines of credit, auto loans, and personal loans. The Chicago suburbs are a decent market for commercial lending—established businesses, reasonable debt capacity, less volatile than pure tech hubs or single-industry towns. But it is also mature and competitive. Growth comes from taking market share, not from expansion of the overall market.
+
+Commercial real estate is a material portion of the portfolio. Office, retail, apartment, and mixed-use properties in the suburbs. The post-pandemic dynamics hit that segment hard: office utilization fell sharply, and retail faced years of secular decline. Old Second, like all banks with CRE exposure, faced the question of whether loans would stay current or deteriorate. Actual outcomes depend on whether borrowers can refinance, find tenants, or sell—outcomes the bank does not control.
+
+The efficiency ratio (operating expense as a percentage of revenue) is high for Old Second relative to some larger banks, a normal feature of smaller regional operators. Branches cost money. Compliance costs money. Technology costs money. None of these expenses scale linearly with [balance sheet](/balance-sheet/) size. A community bank must spread fixed costs across a narrower revenue base than JPMorgan. That is the structural arithmetic of regional banking.
+
+Old Second's competitive position is solid but not dominant. It has local relationships, branch density, and knowledge of borrowers that some national banks lack. But it has no pricing power—a customer looking for a mortgage can shop nationally in minutes. It has no technology moat—digital banking is table stakes, not a differentiator. It competes on service and on the stickiness of long-term customers. That is typically enough to sustain a modest [return on equity](/return-on-equity/), but not a spectacular one.
+
+The stock has periodically attracted takeover attention, as regional banks often do. The valuation ([price-to-book ratio](/price-to-book-ratio/)) determines whether a buyer finds it attractive. When regional-bank stocks trade near book value, [acquisition](/acquisition/) becomes economically marginal. When they trade well below book, they look cheap to a larger buyer. Old Second's shareholder history reflects that dynamic—periods of acquisition interest, periods of dormancy, periods of management attempting to improve returns so the stock becomes less of an acquisition target.
+
+Asset quality cycles with the economy. Delinquencies rise in downturns, and loan losses spike. Management must be conservative enough to hold adequate reserves for expected losses but aggressive enough that lending margins stay competitive. It is a difficult balance. Quarters with high charge-offs and surprise reserve builds are costly; quarters with recoveries and releases of reserves are good surprise sources.
+
+Deposit competition is relentless. When rates are near zero, deposits are cheap and sticky. When rates spike, depositors can earn 5 percent in a [money market fund](/money-market-fund/) or Treasury, and Old Second must match that to retain deposits. That raises the cost of capital and narrows the margin. The bank's ability to gather low-cost deposits relative to competitors is a core competitive advantage. Some banks do it better than others—it depends on the quality of local relationships, the branch network, and (increasingly) on digital banking capabilities.
+
+Old Second's balance sheet reflects the regional-bank archetype. The asset side is dominated by loans—commercial, consumer, and mortgage. The liability side is dominated by deposits, supplemented by borrowings (debt issued to fund assets and manage liquidity). The equity side—the book value that shareholders own—is modest relative to assets, a natural feature of banking that relies on leverage to generate returns. A bank's return on equity is the earnings the bank generates divided by the equity deployed. That return depends on the spread between what the bank earns on assets and what it pays for funding, adjusted for loan losses and operating costs. For Old Second, that return has typically been modest but acceptable—enough to attract long-term holders but not so spectacular as to invite aggressive competition from new entrants.
+
+An analyst studying Old Second should examine the 10-K (SEC CIK 0000357173) for loan composition, net interest margin trends, reserve adequacy, and deposit flows. Watch the nonperforming-asset ratio—it predicts credit losses. The efficiency ratio reveals whether costs are under control. The price-to-book ratio is the common valuation metric for banks; a deep discount suggests either skepticism about returns or vulnerability to acquisition. The [yield curve](/yield-curve/) matters: a steep curve benefits the bank's margin, while a flat curve hurts it. And understand the Chicago-area economy—major employers, real estate cycles, credit demand—because that is the water the bank swims in. Regional banks are local businesses dressed up in stock ticker form.

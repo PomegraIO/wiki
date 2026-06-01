@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Enact Holdings is the primary [private mortgage insurance](/private-mortgage-insurance/) company in the United States.** Spun out of Genworth Financial in 2021, the company underwrites residential mortgage guaranty insurance—essentially betting that borrowers won't default on their loans. Banks and lenders buy this insurance to mitigate [credit risk](/credit-risk/) and meet regulatory capital requirements on loans where borrowers put down less than 20 percent.
+**Enact Holdings is the primary [private mortgage insurance](/private-mortgage-insurance/) company in the United States.** Spun out of [Genworth Financial](/gnw-stock/) in 2021, the company underwrites residential mortgage guaranty insurance—essentially betting that borrowers won't default on their loans. Banks and lenders buy this insurance to mitigate [credit risk](/credit-risk/) and meet regulatory capital requirements on loans where borrowers put down less than 20 percent.
 
 The mortgage insurance business is fundamentally countercyclical. Premium volume grows when housing starts heat up and originations spike, but losses mount when [interest rates](/interest-rate/) rise or employment cracks. Enact operates in that middle ground, collecting premiums on healthy loans while maintaining capital reserves for the inevitable downturn. The company also writes pool insurance (covering aggregated loan portfolios) and handles contract underwriting—doing the loan-level risk assessment that lenders outsource.
 

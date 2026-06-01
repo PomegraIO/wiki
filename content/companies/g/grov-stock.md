@@ -44,7 +44,7 @@ State laws add more requirements. California requires negative-option subscripti
 
 As a direct-to-consumer company, Grove collects substantial customer data: names, addresses, payment information, purchase history, browsing behavior, and (if the company surveys customers) health and preference information. This data is governed by multiple privacy frameworks. The California Consumer Privacy Act (CCPA) and its successor, the California Privacy Rights Act (CPRA), give California residents rights to access, delete, and opt out of sale of their personal information. Similar laws are now in effect in Virginia, Colorado, Connecticut, and other states, and more are coming. Grove must honor these rights or face penalties and litigation.
 
-Federal law also applies. The Health Breach Notification Rule applies if Grove collects health information from customers. The Gramm-Leach-Bliley Act applies if the company engages in financial services (accepting payments). Compliance requires privacy policies that are accurate and up-to-date, data security measures that are reasonable, breach-notification procedures, and opt-out mechanisms for marketing.
+Federal law also applies. The Health Breach Notification Rule applies if Grove collects health information from customers. The [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) applies if the company engages in financial services (accepting payments). Compliance requires privacy policies that are accurate and up-to-date, data security measures that are reasonable, breach-notification procedures, and opt-out mechanisms for marketing.
 
 ## Product Liability and Adverse Reactions
 

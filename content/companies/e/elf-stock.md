@@ -19,7 +19,7 @@ keywords: ["cosmetics", "beauty", "skincare", "consumer brands", "direct-to-cons
 
 Beauty and cosmetics markets are stratified by price and positioning. Luxury brands (department-store prestige) capture high margins but serve a smaller, affluent customer base. Mass-market drugstore brands compete on price and ubiquity. The middle tier—where ELF operates—targets customers seeking quality and trend-relevance without paying prestige prices. This segment has expanded as social media and beauty influencers have made makeup tutorials and trend cycles visible to younger, cost-conscious audiences. ELF's brand identity emphasizes value and playfulness, with product lines that track makeup trends (colorful eyeshadows, contouring, lip innovations) faster than mass-market competitors but at a fraction of prestige pricing.
 
-The company manufactures products in-house and through contract manufacturers, then distributes via its own website, owned retail stores, wholesale partners (Ulta, Target, Walmart), and international retailers. This diversified distribution allows ELF to reach multiple customer segments and geographies while maintaining control over brand positioning through owned channels.
+The company manufactures products in-house and through contract manufacturers, then distributes via its own website, owned retail stores, wholesale partners (Ulta, [Target](/tgt-stock/), [Walmart](/wmt-stock/)), and international retailers. This diversified distribution allows ELF to reach multiple customer segments and geographies while maintaining control over brand positioning through owned channels.
 
 ## Direct-to-Consumer Growth and Margin Benefits
 
@@ -35,7 +35,7 @@ Skincare is a growing frontier for ELF, positioning the brand as a comprehensive
 
 ## Wholesale Relationships and Retail Dependence
 
-ELF distributes through major US retailers (Target, Walmart, Ulta) and international partners. These wholesale relationships provide volume, exposure, and cash flow but create dependence. A major retailer can reduce shelf allocation, deemphasize the brand, or delisting it entirely, directly impacting sales. ELF must maintain product freshness and newness to justify retail shelf space in a crowded cosmetics aisle where competition for facings is intense. Slower-turning SKUs get cut, so the company must carefully manage which products to push for retail versus reserve for DTC-only distribution.
+ELF distributes through major US retailers ([Target](/tgt-stock/), Walmart, Ulta) and international partners. These wholesale relationships provide volume, exposure, and cash flow but create dependence. A major retailer can reduce shelf allocation, deemphasize the brand, or delisting it entirely, directly impacting sales. ELF must maintain product freshness and newness to justify retail shelf space in a crowded cosmetics aisle where competition for facings is intense. Slower-turning SKUs get cut, so the company must carefully manage which products to push for retail versus reserve for DTC-only distribution.
 
 Wholesale margins are typically lower than DTC, but wholesale is necessary for reaching customers in stores and building broader brand awareness. ELF's financial health depends on balancing wholesale volume and profitability with DTC growth.
 

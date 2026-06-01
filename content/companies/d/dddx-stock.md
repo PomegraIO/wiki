@@ -41,7 +41,7 @@ The competitive field includes material suppliers (3M, Stratasys, ExOne), equipm
 
 ## Financial Outlook and Risk Factors
 
-Success for 3DX requires sustained adoption of additive manufacturing in its target industries and continued ability to improve material economics. Regulatory approval is relevant in some segments (aerospace and dental components must meet strict standards), so product development can be slow. Currency exposure is significant if the company exports materials. Concentration risk applies if a small number of customers account for a disproportionate share of revenue.
+Success for 3DX requires sustained adoption of additive manufacturing in its target industries and continued ability to improve material economics. Regulatory approval is relevant in some segments (aerospace and dental components must meet strict standards), so product development can be slow. Currency exposure is significant if the company exports materials. [Concentration risk](/concentration-risk/) applies if a small number of customers account for a disproportionate share of revenue.
 
 The company's profitability is sensitive to raw material costs (petroleum-based resins, specialty powders), manufacturing efficiency, and demand cyclicality. A downturn in aerospace or automotive production can hit volumes and pricing simultaneously.
 

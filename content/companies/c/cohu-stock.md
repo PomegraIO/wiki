@@ -17,7 +17,7 @@ keywords: ["semiconductor", "testing", "equipment", "manufacturing", "industrial
 
 ## The Test Equipment Bottleneck
 
-Before a chip reaches a customer, it must prove itself. COHU manufactures and markets test handlers, socket interface products, and thermal chambers—the equipment that runs thousands of chips through their paces at speed and temperature extremes. This is not glamorous work, but it is inescapable work. Every [semiconductor](/stock/) vendor from the largest foundry to the smallest fabless design house depends on test equipment to catch defects and verify performance. The company's customer base includes the chipmakers themselves (TSMC, Intel, Samsung, SK Hynix) and their equipment suppliers, making COHU a second- or third-order lever in the semiconductor value chain.
+Before a chip reaches a customer, it must prove itself. COHU manufactures and markets test handlers, socket interface products, and thermal chambers—the equipment that runs thousands of chips through their paces at speed and temperature extremes. This is not glamorous work, but it is inescapable work. Every [semiconductor](/stock/) vendor from the largest foundry to the smallest fabless design house depends on test equipment to catch defects and verify performance. The company's customer base includes the chipmakers themselves (TSMC, [Intel](/intc-stock/), Samsung, SK Hynix) and their equipment suppliers, making COHU a second- or third-order lever in the semiconductor value chain.
 
 ## Trapped Between Consolidation and Saturation
 
@@ -27,7 +27,7 @@ COHU's installed base is deep but not growing fast. Its customers buy new test e
 
 ## History and Pivot
 
-Founded in the 1960s, COHU spent its first decades as a maker of standard industrial components—connectors, handlers, and probing systems. By the 1990s, it had pivoted fully into semiconductor test handlers and thermal solutions. The company went [public](/initial-public-offering/) decades ago and has remained listed through cycles of consolidation. A series of acquisitions (notably Ismeca Electronics, handler manufacturers, and circuit-probe technologies) added product lines but have not fundamentally altered the company's market position or scale.
+Founded in the 1960s, COHU spent its first decades as a maker of standard industrial components—connectors, handlers, and probing systems. By the 1990s, it had pivoted fully into semiconductor test handlers and thermal solutions. The company went [public](/initial-public-offering/) decades ago and has remained listed through cycles of consolidation. A series of [acquisitions](/acquisition/) (notably Ismeca Electronics, handler manufacturers, and circuit-probe technologies) added product lines but have not fundamentally altered the company's market position or scale.
 
 ## The Lifecycle Moment
 

@@ -17,7 +17,7 @@ keywords: ["healthcare services", "medical imaging", "urgent care", "outpatient"
 
 ## The Business Across the Cycle
 
-Concord operates via three primary service lines: diagnostic imaging (MRI, CT, X-ray centers), urgent care clinics, and occupational health services for employers. The company's economics are cyclical in one critical dimension: occupational health and urgent care visits track employment levels and workplace activity. During periods of economic expansion, employers maintain robust safety programs, conduct required medical surveillance, and employees seek urgent care for non-emergency acute illness. When recessions arrive and unemployment rises, demand for occupational screening softens—companies reduce discretionary health spending, and fewer workers means fewer visits overall.
+Concord operates via three primary service lines: diagnostic imaging (MRI, CT, X-ray centers), urgent care clinics, and occupational health services for employers. The company's economics are cyclical in one critical dimension: occupational health and urgent care visits track employment levels and workplace activity. During periods of economic expansion, employers maintain robust safety programs, conduct required medical surveillance, and employees seek urgent care for non-emergency acute illness. When [recessions](/recession/) arrive and unemployment rises, demand for occupational screening softens—companies reduce discretionary health spending, and fewer workers means fewer visits overall.
 
 The imaging division, by contrast, depends partly on physician referrals and insurance coverage stability. A structural concern shadows this line: over the past decade, hospital systems have increasingly integrated diagnostic imaging in-house or shifted to more centralized regional imaging hubs, directly competing with Concord's decentralized clinic model. Employer health plans have also consolidated, meaning large employers may negotiate imaging services as part of broader healthcare bundles, reducing independence providers' leverage.
 
@@ -35,7 +35,7 @@ First, hospital consolidation has accelerated dramatically in the past 15 years.
 
 Second, digital and home-based diagnostics are shifting where imaging and urgent care happen. Telehealth urgent care now captures a portion of non-emergency visits; point-of-care ultrasound and portable imaging are moving procedures out of dedicated centers. While full MRI and CT imaging still require stationary facilities, the broader trend erodes the "need to come to our center" proposition that Concord depends on.
 
-Third, large employers increasingly self-insure and manage occupational health programs in-house or contract with national health services firms and health plans rather than local diagnostic chains. Consolidation of employer purchasing power has reduced Concord's negotiating position and shifted price discovery away from volume-based relationships toward large national contracts that favor scale and integration.
+Third, large employers increasingly self-insure and manage occupational health programs in-house or contract with national health services firms and health plans rather than local diagnostic chains. Consolidation of employer purchasing power has reduced Concord's negotiating position and shifted [price discovery](/price-discovery/) away from volume-based relationships toward large national contracts that favor scale and integration.
 
 ## Where the Cycle Meets the Secular Shift
 
@@ -53,9 +53,9 @@ The occupational health cycle will continue to turn with the economy. The questi
 - Hospital Systems
 
 ### Wider context
-- Healthcare Services
+- [Healthcare Services](/hcsg-stock/)
 - Occupational Health
 - Medical Imaging
-- Business Cycles
+- [Business Cycles](/business-cycle/)
 - [10-K](/10-k/)
 </div>

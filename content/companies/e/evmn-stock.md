@@ -49,7 +49,7 @@ Monitor clinical-trial enrollment and milestone progress closely; slowness in en
 <div class="wiki-seealso">
 ### Closely related
 - Juno Therapeutics (formerly JUNO)
-- Sangamo Therapeutics (SGMO)
+- [Sangamo Therapeutics](/sgmo-stock/) (SGMO)
 
 ### Wider context
 - [stock](/stock/)

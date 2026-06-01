@@ -29,7 +29,7 @@ For most of the company's life as a public company, the Chinese peer-to-peer len
 
 The sector faced mounting regulatory scrutiny after 2015, however. China's financial regulators, concerned about credit risk concentration, unscrupulous platform operators, and [systemic risk](/systemic-risk/), began tightening rules around peer-to-peer lending. The government mandated capital buffers, restricted marketing claims, and imposed stricter borrower vetting. Several high-profile platform collapses and fraud cases eroded investor confidence and consumer trust. By 2021–2023, the Chinese P2P lending sector had contracted sharply, with many platforms shutting down or being forced to transition to regulated lending channels.
 
-This compression has meant that platforms like Yiren Digital compete in a substantially smaller ecosystem than they did a decade ago. Regulatory compliance costs increased while the addressable market shrank. The company has had to adapt its business model, shifting emphasis toward partnerships with licensed financial institutions and moving away from pure P2P marketplace dynamics. It now operates more as a technology servicer for other lenders rather than a direct marketplace.
+This compression has meant that platforms like Yiren Digital compete in a substantially smaller ecosystem than they did a decade ago. Regulatory compliance costs increased while the addressable market shrank. The company has had to adapt its business model, shifting emphasis toward partnerships with licensed [financial institutions](/fisi-stock/) and moving away from pure P2P marketplace dynamics. It now operates more as a technology servicer for other lenders rather than a direct marketplace.
 
 ## Financial Position and Investor Considerations
 

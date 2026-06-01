@@ -19,7 +19,7 @@ keywords: ["biotech", "immunotherapy", "clinical trials", "oncology", "RNA"]
 
 Clinical-stage biopharmaceutical companies exist in a distinct financial and operational context compared to commercial-stage pharma. Barinthus, like most development-stage biotech firms, has minimal or no product revenue. Instead, the company spends capital on research, preclinical studies, Investigational New Drug (IND) applications, clinical trials, and regulatory submissions. The company's only current revenue source is cash raised from public markets, private investors, or partners. Its [cash burn](/free-cash-flow/) rate—the speed at which it depletes its cash reserves funding development—is a critical survival metric.
 
-A typical clinical-stage company has 18–36 months of cash runway based on current burn rate. When that runway is exhausted, the company must either (1) achieve a major milestone (positive trial data, partnership deal, acquisition) that enables new financing, or (2) dilute existing shareholders through new stock issuance at lower valuations. For Barinthus, understanding the current cash balance, estimated burn rate, and timeline to key clinical milestones is essential to assessing near-term funding risk.
+A typical clinical-stage company has 18–36 months of cash runway based on current burn rate. When that runway is exhausted, the company must either (1) achieve a major milestone (positive trial data, partnership deal, [acquisition](/acquisition/)) that enables new financing, or (2) dilute existing shareholders through new stock issuance at lower valuations. For Barinthus, understanding the current cash balance, estimated burn rate, and timeline to key clinical milestones is essential to assessing near-term funding risk.
 
 ## Immunotherapy Competitive Landscape: Crowding and De-Risking
 
@@ -29,7 +29,7 @@ Barinthus's RNA-immunotherapy approach is a specific modality: using engineered 
 
 ## Portfolio Composition and Program Prioritization
 
-Barinthus's pipeline likely includes multiple programs at various stages: possibly a lead candidate in Phase 1 or Phase 2 trials, and earlier-stage preclinical or Phase 1 assets. The company's strategy for prioritizing programs—which to advance aggressively, which to divest, which to partner—reflects management's view of competitive positioning and capital availability. Companies often partner programs early (licensing rights to larger pharma partners in exchange for upfront and milestone payments) to de-risk balance sheets and extend runway.
+Barinthus's pipeline likely includes multiple programs at various stages: possibly a lead candidate in Phase 1 or Phase 2 trials, and earlier-stage preclinical or Phase 1 assets. The company's strategy for prioritizing programs—which to advance aggressively, which to divest, which to partner—reflects management's view of competitive positioning and capital availability. Companies often partner programs early (licensing rights to larger pharma partners in exchange for upfront and milestone payments) to de-risk [balance sheets](/balance-sheet/) and extend runway.
 
 Reading Barinthus's most recent 10-K or prospectus reveals the detailed pipeline: trial status, mechanism, target indication, competitive positioning, and timeline expectations for each program. Programs with positive interim data, clear regulatory pathways, and weak competitive sets are more valuable than crowded indications with high clinical-failure rates.
 

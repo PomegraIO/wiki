@@ -17,15 +17,15 @@ keywords: ["construction services", "concrete repair", "foundation leveling", "c
 
 ## A Decidedly Cyclical Market
 
-Concrete leveling and foundation repair is a firmly cyclical business. Property owners—homeowners and commercial real estate operators—choose to hire contractors for foundation and concrete work based on available capital, property values, borrowing costs, and confidence in their financial future. When mortgage rates are low and property values are rising, homeowners are more likely to invest in property maintenance and improvement. When rates spike or property values fall, discretionary spending on concrete repair and leveling is deferred or cancelled.
+Concrete leveling and foundation repair is a firmly cyclical business. Property owners—homeowners and [commercial real estate](/commercial-real-estate/) operators—choose to hire contractors for foundation and concrete work based on available capital, property values, borrowing costs, and confidence in their financial future. When mortgage rates are low and property values are rising, homeowners are more likely to invest in property maintenance and improvement. When rates spike or property values fall, [discretionary spending](/discretionary-spending/) on concrete repair and leveling is deferred or cancelled.
 
 This is the inverse of the secular biotech or software model. A homeowner with a settling foundation will absolutely need leveling eventually, but the timing of that project is elastic. A patient with cancer cannot defer chemotherapy; a patient with a sinking patio can. CLEV's fortunes thus ride economic cycles directly and visibly.
 
 ## Residential Real Estate and Homeowner Capital
 
-The largest addressable market for CLEV is likely homeowners facing foundation settlement, concrete sinking, or other property defects that can be repaired by leveling or underpinning. The willingness to hire CLEV is predicated on: (1) the homeowner's perceived home value, which typically correlates with recent comparable sales and market sentiment; (2) the homeowner's available capital or access to credit; and (3) the rate at which the homeowner can borrow (if financing the repair). All three of these move with the business cycle.
+The largest addressable market for CLEV is likely homeowners facing foundation settlement, concrete sinking, or other property defects that can be repaired by leveling or underpinning. The willingness to hire CLEV is predicated on: (1) the homeowner's perceived home value, which typically correlates with recent comparable sales and market sentiment; (2) the homeowner's available capital or access to credit; and (3) the rate at which the homeowner can borrow (if financing the repair). All three of these move with the [business cycle](/business-cycle/).
 
-In a rising real estate market with low interest rates, homeowners have capital (through home equity extraction) and motivation (home values are appreciating, so repairs feel like value-protecting investment). In a falling market with high rates, capital is tight and motivation wanes. A homeowner whose property has lost 20% of value is less likely to spend $10,000 on concrete leveling.
+In a rising real estate market with low [interest rates](/interest-rate/), homeowners have capital (through home equity extraction) and motivation (home values are appreciating, so repairs feel like value-protecting investment). In a falling market with high rates, capital is tight and motivation wanes. A homeowner whose property has lost 20% of value is less likely to spend $10,000 on concrete leveling.
 
 ## Commercial Real Estate and Occupancy Cycles
 
@@ -37,7 +37,7 @@ The severity of this cyclicality has intensified in recent years with rising int
 
 A company like CLEV generates leads through homeowner referrals, contractor relationships, insurance claims (for damage), and direct marketing. In a strong market, lead generation is organic—homeowners call with settlement complaints, contractors refer work, insurance adjusters send estimates. In a weak market, that inbound slows and the company must spend more on marketing to reach fewer prospects willing to buy.
 
-The sales cycle is highly sensitive to mood. A homeowner browsing CLEV's website during a bull market may quickly move to a quote and hire; the same homeowner during a bear market may bookmark the site and revisit when finances improve. CLEV has little ability to compress or speed this decision cycle; it must absorb the variability.
+The sales cycle is highly sensitive to mood. A homeowner browsing CLEV's website during a [bull market](/bull-market/) may quickly move to a quote and hire; the same homeowner during a [bear market](/bear-market/) may bookmark the site and revisit when finances improve. CLEV has little ability to compress or speed this decision cycle; it must absorb the variability.
 
 ## Pricing Power and Wage Competition
 

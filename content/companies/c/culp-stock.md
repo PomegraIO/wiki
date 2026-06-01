@@ -21,7 +21,7 @@ Culp manufactures fabrics from raw materials—polyester, nylon, and other synth
 
 ## Cyclical Demand and Economic Sensitivity
 
-Culp's end markets are economically cyclical. Furniture demand rises with consumer confidence and housing activity; it falls during recessions when consumers defer purchases and new-home construction slows. Automotive production correlates with vehicle sales; in a downturn, vehicle orders drop, and automotive suppliers face precipitous volume declines. During a recession, Culp's revenues can fall 20% to 30% as customers cut orders. Manufacturing plants designed for peak demand become underutilized, and fixed costs per unit rise. Profitability can swing wildly based on macroeconomic conditions beyond Culp's control. The company cannot smooth demand across cycles; it must either maintain excess capacity (inefficient in downturns) or risk being unable to serve peak demand (losing customers).
+Culp's end markets are economically cyclical. Furniture demand rises with consumer confidence and housing activity; it falls during [recessions](/recession/) when consumers defer purchases and new-home construction slows. Automotive production correlates with vehicle sales; in a downturn, vehicle orders drop, and automotive suppliers face precipitous volume declines. During a recession, Culp's revenues can fall 20% to 30% as customers cut orders. Manufacturing plants designed for peak demand become underutilized, and fixed costs per unit rise. Profitability can swing wildly based on macroeconomic conditions beyond Culp's control. The company cannot smooth demand across cycles; it must either maintain excess capacity (inefficient in downturns) or risk being unable to serve peak demand (losing customers).
 
 ## Customer Concentration and Power Imbalance
 
@@ -37,7 +37,7 @@ Culp serves niches (upholstered furniture, automotive interiors, industrial fabr
 
 ## Capital Intensity and Depreciation Risk
 
-Textile manufacturing requires significant capital in looms, dyes, finishes, and equipment. Culp must maintain and upgrade these assets continuously. Technological change—new dyeing methods, automation—can render existing equipment obsolete before its useful life is exhausted, forcing accelerated replacement. Depreciation is a large non-cash charge, reducing reported profitability. Asset writedowns occur when equipment is abandoned before full depreciation. A company with high capital intensity must generate strong returns on those assets to justify the investment; Culp's thin margins make this difficult.
+Textile manufacturing requires significant capital in looms, dyes, finishes, and equipment. Culp must maintain and upgrade these assets continuously. Technological change—new dyeing methods, automation—can render existing equipment obsolete before its useful life is exhausted, forcing accelerated replacement. [Depreciation](/depreciation/) is a large non-cash charge, reducing reported profitability. Asset writedowns occur when equipment is abandoned before full depreciation. A company with high capital intensity must generate strong returns on those assets to justify the investment; Culp's thin margins make this difficult.
 
 ## Environmental Regulation and Compliance Cost
 

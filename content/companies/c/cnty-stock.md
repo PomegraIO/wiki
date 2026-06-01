@@ -21,11 +21,11 @@ keywords: ["casino", "gaming", "hospitality", "discretionary spending", "regiona
 
 Century Casinos generates the majority of its revenue from gaming and hospitality—two categories tightly correlated with consumer willingness and ability to spend on non-essentials. When unemployment rises, wage growth stalls, or consumer confidence falls, discretionary trips to casinos decline. The cost per visit may drop (lower betting intensity, shorter stays, fewer premium-table players), and overall volume contracts.
 
-Recessions and consumer downturns directly compress regional casino operator revenues. Unlike electric utilities or healthcare companies, casinos lack a captive customer base indifferent to economic conditions. The company's earnings and cash flow are leveraged to the business cycle.
+[Recessions](/recession/) and consumer downturns directly compress regional casino operator revenues. Unlike electric utilities or healthcare companies, casinos lack a captive customer base indifferent to economic conditions. The company's earnings and cash flow are leveraged to the [business cycle](/business-cycle/).
 
 ## Geographic Exposure and Market Fragmentation
 
-Century Casinos operates in multiple jurisdictions across the United States and internationally. This geographic diversification provides some hedge against any single region's recession, but it does not eliminate cyclicality—it merely fragments it. If the U.S. economy enters recession, most of the company's North American properties will face synchronized headwinds.
+Century Casinos operates in multiple jurisdictions across the United States and internationally. This geographic [diversification](/diversification/) provides some hedge against any single region's recession, but it does not eliminate cyclicality—it merely fragments it. If the U.S. economy enters recession, most of the company's North American properties will face synchronized headwinds.
 
 The company's exposure to specific regional markets (such as Colorado, with its historic mining towns and limited gaming jurisdiction) ties it to local economic health. The growth of gaming in certain states reflects regulatory liberalization (a secular trend), but utilization and profitability remain cyclically sensitive.
 
@@ -47,7 +47,7 @@ Like many capital-intensive operators, Century Casinos carries debt to finance p
 
 ## No Secular Hedges
 
-Unlike some discretionary-spending categories that have secular hedges (e.g., low-cost fast food as a recession-resistant alternative to full-service dining), gaming lacks an obvious substitute for expensive experiences. A consumer cutting discretionary spending will reduce casino visits; there is no cheaper gaming alternative that attracts them to Century Casinos properties.
+Unlike some discretionary-spending categories that have secular hedges (e.g., low-cost fast food as a recession-resistant alternative to full-service dining), gaming lacks an obvious substitute for expensive experiences. A consumer cutting [discretionary spending](/discretionary-spending/) will reduce casino visits; there is no cheaper gaming alternative that attracts them to Century Casinos properties.
 
 The long-term trajectory of legalized gaming in North America is secular and expansionary (regulatory liberalization continues gradually), but this trend does not protect the company from the business cycle. A recession in 2027 will reduce gaming volumes regardless of the secular expansion in gaming jurisdictions.
 

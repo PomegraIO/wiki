@@ -53,7 +53,7 @@ The company's defensive position rests on its regulatory approval, growing clini
 
 ## Capital Structure and Growth Financing
 
-As a medical-device company, Inspire operates in a capital-intensive space with long development cycles and regulatory timelines. The company has historically funded growth through equity raises and retained earnings as the business has matured toward profitability. Unlike venture-backed biotech startups, Inspire achieved positive cash flow from operations well before market maturity, reducing dependence on continuous financing.
+As a medical-device company, Inspire operates in a capital-intensive space with long development cycles and regulatory timelines. The company has historically funded growth through equity raises and [retained earnings](/retained-earnings/) as the business has matured toward profitability. Unlike venture-backed biotech startups, Inspire achieved positive cash flow from operations well before market maturity, reducing dependence on continuous financing.
 
 The capital-efficient model—where revenues from early implants fund the expansion of surgeon networks and geographic reach—has allowed Inspire to grow with measured capital intensity. However, the company remains exposed to changes in reimbursement rates, which would directly affect profitability and the cash available for expansion.
 

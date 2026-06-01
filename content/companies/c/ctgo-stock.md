@@ -4,7 +4,7 @@ description: "Precious metals exploration and mining company; junior miner or ex
 keywords: ["precious metals", "mining exploration", "silver mining", "gold mining", "junior miner"]
 ---
 
-*Contango Silver & Gold Inc., trading as **CTGO**, explores and develops silver and gold mining projects. The company operates as a junior miner—a firm at earlier stages of exploration or development rather than full-scale production—dependent on commodity metals prices, capital availability, and the ability to convert mineral resources into proven reserves and ultimately operating mines.*
+*[Contango](/contango/) Silver & Gold Inc., trading as **CTGO**, explores and develops silver and gold mining projects. The company operates as a junior miner—a firm at earlier stages of exploration or development rather than full-scale production—dependent on commodity metals prices, capital availability, and the ability to convert mineral resources into proven reserves and ultimately operating mines.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CTGO</td></tr>
@@ -25,17 +25,17 @@ The unit economics of exploration are inverted from operating businesses. Succes
 
 Contango's fortune hinges on silver and gold prices, which are volatile and driven by macro forces outside the company's control. When gold trades at $2,500 per ounce, a 5-million-ounce resource is very valuable and the company is attractive to acquirers or production partners. When gold falls to $1,500, the same resource becomes marginal (many development projects become uneconomic), project value collapses, and equity holders lose. This creates a perverse cycle: junior miners raise capital and launch expensive exploration when gold is high, complete their programs when prices have fallen, and struggle to finance the next phase.
 
-Senior metals prices also drive the cost of mining. If zinc, copper, or other base metals spike, mining costs rise because producers compete for drilling rigs, labor, and explosives. A project that was economic at $1,200 per-ounce mining cost becomes marginal at $1,400, and a few hundred basis points of cost inflation can render years of exploration work commercially unviable.
+Senior metals prices also drive the cost of mining. If zinc, copper, or other base metals spike, mining costs rise because producers compete for drilling rigs, labor, and explosives. A project that was economic at $1,200 per-ounce mining cost becomes marginal at $1,400, and a few hundred basis points of cost [inflation](/inflation/) can render years of exploration work commercially unviable.
 
 ## Capital Raises and Dilution
 
 Junior mining companies fund exploration through equity raises. Contango might issue 10 million shares to raise $5 million for a drill program. If the company raises again next year, another 10 million shares might be issued. By the time the resource is delineated and the company is seeking production capital, original shareholders have been diluted 5:1, 10:1, or worse. Equity holders in junior miners accept this dilution as the cost of funding early-stage projects, but massive dilution means that even if the mine eventually produces gold, per-share earnings may not reflect that success because the share count has exploded.
 
-Contango's balance sheet likely shows "shareholders' equity" built up from accumulated equity raises, but that equity is underwater if the company has burned cash on failed exploration programs. The company's stock price reflects both the value of existing projects and the probability that future raises will be dilutive, which creates a perpetual pressure on equity valuation.
+Contango's [balance sheet](/balance-sheet/) likely shows "shareholders' equity" built up from accumulated equity raises, but that equity is underwater if the company has burned cash on failed exploration programs. The company's stock price reflects both the value of existing projects and the probability that future raises will be dilutive, which creates a perpetual pressure on equity valuation.
 
 ## Permitting and Development Timeline Risk
 
-A mining project requires permits from local, state, and federal authorities—environmental impact assessments, water rights, air quality reviews, and agreements with indigenous communities. Permitting can take 3–7 years and fail at any stage if public opposition emerges or regulators impose restrictions. A company with a 5-million-ounce gold resource sitting in a challenging jurisdiction (environmentally sensitive, indigenous lands, political instability) faces years of uncertainty and possible failure.
+A mining project requires permits from local, state, and federal authorities—environmental impact assessments, water rights, air quality reviews, and agreements with indigenous communities. Permitting can take 3–7 years and fail at any stage if public opposition emerges or regulators impose restrictions. A company with a 5-million-ounce [gold resource](/goro-stock/) sitting in a challenging jurisdiction (environmentally sensitive, indigenous lands, political instability) faces years of uncertainty and possible failure.
 
 Contango's 10-K should disclose which projects are fully permitted, in permitting, or pre-permitting. Early-stage projects have little near-term value because regulatory uncertainty is extreme. Late-stage projects (shovel-ready) command higher valuations because execution risk has been mostly eliminated.
 
@@ -49,7 +49,7 @@ Alternatively, Contango might sell a project outright to a major miner for cash 
 
 A junior explorer like Contango with $5 million in the bank and $1 million annual cash burn has a 5-year runway. If no new capital is raised, the company can explore for five years, and if nothing commercial is found, equity holders lose everything. Contango's ability to raise additional capital depends on whether interim exploration results are exciting (attracting investor interest) and whether commodity prices are supportive (making exploration investable).
 
-In bull markets for gold (2008–2011, 2020–2021), junior miners raise capital easily and equity holders who held through previous downturns reap returns. In bear markets, junior miners cannot raise capital, projects are shelved, and equity holders are wiped out. This boom-bust cycle is structural to junior mining and creates a casino-like dynamic in equity valuations.
+In [bull markets](/bull-market/) for gold (2008–2011, 2020–2021), junior miners raise capital easily and equity holders who held through previous downturns reap returns. In [bear markets](/bear-market/), junior miners cannot raise capital, projects are shelved, and equity holders are wiped out. This boom-bust cycle is structural to junior mining and creates a casino-like dynamic in equity valuations.
 
 ## Path to Value Creation
 

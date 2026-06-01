@@ -4,7 +4,7 @@ description: "An engineering and environmental consulting firm whose economics c
 keywords: ["consulting", "engineering", "professional-services", "billable-hours", "project-management"]
 ---
 
-*The heartbeat of **Bowman Consulting Group Ltd. (BWMN)** is the billable hour. A consultant or engineer spends a day on a client's project and Bowman bills that day at a rate determined by the consultant's level (junior analyst, senior engineer, principal) and the market's demand for the skill. The difference between what Bowman bills and what it pays the consultant—in salary, benefits, and overhead allocation—is the margin that funds growth, debt service, and profit.*
+*The heartbeat of **Bowman Consulting Group Ltd. (BWMN)** is the billable hour. A consultant or engineer spends a day on a client's project and Bowman bills that day at a rate determined by the consultant's level (junior analyst, senior engineer, principal) and the market's demand for the skill. The difference between what Bowman bills and what it pays the consultant—in salary, benefits, and [overhead allocation](/overhead-allocation/)—is the margin that funds growth, debt service, and profit.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BWMN</td></tr>
@@ -17,7 +17,7 @@ keywords: ["consulting", "engineering", "professional-services", "billable-hours
 
 ## The Consultant-Day Unit: Realization and Utilization
 
-A Bowman engineer costs the firm roughly $120,000 per year fully loaded (salary, taxes, benefits, office space, insurance). That engineer has approximately 230 working days per year. In an ideal world, every day is billable; in practice, utilization runs 70–80 percent due to unbilled administrative time, training, proposal development, and slack between projects. If a consultant is utilized 75 percent of the year—172.5 billable days—and the firm bills at $250/hour (or $2,000/day), revenue is $345,000. Subtracting the consultant's $120,000 cost leaves $225,000 in gross margin per consultant. Allocate shared overhead (office, IT, HR, finance) at 40 percent of gross margin, and the contribution is $135,000. For a firm with 200 consultants, this is $27 million in contribution margin. That margin funds senior management, R&D, acquisitions, debt service, and profit. The algebra is relentless: higher utilization and higher bill rates expand the margin; lower utilization or wage inflation compress it.
+A Bowman engineer costs the firm roughly $120,000 per year fully loaded (salary, taxes, benefits, office space, insurance). That engineer has approximately 230 working days per year. In an ideal world, every day is billable; in practice, utilization runs 70–80 percent due to unbilled administrative time, training, proposal development, and slack between projects. If a consultant is utilized 75 percent of the year—172.5 billable days—and the firm bills at $250/hour (or $2,000/day), revenue is $345,000. Subtracting the consultant's $120,000 cost leaves $225,000 in gross margin per consultant. Allocate shared overhead (office, IT, HR, finance) at 40 percent of gross margin, and the contribution is $135,000. For a firm with 200 consultants, this is $27 million in [contribution margin](/contribution-margin/). That margin funds senior management, R&D, [acquisitions](/acquisition/), debt service, and profit. The algebra is relentless: higher utilization and higher bill rates expand the margin; lower utilization or wage [inflation](/inflation/) compress it.
 
 ## Bill Rates, Credentials, and Market Positioning
 
@@ -41,7 +41,7 @@ Consulting firms grow through acquiring smaller competitors and folding them int
 
 ## Staffing Stability and Retention
 
-Professional services depend on people, not capital. If Bowman loses key partners or a cohort of productive consultants, revenue and margins decline sharply. Retention is driven by compensation (salary and bonus), career advancement, client relationships, and work quality. Consulting firms that allow partners to own client relationships create golden handcuffs (partners are incentivized to stay to service their clients), but this also concentrates power and can create silos that hurt firm integration and agility. Firms that emphasize firm-owned clients and team-based delivery distribute risk. Bowman's employee turnover rates and partner tenure are proxies for organizational health and stability.
+Professional services depend on people, not capital. If Bowman loses key partners or a cohort of productive consultants, revenue and margins decline sharply. Retention is driven by compensation (salary and bonus), career advancement, client relationships, and work quality. Consulting firms that allow partners to own client relationships create [golden handcuffs](/golden-handcuffs/) (partners are incentivized to stay to service their clients), but this also concentrates power and can create silos that hurt firm integration and agility. Firms that emphasize firm-owned clients and team-based delivery distribute risk. Bowman's employee turnover rates and partner tenure are proxies for organizational health and stability.
 
 ## Reading the 10-K for Utilization, Bill Rates, and Mix
 

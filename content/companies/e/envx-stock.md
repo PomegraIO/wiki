@@ -37,7 +37,7 @@ Enovix has pursued partnerships with larger firms to accelerate adoption and red
 
 ## Capital Intensity and Path to Profitability
 
-Battery manufacturing is capital-intensive; Enovix must continually invest in production capacity to meet demand. The company's path to profitability depends on manufacturing enough volume to achieve unit-cost reductions and capture gross margins sufficient to cover R&D, selling costs, and capital depreciation. Early-stage production typically runs at low utilization; profitability emerges only as volume scales. Enovix's balance sheet and cash runway are therefore critical indicators of its ability to reach scale. The company is dependent on capital markets for growth funding; if valuations compress or capital becomes scarce, the firm may be forced to slow expansion or raise dilutive capital.
+Battery manufacturing is capital-intensive; Enovix must continually invest in production capacity to meet demand. The company's path to profitability depends on manufacturing enough volume to achieve unit-cost reductions and capture gross margins sufficient to cover R&D, selling costs, and capital [depreciation](/depreciation/). Early-stage production typically runs at low utilization; profitability emerges only as volume scales. Enovix's [balance sheet](/balance-sheet/) and cash runway are therefore critical indicators of its ability to reach scale. The company is dependent on capital markets for growth funding; if valuations compress or capital becomes scarce, the firm may be forced to slow expansion or raise dilutive capital.
 
 ## The Broader Energy Transition Context
 

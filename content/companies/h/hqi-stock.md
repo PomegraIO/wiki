@@ -29,7 +29,7 @@ The company earns additional revenue from permanent placement fees, where a cust
 
 ## Franchisee Economics and System Incentives
 
-For the franchisee, the business model offers both opportunity and challenge. A new franchisee invests capital to launch a branch (office space, technology systems, initial working capital to support payroll before billing) and retains a portion of branch margins. Over time, as the franchisee builds relationships with employers and workers, branch profitability improves. However, the franchisee also bears operational burden: recruiting workers, screening them, managing scheduling, handling customer complaints, and ensuring compliance with employment law. The corporate franchisor benefits from the franchisee's entrepreneurial effort and bears less operational risk, though the strength of the overall brand depends on franchisees delivering quality service.
+For the franchisee, the business model offers both opportunity and challenge. A new franchisee invests capital to launch a branch (office space, technology systems, initial working capital to support payroll before billing) and retains a portion of branch margins. Over time, as the franchisee builds relationships with employers and workers, branch profitability improves. However, the franchisee also bears operational burden: recruiting workers, screening them, managing scheduling, handling customer complaints, and ensuring compliance with employment law. The corporate franchisor benefits from the franchisee's entrepreneurial effort and bears less [operational risk](/operational-risk/), though the strength of the overall brand depends on franchisees delivering quality service.
 
 This model creates potential tensions. Corporate incentives favor rapid expansion (more franchises = more royalties), while individual franchisees care only about their own branch profitability. Franchisees who fail to deliver service quality damage the overall brand reputation. Corporate must balance enabling franchisee autonomy with enforcing minimum standards.
 
@@ -47,7 +47,7 @@ However, staffing is a low-margin, high-volume business. Margins depend on effic
 
 ## Growth Through Acquisition and Consolidation
 
-HireQuest's growth strategy has included both organic expansion (opening new franchised branches) and acquisitions of established staffing firms or branch networks. When an independent staffing operator chooses to exit the business or a regional chain loses market position, acquisition becomes a way to inherit an existing book of customer relationships and worker rosters. The company then converts acquired branches into the HireQuest franchise model, standardizes systems, and extracts cost efficiencies.
+HireQuest's growth strategy has included both organic expansion (opening new franchised branches) and [acquisitions](/acquisition/) of established staffing firms or branch networks. When an independent staffing operator chooses to exit the business or a regional chain loses market position, acquisition becomes a way to inherit an existing book of customer relationships and worker rosters. The company then converts acquired branches into the HireQuest franchise model, standardizes systems, and extracts cost efficiencies.
 
 ## Legacy and Strategic Positioning
 

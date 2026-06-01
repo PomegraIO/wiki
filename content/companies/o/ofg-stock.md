@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-OFG Bancorp, trading under the ticker OFG and registered with the SEC under CIK 1030469, is a financial holding company headquartered in San Juan, Puerto Rico. Its primary operating subsidiary, Oriental Bank, serves consumers and small businesses across Puerto Rico and the broader Caribbean region, making it one of the territory's systemically important financial institutions.
+OFG Bancorp, trading under the ticker OFG and registered with the SEC under CIK 1030469, is a financial holding company headquartered in San Juan, Puerto Rico. Its primary operating subsidiary, Oriental Bank, serves consumers and small businesses across Puerto Rico and the broader Caribbean region, making it one of the territory's systemically important [financial institutions](/fisi-stock/).
 
 The company traces its roots to 1960, when Oriental Bank was founded as a deposit-taking institution in San Juan. For decades it remained a regional player, constrained by Puerto Rico's small population and limited economic scale. The watershed moment came in 2006 when Oriental Bank consolidated under the OFG holding company structure, allowing for more sophisticated capital management and diverse subsidiaries. This regulatory reframing coincided with expansion into consumer finance and wealth management—a deliberate pivot away from pure retail banking toward higher-margin businesses.
 

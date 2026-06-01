@@ -4,7 +4,7 @@ description: "MiNK Therapeutics, Inc. develops cell immunotherapies for cancer, 
 keywords: ["immunotherapy", "cancer", "cell therapy", "biotech", "clinical stage"]
 ---
 
-*MiNK Therapeutics, Inc. (**INKT**) operates in clinical-stage biopharmaceutical development where revenue generation remains years away, making the company structurally immune to near-term business cycles but entirely dependent on funding cycles and the durability of venture and institutional capital commitment.*
+*MiNK Therapeutics, Inc. (**INKT**) operates in clinical-stage biopharmaceutical development where revenue generation remains years away, making the company structurally immune to near-term [business cycles](/business-cycle/) but entirely dependent on funding cycles and the durability of venture and institutional capital commitment.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INKT</td></tr>
@@ -28,7 +28,7 @@ MiNK's cyclical exposure is not to business cycles but to capital cycles. The co
 
 ## Burn Rate and Runway Dependency
 
-MiNK's criticality of capital is absolute. If clinical trials require \$5–10 million monthly and the company has 18 months of runway, any delay in fundraising becomes existential. Recessions, market downturns, or loss of investor confidence can trigger a capital crunch independent of the company's scientific progress. Conversely, if MiNK achieves positive clinical interim data or successfully partners with a larger pharma (providing milestone payments and upfront cash), the capital constraint eases materially, accelerating trials or de-risking the company. The company's cyclical risk is thus shifted from product-market cycles to capital-access cycles, and those cycles are driven by investor appetite for risk and equity-market conditions, not corporate earnings cycles.
+MiNK's criticality of capital is absolute. If clinical trials require \$5–10 million monthly and the company has 18 months of runway, any delay in fundraising becomes existential. [Recessions](/recession/), market downturns, or loss of investor confidence can trigger a capital crunch independent of the company's scientific progress. Conversely, if MiNK achieves positive clinical interim data or successfully partners with a larger pharma (providing milestone payments and upfront cash), the capital constraint eases materially, accelerating trials or de-risking the company. The company's cyclical risk is thus shifted from product-market cycles to capital-access cycles, and those cycles are driven by investor appetite for risk and equity-market conditions, not corporate earnings cycles.
 
 ## Partner and Licensing Upside
 

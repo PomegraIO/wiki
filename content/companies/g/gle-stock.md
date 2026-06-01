@@ -40,7 +40,7 @@ A small manufacturer like GLE is exposed to consolidation pressure. If a large g
 
 ## Cash Generation and Reinvestment
 
-In strong markets, GLE generates cash from operations—revenue exceeds COGS and operating expenses. This cash can be returned to shareholders (dividends, buybacks) or reinvested in new engines, facilities, or market expansion. If the market turns or costs spike, cash generation evaporates. The company must then rely on [balance-sheet](/balance-sheet/) reserves or borrowing to weather downturns. Debt incurred during expansions must be paid back during contraction. A manufacturer with weak cash reserves and high debt can face liquidity crises if demand drops suddenly. GLE's valuation therefore depends on its ability to generate consistent [free-cash-flow](/free-cash-flow/) and return it sustainably to shareholders, not just on a single quarter's profit.
+In strong markets, GLE generates cash from operations—revenue exceeds COGS and operating expenses. This cash can be returned to shareholders ([dividends](/dividend/), buybacks) or reinvested in new engines, facilities, or market expansion. If the market turns or costs spike, cash generation evaporates. The company must then rely on [balance-sheet](/balance-sheet/) reserves or borrowing to weather downturns. Debt incurred during expansions must be paid back during contraction. A manufacturer with weak cash reserves and high debt can face liquidity crises if demand drops suddenly. GLE's valuation therefore depends on its ability to generate consistent [free-cash-flow](/free-cash-flow/) and return it sustainably to shareholders, not just on a single quarter's profit.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -17,7 +17,7 @@ keywords: [school-buses, transportation, manufacturing, fleet-services, educatio
 
 ## The School Bus Market and Structural Demand
 
-Blue Bird's revenue flows from state and local school systems that are legally mandated to transport millions of students daily. This creates structural demand that is inelastic in the short term: districts cannot simply forgo buses, and aggregate transportation miles are tied to student population and geographic dispersal. However, demand is also cyclical: when school budgets tighten during recessions, districts defer new-bus purchases and stretch existing fleets longer. Blue Bird's addressable market is largely domestic; American school districts are the primary buyer, with smaller international sales. The competitive landscape includes Thomas Built (owned by Daimler Trucks) and a handful of smaller regional makers, but Blue Bird and Thomas dominate. This duopoly structure gives Blue Bird pricing power, provided it maintains quality and service support that districts depend on.
+Blue Bird's revenue flows from state and local school systems that are legally mandated to transport millions of students daily. This creates structural demand that is inelastic in the short term: districts cannot simply forgo buses, and aggregate transportation miles are tied to student population and geographic dispersal. However, demand is also cyclical: when school budgets tighten during [recessions](/recession/), districts defer new-bus purchases and stretch existing fleets longer. Blue Bird's addressable market is largely domestic; American school districts are the primary buyer, with smaller international sales. The competitive landscape includes Thomas Built (owned by Daimler Trucks) and a handful of smaller regional makers, but Blue Bird and Thomas dominate. This duopoly structure gives Blue Bird pricing power, provided it maintains quality and service support that districts depend on.
 
 ## Manufacturing Economics and Cost Structure
 
@@ -33,7 +33,7 @@ As of the late 2020s, the school bus market faces secular pressure to electrify.
 
 ## Balance Sheet and Debt Considerations
 
-School bus manufacturing is capital-intensive, and Blue Bird carries debt to fund facilities and working capital. The company's balance sheet shows this leverage, and access to capital markets matters for fleet modernization and product development. Rising interest rates increase the cost of debt financing for plant upgrades and working capital; conversely, periods of low rates allow Blue Bird to refinance and invest more cheaply. The company's free cash flow is important for debt service, dividend support (if any), and R&D investment. During strong order years, cash generation can be robust; during downturns, negative free cash flow can stress the balance sheet.
+School bus manufacturing is capital-intensive, and Blue Bird carries debt to fund facilities and working capital. The company's balance sheet shows this leverage, and access to capital markets matters for fleet modernization and product development. Rising [interest rates](/interest-rate/) increase the cost of [debt financing](/debt-financing/) for plant upgrades and working capital; conversely, periods of low rates allow Blue Bird to refinance and invest more cheaply. The company's free cash flow is important for debt service, [dividend](/dividend/) support (if any), and R&D investment. During strong order years, cash generation can be robust; during downturns, negative free cash flow can stress the balance sheet.
 
 ## Geographic and Regulatory Risk
 

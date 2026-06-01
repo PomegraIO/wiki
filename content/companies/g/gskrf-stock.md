@@ -35,7 +35,7 @@ First Nordic's ability to raise capital from investors, shareholders, or other s
 
 This creates a transient competitive advantage: if First Nordic can raise capital more easily or cheaply than competitors, it can explore faster and find deposits first. However, capital access is not a durable moat. If the company discovers a significant deposit, capital floods in (and its "advantage" becomes moot). If the company fails to discover anything despite spending, capital dries up. In either case, the advantage erodes.
 
-Moreover, larger mining companies or hedge funds with patient capital can finance exploration indefinitely, often at lower cost than First Nordic can access. The company must compete for investor dollars against thousands of other exploration companies and against the opportunity cost of public equities and bonds. Capital access is fragile.
+Moreover, larger mining companies or [hedge funds](/hedge-fund/) with patient capital can finance exploration indefinitely, often at lower cost than First Nordic can access. The company must compete for investor dollars against thousands of other exploration companies and against the opportunity cost of public equities and bonds. Capital access is fragile.
 
 ## No Operating Assets or Competitive Advantages in Execution
 
@@ -47,11 +47,11 @@ This absence of operating assets means First Nordic has no competitive advantage
 
 First Nordic's assets consist of exploration licenses in a handful of areas, each with uncertain prospectivity. The company's value depends entirely on discovering a economically viable deposit—an outcome with low probability for any given property. Industry data suggests that only a tiny fraction of exploration projects result in mines. First Nordic must either discover something material or eventually liquidate.
 
-This concentration risk means the company has no moat in the traditional sense. It is not defending a market position or competitive advantage; it is gambling on the outcome of a low-probability event. The company's shareholders are betting on the team's ability to find ore, not on the team's operational or market dominance.
+This [concentration risk](/concentration-risk/) means the company has no moat in the traditional sense. It is not defending a market position or competitive advantage; it is gambling on the outcome of a low-probability event. The company's shareholders are betting on the team's ability to find ore, not on the team's operational or market dominance.
 
 ## Partnerships and Joint Ventures: Loss of Control
 
-Many exploration companies form joint ventures with majors (BHP, Glencore, Rio Tinto) to fund exploration and share risk. This brings capital but dilutes upside. First Nordic's relationship with larger partners (if any exist) is a resource but also a vulnerability. A partner with deeper pockets or superior expertise can drive exploration strategy and, if a discovery is made, has leverage over terms.
+Many exploration companies form joint ventures with majors (BHP, Glencore, [Rio Tinto](/rtntf-stock/)) to fund exploration and share risk. This brings capital but dilutes upside. First Nordic's relationship with larger partners (if any exist) is a resource but also a vulnerability. A partner with deeper pockets or superior expertise can drive exploration strategy and, if a discovery is made, has leverage over terms.
 
 ## The Moat Paradox at the Exploration Stage
 

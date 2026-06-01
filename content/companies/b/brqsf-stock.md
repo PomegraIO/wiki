@@ -40,7 +40,7 @@ Sales and marketing expense is necessarily high when the typical deal involves m
 
 Borqs's growth is inherently tied to overall mobile and IoT device shipments. A sustained slowdown in smartphone demand or a contraction in IoT spending directly pressures customer capex and, by extension, new platform licensing. The company has no demand-creation lever; it benefits when the market grows and suffers when it contracts.
 
-Equally structural is the ongoing consolidation of device manufacturers. Mergers among OEMs reduce the addressable customer count, tightening margins on negotiating power. A customer that doubles in size through acquisition gains leverage to demand price concessions or to evaluate platform alternatives.
+Equally structural is the ongoing consolidation of device manufacturers. [Mergers](/merger/) among OEMs reduce the addressable customer count, tightening margins on negotiating power. A customer that doubles in size through [acquisition](/acquisition/) gains leverage to demand price concessions or to evaluate platform alternatives.
 
 ## Pathways to Stronger Unit Economics
 

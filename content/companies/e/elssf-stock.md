@@ -23,7 +23,7 @@ From a balance-sheet perspective, ELIS's assets are dominated by the textile inv
 
 ## Tangible Asset Base: Laundering Infrastructure
 
-Beyond the textile fleet, ELIS owns and operates laundry facilities—industrial washers, drying systems, pressing equipment, and chemical treatment systems. These are significant fixed assets. A large regional laundry facility might represent 10–30 million euro in capital investment. The balance sheet shows gross property, plant, and equipment; accumulated depreciation reveals whether facilities are aging and approaching replacement.
+Beyond the textile fleet, ELIS owns and operates laundry facilities—industrial washers, drying systems, pressing equipment, and chemical treatment systems. These are significant fixed assets. A large regional laundry facility might represent 10–30 million euro in capital investment. The balance sheet shows gross property, plant, and equipment; [accumulated depreciation](/accumulated-depreciation/) reveals whether facilities are aging and approaching replacement.
 
 Laundry facilities are somewhat specialized; they are optimized for high-volume, fast-turnaround processing of heavily soiled garments at scale. Resale value is limited. If ELIS must close a facility due to demand shifts or rationalization, the company faces asset write-downs. Conversely, a well-maintained, modern facility is an asset with durable competitive advantage—competitors cannot easily replicate the efficiency of a properly designed industrial laundry.
 
@@ -35,15 +35,15 @@ For a mature, stable business, this is manageable. For a business in expansion m
 
 ## Customer Concentration and Accounts Receivable Quality
 
-ELIS serves customers under recurring service contracts. This creates sticky revenue—customers typically stay for years—but also concentrates credit risk. If ELIS's top 20 customers represent 30% of revenue, a few large customer losses would materially impact profitability. The balance sheet's accounts receivable line reflects invoices outstanding to customers for monthly or quarterly rental fees.
+ELIS serves customers under recurring service contracts. This creates sticky revenue—customers typically stay for years—but also concentrates [credit risk](/credit-risk/). If ELIS's top 20 customers represent 30% of revenue, a few large customer losses would materially impact profitability. The balance sheet's accounts receivable line reflects invoices outstanding to customers for monthly or quarterly rental fees.
 
 For a service business, accounts receivable aging is critical. Restaurants and hospitals are generally reliable payers, but economic downturns can stretch payment terms. A balance-sheet reader examines whether receivables are aging normally (30–45 days) or deteriorating (60+ days past invoice date), which signals collection problems or customer financial stress.
 
 ## Debt and Capital Structure of a Mature Service Operator
 
-ELIS has long financed operations through a combination of retained earnings and debt. European linen-rental businesses, once mature, generate steady operating cash flows; lenders view them as stable collateral for medium-term loans. The balance sheet shows whether ELIS is lightly or heavily leveraged.
+ELIS has long financed operations through a combination of [retained earnings](/retained-earnings/) and debt. European linen-rental businesses, once mature, generate steady operating cash flows; lenders view them as stable collateral for medium-term loans. The balance sheet shows whether ELIS is lightly or heavily leveraged.
 
-For a capital-intensive service business like linen rental, modest leverage (debt-to-equity ratio under 2:1) is typical. Higher leverage can be sustainable if customers are large, stable, and pay reliably; it becomes risky if the customer base is fragmented or economically sensitive.
+For a capital-intensive service business like linen rental, modest leverage ([debt-to-equity ratio](/debt-to-equity-ratio/) under 2:1) is typical. Higher leverage can be sustainable if customers are large, stable, and pay reliably; it becomes risky if the customer base is fragmented or economically sensitive.
 
 ## Depreciation and Asset Life
 
@@ -51,9 +51,9 @@ Garments in the textile fleet have a finite life—typically two to four years o
 
 ## Customer Contracts as Intangible Assets
 
-When ELIS acquires another linen-rental company, the acquisition price often exceeds the sum of tangible assets (fleet, facilities, vehicles). The premium reflects goodwill—the value of the acquired customer contracts, brand, and market position. Over time, goodwill must be tested for impairment; if customer losses or competitive pressure erode the value of the acquisition, the company must write down goodwill, which directly reduces equity.
+When ELIS acquires another linen-rental company, the [acquisition](/acquisition/) price often exceeds the sum of tangible assets (fleet, facilities, vehicles). The premium reflects goodwill—the value of the acquired customer contracts, brand, and market position. Over time, goodwill must be tested for impairment; if customer losses or competitive pressure erode the value of the acquisition, the company must write down goodwill, which directly reduces equity.
 
-A balance-sheet reader checks whether ELIS carries significant goodwill and intangible assets. If goodwill represents more than 30–40% of total assets, the company is relying heavily on acquisition-driven growth and faces impairment risk if that growth slows.
+A balance-sheet reader checks whether ELIS carries significant goodwill and [intangible assets](/intangible-assets/). If goodwill represents more than 30–40% of total assets, the company is relying heavily on acquisition-driven growth and faces impairment risk if that growth slows.
 
 ## Environmental and Regulatory Liabilities
 
@@ -61,11 +61,11 @@ Industrial laundries generate wastewater containing detergents, softeners, and c
 
 ## Dividend and Cash Return Policy
 
-A mature, cash-generative business like ELIS often returns capital to shareholders through dividends. The balance sheet shows retained earnings and prior dividends paid. A dividend-paying company is signaling confidence in sustainable cash generation; a reduction or suspension of dividends signals stress.
+A mature, cash-generative business like ELIS often returns capital to shareholders through [dividends](/dividend/). The balance sheet shows retained earnings and prior dividends paid. A dividend-paying company is signaling confidence in sustainable cash generation; a reduction or suspension of dividends signals stress.
 
 ## The ADR Structure and Currency Risk
 
-ELIS is a French public company traded on Euronext; the ADR (American Depositary Receipt) quoted as ELSSF allows US investors to hold ELIS shares via a US bank custodian. The balance sheet is reported in euros. An ADR investor faces currency risk: if the euro weakens against the US dollar, the US-dollar value of the ADR investment falls, independent of the company's operational performance. The 10-K should disclose currency translation gains or losses.
+ELIS is a French public company traded on Euronext; the ADR ([American Depositary Receipt](/adr/)) quoted as ELSSF allows US investors to hold ELIS shares via a US bank [custodian](/custodian/). The balance sheet is reported in euros. An ADR investor faces [currency risk](/currency-risk/): if the euro weakens against the [US dollar](/us-dollar/), the US-dollar value of the ADR investment falls, independent of the company's operational performance. The 10-K should disclose currency translation gains or losses.
 
 For an asset-heavy business like ELIS, the balance sheet is the operational roadmap. The linen fleet, the laundry facilities, the customer relationships, and the capital structure together determine whether the business generates sustainable cash or merely spins in place. A balance-sheet reader assesses ELIS by the productivity and durability of those assets, not by quarterly revenue swings.
 

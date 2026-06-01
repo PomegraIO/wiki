@@ -25,7 +25,7 @@ Start with the **proven and probable reserves** statement in the 10-K. The reser
 ## Processing, pricing, and margin structure
 
 Graphite's value lies not in the raw ore but in **beneficiation** (concentration and purification). Graphex's filings should detail:
-- **Processing steps**: Crushing, flotation, roasting, purification. Each step is capital-intensive; the 10-K balance sheet will show depreciation of flotation cells and roasting furnaces.
+- **Processing steps**: Crushing, flotation, roasting, purification. Each step is capital-intensive; the 10-K [balance sheet](/balance-sheet/) will show [depreciation](/depreciation/) of flotation cells and roasting furnaces.
 - **Product mix and pricing**: Graphite is sold as natural flake, microflake, spheroidal (for battery anodes), or specialty powders. These grades command different prices. A shift toward battery-grade graphite (via spheroidization) has higher capex and margins but also higher execution risk.
 - **Contractual pricing** vs. **spot-market exposure**. If Graphex sells 80% under long-term contracts and 20% at spot, a commodity downturn hits only the tail. If 100% is spot, volatility cascades to the bottom line.
 - **Operating leverage**. If fixed costs (mine equipment depreciation, processing plant overhead) are $50M annually and variable costs are $300/ton, then volume swings hit [operating margin](/operating-margin/) hard.
@@ -39,7 +39,7 @@ Graphite mines are infrastructure-heavy. The capex required to bring a new depos
 - **Growth capex**: Expansion of reserves or processing capacity. This is lumpy, requires financing, and carries execution and market-timing risk.
 - **Funded status of development projects**: Are new deposits approved and funded, or are they still seeking permits and financing?
 
-A company with $500M in capex ahead on a $150M market cap is dependent on external financing or joint partners. The terms of any equity raises, debt covenants, or joint-venture arrangements will cascade into share dilution or operational constraints.
+A company with $500M in capex ahead on a $150M [market cap](/market-capitalization/) is dependent on external financing or joint partners. The terms of any equity raises, debt covenants, or joint-venture arrangements will cascade into [share dilution](/share-dilution/) or operational constraints.
 
 ## Commodity-price exposure and contract mix
 

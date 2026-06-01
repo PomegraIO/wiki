@@ -45,7 +45,7 @@ The value of a clinical-stage company lies almost entirely in its pipeline. If M
 
 ## Path to Economic Viability
 
-Medicale's path forward requires hitting clinical milestones on schedule, demonstrating manufacturing feasibility at acceptable cost, and attracting either partnership capital or acquisition interest from larger players before runway depletion. If the science works and manufacturing scales, the company becomes a commercial-stage asset with revenue and pathways to profitability. If the science fails or manufacturing proves economically unworkable, the company becomes worthless. There is little middle ground for a clinical-stage biotech. The economic logic is binary: either the cell therapy hypothesis is correct and justified by results, or it is not.
+Medicale's path forward requires hitting clinical milestones on schedule, demonstrating manufacturing feasibility at acceptable cost, and attracting either partnership capital or [acquisition](/acquisition/) interest from larger players before runway depletion. If the science works and manufacturing scales, the company becomes a commercial-stage asset with revenue and pathways to profitability. If the science fails or manufacturing proves economically unworkable, the company becomes worthless. There is little middle ground for a clinical-stage biotech. The economic logic is binary: either the cell therapy hypothesis is correct and justified by results, or it is not.
 
 <div class="wiki-seealso">
 ### Closely related

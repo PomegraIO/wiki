@@ -34,19 +34,19 @@ The company's own disclosures indicate that rapid growth in early periods has gi
 
 ## Operational Challenges Visible in SEC Filings
 
-Eat & Beyond's 10-K does not hide the operational realities of being a small distributor in a fragmented supply chain. Supplier relationships are a constant negotiation—securing exclusive or advantaged access to a hot product category requires trust and scale. The company's filings reference partnerships and product launches, but they also hint at supplier concentration risk. If a key proprietary product or exclusive brand relationship terminates, revenue can drop sharply.
+Eat & Beyond's 10-K does not hide the operational realities of being a small distributor in a fragmented supply chain. Supplier relationships are a constant negotiation—securing exclusive or advantaged access to a hot product category requires trust and scale. The company's filings reference partnerships and product launches, but they also hint at supplier [concentration risk](/concentration-risk/). If a key proprietary product or exclusive brand relationship terminates, revenue can drop sharply.
 
 Retail customer churn is another material factor. Retailers experiment with product placement and categories constantly. A natural-foods retailer that dedicates shelf space to plant-based might reduce that allocation if category growth slows. The company's filings should detail customer retention rates and whether it is adding net-new retail doors or merely replacing lost placements.
 
 ## Geographic and Channel Focus
 
-The company operates primarily in North America, with concentration in the United States and Canada. Within the market, it has targeted natural and specialty retailers first, using that base to gain credibility and supply-chain mastery before approaching larger mainstream chains. This strategy reflects a realistic assessment of leverage: small suppliers have an easier time gaining traction with specialty retailers than with Walmart or Costco.
+The company operates primarily in North America, with concentration in the United States and Canada. Within the market, it has targeted natural and specialty retailers first, using that base to gain credibility and supply-chain mastery before approaching larger mainstream chains. This strategy reflects a realistic assessment of leverage: small suppliers have an easier time gaining traction with specialty retailers than with [Walmart](/wmt-stock/) or Costco.
 
 The company's filings name specific retail and distributor partnerships when material. By reading these disclosures, an investor can gauge the diversity of the customer base and the degree to which growth depends on winning large retail chains versus consolidating share within specialty channels.
 
 ## Capital Requirements and Funding
 
-Like many food-and-beverage companies built around sourcing and logistics, Eat & Beyond requires working capital to fund inventory and accounts receivable. The company's balance sheet, disclosed in its 10-K and 10-Q filings, shows how much cash is tied up in operations and whether the company is trending toward cash-flow breakeven or requires continued external capital.
+Like many food-and-beverage companies built around sourcing and logistics, Eat & Beyond requires working capital to fund inventory and [accounts receivable](/accounts-receivable/). The company's [balance sheet](/balance-sheet/), disclosed in its 10-K and 10-Q filings, shows how much cash is tied up in operations and whether the company is trending toward cash-flow breakeven or requires continued external capital.
 
 The company has raised capital through equity offerings and debt. Understanding the current capital structure—shares outstanding, convertible debt, warrant obligations—is essential to assessing the value of an equity stake. The 10-K includes a capitalization table and a discussion of debt covenants, if any.
 
@@ -56,6 +56,6 @@ Eat & Beyond's 10-K explicitly addresses risks that are structural to its busine
 
 ## The Filing as Primary Source
 
-For researching this company, the 10-K annual report is the most important document. It provides the business model summary, revenue breakdown by channel and geography, a detailed customer and supplier landscape, and the capital structure. The 10-Q quarterly filings track whether the company is hitting growth and profitability targets, and the 8-K current reports flag major partnerships, executive changes, or strategic shifts.
+For researching this company, the 10-K [annual report](/10-k/) is the most important document. It provides the business model summary, revenue breakdown by channel and geography, a detailed customer and supplier landscape, and the capital structure. The 10-Q quarterly filings track whether the company is hitting growth and profitability targets, and the 8-K current reports flag major partnerships, executive changes, or strategic shifts.
 
 Eat & Beyond is a distribution and sourcing business dependent on a specific consumer trend and the company's ability to navigate tight margins in a competitive space. Its success rests not on unique technology but on logistics execution, customer relationships, and careful inventory management.

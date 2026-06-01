@@ -47,9 +47,9 @@ This operational reality creates a specific cycle risk: if Alpha Tau launches co
 
 ## Competitive Dynamics in Specialized Oncology
 
-Alpha Tau competes in a specialized niche: alpha-emitter radiotherapy for solid tumors. The broader oncology market hosts large pharmaceutical and medical-device manufacturers (Roche, Bristol Myers Squibb, Varian/Siemens, others) with oncology divisions and ample capital. Alpha Tau's niche positioning—early-stage, focused, Israeli-based—provides differentiation; few competitors offer direct competition in alpha-emitter solid-tumor therapy. However, larger pharma companies can enter the space if Alpha Tau's clinical data validates the approach.
+Alpha Tau competes in a specialized niche: alpha-emitter radiotherapy for solid tumors. The broader oncology market hosts large pharmaceutical and medical-device manufacturers (Roche, [Bristol Myers Squibb](/bmy-stock/), Varian/Siemens, others) with oncology divisions and ample capital. Alpha Tau's niche positioning—early-stage, focused, Israeli-based—provides differentiation; few competitors offer direct competition in alpha-emitter solid-tumor therapy. However, larger pharma companies can enter the space if Alpha Tau's clinical data validates the approach.
 
-This creates a cyclical dynamic: in bull markets for specialty oncology (driven by biotech funding and high valuations), Alpha Tau faces less acquisition pressure and can maintain independence. In contractions, acquisition becomes likely; larger competitors may see distressed valuations as opportunities to acquire technology at favorable prices. Alternatively, Alpha Tau may struggle to raise capital for expansion, facing dilutive fundraising or slower commercialization.
+This creates a cyclical dynamic: in [bull markets](/bull-market/) for specialty oncology (driven by biotech funding and high valuations), Alpha Tau faces less [acquisition](/acquisition/) pressure and can maintain independence. In contractions, acquisition becomes likely; larger competitors may see distressed valuations as opportunities to acquire technology at favorable prices. Alternatively, Alpha Tau may struggle to raise capital for expansion, facing dilutive fundraising or slower commercialization.
 
 ## Geographic Market Cycles and Regulatory Approvals
 

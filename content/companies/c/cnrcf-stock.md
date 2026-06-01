@@ -43,19 +43,19 @@ Provincial water authorities issue water licenses for exploration and mining; in
 
 ## Reclamation and Environmental Bonding
 
-Like U.S. mining, Canadian mining requires reclamation planning and bonding. A company must post a bond (amount set by the province) sufficient to cover site reclamation if the company abandons the project. For Canter, the bonding requirement means that capital is tied up with the province; it cannot be deployed elsewhere. As the company's exploration expands to multiple claims or larger deposits, bonding costs can become substantial.
+Like U.S. mining, Canadian mining requires reclamation planning and bonding. A company must post a [bond](/bond/) (amount set by the province) sufficient to cover site reclamation if the company abandons the project. For Canter, the bonding requirement means that capital is tied up with the province; it cannot be deployed elsewhere. As the company's exploration expands to multiple claims or larger deposits, bonding costs can become substantial.
 
-Reclamation standards in Canada are strict: the site must be left in a condition deemed acceptable by the province, which includes stabilization, revegetation, and management of any drainage or tailings. The company's balance sheet must reflect an estimated reclamation liability, which reduces reported equity and affects financing ratios.
+Reclamation standards in Canada are strict: the site must be left in a condition deemed acceptable by the province, which includes stabilization, revegetation, and management of any drainage or tailings. The company's [balance sheet](/balance-sheet/) must reflect an estimated reclamation liability, which reduces reported equity and affects financing ratios.
 
 ## Provincial Fiscal Regime and Mining Taxes
 
-Canadian provinces impose mining taxes or royalties on production. While Canter is currently exploring, not mining, future royalties or mining taxes will reduce the after-tax [return-on-equity](/return-on-equity/) on any deposit the company develops. Some provinces (such as Ontario) have low or no mining royalties, while others (Quebec, British Columbia) have higher rates or complex progressive royalty schemes that increase with commodity prices.
+Canadian provinces impose mining taxes [or royalties](/or-stock/) on production. While Canter is currently exploring, not mining, future royalties or mining taxes will reduce the after-tax [return-on-equity](/return-on-equity/) on any deposit the company develops. Some provinces (such as Ontario) have low or no mining royalties, while others (Quebec, British Columbia) have higher rates or complex progressive royalty schemes that increase with commodity prices.
 
 Canter's choice of jurisdiction shapes its long-term economics. A rich deposit in a high-royalty province may be less economically attractive than a smaller deposit in a low-royalty province. The company's exploration strategy is thus partly a navigation of fiscal and regulatory geography.
 
 ## Federal Involvement and Trade Considerations
 
-While primary authority rests with provinces, the federal government plays a role through the Fisheries Act (habitat protection) and the Canadian Environmental Protection Act. Mergers and acquisitions involving foreign companies are reviewed by the federal government under the Investment Canada Act, which can block deals if foreign control threatens national interest.
+While primary authority rests with provinces, the federal government plays a role through the Fisheries Act (habitat protection) and the Canadian Environmental Protection Act. [Mergers](/merger/) and [acquisitions](/acquisition/) involving foreign companies are reviewed by the federal government under the Investment Canada Act, which can block deals if foreign control threatens national interest.
 
 Canter, as a Canadian company, is not subject to this review domestically, but if it expands internationally or if foreign investors acquire significant stakes, Investment Canada Act compliance becomes relevant. For a junior mining company with limited capital, maintaining Canadian control is important to avoid foreign-ownership restrictions on future exploration or mining licenses.
 
@@ -67,7 +67,7 @@ The company's value is therefore partly determined by jurisdictional reputation.
 
 ## Scale and Survival Economics
 
-For a junior mining explorer like Canter, regulatory compliance costs are substantial relative to market capitalization. Annual claim fees, assessment work, bonding, and environmental baseline studies can cost tens of thousands to low hundreds of thousands of dollars per year. The company must continuously raise capital to cover these costs while searching for economic deposits. If Canter runs out of capital before discovering a deposit rich enough to attract a larger mining company or financing, it fails—not because the deposits are unpromising but because regulatory and exploration costs exhaust cash before discovery.
+For a junior mining explorer like Canter, regulatory compliance costs are substantial relative to [market capitalization](/market-capitalization/). Annual claim fees, assessment work, bonding, and environmental baseline studies can cost tens of thousands to low hundreds of thousands of dollars per year. The company must continuously raise capital to cover these costs while searching for economic deposits. If Canter runs out of capital before discovering a deposit rich enough to attract a larger mining company or financing, it fails—not because the deposits are unpromising but because regulatory and exploration costs exhaust cash before discovery.
 
 The regulatory environment thus selects for persistence and access to capital. Well-funded junior explorers can afford to explore longer and take on riskier prospects; under-capitalized companies must find deposits quickly or dilute shareholders through repeated equity raises.
 

@@ -28,7 +28,7 @@ Rather than develop new molecules and devices from scratch, Harrow has purchased
 
 ## Manufacturing and Distribution in Specialty Care
 
-Unlike mass-market pharmaceuticals that rely on thousands of retail pharmacies, Harrow's products move through specialty channels—surgical centers, dermatology clinics, hospital operating rooms. This logistics model allows higher gross margins because there are fewer intermediaries and less promotional spend. However, it also means Harrow must maintain direct relationships with a fragmented customer base. A change in hospital group purchasing (GPO) contracts or a merger of dermatology chains can shift volumes unpredictably. The company's ability to serve smaller clinical centers and independent surgeons is a competitive moat against larger devices companies that optimize for volume purchasing, but it also creates revenue visibility challenges that investors typically penalize.
+Unlike mass-market pharmaceuticals that rely on thousands of retail pharmacies, Harrow's products move through specialty channels—surgical centers, dermatology clinics, hospital operating rooms. This logistics model allows higher gross margins because there are fewer intermediaries and less promotional spend. However, it also means Harrow must maintain direct relationships with a fragmented customer base. A change in hospital group purchasing (GPO) contracts or a [merger](/merger/) of dermatology chains can shift volumes unpredictably. The company's ability to serve smaller clinical centers and independent surgeons is a competitive moat against larger devices companies that optimize for volume purchasing, but it also creates revenue visibility challenges that investors typically penalize.
 
 ## Sector Pressures and Competitive Positioning
 
@@ -36,7 +36,7 @@ Ophthalmology and dermatology are relatively consolidated at the physician level
 
 ## Capital Efficiency and Path to Profitability
 
-Medical-device and specialty pharma companies typically trade at lower multiples than broad-market pharma if they lack a clear path to sustained profitability. Harrow's acquisition model is capital-efficient—purchased products come with existing revenue—but requires disciplined cost management post-deal. The company must achieve operating leverage without cutting R&D or clinical support so deeply that it loses competitive edge. Historically, Harrow has aimed to achieve EBITDA profitability from its acquired portfolio within a few years of ownership, then use cash generation to fund the next wave of acquisitions or to invest in adjacent products.
+Medical-device and specialty pharma companies typically trade at lower multiples than broad-market pharma if they lack a clear path to sustained profitability. Harrow's acquisition model is capital-efficient—purchased products come with existing revenue—but requires disciplined cost management post-deal. The company must achieve operating leverage without cutting R&D or clinical support so deeply that it loses competitive edge. Historically, Harrow has aimed to achieve [EBITDA](/ebitda/) profitability from its acquired portfolio within a few years of ownership, then use cash generation to fund the next wave of [acquisitions](/acquisition/) or to invest in adjacent products.
 
 ## Sector Outlook and Systemic Risks
 

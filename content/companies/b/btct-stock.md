@@ -19,15 +19,15 @@ keywords: ["BTCT", "BTC Digital", "blockchain services", "digital asset trading"
 
 ## Multiple Business Lines Under One Roof
 
-Unlike BTBD (which is a consumer brands portfolio), BTCT operates multiple interrelated but distinct businesses. One division may run a trading platform where users buy and sell Bitcoin and other cryptocurrencies. Another may provide custody. A third might develop decentralized finance (DeFi) software or act as a liquidity provider to other exchanges. By operating multiple revenue streams, the company reduces dependence on any single product or market condition.
+Unlike BTBD (which is a consumer brands portfolio), BTCT operates multiple interrelated but distinct businesses. One division may run a trading platform where users buy and sell [Bitcoin](/bitcoin/) and other cryptocurrencies. Another may provide custody. A third might develop decentralized finance (DeFi) software or act as a [liquidity provider](/liquidity-provider/) to other exchanges. By operating multiple revenue streams, the company reduces dependence on any single product or market condition.
 
-Each business line has its own economics. A trading platform earns transaction fees and may profit from spreads (the difference between what it pays for an asset and what it sells it for). Custody earns a percentage of assets held. DeFi infrastructure earns fees from users interacting with protocols. The aggregated revenue creates a more diversified earnings stream than a pure-play cryptocurrency exchange or a pure-play mining company.
+Each business line has its own economics. A trading platform earns transaction fees and may profit from spreads (the difference between what it pays for an asset and what it sells it for). Custody earns a percentage of assets held. DeFi infrastructure earns fees from users interacting with protocols. The aggregated revenue creates a more diversified earnings stream than a pure-play [cryptocurrency exchange](/cryptocurrency-exchange/) or a pure-play mining company.
 
-However, this diversification comes with operational complexity. Running a trading platform, a custody operation, and a DeFi venture requires different talent, compliance frameworks, and technology stacks. BTCT must manage this complexity while maintaining quality across all divisions.
+However, this [diversification](/diversification/) comes with operational complexity. Running a trading platform, a custody operation, and a DeFi venture requires different talent, compliance frameworks, and technology stacks. BTCT must manage this complexity while maintaining quality across all divisions.
 
 ## Trading Platform Economics
 
-A cryptocurrency exchange is a marketplace. On one side, buyers and sellers post orders. The platform matches them and takes a commission. The model is similar to stock exchanges or commodity exchanges, but the assets are digital and the regulatory environment is nascent.
+A cryptocurrency exchange is a marketplace. On one side, buyers and sellers post orders. The platform matches them and takes a commission. The model is similar to [stock exchanges](/stock-exchange/) or commodity exchanges, but the assets are digital and the regulatory environment is nascent.
 
 Exchange revenue comes from transaction fees, which are typically 0.1% to 0.5% per trade. A retail user buying $1,000 of Bitcoin pays $1 to $5 in fees. An institutional trader buying $1 million might negotiate a lower rate of 0.05%, paying $500. Volume is the key metric. An exchange that handles $1 billion per day in volume at 0.2% average fee earns $2 million daily, or $730 million annually.
 
@@ -43,7 +43,7 @@ BTCT may also offer portfolio management or advisory services to wealthy clients
 
 ## DeFi and Protocol Development
 
-Decentralized finance (DeFi) is a newer sector where financial services (lending, borrowing, trading) are provided by automated software protocols running on blockchain networks rather than by traditional financial institutions. BTCT may develop DeFi protocols or offer software-as-a-service to other projects.
+Decentralized finance (DeFi) is a newer sector where financial services (lending, borrowing, trading) are provided by automated software protocols running on blockchain networks rather than by traditional [financial institutions](/fisi-stock/). BTCT may develop DeFi protocols or offer software-as-a-service to other projects.
 
 DeFi revenue models include protocol fees (a small percentage of transactions or assets), token sales, or venture capital funding. The DeFi sector is younger and more speculative than traditional crypto exchanges. Revenue is lower but potential is higher if the sector matures.
 
@@ -57,11 +57,11 @@ Regulatory compliance is expensive. A single breach—serving sanctioned users, 
 
 The digital asset ecosystem is rapidly evolving. New platforms emerge constantly, often with novel features, lower fees, or better user experience. Established players like Coinbase (a U.S. exchange now public) have substantial capital and brand advantage. BTCT is a smaller player in a competitive, winner-take-most market.
 
-Market risk is also significant. Cryptocurrency prices are volatile. During bear markets (price declines), trading volume shrinks and users withdraw funds, reducing custody assets. Platforms may see usage collapse. BTCT's diversification across trading, custody, and DeFi helps cushion downturns, but none of these businesses are immune to a severe contraction.
+[Market risk](/market-risk/) is also significant. Cryptocurrency prices are volatile. During [bear markets](/bear-market/) (price declines), trading volume shrinks and users withdraw funds, reducing custody assets. Platforms may see usage collapse. BTCT's diversification across trading, custody, and DeFi helps cushion downturns, but none of these businesses are immune to a severe contraction.
 
 ## Capital Structure and Growth Strategy
 
-BTCT is publicly traded, meaning it can raise capital by issuing stock or bonds to fund expansion. However, raising capital dilutes existing shareholders. The company must balance growth ambition against shareholder dilution. A strategy to aggressively acquire competitors or build new products might require significant capital raises, which may not be accretive to per-share earnings.
+BTCT is publicly traded, meaning it can raise capital by issuing stock or [bonds](/bond/) to fund expansion. However, raising capital dilutes existing shareholders. The company must balance growth ambition against shareholder dilution. A strategy to aggressively acquire competitors or build new products might require significant capital raises, which may not be accretive to per-share earnings.
 
 Alternatively, BTCT might pursue organic growth—reinvesting profits into product development and marketing. This is slower but avoids dilution. The choice depends on management's confidence in the market opportunity and execution.
 

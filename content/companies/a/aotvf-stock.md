@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-**Cambria Gold Mines is a Canadian junior exploration and development company focused on precious metals, primarily gold.** The company operates in the hard-asset space where exploration-stage companies stake claims, conduct geological surveys, and drill to find economically viable ore deposits. Unlike producing mines, Cambria remains pre-commercial—its value hinges on the size, grade, and location of deposits discovered and the company's ability to finance development toward production.
+**[Cambria Gold Mines](/camvf-stock/) is a Canadian junior exploration and development company focused on precious metals, primarily gold.** The company operates in the hard-asset space where exploration-stage companies stake claims, conduct geological surveys, and drill to find economically viable ore deposits. Unlike producing mines, Cambria remains pre-commercial—its value hinges on the size, grade, and location of deposits discovered and the company's ability to finance development toward production.
 
 The company's primary asset base consists of mineral property claims concentrated in the Yukon Territory, a region known for historical and ongoing gold mining activity. Management pursues an exploration-stage strategy typical of the junior sector: acquire prospective properties, execute systematic drilling and surveying programs, and either develop a discovery internally or attract larger operators as partners or buyers. This model transfers capital intensity and [operational risk](/operational-risk/) to later-stage funders in exchange for upside exposure.
 

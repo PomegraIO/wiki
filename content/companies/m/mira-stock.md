@@ -19,7 +19,7 @@ keywords: ["ophthalmology", "pharmaceutical", "clinical trials", "FDA", "CIK 190
 
 MIRA's value resides in its product pipeline—the portfolio of drug candidates in development. The company's [10-k](/10-k/) discloses each program by indication, development stage (preclinical, Phase 1/2/3, regulatory), and regulatory pathway. The specificity of these disclosures is material: a company disclosing "Phase 2 diabetic retinopathy program" is further along and more investable than one with only "preclinical ophthalmology research."
 
-The FDA classification of development pathways affects timeline and probability of success. Does MIRA's lead program qualify for [special-purpose-acquisition-company](/special-purpose-acquisition-company/) designation (Orphan Drug, Fast Track, Breakthrough Therapy, or Priority Review)? Filings must disclose these designations, as they can accelerate regulatory timelines by 6 to 12 months. A program without such designation faces a longer and more uncertain road.
+The FDA classification of development pathways affects timeline and probability of success. Does MIRA's lead program qualify for [special-purpose-acquisition-company](/special-purpose-acquisition-company/) designation (Orphan Drug, [Fast Track](/ftrk-stock/), Breakthrough Therapy, or Priority Review)? Filings must disclose these designations, as they can accelerate regulatory timelines by 6 to 12 months. A program without such designation faces a longer and more uncertain road.
 
 MIRA's 10-K and 10-Q also disclose clinical-trial status for each program: recruitment numbers, patient populations, efficacy or safety signals to date. A reader can extract whether trials are on pace, whether enrollment challenges are emerging, and whether interim data has prompted any protocol amendments (often a warning sign of efficacy or tolerability issues).
 
@@ -44,7 +44,7 @@ Filings also disclose related-party financing or equity incentives. If founders 
 
 MIRA may have licensed intellectual property (molecule, manufacturing process, clinical data) from academic institutions or other companies. Royalty obligations are disclosed in the 10-K and affect post-approval profitability. A company that retains 80% of net sales after royalties has better commercial upside than one that retains 40%.
 
-Strategic partnerships with larger pharma companies—co-development, co-promotion, or option agreements—are also disclosed. These partnerships signal validation of MIRA's science and provide non-dilutive capital, reducing reliance on equity financing. A reader should assess partnership terms: Is MIRA keeping US commercial rights or has it ceded them? Are milestone payments for regulatory or sales achievements realistic?
+Strategic partnerships with larger pharma companies—co-development, co-promotion, or option agreements—are also disclosed. These partnerships signal validation of MIRA's science and provide non-dilutive capital, reducing reliance on [equity financing](/equity-financing/). A reader should assess partnership terms: Is MIRA keeping US commercial rights or has it ceded them? Are milestone payments for regulatory or sales achievements realistic?
 
 ## Risk Disclosure and Clinical Liability
 
@@ -56,7 +56,7 @@ A reader studying MIRA's risk section gains insight into what could derail the c
 
 MIRA's economic moat depends on patent protection. The company's 10-K discloses:
 - Patent filings and issuances (by indication and mechanism)
-- Patent expiration dates (when generic competition becomes possible)
+- Patent [expiration dates](/expiration-contracts/) (when generic competition becomes possible)
 - Licensing agreements (if MIRA is infringing or has licensed third-party IP)
 - Challenge or litigation risk (has anyone filed an Abbreviated New Drug Application expecting generic entry?)
 

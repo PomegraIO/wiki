@@ -4,7 +4,7 @@ description: "Australian retailer traded in the US through ADR; SEC filing CIK 2
 keywords: ["retail", "Australia", "ADR", "consumer retail", "specialty retail", "international market"]
 ---
 
-*The **Boxer Retail Limited** enterprise (BXRLY), traded in the United States via American Depositary Receipt, is an Australian-listed retailer with operations focused on its home market. Boxer's competitive position is rooted in its geographic specificity—it operates in a concentrated market (Australia's population is around 26 million) with a retail landscape markedly different from the United States, shaped by domestic brands, import barriers, and retailer concentration.*
+*The **Boxer Retail Limited** enterprise (BXRLY), traded in the United States via [American Depositary Receipt](/adr/), is an Australian-listed retailer with operations focused on its home market. Boxer's competitive position is rooted in its geographic specificity—it operates in a concentrated market (Australia's population is around 26 million) with a retail landscape markedly different from the United States, shaped by domestic brands, import barriers, and retailer concentration.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BXRLY</td></tr>

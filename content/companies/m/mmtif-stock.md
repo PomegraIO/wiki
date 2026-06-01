@@ -33,9 +33,9 @@ Alternatively, a larger chip company might acquire MicroMem outright, absorbing 
 
 Semiconductor development requires sustained capital and patience. A new memory architecture or sensor design takes years to prove out in the laboratory, then more years to test in real applications, then even more years to manufacture reliably at scale. A small independent firm faces a brutal problem: it has limited cash, limited staff, and no revenue to fund the next phase of work.
 
-Non-volatile memory is a particularly crowded field. Established giants like Samsung, Micron, SK Hynix, and Intel dominate the memory chip market. For MicroMem to succeed, its technology would need to offer some advantage—lower cost, higher density, better reliability, or lower power consumption—that makes larger manufacturers want to license or buy it. Thermal imaging sensors face similar competition from established players.
+Non-volatile memory is a particularly crowded field. Established giants like Samsung, Micron, SK Hynix, and [Intel](/intc-stock/) dominate the memory chip market. For MicroMem to succeed, its technology would need to offer some advantage—lower cost, higher density, better reliability, or lower power consumption—that makes larger manufacturers want to license or buy it. Thermal imaging sensors face similar competition from established players.
 
-The company's survival depends on continued investment. Without fresh capital infusions, even promising research programs stall. This is why development-stage semiconductor firms are often targets for acquisition or strategic investment by larger tech companies. Buying or funding a startup's research can be cheaper than building an equivalent lab from scratch.
+The company's survival depends on continued investment. Without fresh capital infusions, even promising research programs stall. This is why development-stage semiconductor firms are often targets for [acquisition](/acquisition/) or strategic investment by larger tech companies. Buying or funding a startup's research can be cheaper than building an equivalent lab from scratch.
 
 ## How to Understand This Company
 
@@ -53,6 +53,6 @@ The real question is whether the underlying technology will ever become valuable
 
 ## The OTC Trading Question
 
-MicroMem trades over-the-counter, not on a major [stock](/stock/) exchange like the Nasdaq or NYSE. OTC stocks are typically smaller, less liquid, and less closely followed than exchange-listed companies. They carry higher trading costs and higher risk. An OTC listing does not reflect poor quality; it simply reflects that the company is not large enough to meet exchange listing standards. Still, an OTC listing means fewer institutional investors track the company and fewer analysts cover it, which can make it harder to find reliable information.
+MicroMem trades over-the-counter, not on a major [stock](/stock/) exchange like the [Nasdaq](/nasdaq/) or NYSE. OTC stocks are typically smaller, less liquid, and less closely followed than exchange-listed companies. They carry higher trading costs and higher risk. An OTC listing does not reflect poor quality; it simply reflects that the company is not large enough to meet exchange listing standards. Still, an OTC listing means fewer institutional investors track the company and fewer analysts cover it, which can make it harder to find reliable information.
 
 Investors interested in OTC semiconductor plays must do their own diligence. Public filings are available through the SEC's EDGAR database, but much of the work of understanding the technology and its prospects falls to the individual investor.

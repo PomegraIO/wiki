@@ -35,9 +35,9 @@ Each service line has different unit economics. Long-haul carries lower costs pe
 
 ## Customer Mix and Stability
 
-Covenant's largest customers are likely large retailers, manufacturers, or logistics providers. A contract with Walmart or Target means steady volume but also downward pressure on rates—large customers have negotiating power. Loss of a major customer is a real risk and can hit margin significantly.
+Covenant's largest customers are likely large retailers, manufacturers, or logistics providers. A contract with [Walmart](/wmt-stock/) or [Target](/tgt-stock/) means steady volume but also downward pressure on rates—large customers have negotiating power. Loss of a major customer is a real risk and can hit margin significantly.
 
-Smaller, less-stable customers are more numerous but more volatile. A small manufacturer might ship steady for a year and then go out of business. Covenant must balance exposure to a few large customers (concentration risk) against many small ones (volatility and administrative burden).
+Smaller, less-stable customers are more numerous but more volatile. A small manufacturer might ship steady for a year and then go out of business. Covenant must balance exposure to a few large customers ([concentration risk](/concentration-risk/)) against many small ones (volatility and administrative burden).
 
 ## Regulatory and Labor Constraints
 
@@ -49,17 +49,17 @@ Driver regulations limit how much trucking a driver can produce. A driver can wo
 
 Fuel is a major cost. When fuel prices spike, trucking company margins compress unless they can pass on higher costs to customers via fuel surcharges. Fuel surcharges are common but lag spot fuel prices and often don't fully offset costs. When fuel is volatile and unpredictable, trucking companies face margin risk.
 
-Inflation in wages, equipment, and maintenance costs similarly compresses margins unless the company can raise rates. Over the long term, trucking company returns tend to revert to the cost of capital—the competitive industry puts pressure on margins.
+[Inflation](/inflation/) in wages, equipment, and maintenance costs similarly compresses margins unless the company can raise rates. Over the long term, trucking company returns tend to revert to the cost of capital—the competitive industry puts pressure on margins.
 
 ## Cyclicality and Economic Sensitivity
 
-Trucking is strongly cyclical. In economic booms, retail and manufacturing shipping volumes surge, truck capacity gets tight, and rates rise sharply. Trucking companies in those years are very profitable. In recessions, volumes plummet, excess capacity floods the market, and rates collapse. Companies that built big during boom years often suffer losses during busts.
+Trucking is strongly cyclical. In economic booms, retail and manufacturing shipping volumes surge, truck capacity gets tight, and rates rise sharply. Trucking companies in those years are very profitable. In [recessions](/recession/), volumes plummet, excess capacity floods the market, and rates collapse. Companies that built big during boom years often suffer losses during busts.
 
 Covenant's earnings and stock price swing with economic cycles. A weakening economy signals falling freight volumes and pressure on rates, which then pressure the stock. A strengthening economy does the opposite.
 
 ## Reviewing Covenant's Position
 
-In its [10-K](/10-K/), Covenant reports fleet size, average rates per mile or per load, driver count, utilization, and fuel costs. Key metrics are revenue per truck per day (or per mile), operating margin, and return on assets. Compare year-over-year to see if the company is gaining share and raising margins or losing share and compressing margins. Look for customer concentration—if one or two customers are 20%+ of revenue, the company is exposed to their loss.
+In its [10-K](/10-K/), Covenant reports fleet size, average rates per mile or per load, driver count, utilization, and fuel costs. Key metrics are revenue per truck per day (or per mile), [operating margin](/operating-margin/), and [return on assets](/return-on-assets/). Compare year-over-year to see if the company is gaining share and raising margins or losing share and compressing margins. Look for customer concentration—if one or two customers are 20%+ of revenue, the company is exposed to their loss.
 
 <div class="wiki-seealso">
 ### Closely related

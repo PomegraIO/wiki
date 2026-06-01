@@ -16,7 +16,7 @@ keywords: ["BGSI", "collision repair", "automotive", "licensing", "insurance", "
 
 ## Multi-Jurisdictional Licensing and Compliance
 
-Boyd Group operates collision repair facilities across multiple U.S. states and Canadian provinces, and each jurisdiction imposes its own licensing, bonding, and operational standards. The company cannot operate a single unified repair protocol; it must maintain facility-specific compliance profiles aligned with local regulatory expectations. Some states require collision repair businesses to be registered or licensed; others impose surety bond requirements to protect customers if the shop abandons a vehicle or misappropriates parts. The cost of maintaining these licenses and bonds across dozens of jurisdictions is a compliance overhead that non-aggregated competitors cannot easily bear, but that BGSI's scale allows it to absorb.
+Boyd Group operates collision repair facilities across multiple U.S. states and Canadian provinces, and each jurisdiction imposes its own licensing, bonding, and operational standards. The company cannot operate a single unified repair protocol; it must maintain facility-specific compliance profiles aligned with local regulatory expectations. Some states require collision repair businesses to be registered or licensed; others impose surety bond requirements to protect customers if the shop abandons a vehicle or misappropriates parts. The cost of maintaining these licenses and [bonds](/bond/) across dozens of jurisdictions is a compliance overhead that non-aggregated competitors cannot easily bear, but that BGSI's scale allows it to absorb.
 
 ## Insurance Company Relationships and Contractual Constraints
 
@@ -50,7 +50,7 @@ Boyd Group operates facilities in Canada as well as the U.S., adding regulatory 
 
 ## Disclosure and Regulatory Reporting
 
-As a TSX-listed and SEC-reporting entity with CIK 2091467, BGSI files periodic disclosures with both Canadian securities regulators and the SEC. The company must disclose material regulatory proceedings, significant compliance incidents (such as environmental violations or major insurer delisting), and operational risks tied to insurer relationships. Readers researching BGSI should review these filings to understand the company's current insurer relationships, facility compliance status, and exposure to regulatory change.
+As a TSX-listed and SEC-reporting entity with CIK 2091467, BGSI files periodic disclosures with both Canadian securities regulators and the SEC. The company must disclose material regulatory proceedings, significant compliance incidents (such as environmental violations or major insurer delisting), and [operational risks](/operational-risk/) tied to insurer relationships. Readers researching BGSI should review these filings to understand the company's current insurer relationships, facility compliance status, and exposure to regulatory change.
 
 The regulatory navigator's reading of BGSI centers on this reality: the collision repair business is fundamentally shaped by insurance economics and regulatory oversight. BGSI's success depends on maintaining operational compliance across multiple jurisdictions, managing insurer relationships and rate constraints, and executing repairs that meet safety, environmental, and quality standards. A firm that underestimates the regulatory and contractual load operates at severe disadvantage; BGSI's scale allows it to absorb these costs more efficiently than smaller, regional competitors.
 

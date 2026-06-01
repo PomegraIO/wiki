@@ -47,7 +47,7 @@ Citizens Financial Services does not compete on technology. The bank does not ha
 
 ## Merger and Consolidation Risk
 
-The community bank sector has been consolidating for decades. Smaller banks are acquired by larger regional banks, which are themselves acquired by even larger banks or non-bank financial firms. This is not inherently a threat to Citizens' business—an acquisition could be beneficial to shareholders. But it does mean that Citizens' independence and its ability to maintain its current competitive strategy may be temporary. Once acquired and integrated, Citizens may lose the local relationships and decision-making autonomy that have been its moat.
+The community bank sector has been consolidating for decades. Smaller banks are acquired by larger regional banks, which are themselves acquired by even larger banks or non-bank financial firms. This is not inherently a threat to Citizens' business—an [acquisition](/acquisition/) could be beneficial to shareholders. But it does mean that Citizens' independence and its ability to maintain its current competitive strategy may be temporary. Once acquired and integrated, Citizens may lose the local relationships and decision-making autonomy that have been its moat.
 
 ## Fragile Local Monopoly
 
@@ -56,15 +56,15 @@ Citizens Financial Services' moat is based on serving markets that national comp
 <div class="wiki-seealso">
   <h3>Closely related</h3>
   <ul>
-    <li><a href="/cznc-stock/">Citizens & Northern Corp (CZNC)</a></li>
+    <li><a href="/cznc-stock/">[Citizens & Northern](/cznc-stock/) Corp (CZNC)</a></li>
     <li><a href="/cyrx-stock/">Cryoport, Inc. (CYRX)</a></li>
   </ul>
   <h3>Wider context</h3>
   <ul>
     <li><a href="/stock/">Stock</a></li>
     <li><a href="/public-company/">Public Company</a></li>
-    <li><a href="/securities-and-exchange-commission/">Securities and Exchange Commission</a></li>
-    <li><a href="/balance-sheet/">Balance Sheet</a></li>
+    <li><a href="/securities-and-exchange-commission/">[Securities and Exchange Commission](/securities-and-exchange-commission/)</a></li>
+    <li><a href="/balance-sheet/">[Balance Sheet](/balance-sheet/)</a></li>
     <li><a href="/10-k/">10-K</a></li>
   </ul>
 </div>

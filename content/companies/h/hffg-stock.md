@@ -45,7 +45,7 @@ A disruption in shipping (port strikes, new tariffs, shipping-container shortage
 
 ## Competition and Differentiation
 
-HF Foods competes against national food distributors (Sysco, US Foods) for some categories, against local importers for others, and increasingly against direct-to-consumer e-commerce platforms. National distributors have scale and convenience but less specialized expertise. Local competitors are nimble but may lack supply-chain reliability. E-commerce platforms offer convenience but typically focus on higher-margin, branded consumer goods rather than bulk foodservice ingredients.
+HF Foods competes against national food distributors (Sysco, [US Foods](/usfd-stock/)) for some categories, against local importers for others, and increasingly against direct-to-consumer e-commerce platforms. National distributors have scale and convenience but less specialized expertise. Local competitors are nimble but may lack supply-chain reliability. E-commerce platforms offer convenience but typically focus on higher-margin, branded consumer goods rather than bulk foodservice ingredients.
 
 HF Foods' differentiation lies in product depth (the breadth of authentic Asian specialty items it stocks), local market knowledge, delivery speed, and willingness to work with small customers who may not be profitable for a national distributor.
 
@@ -53,13 +53,13 @@ HF Foods' differentiation lies in product depth (the breadth of authentic Asian 
 
 Growth for HF Foods comes from expanding its geographic footprint (adding distribution centers and customers in new metros), widening its product range, and increasing customer density and purchasing frequency in existing markets. The company can grow organically (investing in new facilities and sales teams) or by acquiring smaller regional distributors and consolidating them onto HF Foods' platform.
 
-Consolidation in specialty distribution is ongoing. HF Foods faces risk of acquisition by a larger distributor, or of being displaced by a platform (retailer or e-commerce) that captures the direct relationship with restaurants and grocers. Conversely, if the company executes well, it could acquire regional competitors and emerge as the dominant specialty food distributor for Asian markets in North America.
+Consolidation in specialty distribution is ongoing. HF Foods faces risk of [acquisition](/acquisition/) by a larger distributor, or of being displaced by a platform (retailer or e-commerce) that captures the direct relationship with restaurants and grocers. Conversely, if the company executes well, it could acquire regional competitors and emerge as the dominant specialty food distributor for Asian markets in North America.
 
 ## Financial Model and Capital Intensity
 
 Food distribution is working-capital-intensive. The company must purchase inventory and hold it in warehouses before selling to customers. It must finance freight, warehousing, and delivery operations. Profitability depends on inventory turns (how often goods are sold and replaced), gross margins (spread between purchase and sale price), and operating leverage (how much of the profit flows through after paying for facilities and logistics).
 
-A company trading on NASDAQ like HFFG must [file with the SEC](/securities-and-exchange-commission/) and provide detailed [10-K](/10-k/) annual reports, offering investors visibility into the company's revenue, gross margins, inventory levels, and capital expenditures.
+A company trading on [NASDAQ](/nasdaq/) like HFFG must [file with the SEC](/securities-and-exchange-commission/) and provide detailed [10-K](/10-k/) annual reports, offering investors visibility into the company's revenue, gross margins, inventory levels, and capital expenditures.
 
 <div class="wiki-seealso">
 ### Closely related

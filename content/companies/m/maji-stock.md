@@ -48,17 +48,17 @@ Recurring revenue from an installed base is attractive because it is often highe
 
 The medical device industry is competitive and frequently subject to price erosion. Once a device is approved and proven, competitors often file their own applications, obtain approval, and enter the market. The original innovator may face 50% or more price decline within a few years as competitors battle for share.
 
-Moreover, larger medical device companies (such as multinational device conglomerates) often acquire successful smaller device makers, absorbing their products into a larger portfolio and leveraging scale to lower manufacturing costs and increase reimbursement negotiating power. For an independent mid-cap device company like Nextel Medical, the threat of acquisition or commoditization is always present.
+Moreover, larger medical device companies (such as multinational device conglomerates) often acquire successful smaller device makers, absorbing their products into a larger portfolio and leveraging scale to lower manufacturing costs and increase reimbursement negotiating power. For an independent mid-cap device company like Nextel Medical, the threat of [acquisition](/acquisition/) or commoditization is always present.
 
 ## Working Capital and Inventory Management
 
 Device companies must maintain inventory to support sales and distribution. Devices are often sold through distributors or direct sales channels; either way, inventory sits in the supply chain. If Nextel Medical forecasts demand wrongly and overproduces, it must carry excess inventory. If a device is subject to rapid obsolescence (technological improvement or new competitor launches), older inventory may have to be written down or discarded.
 
-Effective demand forecasting and inventory management are critical to working capital efficiency. A company that overestimates demand and builds excess inventory will tie up cash and may later incur inventory write-downs, hurting profitability.
+Effective demand forecasting and inventory management are critical to [working capital efficiency](/working-capital-efficiency/). A company that overestimates demand and builds excess inventory will tie up cash and may later incur inventory write-downs, hurting profitability.
 
 ## Reputational Risk and Product Liability
 
-Medical devices are used in care for sick and injured people. Product failures can lead to patient harm, lawsuits, and regulatory action. Nextel Medical carries product liability insurance, but major recalls or adverse events can damage reputation, reduce sales, and trigger significant legal and regulatory costs. The [balance sheet](/balance-sheet/) of a device company often includes litigation reserves and contingent liabilities related to known or pending claims.
+Medical devices are used in care for sick and injured people. Product failures can lead to patient harm, lawsuits, and regulatory action. Nextel Medical carries product liability insurance, but major recalls or adverse events can damage reputation, reduce sales, and trigger significant legal and regulatory costs. The [balance sheet](/balance-sheet/) of a device company often includes litigation reserves and [contingent liabilities](/contingent-liabilities-government/) related to known or pending claims.
 
 Understanding Nextel Medical requires reviewing both its clinical and commercial performance—how well the device is adopted, what reimbursement rates it achieves, and whether it has faced significant product liability or recall events. The 10-K provides detail on all of these fronts.
 

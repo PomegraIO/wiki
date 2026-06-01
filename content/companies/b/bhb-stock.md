@@ -24,7 +24,7 @@ keywords:
 
 ## The Maine Resident and the Local Banker
 
-A small-business owner in Portland needs a line of credit to fund seasonal inventory; rather than navigating a national bank's impersonal call center, she walks into a Bar Harbor branch where a loan officer has reviewed her business plan and knows her market. That relationship—personal accountability, rapid decision-making, and community reinvestment—defines Bar Harbor's core customer value proposition. Likewise, a saver depositing his retirement funds appreciates FDIC insurance up to federal limits and the knowledge that his deposits fund mortgages and business loans within his own region, not some distant national mortgage-backed securities pool. Community banks trade scale and technological sophistication for agility and embedded market knowledge; Bar Harbor's survival depends on whether that trade-off continues to resonate.
+A small-business owner in Portland needs a line of credit to fund seasonal inventory; rather than navigating a [national bank](/nbhc-stock/)'s impersonal call center, she walks into a Bar Harbor branch where a loan officer has reviewed her business plan and knows her market. That relationship—personal accountability, rapid decision-making, and community reinvestment—defines Bar Harbor's core customer value proposition. Likewise, a saver depositing his retirement funds appreciates FDIC insurance up to federal limits and the knowledge that his deposits fund mortgages and business loans within his own region, not some distant national mortgage-backed securities pool. Community banks trade scale and technological sophistication for agility and embedded market knowledge; Bar Harbor's survival depends on whether that trade-off continues to resonate.
 
 ## Geography as Destiny and Constraint
 
@@ -44,7 +44,7 @@ Maine's banking sector has consolidated dramatically over decades; many independ
 
 ## Regulatory Capital and Profitability
 
-Community banks must maintain capital ratios set by federal regulators; inadequate capital forces either equity raises or limitations on asset growth. Bar Harbor's regulatory filings detail Tier 1 capital, leverage ratios, and stress-test results. In recent years, rising interest rates have boosted banks' net interest margins (earning more on floating-rate loans and investments while keeping deposit rates stable), benefiting institutions like Bar Harbor. However, should rates fall sharply, the margin compresses and profitability declines. Analysts should examine whether profitability is structurally sound or dependent on an unusually steep interest-rate curve.
+Community banks must maintain capital ratios set by federal regulators; inadequate capital forces either equity raises or limitations on asset growth. Bar Harbor's regulatory filings detail [Tier 1 capital](/tier-1-capital/), [leverage ratios](/leverage-ratio-forex/), and stress-test results. In recent years, rising [interest rates](/interest-rate/) have boosted banks' net interest margins (earning more on floating-rate loans and investments while keeping deposit rates stable), benefiting institutions like Bar Harbor. However, should rates fall sharply, the margin compresses and profitability declines. Analysts should examine whether profitability is structurally sound or dependent on an unusually steep interest-rate curve.
 
 ## Researching Further
 

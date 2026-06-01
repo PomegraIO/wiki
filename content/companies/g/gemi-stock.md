@@ -33,7 +33,7 @@ Gemini must therefore attract substantial funding, whether through venture capit
 
 Space companies typically serve a mix of government (NASA, Department of Defense, international agencies) and commercial customers (telecommunications companies, Earth-observation firms, research institutions, private space ventures). Government contracts offer stability and scale but come with extensive compliance, oversight, and security requirements that drive costs. Commercial customers often demand cost efficiency but may have less certain, durable demand.
 
-Concentration risk is acute: if Gemini relies on one or two major customers for a substantial portion of revenue, loss of a contract or customer creates existential risk. This is partly a structural feature of the space industry—few customers have the need for orbital infrastructure—and partly manageable through diversification across government and commercial segments.
+[Concentration risk](/concentration-risk/) is acute: if Gemini relies on one or two major customers for a substantial portion of revenue, loss of a contract or customer creates existential risk. This is partly a structural feature of the space industry—few customers have the need for orbital infrastructure—and partly manageable through [diversification](/diversification/) across government and commercial segments.
 
 ## Technical Complexity and Execution Risk
 
@@ -49,7 +49,7 @@ For example, if the FAA tightens orbital-debris mitigation requirements, Gemini'
 
 ## Competition and Market Dynamics
 
-Gemini competes against established aerospace primes (Boeing, Lockheed Martin, Northrop Grumman) that have space divisions, well-funded private ventures (SpaceX, Blue Origin, Axiom Space), and smaller specialized competitors. Established primes have balance-sheet strength and government relationships but may be slower to innovate. Younger, venture-backed competitors may move faster but face capital constraints and unproven track records.
+Gemini competes against established aerospace primes ([Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/), Northrop Grumman) that have space divisions, well-funded private ventures (SpaceX, Blue Origin, Axiom Space), and smaller specialized competitors. Established primes have balance-sheet strength and government relationships but may be slower to innovate. Younger, venture-backed competitors may move faster but face capital constraints and unproven track records.
 
 Market consolidation is likely: the sector will probably support fewer competitors at scale than currently exist. Winners will be those that achieve reliable operations, scale profitably, and secure durable customer relationships. Losers may be acquired, fade, or find narrow niche roles. Gemini's competitive positioning—its technical advantages, customer relationships, and cost structure—determines its likelihood of success.
 

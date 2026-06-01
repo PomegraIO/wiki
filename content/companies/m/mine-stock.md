@@ -44,7 +44,7 @@ A smaller company may also disclose going-concern warnings if cash reserves are 
 
 MAYFAIR's choice of language in its [10-k](/10-k/) reveals discipline or over-reaching. Management's Discussion & Analysis (MD&A) sections may emphasize successful drilling results, secured permits, or increasing resource confidence. They may also downplay setbacks: delayed drilling due to weather, permitting delays, or metallurgical bottlenecks. A systematic reader compares current-year MD&A to prior years, tracking whether narrative gaps are explained or merely redirected.
 
-The company must also disclose related-party transactions: whether officers own claims near MAYFAIR properties, whether directors sit on related ventures, whether the company pays management fees that exceed typical market norms. These disclosures protect shareholders by forcing transparency on conflicts.
+The company must also disclose related-party transactions: whether officers own claims near MAYFAIR properties, whether directors sit on related ventures, whether the company pays [management fees](/management-fee/) that exceed typical market norms. These disclosures protect shareholders by forcing transparency on conflicts.
 
 ## Competitive Context Within Colombian Gold Exploration
 
@@ -52,7 +52,7 @@ MAYFAIR operates in a jurisdiction where it shares geology with other explorers 
 
 ## Where to Research MAYFAIR Further
 
-The company's complete 10-K, 10-Q quarterly reports, and proxy statements are available via the SEC's EDGAR system (CIK 1823255). Investors should cross-reference MAYFAIR's technical reports with independent assessments of Colombian mining conditions, gold metallurgy, and comparable company valuations. The ticker MINE trades on OTC Markets, where liquidity may be constrained and bid-ask spreads wide; this affects how efficiently capital can be deployed or exited.
+The company's complete 10-K, 10-Q quarterly reports, and proxy statements are available via the SEC's EDGAR system (CIK 1823255). Investors should cross-reference MAYFAIR's technical reports with independent assessments of Colombian mining conditions, gold metallurgy, and comparable company valuations. The ticker MINE trades on OTC Markets, where liquidity may be constrained and [bid-ask spreads](/bid-ask-spread/) wide; this affects how efficiently capital can be deployed or exited.
 
 ---
 

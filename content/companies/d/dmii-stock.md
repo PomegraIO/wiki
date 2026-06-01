@@ -10,7 +10,7 @@ keywords:
   - post-merger financing
 ---
 
-*Drugs Made In America Acquisition II Corp. (DMII) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) listed on US markets, capitalized to identify and combine with a private pharmaceutical or healthcare business. The firm's financial architecture—[equity](/common-stock/), [debt](/corporate-bond/), and contingent obligations—is engineered to facilitate the merger or acquisition transaction and support the resulting combined entity.*
+*Drugs Made In America [Acquisition](/acquisition/) II Corp. (DMII) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) listed on US markets, capitalized to identify and combine with a private pharmaceutical or healthcare business. The firm's financial architecture—[equity](/common-stock/), [debt](/corporate-bond/), and contingent obligations—is engineered to facilitate the [merger](/merger/) or acquisition transaction and support the resulting combined entity.*
 
 <aside class="wiki-infobox"><table>
 <tbody>
@@ -24,7 +24,7 @@ keywords:
 
 ## SPAC Capital Structure and Trust Accounts
 
-Drugs Made In America Acquisition II operates with the classic SPAC structure: a pool of capital raised from public [shareholders](/common-stock/) and insider sponsors, held in trust pending identification of an acquisition target. The company's initial [equity](/common-stock/) issuance—unit shares comprising [common stock](/common-stock/) and warrants—created the capital base for the business combination.
+[Drugs Made In America Acquisition](/dmaa-stock/) II operates with the classic SPAC structure: a pool of capital raised from public [shareholders](/common-stock/) and insider sponsors, held in trust pending identification of an acquisition target. The company's initial [equity](/common-stock/) issuance—unit shares comprising [common stock](/common-stock/) and warrants—created the capital base for the [business combination](/business-combination-purchase/).
 
 A substantial portion of SPAC capital sits in a trust account, restricted and unavailable for operations until the business combination closes. This segregated structure protects public shareholders: if the SPAC fails to complete a transaction within its operational window, capital returns to investors. Insiders and sponsors maintain their [shares](/common-stock/), but lack access to the trust capital unless the combination succeeds, aligning incentives toward completion.
 
@@ -32,17 +32,17 @@ The trust account size, less estimated transaction and expense costs, determines
 
 ## Merger Consideration and Capital Allocation
 
-The target's private shareholders and founders will negotiate merger consideration—the total value DMII and any ancillary financing commits to the deal. This typically comprises cash from the trust, the equity value the target holders will receive in the combined entity, and potentially [debt](/corporate-bond/) or earnout provisions.
+The target's private shareholders and founders will negotiate merger consideration—the total value DMII and any ancillary financing commits to the deal. This typically comprises cash from the trust, the equity value the target holders will receive in the combined entity, and potentially [debt](/corporate-bond/) or [earnout provisions](/earnout-provision/).
 
 If the target has existing [debt](/corporate-bond/), the acquiring SPAC often assumes those liabilities as part of the combination, increasing total capitalization and leverage of the resulting public company. The post-merger entity inherits both the target's assets and obligations, making the capital structure of the target a key due-diligence item.
 
-[Common stockholders](/common-stock/) in DMII have redemption rights—they can demand their pro-rata share of trust capital back if they disapprove the proposed merger, reducing the cash available for deal completion. High redemption rates can force additional sponsor financing or debt issuance to close the transaction, diluting remaining shareholders and increasing combined entity leverage.
+[Common stockholders](/common-stock/) in DMII have [redemption rights](/redemption-rights-equity/)—they can demand their pro-rata share of trust capital back if they disapprove the proposed merger, reducing the cash available for deal completion. High redemption rates can force additional sponsor financing or debt issuance to close the transaction, diluting remaining shareholders and increasing combined entity leverage.
 
 ## Warrant Structures and Dilution
 
-DMII issued [warrants](/common-stock/) alongside its initial public shares, granting holders the right to purchase additional [common stock](/common-stock/) at a specified exercise price. These warrants dilute existing equity holders if exercised—adding share count and voting power without contributing new capital unless holders actually exercise.
+DMII issued [warrants](/common-stock/) alongside its initial public shares, granting holders the right to purchase additional [common stock](/common-stock/) at a specified [exercise price](/exercise-price/). These warrants dilute existing equity holders if exercised—adding share count and voting power without contributing new capital unless holders actually exercise.
 
-Warrant terms often include provisions for adjustment or forfeiture depending on the business combination and post-merger performance. Some warrant holders face pressure to exercise or lose their position; others maintain optionality, deciding post-combination whether execution at the set strike price remains attractive relative to market prices.
+Warrant terms often include provisions for adjustment or forfeiture depending on the business combination and post-merger performance. Some warrant holders face pressure to exercise or lose their position; others maintain optionality, deciding post-combination whether execution at the set [strike price](/strike-price/) remains attractive relative to market prices.
 
 The fully diluted [equity](/common-stock/) count—including all warrants on an as-exercised basis—shapes [earnings per share](/earnings-per-share/) and ownership concentration of the combined entity. Investors evaluating DMII must adjust headline capitalization for warrant dilution.
 
@@ -62,7 +62,7 @@ Earnout terms affect the merged entity's financial flexibility and capital alloc
 
 ## Sponsor and Management Incentives
 
-Sponsors and insiders in a SPAC retain founder shares that typically have extended vesting or special terms, creating asymmetric incentives compared to public shareholders. Sponsor economics—their carried interest in deal completion and post-merger performance—influence capital allocation decisions in ways that may not align with public shareholder interests.
+Sponsors and insiders in a SPAC retain [founder shares](/founder-shares/) that typically have extended vesting or special terms, creating asymmetric incentives compared to public shareholders. Sponsor economics—their carried interest in deal completion and post-merger performance—influence capital allocation decisions in ways that may not align with public shareholder interests.
 
 A sponsor willing to absorb redemptions or provide incremental capital to complete the transaction signals confidence in the target's value and the merged entity's prospects. Conversely, if sponsors avoid capital commitments beyond their initial equity, skeptics may question their true conviction in the combination's value creation.
 
@@ -73,7 +73,7 @@ Evaluating DMII and its target requires examining:
 - **Trust account size and use of proceeds**: Cash available post-redemptions, transaction expenses, and capital allocation to the target
 - **Target capitalization**: Existing [debt](/corporate-bond/), [equity](/common-stock/) structure, and regulatory assets or liabilities inherited
 - **Merger consideration**: Total value, mix of cash vs. [equity](/common-stock/), and earnout provisions
-- **Pro-forma capitalization**: Combined [balance sheet](/balance-sheet/), [debt](/corporate-bond/), [equity](/common-stock/), and leverage ratios post-merger
+- **Pro-forma capitalization**: Combined [balance sheet](/balance-sheet/), [debt](/corporate-bond/), [equity](/common-stock/), and [leverage ratios](/leverage-ratio-forex/) post-merger
 - **Warrant and dilution schedule**: Total shares outstanding, fully diluted count, and warrant exercise assumptions
 - **Sponsor economics and incentives**: Founder shares, promote structure, and sponsor capital commitments post-merger
 

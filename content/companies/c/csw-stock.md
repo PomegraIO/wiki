@@ -25,7 +25,7 @@ The key structural advantage of owning a portfolio of such niche businesses is t
 
 When new construction slows, general industrial companies experience sharp revenue declines. But many of CSW's business units generate revenue that is less tightly coupled to construction cycles. Industrial fasteners used in maintenance and repair of existing structures are demanded continuously, irrespective of whether new buildings are being erected. Distributors that stock and deliver routine components build customer relationships and inventory positions that persist through cycles. A contractor needs roofing fasteners whether the market is booming or flat.
 
-Moreover, many of the company's units operate in essential infrastructure and maintenance markets. The building and maintenance of industrial facilities, commercial HVAC systems, and specialized equipment does not pause during recessions as readily as new construction does. Existing buildings still require repairs, upgrades, and parts. This defensive revenue base insulates CSW from the full cyclical amplitude experienced by pure-play construction-exposed firms.
+Moreover, many of the company's units operate in essential infrastructure and maintenance markets. The building and maintenance of industrial facilities, commercial HVAC systems, and specialized equipment does not pause during [recessions](/recession/) as readily as new construction does. Existing buildings still require repairs, upgrades, and parts. This defensive revenue base insulates CSW from the full cyclical amplitude experienced by pure-play construction-exposed firms.
 
 ## Consolidation as Secular Strategy
 
@@ -47,7 +47,7 @@ The company's resilience depends on its ability to manage technological evolutio
 
 ## Financial Leverage and Acquisition Cycle
 
-CSW, like many industrial consolidators, uses leverage to fund acquisitions. During periods of easy credit and high valuations, it can acquire targets cheaply and productively. During downturns, credit tightens, deal valuations may shrink, but CSW's debt obligations remain fixed. If a recession is severe, the company may face pressure to reduce debt or cut capital expenditures, constraining its ability to acquire and consolidate. This is a genuine cyclical risk: leverage amplifies earnings swings and can force management into unfavorable strategic choices during downturns.
+CSW, like many industrial consolidators, uses leverage to fund [acquisitions](/acquisition/). During periods of easy credit and high valuations, it can acquire targets cheaply and productively. During downturns, credit tightens, deal valuations may shrink, but CSW's debt obligations remain fixed. If a recession is severe, the company may face pressure to reduce debt or cut capital expenditures, constraining its ability to acquire and consolidate. This is a genuine cyclical risk: leverage amplifies earnings swings and can force management into unfavorable strategic choices during downturns.
 
 However, the company's underlying business model—owning specialized, non-commoditized industrial suppliers—is resilient enough that it can service moderate debt loads even through a downturn. The challenge is one of financial engineering and capital allocation, not fundamental business viability.
 

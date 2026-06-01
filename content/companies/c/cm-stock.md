@@ -59,6 +59,6 @@ Start with the [10-k](/wiki/10-k/)—CIBC's annual report to the SEC (filed as a
 
 CIBC also issues quarterly earnings calls where management discusses macro conditions, deposit trends, and capital allocation plans. Canadian bank analyst reports from the major brokers often benchmark CIBC against peers on net interest margin, loan loss rates, and valuation multiples.
 
-The Bank of Canada's Monetary Policy Report outlines rate policy and economic outlook, directly shaping CIBC's spreads and credit environment three to six months ahead. For macro color on housing, employment, and [inflation](/inflation/), the Statistics Canada monthly releases are standard.
+The Bank of Canada's [Monetary Policy](/monetary-policy/) Report outlines rate policy and economic outlook, directly shaping CIBC's spreads and credit environment three to six months ahead. For macro color on housing, employment, and [inflation](/inflation/), the Statistics Canada monthly releases are standard.
 
 CIBC has moved steadily toward higher capital and lower [leverage ratios](/leverage-ratio-forex/) post-2008 (in line with global [basel-iii](/wiki/basel-iii/) rules). This raises the cost of capital but reduces [tail risk](/tail-risk/) in a systemic shock. The bank's stock price tends to track long-term interest rate expectations and mortgage growth in Canada—watch the [yield curve](/yield-curve/) and housing starts for leading signals.

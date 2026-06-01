@@ -27,7 +27,7 @@ Analysts reading KDDI's 10-K should focus on four metric families. **Subscriber 
 
 Third, watch **regional expansion returns**. KDDI holds minority ownership positions in carriers across the Philippines, Thailand, and Indonesia (via Celcom, part of a larger Southeast Asia play). These investments provide some growth optionality but carry currency and political risk; the 10-K discloses investment returns and impairment charges that reveal whether these bets are paying off.
 
-Fourth, examine **capital intensity and free cash flow**. Japanese telecom networks require continuous reinvestment in 5G buildout, fiber infrastructure, and data centers. KDDI's capex-to-revenue ratio and implied maintenance spend will show whether the company can sustain dividends (a key draw for Japanese institutional investors) while keeping up with network upgrades.
+Fourth, examine **capital intensity and [free cash flow](/free-cash-flow/)**. Japanese telecom networks require continuous reinvestment in 5G buildout, fiber infrastructure, and data centers. KDDI's capex-to-revenue ratio and implied maintenance spend will show whether the company can sustain [dividends](/dividend/) (a key draw for Japanese institutional investors) while keeping up with network upgrades.
 
 ## Regulatory and structural moats
 
@@ -43,7 +43,7 @@ Dividend sustainability hinges on this balance. KDDI has historically paid consi
 
 ## Peer comparison and positioning
 
-Within Japan, KDDI sits between NTT Docomo (larger, oldest, most inertia) and SoftBank (aggressive, debt-laden, always seeking M&A). KDDI's pitch is stability and bundling. Unlike SoftBank, KDDI has not pursued major mergers; it has focused on organic network upgrade and operational discipline. Unlike Docomo, KDDI has moved faster into fiber and cloud. This positioning appeals to conservative investors but limits KDDI's ability to pursue transformational growth.
+Within Japan, KDDI sits between NTT Docomo (larger, oldest, most inertia) and SoftBank (aggressive, debt-laden, always seeking M&A). KDDI's pitch is stability and bundling. Unlike SoftBank, KDDI has not pursued major [mergers](/merger/); it has focused on organic network upgrade and operational discipline. Unlike Docomo, KDDI has moved faster into fiber and cloud. This positioning appeals to conservative investors but limits KDDI's ability to pursue transformational growth.
 
 <div class="wiki-seealso">
 ### Closely related

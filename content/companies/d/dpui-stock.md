@@ -20,7 +20,7 @@ The printing and promotional-merchandise industry depends on global sourcing of 
 
 A company like Discount Print USA navigates this landscape by holding inventory of HS codes and tariff numbers for its sourcing categories. When tariffs on Chinese-manufactured blanks rise, the company faces a choice: absorb the increased cost, pass it to customers, or find alternative suppliers in tariff-advantaged countries. These decisions are not purely commercial. US trade policy explicitly intends to make imports more expensive and domestic production more attractive, so a domestic printing company that cannot source competitively from abroad faces regulatory pressure to invest in local manufacturing capacity or lose margin to imports.
 
-The company's regulatory posture therefore includes tariff compliance (correctly classifying goods at the port of entry, claiming valid exemptions or trade-agreement benefits) and supply-chain diversification (identifying which sourcing nations offer tariff advantages or labor-standard advantages that reduce regulatory risk).
+The company's regulatory posture therefore includes tariff compliance (correctly classifying goods at the port of entry, claiming valid exemptions or trade-agreement benefits) and supply-chain [diversification](/diversification/) (identifying which sourcing nations offer tariff advantages or labor-standard advantages that reduce regulatory risk).
 
 ## Labor Standards and Supplier Oversight
 
@@ -50,5 +50,5 @@ The company's role as a trusted vendor, therefore, includes regulatory gatekeepi
 
 The overall regulatory trend in printing and promotional merchandise is toward consolidation among vendors with sufficient scale and compliance infrastructure. Large printing companies with modern facilities, robust supplier audits, and quality-assurance systems can absorb environmental compliance costs and pass them through to price-sensitive customers, reducing the competitive viability of non-compliant or underinvested competitors.
 
-Discount Print USA's regulatory position therefore determines not just its operating margin but its long-term market viability. A company that remains on the compliant side of these requirements—maintaining environmental permits, auditing suppliers, qualifying products correctly—is a viable middle-market vendor. One that defers investment in compliance or supplier oversight faces mounting regulatory risk and potential margin compression as the compliant players displace them.
+Discount Print USA's regulatory position therefore determines not just its [operating margin](/operating-margin/) but its long-term market viability. A company that remains on the compliant side of these requirements—maintaining environmental permits, auditing suppliers, qualifying products correctly—is a viable middle-market vendor. One that defers investment in compliance or supplier oversight faces mounting regulatory risk and potential margin compression as the compliant players displace them.
 

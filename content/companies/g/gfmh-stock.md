@@ -26,7 +26,7 @@ Goliath's challenge is that it has no guaranteed hit rate. The industry standard
 
 ## Capital Requirements and Financing Structure
 
-Because production requires front-loaded capital, production companies operate on thin margins unless they have deep pockets or secure outside financing. Larger studios (Disney, Netflix, Amazon) self-fund because their balance sheets can absorb hits. Smaller firms like Goliath must either secure production financing (studios pay production budgets upfront), arrange pre-sales (selling distribution rights in foreign territories to recover costs before production), or tap institutional investors or debt markets.
+Because production requires front-loaded capital, production companies operate on thin margins unless they have deep pockets or secure outside financing. Larger studios (Disney, [Netflix](/nflx-stock/), Amazon) self-fund because their balance sheets can absorb hits. Smaller firms like Goliath must either secure production financing (studios pay production budgets upfront), arrange pre-sales (selling distribution rights in foreign territories to recover costs before production), or tap institutional investors or debt markets.
 
 Goliath's capital structure likely reflects this reality: it may carry significant debt, hold [preferred stock](/preferred-stock/) from early investors, and maintain a modest equity base that absorbs the variance of the hit-driven model. Debt holders expect stable returns and will demand collateral or security (often library rights); equity holders expect volatility but hope for upside when a franchise emerges.
 
@@ -42,7 +42,7 @@ Assessing Goliath requires understanding its library: What does it own? How many
 
 ## Secular Tailwinds and Headwinds
 
-Television and film consumption has never been higher in absolute terms. Streaming platforms have created new buyers for content — Netflix, Apple, Amazon, Disney, Max all have insatiable demand for series and films. This is a tailwind for producers like Goliath.
+Television and film consumption has never been higher in absolute terms. Streaming platforms have created new buyers for content — Netflix, [Apple](/aapl-stock/), Amazon, Disney, Max all have insatiable demand for series and films. This is a tailwind for producers like Goliath.
 
 Conversely, the explosion of content has made hits harder to predict and more expensive to market. The average theatrical film now costs $100+ million (including marketing). Television series for premium platforms require movie-scale budgets. Goliath competes against studios with ten-fold its resources and algorithmic recommendation engines that can manufacture demand. For a small producer, the cost of *failing* has risen.
 
@@ -50,7 +50,7 @@ Additionally, streaming economics are opaque. Netflix purchases complete series 
 
 ## The Business Model from the 10-K Perspective
 
-A reader approaching Goliath's [10-K](/10-k/) should focus on: (1) the composition of the film and television slate — which properties have sequels or franchise potential, and which are standalone; (2) pre-sales and financing commitments for upcoming productions (a production with 60% of its budget pre-sold carries less risk than one with none); (3) the amortization schedule of the library and unreleased films (a large write-down signals that management's own bets on these properties have disappointed); (4) debt covenants and liquidity — can Goliath fund its slate without forced asset sales; and (5) the quarterly or annual revenue recognition pattern, which will be lumpy and tied to release timing.
+A reader approaching Goliath's [10-K](/10-k/) should focus on: (1) the composition of the film and television slate — which properties have sequels or franchise potential, and which are standalone; (2) pre-sales and financing commitments for upcoming productions (a production with 60% of its budget pre-sold carries less risk than one with none); (3) the [amortization](/amortization/) schedule of the library and unreleased films (a large write-down signals that management's own bets on these properties have disappointed); (4) debt covenants and liquidity — can Goliath fund its slate without forced asset sales; and (5) the quarterly or annual [revenue recognition](/revenue-recognition/) pattern, which will be lumpy and tied to release timing.
 
 ## Historical Arc and Competitive Position
 

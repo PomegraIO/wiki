@@ -16,7 +16,7 @@ keywords: [biotech, oncology, drug-development, clinical-stage, capital-intensiv
 
 ## The Cash Burn Model and Runway
 
-Biotech companies do not have traditional balance sheets in the sense that manufacturers do. They have no inventory, no accounts receivable (until launch), and few tangible assets. What they have is cash, which flows out steadily to pay salaries, lab supplies, clinical trial costs, and regulatory filings. The company's survival horizon is its "cash runway"—how many quarters it can operate at current burn rates before cash runs out.
+Biotech companies do not have traditional balance sheets in the sense that manufacturers do. They have no inventory, no [accounts receivable](/accounts-receivable/) (until launch), and few tangible assets. What they have is cash, which flows out steadily to pay salaries, lab supplies, clinical trial costs, and regulatory filings. The company's survival horizon is its "cash runway"—how many quarters it can operate at current burn rates before cash runs out.
 
 Curis' financial disclosures in its [10-K](/10-k/) (filed under SEC CIK 1108205) show cash and equivalents and quarterly burn rates. If the company has $50 million in cash and burns $10 million per quarter, it has 5 quarters of runway. This is not a comfortable position; the company must either reach a clinical milestone that triggers investor confidence (and a new funding round), partner with a larger pharmaceutical firm, or announce a dramatic cost reduction.
 
@@ -24,7 +24,7 @@ Investors in biotech therefore focus obsessively on runway and burn trajectory. 
 
 ## Milestone-Driven Financing and Partnerships
 
-Because clinical-stage biotech cannot fund itself from operations, it relies on external capital. This comes from three sources: equity raised from public offerings and private placements, debt (rare and expensive for cash-burning companies), and strategic partnerships that include upfront milestone payments.
+Because clinical-stage biotech cannot fund itself from operations, it relies on external capital. This comes from three sources: equity raised from public offerings and [private placements](/private-placement/), debt (rare and expensive for cash-burning companies), and strategic partnerships that include upfront milestone payments.
 
 Curis likely has partnership agreements with larger pharmaceutical companies, academic institutions, or other biotech firms. These agreements typically grant the partner rights to commercialize a drug (or territory) in exchange for an upfront payment, milestone payments when the drug reaches Phase II or Phase III, and royalty payments if the drug launches. An upfront payment of $20 million can extend runway by two years; a $100 million deal can validate the company's science and restore investor confidence, enabling equity fundraising at higher valuations.
 
@@ -36,7 +36,7 @@ Biotech companies raise capital primarily via equity offerings—existing shareh
 
 Curis' shareholder base has likely been through multiple dilutive rounds. This is not inherently bad—it is the expected financing path for development-stage biotech. But shareholders should understand that their ownership percentage is perpetually eroding unless the company develops a successful drug and launches it (generating revenue) or is acquired at a high price.
 
-The conversion of [preferred-stock](/preferred-stock/) to [common-stock](/common-stock/) during fundraising (and the terms of preferred shares—liquidation preference, anti-dilution rights, voting control) affect shareholders. Institutional investors often negotiate favorable terms in early rounds, making later shareholders (public equity holders) subordinate in a downside scenario.
+The conversion of [preferred-stock](/preferred-stock/) to [common-stock](/common-stock/) during fundraising (and the terms of preferred shares—[liquidation preference](/liquidation-preference/), anti-dilution rights, voting control) affect shareholders. Institutional investors often negotiate favorable terms in early rounds, making later shareholders (public equity holders) subordinate in a downside scenario.
 
 ## Scientific and Regulatory Risk vs. Financial Risk
 
@@ -46,7 +46,7 @@ This creates a peculiar capital structure: the balance sheet shows cash and burn
 
 ## Comparison with Larger Pharmaceutical Firms
 
-Curis' capital model differs radically from integrated pharmaceutical companies like Pfizer or Merck, which have multiple marketed drugs generating billions in revenue and can fund R&D from operations. Curis is pre-commercial, meaning its entire [enterprise-value](/enterprise-value/) rests on the anticipated future value of drugs not yet approved.
+Curis' capital model differs radically from integrated pharmaceutical companies like [Pfizer](/pfe-stock/) or Merck, which have multiple marketed drugs generating billions in revenue and can fund R&D from operations. Curis is pre-commercial, meaning its entire [enterprise-value](/enterprise-value/) rests on the anticipated future value of drugs not yet approved.
 
 This makes Curis' debt capacity nearly zero and its equity investors highly risk-tolerant. The company cannot service [corporate-bond](/corporate-bond/) debt from cash flow (it has none), so any borrowing would be secured by assets (which are negligible) or guaranteed by partners. Most biotech companies avoid debt altogether and burn through equity.
 

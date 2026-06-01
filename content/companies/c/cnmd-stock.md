@@ -60,7 +60,7 @@ During the recent global supply-chain disruptions (2020–2023), many medical de
 
 CONMED sells to hospitals and surgery centers through multiple channels: direct sales by its own sales force, distribution through medical supply wholesalers, and partnerships with hospital group purchasing organizations (GPOs).
 
-Large hospital systems may buy directly from CONMED, negotiating volume contracts and pricing. Regional and smaller hospitals may buy through wholesalers (such as Henry Schein, Medline, or Cardinal Health) who stock CONMED products and deliver them. GPOs aggregate purchasing across multiple hospitals to negotiate better prices; CONMED must be available through these group contracts or lose access to member hospitals.
+Large hospital systems may buy directly from CONMED, negotiating volume contracts and pricing. Regional and smaller hospitals may buy through wholesalers (such as [Henry Schein](/hsic-stock/), Medline, or [Cardinal Health](/cah-stock/)) who stock CONMED products and deliver them. GPOs aggregate purchasing across multiple hospitals to negotiate better prices; CONMED must be available through these group contracts or lose access to member hospitals.
 
 The sales cycle for capital equipment (e.g., an electrosurgical system) can be 6–12 months: a hospital evaluates products, runs trials, compares brands, and ultimately commits to a system. Once a hospital adopts a brand of electrosurgical generator, it tends to remain loyal because surgeons are trained on that equipment, and switching involves retraining and operational disruption. This creates "sticky" customers, but also means that winning new hospital accounts is slow and competitive.
 
@@ -84,7 +84,7 @@ A regulatory delay or denial can block the launch of new products and cost milli
 
 ## Competitive dynamics and differentiation
 
-The surgical instrument market is competitive. Major competitors include Medtronic (which acquired Covidien), Johnson & Johnson (through its Ethicon division), Stryker, and many smaller specialty device makers. Differentiation comes from product reliability, brand reputation, innovation, and customer relationships.
+The surgical instrument market is competitive. Major competitors include Medtronic (which acquired Covidien), [Johnson & Johnson](/jnj-stock/) (through its Ethicon division), Stryker, and many smaller specialty device makers. Differentiation comes from product reliability, brand reputation, innovation, and customer relationships.
 
 CONMED competes partly on technology (specialized features, improved design) and partly on service and availability. A hospital choosing an electrosurgical generator looks at safety features, ease of use, price, and the manufacturer's reliability in supplying compatible accessories. Switching away from an established brand is costly for the hospital, which creates switching costs that protect market position.
 

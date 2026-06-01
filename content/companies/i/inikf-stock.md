@@ -4,7 +4,7 @@ description: "PopReach Corp, a mobile gaming developer, derives revenue from sec
 keywords: ["mobile gaming", "casual gaming", "digital entertainment", "indie gaming", "secular growth"]
 ---
 
-*PopReach Corp (**INIKF**) straddles two competing forces: the long-term secular growth of casual mobile gaming as a mainstream entertainment medium, and the cyclical tightening of discretionary spending by the players who fund that growth through in-app purchases.*
+*PopReach Corp (**INIKF**) straddles two competing forces: the long-term secular growth of casual mobile gaming as a mainstream entertainment medium, and the cyclical tightening of [discretionary spending](/discretionary-spending/) by the players who fund that growth through in-app purchases.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INIKF</td></tr>
@@ -20,7 +20,7 @@ Over the past two decades, casual and hyper-casual mobile games shifted from nic
 
 ## Monetization, Volume, and the Cyclical Squeeze
 
-However, PopReach's revenue derives entirely from monetization of that player base—primarily advertising and in-app purchases—both deeply sensitive to consumer budgets. A mobile game requires no subscription commitment; players can and do abandon titles instantly when economic headwinds tighten their discretionary budgets. In-app purchase conversion rates and average revenue per user (ARPU) fall measurably during recessions as spenders reduce frequency or stop entirely. Advertising rates, tied to advertiser budgets and campaign ROI, also decline sharply in downturns. PopReach, as a developer of multiple titles, benefits from portfolio diversification, but this does not eliminate cyclical exposure—it merely spreads the pain across more games.
+However, PopReach's revenue derives entirely from monetization of that player base—primarily advertising and in-app purchases—both deeply sensitive to consumer budgets. A mobile game requires no subscription commitment; players can and do abandon titles instantly when economic headwinds tighten their discretionary budgets. In-app purchase conversion rates and average revenue per user (ARPU) fall measurably during [recessions](/recession/) as spenders reduce frequency or stop entirely. Advertising rates, tied to advertiser budgets and campaign ROI, also decline sharply in downturns. PopReach, as a developer of multiple titles, benefits from portfolio [diversification](/diversification/), but this does not eliminate cyclical exposure—it merely spreads the pain across more games.
 
 ## Game Portfolio and Portfolio Diversification
 

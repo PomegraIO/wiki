@@ -17,7 +17,7 @@ keywords: ["nuclear", "fuel", "technology", "energy", "licensing"]
 
 ## Technology Licensing as Capital Strategy
 
-Lightbridge operates at the intersection of [public-company](/public-company/) equity financing and the long-duration, capital-intensive world of nuclear technology development. Unlike mining (which seeks a commodity resource) or biotech (which seeks regulatory approval), Lightbridge develops intellectual property—fuel designs, manufacturing methods, and reactor configurations—that it intends to license to utilities, reactor vendors, and government agencies.
+Lightbridge operates at the intersection of [public-company](/public-company/) [equity financing](/equity-financing/) and the long-duration, capital-intensive world of nuclear technology development. Unlike mining (which seeks a commodity resource) or biotech (which seeks regulatory approval), Lightbridge develops intellectual property—fuel designs, manufacturing methods, and reactor configurations—that it intends to license to utilities, reactor vendors, and government agencies.
 
 This licensing model has profound implications for the capital structure. The company cannot generate significant cash flows from product sales until utilities adopt its technology at scale and pay royalties. But utilities move slowly and demand years of qualification testing and regulatory approval. Lightbridge therefore cannot finance itself from operations; it must raise [equity capital](/stock/) upfront and manage burn rate until licensing partnerships mature.
 
@@ -41,7 +41,7 @@ The cost is leverage loss. Lightbridge does not own all the upside from its tech
 
 ## Intellectual Property as Asset and Burden
 
-Lightbridge's primary asset is its intellectual property—fuel designs, testing results, regulatory filings, manufacturing knowhow—held as intangible property on the [balance sheet](/balance-sheet/). Intangible assets are valued by investors based on credibility of the underlying technology and likelihood of licensing. Valuation is speculative.
+Lightbridge's primary asset is its intellectual property—fuel designs, testing results, regulatory filings, manufacturing knowhow—held as intangible property on the [balance sheet](/balance-sheet/). [Intangible assets](/intangible-assets/) are valued by investors based on credibility of the underlying technology and likelihood of licensing. Valuation is speculative.
 
 If a competing technology emerges, or if utilities lose interest in Lightbridge's approach, the intellectual property loses value abruptly. The [market-capitalization](/market-capitalization/) of Lightbridge is therefore a bet on the staying power and performance of its fuel technology relative to competitors and incumbent approaches.
 
@@ -57,7 +57,7 @@ Until that inflection, Lightbridge is a pure equity play: investors fund develop
 
 ## Public Listing and Technology Credibility
 
-Lightbridge is listed on NASDAQ, a premium venue for technology and growth companies. This listing is itself a capital strategy: it provides liquidity to early investors, enables employee equity incentives (stock options), and signals credibility to potential partners and customers (utilities and vendors are more willing to develop partnerships with public firms, which are subject to disclosure and scrutiny).
+Lightbridge is listed on [NASDAQ](/nasdaq/), a premium venue for technology and growth companies. This listing is itself a capital strategy: it provides liquidity to early investors, enables employee equity incentives (stock options), and signals credibility to potential partners and customers (utilities and vendors are more willing to develop partnerships with public firms, which are subject to disclosure and scrutiny).
 
 Public listing also constrains behavior. Lightbridge must disclose material risks in quarterly filings, including regulatory setbacks, partnership delays, and competitive threats. This disclosure, while required, can spook investors and raise the cost of future equity raises. The firm must balance transparency with investor confidence—a balance that technologies without cash flow find difficult.
 

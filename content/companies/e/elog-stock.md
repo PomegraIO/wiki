@@ -29,11 +29,11 @@ A customer strategy in response to rising tariffs might include nearshoring prod
 
 ELOG's margins depend partly on the cost of freight capacity, which is determined by global supply and demand for shipping and trucking. When freight rates are low (capacity abundance), ELOG's customers demand price reductions, compressing margins. When freight rates are high (capacity tight), ELOG may struggle to source capacity at costs it can pass to customers without losing volume. Managing this volatility is a core operational competency.
 
-Larger, integrated providers (asset-owning carriers or freight platforms) can absorb freight-rate volatility by controlling more of their supply chain; they own ships, trucks, or warehouses and can optimize capacity internally. ELOG, as a broker or middleman, is exposed to freight-rate swings with less ability to control its cost base. This structural disadvantage is why many small logistics brokers are acquired by or consolidated into larger platforms.
+Larger, integrated providers (asset-owning carriers or freight platforms) can absorb freight-rate volatility by controlling more of their supply chain; they own ships, trucks, or warehouses and can optimize capacity internally. ELOG, as a broker or middleman, is exposed to freight-rate swings with less ability to control its cost base. This structural disadvantage is why many small logistics [brokers](/broker/) are acquired by or consolidated into larger platforms.
 
 ## Currency Risk and Hedging Capability
 
-ELOG's international operations expose it to currency fluctuations. A transaction invoiced in foreign currency—euros, yuan, pesos—may be worth less by the time it is collected, directly reducing profitability. Large logistics providers hedge currency exposure through financial instruments or by netting revenues and costs in the same currency. ELOG, as a smaller operator, may lack the hedging expertise or transaction volume to hedge efficiently, making it more exposed to currency volatility.
+ELOG's international operations expose it to currency fluctuations. A transaction invoiced in foreign currency—euros, yuan, pesos—may be worth less by the time it is collected, directly reducing profitability. Large logistics providers hedge currency exposure through financial instruments or by netting revenues and costs in the same currency. ELOG, as a smaller operator, may lack the hedging expertise or transaction volume to hedge efficiently, making it more exposed to [currency volatility](/currency-volatility/).
 
 This is particularly acute for smaller operators with concentrated geographic footprints. If ELOG derives a large share of revenue from Asia, it is exposed to U.S. dollar strength against the Chinese yuan; if ELOG has limited offsetting expenses in yuan, it cannot naturally hedge this exposure.
 
@@ -41,7 +41,7 @@ This is particularly acute for smaller operators with concentrated geographic fo
 
 ELOG's customer base likely includes importers, manufacturers, and distributors with leverage to negotiate freight rates and service terms. In a commodity logistics market, switching costs are low: customers can shift their freight to a competitor with minimal disruption. This places pricing pressure on ELOG. To defend itself, ELOG must offer service differentiation (reliability, speed, visibility, customs expertise) that competitors cannot match at the same price.
 
-If ELOG serves a concentrated customer base (a few large retailers or manufacturers), it is highly vulnerable. Those customers can threaten to shift freight volumes to competitors, forcing ELOG to accept lower margins. ELOG's competitive position is therefore tied to customer diversification and switching-cost elevation through value-added services.
+If ELOG serves a concentrated customer base (a few large retailers or manufacturers), it is highly vulnerable. Those customers can threaten to shift freight volumes to competitors, forcing ELOG to accept lower margins. ELOG's competitive position is therefore tied to customer [diversification](/diversification/) and switching-cost elevation through value-added services.
 
 ## Technology and Supply-Chain Visibility
 
@@ -57,7 +57,7 @@ Regulatory changes (new export controls, tariff reclassifications, trade agreeme
 
 ## Market Consolidation and Acquisition Risk
 
-The logistics industry is consolidating. Larger carriers and logistics providers are acquiring smaller operators to expand geographic footprint, add capabilities, or achieve cost synergies. ELOG's competitive position is therefore partly determined by whether it remains independent and viable as a standalone operator, or whether acquisition becomes the likely outcome. Remaining independent requires ELOG to be profitable and grow faster than larger competitors; most smaller logistics operators cannot achieve this and become acquisition targets.
+The logistics industry is consolidating. Larger carriers and logistics providers are acquiring smaller operators to expand geographic footprint, add capabilities, or achieve cost synergies. ELOG's competitive position is therefore partly determined by whether it remains independent and viable as a standalone operator, or whether [acquisition](/acquisition/) becomes the likely outcome. Remaining independent requires ELOG to be profitable and grow faster than larger competitors; most smaller logistics operators cannot achieve this and become acquisition targets.
 
 ELOG's shareholders may view acquisition as an exit event rather than a competitive failure, but from a competitive standpoint, acquisition marks the end of independent competition.
 

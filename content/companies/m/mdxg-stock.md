@@ -57,7 +57,7 @@ The founding purpose — creating a commercialized regenerative medicine busines
 
 MIMEDX represents the confluence of natural-product science and modern pharmaceutical commercialization. The company took a biological insight (placental tissue promotes healing), developed processing and sterilization methods, navigated FDA approval, built a supply chain, and scaled sales to hospitals. This is the biotech company arc: translating a scientific discovery into a commercialized therapeutic.
 
-The company's position depends on maintaining clinical and commercial adoption of placental-derived products. Success means a profitable, growing business serving tens of thousands of patients annually. Erosion of clinical acceptance or pricing pressure from payers would force strategic repositioning — potentially consolidation or acquisition by a larger healthcare company seeking regenerative medicine assets.
+The company's position depends on maintaining clinical and commercial adoption of placental-derived products. Success means a profitable, growing business serving tens of thousands of patients annually. Erosion of clinical acceptance or pricing pressure from payers would force strategic repositioning — potentially consolidation or [acquisition](/acquisition/) by a larger healthcare company seeking regenerative medicine assets.
 
 <div class="wiki-seealso">
 ### Closely related

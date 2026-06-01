@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-AmpliTech Group manufactures and designs RF and microwave signal-processing components and systems for satellite, 5G, 6G, quantum computing, defense, and space applications. The company operates as a specialized semiconductor components supplier rather than a chip designer in the classical sense—it focuses on custom and standard RF filters, amplifiers, switches, and integrated assemblies for customers who need to process electromagnetic signals at frequencies from 50 kHz to 44 GHz and beyond.
+AmpliTech Group manufactures and designs RF and microwave signal-processing components and systems for satellite, 5G, 6G, [quantum computing](/qubt-stock/), defense, and space applications. The company operates as a specialized semiconductor components supplier rather than a chip designer in the classical sense—it focuses on custom and standard RF filters, amplifiers, switches, and integrated assemblies for customers who need to process electromagnetic signals at frequencies from 50 kHz to 44 GHz and beyond.
 
 The business is fragmented across five operating divisions. The flagship AmpliTech Inc. unit handles core RF component design and manufacturing. Specialty Microwave serves customers requiring high-reliability, niche components. Spectrum Semiconductors Materials supplies materials and substrates used in the manufacturing process. The Microwave Design Center functions as an in-house consulting and custom-engineering arm. True G Speed Services provides support and integration services. This structure allows the company to be both a component vendor and a systems integrator, helping customers solve signal-integrity problems across their product platforms.
 

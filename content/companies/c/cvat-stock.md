@@ -20,7 +20,7 @@ Cavitation Technologies operates in a segment where innovation is tangible but c
 
 An established industrial company can raise capital through multiple channels: bank [debt](/corporate-bond/) (backed by tangible assets and predictable cash flows), [bonds](/bond/) (for larger firms with investment-grade credit), and [equity](/common-stock/) (through private investors or public markets). Cavitation, as an OTC micro-cap, has access to none of these at scale. Banks are reluctant to lend to small, thinly-capitalized tech firms without collateral or decades of operating history. The [bond](/bond/) market ignores micro-caps. Public [equity](/common-stock/) markets do not follow the company closely enough to support meaningful capital raises.
 
-Cavitation therefore is trapped in a bootstrapping equilibrium: whatever cash the company generates from operations is reinvested; growth is limited by retained earnings; external capital is scarce and expensive.
+Cavitation therefore is trapped in a bootstrapping equilibrium: whatever cash the company generates from operations is reinvested; growth is limited by [retained earnings](/retained-earnings/); external capital is scarce and expensive.
 
 ## Founder and Insider Reliance
 
@@ -38,11 +38,11 @@ However, patent defensibility carries hidden capital costs. Enforcing patents th
 
 Cavitation likely operates on a model that combines engineering, custom manufacturing, and service revenues. Customers order cavitation-based equipment or treatment, the company designs and builds to specification, and revenue is realized upon delivery and acceptance. This is contract-based, project-oriented work—not recurring subscriptions or commodity manufacturing.
 
-Project revenue is lumpy: a large order boosts a quarter; its absence creates a miss. A small-cap industrial company is therefore exposed to project risk and customer concentration risk. If two or three customers account for a large portion of revenue, the loss of one is a crisis. If projects are large relative to overall revenue, a delayed or cancelled project can wipe out quarterly profits. Cavitation's [balance sheet](/balance-sheet/) likely reflects this lumpiness through variable inventory, contract assets, and accrued revenue.
+Project revenue is lumpy: a large order boosts a quarter; its absence creates a miss. A small-cap industrial company is therefore exposed to project risk and customer [concentration risk](/concentration-risk/). If two or three customers account for a large portion of revenue, the loss of one is a crisis. If projects are large relative to overall revenue, a delayed or cancelled project can wipe out quarterly profits. Cavitation's [balance sheet](/balance-sheet/) likely reflects this lumpiness through variable inventory, contract assets, and accrued revenue.
 
 ## The Debt Dilemma
 
-Cavitation almost certainly carries little or no [corporate debt](/corporate-bond/). Unsecured [debt](/corporate-bond/) from a micro-cap industrial firm would be speculative, yielding perhaps 10-15% or more—interest rates that few profitable small businesses can afford. [Secured debt](/corporate-bond/) backed by equipment or inventory is sometimes available from specialized lenders, but at punitive rates and terms (short maturities, asset-based lending with frequent revaluations, demand-clause provisions).
+Cavitation almost certainly carries little or no [corporate debt](/corporate-bond/). Unsecured [debt](/corporate-bond/) from a micro-cap industrial firm would be speculative, yielding perhaps 10-15% or more—[interest rates](/interest-rate/) that few profitable small businesses can afford. [Secured debt](/corporate-bond/) backed by equipment or inventory is sometimes available from specialized lenders, but at punitive rates and terms (short maturities, asset-based lending with frequent revaluations, demand-clause provisions).
 
 Instead, Cavitation likely funds working capital through supplier credit (stretching payables), customer advances, or occasional lines of credit from sympathetic banks. This is fragile. Any disruption to supplier credit or cash conversion converts a steady business into a crisis.
 
@@ -50,7 +50,7 @@ Instead, Cavitation likely funds working capital through supplier credit (stretc
 
 If Cavitation ever raises external equity (beyond founder capital), each round dilutes founders and employees. A founder who holds 80% of a company with a paper value of $5 million ($4 million in founder equity) is not liquid and cannot reduce that stake without either selling the company or taking a [dividend](/dividend/) (which requires the company to have excess cash—most growth firms do not). The founder is therefore trapped, unable to diversify and unable to access returns without an exit.
 
-This dynamic creates misaligned incentives over time. Founders of small, illiquid firms often pursue acquisition or merger as their only realistic path to liquidity. They may accept terms that are less-than-ideal for other [shareholders](/common-stock/), or pursue revenue growth strategies that sacrifice profitability to attract a buyer. Cavitation's eventual trajectory will likely end in acquisition by a larger industrial company (seeking to buy the patents and customers) or slow decline if the niche loses relevance.
+This dynamic creates misaligned incentives over time. Founders of small, illiquid firms often pursue [acquisition](/acquisition/) or [merger](/merger/) as their only realistic path to liquidity. They may accept terms that are less-than-ideal for other [shareholders](/common-stock/), or pursue revenue growth strategies that sacrifice profitability to attract a buyer. Cavitation's eventual trajectory will likely end in acquisition by a larger industrial company (seeking to buy the patents and customers) or slow decline if the niche loses relevance.
 
 ## Working Capital as the Silent Killer
 

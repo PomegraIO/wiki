@@ -44,9 +44,9 @@ The Clean Water Act requires companies to obtain permits for discharges to surfa
 
 The Safe Drinking Water Act extends federal authority to underground injection. The Underground Injection Control (UIC) program regulates injection wells, including disposal wells used by oil and gas companies. CW Petroleum cannot simply pump produced water into any underground formation; it must drill the disposal well to exacting specifications (surface casing, cement, corrosion-resistant materials), and it must obtain a UIC permit from the EPA or an authorized state agency.
 
-Air emissions from oil and gas operations are regulated under the Clean Air Act. Flaring of natural gas to the atmosphere, emissions from compressors and separators, and methane leakage are all subject to limits. In some states, operators are required to use "green completions" when drilling new wells—technology that captures natural gas instead of venting or flaring it. Operators must also report methane emissions and often cannot exceed emission thresholds set by the state or EPA.
+Air emissions from oil and gas operations are regulated under the Clean Air Act. Flaring of [natural gas](/natural-gas/) to the atmosphere, emissions from compressors and separators, and methane leakage are all subject to limits. In some states, operators are required to use "green completions" when drilling new wells—technology that captures natural gas instead of venting or flaring it. Operators must also report methane emissions and often cannot exceed emission thresholds set by the state or EPA.
 
-Spills and releases must be reported. A release of crude oil, produced water, or drilling fluids to the surface or to groundwater triggers immediate reporting obligations to the state environmental agency and to the EPA. Remediation is mandatory. If the release contaminates groundwater used for drinking water, remediation can be extensive and costly. CW Petroleum is liable for cleanup regardless of whether the spill was due to negligence or an unforeseeable accident.
+Spills and releases must be reported. A release of [crude oil](/crude-oil/), produced water, or drilling fluids to the surface or to groundwater triggers immediate reporting obligations to the state environmental agency and to the EPA. Remediation is mandatory. If the release contaminates groundwater used for drinking water, remediation can be extensive and costly. CW Petroleum is liable for cleanup regardless of whether the spill was due to negligence or an unforeseeable accident.
 
 ## NEPA and Project-Level Environmental Assessment
 
@@ -80,7 +80,7 @@ Private royalty owners have a contractual right to accurate accounting. Disputes
 
 ## Bonding and Financial Assurance
 
-CW Petroleum is required by law to post bonds for both federal leases (as noted above) and for state well operations. Bonding assures that plugging and abandonment obligations will be funded even if the company becomes insolvent. Individual well bonds are typically $5,000 to $25,000; for companies with multiple wells, statewide blanket bonds can run into the millions.
+CW Petroleum is required by law to post [bonds](/bond/) for both federal leases (as noted above) and for state well operations. Bonding assures that plugging and abandonment obligations will be funded even if the company becomes insolvent. Individual well bonds are typically $5,000 to $25,000; for companies with multiple wells, statewide blanket bonds can run into the millions.
 
 If the company's net worth deteriorates, or if it violates regulations, the bonding authority can demand an increase in bond amount. A company in financial distress may find itself unable to increase bonding and therefore unable to drill new wells or renew leases.
 

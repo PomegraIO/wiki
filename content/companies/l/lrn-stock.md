@@ -10,7 +10,7 @@ keywords:
   - securities-and-exchange-commission
 ---
 
-*The **Stride, Inc.** (LRN) business converts digital course delivery, virtual instruction, and student support services into recurring per-student revenue streams that flow from state departments of education, individual student tuition, and school district contracts. Unlike traditional schools anchored to physical buildings and geography, Stride's platform economics depend on achieving per-student contribution margins that remain positive even as the company absorbs content creation, instruction, and technology platform costs across a dispersed student base.*
+*The **Stride, Inc.** (LRN) business converts digital course delivery, virtual instruction, and student support services into recurring per-student revenue streams that flow from state departments of education, individual student tuition, and school district contracts. Unlike traditional schools anchored to physical buildings and geography, Stride's platform economics depend on achieving per-student [contribution margins](/contribution-margin/) that remain positive even as the company absorbs content creation, instruction, and technology platform costs across a dispersed student base.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>LRN</td></tr>
@@ -37,7 +37,7 @@ Student-facing variable costs include (1) teacher time allocated to student inte
 
 General and administrative overhead—executives, finance, human resources, marketing—remains largely fixed even as enrollment scales. The company invests in marketing and enrollment campaigns (particularly in growth phases), but these are discretionary and can be modulated based on cost-per-acquisition targets.
 
-The upshot: Stride's per-student contribution margin improves as the company enrolls more students, because fixed costs are amortized across a larger base. If the company enrolls 50,000 students at $8,000 per student, its revenue is $400 million. Fixed content and platform costs might be $60 million; variable teacher and support costs $120 million; and G&A $80 million, leaving operating profit of $140 million, or 35 percent of revenue. If enrollment falls to 30,000 students, revenue drops to $240 million, but fixed costs remain close to the original $60 million, compressing operating margin to perhaps 20 percent. This inherent leverage is the attraction of the model—but also a risk if enrollment slumps.
+The upshot: Stride's per-student contribution margin improves as the company enrolls more students, because fixed costs are amortized across a larger base. If the company enrolls 50,000 students at $8,000 per student, its revenue is $400 million. Fixed content and platform costs might be $60 million; variable teacher and support costs $120 million; and G&A $80 million, leaving operating profit of $140 million, or 35 percent of revenue. If enrollment falls to 30,000 students, revenue drops to $240 million, but fixed costs remain close to the original $60 million, compressing [operating margin](/operating-margin/) to perhaps 20 percent. This inherent leverage is the attraction of the model—but also a risk if enrollment slumps.
 
 ## Enrollment Concentration and Funding Risk
 
@@ -53,7 +53,7 @@ The barrier to entry is moderate: building a competitive K-12 curriculum require
 
 ## Capital Intensity and Operating Leverage
 
-Stride's business does not require massive capex once the platform is established. Teacher hiring and training are operational expenses, not capital. Content creation happens in-house, not through acquisition of facilities. The company's primary capital needs are (1) working capital to cover payroll before state funding is received, (2) investment in platform development and upgrades, and (3) marketing spend to acquire students.
+Stride's business does not require massive capex once the platform is established. Teacher hiring and training are operational expenses, not capital. Content creation happens in-house, not through [acquisition](/acquisition/) of facilities. The company's primary capital needs are (1) working capital to cover payroll before state funding is received, (2) investment in platform development and upgrades, and (3) marketing spend to acquire students.
 
 The company has experienced significant swings in earnings based on enrollment changes, indicating sensitivity to demand and funding availability rather than capital constraint.
 

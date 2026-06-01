@@ -28,7 +28,7 @@ Corporate DEI budgets expanded significantly from 2020 through 2022 as companies
 
 ## Revenue Model and Monetization Challenges
 
-IPDN's revenue likely comes from multiple streams: employer subscriptions or per-posting fees, recruiter tools, advertising, and potentially educational or premium membership tiers for job seekers. This diversification is sensible but complex to execute. Each revenue line requires different user behaviors and different parts of the platform. Monetizing job seekers (who are sensitive to price and abundance of free alternatives) is particularly difficult; employers are more accustomed to paying for recruiting services. The platform's ability to monetize both sides—employers willing to pay and candidates willing to engage—determines margins and sustainability. If the platform succeeds in attracting scale among diversity-conscious employers, it can monetize that side; if it cannot build sufficient candidate reach, employers lose value and churn.
+IPDN's revenue likely comes from multiple streams: employer subscriptions or per-posting fees, recruiter tools, advertising, and potentially educational or premium membership tiers for job seekers. This [diversification](/diversification/) is sensible but complex to execute. Each revenue line requires different user behaviors and different parts of the platform. Monetizing job seekers (who are sensitive to price and abundance of free alternatives) is particularly difficult; employers are more accustomed to paying for recruiting services. The platform's ability to monetize both sides—employers willing to pay and candidates willing to engage—determines margins and sustainability. If the platform succeeds in attracting scale among diversity-conscious employers, it can monetize that side; if it cannot build sufficient candidate reach, employers lose value and churn.
 
 ## Competition from Generalist Platforms
 
@@ -36,7 +36,7 @@ IPDN competes not only with other diversity-focused platforms but also with gene
 
 ## Brand Positioning and Community Trust
 
-One asset IPDN can build that generalist platforms struggle with is community trust and authenticity. A platform explicitly founded on diversity principles and led by founders or executives visibly committed to those principles can develop brand loyalty and advocacy among both candidates and employer-partners who share those values. Community endorsement and word-of-mouth are powerful acquisition channels in professional services. Conversely, any perception of insincerity or misalignment with stated values (a risk for any company in the DEI space) can damage trust rapidly. IPDN's long-term brand positioning depends on consistent delivery of promise and authentic community engagement.
+One asset IPDN can build that generalist platforms struggle with is community trust and authenticity. A platform explicitly founded on diversity principles and led by founders or executives visibly committed to those principles can develop brand loyalty and advocacy among both candidates and employer-partners who share those values. Community endorsement and word-of-mouth are powerful [acquisition](/acquisition/) channels in professional services. Conversely, any perception of insincerity or misalignment with stated values (a risk for any company in the DEI space) can damage trust rapidly. IPDN's long-term brand positioning depends on consistent delivery of promise and authentic community engagement.
 
 ## Technology Product and Feature Competition
 
@@ -44,7 +44,7 @@ The technical core of IPDN is likely job matching, candidate search, profiling, 
 
 ## Growth Trajectory and Market Validation
 
-IPDN's trajectory as a public company (likely via reverse merger or SPAC listing given its OTC status) reflects the reality that venture capital and traditional IPO markets were skeptical of the company's ability to scale to venture returns. Public ownership via OTC markets offers capital and visibility but also reflects lower institutional investor confidence. The company's ability to demonstrate consistent user growth, improving unit economics, and resilience to DEI budget volatility will determine whether public markets reassess the opportunity.
+IPDN's trajectory as a public company (likely via [reverse merger](/reverse-merger/) or SPAC listing given its OTC status) reflects the reality that venture capital and traditional IPO markets were skeptical of the company's ability to scale to venture returns. Public ownership via OTC markets offers capital and visibility but also reflects lower institutional investor confidence. The company's ability to demonstrate consistent user growth, improving unit economics, and resilience to DEI budget volatility will determine whether public markets reassess the opportunity.
 
 IPDN operates in a structural moment of corporate evolution—diversity initiatives are embedded in large organizations but also politically contested. The company's durability depends on whether diversity recruiting remains central to corporate strategy or becomes episodic, and whether it can execute a compelling platform faster than better-capitalized competitors can build similar features.
 

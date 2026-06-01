@@ -61,7 +61,7 @@ Security operations consume significant resources: security engineers monitoring
 
 ## Government Contracts and Procurement
 
-Government clients (federal, state, or local) are significant customers for technology services companies. Government procurement operates under specific rules: competitive bidding processes, security clearance requirements for personnel, and compliance with government security and acquisition standards. GlobalTech Corp may maintain government contracting operations separate from commercial business, with dedicated staff holding security clearances and specialized knowledge of government procurement.
+Government clients (federal, state, or local) are significant customers for technology services companies. Government procurement operates under specific rules: competitive bidding processes, security clearance requirements for personnel, and compliance with government security and [acquisition](/acquisition/) standards. GlobalTech Corp may maintain government contracting operations separate from commercial business, with dedicated staff holding security clearances and specialized knowledge of government procurement.
 
 <div class="wiki-seealso">
 

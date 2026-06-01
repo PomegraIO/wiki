@@ -35,9 +35,9 @@ Medinotec's ability to weather this depends on its R&D cadence and capital avail
 
 ## Customer Concentration and Switching Costs
 
-Medinotec likely sells a disproportionate share of its revenue to a small number of large health systems or distributors. A single customer loss—whether from a hospital merger, a preference for a competitor, or an in-house build decision—can slash revenue by 20-30%. Although installation of medical devices creates some stickiness (training, integration, workflow adaptation), this is not insurmountable. Health systems with sufficient scale and capital will invest to transition to a preferred vendor.
+Medinotec likely sells a disproportionate share of its revenue to a small number of large health systems or distributors. A single customer loss—whether from a hospital [merger](/merger/), a preference for a competitor, or an in-house build decision—can slash revenue by 20-30%. Although installation of medical devices creates some stickiness (training, integration, workflow adaptation), this is not insurmountable. Health systems with sufficient scale and capital will invest to transition to a preferred vendor.
 
-Overseas markets (Europe, Asia-Pacific) are important for medical-device companies, but they carry added regulatory burden, currency risk, and unfamiliar competitive landscapes. Medinotec's expansion outside the U.S. is uncertain without detailed knowledge of its current geographic mix.
+Overseas markets (Europe, Asia-Pacific) are important for medical-device companies, but they carry added regulatory burden, [currency risk](/currency-risk/), and unfamiliar competitive landscapes. Medinotec's expansion outside the U.S. is uncertain without detailed knowledge of its current geographic mix.
 
 ## Operating Margin Pressures
 

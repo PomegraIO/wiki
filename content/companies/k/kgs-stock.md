@@ -49,7 +49,7 @@ However, Kodiak faces structural headwinds typical of infrastructure-dependent b
 
 The capital intensity of the compression business drives Kodiak's financial structure. The company carries moderate debt to finance fleet expansion and [acquisitions](/acquisition/). Adjusted [EBITDA](/ebitda/)—a standard metric in this industry—provides visibility into cash generation before capital expenditure and financing costs. In recent periods, adjusted [EBITDA margins](/ebitda-margin/) have ranged in the 55-60% territory, reflecting the high fixed-cost nature of operating equipment. Kodiak pays a [dividend](/dividend/), indicating management confidence in stable cash flow generation, though the [payout ratio](/payout-ratio/) suggests room for reinvestment.
 
-The 2026 acquisition of Distributed Power Solutions—reportedly to diversify into power generation services alongside compression—signals management's belief that compression growth is maturing and that adjacent natural gas infrastructure services offer growth. This move carries integration risk and shifts the company's profile from pure play to a more diversified energy services operator.
+The 2026 acquisition of Distributed Power Solutions—reportedly to diversify into power generation services alongside compression—signals management's belief that compression growth is maturing and that adjacent natural gas infrastructure services offer growth. This move carries integration risk and shifts the company's profile from pure play to a more [diversified energy](/dec-stock/) services operator.
 
 ## Industry Dynamics and Cyclicality
 

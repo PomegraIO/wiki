@@ -23,7 +23,7 @@ This is a classic contract-manufacturing business. Hongli does not own the brand
 
 ## Demand Sensitivity and the Consumer Cycle
 
-Hongli's customers—refrigerator makers, washing-machine manufacturers, consumer-electronics assemblers, and similar companies—face cyclical demand. When consumers in the United States and Europe are confident and incomes are rising, they buy appliances and electronics. When recession hits, replacement demand collapses and consumers defer purchases. A refrigerator purchased in 2023 will not be replaced in 2024 unless it fails; a recession only accelerates the replacement cycle if discretionary purchases halt.
+Hongli's customers—refrigerator makers, washing-machine manufacturers, consumer-electronics assemblers, and similar companies—face cyclical demand. When consumers in the United States and Europe are confident and incomes are rising, they buy appliances and electronics. When [recession](/recession/) hits, replacement demand collapses and consumers defer purchases. A refrigerator purchased in 2023 will not be replaced in 2024 unless it fails; a recession only accelerates the replacement cycle if discretionary purchases halt.
 
 Hongli feels this cycle acutely. A 20% contraction in appliance demand translates directly into a 20% drop in Hongli's order book. Because the company operates with low margins and high fixed costs (factories, workforce commitments, leases), a demand drop can wipe out profitability. Conversely, in a boom, Hongli can run its factories at full capacity, achieve better utilization, and capture higher margins.
 

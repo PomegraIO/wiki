@@ -53,7 +53,7 @@ If Gelstat uses distributors, it receives a net price 30% lower than list, but t
 
 ## Inventory and Cash Conversion
 
-Medical devices must be stocked at hospitals and distributors, creating inventory carrying costs and working-capital requirements. If Gelstat must offer 60 days of credit to distributors, the company ties up two months of revenue in receivables. If hospitals stock products on consignment (taking inventory but paying only upon use), cash conversion cycles stretch even further. For a fast-growing company, working-capital requirements can exceed cash generation from operations, requiring external financing.
+Medical devices must be stocked at hospitals and distributors, creating inventory carrying costs and working-capital requirements. If Gelstat must offer 60 days of credit to distributors, the company ties up two months of revenue in receivables. If hospitals stock products on consignment (taking inventory but paying only upon use), [cash conversion cycles](/cash-conversion-cycle/) stretch even further. For a fast-growing company, working-capital requirements can exceed cash generation from operations, requiring external financing.
 
 Mature Gelstat, with stable volume and efficient inventory management, may achieve cash conversion cycles of 30-45 days, generating cash from operations. A growing company might tie up more cash than it generates, limiting growth capacity unless it secures outside capital.
 

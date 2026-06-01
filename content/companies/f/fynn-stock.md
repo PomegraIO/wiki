@@ -33,7 +33,7 @@ Depending on Fyntechnical's business—whether it collects user data, operates a
 
 If Fyntechnical operates any online service touching children (under 13), it must comply with the Children's Online Privacy Protection Act (COPPA), which imposes strict parental-consent requirements and limits what data can be collected. The company must also maintain reasonable security practices. The FTC has routinely settled cases against tech companies for inadequate data security, imposing injunctions, audits, and fines.
 
-Sector-specific regulations may also apply. If Fyntechnical touches financial data, it may be subject to the Gramm-Leach-Bliley Act (GLBA). If it processes health information, HIPAA may apply. If it handles payment card data, it must comply with the Payment Card Industry Data Security Standard (PCI-DSS). Each regime adds compliance cost and operational complexity.
+Sector-specific regulations may also apply. If Fyntechnical touches financial data, it may be subject to the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (GLBA). If it processes health information, HIPAA may apply. If it handles payment card data, it must comply with the Payment Card Industry Data Security Standard (PCI-DSS). Each regime adds compliance cost and operational complexity.
 
 ## Antitrust Risk and Big Tech Scrutiny
 

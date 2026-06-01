@@ -27,7 +27,7 @@ RELX has built its competitive advantage by being **first mover** in many of the
 
 RELX organizes itself into four reporting segments, each serving a different professional market:
 
-**Risk** bundles analytics and compliance software for insurance underwriting, loss prevention, and regulatory compliance. Customers are insurers, large corporations managing risk, and compliance-focused financial institutions. Products include insurance-rating models, catastrophe exposure tools, and regulatory compliance platforms. Revenue is mostly recurring (subscriptions and software licenses) and has high margins.
+**Risk** bundles analytics and compliance software for insurance underwriting, loss prevention, and regulatory compliance. Customers are insurers, large corporations managing risk, and compliance-focused [financial institutions](/fisi-stock/). Products include insurance-rating models, catastrophe exposure tools, and regulatory compliance platforms. Revenue is mostly recurring (subscriptions and software licenses) and has high margins.
 
 **Scientific, Technical & Medical** is Elsevier, the global journal publisher and research platform. Customers are academic hospitals, pharmaceutical companies, biotech firms, and universities. Revenue comes from subscriptions to journal bundles, chemical-database subscriptions, and conference registrations. Margins are high; competition is fragmented.
 

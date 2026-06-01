@@ -24,7 +24,7 @@ keywords:
 
 ## Where Immersive Experience Meets Commercial Demand
 
-Glimpse Group does not manufacture hardware. It designs and produces the content and software experiences that run on spatial computing platforms—VR headsets, AR browsers, mixed-reality devices. This positions the company in a crucial but less visible layer of the XR stack: between the hardware makers (Meta, Apple, Microsoft) and the end users. The value Glimpse captures depends on client willingness to fund experimental and production work in a medium still establishing conventions and ROI.
+Glimpse Group does not manufacture hardware. It designs and produces the content and software experiences that run on spatial computing platforms—VR headsets, AR browsers, mixed-reality devices. This positions the company in a crucial but less visible layer of the XR stack: between the hardware makers (Meta, [Apple](/aapl-stock/), [Microsoft](/msft-stock/)) and the end users. The value Glimpse captures depends on client willingness to fund experimental and production work in a medium still establishing conventions and ROI.
 
 The company operates as a studio network rather than a single facility. This structure permits serving simultaneous client classes—enterprise training, marketing activation, entertainment pilots—without collision. A Fortune 500 client contracting for employee simulation training operates in a different workflow and contracts differently than a content studio producing an interactive story for a streaming platform. Glimpse's horizontal span means reusing talent pools and tools across these verticals, though each demands distinct delivery discipline.
 
@@ -32,7 +32,7 @@ The company operates as a studio network rather than a single facility. This str
 
 Studios typically earn in one of three ways: project fees, equity stakes in produced content, or licensing intellectual property. Glimpse appears to blend all three. A project contract with an enterprise client generates immediate service revenue. A longer-term partnership with a content network might include backend points or IP participation if the immersive work succeeds. A proprietary tool or platform developed for one client can be licensed or adapted for others, turning custom development into productized revenue.
 
-This business model thrives when immersive technology cycles through hype into utility—when Fortune 500 companies move from "we want to explore XR" to "we must have a demonstrable XR capability because our sector expects it." Glimpse's recent acquisition of Vicon, a provider of motion-capture and performance-analysis software, deepens its production pipeline and ties it more firmly to filmmaking, live sports, and training workflows where capturing motion data remains mission-critical. The integration transforms Glimpse from a pure services studio into a studio with embedded critical tooling.
+This business model thrives when immersive technology cycles through hype into utility—when Fortune 500 companies move from "we want to explore XR" to "we must have a demonstrable XR capability because our sector expects it." Glimpse's recent [acquisition](/acquisition/) of Vicon, a provider of motion-capture and performance-analysis software, deepens its production pipeline and ties it more firmly to filmmaking, live sports, and training workflows where capturing motion data remains mission-critical. The integration transforms Glimpse from a pure services studio into a studio with embedded critical tooling.
 
 ## Competitive Positioning in an Immersive-First World
 

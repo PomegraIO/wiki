@@ -45,7 +45,7 @@ The core tension in Fluor's business is the gap between the price Fluor estimate
 
 Several factors make accurate estimation difficult. Labour is a large component of project costs, and labour availability and wage [inflation](/inflation/) are hard to predict years in advance. Supply-chain disruptions (semiconductor shortages, steel price spikes) can happen between bid and execution. Scope creep—where the client requests changes or clarifications that expand the work Fluor promised—erodes margin unless Fluor can negotiate a change order and additional fee. Poor project management or technical missteps can inflate costs.
 
-Because of these risks, Fluor's margins on fixed-price contracts are often thinner than they appear. The company might quote a project with a 5-10% [target](/tgt-stock/) profit margin, but if execution is mediocre, that margin evaporates. Fluor's profitability over time has been volatile because of this dynamic. Strong years coincide with a portfolio of well-executed projects and favorable market conditions; weaker years reflect a concentration of troubled projects.
+Because of these risks, Fluor's margins on fixed-price contracts are often thinner than they appear. The company might quote a project with a 5-10% target profit margin, but if execution is mediocre, that margin evaporates. Fluor's profitability over time has been volatile because of this dynamic. Strong years coincide with a portfolio of well-executed projects and favorable market conditions; weaker years reflect a concentration of troubled projects.
 
 ## The shift toward non-energy markets
 

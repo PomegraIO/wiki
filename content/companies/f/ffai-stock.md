@@ -4,7 +4,7 @@ description: "Electric vehicle manufacturer and technology company focused on de
 keywords: ["Faraday Future", "FFAI", "electric vehicle", "EV manufacturer", "automotive technology"]
 ---
 
-*[**Faraday Future Intelligent Electric Inc.**](/ffai-stock/) (NASDAQ: FFAI) is an automotive design and manufacturing company devoted to developing and producing electric vehicles for premium and mainstream markets. The company's filings emphasize proprietary platform technology, vehicle design innovation, and manufacturing partnerships as the basis for competitive positioning in the EV sector.*
+*[**Faraday Future Intelligent Electric Inc.**](/ffai-stock/) ([NASDAQ](/nasdaq/): FFAI) is an automotive design and manufacturing company devoted to developing and producing electric vehicles for premium and mainstream markets. The company's filings emphasize proprietary platform technology, vehicle design innovation, and manufacturing partnerships as the basis for competitive positioning in the EV sector.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FFAI</td></tr>
@@ -33,11 +33,11 @@ Battery sourcing and supply-chain management feature prominently in Faraday's fi
 
 ## Revenue Model and Customer Acquisition
 
-Faraday's filings describe revenue generation through direct vehicle sales to end consumers. The company discloses its go-to-market strategy, which includes digital channels, direct-to-consumer sales models (where permitted by jurisdiction), and dealer relationships (where required by law). This approach is highlighted in SEC filings as lower-cost customer acquisition compared to traditional dealer networks, though the company acknowledges regulatory restrictions in some markets on direct sales.
+Faraday's filings describe revenue generation through direct vehicle sales to end consumers. The company discloses its go-to-market strategy, which includes digital channels, direct-to-consumer sales models (where permitted by jurisdiction), and dealer relationships (where required by law). This approach is highlighted in SEC filings as lower-cost customer [acquisition](/acquisition/) compared to traditional dealer networks, though the company acknowledges regulatory restrictions in some markets on direct sales.
 
 The company's pricing strategy is disclosed in terms of target price points and market segments served. The filings indicate that the company intends to compete in both premium and mid-market EV segments, with different vehicle models priced accordingly. The company discloses assumptions regarding unit volumes, average selling prices, and gross margins per vehicle model as part of its forward-looking guidance, though it explicitly states that these are projections subject to significant uncertainty.
 
-Customer deposits and pre-orders are disclosed in the company's balance sheet and cash flow statement, where applicable, as indicators of demand and near-term revenue visibility. Faraday's filings may reference regional sales targets and geographic market focus, indicating whether the company prioritizes North American, European, or Chinese markets.
+Customer deposits and pre-orders are disclosed in the company's balance sheet and [cash flow statement](/cash-flow-statement/), where applicable, as indicators of demand and near-term revenue visibility. Faraday's filings may reference regional sales targets and geographic market focus, indicating whether the company prioritizes North American, European, or Chinese markets.
 
 ## Capital Intensity and Funding Requirements
 

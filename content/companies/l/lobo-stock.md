@@ -48,11 +48,11 @@ Lobo operates as a subscription software model: customers pay a monthly or annua
 
 Implementation is a critical revenue stream. Lobo does not sell and forget; each customer requires 4–12 weeks of onboarding: configuring workflows, integrating with existing systems (QuickBooks, SAP, timekeeping), training users, and customizing reports. This implementation work is labor-intensive, but it is high-margin (60–70% gross margin) and builds customer stickiness. A customer who has spent 12 weeks configuring Lobo into their operations is unlikely to switch to a competitor.
 
-Revenue growth depends on (1) new customer acquisition (winning a new construction company or equipment-rental firm); (2) seat growth (adding more users per customer as adoption expands); (3) multi-site expansion (a regional contractor rolls out Lobo from one project to all projects); and (4) implementation and professional-services upsell.
+Revenue growth depends on (1) new customer [acquisition](/acquisition/) (winning a new construction company or equipment-rental firm); (2) seat growth (adding more users per customer as adoption expands); (3) multi-site expansion (a regional contractor rolls out Lobo from one project to all projects); and (4) implementation and professional-services upsell.
 
 ## Competitive Position and the "Good Enough" Problem
 
-Lobo faces competition from two directions. First, large generalist tools (Asana, Monday.com, Salesforce) are trying to be good enough at field-service management to capture Lobo's market. These tools have brand recognition and capital; they are not specialized to construction, but they are cheaper and require less implementation. Second, specialized field-service software (Samsara, Verizon Telematics, Procore) dominates pockets of the market. Procore, for instance, has a strong grip on project-management in large contractors; Samsara is dominant in vehicle-fleet management.
+Lobo faces competition from two directions. First, large generalist tools (Asana, Monday.com, [Salesforce](/crm-stock/)) are trying to be good enough at field-service management to capture Lobo's market. These tools have brand recognition and capital; they are not specialized to construction, but they are cheaper and require less implementation. Second, specialized field-service software (Samsara, Verizon Telematics, Procore) dominates pockets of the market. Procore, for instance, has a strong grip on project-management in large contractors; Samsara is dominant in vehicle-fleet management.
 
 Lobo's defensibility rests on focus and stickiness. Lobo is built for construction and extraction; it understands job sites, material workflows, and regulatory reporting in ways a generalist tool does not. And once implemented, the switching cost is high: the customer has spent months configuring it and training staff. However, the market is not large enough for Lobo to become a winner across all segments; it must win in a narrower niche (regional contractors, mid-market extraction operators) and defend it against broader competitors.
 
@@ -83,7 +83,7 @@ Watch for: Is the company's net revenue retention above 120% (indicating expansi
 - [Samsara](/public-company/) — field-service software company serving fleet and logistics markets
 
 ### Wider context
-- [Stock](/stock/) — LOBO trades on NASDAQ OTC; liquidity may be limited
+- [Stock](/stock/) — LOBO trades on [NASDAQ](/nasdaq/) OTC; liquidity may be limited
 - [10-K](/10-K/) — review SEC filings for customer acquisition, retention, and revenue composition
 - [SaaS metrics](/public-company/) — track ARR growth, customer retention, and net revenue retention
 - [Enterprise value](/enterprise-value/) — assess Lobo's valuation relative to ARR and growth rate

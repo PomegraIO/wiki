@@ -55,7 +55,7 @@ The logistics efficiency that powers Costco's model is not obvious to a casual v
 
 The company owns significant logistics infrastructure — a fleet of trucks and regional distribution centers — rather than outsourcing to third parties. This vertical integration gives Costco direct control over the speed and cost of delivery. Products move from supplier to warehouse to member with minimal waste.
 
-Costco also competes with its suppliers in interesting ways. The company will sometimes private-label a product if the supplier is unwilling to meet its price [target](/tgt-stock/). This creates a constant pressure on suppliers to keep costs down and to accept Costco's low-margin model. Suppliers know that if they refuse a Costco proposal, a private-label alternative might replace them.
+Costco also competes with its suppliers in interesting ways. The company will sometimes private-label a product if the supplier is unwilling to meet its price target. This creates a constant pressure on suppliers to keep costs down and to accept Costco's low-margin model. Suppliers know that if they refuse a Costco proposal, a private-label alternative might replace them.
 
 ## International expansion and complexity
 

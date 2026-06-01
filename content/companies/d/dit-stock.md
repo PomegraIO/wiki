@@ -4,7 +4,7 @@ description: "Wholesale beverage and foodservice distributor in the Midwest, ear
 keywords: ["distribution", "wholesale", "beverage", "foodservice", "Midwest"]
 ---
 
-*AMCON Distributing Co (DIT) moves beer, spirits, soft drinks, and packaged food from manufacturers to retailers and on-premise venues across Nebraska, Iowa, and neighboring states. The company earns margin by buying at manufacturer net prices, selling to retailers and bars at retail-minus-discount, and operating the logistics and warehouse infrastructure that connects the two—a classic wholesale middleman whose profit depends on inventory turnover and cost discipline.*
+*AMCON Distributing Co (DIT) moves beer, spirits, soft drinks, and packaged food from manufacturers to retailers and on-premise venues across Nebraska, Iowa, and neighboring states. The company earns margin by buying at manufacturer net prices, selling to retailers and bars at retail-minus-discount, and operating the logistics and warehouse infrastructure that connects the two—a classic wholesale middleman whose profit depends on [inventory turnover](/inventory-turnover/) and cost discipline.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DIT</td></tr>
@@ -33,7 +33,7 @@ AMCON's value to customers is selection (the variety of SKUs stocked) and reliab
 
 ## Cost Structure and Cyclicality
 
-Operating expenses are dominated by labor (warehouse staff, delivery drivers), rent or depreciation on facilities, and fuel costs. These are semi-fixed: AMCON can adjust staffing with volume but cannot easily shrink its warehouse footprint without losing customers. During economic downturns, on-premise consumption (bars, restaurants) falls faster than retail beer sales, but both decline. This cyclicality is moderate compared to luxury goods but real nonetheless. Conversely, economic strength or population migration into AMCON's territories boosts demand.
+Operating expenses are dominated by labor (warehouse staff, delivery drivers), rent or [depreciation](/depreciation/) on facilities, and fuel costs. These are semi-fixed: AMCON can adjust staffing with volume but cannot easily shrink its warehouse footprint without losing customers. During economic downturns, on-premise consumption (bars, restaurants) falls faster than retail beer sales, but both decline. This cyclicality is moderate compared to luxury goods but real nonetheless. Conversely, economic strength or population migration into AMCON's territories boosts demand.
 
 Manufacturer terms and pricing power also matter. If a brewer raises its wholesale prices, AMCON can usually pass increases to retail customers, but not dollar-for-dollar. Negotiating power with manufacturers is limited for a regional distributor; large national wholesalers have more leverage. AMCON sometimes absorbs temporary margin compression if manufacturer price changes outpace retail pass-through.
 

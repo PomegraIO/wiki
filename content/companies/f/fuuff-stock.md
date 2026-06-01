@@ -4,7 +4,7 @@ description: "Early-stage uranium exploration firm betting on nuclear energy dem
 keywords: ["uranium mining", "exploration", "nuclear fuel", "mining company", "junior mining"]
 ---
 
-*Positioned at the risky, capital-intensive upstream end of the uranium supply chain, **F3 Uranium Corp. (FUUFF)** operates as a [junior exploration firm](/stock/) with no current production, betting its existence on discovering economic mineral deposits in politically stable jurisdictions. Unlike established uranium miners (like Cameco or Kazatomprom) that operate producing mines and generate cash from sales, or large diversified mining conglomerates (like BHP or Rio Tinto) that spread exploration risk across many commodities, F3 is a focused, pre-revenue entity dependent entirely on investor capital for exploration spending and on the eventual vindication of its geological thesis.*
+*Positioned at the risky, capital-intensive upstream end of the uranium supply chain, **F3 Uranium Corp. (FUUFF)** operates as a [junior exploration firm](/stock/) with no current production, betting its existence on discovering economic mineral deposits in politically stable jurisdictions. Unlike established uranium miners (like Cameco or Kazatomprom) that operate producing mines and generate cash from sales, or large diversified mining conglomerates (like BHP or [Rio Tinto](/rtntf-stock/)) that spread exploration risk across many commodities, F3 is a focused, pre-revenue entity dependent entirely on investor capital for exploration spending and on the eventual vindication of its geological thesis.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FUUFF</td></tr>

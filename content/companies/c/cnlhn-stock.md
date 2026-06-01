@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Connecticut Light & Power is an essential utility — a company that owns and operates the physical infrastructure to generate electricity and deliver it (along with natural gas) to homes and businesses across a specific service territory in northeastern Connecticut. Its business is defined by geography: it has a franchise to serve customers in its region, and those customers pay rates set by the Connecticut Public Utilities Regulatory Authority. The company does not choose its prices or its customers; regulation chooses both.*
+*Connecticut Light & Power is an essential utility — a company that owns and operates the physical infrastructure to generate electricity and deliver it (along with [natural gas](/natural-gas/)) to homes and businesses across a specific service territory in northeastern Connecticut. Its business is defined by geography: it has a franchise to serve customers in its region, and those customers pay rates set by the Connecticut Public Utilities Regulatory Authority. The company does not choose its prices or its customers; regulation chooses both.*
 
 <aside class="wiki-infobox">
 <table>
@@ -54,7 +54,7 @@ Transmission maintenance is more specialized: high-voltage equipment requires ex
 
 Storm response is a major operational challenge. Severe weather — ice storms, hurricanes, nor'easters — can bring down distribution and transmission lines across wide areas. The utility must maintain a workforce, emergency equipment, and contractor relationships to restore service quickly. In major storms, the company may employ hundreds of additional workers on an emergency basis.
 
-The cost of operations and maintenance is one of the largest expenses on the utility's income statement. A major storm or a widespread equipment failure can spike costs significantly. The company recovers these costs through rates, but regulators may challenge whether costs were prudent or if the company was negligent.
+The cost of operations and maintenance is one of the largest expenses on the utility's [income statement](/income-statement/). A major storm or a widespread equipment failure can spike costs significantly. The company recovers these costs through rates, but regulators may challenge whether costs were prudent or if the company was negligent.
 
 ## Demand patterns and system peak
 
@@ -74,7 +74,7 @@ Revenue from gas service is predictable but seasonal: winter bills are high, sum
 
 ## Rate regulation and cost recovery
 
-Connecticut Light & Power's profitability is determined by regulation, not by markets. The company files a rate case with PURA, proposing rates that would recover its operating costs, capital costs (depreciation and returns on invested capital), debt service, and a regulated profit margin. PURA reviews the case, holds hearings, and either approves rates or negotiates a settlement.
+Connecticut Light & Power's profitability is determined by regulation, not by markets. The company files a rate case with PURA, proposing rates that would recover its operating costs, capital costs ([depreciation](/depreciation/) and returns on invested capital), debt service, and a regulated profit margin. PURA reviews the case, holds hearings, and either approves rates or negotiates a settlement.
 
 In a rate case, every major cost and capital project is scrutinized. The regulator asks: Were these costs prudent? Did the company waste money? Are the efficiency assumptions realistic? Is the [return on equity](/return-on-equity/) proposal reasonable? Regulators can disallow costs deemed imprudent or excessive, meaning the company absorbs them rather than recovering them through rates.
 

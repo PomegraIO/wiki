@@ -21,7 +21,7 @@ Lotus Technology operates in a market where regulatory permission functions as t
 
 ## Technology Partnerships and Borrowed Defensibility
 
-The firm's electric-vehicle platforms depend on technology licensing arrangements, battery suppliers, and software stacks that are not proprietary to Lotus. In the crowded EV market—where Tesla, BYD, and dozens of other OEMs compete on range, performance, and charging speed—Lotus cannot claim unique technical advantage. Its cars use batteries and motors available in the commodity market or via OEM suppliers; the software and autonomous-driving features rely on partnerships that could be withdrawn or replicated by competitors. The company thus lacks a true technological moat. Its defensibility, insofar as it exists, comes from operational execution and cost structure, not from intellectual property or engineering secrets that competitors cannot match.
+The firm's electric-vehicle platforms depend on technology licensing arrangements, battery suppliers, and software stacks that are not proprietary to Lotus. In the crowded EV market—where [Tesla](/tsla-stock/), BYD, and dozens of other OEMs compete on range, performance, and charging speed—Lotus cannot claim unique technical advantage. Its cars use batteries and motors available in the commodity market or via OEM suppliers; the software and autonomous-driving features rely on partnerships that could be withdrawn or replicated by competitors. The company thus lacks a true technological moat. Its defensibility, insofar as it exists, comes from operational execution and cost structure, not from intellectual property or engineering secrets that competitors cannot match.
 
 ## Market Access and Geographic Constraints
 

@@ -4,7 +4,7 @@ description: "Turkish gold mining company exposed to commodity price volatility,
 keywords: ["gold mining", "Turkey", "commodity risk", "geopolitical risk", "capital intensity", "currency exposure"]
 ---
 
-*Turkish gold miner **Turk Altin Isletmeleri A.S. (KOZAY)** operates through American Depositary Receipts, trading shares of a company engaged in the extraction and processing of gold ore. The business is straightforwardly dependent on two things: the price of gold (set globally and volatile) and the company's ability to extract ore at cost—a capital-intensive, operationally complex, and jurisdictionally sensitive proposition in Turkey.*
+*Turkish gold miner **Turk Altin Isletmeleri A.S. (KOZAY)** operates through [American Depositary Receipts](/adr/), trading shares of a company engaged in the extraction and processing of gold ore. The business is straightforwardly dependent on two things: the price of gold (set globally and volatile) and the company's ability to extract ore at cost—a capital-intensive, operationally complex, and jurisdictionally sensitive proposition in Turkey.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KOZAY</td></tr>
@@ -17,7 +17,7 @@ keywords: ["gold mining", "Turkey", "commodity risk", "geopolitical risk", "capi
 
 ## Gold Price Dependency and Commodity Volatility
 
-Turk Altin's core business model is simple and brutal: extract gold and sell it at the global spot price. The company has minimal influence over that price. Gold is a commodity traded in dollars on global markets, subject to macroeconomic cycles, geopolitical events, central bank policy, and shifts in investor risk appetite. When gold prices fall, all else equal, mining companies' revenues fall. When prices rise sharply, input costs (labor, fuel, materials) may lag, creating temporary windfalls—but the company cannot count on these. Long-term, gold prices have not appreciated significantly in real (inflation-adjusted) terms, making it difficult for mining companies to justify ever-growing capital investment in extraction. A sustained period of low gold prices could force Turk Altin to mothball mines, reduce production, or even abandon operations.
+Turk Altin's core business model is simple and brutal: extract gold and sell it at the global spot price. The company has minimal influence over that price. Gold is a commodity traded in dollars on global markets, subject to macroeconomic cycles, geopolitical events, [central bank](/central-bank/) policy, and shifts in investor risk appetite. When gold prices fall, all else equal, mining companies' revenues fall. When prices rise sharply, input costs (labor, fuel, materials) may lag, creating temporary windfalls—but the company cannot count on these. Long-term, gold prices have not appreciated significantly in real (inflation-adjusted) terms, making it difficult for mining companies to justify ever-growing capital investment in extraction. A sustained period of low gold prices could force Turk Altin to mothball mines, reduce production, or even abandon operations.
 
 ## Geopolitical Risk in Turkey
 
@@ -25,7 +25,7 @@ Turkey is a NATO member and important regional power, but its political environm
 
 ## Currency and Inflation Risk
 
-Turk Altin reports in Turkish lira; ADR holders are exposed to lira depreciation. Turkey has experienced significant inflation in recent years, putting pressure on the lira. While gold revenue is in USD (gold is priced globally in dollars), many operating costs (labor, local materials, energy) are in lira or lira-indexed. A weaker lira raises real operating costs for lira-denominated liabilities. Additionally, inflation in Turkey can pressure input costs faster than mining companies can adjust. The company also faces currency translation risk: as the lira weakens, the dollar value of Turkish-lira-denominated assets and earnings declines, penalizing ADR shareholders.
+Turk Altin reports in Turkish lira; ADR holders are exposed to lira [depreciation](/depreciation/). Turkey has experienced significant [inflation](/inflation/) in recent years, putting pressure on the lira. While gold revenue is in USD (gold is priced globally in dollars), many operating costs (labor, local materials, energy) are in lira or lira-indexed. A weaker lira raises real operating costs for lira-denominated liabilities. Additionally, inflation in Turkey can pressure input costs faster than mining companies can adjust. The company also faces currency translation risk: as the lira weakens, the dollar value of Turkish-lira-denominated assets and earnings declines, penalizing ADR shareholders.
 
 ## Capital Intensity and Stranded Assets
 

@@ -26,7 +26,7 @@ Resource companies often boast "10 million ounces gold in the region" based on i
 
 ## Funding and burn rate
 
-Exploration companies burn cash and raise capital serially. The balance sheet will show a cash position and current liabilities, from which you can estimate runway. Calculate:
+Exploration companies burn cash and raise capital serially. The [balance sheet](/balance-sheet/) will show a cash position and current liabilities, from which you can estimate runway. Calculate:
 - **Annual operating expenses** (typically disclosed in MD&A or the cash-flow statement).
 - **Remaining months of operations** at current burn (cash balance ÷ monthly expense).
 
@@ -43,7 +43,7 @@ Junior miners are notorious for repeated equity raises at falling valuations. Ch
 
 GRHI may not own all its projects outright. Common structures include:
 - **Earn-in agreements**: GRHI funds exploration; if successful, it earns a stake (e.g., 80%) by hitting drilling or resource targets.
-- **Joint ventures**: GRHI and a partner co-fund; governance and carry provisions matter. A partner with a "back-in" clause (right to regain control if GRHI doesn't fund the next phase) creates operational risk.
+- **Joint ventures**: GRHI and a partner co-fund; governance and carry provisions matter. A partner with a "back-in" clause (right to regain control if GRHI doesn't fund the next phase) creates [operational risk](/operational-risk/).
 - **Royalties**: GRHI may own a project but have granted a 2–3% net-smelter-return (NSR) royalty to a landowner or former operator. These reduce economic value.
 
 These arrangements are disclosed in the "Related Party Transactions" section and property exhibits. Misreading them leads to overvaluing GRHI's actual stake in a promising asset.
@@ -61,7 +61,7 @@ Most exploration plays need $200M–$2B to move from resource estimate to operat
 - **Preliminary Economic Assessments (PEAs)** or **Prefeasibility Studies (PFS)**: These bound capex and operating costs, usually buried in exhibits or MD&A discussion.
 - **Third-party partnership interest**: Does a major mining company or strategic investor hold an option to fund development? This de-risks capex but dilutes upside.
 
-If GRHI has a $1M market cap and a project requiring $300M to develop, the only realistic path is a massive dilution or takeover.
+If GRHI has a $1M [market cap](/market-capitalization/) and a project requiring $300M to develop, the only realistic path is a massive dilution or takeover.
 
 ## Permitting and indigenous-land issues
 

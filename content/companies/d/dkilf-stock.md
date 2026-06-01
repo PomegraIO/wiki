@@ -4,7 +4,7 @@ description: "A Japanese multinational manufacturer listed over-the-counter in t
 keywords: [DKILF, Japan, Daikin, manufacturing, HVAC, currency risk, conglomerate]
 ---
 
-*Daikin Industries Ltd (DKILF, CIK 1446519) is a large-cap Japanese manufacturer with global operations, listed in Japan and accessible to U.S. investors primarily through [OTC markets](/stock/). For shareholders in this OTC structure, the risks are not primarily business risks but structural ones: currency volatility, limited U.S. disclosure depth, geopolitical exposure, and the inherent friction of holding a foreign company whose primary filings are in Japanese and whose operational decisions are made in Tokyo. Investors in DKILF are, in effect, placing a currency bet alongside a business bet.*
+*Daikin Industries Ltd (DKILF, CIK 1446519) is a large-cap Japanese manufacturer with global operations, listed in Japan and accessible to U.S. investors primarily through [OTC markets](/stock/). For shareholders in this OTC structure, the risks are not primarily business risks but structural ones: [currency volatility](/currency-volatility/), limited U.S. disclosure depth, geopolitical exposure, and the inherent friction of holding a foreign company whose primary filings are in Japanese and whose operational decisions are made in Tokyo. Investors in DKILF are, in effect, placing a currency bet alongside a business bet.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DKILF</td></tr>
@@ -17,7 +17,7 @@ keywords: [DKILF, Japan, Daikin, manufacturing, HVAC, currency risk, conglomerat
 
 ## Currency as the Primary Risk
 
-Daikin's earnings are generated primarily in Japanese yen, Thai baht, and other foreign currencies, then consolidated into yen statements. U.S. dollar investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the currency overlay determines what a U.S.-based shareholder actually earns.
+Daikin's earnings are generated primarily in [Japanese yen](/japanese-yen/), Thai baht, and other foreign currencies, then consolidated into yen statements. U.S. dollar investors holding DKILF are implicitly exposed to yen weakness and strength. When the dollar strengthens against the yen—a common occurrence—the dollar value of Daikin's yen earnings falls. Over a multi-year period, this currency headwind can erase 20%, 30%, or more of nominal gains. Moreover, fluctuating exchange rates make year-over-year profit comparisons misleading; a strong operational year can look mediocre in dollar terms if currencies move against the investor. No operation in the company itself changes; only the currency overlay determines what a U.S.-based shareholder actually earns.
 
 ## Conglomerate Opacity and Allocation Risk
 
@@ -25,7 +25,7 @@ Daikin operates across HVAC systems, refrigeration, fluid handling, and specialt
 
 ## Geopolitical and Supply-Chain Concentration
 
-Daikin has significant operations and supply chains rooted in Asia—Japan, Thailand, and other regional hubs. Global trade frictions, tariffs, or sanctions affecting supply routes to or from Asia can directly impact costs and timelines. A U.S.-Japan trade dispute, for instance, could elevate tariffs on Daikin imports or components, compressing margins. Similarly, operations in Thailand and other Southeast Asian nations expose the company to political instability, labor unrest, or infrastructure disruptions. These tail risks are difficult for a distant U.S. investor to monitor or assess; they rarely appear in headlines until they materialize as guidance cuts.
+Daikin has significant operations and supply chains rooted in Asia—Japan, Thailand, and other regional hubs. Global trade frictions, tariffs, or sanctions affecting supply routes to or from Asia can directly impact costs and timelines. A U.S.-Japan trade dispute, for instance, could elevate tariffs on Daikin imports or components, compressing margins. Similarly, operations in Thailand and other Southeast Asian nations expose the company to political instability, labor unrest, or infrastructure disruptions. These [tail risks](/tail-risk/) are difficult for a distant U.S. investor to monitor or assess; they rarely appear in headlines until they materialize as guidance cuts.
 
 ## Foreign Regulatory and Tax Complexity
 
@@ -41,7 +41,7 @@ Japanese firms traditionally return capital to shareholders through [dividends](
 
 ## OTC Market Liquidity and Execution Risk
 
-DKILF trades on OTC markets, which means bid-ask spreads can be wide, and execution in large sizes is difficult without accepting significant slippage. A U.S. investor wanting to exit a large position may face poor pricing; this illiquidity is a hidden cost of holding foreign equities in OTC form. Additionally, OTC markets have less robust circuit-breaker protections and market-manipulation safeguards than major exchanges.
+DKILF trades on OTC markets, which means [bid-ask spreads](/bid-ask-spread/) can be wide, and execution in large sizes is difficult without accepting significant slippage. A U.S. investor wanting to exit a large position may face poor pricing; this illiquidity is a hidden cost of holding foreign equities in OTC form. Additionally, OTC markets have less robust circuit-breaker protections and market-manipulation safeguards than major exchanges.
 
 ## Data and Disclosure Gaps
 

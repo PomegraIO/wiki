@@ -43,7 +43,7 @@ The economics favor GRRR because the core cost is software and model licensing, 
 
 GRRR's customers are typically not end-users, but integrators or system installers who embed GRRR's platform into larger security solutions. A customer (integrator) recommends GRRR's technology to end-clients because it improves system value and allows the integrator to differentiate from competitors.
 
-Acquisition happens through partner channels: GRRR builds relationships with major security integrators, provides training and technical support, and often takes a margin on resale. Some deals are direct—large enterprises with in-house security teams evaluate GRRR directly.
+[Acquisition](/acquisition/) happens through partner channels: GRRR builds relationships with major security integrators, provides training and technical support, and often takes a margin on resale. Some deals are direct—large enterprises with in-house security teams evaluate GRRR directly.
 
 Stickiness is high if GRRR's software and models genuinely improve threat detection and reduce false alarms. Once deployed across a customer's network, ripping out and replacing GRRR is disruptive and costly; switching to a competitor requires retraining, data migration, and system reintegration. The installed base becomes sticky, allowing GRRR to grow through add-ons and upgrades.
 
@@ -62,7 +62,7 @@ Revenue is partially recurring (maintenance contracts, cloud subscriptions) and 
 
 GRRR competes with:
 
-- **Large software companies** (Microsoft, Google, Amazon) offering cloud-based video analytics as part of broader cloud platforms. These companies leverage massive cloud infrastructure, broader customer bases, and deep pockets.
+- **Large software companies** ([Microsoft](/msft-stock/), Google, Amazon) offering cloud-based video analytics as part of broader cloud platforms. These companies leverage massive cloud infrastructure, broader customer bases, and deep pockets.
 - **Specialized competitors** (various edge-computing analytics vendors) offering similar edge-centric approaches.
 - **DIY customers** who build in-house analytics using open-source AI frameworks and cloud services.
 
@@ -96,7 +96,7 @@ Also review quarterly results for:
 
 - **License growth rates**: Are new license deals increasing faster than gross revenue (showing mix improvement)?
 - **Professional services margins**: High-margin or low-margin relative to licenses?
-- **Customer concentration**: Are the top 10 customers diversified or concentrated? If one customer represents >15% of revenue, there is concentration risk.
+- **Customer concentration**: Are the top 10 customers diversified or concentrated? If one customer represents >15% of revenue, there is [concentration risk](/concentration-risk/).
 
 ## Market Timing and Secular Trends
 

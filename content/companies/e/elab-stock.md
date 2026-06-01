@@ -24,7 +24,7 @@ The company's supply chain, in one sense, is other companies. PMGC sources acqui
 
 The supply side of PMGC's operation begins with its access to public capital markets. Because ELAB trades on a major exchange, the company can raise funds by issuing equity and, if investment-grade, by borrowing in debt markets. This funding function is unavailable to most private businesses; they must rely on banks, family offices, or private equity sponsors. PMGC's advantage is liquidity and the ability to grow by issuing shares rather than depleting cash reserves.
 
-How that capital is deployed shapes the company's economic model. A holding company may retain earnings in subsidiaries to fund organic growth, or it may distribute dividends to shareholders. It may use leverage—borrowed capital—to amplify returns on equity, or it may hold a fortress balance sheet to weather downturns. The mix depends on the macro environment, the board's risk appetite, and the specific opportunities before the company.
+How that capital is deployed shapes the company's economic model. A holding company may retain earnings in subsidiaries to fund organic growth, or it may distribute dividends to shareholders. It may use leverage—borrowed capital—to amplify returns on equity, or it may hold a fortress [balance sheet](/balance-sheet/) to weather downturns. The mix depends on the macro environment, the board's risk appetite, and the specific opportunities before the company.
 
 ## Operational Subsidiaries as Value Creation Points
 
@@ -34,13 +34,13 @@ This layered structure exposes PMGC to both upside and downside. If a subsidiary
 
 ## Relationship to External Stakeholders
 
-PMGC's vendors include law firms (for acquisitions and corporate governance), accounting firms (for tax and audit), investment banks (for raising capital or selling assets), and insurance providers (for liability and key-person coverage). Its customers—in the broadest sense—are the capital providers and the employees of its portfolio companies. It has no direct consumer-facing business unless one of its subsidiaries does.
+PMGC's vendors include law firms (for [acquisitions](/acquisition/) and corporate governance), accounting firms (for tax and audit), investment banks (for raising capital or selling assets), and insurance providers (for liability and key-person coverage). Its customers—in the broadest sense—are the capital providers and the employees of its portfolio companies. It has no direct consumer-facing business unless one of its subsidiaries does.
 
 This arm's-length positioning has advantages and risks. PMGC can pivot its portfolio quickly if macro conditions shift; it is not locked into a single business model. But it is also entirely dependent on the quality of management inside each subsidiary, and on accurate diagnosis of acquisition targets before purchase.
 
 ## SEC Filings and Transparency
 
-As a [public company](/public-company/), PMGC files [10-K annual reports](/10-k/) with the [SEC](/securities-and-exchange-commission/) (CIK 1840563), disclosing its portfolio composition, financial results by segment, management changes, and risk factors. These filings are the primary window into how the company perceives its own position and trajectory. Because holding companies often operate in dynamic M&A markets, the 10-K reveals which assets the board believes will drive value and which may be underperforming candidates for divestiture.
+As a [public company](/public-company/), PMGC files [10-K annual reports](/10-k/) with the [SEC](/securities-and-exchange-commission/) (CIK 1840563), disclosing its portfolio composition, financial results by segment, management changes, and risk factors. These filings are the primary window into how the company perceives its own position and trajectory. Because holding companies often operate in dynamic M&A markets, the 10-K reveals which assets the board believes will drive value and which may be underperforming candidates for [divestiture](/divestiture/).
 
 ## Dividends and Capital Returns
 
@@ -48,7 +48,7 @@ Holding companies often return capital to shareholders through [dividends](/divi
 
 ## Competitive Positioning
 
-PMGC competes in the holdings and diversified-investments space against other listed holding companies, private equity sponsors, and corporate conglomerates. Its edge lies in public-market liquidity, brand (if any), and management track record. Unlike a private equity firm, PMGC cannot charge management fees; all value must accrue to shareholders. Unlike a large diversified corporation with a century of history, PMGC may lack the heft to command supplier terms or the distribution network to cross-sell across subsidiaries.
+PMGC competes in the holdings and diversified-investments space against other listed holding companies, private equity sponsors, and corporate conglomerates. Its edge lies in public-market liquidity, brand (if any), and management track record. Unlike a private equity firm, PMGC cannot charge [management fees](/management-fee/); all value must accrue to shareholders. Unlike a large diversified corporation with a century of history, PMGC may lack the heft to command supplier terms or the distribution network to cross-sell across subsidiaries.
 
 ## Investing Perspective
 

@@ -4,7 +4,7 @@ description: "Electronics manufacturing services provider focused on smartphone 
 keywords: ["contract manufacturing", "smartphone production", "electronics assembly", "ODM services", "supply chain logistics"]
 ---
 
-*An electronics contract manufacturer, **FIH Mobile Ltd (FXCNF)** operates assembly plants in Asia that build smartphones, tablets, and related consumer-electronics devices for original equipment manufacturers (OEMs). The company does not design or brand the products; it manufactures to specification, competing on cost, quality, and capacity.*
+*An electronics contract manufacturer, **[FIH Mobile](/fxcny-stock/) Ltd (FXCNF)** operates assembly plants in Asia that build smartphones, tablets, and related consumer-electronics devices for original equipment manufacturers (OEMs). The company does not design or brand the products; it manufactures to specification, competing on cost, quality, and capacity.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FXCNF</td></tr>
@@ -19,7 +19,7 @@ keywords: ["contract manufacturing", "smartphone production", "electronics assem
 
 FIH Mobile operates factories in Asia—chiefly China and Southeast Asia—where labor costs, logistics access, and regulatory frameworks align with high-volume electronics assembly. These are large facilities: each factory can house hundreds of assembly lines, with capacity measured in tens of millions of units annually. Size matters in contract manufacturing; fixed costs (building, utilities, management) are spread across many units, reducing per-unit overhead.
 
-The factories are capital-intensive. Assembly lines require automated testing equipment, soldering machines, CNC production tools, and quality-assurance stations. Depreciation is accelerated because consumer-electronics technology cycles force equipment replacement every 3–5 years. FIH must reinvest continuously to maintain competitive manufacturing efficiency and keep pace with new product architectures (new phone designs require new tooling and line configurations).
+The factories are capital-intensive. Assembly lines require automated testing equipment, soldering machines, CNC production tools, and quality-assurance stations. [Depreciation](/depreciation/) is accelerated because consumer-electronics technology cycles force equipment replacement every 3–5 years. FIH must reinvest continuously to maintain competitive manufacturing efficiency and keep pace with new product architectures (new phone designs require new tooling and line configurations).
 
 Capacity utilization fluctuates sharply. During a new iPhone launch or holiday season, OEM demand spikes and factories run at 95%+ utilization, with overtime and weekend shifts. During demand troughs, utilization falls to 60–70%, and the company still bears the fixed-cost burden. This feast-or-famine dynamic is the core vulnerability of contract manufacturing: high fixed costs and lumpy demand create operational stress.
 
@@ -39,7 +39,7 @@ Assembly lines are labor-intensive despite high automation. Workers install comp
 
 Turnover is high. Assembly-line work is repetitive and low-wage. Employees seek advancement or move to higher-paying industries. FIH must continuously recruit, onboard, and train new workers. Training takes weeks; new workers are initially less productive. High turnover creates defect risk during the ramp-up period.
 
-Working conditions and labor practices are scrutinized by OEM customers and NGOs. Brands (Apple, Samsung) require suppliers to meet labor standards—maximum hours, minimum wages, worker safety. FIH must maintain compliance or risk losing customers. This requires documented procedures, audits, and remediation if violations arise.
+Working conditions and labor practices are scrutinized by OEM customers and NGOs. Brands ([Apple](/aapl-stock/), Samsung) require suppliers to meet labor standards—maximum hours, minimum wages, worker safety. FIH must maintain compliance or risk losing customers. This requires documented procedures, audits, and remediation if violations arise.
 
 ## Pricing and Margin Structure
 
@@ -67,7 +67,7 @@ Timing is critical. OEMs need phones in stores on launch day; delays disrupt the
 
 Contract manufacturing is hypercompetitive. Foxconn, Pegatron, Wistron, and other contract manufacturers compete for the same business. Scale matters—larger manufacturers can spread fixed costs, negotiate better component pricing, and invest more in automation. Smaller manufacturers like FIH are perpetually at a cost disadvantage.
 
-Survival depends on specialization or differentiation. FIH focuses on smartphone assembly and related devices; it is not a broad-service provider like Foxconn. This focus allows deeper expertise and customer relationships but also creates concentration risk. A shift in smartphone demand (fewer units sold, longer replacement cycles, consolidation to fewer models) directly harms FIH's volume.
+Survival depends on specialization or differentiation. FIH focuses on smartphone assembly and related devices; it is not a broad-service provider like Foxconn. This focus allows deeper expertise and customer relationships but also creates [concentration risk](/concentration-risk/). A shift in smartphone demand (fewer units sold, longer replacement cycles, consolidation to fewer models) directly harms FIH's volume.
 
 Automation is accelerating. Robotics and machine-vision systems are replacing workers in high-volume assembly. FIH must invest to stay competitive, but capital requirements rise as automation deepens. This favors larger manufacturers with cheaper capital access.
 

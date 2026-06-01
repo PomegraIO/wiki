@@ -56,7 +56,7 @@ The installed base is a moat, but it comes with a liability. Many of Vernova's g
 
 **Regulatory and energy-policy volatility** affect both segments. Tax credits for wind in the US have swung in and out. Nuclear policy varies by country; some are expanding capacity, others phase it out. Grid interconnection queues in the US are clogged, slowing renewable projects. Vernova's orders are sensitive to subsidy certainty and permitting pace.
 
-**Geographic concentration** in North America and Europe means exposure to developed-market growth rates. Emerging markets offer cheaper competition and lower margins. War in Europe and shifting US energy policy introduce political risk.
+**Geographic concentration** in North America and Europe means exposure to developed-market growth rates. Emerging markets offer cheaper competition and lower margins. War in Europe and shifting [US energy](/useg-stock/) policy introduce political risk.
 
 **Integration and separation overhead** are real. Spinning from GE means building independent finance, supply chain, and corporate functions. Share turnover by GE shareholders can pressure the stock in early years.
 

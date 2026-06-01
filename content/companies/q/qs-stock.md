@@ -23,7 +23,7 @@ handwritten: true
 
 </aside>
 
-QuantumScape represents an attempt to leapfrog the limitations of conventional lithium-ion battery chemistry through solid-state architecture—a shift from liquid to solid electrolytes that could reshape how electric vehicles store and deliver energy. Founded in 2010 as a materials science venture from Stanford University's labs, the company spent its first decade quietly refining the physics of solid ceramic separators before entering the public markets in a SPAC merger with Kandi Technologies in December 2020.
+QuantumScape represents an attempt to leapfrog the limitations of conventional lithium-ion battery chemistry through solid-state architecture—a shift from liquid to solid electrolytes that could reshape how electric vehicles store and deliver energy. Founded in 2010 as a materials science venture from Stanford University's labs, the company spent its first decade quietly refining the physics of solid ceramic separators before entering the public markets in a SPAC [merger](/merger/) with [Kandi Technologies](/kndi-stock/) in December 2020.
 
 The core innovation is straightforward in principle but fiendishly difficult in execution: replace the flammable liquid electrolyte in a traditional lithium-ion cell with a solid ceramic material. This barrier allows lithium metal to plate directly on the anode during charging, concentrating energy in a smaller footprint. The benefits in the theoretical papers are striking—higher energy density, faster charging, longer cycle life, and dramatically reduced fire risk. Getting it to work at scale with usable lifespans and affordable manufacturing cost is the actual business.
 
@@ -37,7 +37,7 @@ In February 2025, QuantumScape brought online the Eagle Line at its San Jose fac
 
 ## The Volkswagen Gamble
 
-In July 2024, VW's battery subsidiary PowerCo and QuantumScape signed an agreement with an initial [target](/tgt-stock/) of 40 gigawatt-hours of annual production capacity. This represents the first formal volume-production commitment from a major OEM, which is what separates QuantumScape from venture-stage battery labs. Volkswagen has committed to building manufacturing facilities—a clear signal that Volkswagen expects solid-state cells to be viable in vehicles sold by the end of this decade.
+In July 2024, VW's battery subsidiary PowerCo and QuantumScape signed an agreement with an initial target of 40 gigawatt-hours of annual production capacity. This represents the first formal volume-production commitment from a major OEM, which is what separates QuantumScape from venture-stage battery labs. Volkswagen has committed to building manufacturing facilities—a clear signal that Volkswagen expects solid-state cells to be viable in vehicles sold by the end of this decade.
 
 But partnership with Volkswagen also means dependence on Volkswagen's capital discipline and timelines. If Volkswagen delays, postpones, or scaled back its solid-state strategy due to EV demand weakness or falling battery prices, QuantumScape's addressable market could shrink dramatically. Conversely, if Volkswagen proceeds and the technology performs, the company's contracts could provide a path to profitability that pure R&D ventures almost never achieve.
 
@@ -51,7 +51,7 @@ The path from prototype to customer vehicle is marked by unresolved engineering 
 
 ## Competitive Landscape and Timing
 
-QuantumScape is not alone in pursuing solid-state batteries. Toyota has invested heavily in solid-state and has publicly stated it will begin production by the late 2020s. Samsung, BMW, Hyundai, Nissan, and others have research programs. Smaller companies like Solid Power, Factorial Energy, and a dozen others are also raising capital.
+QuantumScape is not alone in pursuing solid-state batteries. Toyota has invested heavily in solid-state and has publicly stated it will begin production by the late 2020s. Samsung, BMW, Hyundai, Nissan, and others have research programs. Smaller companies like [Solid Power](/sldp-stock/), Factorial Energy, and a dozen others are also raising capital.
 
 The window for QuantumScape to establish manufacturing scale and supply relationships is narrow. If solid-state batteries arrive too late—after Volkswagen and other OEMs have locked in supply deals with competitors—or if conventional lithium-ion improves faster than expected (newer chemistry like LFP and silicon-carbon anodes have gained surprising ground), the premium that solid-state was supposed to command could evaporate. Conversely, if the company reaches scale and delivers on energy density and cycle-life promises, it could dominate a generation of EV battery supply.
 

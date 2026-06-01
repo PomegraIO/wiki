@@ -18,7 +18,7 @@ keywords: ["digital health", "behavioral health", "mental wellness", "subscripti
 
 Psychiatrist and therapist shortage is structural, not cyclical. The U.S. has a well-documented deficit of licensed behavioral-health providers relative to need; wait times for in-person appointments stretch months; and the geographic distribution is terrible (rural areas have almost no therapists). Employers and insurers face rising mental-health claims costs with no supply increase to match. Digital platforms like Intelithrive's — which deliver therapy, wellness coaching, and psychiatric consultations via app and video — replace in-person scarcity with asynchronous and synchronous tools that improve access and reduce per-patient cost.
 
-This is not a feature of the business cycle; it is the permanent structural condition of the U.S. healthcare system. A recession does not create more therapists; it often increases mental-health demand (job loss, financial stress, isolation) while reducing employer willingness to fund in-person benefits. Digital solutions become more attractive, not less, in downturns.
+This is not a feature of the [business cycle](/business-cycle/); it is the permanent structural condition of the U.S. healthcare system. A recession does not create more therapists; it often increases mental-health demand (job loss, financial stress, isolation) while reducing employer willingness to fund in-person benefits. Digital solutions become more attractive, not less, in downturns.
 
 ## Business Model: Recurring B2B and Direct-to-Consumer
 
@@ -34,9 +34,9 @@ Both trends are secular and durable. They will proceed whether the economy is ex
 
 ## Utilization Sensitivity: The Hidden Cyclical Factor
 
-Despite the secular case, Intelithrive is not immune to recessions. While overall utilization may not collapse, employer willingness to renew and expand contracts can soften if the employer is under financial stress. Small and mid-market employers (a large segment of digital-health customers) may postpone implementation or consolidate vendors. Consumer direct subscriptions are highly discretionary and vulnerable to budget-cutting. A severe recession could slow customer acquisition and retention, even if the underlying clinical demand for mental-health services rises.
+Despite the secular case, Intelithrive is not immune to [recessions](/recession/). While overall utilization may not collapse, employer willingness to renew and expand contracts can soften if the employer is under financial stress. Small and mid-market employers (a large segment of digital-health customers) may postpone implementation or consolidate vendors. Consumer direct subscriptions are highly discretionary and vulnerable to budget-cutting. A severe recession could slow customer [acquisition](/acquisition/) and retention, even if the underlying clinical demand for mental-health services rises.
 
-The platform also lives in a competitive market. Larger health insurers and payers are building in-house digital mental-health tools; employers can choose between standalone platforms and integrated offerings from UnitedHealth, Anthem, or Cigna. Intelithrive's defensibility rests on clinical outcomes, ease of use, and breadth of the toolkit, not on exclusive relationships.
+The platform also lives in a competitive market. Larger health insurers and payers are building in-house digital mental-health tools; employers can choose between standalone platforms and integrated offerings from [UnitedHealth](/unh-stock/), Anthem, or [Cigna](/ci-stock/). Intelithrive's defensibility rests on clinical outcomes, ease of use, and breadth of the toolkit, not on exclusive relationships.
 
 ## Geographic and Demographic Tailwinds
 
@@ -52,7 +52,7 @@ SaaS and per-user subscription models create visibility into forward revenue. Un
 
 ## The Bottom Line: Secular Growth, Cyclical Dips
 
-Intelithrive trades at the intersection of a powerful secular trend (digital behavioral health expanding as supply and demand fundamentals shift permanently) and cyclical sensitivity (employer budgets and consumer discretionary spending that soften in recessions). Unlike a bank (pure cycle) or a utility (structural scarcity), Intelithrive's secular case is robust enough that downturns are dips, not existential threats — assuming the platform executes clinically and maintains customer satisfaction.
+Intelithrive trades at the intersection of a powerful secular trend (digital behavioral health expanding as supply and demand fundamentals shift permanently) and cyclical sensitivity (employer budgets and consumer [discretionary spending](/discretionary-spending/) that soften in recessions). Unlike a bank ([pure cycle](/pcyo-stock/)) or a utility (structural scarcity), Intelithrive's secular case is robust enough that downturns are dips, not existential threats — assuming the platform executes clinically and maintains customer satisfaction.
 
 <div class="wiki-seealso">
 ### Closely related

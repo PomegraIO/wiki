@@ -1,0 +1,26 @@
+---
+title: "Voya Global Advantage & Premium Opportunity Fund (IGA)"
+description: "A closed-end investment fund focused on global equities, seeking dividend growth and capital appreciation. IGA trades on a stock exchange but holds a diversified portfolio of international stocks."
+keywords:
+  - closed-end fund
+  - global equities
+  - dividend strategy
+  - fund manager
+  - international stocks
+  - premium opportunity
+handwritten: true
+---
+
+Voya Global Advantage & Premium Opportunity Fund trades under the ticker IGA and is structured as a closed-end fund—a distinct creature from the open-ended [mutual funds](/mutual-fund/) most retail investors know. Whereas an open-ended fund issues and redeems shares continuously at [net asset value](/net-asset-value/), a closed-end fund issues a fixed number of shares once, then those shares trade on an exchange like any stock. The distinction matters because it means IGA's share price decouples from its underlying asset value; the fund can trade at a premium or discount depending on supply and demand, market sentiment, and investor appetite for the fund's strategy.
+
+The fund's mandate is to pursue global equity exposure with an emphasis on dividend-paying stocks. Voya, the fund's manager, constructs a portfolio of international companies across developed and emerging markets, with a portfolio strategy aimed at capturing both dividend income and capital appreciation. This is a classically styled approach to global investing: buy stocks in stable, dividend-paying companies worldwide, collect the income, and let share price appreciation add to returns.
+
+IGA's holdings span multiple countries and sectors. At any given point, the portfolio might include large-cap dividend payers from Western Europe, Anglo-American companies, and selective exposure to Asia-Pacific dividend stocks—the exact composition shifts as managers adjust positioning based on valuation, economic outlook, and relative attractiveness of different markets. The diversity is a feature: geographic and sectoral spread reduces single-country or single-sector risk, though it also means the fund's returns depend on the global economy and cross-border [capital flows](/capital-flows/), which can be choppy.
+
+The cost of owning IGA comes in two forms. First, there is the fund's [expense ratio](/expense-ratio/)—the annual fee paid to Voya for management, administration, and other operating costs. This appears as a drag on returns automatically. Second, there is the discount or premium at which the fund trades. If IGA trades at a 5 percent discount to net asset value, a buyer acquires $0.95 of assets for every $1.00 paid. That discount evaporates if the fund later trades closer to par, generating a gain independent of underlying portfolio performance; conversely, deepening discounts can hurt total return.
+
+The fund's distribution policy is a central feature of its appeal. IGA aims to pay regular [dividends](/dividend/) derived from the income its portfolio generates—dividends from the underlying stocks, plus any interest or gains. The fund may employ leverage (borrowing to enhance the portfolio) to boost distributions, a common tactic among [closed-end funds](/closed-end-fund/) seeking to offer high [current yield](/current-yield/). Leverage amplifies both returns and risks; in a [bull market](/bull-market/) with rising equity prices, it accelerates gains, but in downturns or periods of flat-to-negative equity performance, it can impair capital.
+
+Any investor considering IGA should monitor several key metrics. The discount or premium to net asset value—how expensively the fund trades relative to the value of its holdings—is crucial. A deep discount can signal bargain pricing, but it may also reflect investor skepticism about the strategy or concerns about leverage. The distribution rate tells the current yield; a high distribution relative to the fund's asset value suggests either strong portfolio income or reliance on return-of-capital distributions, which are sustainable only if capital appreciation covers the cash outflow. The portfolio turnover and market conditions that drive fund performance vary with global equity markets, currency movements, and interest-rate cycles. A fund designed around dividend payers is sensitive to interest-rate changes: when rates rise, the relative appeal of stocks declines, [dividend yields](/dividend-yield/) look less attractive, and valuations often compress.
+
+For research, look at Voya's quarterly factsheet on the fund, which breaks down holdings, [asset allocation](/asset-allocation/), and distribution history. The fund's [annual report](/10-k/) is filed with the SEC and includes full holdings and a management discussion of positioning and outlook. Credit-rating agencies and closed-end fund specialists publish regular commentary on discount/premium dynamics. As with any single security trading on an exchange, IGA's share price moves minute-to-minute, driven by supply and demand; nothing here is a recommendation to buy or sell. The fund itself is not an active trading vehicle for most investors—it is a long-term holding, a way to access global dividend-paying equities through a managed vehicle, with returns shaped by equity-market performance, currency effects, and the fund's leverage and fees.

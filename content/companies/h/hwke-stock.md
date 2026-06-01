@@ -16,7 +16,7 @@ keywords: ["systems integration", "industrial technology", "specialized software
 
 ## Deep Integration as Structural Moat
 
-Hawkeye's most durable competitive advantage, if it possesses one, lies in the depth of its integration into customer operations. When a system is mission-critical, when retraining a workforce on a new system would be costly and disruptive, when the data and workflows embedded in Hawkeye's platform would require months or years to migrate elsewhere, switching becomes prohibitively expensive. This switching cost is a genuine moat. A customer does not lightly abandon a system on which its operations depend unless there is a transformative reason to do so. Hawkeye can maintain pricing power and customer loyalty precisely because the alternative is not free; it costs the customer in money, time, and operational risk.
+Hawkeye's most durable competitive advantage, if it possesses one, lies in the depth of its integration into customer operations. When a system is mission-critical, when retraining a workforce on a new system would be costly and disruptive, when the data and workflows embedded in Hawkeye's platform would require months or years to migrate elsewhere, switching becomes prohibitively expensive. This switching cost is a genuine moat. A customer does not lightly abandon a system on which its operations depend unless there is a transformative reason to do so. Hawkeye can maintain pricing power and customer loyalty precisely because the alternative is not free; it costs the customer in money, time, and [operational risk](/operational-risk/).
 
 ## Customer-Specific Solutions and Customization
 
@@ -44,7 +44,7 @@ Hawkeye's greatest competitive risk is technological obsolescence. If the underl
 
 ## The Replacement Cycle Risk
 
-Even with strong switching costs, moats are impermanent. Technology refresh cycles, organizational transitions, changes in business strategy, or mergers and acquisitions can create windows of opportunity for competitors to displace incumbents. When a customer is already undertaking a major system upgrade for other reasons, the marginal cost of considering alternatives increases. Hawkeye must therefore not only defend its installed base but also demonstrate continual innovation to remain the natural choice when replacement decisions arise.
+Even with strong switching costs, moats are impermanent. Technology refresh cycles, organizational transitions, changes in business strategy, or [mergers](/merger/) and [acquisitions](/acquisition/) can create windows of opportunity for competitors to displace incumbents. When a customer is already undertaking a major system upgrade for other reasons, the marginal cost of considering alternatives increases. Hawkeye must therefore not only defend its installed base but also demonstrate continual innovation to remain the natural choice when replacement decisions arise.
 
 <div class="wiki-seealso">
 ### Closely related

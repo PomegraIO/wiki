@@ -35,13 +35,13 @@ Evaluating a claim's potential requires geological field work: mapping surface g
 
 ## Speculative Nature and Dilution Risk
 
-Junior explorers like EON are speculative instruments. Share prices can move sharply on drill results or commodity prices. But because the company must raise capital repeatedly and because most projects fail, existing shareholders face dilution from new share issuances. A company that issues 50 percent more shares to fund drilling doesn't double the expected value of the original shares — the odds of a successful outcome may not have improved proportionally. This dynamic means junior miner shareholders must believe in either (a) an exceptionally high chance of success for a specific project, or (b) an eventual acquisition at a favorable price by a major miner.
+Junior explorers like EON are speculative instruments. Share prices can move sharply on drill results or commodity prices. But because the company must raise capital repeatedly and because most projects fail, existing shareholders face dilution from new [share issuances](/share-issuance/). A company that issues 50 percent more shares to fund drilling doesn't double the expected value of the original shares — the odds of a successful outcome may not have improved proportionally. This dynamic means junior miner shareholders must believe in either (a) an exceptionally high chance of success for a specific project, or (b) an eventual [acquisition](/acquisition/) at a favorable price by a major miner.
 
-Over-the-counter trading of EONR means limited liquidity and minimal analyst coverage. Price discovery is thin; bids and asks may be wide, making it difficult to buy or sell significant position without moving the price against you.
+Over-the-counter trading of EONR means limited liquidity and minimal analyst coverage. [Price discovery](/price-discovery/) is thin; bids and asks may be wide, making it difficult to buy or sell significant position without moving the price against you.
 
 ## Commodity Cycles and Market Timing
 
-EON's fortunes are doubly sensitive to timing: first, whether it discovers a viable deposit (a 5–10 year proposition), and second, whether gold and copper prices are favorable when that discovery is monetizable. An explorer that makes a find during a commodity downturn may see its project value crater, unable to raise capital for development. Conversely, a marginal deposit becomes economic during a bull market. EON's shareholders are betting that when the company's exploration cycle matures, metals prices and capital markets will align favorably.
+EON's fortunes are doubly sensitive to timing: first, whether it discovers a viable deposit (a 5–10 year proposition), and second, whether gold and copper prices are favorable when that discovery is monetizable. An explorer that makes a find during a commodity downturn may see its project value crater, unable to raise capital for development. Conversely, a marginal deposit becomes economic during a [bull market](/bull-market/). EON's shareholders are betting that when the company's exploration cycle matures, metals prices and capital markets will align favorably.
 
 ## Why EON Might Exist
 

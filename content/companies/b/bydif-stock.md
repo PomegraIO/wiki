@@ -19,7 +19,7 @@ keywords: ["BYD Electronics", "Shenzhen", "semiconductors", "electronics manufac
 
 BYD Electronics anchors itself in Shenzhen, the city that transformed from a fishing village into a global manufacturing hub in four decades. Shenzhen's location—adjacent to Hong Kong, with access to both Pearl River Delta labor pools and the port of Yantian—created the original conditions for electronics manufacturing concentration there. BYD Electronics inherited that geography and deepened it: the company's semiconductor fabs, assembly plants, and supply-chain logistics infrastructure occupy dozens of sites across Guangdong and neighboring provinces.
 
-Unlike pure-play semiconductor designers (Qualcomm, Nvidia), BYD Electronics is a vertically integrated manufacturer—it designs silicon, operates foundries, and assembles finished products on the same campus. This integration is geography-specific. Shenzhen's ecosystem—thousands of component suppliers, experienced assembly labor, established logistics networks, and proximity to both Asian suppliers and world ports—makes the city uniquely suited for this model. A semiconductor fab in Iowa cannot easily source specialized display panels from a neighbor; one in Shenzhen sources from ten makers within an hour's drive.
+Unlike pure-play semiconductor designers (Qualcomm, [Nvidia](/nvda-stock/)), BYD Electronics is a vertically integrated manufacturer—it designs silicon, operates foundries, and assembles finished products on the same campus. This integration is geography-specific. Shenzhen's ecosystem—thousands of component suppliers, experienced assembly labor, established logistics networks, and proximity to both Asian suppliers and world ports—makes the city uniquely suited for this model. A semiconductor fab in Iowa cannot easily source specialized display panels from a neighbor; one in Shenzhen sources from ten makers within an hour's drive.
 
 ## The Pearl River Delta Supply Web
 
@@ -39,7 +39,7 @@ BYD Electronics faces a key risk: political and trade friction between the US an
 
 ## Expansion Beyond Guangdong
 
-To mitigate concentration risk, BYD Electronics operates plants in Yunnan, Sichuan, and other inland provinces, as well as facilities in Vietnam, Thailand, and Indonesia. These inland and Southeast Asian plants serve two purposes: they reduce exposure to any single regional shock and position the company closer to customers in India and ASEAN markets. However, Shenzhen remains the technological and design center; innovation in chip design and advanced packaging still concentrates there.
+To mitigate [concentration risk](/concentration-risk/), BYD Electronics operates plants in Yunnan, Sichuan, and other inland provinces, as well as facilities in Vietnam, Thailand, and Indonesia. These inland and Southeast Asian plants serve two purposes: they reduce exposure to any single regional shock and position the company closer to customers in India and ASEAN markets. However, Shenzhen remains the technological and design center; innovation in chip design and advanced packaging still concentrates there.
 
 ## The Foundry Model
 

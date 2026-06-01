@@ -4,7 +4,7 @@ description: "HTCR is a small publicly traded enterprise focused on heartbeat de
 keywords: ["HTCR", "cardiac monitoring", "heartbeat detection", "medical technology", "healthcare IT", "small-cap"]
 ---
 
-*HeartCore Enterprises, Inc. (HTCR) operates in the medical technology or healthcare services space with a focus on cardiac monitoring, heartbeat detection, or related cardiology applications. The company is registered with the SEC (CIK 1892322) and trades under the ticker HTCR. Because the company is small and operates in a specialized niche within healthcare, the 10-K serves as your primary window into what it actually does, who it sells to, and whether the technology or service has genuine demand.*
+*HeartCore Enterprises, Inc. (HTCR) operates in the medical technology or [healthcare services](/hcsg-stock/) space with a focus on cardiac monitoring, heartbeat detection, or related cardiology applications. The company is registered with the SEC (CIK 1892322) and trades under the ticker HTCR. Because the company is small and operates in a specialized niche within healthcare, the 10-K serves as your primary window into what it actually does, who it sells to, and whether the technology or service has genuine demand.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>HTCR</td></tr>
@@ -25,7 +25,7 @@ If the company has received regulatory approvals (FDA clearance for a device, or
 
 Understanding how HeartCore earns money is essential. Possible models include: (1) selling devices or hardware (one-time sales, with possible maintenance or subscription fees), (2) selling data services (charging hospitals or care providers for access to monitoring data or analytics), (3) licensing technology to larger medical-device companies, or (4) providing services (remote monitoring, interpretation, or algorithm development for other firms). The 10-K should clearly state which model or models drive revenue.
 
-For each revenue stream, assess customer acquisition and retention. If the company is in an early stage and has few customers, look for evidence of pilot programs, clinical trials, or early adoption. If the company is selling into hospitals, check the 10-K for any discussion of reimbursement—does Medicare or private insurance reimburse for the service, or is the customer (the hospital or clinic) investing in it because of perceived operational benefit? Reimbursement is a tailwind for growth; lack of reimbursement is a headwind.
+For each revenue stream, assess customer [acquisition](/acquisition/) and retention. If the company is in an early stage and has few customers, look for evidence of pilot programs, clinical trials, or early adoption. If the company is selling into hospitals, check the 10-K for any discussion of reimbursement—does Medicare or private insurance reimburse for the service, or is the customer (the hospital or clinic) investing in it because of perceived operational benefit? Reimbursement is a tailwind for growth; lack of reimbursement is a headwind.
 
 ## Regulatory and Clinical Validation Risk
 
@@ -43,7 +43,7 @@ Small medical-technology companies sometimes recognize revenue aggressively or e
 
 ## Burn Rate and Funding Runway
 
-Early-stage medical-technology companies often operate at losses while investing in R&D, regulatory approval, and customer acquisition. Check the cash-flow statement for operating cash flow. If it is negative, ask how the company is funding the deficit. Is it relying on equity financing (raising capital, which dilutes shareholders), or does it have debt financing? Check the balance sheet for recent capital raises (new equity issuances). Frequent equity raises signal the company is burning through cash and may face shareholder dilution. Also estimate the company's cash runway: if burn rate is $5 million per quarter and cash on the balance sheet is $10 million, the company has about two quarters of cash before it must raise more or reach profitability.
+Early-stage medical-technology companies often operate at losses while investing in R&D, regulatory approval, and customer acquisition. Check the cash-flow statement for operating cash flow. If it is negative, ask how the company is funding the deficit. Is it relying on [equity financing](/equity-financing/) (raising capital, which dilutes shareholders), or does it have [debt financing](/debt-financing/)? Check the [balance sheet](/balance-sheet/) for recent capital raises (new equity issuances). Frequent equity raises signal the company is burning through cash and may face shareholder dilution. Also estimate the company's cash runway: if burn rate is $5 million per quarter and cash on the balance sheet is $10 million, the company has about two quarters of cash before it must raise more or reach profitability.
 
 ## Product Development and Pipeline
 

@@ -27,7 +27,7 @@ Sany Heavy Industries is a Chinese multinational manufacturer and exporter of he
 
 ## Concrete Pumps and the Birth of a Giant
 
-Sany's origin story begins in 1989 when a group of engineers and entrepreneurs in Changsha, a city in central China, started manufacturing concrete pumps. In the late 1980s and early 1990s, China's construction boom was accelerating; concrete pumping — the process of moving fluid concrete from a truck-mounted or stationary pump into high-rise buildings and other structures — was essential and still dominated by Western imports. Sany saw an opportunity to build a domestic alternative. The early pumps were crude by global standards, but they worked and cost a fraction of foreign machines. Volume came quickly.
+Sany's origin story begins in 1989 when a group of engineers and entrepreneurs in Changsha, a city in central China, started manufacturing concrete pumps. In the late 1980s and early 1990s, China's construction boom was accelerating; [concrete pumping](/bbcp-stock/) — the process of moving fluid concrete from a truck-mounted or stationary pump into high-rise buildings and other structures — was essential and still dominated by Western imports. Sany saw an opportunity to build a domestic alternative. The early pumps were crude by global standards, but they worked and cost a fraction of foreign machines. Volume came quickly.
 
 That success in a single product category taught the company a crucial lesson: the global construction equipment market was fragmented, protected by high shipping costs and local distribution advantages, and willing to substitute lower cost for premium brand prestige when the gap narrowed. Sany expanded into other products following the same playbook — excavators, tower cranes, truck-mounted cranes — always pricing aggressively and improving quality year on year. Each new line leveraged the distribution network and manufacturing discipline the company had already built.
 
@@ -73,7 +73,7 @@ The customer base is highly fragmented. Sany does not sell to end consumers; it 
 
 **Currency and emerging-market exposure.** Much of Sany's revenue comes from developing countries and is earned in local currencies. Currency fluctuations — particularly a strong yuan — can reduce translated revenues and profitability. Economic crises in emerging markets (currency crashes, credit crunches) directly impact equipment demand and the ability of customers to finance purchases.
 
-**Political and reputational risk.** Sany operates in sensitive geographies — Myanmar, certain Middle Eastern countries — where political instability and sanctions can disrupt business. The company's Chinese ownership has also made it a [target](/tgt-stock/) in some Western markets where there is skepticism of Chinese manufacturing and investment.
+**Political and reputational risk.** Sany operates in sensitive geographies — Myanmar, certain Middle Eastern countries — where political instability and sanctions can disrupt business. The company's Chinese ownership has also made it a target in some Western markets where there is skepticism of Chinese manufacturing and investment.
 
 ## Researching Sany
 

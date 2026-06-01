@@ -21,7 +21,7 @@ Cantaloupe's defensibility stems less from patent-protected technology and more 
 
 ## Network Effects at the Margins
 
-A secondary moat comes from incipient network effects in the Cantaloupe ecosystem. As more operators and vendors use the platform, Cantaloupe accumulates more transactional data on preferences, traffic patterns, and inventory turnover. This data allows the company to offer better demand-forecasting tools, theft-detection algorithms, and route-optimization recommendations that benefit all operators. Vendors investing in Cantaloupe gain access to these insights; they become more efficient, margins improve, and switching becomes even more costly. However, these network effects are modest compared to classical two-sided networks like credit-card systems or payment gateways. Cantaloupe operators do not directly benefit from more operators on the platform; they benefit from Cantaloupe's ability to aggregate industry data and feed back insights. The effect is real but not exponential, and a competitor with equivalent data-science talent could replicate much of the analytical value.
+A secondary moat comes from incipient network effects in the Cantaloupe ecosystem. As more operators and vendors use the platform, Cantaloupe accumulates more transactional data on preferences, traffic patterns, and [inventory turnover](/inventory-turnover/). This data allows the company to offer better demand-forecasting tools, theft-detection algorithms, and route-optimization recommendations that benefit all operators. Vendors investing in Cantaloupe gain access to these insights; they become more efficient, margins improve, and switching becomes even more costly. However, these network effects are modest compared to classical two-sided networks like credit-card systems or payment gateways. Cantaloupe operators do not directly benefit from more operators on the platform; they benefit from Cantaloupe's ability to aggregate industry data and feed back insights. The effect is real but not exponential, and a competitor with equivalent data-science talent could replicate much of the analytical value.
 
 ## Vendor Relationships and Market Access
 
@@ -37,11 +37,11 @@ A larger competitive threat is the erosion of the vending-machine market itself 
 
 ## Regulatory and Payment-Processor Exposure
 
-As a payments intermediary, Cantaloupe is subject to regulatory oversight and relationships with traditional payment networks (Visa, Mastercard, ACH operators). Changes in payment-processing regulations, interchange fees, or terms of service from payment networks could compress margins or constrain the company's operational flexibility. This is not a vulnerability unique to Cantaloupe, but it represents an external risk to the moat that is beyond the company's direct control.
+As a payments intermediary, Cantaloupe is subject to regulatory oversight and relationships with traditional payment networks ([Visa](/v-stock/), [Mastercard](/ma-stock/), ACH operators). Changes in payment-processing regulations, interchange fees, or terms of service from payment networks could compress margins or constrain the company's operational flexibility. This is not a vulnerability unique to Cantaloupe, but it represents an external risk to the moat that is beyond the company's direct control.
 
 ## Assessing Durability
 
-Cantaloupe's moat is defensible but rests on operational execution and continued relevance to its operator base. For investors evaluating the 10-K, key metrics include customer retention rate and net revenue retention per customer (which proxy for switching costs and the stickiness of the platform), customer acquisition cost relative to lifetime value, and the company's ability to grow its addressable market beyond declining traditional vending segments.
+Cantaloupe's moat is defensible but rests on operational execution and continued relevance to its operator base. For investors evaluating the 10-K, key metrics include customer retention rate and net revenue retention per customer (which proxy for switching costs and the stickiness of the platform), customer [acquisition](/acquisition/) cost relative to lifetime value, and the company's ability to grow its addressable market beyond declining traditional vending segments.
 
 <div class="wiki-seealso">
 ### Closely related

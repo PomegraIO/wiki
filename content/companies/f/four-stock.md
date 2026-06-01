@@ -9,7 +9,7 @@ keywords:
   - e-commerce
 ---
 
-*Shift4 Payments (FOUR) operates the operational infrastructure that moves money between buyers, merchants, acquiring banks, and card networks (Visa, Mastercard). The company processes transactions—electronic authorization, settlement, fraud detection, chargeback management—and earns revenue from basis points on transaction volume, gateway fees, and value-added services. Operational success depends on transaction throughput reliability, fraud prevention, and customer onboarding velocity.*
+*Shift4 Payments (FOUR) operates the operational infrastructure that moves money between buyers, merchants, acquiring banks, and card networks ([Visa](/v-stock/), [Mastercard](/ma-stock/)). The company processes transactions—electronic authorization, settlement, fraud detection, chargeback management—and earns revenue from basis points on transaction volume, gateway fees, and value-added services. Operational success depends on transaction throughput reliability, fraud prevention, and customer onboarding velocity.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FOUR</td></tr>
@@ -22,7 +22,7 @@ keywords:
 
 ## Transaction Processing and Network Operations
 
-Shift4's core operation is authorizing, routing, and settling payment transactions. When a customer swipes a credit card at an e-commerce checkout or enters payment details into a merchant's app, the transaction must be routed through Shift4's gateway infrastructure to the appropriate card network (Visa, Mastercard, American Express, Discover), confirmed as legitimate, approved or declined in real time, and then settled—funds moved from the customer's bank account to the merchant's acquiring account within one to three business days.
+Shift4's core operation is authorizing, routing, and settling payment transactions. When a customer swipes a credit card at an e-commerce checkout or enters payment details into a merchant's app, the transaction must be routed through Shift4's gateway infrastructure to the appropriate card network (Visa, Mastercard, [American Express](/axp-stock/), Discover), confirmed as legitimate, approved or declined in real time, and then settled—funds moved from the customer's bank account to the merchant's acquiring account within one to three business days.
 
 This process involves multiple layers of operational infrastructure. The payment gateway receives millions of concurrent requests and must authenticate, validate, route, and respond within milliseconds. Latency matters: if Shift4's systems add half a second of delay to checkout, customers abandon carts. Availability matters: a system outage means transactions cannot be processed, merchants lose revenue, and customers lose trust.
 
@@ -32,7 +32,7 @@ Shift4 must maintain redundant systems across multiple data centers so that no s
 
 Shift4 acquires merchant customers—retailers, e-commerce companies, subscription businesses, travel companies—and must set them up to process payments. Onboarding a new merchant involves risk assessment (is this a legitimate business or a high-fraud operation?), underwriting, technical integration with the merchant's point-of-sale system or website, and training the customer's staff on how to use the platform.
 
-Operationally, this requires a team that can evaluate applications quickly (merchants want to go live fast), integrate with diverse technical environments (some merchants have custom-built systems, others use off-the-shelf platforms like Shopify or WooCommerce), and support the customer when issues arise. A merchant might integrate incorrectly and lose 10% of transactions; Shift4's support team must diagnose the issue and fix it. A merchant might experience unexpected chargebacks; Shift4 must help them understand why and prevent recurrence.
+Operationally, this requires a team that can evaluate applications quickly (merchants want to go live fast), integrate with diverse technical environments (some merchants have custom-built systems, others use off-the-shelf platforms like [Shopify](/shop-stock/) or WooCommerce), and support the customer when issues arise. A merchant might integrate incorrectly and lose 10% of transactions; Shift4's support team must diagnose the issue and fix it. A merchant might experience unexpected chargebacks; Shift4 must help them understand why and prevent recurrence.
 
 Merchants are also price-sensitive. Shift4 competes against other payment processors (Square, Stripe, others) who tout lower fees or better features. Customer churn—merchants switching to competitors—is a persistent operational challenge. Shift4 must keep pricing competitive while protecting margins.
 
@@ -56,7 +56,7 @@ Shift4 may also offer early settlement—paying merchants faster than the standa
 
 ## Acquiring Bank Relationships and Compliance
 
-Shift4 depends on relationships with acquiring banks (typically large financial institutions) that have direct connections to card networks. These banks sponsor Shift4's merchant acquiring operation and assume ultimate liability for fraud and chargebacks. Maintaining these relationships requires Shift4 to demonstrate tight compliance with card network rules, fraud prevention discipline, and merchant underwriting quality.
+Shift4 depends on relationships with acquiring banks (typically large [financial institutions](/fisi-stock/)) that have direct connections to card networks. These banks sponsor Shift4's merchant acquiring operation and assume ultimate liability for fraud and chargebacks. Maintaining these relationships requires Shift4 to demonstrate tight compliance with card network rules, fraud prevention discipline, and merchant underwriting quality.
 
 Card networks (Visa, Mastercard) set rules that Shift4 must follow. A violation—such as high chargeback rates or working with high-risk merchants—can result in fines or restrictions. Shift4 must monitor compliance actively and train merchants on prohibited uses (illegal goods, gambling, high-risk jurisdictions).
 

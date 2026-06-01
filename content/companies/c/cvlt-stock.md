@@ -23,9 +23,9 @@ CommVault's software solves two core problems. First, backup: creating copies of
 
 ## How CommVault Works
 
-CommVault's platform is software that runs on an organization's computers and servers. It discovers data across the enterprise—databases, file shares, email, cloud applications like Salesforce or Microsoft 365. It creates backup copies on storage systems (often in data centers or cloud storage). It indexes the data so it is searchable. And it orchestrates recovery when needed: if a user deletes a file, they can search CommVault's interface, find the file from yesterday's backup, and restore it in minutes.
+CommVault's platform is software that runs on an organization's computers and servers. It discovers data across the enterprise—databases, file shares, email, cloud applications like [Salesforce](/crm-stock/) or [Microsoft](/msft-stock/) 365. It creates backup copies on storage systems (often in data centers or cloud storage). It indexes the data so it is searchable. And it orchestrates recovery when needed: if a user deletes a file, they can search CommVault's interface, find the file from yesterday's backup, and restore it in minutes.
 
-The software is complex. Organizations run many different databases and systems, and CommVault must work with all of them. Integrating with Oracle databases, Microsoft SQL Server, SAP systems, and dozens of cloud applications requires engineering effort. CommVault hires developers to build and maintain these integrations.
+The software is complex. Organizations run many different databases and systems, and CommVault must work with all of them. Integrating with [Oracle](/orcl-stock/) databases, Microsoft SQL Server, SAP systems, and dozens of cloud applications requires engineering effort. CommVault hires developers to build and maintain these integrations.
 
 ## Revenue Models
 
@@ -53,7 +53,7 @@ Customers with hybrid setups—some data on premises, some in cloud—need CommV
 
 ## Margins and Unit Economics
 
-CommVault's gross margins (revenue minus cost of goods sold—mainly cloud infrastructure and delivery costs) are likely in the 70-80% range, typical for enterprise software. Operating margins depend on R&D (salaries for engineers), sales and marketing (salespeople, ads, events), and administrative costs. Large software companies often have operating margins of 20-30% once they reach scale.
+CommVault's gross margins (revenue minus cost of goods sold—mainly cloud infrastructure and delivery costs) are likely in the 70-80% range, typical for enterprise software. [Operating margins](/operating-margin/) depend on R&D (salaries for engineers), sales and marketing (salespeople, ads, events), and administrative costs. Large software companies often have operating margins of 20-30% once they reach scale.
 
 CommVault's job is to grow revenue faster than operating expenses grow, improving operating leverage and margins over time. The company also has a large installed base of customers on maintenance contracts. These renewals are lower-cost wins—the customer already uses the software and renews annually. This recurring base provides stable, predictable revenue.
 

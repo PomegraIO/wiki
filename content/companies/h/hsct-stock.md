@@ -32,7 +32,7 @@ How does HOOPS make money? It could charge players subscriptions (most youth spo
 
 ## Regulatory Risk in Youth Sports
 
-The NCAA is not a static gatekeeper. It makes new rules regularly—about who can recruit, when, what can be disclosed, how transfers work, what name-image-likeness deals athletes can strike. Changes to these rules can instantly make or break a platform. If the NCAA decides that profiles or videos posted to third-party platforms violate recruiting rules, HOOPS' core asset evaporates. If the NCAA launches its own official recruiting portal, coaches may migrate away from HOOPS. This asymmetric regulatory risk is invisible in a balance sheet but real in valuation. Youth sports tech companies live at the mercy of the governing bodies they depend on.
+The NCAA is not a static gatekeeper. It makes new rules regularly—about who can recruit, when, what can be disclosed, how transfers work, what name-image-likeness deals athletes can strike. Changes to these rules can instantly make or break a platform. If the NCAA decides that profiles or videos posted to third-party platforms violate recruiting rules, HOOPS' core asset evaporates. If the NCAA launches its own official recruiting portal, coaches may migrate away from HOOPS. This asymmetric regulatory risk is invisible in a [balance sheet](/balance-sheet/) but real in valuation. Youth sports tech companies live at the mercy of the governing bodies they depend on.
 
 ## Scale and Unit Economics
 

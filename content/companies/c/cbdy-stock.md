@@ -4,7 +4,7 @@ description: "A retail or distribution company registered with the SEC under CIK
 keywords: ["retail", "distribution", "supply-chain", "consumer-goods", "operations"]
 ---
 
-*A **Target Group Inc. (CBDY)** is a company built on moving goods from suppliers to end customers. The business hinges on understanding what people want to buy, sourcing it reliably, and getting it to them faster or cheaper than rivals. Like any logistics or retail enterprise, its success depends on controlling costs, managing inventory, and keeping customers coming back.*
+*A **[Target](/tgt-stock/) Group Inc. (CBDY)** is a company built on moving goods from suppliers to end customers. The business hinges on understanding what people want to buy, sourcing it reliably, and getting it to them faster or cheaper than rivals. Like any logistics or retail enterprise, its success depends on controlling costs, managing inventory, and keeping customers coming back.*
 
 <aside class="wiki-infobox">
 <table>
@@ -45,7 +45,7 @@ Retail is changing. Many customers now shop online, often with free delivery. Th
 
 ## How to Assess Target Group
 
-To understand what Target Group Inc. actually does and how well it is performing, start with its annual [10-K](/10-k/) filing with the [SEC](/securities-and-exchange-commission/). You can search for CIK 1586554 on EDGAR. The filing will break down which product categories the company sells, which regions it operates in, and how revenue and costs have trended. The balance sheet will show how much inventory it is holding and how much debt it carries. The cash flow statement will reveal whether the business is actually generating cash or burning it despite top-line sales.
+To understand what Target Group Inc. actually does and how well it is performing, start with its annual [10-K](/10-k/) filing with the [SEC](/securities-and-exchange-commission/). You can search for CIK 1586554 on EDGAR. The filing will break down which product categories the company sells, which regions it operates in, and how revenue and costs have trended. The balance sheet will show how much inventory it is holding and how much debt it carries. The [cash flow statement](/cash-flow-statement/) will reveal whether the business is actually generating cash or burning it despite top-line sales.
 
 Quarterly earnings releases and shareholder letters (if the company publishes them) offer a window into management's view of what is working and what is struggling. If management is excited about e-commerce investments or a new store format, that signals where they see opportunity. If they are closing stores or consolidating, pay attention — it often means the older strategy is not working.
 

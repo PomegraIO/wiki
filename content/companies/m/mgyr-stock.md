@@ -17,11 +17,11 @@ keywords: ["community bank", "local banking", "deposit base", "small-business le
 
 ## The Hyperlocal Deposit Trap: Lending Where You Bank
 
-Magyar Bancorp's business model is archetypal of the community bank: gather deposits from local businesses and individuals, make loans to the same community, and spread the difference. Deposits are "stickier" than wholesale funding because they reflect relationships and habit, not rate-shopping. But the loan book—small business loans, commercial real estate, agricultural credit, and consumer mortgages—is deeply cyclical. When the Northeast economy weakens, unemployment rises, or commercial property values fall, the bank's customers struggle to repay, loan-loss provisions rise, and earnings compress. The reverse occurs in expansions. Magyar Bancorp has no geographic diversification buffer; it cannot offset weakness in Connecticut or New York with strength in Florida or Texas.
+Magyar Bancorp's business model is archetypal of the community bank: gather deposits from local businesses and individuals, make loans to the same community, and spread the difference. Deposits are "stickier" than wholesale funding because they reflect relationships and habit, not rate-shopping. But the loan book—small business loans, [commercial real estate](/commercial-real-estate/), agricultural credit, and consumer mortgages—is deeply cyclical. When the Northeast economy weakens, unemployment rises, or commercial property values fall, the bank's customers struggle to repay, loan-loss provisions rise, and earnings compress. The reverse occurs in expansions. Magyar Bancorp has no geographic [diversification](/diversification/) buffer; it cannot offset weakness in Connecticut or New York with strength in Florida or Texas.
 
 ## Net Interest Margin and the Deposit-Rate Cycle
 
-A community bank's core profit comes from the spread between the rate paid on deposits and the rate charged on loans. In a rising interest-rate environment, banks can raise lending rates faster than deposit rates, widening the margin. In a falling-rate environment (or when a Fed-driven inversion persists), margins compress and bank profitability suffers. This spread is purely cyclical, driven by monetary policy and short-term credit conditions, not by any structural advantage the bank possesses. Magyar Bancorp, with no wholesale capital markets operations or global treasury function, is entirely at the mercy of Fed policy shifts and the curve.
+A community bank's core profit comes from the spread between the rate paid on deposits and the rate charged on loans. In a rising interest-rate environment, banks can raise lending rates faster than deposit rates, widening the margin. In a falling-rate environment (or when a Fed-driven inversion persists), margins compress and bank profitability suffers. This spread is purely cyclical, driven by [monetary policy](/monetary-policy/) and short-term credit conditions, not by any structural advantage the bank possesses. Magyar Bancorp, with no wholesale capital markets operations or global treasury function, is entirely at the mercy of Fed policy shifts and the curve.
 
 ## Loan Loss Provisions: A Recession Thermometer
 
@@ -33,15 +33,15 @@ Unlike larger, systemically important banks that can access wholesale funding ma
 
 ## Asset Quality and the Credit Cycle
 
-During expansions, rising property values, strong employment, and business optimism reduce loan losses and boost asset quality. The bank can loosen underwriting standards, secure cheaper deposits, and grow the loan book profitably. During contractions, the reverse occurs: loan losses spike, funding becomes dearer (if available at all), and the bank must tighten standards or shrink. Magyar Bancorp's historical performance would show a clear inverse correlation with recessions—a hallmark of cyclical exposure.
+During expansions, rising property values, strong employment, and business optimism reduce loan losses and boost asset quality. The bank can loosen underwriting standards, secure cheaper deposits, and grow the loan book profitably. During contractions, the reverse occurs: loan losses spike, funding becomes dearer (if available at all), and the bank must tighten standards or shrink. Magyar Bancorp's historical performance would show a clear inverse correlation with [recessions](/recession/)—a hallmark of cyclical exposure.
 
 ## Interest Rate Sensitivity
 
-Magyar Bancorp's earnings are sensitive to both the level and slope of the yield curve. A flat or inverted curve suppresses net interest margins and bank earnings economy-wide. A steep curve supports margins. This sensitivity is not unique to Magyar Bancorp but is particularly acute for institutions without diversified revenue streams (trading, investment banking, wealth management). The bank is a pure interest-rate play, embedded in the economic cycle.
+Magyar Bancorp's earnings are sensitive to both the level and slope of the [yield curve](/yield-curve/). A flat or inverted curve suppresses net interest margins and bank earnings economy-wide. A steep curve supports margins. This sensitivity is not unique to Magyar Bancorp but is particularly acute for institutions without diversified revenue streams (trading, investment banking, wealth management). The bank is a pure interest-rate play, embedded in the economic cycle.
 
 ## Capital Constraints and Dividend Sustainability
 
-In benign conditions, Magyar Bancorp can pay dividends funded by retained earnings and loan growth. In downturns, capital erodes, and the bank must cut the dividend to preserve ratios or raise capital at a dilutive price. Shareholders in cyclical businesses often face dividend cuts precisely when they need income most—a classic feature of cyclical stocks.
+In benign conditions, Magyar Bancorp can pay dividends funded by [retained earnings](/retained-earnings/) and loan growth. In downturns, capital erodes, and the bank must cut the dividend to preserve ratios or raise capital at a dilutive price. Shareholders in cyclical businesses often face dividend cuts precisely when they need income most—a classic feature of cyclical stocks.
 
 ---
 

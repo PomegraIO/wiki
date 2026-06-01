@@ -22,9 +22,9 @@ Chinese technology firms are increasingly subject to national security reviews a
 
 ## U.S. ADR Structure and Regulatory Gaps
 
-Geekplus trades in the United States via American Depositary Receipts issued by a custodian bank, which convert Chinese shares into tradeable U.S. securities. This structure allows U.S. investors to hold the stock without navigating Chinese capital controls, but it also creates regulatory ambiguities. ADR holders have limited voting rights, receive disclosure indirectly through the underlying Chinese company's filings (often in Chinese), and depend on custodian and issuer compliance with SEC rules. If China restricts the underlying company's ability to repatriate earnings or transfer shares, ADR holders may face suspension of dividend payments or trading.
+Geekplus trades in the United States via [American Depositary Receipts](/adr/) issued by a [custodian](/custodian/) bank, which convert Chinese shares into tradeable U.S. securities. This structure allows U.S. investors to hold the stock without navigating Chinese capital controls, but it also creates regulatory ambiguities. ADR holders have limited [voting rights](/voting-rights/), receive disclosure indirectly through the underlying Chinese company's filings (often in Chinese), and depend on custodian and issuer compliance with SEC rules. If China restricts the underlying company's ability to repatriate earnings or transfer shares, ADR holders may face suspension of [dividend](/dividend/) payments or trading.
 
-The SEC's oversight of ADRs is also limited compared to direct corporate registration. SEC staff cannot audit Geekplus's facilities or records directly; they rely on auditor certifications and management representations. A material accounting irregularity or fraud originating in China may not surface until it is too late for U.S. shareholders. The track record of Chinese ADRs includes accounting restatements, auditor resignations, and regulatory investigations that revealed control environment weaknesses U.S. investors had not anticipated.
+The SEC's oversight of ADRs is also limited compared to direct corporate registration. SEC staff cannot audit Geekplus's facilities or records directly; they rely on auditor certifications and management representations. A material accounting irregularity or fraud originating in China may not surface until it is too late for U.S. shareholders. The track record of Chinese ADRs includes accounting [restatements](/restatement/), auditor resignations, and regulatory investigations that revealed control environment weaknesses U.S. investors had not anticipated.
 
 ## Technology Transfer and Export Control Restrictions
 
@@ -34,7 +34,7 @@ If Geekplus partners with U.S. firms (customers, technology licensors, suppliers
 
 ## Treasury Department and CFIUS Oversight
 
-The Committee on Foreign Investment in the United States (CFIUS), housed in the Treasury Department, reviews foreign investments in the United States that may affect national security. If Geekplus or a Chinese parent entity sought to acquire a U.S. robotics or technology firm, or to invest in sensitive technologies, CFIUS would likely challenge the transaction. Even partnerships or joint ventures involving technology sharing can trigger CFIUS review and mitigation requirements. This regulatory lens makes it difficult for Geekplus to expand into the U.S. market through acquisition or strategic investment.
+The Committee on Foreign Investment in the United States (CFIUS), housed in the Treasury Department, reviews foreign investments in the United States that may affect national security. If Geekplus or a Chinese parent entity sought to acquire a U.S. robotics or technology firm, or to invest in sensitive technologies, CFIUS would likely challenge the transaction. Even partnerships or joint ventures involving technology sharing can trigger CFIUS review and mitigation requirements. This regulatory lens makes it difficult for Geekplus to expand into the U.S. market through [acquisition](/acquisition/) or strategic investment.
 
 ## Sanction and Trade Restrictions
 

@@ -17,7 +17,7 @@ keywords: ["industrial components", "sensors", "actuators", "automotive supplier
 
 ## The Tier-1 Supplier Model and Automotive Dependence
 
-CTS is a diversified component supplier—what the automotive industry calls a Tier-1 or Tier-2 supplier. Tier-1 suppliers sell directly to large vehicle manufacturers (OEMs like GM, Ford, Tesla); Tier-2 suppliers sell to Tier-1 suppliers. CTS spans both, selling actuators, sensors, and connectivity components to vehicle makers and to larger component suppliers.
+CTS is a diversified component supplier—what the automotive industry calls a Tier-1 or Tier-2 supplier. Tier-1 suppliers sell directly to large vehicle manufacturers (OEMs like GM, Ford, [Tesla](/tsla-stock/)); Tier-2 suppliers sell to Tier-1 suppliers. CTS spans both, selling actuators, sensors, and connectivity components to vehicle makers and to larger component suppliers.
 
 This positioning carries structural advantages and constraints. Advantages: direct relationships with major customers translate to volume contracts and price stability. Large OEMs source the same components for millions of vehicles annually; a supplier that wins a program gets high-volume, multi-year revenue visibility. Constraints: the relationship is asymmetrical. A single OEM customer can represent 15–25% of annual revenue; loss of a major program is existential. OEMs also wield enormous negotiating power—they can demand price reductions, longer payment terms, and supply-chain investments (new plants, capabilities) with limited ability for suppliers to refuse.
 
@@ -49,7 +49,7 @@ Customers expect suppliers to help solve engineering problems: if an OEM is stru
 
 ## Cyclicality and Industry Downturns
 
-The automotive industry is cyclical: in growth years, OEMs increase platform volumes and introduce new models, driving CTS revenue up. In recessions, vehicle production drops sharply—new car sales might fall 30–50% in a severe downturn—and supplier revenues follow. CTS's cost base is semi-fixed: plants, labor agreements, and long-term contracts create costs that don't disappear when demand softens.
+The automotive industry is cyclical: in growth years, OEMs increase platform volumes and introduce new models, driving CTS revenue up. In [recessions](/recession/), vehicle production drops sharply—new car sales might fall 30–50% in a severe downturn—and supplier revenues follow. CTS's cost base is semi-fixed: plants, labor agreements, and long-term contracts create costs that don't disappear when demand softens.
 
 The electrification of vehicles also creates structural headwinds and opportunities. Electric vehicles require different sensors and fewer traditional engine components. Suppliers that supplied only traditional powertrain sensors face declining demand; those that develop EV-specific capabilities grow. CTS has been repositioning toward electrified powertrains and autonomous-vehicle sensors, but this transition carries execution risk and requires capital investment in new engineering and capabilities.
 
@@ -58,11 +58,11 @@ The electrification of vehicles also creates structural headwinds and opportunit
 CTS's profitability depends on:
 
 1. **Volume leverage.** High-volume programs spread engineering and tooling costs across millions of units, improving per-unit economics.
-2. **Cost discipline.** Manufacturing efficiency, scrap reduction, and labor productivity directly impact margins.
+2. **Cost discipline.** Manufacturing efficiency, scrap reduction, and [labor productivity](/labor-productivity/) directly impact margins.
 3. **Supply-chain discipline.** Managing component procurement, logistics, and working capital efficiently reduces cost of goods sold.
 4. **Price stability.** Successful programs under long-term contracts protect against commoditization; programs sold in spot or short-term contracts are vulnerable to price pressure.
 
-CTS typically operates at gross margins of 28–38% and operating margins of 6–10%, depending on product mix and production efficiency. These are respectable for industrial suppliers but modest compared to software or pharmaceutical companies. The business is capital-intensive (manufacturing plants, tooling, inventory) and customer-concentrated (large OEM exposure), limiting leverage and upside surprise.
+CTS typically operates at gross margins of 28–38% and [operating margins](/operating-margin/) of 6–10%, depending on product mix and production efficiency. These are respectable for industrial suppliers but modest compared to software or pharmaceutical companies. The business is capital-intensive (manufacturing plants, tooling, inventory) and customer-concentrated (large OEM exposure), limiting leverage and upside surprise.
 
 ## Competitive Positioning Against Peers
 

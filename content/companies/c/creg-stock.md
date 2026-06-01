@@ -16,7 +16,7 @@ keywords: ["energy", "power", "utilities", "renewable energy", "smart grid", "el
 
 ## Commodity Price Exposure and Volatility
 
-Smart Powerr's earnings are potentially sensitive to commodity prices—natural gas, oil, electricity spot prices, or coal, depending on the company's generation or trading portfolio. Commodity prices are volatile and driven by global supply-demand dynamics outside the company's control. Extended periods of low energy prices compress margins and profitability; extended periods of high prices can also trigger regulatory scrutiny or customer pressure. Smart Powerr lacks the diversification of large integrated utilities that own generation, transmission, distribution, and trading operations; it may be more exposed to commodity swings in specific segments. Price hedging instruments—forward contracts, options, futures—can mitigate commodity risk, but imperfect hedges leave residual exposure. Investors should understand Smart Powerr's commodity sensitivity and hedging practices.
+Smart Powerr's earnings are potentially sensitive to commodity prices—[natural gas](/natural-gas/), oil, electricity spot prices, or coal, depending on the company's generation or trading portfolio. Commodity prices are volatile and driven by global supply-demand dynamics outside the company's control. Extended periods of low energy prices compress margins and profitability; extended periods of high prices can also trigger regulatory scrutiny or customer pressure. Smart Powerr lacks the [diversification](/diversification/) of large integrated utilities that own generation, transmission, distribution, and trading operations; it may be more exposed to commodity swings in specific segments. Price hedging instruments—[forward contracts](/forward-contract/), options, futures—can mitigate commodity risk, but imperfect hedges leave residual exposure. Investors should understand Smart Powerr's commodity sensitivity and hedging practices.
 
 ## Regulatory Risk and Rate-Setting Dependency
 
@@ -24,7 +24,7 @@ Energy companies, particularly utilities, operate under regulatory jurisdiction.
 
 ## Capital Intensity and Capex Demands
 
-Energy infrastructure is capital-intensive. Generating plants, transmission lines, distribution networks, smart grid infrastructure all require large upfront investment with long payback periods. Smart Powerr must fund capex through cash generation, debt, or equity raises. High capex demand can strain cash flows and limit dividend distributions or growth flexibility. Debt-heavy capitalization creates financial risk; rising interest rates increase borrowing costs. The company must also manage capex cycles carefully—over-investment wastes capital, under-investment allows infrastructure decay and lost customer or market opportunity. Larger utilities can absorb capex volatility; smaller players like Smart Powerr have less flexibility.
+Energy infrastructure is capital-intensive. Generating plants, transmission lines, distribution networks, smart grid infrastructure all require large upfront investment with long payback periods. Smart Powerr must fund capex through cash generation, debt, or equity raises. High capex demand can strain cash flows and limit [dividend distributions](/dividend-distribution/) or growth flexibility. Debt-heavy capitalization creates financial risk; rising [interest rates](/interest-rate/) increase borrowing costs. The company must also manage capex cycles carefully—over-investment wastes capital, under-investment allows infrastructure decay and lost customer or market opportunity. Larger utilities can absorb capex volatility; smaller players like Smart Powerr have less flexibility.
 
 ## Transition Risk and Energy Mix Shift
 
@@ -32,7 +32,7 @@ The global energy transition from fossil fuels to renewables and electric vehicl
 
 ## Customer Concentration and Contract Volatility
 
-Smart Powerr's revenue may depend on a small number of large industrial, commercial, or institutional customers, or on contracts with other utilities or grid operators. Loss of a major customer contract, non-renewal, or price renegotiation can materially impact revenue. If Smart Powerr operates as a wholesale power generator or trader, its revenues depend on forward contracts and spot-market sales; volatility in these markets and contract counterparty risk introduce earnings uncertainty. Customers with alternatives to Smart Powerr's supply may threaten to switch to competitors, forcing price concessions. Unlike integrated utilities with captive retail customer bases, smaller players lack pricing power and must actively manage customer retention.
+Smart Powerr's revenue may depend on a small number of large industrial, commercial, or institutional customers, or on contracts with other utilities or grid operators. Loss of a major customer contract, non-renewal, or price renegotiation can materially impact revenue. If Smart Powerr operates as a wholesale power generator or trader, its revenues depend on forward contracts and spot-market sales; volatility in these markets and contract [counterparty risk](/counterparty-risk/) introduce earnings uncertainty. Customers with alternatives to Smart Powerr's supply may threaten to switch to competitors, forcing price concessions. Unlike integrated utilities with captive retail customer bases, smaller players lack pricing power and must actively manage customer retention.
 
 ## Technology Disruption and Distributed Generation
 
@@ -44,7 +44,7 @@ Energy companies with generation assets face physical risk from weather: hurrica
 
 ## Debt and Financial Leverage
 
-Smart Powerr may operate with significant debt to finance capex. High leverage amplifies returns in favorable conditions but also increases financial risk and reduces flexibility during downturns. Rising interest rates increase debt service costs, pressuring cash flows. Debt covenants may restrict capital allocation, dividend distributions, or new borrowing. Credit rating downgrades increase borrowing costs. Investors must assess Smart Powerr's debt levels, interest coverage, and refinancing risk.
+Smart Powerr may operate with significant debt to finance capex. High leverage amplifies returns in favorable conditions but also increases financial risk and reduces flexibility during downturns. Rising interest rates increase debt service costs, pressuring cash flows. Debt covenants may restrict capital allocation, [dividend](/dividend/) distributions, or new borrowing. [Credit rating](/credit-rating/) downgrades increase borrowing costs. Investors must assess Smart Powerr's debt levels, interest coverage, and [refinancing risk](/refinancing-risk/).
 
 ## Talent and Operational Expertise
 

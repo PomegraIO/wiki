@@ -23,9 +23,9 @@ The company went [public](/initial-public-offering/) in 1998, using the capital 
 
 ## The Portfolio Trap
 
-Owning multiple brands is both a strength and a constraint. Columbia can address the hiker, the snowboarder, the trail runner, and the casual outdoor enthusiast with distinct brand identities that carry different heritage and price positioning. Yet the company must fund marketing, product development, and distribution for each brand separately. As retail consolidated (fewer doors, more consolidation among department stores, the rise of [ETFs](/etf/) and index-driven retail capital flight), the cost of maintaining multiple brands in a finite number of retail windows increased.
+Owning multiple brands is both a strength and a constraint. Columbia can address the hiker, the snowboarder, the trail runner, and the casual outdoor enthusiast with distinct brand identities that carry different heritage and price positioning. Yet the company must fund marketing, product development, and distribution for each brand separately. As retail consolidated (fewer doors, more consolidation among department stores, the rise of [ETFs](/etf/) and index-driven retail [capital flight](/capital-flight-sovereign/)), the cost of maintaining multiple brands in a finite number of retail windows increased.
 
-Columbia's brands are not premium luxury goods (which have stronger pricing power and richer margins) nor are they fast-fashion commodity brands (which compete on speed and volume). They occupy a middle market—authentic, functional, heritage-bearing, but not aspirational in the manner of pure luxury. This is a compressed margin space, especially as sportswear has migrated from specialty retailers (REI, Dick's Sporting Goods) to mass channels (Walmart, Target, Amazon) where price competition is relentless.
+Columbia's brands are not premium luxury goods (which have stronger pricing power and richer margins) nor are they fast-fashion commodity brands (which compete on speed and volume). They occupy a middle market—authentic, functional, heritage-bearing, but not aspirational in the manner of pure luxury. This is a compressed margin space, especially as sportswear has migrated from specialty retailers (REI, [Dick's Sporting Goods](/dks-stock/)) to mass channels ([Walmart](/wmt-stock/), [Target](/tgt-stock/), Amazon) where price competition is relentless.
 
 ## The Wholesale-to-DTC Transition
 
@@ -53,7 +53,7 @@ The company must therefore invest in brand storytelling, athlete sponsorships, a
 
 ## Lifecycle Inflection and Choices Ahead
 
-Columbia Sportswear is at the maturity-to-decline inflection point specific to heritage apparel brands. The company is not in crisis—it generates revenue and [cash flow](/free-cash-flow/)—but it is facing a structural shift in how goods are distributed and consumed. Its response will determine whether it remains a viable standalone brand portfolio or whether it becomes an acquisition target or a slow-fade story.
+Columbia Sportswear is at the maturity-to-decline inflection point specific to heritage apparel brands. The company is not in crisis—it generates revenue and [cash flow](/free-cash-flow/)—but it is facing a structural shift in how goods are distributed and consumed. Its response will determine whether it remains a viable standalone brand portfolio or whether it becomes an [acquisition](/acquisition/) target or a slow-fade story.
 
 For analysts and investors, the [10-K](/10-k/) reveals how quickly DTC is growing, how much wholesale is eroding, and whether the company can achieve profitability at its new cost structure. Watch [gross margins](/gross-profit-margin/), which signal pricing power and product mix; watch inventory turns, which signal demand; and watch [operating margins](/operating-margin/), which show whether SG&A (selling, general, administrative) costs can be controlled during transition.
 

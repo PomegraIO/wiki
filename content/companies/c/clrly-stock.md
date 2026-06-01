@@ -29,7 +29,7 @@ Central Retail's success is tethered to its real estate portfolio and site selec
 
 Real estate in Thailand remains relatively affordable compared to North America or Europe, but valuable urban land is concentrating in and around Bangkok and tier-two cities like Chiang Mai, Phuket, and Rayong. Central Retail's competitive advantage is its ability to identify and develop or acquire sites that will remain traffic generators as cities grow, and to bundle hypermarket operations with property ownership or long-leases that lock in cost structures.
 
-The company has also pursued expansion into Vietnam and Cambodia, where the hypermarket model is less mature and penetration is lower than in Thailand. These markets offer growth opportunities but also operational complexity, local competition, and currency risk. Vietnam in particular has seen rapid modern retail development and increasing e-commerce adoption, which compress margins for traditional retailers.
+The company has also pursued expansion into Vietnam and Cambodia, where the hypermarket model is less mature and penetration is lower than in Thailand. These markets offer growth opportunities but also operational complexity, local competition, and [currency risk](/currency-risk/). Vietnam in particular has seen rapid modern retail development and increasing e-commerce adoption, which compress margins for traditional retailers.
 
 ## Merchandising, Private Label, and Supplier Relationships
 
@@ -63,7 +63,7 @@ Promotions are endemic to retail in Thailand — heavy discounting and bundling 
 
 ## Dividend and Capital Return Profile
 
-As a mature, cash-generative retail operator, Central Retail has historically provided dividends to shareholders. The presence of an ADR (American Depositary Receipt) structure suggests efforts to court international investors, though trading volumes remain modest. The ADR represents a convenience for non-Thai investors to hold Thai retail exposure, but it is a secondary instrument relative to direct Thai stock-market trading.
+As a mature, cash-generative retail operator, Central Retail has historically provided [dividends](/dividend/) to shareholders. The presence of an ADR (American Depositary Receipt) structure suggests efforts to court international investors, though trading volumes remain modest. The ADR represents a convenience for non-Thai investors to hold Thai retail exposure, but it is a secondary instrument relative to direct Thai stock-market trading.
 
 The company's ability to return capital to shareholders depends on maintaining stable store cash flows and managing capital expenditure for new stores or renovations. Aggressive growth investments or a significant retail downturn would pressure dividends.
 
@@ -76,7 +76,7 @@ The company's ability to return capital to shareholders depends on maintaining s
 - Other Asian and Southeast Asian retail operators
 
 ### Wider context
-- Consumer discretionary spending and cyclicality
+- Consumer [discretionary spending](/discretionary-spending/) and cyclicality
 - Emerging market currency and political risk
 - [ADR](/adr/) and depositary receipt structures for international investors
 - [Public company](/public-company/) dividend and capital allocation policies

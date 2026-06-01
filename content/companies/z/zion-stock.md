@@ -41,7 +41,7 @@ Like all deposit-taking banks, Zions makes money by borrowing at low [interest r
 
 **Retail lending** includes mortgages, home equity lines of credit, auto loans, and personal loans. These products are relatively predictable: loan performance is linked to regional employment and housing markets, and the risk is spread across thousands of borrowers.
 
-**Commercial and industrial lending** is where Zions builds relationships with mid-market businesses. A regional bank's advantage is that a loan officer can know the owner of a manufacturing company personally, understand their industry, and make credit decisions faster than a national bank would. This builds loyalty and allows Zions to earn higher spreads on business loans than on retail mortgages.
+**Commercial and industrial lending** is where Zions builds relationships with mid-market businesses. A regional bank's advantage is that a loan officer can know the owner of a manufacturing company personally, understand their industry, and make credit decisions faster than a [national bank](/nbhc-stock/) would. This builds loyalty and allows Zions to earn higher spreads on business loans than on retail mortgages.
 
 **Wealth management and investment services** round out the business. Zions has teams managing money for high-net-worth individuals and institutions, administering trusts, and providing advisory services.
 

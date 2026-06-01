@@ -23,13 +23,13 @@ GIG's sponsor was incentivized to announce a merger (any merger) and claim succe
 
 ## The Merger Valuation Question
 
-In a SPAC merger, the target company (the operating business) is typically valued at a significant premium to its last private-round valuation. This inflation serves multiple constituencies: the target's existing investors (founders, venture backers) take outsized profits, the SPAC sponsor gets a big promote payout, and the transaction costs (lawyers, bankers) are covered. Public shareholders absorb the inflated valuation.
+In a SPAC merger, the target company (the operating business) is typically valued at a significant premium to its last private-round valuation. This [inflation](/inflation/) serves multiple constituencies: the target's existing investors (founders, venture backers) take outsized profits, the SPAC sponsor gets a big promote payout, and the transaction costs (lawyers, bankers) are covered. Public shareholders absorb the inflated valuation.
 
 For GIG, the key question is: did the underlying operating business justify its post-merger valuation? This is often impossible to determine because the SPAC merger announcement is full of forward-looking projections ("we expect to reach $100M revenue by 2028") that rarely materialize. By the time shareholders can assess whether projections were reasonable, the stock price has already fallen and the opportunity to exit at the merger-announcement price is gone.
 
 ## Dilution and Warrant Overhang
 
-Many SPACs issued warrants to investors—rights to buy additional shares at a set price. If the stock price rises above the warrant strike price, warrant holders will exercise, creating massive secondary dilution. If the stock price remains below the strike price, warrants are worthless, but they hang over the company like a threat: if the stock ever rallies, a dump of warrant exercises will crater the price again.
+Many SPACs issued warrants to investors—rights to buy additional shares at a set price. If the stock price rises above the warrant [strike price](/strike-price/), warrant holders will exercise, creating massive secondary dilution. If the stock price remains below the strike price, warrants are worthless, but they hang over the company like a threat: if the stock ever rallies, a dump of warrant exercises will crater the price again.
 
 GIG's cap table is likely burdened with warrant overhang from the SPAC raise. This is a drag on valuation; institutional investors avoid warrant-heavy SPACs because the overhang prevents price appreciation. Even if GIG's operating business improves, the warrant overhang can keep the stock depressed.
 
@@ -41,13 +41,13 @@ GIG's integration risk is opaque. The 10-K will disclose that a merger occurred 
 
 ## Accounting and Valuation Resets
 
-After a SPAC merger, the operating company's balance sheet is stepped up to fair value, and intangible assets (goodwill, deferred revenue adjustments) are recorded. These intangibles are subtracted from shareholders' equity; they also depreciate over time (amortization), reducing reported earnings. A company that looked profitable on a private-company cash-basis accounting may appear less profitable on a public-company GAAP basis.
+After a SPAC merger, the operating company's balance sheet is stepped up to [fair value](/fair-value/), and [intangible assets](/intangible-assets/) ([goodwill](/goodwill/), deferred revenue adjustments) are recorded. These intangibles are subtracted from shareholders' equity; they also depreciate over time ([amortization](/amortization/)), reducing reported earnings. A company that looked profitable on a private-company [cash-basis accounting](/cash-basis-accounting/) may appear less profitable on a public-company GAAP basis.
 
-GIG's post-merger [balance sheet](/balance-sheet/) is therefore not directly comparable to its pre-merger accounts. Shareholders who believed they were buying a company with $X in EBITDA should recalculate: public-company GAAP earnings will be lower due to amortization of deal-related intangibles and fair-value accounting adjustments.
+GIG's post-merger [balance sheet](/balance-sheet/) is therefore not directly comparable to its pre-merger accounts. Shareholders who believed they were buying a company with $X in [EBITDA](/ebitda/) should recalculate: public-company GAAP earnings will be lower due to amortization of deal-related intangibles and fair-value accounting adjustments.
 
 ## Management Continuity and Founder Lockup
 
-In most SPAC mergers, the target's founders receive equity in the merged company and agree to lockup periods (often 180 days) before they can sell. Once the lockup expires, founders can exit. If the stock price is down from the merger announcement, founders may still realize outsized profits on their pre-merger equity and exit, leaving public shareholders to manage the business alone.
+In most SPAC [mergers](/merger/), the target's founders receive equity in the merged company and agree to lockup periods (often 180 days) before they can sell. Once the lockup expires, founders can exit. If the stock price is down from the merger announcement, founders may still realize outsized profits on their pre-merger equity and exit, leaving public shareholders to manage the business alone.
 
 GIG's lockup situation is disclosed in filings; review whether key operational founders are still locked in, and when their lockup expires. A mass exit of founders immediately after lockup expiration is a red flag; it suggests that insiders are not confident in the business.
 
@@ -65,7 +65,7 @@ Review GIG's latest 10-K or 10-Q for disclosure of operating metrics: customer c
 
 ## What to Watch
 
-Monitor quarterly revenue trends and cash burn. A SPAC that continues to lose money and burn cash is on a timer; it will eventually exhaust capital and either need a costly capital raise or a shutdown. Track lockup expiration dates; founders departing after lockup expiration suggests lack of confidence.
+Monitor quarterly revenue trends and cash burn. A SPAC that continues to lose money and burn cash is on a timer; it will eventually exhaust capital and either need a costly capital raise or a shutdown. Track lockup [expiration dates](/expiration-contracts/); founders departing after lockup expiration suggests lack of confidence.
 
 Most importantly, assess whether GIG's operating business is actually better than the cost of the SPAC structure. A company that merged at a $500M valuation but is now worth $250M has destroyed $250M of shareholder value, regardless of how good the underlying business is. The SPAC sponsor got its promote, the target founders made their exit, and public shareholders were the residual claimant on a bad deal.
 

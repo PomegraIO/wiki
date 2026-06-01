@@ -47,7 +47,7 @@ MOGU operates entirely within China's regulatory environment, where e-commerce p
 
 MOGU's competitive moat derives from network effects: as more merchants broadcast, audience size grows; as audience grows, new merchants find platform participation worthwhile. The virtuous cycle works as long as MOGU maintains platform quality and avoids commission structures that drive merchants away. Merchants are not locked in contractually but rather through convenience and revenue performance—a merchant seeing sales growth stays; one experiencing margin pressure from high take-rates has lower switching costs than large marketplace operators believe.
 
-The SEC filing (CIK 1743971) reveals MOGU's gross margins, user metrics, and merchant acquisition costs—the key variables that determine whether the platform economics sustain growth or compress over time.
+The SEC filing (CIK 1743971) reveals MOGU's gross margins, user metrics, and merchant [acquisition](/acquisition/) costs—the key variables that determine whether the platform economics sustain growth or compress over time.
 
 ## How Merchants and Analysts Track MOGU
 

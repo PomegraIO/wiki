@@ -17,7 +17,7 @@ handwritten: true
 
 Janus Living's business centers on the management and operation of senior care communities. Rather than owning significant real estate (unlike traditional REITs), the company primarily operates facilities under management contracts or leases negotiated with property owners or owner-operators. This asset-light model defines much of its risk and profit profile: margins depend heavily on occupancy rates, average daily rates, and labor costs rather than property appreciation or long-term capital deployment.
 
-The company's communities serve different segments within the senior market. Assisted living communities [target](/tgt-stock/) independent seniors who need some support with daily activities—medication management, meals, housekeeping. Memory care units focus on residents with dementia or Alzheimer's disease, featuring specialized staffing, secure environments, and programming designed for that population. Some locations also operate skilled nursing beds, which provide higher-acuity care and typically command higher daily rates, though they entail more intensive regulatory oversight and staffing requirements.
+The company's communities serve different segments within the senior market. Assisted living communities target independent seniors who need some support with daily activities—medication management, meals, housekeeping. Memory care units focus on residents with dementia or Alzheimer's disease, featuring specialized staffing, secure environments, and programming designed for that population. Some locations also operate skilled nursing beds, which provide higher-acuity care and typically command higher daily rates, though they entail more intensive regulatory oversight and staffing requirements.
 
 ## Revenue Model and Profitability Drivers
 
@@ -27,7 +27,7 @@ Profitability is straightforward but labor-intensive. [Operating margins](/opera
 
 ## Competitive and Regulatory Environment
 
-The senior housing industry is fragmented, with large regional chains, mom-and-pop operators, and institutional real estate investors all competing for the same residents. Larger operators like Five Star Senior Living, Brookdale Senior Living, and national chains benefit from scale and purchasing power; smaller operators like Janus must compete on service quality, community reputation, and local market positioning.
+The senior housing industry is fragmented, with large regional chains, mom-and-pop operators, and institutional real estate investors all competing for the same residents. Larger operators like Five Star Senior Living, [Brookdale Senior Living](/bkd-stock/), and national chains benefit from scale and purchasing power; smaller operators like Janus must compete on service quality, community reputation, and local market positioning.
 
 Regulation is extensive. State licensing agencies oversee staffing ratios (varying by state and care type), training requirements, health and safety standards, and admissions processes. Medicare and Medicaid don't directly reimburse assisted living in most states, but they do fund skilled nursing and some therapy services, making reimbursement coding and billing accuracy important. Litigation and liability risk—slips and falls, medication errors, neglect claims—are ever-present and costly to defend or settle.
 

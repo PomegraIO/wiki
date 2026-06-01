@@ -4,7 +4,7 @@ description: "China-based bitcoin mining hardware manufacturer and digital asset
 keywords: [bitcoin, mining, hardware, China, cryptocurrency, ASIC, Ebang]
 ---
 
-*From its roots designing and manufacturing application-specific integrated circuits (ASICs) for Bitcoin mining, **Ebang International Holdings Inc. (EBON)** has positioned itself as a producer of specialized hardware in an industry where the capital intensity of mining operations has shifted competitive advantage toward vertically integrated players. The company's business has followed the arc of Bitcoin adoption and hardware obsolescence cycles, reflecting both the technical demands of proof-of-work consensus and the geographic concentration of mining in regions with cheap electricity.*
+*From its roots designing and manufacturing application-specific integrated circuits (ASICs) for [Bitcoin](/bitcoin/) mining, **Ebang International Holdings Inc. (EBON)** has positioned itself as a producer of specialized hardware in an industry where the capital intensity of mining operations has shifted competitive advantage toward vertically integrated players. The company's business has followed the arc of Bitcoin adoption and hardware obsolescence cycles, reflecting both the technical demands of proof-of-work consensus and the geographic concentration of mining in regions with cheap electricity.*
 
 <aside class="wiki-infobox">
 <table>
@@ -23,7 +23,7 @@ Ebang entered the competitive ASIC market after Bitcoin's price surge demonstrat
 
 ## Supply Chain and Manufacturing Reality
 
-The company manufactures its ASIC chips through foundries rather than owning fabrication plants. This outsourced approach lowers capital intensity but introduces dependency on semiconductor supply chains—a critical vulnerability when foundry capacity tightens or lead times extend. A reader preparing to analyze Ebang's 10-K should focus on gross margins by product line and the timeline between chip design and shipment; these lag indicators reveal whether the company can move from design through production in time to capture market demand before the next wave of hardware obsolescence. The form will disclose foundry partners and whether orders are confirmed or speculative.
+The company manufactures its ASIC chips through foundries rather than owning fabrication plants. This outsourced approach lowers capital intensity but introduces dependency [on semiconductor](/on-stock/) supply chains—a critical vulnerability when foundry capacity tightens or lead times extend. A reader preparing to analyze Ebang's 10-K should focus on gross margins by product line and the timeline between chip design and shipment; these lag indicators reveal whether the company can move from design through production in time to capture market demand before the next wave of hardware obsolescence. The form will disclose foundry partners and whether orders are confirmed or speculative.
 
 ## Geographic and Regulatory Constraints
 
@@ -31,7 +31,7 @@ Ebang's manufacturing and customer base have been deeply embedded in China, a ge
 
 ## Debt Structure and Capital Allocation
 
-Unlike many hardware manufacturers, Ebang has carried meaningful debt, particularly in periods of heavy capital spending on inventory or design cycles. The balance sheet reveals whether the company operates at leverage ratios typical of stable hardware suppliers or whether it is relying on high working capital turnover to service debt. Examine accounts receivable aging; if customers (typically mining pools or operations) are extending payment terms, that signals margin compression or a shift in negotiating power. The 10-K will also indicate whether the company is investing cash flows back into R&D for next-generation chips or distributing capital to shareholders.
+Unlike many hardware manufacturers, Ebang has carried meaningful debt, particularly in periods of heavy capital spending on inventory or design cycles. The [balance sheet](/balance-sheet/) reveals whether the company operates at [leverage ratios](/leverage-ratio-forex/) typical of stable hardware suppliers or whether it is relying on high working capital turnover to service debt. Examine [accounts receivable](/accounts-receivable/) aging; if customers (typically [mining pools](/mining-pool/) or operations) are extending payment terms, that signals margin compression or a shift in negotiating power. The 10-K will also indicate whether the company is investing cash flows back into R&D for next-generation chips or distributing capital to shareholders.
 
 ## Adjacent Revenue and Pivots
 
@@ -39,5 +39,5 @@ In response to margin pressure in pure hardware sales, Ebang has explored mining
 
 ## Key Metrics and Filing Deep-Dives
 
-The investor should prioritize understanding ASIC production volume, average selling price by product generation, manufacturing yield rates (if disclosed), customer concentration, and the pace of design cycles relative to industry standards. The cash flow statement reveals whether Ebang is building or depleting inventory; sustained inventory buildups amid rising cost of goods sold suggest the company is struggling to clear prior-generation stock before the next model launch. The MD&A section will discuss competitive positioning, product roadmap visibility, and headwinds from mining profitability—direct it to specific risk disclosures around regulatory and energy cost exposure.
+The investor should prioritize understanding ASIC production volume, average selling price by product generation, manufacturing yield rates (if disclosed), customer concentration, and the pace of design cycles relative to industry standards. The [cash flow statement](/cash-flow-statement/) reveals whether Ebang is building or depleting inventory; sustained inventory buildups amid rising cost of goods sold suggest the company is struggling to clear prior-generation stock before the next model launch. The MD&A section will discuss competitive positioning, product roadmap visibility, and headwinds from mining profitability—direct it to specific risk disclosures around regulatory and energy cost exposure.
 

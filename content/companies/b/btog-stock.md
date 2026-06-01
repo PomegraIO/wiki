@@ -4,7 +4,7 @@ description: "A cryptocurrency mining and data-center operation with equipment d
 keywords: ["cryptocurrency mining", "Bitcoin", "proof-of-work", "data center", "computing infrastructure", "hashrate"]
 ---
 
-*BIT ORIGIN Ltd (BTOG) operates computing infrastructure dedicated to cryptocurrency mining, primarily Bitcoin and other [common-stock](/common-stock/) blockchain networks using proof-of-work consensus mechanisms. The company generates revenue by solving cryptographic puzzles, earning newly minted coins and transaction fees, then converting a portion to fiat or holding strategically depending on market conditions and capital needs.*
+*BIT ORIGIN Ltd (BTOG) operates computing infrastructure dedicated to cryptocurrency mining, primarily [Bitcoin](/bitcoin/) and other [common-stock](/common-stock/) blockchain networks using proof-of-work consensus mechanisms. The company generates revenue by solving cryptographic puzzles, earning newly minted coins and transaction fees, then converting a portion to fiat or holding strategically depending on market conditions and capital needs.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BTOG</td></tr>
@@ -40,11 +40,11 @@ To grow hashrate, BIT ORIGIN must buy new ASICs (expensive) and secure space in 
 
 ## Debt and Financial Structure
 
-Many miners have taken on substantial debt to fund expansion. The 10-K will show any loan agreements, the interest rates, and covenants (conditions the lender requires be met). If BIT ORIGIN has borrowed against its Bitcoin holdings (using crypto as collateral), that introduces liquidation risk—if Bitcoin prices fall sharply, the lender may sell the collateral, forcing a loss. Review the debt maturity schedule: when are payments due, and will the company's cash flow cover them? Also check for any variable-rate debt tied to energy prices or commodity indices—that adds complexity.
+Many miners have taken on substantial debt to fund expansion. The 10-K will show any loan agreements, the [interest rates](/interest-rate/), and covenants (conditions the lender requires be met). If BIT ORIGIN has borrowed against its Bitcoin holdings (using crypto as collateral), that introduces [liquidation](/liquidation/) risk—if Bitcoin prices fall sharply, the lender may sell the collateral, forcing a loss. Review the debt maturity schedule: when are payments due, and will the company's cash flow cover them? Also check for any variable-rate debt tied to energy prices or commodity indices—that adds complexity.
 
 ## Selling Pressure and Insider Activity
 
-The 10-K should disclose insider holdings and any sales by management or large shareholders. If insiders are selling aggressively, that can signal lack of confidence. Conversely, if insiders are buying or holding, that is often a positive signal. Also watch for share dilution: if the company has issued significant equity to raise capital recently, that dilutes existing shareholders and is worth noting.
+The 10-K should disclose insider holdings and any sales by management or large shareholders. If insiders are selling aggressively, that can signal lack of confidence. Conversely, if insiders are buying or holding, that is often a positive signal. Also watch for [share dilution](/share-dilution/): if the company has issued significant equity to raise capital recently, that dilutes existing shareholders and is worth noting.
 
 ## Path to Scale and Long-Term Strategy
 

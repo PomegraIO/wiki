@@ -17,9 +17,9 @@ keywords: ["mining", "copper", "exploration", "mineral resources", "junior miner
 
 ## Exploration and the path to a mine
 
-Mining companies come in layers. Large, integrated producers like Freeport-McMoRan or Teck Resources own multiple operating mines and generate billions in revenue. Mid-sized developers own one or two mines in production or late-stage development. Junior explorers like KORYX own mineral claims and drill properties at an early stage. The exploration model is risk-tilted: for every property that becomes a mine, dozens are abandoned or sold off at a loss because the ore body is not economic or does not exist in sufficient quantity.
+Mining companies come in layers. Large, integrated producers like Freeport-McMoRan or [Teck Resources](/teck-stock/) own multiple operating mines and generate billions in revenue. Mid-sized developers own one or two mines in production or late-stage development. Junior explorers like KORYX own mineral claims and drill properties at an early stage. The exploration model is risk-tilted: for every property that becomes a mine, dozens are abandoned or sold off at a loss because the ore body is not economic or does not exist in sufficient quantity.
 
-KORYX's business cycle is drilling and reporting. The company stakes or acquires rights to mineral claims (usually in stable mining jurisdictions like Canada, Australia, or the American West). It sends geologists and contractors to drill core samples. Assay labs analyze the samples and report results: the presence of copper and the concentration at depth. If results are positive, KORYX drills more systematically to define the resource. If results are poor or the deposit is small, the property is dropped and the company moves on.
+KORYX's [business cycle](/business-cycle/) is drilling and reporting. The company stakes or acquires rights to mineral claims (usually in stable mining jurisdictions like Canada, Australia, or the American West). It sends geologists and contractors to drill core samples. Assay labs analyze the samples and report results: the presence of copper and the concentration at depth. If results are positive, KORYX drills more systematically to define the resource. If results are poor or the deposit is small, the property is dropped and the company moves on.
 
 ## Funding the exploration pipeline
 
@@ -29,21 +29,21 @@ KORYX's [balance sheet](/balance-sheet/) shows how much cash the company has and
 
 ## Commodity price dependency
 
-Copper prices move with industrial demand and macroeconomic conditions. When the global economy grows, construction and manufacturing rise, copper demand increases, and prices move higher. When recession hits, demand falls and prices collapse. KORYX does not generate revenue from mines, so the company does not directly benefit from high copper prices. However, high copper prices make exploration more attractive to investors, because the economics of potential ore bodies improve. When copper trades at $4 per pound, a deposit must be large and high-grade to be economic. When copper trades at $1.50 per pound, many prospects become uneconomic and funding dries up.
+Copper prices move with industrial demand and macroeconomic conditions. When the global economy grows, construction and manufacturing rise, copper demand increases, and prices move higher. When [recession](/recession/) hits, demand falls and prices collapse. KORYX does not generate revenue from mines, so the company does not directly benefit from high copper prices. However, high copper prices make exploration more attractive to investors, because the economics of potential ore bodies improve. When copper trades at $4 per pound, a deposit must be large and high-grade to be economic. When copper trades at $1.50 per pound, many prospects become uneconomic and funding dries up.
 
-This dynamic creates a boom-and-bust cycle in junior mining. During commodity booms, capital flows in, many junior explorers launch drill programs, and some properties advance. During busts, capital evaporates, drilling slows, and junior miners with weak funding run out of money.
+This dynamic creates a boom-and-bust cycle in junior mining. During commodity booms, [capital flows](/capital-flows/) in, many junior explorers launch drill programs, and some properties advance. During busts, capital evaporates, drilling slows, and junior miners with weak funding run out of money.
 
 ## Property valuation and optionality
 
 KORYX's value is concentrated in its mineral properties and exploration results. Investors buy the stock betting that one of KORYX's properties will yield a significant ore body that either becomes a mine or attracts a takeover bid from a larger miner. The company's 10-K and technical reports disclose the location of properties, exploration results to date, and management's assessment of prospectivity. This information is material to valuation but is also speculative—an early-stage property has no guaranteed value.
 
-A junior miner's business model is often acquisition or merger. If KORYX's flagship property shows an economic ore body, a mid-sized or major mining company may offer to buy KORYX outright. Shareholders sell their shares at a premium, and management and early investors reap the rewards. This outcome is rare but possible and is often the implicit bet for investors in junior explorers.
+A junior miner's business model is often [acquisition](/acquisition/) or [merger](/merger/). If KORYX's flagship property shows an economic ore body, a mid-sized or major mining company may offer to buy KORYX outright. Shareholders sell their shares at a premium, and management and early investors reap the rewards. This outcome is rare but possible and is often the implicit bet for investors in junior explorers.
 
 ## Operational and regulatory risk
 
 Mining is heavily regulated. Explorers must obtain permits, comply with environmental regulations, and negotiate agreements with indigenous peoples and local governments. A promising property can be delayed or killed by permitting issues or community opposition. KORYX's [10-K](/10-k/) will disclose the jurisdictions and regulatory regimes it operates in and any material delays or permitting challenges.
 
-Environmental liability is also real. If a mine operated by a company goes bankrupt or causes environmental damage, the company and sometimes its shareholders can face cleanup costs. KORYX, as an early-stage explorer, is less exposed to this than an operating miner, but it is a long-term consideration.
+[Environmental liability](/environmental-liability/) is also real. If a mine operated by a company goes bankrupt or causes environmental damage, the company and sometimes its shareholders can face cleanup costs. KORYX, as an early-stage explorer, is less exposed to this than an operating miner, but it is a long-term consideration.
 
 ## Competitive position
 

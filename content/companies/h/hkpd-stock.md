@@ -36,7 +36,7 @@ Raw materials and active pharmaceutical ingredients (APIs) must also comply: if 
 
 ## Import/Export and Customs Clearance
 
-If Cellyan manufactures drugs in China for export (or imports APIs from overseas suppliers), the company must clear Chinese customs. Export of pharmaceuticals requires documentation that the drug is approved for sale (or that export is for clinical trials), and importing APIs requires import permits from NMPA. Tariffs apply, and customs brokers must classify materials correctly. Delays in customs clearance can disrupt trial timelines.
+If Cellyan manufactures drugs in China for export (or imports APIs from overseas suppliers), the company must clear Chinese customs. Export of pharmaceuticals requires documentation that the drug is approved for sale (or that export is for clinical trials), and importing APIs requires import permits from NMPA. Tariffs apply, and customs [brokers](/broker/) must classify materials correctly. Delays in customs clearance can disrupt trial timelines.
 
 ## Intellectual Property Protection in China
 
@@ -48,7 +48,7 @@ Trade secrets present another risk: China has historically had weaker trade-secr
 
 As an SEC-registered foreign company, **Cellyan** must file annual 20-F reports (instead of 10-Ks) disclosing results, risks, and material events. The SEC requires that Cellyan disclose China-specific risks: political instability, foreign investment restrictions, changes to Chinese healthcare policy, and regulatory uncertainty. Cellyan must also disclose if Chinese government agencies have initiated investigations or imposed penalties.
 
-The SEC's Sarbanes-Oxley Act requirements apply; Cellyan must maintain internal controls over financial reporting and obtain external auditor attestation. However, foreign private issuers like Cellyan often file on less frequent schedules and with scaled-back disclosure compared to U.S. domestic companies.
+The SEC's [Sarbanes-Oxley Act](/sarbanes-oxley-act/) requirements apply; Cellyan must maintain internal controls over financial reporting and obtain external auditor attestation. However, foreign private issuers like Cellyan often file on less frequent schedules and with scaled-back disclosure compared to U.S. domestic companies.
 
 SEC staff have also issued guidance on accounting standards: Cellyan must use either U.S. GAAP or IFRS. If Cellyan reports in RMBS (China's local accounting standard), it must provide a reconciliation to GAAP or IFRS so American investors can compare fairly.
 

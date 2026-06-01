@@ -25,7 +25,7 @@ Harte-Hanks operates through distinct but overlapping segments. Direct mail and 
 
 The contact-center and customer-care business runs inbound and outbound call operations: customer service for retail and telecom clients, appointment setting, technical support, and survey work. This requires substantial labor infrastructure and recurring client relationships.
 
-Data and marketing technology, the higher-margin aspiration, centers on audience databases, customer analytics, and platforms that help clients understand who to [target](/tgt-stock/) and how. This segment has been invested in but remains small relative to the legacy operations.
+Data and marketing technology, the higher-margin aspiration, centers on audience databases, customer analytics, and platforms that help clients understand who to target and how. This segment has been invested in but remains small relative to the legacy operations.
 
 Invoicing flows from project fees, hourly labor billing in contact centers, and per-unit charges for print and mail volumes. Revenue is therefore sensitive to client budgets, the volume of campaigns, and utilization rates in call centers — all cyclical and competitive.
 

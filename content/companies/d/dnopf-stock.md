@@ -4,7 +4,7 @@ description: "A Polish oil and gas company that explores for and produces petrol
 keywords: ["oil and gas", "Poland", "energy", "petroleum exploration", "ADR"]
 ---
 
-*Dino Polska is a **Polish oil and gas exploration and production company** whose stock trades in the United States as an American Depositary Receipt under the ticker **DNOPF**. The company searches for oil and natural gas in the Baltic Sea and other European waters and in onshore Polish territory. It does not refine oil or sell gasoline at retail. Instead, it finds crude oil and gas reserves, develops them, and sells the raw commodities to refineries and energy distributors.*
+*Dino Polska is a **Polish oil and gas exploration and production company** whose stock trades in the United States as an [American Depositary Receipt](/adr/) under the ticker **DNOPF**. The company searches for oil and [natural gas](/natural-gas/) in the Baltic Sea and other European waters and in onshore Polish territory. It does not refine oil or sell gasoline at retail. Instead, it finds [crude oil](/crude-oil/) and gas reserves, develops them, and sells the raw commodities to refineries and energy distributors.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DNOPF</td></tr>

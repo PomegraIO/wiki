@@ -40,6 +40,6 @@ Even if LianBio successfully develops a drug and wins regulatory approval, the c
 
 ## The Margin Horizon
 
-LianBio's path to positive net margin is long and uncertain. The company must fund drug development over 5–10 years, achieve regulatory approval (no guarantee), scale manufacturing, establish market presence, and generate steady sales. If successful in even one major program, the company can pivot toward profitability. If multiple programs fail or are abandoned, or if approved drugs do not achieve adequate market adoption, LianBio may never reach positive margin and will become acquisition or bankruptcy target.
+LianBio's path to positive net margin is long and uncertain. The company must fund drug development over 5–10 years, achieve regulatory approval (no guarantee), scale manufacturing, establish market presence, and generate steady sales. If successful in even one major program, the company can pivot toward profitability. If multiple programs fail or are abandoned, or if approved drugs do not achieve adequate market adoption, LianBio may never reach positive margin and will become [acquisition](/acquisition/) or bankruptcy target.
 
 This is the standard biotech trajectory: years of capital consumption, high risk, and eventual profitability (if things work out) or failure (if they do not). LianBio's strategic positioning in Asia and emerging markets is sensible and potentially valuable, but it does not change the fundamental uncertainty of drug development or the capital intensity of bringing new therapeutics to market.

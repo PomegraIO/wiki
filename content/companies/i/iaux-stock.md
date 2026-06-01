@@ -67,7 +67,7 @@ I-80's ability to maintain positive relationships with local communities and reg
 
 I-80 does not have the capital to build and operate mines itself. Its business model depends on advancing projects to the point where a major mining company (Newmont, Barrick, Kinross, or a wealthy private equity firm) acquires the project or the company itself.
 
-This creates a fundamental dependency: I-80's value is realized only if external capital is available and willing to invest in mining development. During periods when gold prices are high or when mining investments are in favor, acquisition demand is strong, and exploration company valuations rise. During periods when gold is out of favor or when mining industry capital is tight, acquisition demand falls, and exploration companies are valued at near cash levels.
+This creates a fundamental dependency: I-80's value is realized only if external capital is available and willing to invest in mining development. During periods when gold prices are high or when mining investments are in favor, [acquisition](/acquisition/) demand is strong, and exploration company valuations rise. During periods when gold is out of favor or when mining industry capital is tight, acquisition demand falls, and exploration companies are valued at near cash levels.
 
 I-80's shareholders benefit if the company discovers or develops a world-class deposit that can be sold at a premium valuation. They suffer if the company spends years and capital on exploration that fails to define a mineable deposit, or if the company defines a deposit just as mining capital markets close.
 
@@ -81,9 +81,9 @@ Some exploration companies transition to becoming producers themselves, retainin
 
 ## Capital Structure and Funding Exploration
 
-I-80 funds exploration through a combination of equity offerings, debt, and sometimes joint ventures with larger miners who co-fund exploration in exchange for a call option on the project.
+I-80 funds exploration through a combination of equity offerings, debt, and sometimes joint ventures with larger miners who co-fund exploration in exchange for a [call option](/call-option/) on the project.
 
 Early-stage exploration is typically funded by equity (shares), because the risk is high and no lender will fund uncertain exploration. As a project advances and risk decreases, debt becomes available. Some projects are optioned or joint-ventured with larger miners, who assume some exploration costs and risk.
 
-The ability to raise equity capital depends on investor appetite for exploration companies. During bull markets in precious metals, exploration company stocks trade at high valuations relative to cash burn and geological risk. During bear markets, exploration company funding dries up, and many companies run out of cash before reaching development stage.
+The ability to raise equity capital depends on investor appetite for exploration companies. During [bull markets](/bull-market/) in precious metals, exploration company stocks trade at high valuations relative to cash burn and geological risk. During [bear markets](/bear-market/), exploration company funding dries up, and many companies run out of cash before reaching development stage.
 

@@ -21,7 +21,7 @@ Longduoduo operates in the so-called social commerce segment, a distinctly Chine
 
 ## Platform Economics and User Dynamics
 
-The business rests on virality and engagement. Users are incentivized to invite friends and family to join purchasing groups—the more people in a group, the larger the discount. This referral mechanic has historically driven user acquisition at low cost. To sustain growth, Longduoduo invests in gamification (lucky draws, coupons, streaks) and content that keeps users opening the app daily. Daily active users (DAU) and engagement metrics (time spent, transactions per user) are the company's operating heartbeat. The Chinese consumer internet market is saturated, however—major platforms like WeChat, Douyin (TikTok), Taobao, and others command enormous shares of screen time. Longduoduo must continually refresh engagement mechanics and offer deal advantages over rivals to retain and grow its user base.
+The business rests on virality and engagement. Users are incentivized to invite friends and family to join purchasing groups—the more people in a group, the larger the discount. This referral mechanic has historically driven user [acquisition](/acquisition/) at low cost. To sustain growth, Longduoduo invests in gamification (lucky draws, coupons, streaks) and content that keeps users opening the app daily. Daily active users (DAU) and engagement metrics (time spent, transactions per user) are the company's operating heartbeat. The Chinese consumer internet market is saturated, however—major platforms like WeChat, Douyin (TikTok), Taobao, and others command enormous shares of screen time. Longduoduo must continually refresh engagement mechanics and offer deal advantages over rivals to retain and grow its user base.
 
 ## Competitive Environment and Market Position
 
@@ -41,7 +41,7 @@ Early in Longduoduo's life, referral mechanics drove fast, cheap user acquisitio
 
 ## Financial Exposure and Uncertainty
 
-Foreign investors in Longduoduo face currency exposure, regulatory exposure, and liquidity exposure. The company reports in dollars for U.S. [stock](/stock/) exchange purposes, but earnings are generated in yuan. Regulatory changes in China—restrictions on mergers, data export, or profit repatriation—can affect shareholder returns. The company's reliance on a single market (China) and a single product (the social commerce platform) creates concentration risk. Unlike diversified platforms, Longduoduo has limited revenue streams; an adverse shift in user demand or regulatory pressure has no offsetting business to cushion it.
+Foreign investors in Longduoduo face currency exposure, regulatory exposure, and liquidity exposure. The company reports in dollars for U.S. [stock](/stock/) exchange purposes, but earnings are generated in yuan. Regulatory changes in China—restrictions on [mergers](/merger/), data export, or profit repatriation—can affect shareholder returns. The company's reliance on a single market (China) and a single product (the social commerce platform) creates [concentration risk](/concentration-risk/). Unlike diversified platforms, Longduoduo has limited revenue streams; an adverse shift in user demand or regulatory pressure has no offsetting business to cushion it.
 
 ## What to Research
 

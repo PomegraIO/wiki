@@ -62,7 +62,7 @@ Biopharmaceutical companies live with clinical risk. Every drug in Genmab's pipe
 
 Regulatory risk is equally real. Approval from the FDA or the European Medicines Agency is not guaranteed, even for drugs that have shown promising early data. A clinical hold, a request for additional studies, or an outright rejection can halt progress and consume years and hundreds of millions of dollars.
 
-Competition in monoclonal antibodies and bispecific antibodies has intensified markedly. Genmab is no longer alone in this space; large pharma companies and other biotech firms have built robust antibody-discovery programs. Differentiation increasingly depends on the quality and novelty of the antibody designs and the [target](/tgt-stock/) selection — getting the right antibody against the right disease at the right moment.
+Competition in monoclonal antibodies and bispecific antibodies has intensified markedly. Genmab is no longer alone in this space; large pharma companies and other biotech firms have built robust antibody-discovery programs. Differentiation increasingly depends on the quality and novelty of the antibody designs and the target selection — getting the right antibody against the right disease at the right moment.
 
 Patent cliffs are another long-term concern. Drugs approved a decade or more ago will eventually lose patent protection, allowing generic (or biosimilar) versions to enter the market at much lower prices. Daratumumab faces this reality; ensuring that newer drugs in the portfolio reach peak sales before patent exclusivity expires is central to long-term value creation.
 

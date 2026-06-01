@@ -25,7 +25,7 @@ Without access to the company's detailed customer roster, the risk profile of it
 
 ## Perpetual Product Adoption Cycles
 
-Unlike subscription SaaS with high switching costs, network detection software faces a hard problem: it must prove demonstrable security value against the baseline alternative (nothing). Buyers delay adoption or go years without upgrading if they believe current tools suffice. Intrusion cannot count on recurring revenue expansion through usage or seat proliferation the way a Slack or Okta can. Each renewal is a renegotiation, not a default yes. This makes growth fragile and sales expense high, and it leaves the company vulnerable to any competitor offering similar detection via open-source or freemium models.
+Unlike subscription SaaS with high switching costs, network detection software faces a hard problem: it must prove demonstrable security value against the baseline alternative (nothing). Buyers delay adoption or go years without upgrading if they believe current tools suffice. Intrusion cannot count on recurring revenue expansion through usage or seat proliferation the way a Slack or [Okta](/okta-stock/) can. Each renewal is a renegotiation, not a default yes. This makes growth fragile and sales expense high, and it leaves the company vulnerable to any competitor offering similar detection via open-source or freemium models.
 
 ## Technology Risk and AI Commoditization
 
@@ -37,7 +37,7 @@ As a public company in cybersecurity, Intrusion faces disclosure obligations abo
 
 ## Capital Demands and Runway Risk
 
-Cybersecurity R&D is capital-intensive and relentless. To remain competitive against vendors with billions in backing, Intrusion must fund continuous model retraining, threat research, and infrastructure. Smaller publicly traded software firms often trade at low multiples, making equity fundraising expensive. If the company burns cash faster than it generates revenue (a real risk in high-growth but unprofitable software), equity dilution or debt issuance becomes necessary. A prolonged market downturn that depresses the stock price while increasing runway consumption would put the company in a weak position to raise capital and may force strategic alternatives (acquisition, asset sales) on unfavorable terms.
+Cybersecurity R&D is capital-intensive and relentless. To remain competitive against vendors with billions in backing, Intrusion must fund continuous model retraining, threat research, and infrastructure. Smaller publicly traded software firms often trade at low multiples, making equity fundraising expensive. If the company burns cash faster than it generates revenue (a real risk in high-growth but unprofitable software), equity dilution or debt issuance becomes necessary. A prolonged market downturn that depresses the stock price while increasing runway consumption would put the company in a weak position to raise capital and may force strategic alternatives ([acquisition](/acquisition/), asset sales) on unfavorable terms.
 
 <div class="wiki-seealso">
 ### Closely related

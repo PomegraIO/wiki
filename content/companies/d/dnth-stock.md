@@ -23,7 +23,7 @@ The company also explores gene-therapy approaches, where a corrected gene is del
 
 ## Clinical development and the path to approval
 
-Dianthus is currently advancing candidates through clinical trials. Regulatory approval in the United States requires demonstration of safety and efficacy in human subjects through a sequence of clinical phases: Phase 1 studies establish basic safety in a small number of patients; Phase 2 tests efficacy and further refines safety in a larger cohort; Phase 3 is a larger, controlled trial designed to prove superiority over existing treatments or to establish a clear benefit in a [target](/tgt-stock/) population. Only after Phase 3 success can a company file for FDA approval.
+Dianthus is currently advancing candidates through clinical trials. Regulatory approval in the United States requires demonstration of safety and efficacy in human subjects through a sequence of clinical phases: Phase 1 studies establish basic safety in a small number of patients; Phase 2 tests efficacy and further refines safety in a larger cohort; Phase 3 is a larger, controlled trial designed to prove superiority over existing treatments or to establish a clear benefit in a target population. Only after Phase 3 success can a company file for FDA approval.
 
 For cell and gene therapies, the regulatory path is somewhat different from traditional drugs. These are classified as biological products, and the FDA has specific guidance on their development. The trials are often smaller than for drugs because the patient populations with rare genetic disorders are smaller, and because the severity of the disease — sickle cell and beta-thalassemia are serious, life-limiting conditions — creates clinical urgency that can accelerate review.
 

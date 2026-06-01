@@ -45,7 +45,7 @@ As Intrepid's most promising projects advance, the company commissions feasibili
 
 ## Competitive Landscape: Junior Miners and Major Corporations
 
-Intrepid competes against thousands of other junior explorers globally, each pursuing discoveries in their own territories. It also competes for attention—investor capital, management talent, and board advisory positions—against better-known or more successful junior miners. The company's competitive differentiation is narrow: location of its projects, the geological soundness of its claims, and the track record of management. In a thematic bull market for battery metals, many junior miners attract capital and stock appreciation even without discoveries. In a bear market, only companies with high-quality projects or major partnerships survive. Intrepid's position in the competitive landscape is fluid and dependent on both asset quality and market sentiment.
+Intrepid competes against thousands of other junior explorers globally, each pursuing discoveries in their own territories. It also competes for attention—investor capital, management talent, and board advisory positions—against better-known or more successful junior miners. The company's competitive differentiation is narrow: location of its projects, the geological soundness of its claims, and the track record of management. In a thematic [bull market](/bull-market/) for battery metals, many junior miners attract capital and stock appreciation even without discoveries. In a [bear market](/bear-market/), only companies with high-quality projects or major partnerships survive. Intrepid's position in the competitive landscape is fluid and dependent on both asset quality and market sentiment.
 
 ## Environmental, Social, and Governance Considerations
 

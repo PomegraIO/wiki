@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Planet Labs operates the world's largest constellation of Earth-imaging satellites, deploying specialized cameras in low Earth orbit to capture detailed imagery of the planet's surface on a continuous basis. The San Francisco-headquartered company went public via SPAC merger in late 2021 and has positioned itself at the intersection of space infrastructure, geospatial intelligence, and climate monitoring—a market expanding as governments, enterprises, and NGOs increasingly rely on real-time satellite data for decision-making.
+Planet Labs operates the world's largest constellation of Earth-imaging satellites, deploying specialized cameras in low Earth orbit to capture detailed imagery of the planet's surface on a continuous basis. The San Francisco-headquartered company went public via SPAC [merger](/merger/) in late 2021 and has positioned itself at the intersection of space infrastructure, geospatial intelligence, and climate monitoring—a market expanding as governments, enterprises, and NGOs increasingly rely on real-time satellite data for decision-making.
 
 The core business revolves around collecting, processing, and licensing satellite imagery at scale. Unlike traditional remote-sensing operators that might image a region once every few weeks or months, Planet's architecture emphasizes daily coverage of most of Earth's land surface. This cadence makes the product valuable for use cases where timing matters: tracking crop health in agriculture, monitoring deforestation in real time, observing urban sprawl and construction, detecting changes in infrastructure, and supporting humanitarian and climate research.
 

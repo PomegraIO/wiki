@@ -33,7 +33,7 @@ If Liberty Gold has advanced a property to the resource estimation stage, the [1
 
 ## Cash Position and Financing Runway
 
-Unlike a producing mining company or industrial operator with cash flow, Liberty Gold must regularly raise capital to fund exploration. The [10-K](/10-k/) will disclose cash and equivalents on hand and operating cash burn (the company's negative cash flow from exploration and administrative activities). If cash position is low and the company has not recently completed a financing, near-term dilution risk is high—the company will likely announce a capital raise at whatever share price the market will bear. If the company recently closed a well-funded private placement or has announced a major financing commitment, it has runway to execute its exploration program. The source of funding (equity, debt, or government grants) and any terms (dilution to current shareholders, warrants, or preferred features) also affect shareholder value.
+Unlike a producing mining company or industrial operator with cash flow, Liberty Gold must regularly raise capital to fund exploration. The [10-K](/10-k/) will disclose cash and equivalents on hand and operating cash burn (the company's negative cash flow from exploration and administrative activities). If cash position is low and the company has not recently completed a financing, near-term dilution risk is high—the company will likely announce a capital raise at whatever share price the market will bear. If the company recently closed a well-funded [private placement](/private-placement/) or has announced a major financing commitment, it has runway to execute its exploration program. The source of funding (equity, debt, or government grants) and any terms (dilution to current shareholders, warrants, or preferred features) also affect shareholder value.
 
 ## Management and Technical Team Expertise
 
@@ -45,7 +45,7 @@ Although Canada offers a stable regulatory and political environment for mining,
 
 ## Valuation and Market Sentiment Dependency
 
-Junior gold explorers' stock prices are notoriously volatile and depend heavily on sentiment toward junior mining stocks, gold prices, and news flow about drilling results. Liberty Gold's share price can double on good drill news or halve on poor results or market-wide sector rotation. The [10-K](/10-k/) does not directly address share price volatility, but investors should understand that they are taking both geological exploration risk (will the company find an economic ore body?) and market sentiment risk (how will investors value the company if exploration is successful?). Companies with successful discoveries are often taken over by larger miners, which can result in attractive shareholder returns; those that fail to deliver discoveries may be forced to consolidate with other explorers or wind down.
+Junior gold explorers' stock prices are notoriously volatile and depend heavily on sentiment toward junior mining stocks, gold prices, and news flow about drilling results. Liberty Gold's share price can double on good drill news or halve on poor results or market-wide [sector rotation](/sector-rotation/). The [10-K](/10-k/) does not directly address share price volatility, but investors should understand that they are taking both geological exploration risk (will the company find an economic ore body?) and market sentiment risk (how will investors value the company if exploration is successful?). Companies with successful discoveries are often taken over by larger miners, which can result in attractive shareholder returns; those that fail to deliver discoveries may be forced to consolidate with other explorers or wind down.
 
 ## Peer Comparison and Relative Positioning
 
@@ -63,5 +63,5 @@ Liberty Gold's value relative to peers depends on the quality of its properties,
 ### Wider context
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) oversight of Canadian mining companies
 - Indigenous consultation and environmental requirements in Canadian mining
-- Merger and acquisition trends in the junior mining sector
+- [Merger](/merger/) and [acquisition](/acquisition/) trends in the junior mining sector
 </div>

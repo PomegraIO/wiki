@@ -61,7 +61,7 @@ The unit economics of a language-learning platform are inherently favorable. The
 
 ## Content and the educator network
 
-Duolingo's content — the language lessons themselves — is the heart of the product. Creating content for dozens of languages at high quality is expensive and complicated. Each language team includes linguists, native speakers, teachers, and engineers. Each lesson must be linguistically rigorous, engaging, and appropriate for the [target](/tgt-stock/) proficiency level.
+Duolingo's content — the language lessons themselves — is the heart of the product. Creating content for dozens of languages at high quality is expensive and complicated. Each language team includes linguists, native speakers, teachers, and engineers. Each lesson must be linguistically rigorous, engaging, and appropriate for the target proficiency level.
 
 To scale content creation, Duolingo has experimented with crowdsourced contributions. Fluent speakers can contribute lessons and exercises for their language. This makes Duolingo more community-driven and reduces the cost of expanding to new languages. But it also requires careful quality control — community-contributed content must be reviewed by experts.
 

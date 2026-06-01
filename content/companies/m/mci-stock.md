@@ -12,7 +12,7 @@ handwritten: true
 
 Barings Corporate Investors is a [closed-end fund](/wiki/closed-end-fund/) that operates in the rarefied world of privately placed corporate debt. Rather than trading stocks on public exchanges or holding liquid public [bonds](/bond/), MCI seeks returns by investing directly in the debt securities of companies that cannot easily raise capital in open markets. The fund offers a specific appeal to investors willing to accept illiquidity in exchange for the higher yields that come from lending to businesses below investment grade.
 
-The fund's [target](/tgt-stock/) investments are corporate debt instruments that would typically be labeled as speculative or non-investment-grade—securities issued by companies with weaker credit profiles, higher leverage, or both. These borrowers come to the private market because they cannot obtain credit at reasonable rates in public bond markets, or because their financing needs are too specialized or small for a public issuance. Barings, as the manager, packages these loans and debt investments into a vehicle that distributes income to shareholders quarterly.
+The fund's target investments are corporate debt instruments that would typically be labeled as speculative or non-investment-grade—securities issued by companies with weaker credit profiles, higher leverage, or both. These borrowers come to the private market because they cannot obtain credit at reasonable rates in public bond markets, or because their financing needs are too specialized or small for a public issuance. Barings, as the manager, packages these loans and debt investments into a vehicle that distributes income to shareholders quarterly.
 
 **Why a closed-end fund structure matters**
 

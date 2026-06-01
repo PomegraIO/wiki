@@ -4,7 +4,7 @@ description: "A biotechnology company focused on discovering and developing smal
 keywords: ["biotech", "drug development", "small-molecule", "research pipeline", "clinical trials", "SEC filing"]
 ---
 
-*Lakefront Biotherapeutics NV (**GLPG**) is a public biotechnology enterprise headquartered in Belgium that conducts scientific research and clinical trial operations across multiple therapeutic areas, translating laboratory discoveries into medicines tested in human subjects. The company operates a portfolio of compounds in various stages of preclinical and clinical development, managing the disciplines of chemistry, pharmacology, and regulatory compliance that characterize modern drug discovery.*
+*[Lakefront Biotherapeutics](/lkft-stock/) NV (**GLPG**) is a public biotechnology enterprise headquartered in Belgium that conducts scientific research and clinical trial operations across multiple therapeutic areas, translating laboratory discoveries into medicines tested in human subjects. The company operates a portfolio of compounds in various stages of preclinical and clinical development, managing the disciplines of chemistry, pharmacology, and regulatory compliance that characterize modern drug discovery.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLPG</td></tr>

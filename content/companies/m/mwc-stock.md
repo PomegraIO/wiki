@@ -24,7 +24,7 @@ keywords:
 
 ## The Japanese Capital Model
 
-Japanese companies are historically conservative with equity issuance and cautious about leverage, reflecting post-bubble balance-sheet discipline and cultural preference for retained earnings over external financing. Micware's capital structure likely reflects this pattern: substantial book value per share built from decades of retained earnings, moderate debt relative to equity, and cash reserves held to weather cyclical downturns without forced asset sales or emergency financing. This approach to capital is less aggressive than US peers but more stable and less vulnerable to market disruption.
+Japanese companies are historically conservative with equity issuance and cautious about leverage, reflecting post-bubble balance-sheet discipline and cultural preference for [retained earnings](/retained-earnings/) over external financing. Micware's capital structure likely reflects this pattern: substantial book value per share built from decades of retained earnings, moderate debt relative to equity, and cash reserves held to weather cyclical downturns without forced asset sales or emergency financing. This approach to capital is less aggressive than US peers but more stable and less vulnerable to market disruption.
 
 ## Asset-Heavy Business and Depreciation
 
@@ -32,11 +32,11 @@ Technology firms in Japan often operate asset-intensive businesses—semiconduct
 
 ## Dividend Culture and Cash Return
 
-Japanese corporations traditionally return capital to shareholders through dividends rather than [share buybacks](/share-buyback/), and they often maintain stable or slowly growing dividends even through downturns, signaling commitment to shareholders. If Micware pays a dividend, that figure reflects management's confidence in sustainable cash generation and willingness to prioritize shareholder returns alongside growth. The [dividend yield](/dividend-yield/)—the annual payout as a percentage of share price—attracts income-focused investors and constrains the company's flexibility for large one-time expenditures, acquisitions, or debt repayment without changing the payout policy.
+Japanese corporations traditionally return capital to shareholders through dividends rather than [share buybacks](/share-buyback/), and they often maintain stable or slowly growing dividends even through downturns, signaling commitment to shareholders. If Micware pays a dividend, that figure reflects management's confidence in sustainable cash generation and willingness to prioritize shareholder returns alongside growth. The [dividend yield](/dividend-yield/)—the annual payout as a percentage of share price—attracts income-focused investors and constrains the company's flexibility for large one-time expenditures, [acquisitions](/acquisition/), or debt repayment without changing the payout policy.
 
 ## The Debt-to-Equity Profile
 
-Micware's debt levels relative to equity show how conservatively or aggressively management funds the business. A [debt-to-equity ratio](/debt-to-equity-ratio/) near 0.5 or lower is typical of strong Japanese companies, signaling financial stability and an ability to raise capital during downturns. A higher ratio—closer to 1.0 or above—indicates either aggressive expansion funded by borrowing or a business with limited cash generation relative to capital needs. The interest coverage ratio (EBIT divided by interest expense) reveals whether the company generates enough operating income to comfortably service debt; a ratio above 5 or 6 indicates low financial stress, while below 3 suggests tighter constraints.
+Micware's debt levels relative to equity show how conservatively or aggressively management funds the business. A [debt-to-equity ratio](/debt-to-equity-ratio/) near 0.5 or lower is typical of strong Japanese companies, signaling financial stability and an ability to raise capital during downturns. A higher ratio—closer to 1.0 or above—indicates either aggressive expansion funded by borrowing or a business with limited cash generation relative to capital needs. The [interest coverage ratio](/interest-coverage-ratio/) (EBIT divided by interest expense) reveals whether the company generates enough operating income to comfortably service debt; a ratio above 5 or 6 indicates low financial stress, while below 3 suggests tighter constraints.
 
 ## Cyclical Exposure and Capital Sufficiency
 
@@ -64,9 +64,9 @@ The company's [10-K](/10-k/) filing and quarterly earnings reports detail the ca
 <h3>Closely related</h3>
 <ul>
 <li><a href="/mwai-stock/">MedWellAI, Inc. (MWAI)</a></li>
-<li><a href="/mwg-stock/">Multi Ways Holdings Ltd (MWG)</a></li>
+<li><a href="/mwg-stock/">[Multi Ways](/mwg-stock/) Holdings Ltd (MWG)</a></li>
 <li><a href="/balance-sheet/">Balance Sheet</a></li>
-<li><a href="/capital-expenditure/">Capital Expenditure</a></li>
+<li>Capital Expenditure</li>
 <li><a href="/cash-flow-statement/">Cash Flow Statement</a></li>
 </ul>
 </div>

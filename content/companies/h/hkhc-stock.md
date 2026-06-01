@@ -34,19 +34,19 @@ The company must also navigate the rules around what constitutes "investment adv
 
 ## Distribution Channels and State-Level Regimes
 
-Many HKHC products flow through distribution channels (broker-dealers, banks, or independent agents) who are not employees of HKHC but who must be registered with FINRA or state regulators. The moment a HKHC product is marketed through a broker-dealer, that broker is responsible for supervising the sale and ensuring suitability. But HKHC bears responsibility for oversight of the distributor: it must maintain written agreements spelling out each party's compliance duties, perform periodic audits of how the product is being sold, and ensure that marketing materials used by the distributor align with product terms and regulatory obligations.
+Many HKHC products flow through distribution channels (broker-dealers, banks, or independent agents) who are not employees of HKHC but who must be registered with [FINRA](/finra/) or state regulators. The moment a HKHC product is marketed through a broker-dealer, that [broker](/broker/) is responsible for supervising the sale and ensuring suitability. But HKHC bears responsibility for oversight of the distributor: it must maintain written agreements spelling out each party's compliance duties, perform periodic audits of how the product is being sold, and ensure that marketing materials used by the distributor align with product terms and regulatory obligations.
 
 State insurance commissioners add another layer. If HKHC or an affiliate distributes annuity products (guaranteed minimum returns or death benefits), the state where the client resides typically claims jurisdiction. The insurer or HKHC itself must be licensed to do business, reserve rules may apply, and solvency standards may impose capital requirements.
 
 ## Capital and Reserve Adequacy
 
-As an investment adviser, **HKHC** is subject to the SEC's Custody Rule, which requires advisers with discretion over client securities to maintain those assets in an independent qualified custodian. If HKHC itself holds client assets, it must meet strict safeguarding rules and undergo annual audits. If it delegates custody, it still faces oversight of how the custodian is monitored and what happens if the custodian fails.
+As an investment adviser, **HKHC** is subject to the SEC's Custody Rule, which requires advisers with discretion over client securities to maintain those assets in an independent qualified [custodian](/custodian/). If HKHC itself holds client assets, it must meet strict safeguarding rules and undergo annual audits. If it delegates custody, it still faces oversight of how the custodian is monitored and what happens if the custodian fails.
 
 Capital requirements, however, vary by affiliate structure. An SEC-registered adviser faces no federally mandated minimum net capital. But if HKHC operates a broker-dealer subsidiary to distribute products, that subsidiary must meet FINRA's net capital rule—a cushion of assets above liabilities to ensure the firm can withstand market disruptions and wind down cleanly. State insurance regulators may impose capital reserves on insurance-related entities.
 
 ## Disclosure Regimen and Audit Trail
 
-**HKHC** files quarterly and annual reports with the SEC, required to follow GAAP accounting and to disclose material risks, related-party transactions, and regulatory developments affecting the business. The SEC's disclosure rules also require HKHC to flag conflicts of interest, compensation arrangements that could bias decision-makers, and any material litigation or regulatory investigations. For a firm juggling advisory, publishing, and insurance roles, these disclosures must be sufficiently granular to inform investors about where regulatory risk concentrates.
+**HKHC** files quarterly and [annual reports](/10-k/) with the SEC, required to follow GAAP accounting and to disclose material risks, related-party transactions, and regulatory developments affecting the business. The SEC's disclosure rules also require HKHC to flag conflicts of interest, compensation arrangements that could bias decision-makers, and any material litigation or regulatory investigations. For a firm juggling advisory, publishing, and insurance roles, these disclosures must be sufficiently granular to inform investors about where regulatory risk concentrates.
 
 ## The Compliance Function
 

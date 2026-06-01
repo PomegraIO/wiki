@@ -31,7 +31,7 @@ The capital intensity of veterinary practice is moderate compared to human medic
 
 ## Acquisition Strategy and Integration Risk
 
-IVPR's growth depends on acquiring veterinary practices at reasonable valuations and integrating them profitably. Acquisitions of small professional practices are complex: veterinarian-owners are often emotionally attached to their practices and skeptical of consolidators. Deal multiples are typically 3-5x EBITDA, which is reasonable if the acquirer can improve profitability post-acquisition. The risk is overpaying (paying too high a multiple relative to synergies realized) or mismanaging integration (losing key veterinarians or clients in the post-acquisition period).
+IVPR's growth depends on acquiring veterinary practices at reasonable valuations and integrating them profitably. [Acquisitions](/acquisition/) of small professional practices are complex: veterinarian-owners are often emotionally attached to their practices and skeptical of consolidators. Deal multiples are typically 3-5x [EBITDA](/ebitda/), which is reasonable if the acquirer can improve profitability post-acquisition. The risk is overpaying (paying too high a multiple relative to synergies realized) or mismanaging integration (losing key veterinarians or clients in the post-acquisition period).
 
 Large platform consolidators have acquisition infrastructure (dedicated M&A teams, integration playbooks, property management) that IVPR likely lacks. As a smaller operator, IVPR must either develop that capability internally or work with external advisors, both of which add cost and complexity.
 
@@ -45,7 +45,7 @@ A well-run multi-location practice can achieve higher margins than independent p
 
 Acquisitions of veterinary practices require capital. IVPR can fund acquisitions from operating cash flow, debt, or equity. IVPR's ability to issue equity is limited by its small public valuation and thin trading volume (it trades OTC). Debt is an option but increases financial leverage and reduces flexibility. Operating cash flow is the most reliable source but is insufficient to fund aggressive acquisition growth; IVPR's growth is therefore constrained by its own cash generation.
 
-This is a major structural disadvantage relative to PE-backed consolidators, which have access to institutional capital and debt financing. Those consolidators can acquire practices at scale, invest aggressively in infrastructure, and build large platforms before exiting to a strategic buyer or IPO. IVPR, constrained by public-market valuation and capital access, will grow more slowly.
+This is a major structural disadvantage relative to PE-backed consolidators, which have access to institutional capital and [debt financing](/debt-financing/). Those consolidators can acquire practices at scale, invest aggressively in infrastructure, and build large platforms before exiting to a strategic buyer or IPO. IVPR, constrained by public-market valuation and capital access, will grow more slowly.
 
 ## Competitive Position Among Consolidators
 

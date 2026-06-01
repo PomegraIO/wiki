@@ -21,7 +21,7 @@ Hydrofarm operates from California, geography with outsized influence over North
 
 The company's core market—growers using greenhouses, hydroponic systems, and controlled-environment techniques—is geographically concentrated in California, the Pacific Northwest, Arizona, Colorado, and Canada. These regions have climate or economic drivers that make indoor or protected-environment cultivation economically viable. California's dominance in vegetable and specialty-plant production means Hydrofarm's largest customer base is in-state. A new product or equipment innovation in greenhouse technology will find its first market in California, where hundreds of thousands of acres operate under protected cultivation.
 
-This geographic home advantage is significant but also represents concentration risk. If California's horticultural industry faces disruption—through climate change, water scarcity, regulatory changes, or labor costs—Hydrofarm's primary market faces pressure. Conversely, Hydrofarm's deep relationships in California allow it to serve established customers faster and more intimately than competitors lacking geographic presence.
+This geographic home advantage is significant but also represents [concentration risk](/concentration-risk/). If California's horticultural industry faces disruption—through climate change, water scarcity, regulatory changes, or labor costs—Hydrofarm's [primary market](/primary-market/) faces pressure. Conversely, Hydrofarm's deep relationships in California allow it to serve established customers faster and more intimately than competitors lacking geographic presence.
 
 ## Distribution Network and Regional Customer Concentration
 
@@ -55,7 +55,7 @@ Conversely, Hydrofarm must navigate tariffs, shipping costs, and regulatory comp
 
 ## Competitive Geographic Fragmentation
 
-The horticultural equipment market is fragmented among regional suppliers, specialized manufacturers, and large retailers. Unlike commoditized industries dominated by one or two national players, horticultural equipment and supplies support numerous regional competitors. Hydrofarm competes against regional distributors with deep local relationships, specialty manufacturers focused on specific equipment types (lighting, irrigation, etc.), and large retailers like Lowe's or Home Depot that carry horticultural supplies.
+The horticultural equipment market is fragmented among regional suppliers, specialized manufacturers, and large retailers. Unlike commoditized industries dominated by one or two national players, horticultural equipment and supplies support numerous regional competitors. Hydrofarm competes against regional distributors with deep local relationships, specialty manufacturers focused on specific equipment types (lighting, irrigation, etc.), and large retailers like Lowe's or [Home Depot](/hd-stock/) that carry horticultural supplies.
 
 In California, Hydrofarm faces regional competitors with strong ties to California growers. In Colorado, other suppliers have established relationships with Colorado growers. Hydrofarm's competitive advantage in each region depends on product quality, price, distribution efficiency, and brand reputation—assets that must be built and maintained regionally. A product gain or loss in one region is not automatically replicated across the company; geographic competition is compartmentalized.
 

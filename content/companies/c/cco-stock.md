@@ -4,7 +4,7 @@ description: "Billboard and out-of-home advertising company; business rides adve
 keywords: ["advertising", "outdoor advertising", "billboards", "media company", "advertising cycles"]
 ---
 
-*For decades, **Clear Channel Outdoor (CCO)** has operated as one of the world's largest outdoor advertising platforms—owning and operating billboards, transit shelters, digital displays, and other out-of-home media in dozens of countries. The company's fortunes swing visibly with advertising cycles (companies cut ad budgets sharply in recessions and expand in booms), but those visible cycles mask a more durable question: Is the billboard industry experiencing normal cyclical pressure, or is it facing a structural, long-term decline in demand as advertising dollars migrate to digital channels?*
+*For decades, **Clear Channel Outdoor (CCO)** has operated as one of the world's largest outdoor advertising platforms—owning and operating billboards, transit shelters, digital displays, and other out-of-home media in dozens of countries. The company's fortunes swing visibly with advertising cycles (companies cut ad budgets sharply in [recessions](/recession/) and expand in booms), but those visible cycles mask a more durable question: Is the billboard industry experiencing normal cyclical pressure, or is it facing a structural, long-term decline in demand as advertising dollars migrate to digital channels?*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CCO</td></tr>

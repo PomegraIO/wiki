@@ -34,7 +34,7 @@ That said, the moat is modest. New competitors can in theory enter the space (bu
 
 QuoteMedia is tiny by any institutional measure. With roughly 115 employees and modest annual revenue (in the low tens of millions), it operates at a scale far below Bloomberg, Refinitiv, or even specialized competitors like FactSet or [S&P Global](/spgi-stock/) Market Intelligence. Small size can be an advantage (agility, low overhead, customer intimacy) or a constraint (limited R&D budget, no proprietary data beyond aggregation, vulnerability to customer concentration).
 
-The financial data industry is also in flux. Regulatory pressure on data pricing, the unbundling of services, and the migration of trading and analysis to retail-accessible platforms have eroded traditional margins. Simultaneously, new demand has emerged from fintech startups, robo-advisors, and corporate-investor-relations software vendors. QuoteMedia has adapted by expanding its product range and [target](/tgt-stock/) markets, but scale remains a limiting factor.
+The financial data industry is also in flux. Regulatory pressure on data pricing, the unbundling of services, and the migration of trading and analysis to retail-accessible platforms have eroded traditional margins. Simultaneously, new demand has emerged from fintech startups, robo-advisors, and corporate-investor-relations software vendors. QuoteMedia has adapted by expanding its product range and target markets, but scale remains a limiting factor.
 
 ## Risks and Pressures
 
@@ -48,7 +48,7 @@ The company operates at the margin of institutional technology: essential but no
 
 ## The Evergreen Position
 
-Despite these constraints, QuoteMedia has proven durable. It has survived the dot-com crash, the financial crisis, the rise of retail trading, and multiple waves of technological disruption. That longevity says something: the business addresses a genuine, recurring need. As long as traders and investors demand real-time quotes, as long as financial institutions need reliable data infrastructure, and as long as small to mid-market players cannot justify the cost of Bloomberg or Refinitiv, there is space for a company like QuoteMedia.
+Despite these constraints, QuoteMedia has proven durable. It has survived the dot-com crash, the financial crisis, the rise of retail trading, and multiple waves of technological disruption. That longevity says something: the business addresses a genuine, recurring need. As long as traders and investors demand real-time quotes, as long as [financial institutions](/fisi-stock/) need reliable data infrastructure, and as long as small to mid-market players cannot justify the cost of Bloomberg or Refinitiv, there is space for a company like QuoteMedia.
 
 The company is unlikely to become a breakout growth story or a household name. Its market is too niche, its customer base too concentrated in institutions that are themselves under margin pressure, and its competitive position too contested. But for an investor seeking a straightforward, unsexy business with recurring revenue and modest overhead, understanding QuoteMedia requires reading its regulatory filings carefully. The 10-K will detail customer concentration, data licensing agreements, churn rates, and contract wins or losses. Watch closely for indicators of customer health—brokerage and bank profitability directly affects demand for premium data feeds.
 
@@ -56,6 +56,6 @@ QuoteMedia's future hinges on three factors: maintaining or growing its installe
 
 ## See Also
 
-- Stock market data (the core input)
+- [Stock market](/stock-market/) data (the core input)
 - [Public company](/wiki/public-company/) (the regulatory framework)
 - [10-K](/wiki/10-k/) (the essential filing for understanding QuoteMedia's operations and risks)

@@ -20,7 +20,7 @@ keywords: ["mining", "exploration", "mineral resources", "junior mining", "micro
 
 Grafton's economic structure is almost purely cash burn. The firm holds claims to land (purchased or optioned from claim holders or governments), hires geologists and drillers, and incurs exploration costs: geological surveys, drilling programs, laboratory analysis of drill core samples, and environmental assessments. None of this generates revenue. All of it consumes cash.
 
-Grafton funds this burn with one or both of two sources: equity raised from public investors (via secondary offerings), and debt or credit facilities from development banks or mining-focused lenders. The equity route dilutes existing shareholders; the debt route creates fixed obligations the company may not be able to service if exploration disappoints.
+Grafton funds this burn with one or both of two sources: equity raised from public investors (via [secondary offerings](/secondary-offering/)), and debt or credit facilities from development banks or mining-focused lenders. The equity route dilutes existing shareholders; the debt route creates fixed obligations the company may not be able to service if exploration disappoints.
 
 The implicit economic model is that Grafton's drilling campaign will eventually intersect a mineral zone of economic significance — gold, copper, lithium, or another metal with sufficient grades and tonnage to justify mining. That discovery transforms the company's value: a junior explorer that finds a multi-million-ounce gold deposit can be acquired by a mid-tier mining company or major, commanding a premium to book value.
 
@@ -30,7 +30,7 @@ But discovery is not guaranteed. The majority of exploration projects fail or st
 
 Grafton faces two independent sources of risk that compound to create high volatility. First is geological risk: does the prospect actually contain mineable ore? This is answered through drilling and analysis, progressively reducing uncertainty. But even large drilling programs can miss ore bodies or hit zones that are too lean to mine.
 
-Second is commodity price risk: even if Grafton discovers ore, its economic value depends on metal prices. A deposit that is profitable to mine at \$1,500 gold may be uneconomic at $1,000. Metals that are abundant and cheap (iron ore, copper) have low per-ounce value and require massive tonnages to justify the capital cost of a mine ($500 million to $5 billion). Precious metals command premium prices but are harder to discover in large quantities.
+Second is commodity price risk: even if Grafton discovers ore, its economic value depends on metal prices. A deposit that is profitable to mine at \$1,500 gold may be uneconomic at $1,000. Metals that are abundant and cheap ([iron ore](/iron-ore/), copper) have low per-ounce value and require massive tonnages to justify the capital cost of a mine ($500 million to $5 billion). Precious metals command premium prices but are harder to discover in large quantities.
 
 Grafton's stock price will fluctuate on two axes: the news flow from drilling (interpreted as progress toward a discovery), and the commodity prices of metals in its target zones. A company drilling for gold will see its stock rise if it announces high-grade intercepts and if the gold price rallies simultaneously. The same company will crash if the gold price falls 30% regardless of drilling success.
 
@@ -44,7 +44,7 @@ This structure only works if management eventually delivers a discovery that jus
 
 ## Optionality and the Acquisition Path
 
-The economic logic for holding Grafton stock is not that the company will operate as an independent producer. Few junior explorers become miners; the capital required to build and operate a mine is billions of dollars, beyond the reach of most smaller firms. Rather, the optionality is acquisition. If Grafton's drilling discovers a deposit of sufficient size and grade, a larger miner will acquire the property and company, either for cash or shares of the acquirer.
+The economic logic for holding Grafton stock is not that the company will operate as an independent producer. Few junior explorers become miners; the capital required to build and operate a mine is billions of dollars, beyond the reach of most smaller firms. Rather, the optionality is [acquisition](/acquisition/). If Grafton's drilling discovers a deposit of sufficient size and grade, a larger miner will acquire the property and company, either for cash or shares of the acquirer.
 
 A successful explorer that goes from 50-cent stock (post-IPO) to \$3–5 range (after a significant discovery) and is then acquired at \$8–10 per share can deliver 15–20x returns to early investors, despite the massive dilution. But that upside is concentrated in the tail: perhaps 5% of junior explorers achieve meaningful returns.
 

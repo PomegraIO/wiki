@@ -21,7 +21,7 @@ The mortgage industry is one of the largest transaction-processing networks in t
 
 Blend Labs emerged in this void, founded to create a single-pane-of-glass application that could be embedded into a bank or lender's workflow. The platform ingested borrower applications, connected to automated verification services (employment checks, asset verification, credit data), flagged exceptions for human review, and guided the process toward underwriting and closing. For the first time, a mortgage applicant could apply online, check status in real time, and receive updates through a unified system rather than fragmented communications from different departments.
 
-This was not a consumer-facing application like a comparison-shopping site; rather, Blend sold to the financial institutions themselves. Banks, mortgage brokers, credit unions, and fintech lenders licensed the platform, embedded it into their origination workflows, and used it to process their own customers' applications. The value proposition to the lender was operational: faster closing times, lower error rates, better compliance documentation, and higher customer satisfaction from transparency.
+This was not a consumer-facing application like a comparison-shopping site; rather, Blend sold to the [financial institutions](/fisi-stock/) themselves. Banks, mortgage [brokers](/broker/), credit unions, and fintech lenders licensed the platform, embedded it into their origination workflows, and used it to process their own customers' applications. The value proposition to the lender was operational: faster closing times, lower error rates, better compliance documentation, and higher customer satisfaction from transparency.
 
 ## The Infrastructure Play
 
@@ -33,7 +33,7 @@ This infrastructure positioning gave Blend leverage. Once a large bank or mortga
 
 As Blend matured, the company recognized that its platform architecture was not specific to mortgages. The same workflow-orchestration, document-management, and multi-party-coordination capabilities applied to other lending verticals. The company began developing capabilities for personal loans, home equity lines of credit, auto loans, and commercial lending. Each represented a chance to extend its total addressable market and increase lifetime value per customer, since a bank or lender that already trusted Blend could extend the platform to multiple product lines.
 
-Blend also invested in data services and analytics. As the platform processed millions of loan applications, it accumulated patterns about what applications succeeded, what times of year had higher volumes, what geographic markets were healthiest, and what borrower characteristics led to early delinquency. This intelligence, packaged and sold back to lenders, became a separate revenue stream. Lenders could use Blend's insights to refine their pricing, adjust marketing spend by region, or calibrate risk models.
+Blend also invested in data services and analytics. As the platform processed millions of loan applications, it accumulated patterns about what applications succeeded, what times of year had higher volumes, what geographic markets were healthiest, and what borrower characteristics led to early [delinquency](/delinquency/). This intelligence, packaged and sold back to lenders, became a separate revenue stream. Lenders could use Blend's insights to refine their pricing, adjust marketing spend by region, or calibrate risk models.
 
 ## Market Dynamics and Competition
 
@@ -43,7 +43,7 @@ For Blend, maintaining momentum meant continuous expansion into adjacent lending
 
 ## The Customer Relationship and Stickiness
 
-Blend's relationship with each customer — a lender or servicer — was deep but not always cordial. Lenders wanted to minimize the fees they paid for platform usage while maximizing the features and integrations they received. Blend, meanwhile, wanted to increase per-customer revenue. Negotiations over contract terms, feature roadmap priority, and data ownership could be contentious. When Blend went public, some analysts noted that the company's largest customers represented a significant portion of revenue, raising concentration risk.
+Blend's relationship with each customer — a lender or servicer — was deep but not always cordial. Lenders wanted to minimize the fees they paid for platform usage while maximizing the features and integrations they received. Blend, meanwhile, wanted to increase per-customer revenue. Negotiations over contract terms, feature roadmap priority, and data ownership could be contentious. When Blend went public, some analysts noted that the company's largest customers represented a significant portion of revenue, raising [concentration risk](/concentration-risk/).
 
 The company's survival strategy included deepening customer relationships by making its platform indispensable to core operations, expanding to new lending products, and acquiring complementary technologies (such as document automation or title insurance platforms) to broaden its offering and reduce churn.
 

@@ -46,9 +46,9 @@ Before approval and commercialization, manufacturing defensibility is not yet re
 
 ## Capital Intensity and Competitive Endurance
 
-Bio Essence's ability to fund its research and development programs to regulatory approval—a journey that often takes a decade or more and costs hundreds of millions of dollars—is the company's most immediate competitive pressure. Well-capitalized competitors with access to funding can outlast Bio Essence by simply funding longer and larger clinical trials. Capital constraints may force Bio Essence into partnerships, collaborations, or acquisitions that dilute shareholder value or cede control of its programs to larger companies.
+Bio Essence's ability to fund its research and development programs to regulatory approval—a journey that often takes a decade or more and costs hundreds of millions of dollars—is the company's most immediate competitive pressure. Well-capitalized competitors with access to funding can outlast Bio Essence by simply funding longer and larger clinical trials. Capital constraints may force Bio Essence into partnerships, collaborations, or [acquisitions](/acquisition/) that dilute shareholder value or cede control of its programs to larger companies.
 
-The moat here is inverted: adequate capital is a prerequisite for Bio Essence to realize whatever scientific moat it possesses, but capital adequacy itself is not a defensible moat. A better-funded competitor can potentially outspend Bio Essence's advantages in other dimensions.
+The moat here is inverted: adequate capital is a prerequisite for Bio Essence to realize whatever scientific moat it possesses, but [capital adequacy](/capital-adequacy/) itself is not a defensible moat. A better-funded competitor can potentially outspend Bio Essence's advantages in other dimensions.
 
 ## Competitive Convergence in Crowded Disease Areas
 

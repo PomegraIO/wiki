@@ -46,9 +46,9 @@ For storage customers (utilities, commercial operators, solar installers), the s
 
 ## Operational Challenges and Margin Pressures
 
-Electric motorcycle manufacturing operates on thin margins, especially for premium-positioned brands competing against cheaper Chinese EV manufacturers. Competition from larger, vertically integrated automakers (Tesla's vehicles, traditional brands entering EV) or nimble startups pressures pricing. LiveWire's Harley heritage confers brand value but also heritage cost structures—labor, facilities, supply agreements inherited from traditional manufacturing.
+Electric motorcycle manufacturing operates on thin margins, especially for premium-positioned brands competing against cheaper Chinese EV manufacturers. Competition from larger, vertically integrated automakers ([Tesla](/tsla-stock/)'s vehicles, traditional brands entering EV) or nimble startups pressures pricing. LiveWire's Harley heritage confers brand value but also heritage cost structures—labor, facilities, supply agreements inherited from traditional manufacturing.
 
-Battery sourcing costs are volatile. If cell prices rise, motorcycle costs rise unless LiveWire absorbs margin erosion or raises retail prices, risking sales. Conversely, commodity deflation improves margins but is not assured. The company's profitability depends on achieving sufficient production volume to amortize fixed facility costs and realizing sufficient product differentiation (brand, performance, features) to maintain pricing power.
+Battery sourcing costs are volatile. If cell prices rise, motorcycle costs rise unless LiveWire absorbs margin erosion or raises retail prices, risking sales. Conversely, commodity [deflation](/deflation/) improves margins but is not assured. The company's profitability depends on achieving sufficient production volume to amortize fixed facility costs and realizing sufficient product differentiation (brand, performance, features) to maintain pricing power.
 
 ## The Storage Business as Leverage
 

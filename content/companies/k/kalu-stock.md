@@ -8,7 +8,7 @@ keywords: ["aluminum", "aerospace", "materials", "manufacturing", "commodity", "
 
 Aluminum is everywhere—beverage cans, automotive blocks, aerospace wing components—yet the economics differ radically by end use. Commodity mills compete on cost and volume; specialty producers like KAISER compete on metallurgical expertise, product consistency, and supply reliability. A defect in an aerospace fastener or an automotive crankshaft has costs measured in recalls and liability. The customer pays a premium for engineers who can guarantee that the alloy meets exact specifications across millions of parts made over years.
 
-KAISER's market is the slice of North American aluminum demand where customers care more about "does it meet this specification?" than "is it the cheapest?" This includes commercial aerospace (fuselage skins, structural components), where Boeing and Airbus are the ultimate customers; automotive suppliers and OEMs who feed stamped and forged parts into vehicle assembly; defense contracting (where aerospace and fighter-platform alloys often exceed civilian specs); and industrial forging. The company files with the SEC under CIK 811596.
+KAISER's market is the slice of North American aluminum demand where customers care more about "does it meet this specification?" than "is it the cheapest?" This includes commercial aerospace (fuselage skins, structural components), where [Boeing](/ba-stock/) and Airbus are the ultimate customers; automotive suppliers and OEMs who feed stamped and forged parts into vehicle assembly; defense contracting (where aerospace and fighter-platform alloys often exceed civilian specs); and industrial forging. The company files with the SEC under CIK 811596.
 
 ## The Aluminum Industry's Structural Pressures
 
@@ -34,7 +34,7 @@ Geography matters. KAISER operates facilities in California, Ohio, and Kentucky,
 
 KAISER's earnings swing with aerospace and automotive production rates. The company cannot control these cycles but can manage through them: maintaining discipline on capital expenditure during downturns, harvesting free-cash-flow to de-leverage or return capital when conditions allow, and protecting market share even when selling at lower margins rather than exiting products. Long-term, value is created through surviving downturns, retaining customers, and being the supplier of choice when demand rebounds.
 
-The company's ability to fund growth, weather downturns, and invest in efficiency depends on access to credit and internally generated cash. Access to capital markets is easier when aerospace and auto production are robust and credit is cheap; more difficult in recessions. KAISER's debt-to-equity ratio and interest-coverage metrics thus reflect industry conditions, not just operational performance.
+The company's ability to fund growth, weather downturns, and invest in efficiency depends on access to credit and internally generated cash. Access to capital markets is easier when aerospace and auto production are robust and credit is cheap; more difficult in [recessions](/recession/). KAISER's [debt-to-equity ratio](/debt-to-equity-ratio/) and interest-coverage metrics thus reflect industry conditions, not just operational performance.
 
 ## Investing Rationale and Risks
 

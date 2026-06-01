@@ -19,7 +19,7 @@ keywords: ["biopharmaceutical", "drug discovery", "protein degradation", "clinic
 
 Most pharmaceuticals work by inhibiting (blocking) enzymes or receptors that drive disease. Liminatus's founding insight is that some disease-causing proteins are better addressed not by inhibition but by forced degradation—recruiting the cell's own protein-disposal machinery to destroy the offending protein. This approach, sometimes called proteolysis-targeting chimera (PROTAC) or similar modality, can theoretically overcome limitations of traditional inhibitors: if you eliminate the protein entirely, you avoid feedback mechanisms that might cause resistance or adaptation.
 
-The protein degradation field emerged from academic research in the 2010s and attracted serious pharmaceutical and biotech interest by the late 2010s. Large companies (Genentech, Amgen, Eli Lilly) began investing in the space. Smaller biotechs founded to pursue degradation-based therapies attracted venture funding. Liminatus is one such company, entering a now-crowded space to develop degradation-targeting drugs in select indications.
+The protein degradation field emerged from academic research in the 2010s and attracted serious pharmaceutical and biotech interest by the late 2010s. Large companies (Genentech, [Amgen](/amgn-stock/), Eli Lilly) began investing in the space. Smaller biotechs founded to pursue degradation-based therapies attracted venture funding. Liminatus is one such company, entering a now-crowded space to develop degradation-targeting drugs in select indications.
 
 ## Early-Stage Biotech Capital Requirements and Timeline
 
@@ -33,7 +33,7 @@ Liminatus, trading on OTC markets at a small market capitalization, almost certa
 
 Liminatus's fate depends entirely on whether its pipeline drugs succeed or fail in clinical trials. A single company with one or two programs underway is concentrated risk—if the lead program fails Phase 2 trials, the company's value may collapse. Established pharma companies manage this risk through large, diversified pipelines: they can afford single-digit program failure rates because they have 50 programs in progress. Liminatus cannot. Every trial result is existential.
 
-The company's survival strategy typically involves: (1) advancing the most promising programs as rapidly as capital permits, (2) raising capital based on positive interim data points, (3) seeking partnerships with larger pharma companies to co-develop programs and reduce capital burden, or (4) pursuing merger or acquisition by a larger company.
+The company's survival strategy typically involves: (1) advancing the most promising programs as rapidly as capital permits, (2) raising capital based on positive interim data points, (3) seeking partnerships with larger pharma companies to co-develop programs and reduce capital burden, or (4) pursuing [merger](/merger/) or [acquisition](/acquisition/) by a larger company.
 
 ## Business Model: From Company to Acquisition Target
 
@@ -43,9 +43,9 @@ Liminatus's founders and investors likely anticipate that the company will be ac
 
 ## Funding Dynamics and Equity Dilution
 
-Liminatus, like most early-stage biotechs, finances operations through equity offerings—raising capital by issuing new shares. Each offering dilutes existing shareholders' ownership. If the company raises capital in multiple tranches before achieving a successful exit (acquisition) or profitability (unlikely for a biotech for many years), cumulative dilution can be severe. Investors in the company accept this dilution as the cost of progress—each capital raise supposedly gets the company closer to success.
+Liminatus, like most early-stage biotechs, finances operations through equity offerings—raising capital by issuing new shares. Each offering dilutes existing shareholders' ownership. If the company raises capital in multiple [tranches](/tranche/) before achieving a successful exit (acquisition) or profitability (unlikely for a biotech for many years), cumulative dilution can be severe. Investors in the company accept this dilution as the cost of progress—each capital raise supposedly gets the company closer to success.
 
-The company's burn rate (monthly cash consumed) directly determines runway. A company burning $5 million per month with $20 million cash has only four months of runway and must raise capital within that window or face liquidity crisis.
+The company's burn rate (monthly cash consumed) directly determines runway. A company burning $5 million per month with $20 million cash has only four months of runway and must raise capital within that window or face [liquidity crisis](/liquidity-crisis/).
 
 ## Clinical Trial Risk and Efficacy/Safety Trade-Offs
 
@@ -59,7 +59,7 @@ The FDA allows accelerated approvals (accelerated or breakthrough designations) 
 
 ## Valuation Proxy: Comparative Biotech Valuations
 
-Early-stage biotech companies trading on OTC markets typically have low market capitalizations—often $50–500 million—because they are high-risk, illiquid, and low-volume. The market value is often a multiple of the company's estimated cash runway times a success probability. Liminatus's valuation (implied by its share price and shares outstanding) can be compared to peers with similar stage and mechanism to assess whether the market is pricing in an optimistic or pessimistic outcome.
+Early-stage biotech companies trading on OTC markets typically have low [market capitalizations](/market-capitalization/)—often $50–500 million—because they are high-risk, illiquid, and low-volume. The market value is often a multiple of the company's estimated cash runway times a success probability. Liminatus's valuation (implied by its share price and shares outstanding) can be compared to peers with similar stage and mechanism to assess whether the market is pricing in an optimistic or pessimistic outcome.
 
 ## Due Diligence Essentials for Biotech Micro-Caps
 

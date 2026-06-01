@@ -25,7 +25,7 @@ The core asset of a junior explorer is its exploration properties—mineral clai
 
 ## Cash Burn and Funding Requirements
 
-Unlike a revenue-generating company, a junior explorer must routinely raise capital to fund operations. Lahontan's cash flow statement will show significant negative operating cash flow each period, offset by financing activities (equity or debt issuances, or draws from treasury cash). The [10-K](/10-k/) will disclose how much cash the company has on hand and its expected burn rate over the coming periods. If cash reserves are dwindling and the company has not announced a major financing, liquidity is a near-term risk. Conversely, a company that recently closed a well-funded private placement or equity raise has runway to continue exploration for several more years. The amount of cash and its expected duration reveals how much more exploration a company can conduct before it faces a critical decision: demonstrating an economic ore body and moving toward development, or, less favorably, being forced to sell assets or dilute shareholders at distressed valuations.
+Unlike a revenue-generating company, a junior explorer must routinely raise capital to fund operations. Lahontan's [cash flow statement](/cash-flow-statement/) will show significant negative operating cash flow each period, offset by financing activities (equity or debt issuances, or draws from treasury cash). The [10-K](/10-k/) will disclose how much cash the company has on hand and its expected burn rate over the coming periods. If cash reserves are dwindling and the company has not announced a major financing, liquidity is a near-term risk. Conversely, a company that recently closed a well-funded [private placement](/private-placement/) or equity raise has runway to continue exploration for several more years. The amount of cash and its expected duration reveals how much more exploration a company can conduct before it faces a critical decision: demonstrating an economic ore body and moving toward development, or, less favorably, being forced to sell assets or dilute shareholders at distressed valuations.
 
 ## Exploration Budget and Geological Campaign Focus
 
@@ -33,7 +33,7 @@ The annual [10-K](/10-k/) and periodic press releases will detail exploration sp
 
 ## Dilution and Capital Structure
 
-Lahontan's equity structure deserves scrutiny because exploration-stage companies almost always dilute shareholders by issuing new shares at successively lower prices if exploration and financings fail to deliver value accretion. The [10-K](/10-k/) will disclose the fully diluted share count, including options, warrants, and convertible securities granted to management and investors. A heavily diluted cap table (especially if insiders or past investors hold "in-the-money" call options on shares at low exercise prices) can make it difficult for current shareholders to participate in any upside from successful exploration. The company's history of financing terms—have past capital raises been at declining share prices, indicating confidence is waning?—also hints at investor perception of the company's prospects.
+Lahontan's equity structure deserves scrutiny because exploration-stage companies almost always dilute shareholders by issuing new shares at successively lower prices if exploration and financings fail to deliver value accretion. The [10-K](/10-k/) will disclose the fully diluted share count, including options, warrants, and convertible securities granted to management and investors. A heavily diluted cap table (especially if insiders or past investors hold "in-the-money" [call options](/call-option/) on shares at low [exercise prices](/exercise-price/)) can make it difficult for current shareholders to participate in any upside from successful exploration. The company's history of financing terms—have past capital raises been at declining share prices, indicating confidence is waning?—also hints at investor perception of the company's prospects.
 
 ## Permitting and Regulatory Pathway
 
@@ -41,11 +41,11 @@ Mining exploration in North America requires environmental and permitting approv
 
 ## Market and Commodity Price Dependency
 
-Gold prices are set globally and fluctuate with interest rates, currency movements, geopolitical risk, and investment demand for precious metals. An ore body that is economically viable at $2,000 per ounce might not be at $1,200 per ounce. Lahontan's investment case implicitly assumes a gold price environment in which its discovery could be developed profitably. The company's [10-K](/10-k/) may discuss cut-off grades (the minimum grade of ore that would be extracted in a mine) and sensitivity to gold price, hinting at this dependency. A junior explorer's share price often correlates more strongly with gold price moves and sentiment toward junior mining stocks than with any operational news from the company itself. Investors should understand that they are taking commodity price risk alongside exploration risk.
+Gold prices are set globally and fluctuate with [interest rates](/interest-rate/), currency movements, geopolitical risk, and investment demand for precious metals. An ore body that is economically viable at $2,000 per ounce might not be at $1,200 per ounce. Lahontan's investment case implicitly assumes a gold price environment in which its discovery could be developed profitably. The company's [10-K](/10-k/) may discuss cut-off grades (the minimum grade of ore that would be extracted in a mine) and sensitivity to gold price, hinting at this dependency. A junior explorer's share price often correlates more strongly with gold price moves and sentiment toward junior mining stocks than with any operational news from the company itself. Investors should understand that they are taking commodity price risk alongside exploration risk.
 
 ## Strategic Optionality and Exit Scenarios
 
-Successful junior explorers typically follow one of a few paths: discovering a world-class ore body and funding development as an independent producer; being acquired by a mid-tier or major mining company seeking to expand reserves; or merging with another explorer to achieve scale or diversify geographically. The [10-K](/10-k/) MD&A may hint at management's preferences or past discussions with larger mining companies. Understanding the company's strategic context helps investors assess whether a successful discovery would lead to shareholder wealth creation through either a company-run mine or an attractive acquisition.
+Successful junior explorers typically follow one of a few paths: discovering a world-class ore body and funding development as an independent producer; being acquired by a mid-tier or major mining company seeking to expand reserves; or merging with another explorer to achieve scale or diversify geographically. The [10-K](/10-k/) MD&A may hint at management's preferences or past discussions with larger mining companies. Understanding the company's strategic context helps investors assess whether a successful discovery would lead to shareholder wealth creation through either a company-run mine or an attractive [acquisition](/acquisition/).
 
 ---
 
@@ -58,5 +58,5 @@ Successful junior explorers typically follow one of a few paths: discovering a w
 ### Wider context
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) oversight of mineral exploration companies
 - Mining permitting and regulatory frameworks in North America
-- Merger and acquisition trends in the mining sector
+- [Merger](/merger/) and acquisition trends in the mining sector
 </div>

@@ -44,7 +44,7 @@ The FDA's oversight does not end when a device reaches the market. Fuse Medical 
 
 If adverse events accumulate, the FDA may require postmarket surveillance studies, where Fuse Medical follows patients over time and collects long-term safety data. The company may also be required to distribute warnings or corrective letters to healthcare providers or patients. In severe cases, the FDA can recall a device, compelling Fuse Medical to retrieve it from the market at company expense and manage liability for harm already done.
 
-Recalls and widespread adverse events can bankrupt small device companies. Fuse Medical must price its products to absorb postmarket compliance, surveillance studies, and potential recall costs. The company's insurance—product liability coverage—is expensive and may have caps, leaving residual liability on the company's balance sheet.
+Recalls and widespread adverse events can bankrupt small device companies. Fuse Medical must price its products to absorb postmarket compliance, surveillance studies, and potential recall costs. The company's insurance—product liability coverage—is expensive and may have caps, leaving residual liability on the company's [balance sheet](/balance-sheet/).
 
 ## Labeling, Claims, and Promotional Restrictions
 

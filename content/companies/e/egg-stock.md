@@ -41,7 +41,7 @@ ENIGMATIG's defensibility here depends on whether its clinical data is clearly s
 
 ## Scale disadvantage and research investment pressure
 
-ENIGMATIG, as a smaller British pharma company, cannot match the R&D spending of Roche, Novartis, or Merck. That creates a structural disadvantage. ENIGMATIG's moat can only work within the boundaries it has chosen—niche therapeutic areas where smaller scale is not a liability. In broad-market diseases or therapies requiring massive phase 3 trials and global market access, ENIGMATIG would be outcompeted by larger, better-capitalized firms. The company's moat therefore includes the implicit strategy of staying in niches where scale matters less than clinical focus and regulatory expertise.
+ENIGMATIG, as a smaller British pharma company, cannot match the R&D spending of Roche, [Novartis](/nvs-stock/), or Merck. That creates a structural disadvantage. ENIGMATIG's moat can only work within the boundaries it has chosen—niche therapeutic areas where smaller scale is not a liability. In broad-market diseases or therapies requiring massive phase 3 trials and global market access, ENIGMATIG would be outcompeted by larger, better-capitalized firms. The company's moat therefore includes the implicit strategy of staying in niches where scale matters less than clinical focus and regulatory expertise.
 
 ## Pricing power and payor pressure
 
@@ -49,7 +49,7 @@ Even within niche markets, ENIGMATIG's pricing power is constrained by health-ca
 
 ## Biosimilar and generic competition post-patent
 
-ENIGMATIG's moat terminates sharply at patent expiration. If the company's drug is a small-molecule pharmaceutical, generic competition will emerge immediately, and price will collapse within months. If the drug is a biologic, biosimilar competition is slower and less complete—the biosimilar market is newer and has higher regulatory barriers—but it still eliminates premium pricing within a few years. ENIGMATIG faces the structural problem common to all pharmaceutical companies: its moat is an expiration date.
+ENIGMATIG's moat terminates sharply at patent expiration. If the company's drug is a small-molecule pharmaceutical, generic competition will emerge immediately, and price will collapse within months. If the drug is a biologic, biosimilar competition is slower and less complete—the biosimilar market is newer and has higher regulatory barriers—but it still eliminates premium pricing within a few years. ENIGMATIG faces the structural problem common to all pharmaceutical companies: its moat is an [expiration date](/expiration-date/).
 
 ## True extent of defensibility
 

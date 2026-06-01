@@ -29,9 +29,9 @@ For a company like Eline, this secular shift is double-edged. On one hand, it is
 
 ## The hit-or-miss nature of the business
 
-Eline's earnings are shaped less by broad industry trends and more by whether a given title becomes a hit, gets a second wind via streaming or social media, or quietly fades. One successful franchise can drive years of revenue; one failed launch can cost the company development budget it may not recover. This makes the company more sensitive to individual consumer taste and discovery than to macro cycles, though macro cycles affect the pool of discretionary spending available for gaming.
+Eline's earnings are shaped less by broad industry trends and more by whether a given title becomes a hit, gets a second wind via streaming or social media, or quietly fades. One successful franchise can drive years of revenue; one failed launch can cost the company development budget it may not recover. This makes the company more sensitive to individual consumer taste and discovery than to macro cycles, though macro cycles affect the pool of [discretionary spending](/discretionary-spending/) available for gaming.
 
-In recession years, even hit games can see a slowdown, because consumers reduce total entertainment spending per household even if they do not eliminate it entirely. A strong title with a committed fanbase will continue selling, but launch windows close more quickly, and the pool of fence-sitters—consumers willing to try a new game on a whim—shrinks. This is the cyclical wedge that smaller publishers experience acutely.
+In [recession](/recession/) years, even hit games can see a slowdown, because consumers reduce total entertainment spending per household even if they do not eliminate it entirely. A strong title with a committed fanbase will continue selling, but launch windows close more quickly, and the pool of fence-sitters—consumers willing to try a new game on a whim—shrinks. This is the cyclical wedge that smaller publishers experience acutely.
 
 ## The mobile and emerging-market opportunity
 
@@ -41,9 +41,9 @@ Whether Eline has the capital and expertise to pursue this pivot is unclear. Man
 
 ## The asymmetry: why downturns matter more than upturns
 
-Eline's P&L is asymmetric with respect to the business cycle. In a growth year, the company's revenue grows and margins may expand if a hit game lands; the upside is capped by the company's development capacity and marketing budget. In a recession, the downside is steep: consumer spending shrinks, launch windows tighten, and the company's existing backlog of unreleased titles may suffer delayed or canceled launches if sales forecasts weaken and the company needs to conserve cash. The company cannot easily reduce fixed costs (developers and talent are hard to hire and harder to release), so margins compress sharply in revenue downturns.
+Eline's P&L is asymmetric with respect to the [business cycle](/business-cycle/). In a growth year, the company's revenue grows and margins may expand if a hit game lands; the upside is capped by the company's development capacity and marketing budget. In a recession, the downside is steep: consumer spending shrinks, launch windows tighten, and the company's existing backlog of unreleased titles may suffer delayed or canceled launches if sales forecasts weaken and the company needs to conserve cash. The company cannot easily reduce fixed costs (developers and talent are hard to hire and harder to release), so margins compress sharply in revenue downturns.
 
-This asymmetry means Eline's stock price and financial health are more sensitive to recession signals than to growth accelerations. A company dependent on hit releases and discretionary spending will see its stock market value decline well before a recession actually arrives, as soon as investors begin to price in lower consumer spending.
+This asymmetry means Eline's stock price and financial health are more sensitive to recession signals than to growth accelerations. A company dependent on hit releases and discretionary spending will see its [stock market](/stock-market/) value decline well before a recession actually arrives, as soon as investors begin to price in lower consumer spending.
 
 ## What to monitor
 

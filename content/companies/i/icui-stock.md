@@ -41,7 +41,7 @@ Hospital capacity and capital spending cycles affect equipment sales; inflationa
 
 ## Risk and Fragility Points
 
-Dependency on FDA approvals and regulatory continuity creates vulnerability; a manufacturing recall or quality lapse can damage reputation and disrupt revenue. Consolidation among hospital systems can shift bargaining dynamics. Patent expirations on key products create margin pressure if replacements lack equal differentiation. Reimbursement pressures from Medicare or other payers could compress the prices ICU can charge, though differentiated products often weather pricing pressure better than commodities. The company's exposure to hospital capital budgets means sensitivity to healthcare spending volatility, particularly in recessions when elective procedures decline.
+Dependency on FDA approvals and regulatory continuity creates vulnerability; a manufacturing recall or quality lapse can damage reputation and disrupt revenue. Consolidation among hospital systems can shift bargaining dynamics. Patent expirations on key products create margin pressure if replacements lack equal differentiation. Reimbursement pressures from Medicare or other payers could compress the prices ICU can charge, though differentiated products often weather pricing pressure better than commodities. The company's exposure to hospital capital budgets means sensitivity to healthcare spending volatility, particularly in [recessions](/recession/) when elective procedures decline.
 
 ## What Makes This Business Economically Viable
 

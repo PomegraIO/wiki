@@ -4,7 +4,7 @@ description: "US-listed clinical-stage biopharmaceutical company filing with the
 keywords: ["biotech", "oncology", "drug development", "clinical trials", "cancer therapy", "pharmaceutical research"]
 ---
 
-*[CITIUS ONCOLOGY, INC.](/ctor-stock/) (**CTOR**) operates as a [public](/public-company/) biopharmaceutical enterprise (SEC CIK [1851484](/10-k/)) pursuing discovery and clinical validation of novel cancer therapeutics. The company's value proposition rests on its ability to advance compounds through preclinical and early-stage clinical testing, ideally to a point where larger pharmaceutical partners or investors see sufficient promise to fund pivotal trials or acquisition. Until such validation or partnership materializes, CTOR's primary asset is scientific and clinical data—not revenue-generating approved drugs.*
+*[CITIUS ONCOLOGY, INC.](/ctor-stock/) (**CTOR**) operates as a [public](/public-company/) biopharmaceutical enterprise (SEC CIK [1851484](/10-k/)) pursuing discovery and clinical validation of novel cancer therapeutics. The company's value proposition rests on its ability to advance compounds through preclinical and early-stage clinical testing, ideally to a point where larger pharmaceutical partners or investors see sufficient promise to fund pivotal trials or [acquisition](/acquisition/). Until such validation or partnership materializes, CTOR's primary asset is scientific and clinical data—not revenue-generating approved drugs.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,7 +31,7 @@ For each program, the filings disclose major upcoming milestones: initiation of 
 
 ## The Science and Intellectual Property
 
-CITIUS's competitive position rests on its intellectual property (IP)—patents covering novel compounds, their use, dosing regimens, and combinations with other agents. The company's IP strategy shapes both revenue potential and vulnerability. Broad patents that cover a class of molecules offer wide freedom to operate; narrow patents covering a specific compound are more vulnerable to competitor design-arounds. The filings include an IP section disclosing patent expirations, pending applications, and litigation risks.
+CITIUS's competitive position rests on its intellectual property (IP)—patents covering novel compounds, their use, dosing regimens, and combinations with other agents. The company's [IP strategy](/ipst-stock/) shapes both revenue potential and vulnerability. Broad patents that cover a class of molecules offer wide freedom to operate; narrow patents covering a specific compound are more vulnerable to competitor design-arounds. The filings include an IP section disclosing patent expirations, pending applications, and litigation risks.
 
 Early-stage biotech often licenses technology from academic institutions or larger companies, paying royalties on future sales and sometimes upfront fees. CITIUS's filing may disclose such arrangements: if the company licenses a promising technology, it must pay the licensor a percentage of future revenue, reducing the economics of any drug it develops using that technology. Conversely, licensing reduces the company's R&D cost upfront.
 
@@ -61,7 +61,7 @@ Start with the MD&A section's pipeline overview: how many programs, at what stag
 
 Review the balance sheet for cash and short-term investments, and calculate runway. Examine the cash-flow statement to see where CITIUS is spending money: drug development, regulatory submissions, salaries, or general overhead. High G&A spending (general and administrative costs) relative to R&D suggests operational inefficiency; many biotech investors prefer lean back-office functions that maximize R&D investment.
 
-Check the stockholders' equity section for the number of shares outstanding and any recent issuances or anti-dilution provisions. A company that has issued many new shares recently may face additional dilution ahead.
+Check the stockholders' equity section for the number of shares outstanding and any recent issuances or [anti-dilution provisions](/anti-dilution-provisions/). A company that has issued many new shares recently may face additional dilution ahead.
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>

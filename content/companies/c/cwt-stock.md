@@ -9,7 +9,7 @@ keywords:
   - water-scarcity
 ---
 
-*The **California Water Service Group (CWT)** is a regulated water utility serving customers in California. Its revenues, rates, service territory, and capital expenditures are governed by the California Public Utilities Commission (CPUC). Unlike a typical private business where managers decide pricing, service standards, and investment levels, a water utility operates under a regulatory framework that defines what the company may charge, what returns it can earn, and what capital projects it must undertake. The company is profitable by regulation, not by market competition. Its future earnings depend entirely on CPUC decisions about rate structures, cost recovery, and the allowed return on equity.*
+*The **California Water Service Group (CWT)** is a regulated water utility serving customers in California. Its revenues, rates, service territory, and capital expenditures are governed by the California Public Utilities Commission (CPUC). Unlike a typical private business where managers decide pricing, service standards, and investment levels, a water utility operates under a regulatory framework that defines what the company may charge, what returns it can earn, and what capital projects it must undertake. The company is profitable by regulation, not by market competition. Its future earnings depend entirely on CPUC decisions about rate structures, cost recovery, and the allowed [return on equity](/return-on-equity/).*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>CWT</td></tr>
@@ -22,9 +22,9 @@ keywords:
 
 ## Rate Regulation and the Allowed Return
 
-California Water Service operates under a cost-of-service regulation model administered by the CPUC. The basic structure is this: the company submits to the CPUC a rate case (typically every three to five years) requesting an increase in customer rates. The company must demonstrate its costs of operation, capital investment requirements, cost of capital (the company's debt and equity financing costs), and a requested return on equity (ROE).
+California Water Service operates under a cost-of-service regulation model administered by the CPUC. The basic structure is this: the company submits to the CPUC a rate case (typically every three to five years) requesting an increase in customer rates. The company must demonstrate its costs of operation, capital investment requirements, cost of capital (the company's debt and [equity financing](/equity-financing/) costs), and a requested return on equity (ROE).
 
-The CPUC allows the utility to recover its reasonable and necessary operating costs plus a "fair" return on capital invested. Fair is typically defined as the cost of equity capital necessary to attract investors and lenders. The CPUC might determine that CWT's cost of capital is 8 percent (a weighted average of debt at 4 percent and equity at 10 percent). The company's rates are then set to recover operating costs plus this allowed return. If the company earns more than this return (because demand exceeded projections or costs were lower than expected), the CPUC may use that as justification to order a rate reduction in the next case. If the company earns less, it can ask for a rate increase.
+The CPUC allows the utility to recover its reasonable and necessary operating costs plus a "fair" return on capital invested. Fair is typically defined as the [cost of equity](/cost-of-equity/) capital necessary to attract investors and lenders. The CPUC might determine that CWT's cost of capital is 8 percent (a weighted average of debt at 4 percent and equity at 10 percent). The company's rates are then set to recover operating costs plus this allowed return. If the company earns more than this return (because demand exceeded projections or costs were lower than expected), the CPUC may use that as justification to order a rate reduction in the next case. If the company earns less, it can ask for a rate increase.
 
 This regulatory compact protects the company from price competition and bankruptcy risk (assuming the CPUC approves adequate rates) but also limits upside earnings. A software company can grow earnings by 20 percent per year if it innovates and captures market share; CWT's earnings are capped at a regulated return set by the CPUC.
 
@@ -56,7 +56,7 @@ In some drought years, CWT has been unable to fully meet demand. The company may
 
 CWT must continually replace and upgrade its infrastructure—pipes, treatment plants, pumps, reservoirs. A capital project (building a new water-treatment plant, replacing miles of aging pipes) requires regulatory approval. The company must file a detailed project description and cost estimate with the CPUC. The CPUC scrutinizes the cost, the alternatives, and whether the project is truly necessary or merely desirable.
 
-Large projects can be held up in regulatory review for years. If the CPUC is skeptical about the project's necessity or cost-effectiveness, it can delay approval, demand cost reduction, or require the company to explore alternatives. Once approved, the CPUC allows the company to recover the capital cost through depreciation and a return on the invested capital (the "rate base"). But approval is not guaranteed, and significant project delays can strand capital.
+Large projects can be held up in regulatory review for years. If the CPUC is skeptical about the project's necessity or cost-effectiveness, it can delay approval, demand cost reduction, or require the company to explore alternatives. Once approved, the CPUC allows the company to recover the capital cost through [depreciation](/depreciation/) and a return on the invested capital (the "rate base"). But approval is not guaranteed, and significant project delays can strand capital.
 
 Infrastructure conditions in many of CWT's service territories are poor. Aging pipes lose water to leakage; some pipes date to the early 1900s. Replacement is essential, but expensive. The CPUC must balance the company's need to recover capital costs against ratepayers' ability to pay. In low-income areas, high rates (needed to fund infrastructure replacement) create payment burden and political pressure to limit rate increases, which in turn limits the company's ability to fund replacement.
 
@@ -86,7 +86,7 @@ CWT's business model depends on regulatory stability—the assumption that the C
 
 ## Conclusion: Regulatory Returns and Policy Risk
 
-CWT's shareholders are not exposed to market risk in the traditional sense—demand risk, pricing risk, or competitive risk. Demand for water is stable and growing slowly. The company is protected from price competition by regulation. But shareholders are exposed to regulatory risk: the CPUC's decisions about rates, cost recovery, and allowed returns. The company's earnings are smooth and predictable only if the regulatory environment is stable. A shift in California water policy, conservation mandates, or the CPUC's stance on utility regulation creates earnings risk that is as material as operational risk in an unregulated company.
+CWT's shareholders are not exposed to [market risk](/market-risk/) in the traditional sense—demand risk, pricing risk, or competitive risk. Demand for water is stable and growing slowly. The company is protected from price competition by regulation. But shareholders are exposed to regulatory risk: the CPUC's decisions about rates, cost recovery, and allowed returns. The company's earnings are smooth and predictable only if the regulatory environment is stable. A shift in California water policy, conservation mandates, or the CPUC's stance on utility regulation creates earnings risk that is as material as [operational risk](/operational-risk/) in an unregulated company.
 
 ---
 

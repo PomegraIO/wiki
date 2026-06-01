@@ -29,7 +29,7 @@ CollPlant itself operates clinical trials for lead candidates to de-risk the tec
 
 ## Revenue Concentration and Partner Risk
 
-CollPlant's near-term revenue depends on securing licensees and collecting milestones. If the company has inked one or two major partnerships, those relationships dominate near-term cash flow. A delay in a partner's trial timeline or a change in a partner's commercial strategy can materially push back milestone recognition. Conversely, closing multiple licenses with different partners diversifies revenue timing and reduces concentration risk. The economics flip: a single high-value partner creates vulnerability; many modest partnerships create stable, if smaller, near-term cash generation.
+CollPlant's near-term revenue depends on securing licensees and collecting milestones. If the company has inked one or two major partnerships, those relationships dominate near-term cash flow. A delay in a partner's trial timeline or a change in a partner's commercial strategy can materially push back milestone recognition. Conversely, closing multiple licenses with different partners diversifies revenue timing and reduces [concentration risk](/concentration-risk/). The economics flip: a single high-value partner creates vulnerability; many modest partnerships create stable, if smaller, near-term cash generation.
 
 ## Intellectual Property Leverage and Competitive Moat
 
@@ -53,7 +53,7 @@ Many Israeli biotech firms, including CollPlant, benefit from grants and tax inc
 
 ### Wider context
 - [/public-company/](/public-company/) — Understanding equity markets for biotech
-- [/corporate-bond/](/corporate-bond/) — Debt financing for development-stage firms
+- [/corporate-bond/](/corporate-bond/) — [Debt financing](/debt-financing/) for development-stage firms
 - [/10-k/](/10-k/) — Where to find clinical trial status and partnership details
 
 </div>

@@ -26,7 +26,7 @@ A secondary moat derives from **technical expertise and institutional knowledge*
 
 Unlike software with network effects or a patent-protected product, BOS's moat depends on continuous execution. A key risk: the firm's business model requires scaling labor alongside revenue. As the company grows, it must hire more engineers, maintain quality across larger teams, and manage complexity across multiple client engagements. This scaling challenge is inherent to service businesses and creates pressure to either vertically integrate (build proprietary products) or risk commoditization over time.
 
-The company operates in a market where larger competitors—global consulting firms (Accenture, IBM), cloud hyperscalers (AWS, Azure, Google Cloud), and newer software-as-a-service platforms—have different economic models and balance sheets. These competitors can afford to undercut on price or invest in brand in ways BOS cannot. BOS's moat is therefore defensive rather than offensive; it holds existing clients but may struggle to win new ones against well-capitalized rivals.
+The company operates in a market where larger competitors—global consulting firms ([Accenture](/acn-stock/), IBM), cloud hyperscalers (AWS, Azure, Google Cloud), and newer software-as-a-service platforms—have different economic models and [balance sheets](/balance-sheet/). These competitors can afford to undercut on price or invest in brand in ways BOS cannot. BOS's moat is therefore defensive rather than offensive; it holds existing clients but may struggle to win new ones against well-capitalized rivals.
 
 ## Client Stickiness and the Service Leverage Problem
 

@@ -17,7 +17,7 @@ keywords: ["cardiovascular", "pharmaceutical development", "clinical trials", "C
 
 ## Clinical Development Stage and FDA Pathway Strategy
 
-MIST's 10-K discloses its development pipeline by program, therapeutic target, and current clinical stage. Cardiovascular disease encompasses multiple indications—arrhythmias, heart failure, angina, thrombotic events—each with different regulatory requirements and competitive landscapes. MIST's filings specify which indications the company is targeting and whether the FDA has granted any expedited-review designations (Fast Track, Breakthrough Therapy, Orphan Drug status) that could accelerate timelines.
+MIST's 10-K discloses its development pipeline by program, therapeutic target, and current clinical stage. Cardiovascular disease encompasses multiple indications—arrhythmias, heart failure, angina, thrombotic events—each with different regulatory requirements and competitive landscapes. MIST's filings specify which indications the company is targeting and whether the FDA has granted any expedited-review designations ([Fast Track](/ftrk-stock/), Breakthrough Therapy, Orphan Drug status) that could accelerate timelines.
 
 The regulatory pathway itself is disclosed. Is MIST pursuing a standard New Drug Application (NDA) requiring Phase 2 and Phase 3 efficacy trials, or is the program eligible for a more efficient approval pathway such as Accelerated Approval (conditional on post-approval confirmatory trials)? A reader studying MIST can extract the expected timeline to regulatory decision based on current trial stage and FDA guidance.
 
@@ -26,7 +26,7 @@ Clinical protocols are not disclosed in the 10-K, but trial status is. MIST must
 ## Intellectual Property and Patent Protection
 
 MIST's value creation depends on patent protection blocking generic competition. The 10-K discloses:
-- Issued patents and their expiration dates (when the company loses exclusivity)
+- Issued patents and their [expiration dates](/expiration-contracts/) (when the company loses exclusivity)
 - Patent applications pending (whether key compounds or mechanisms are protected pre-approval)
 - Third-party intellectual-property risks (is MIST infringing anyone else's patents? has anyone challenged MIST's filings?)
 
@@ -46,7 +46,7 @@ A company that has secured a long-term manufacturing agreement with a CMO has re
 
 ## Cash Burn and Financing Strategy
 
-MIST operates at a loss. The company's 10-K discloses quarterly cash burn, available cash, and estimated runway—the number of months until the company requires additional capital. A company burning $10 million per quarter with $20 million cash has 20 months of runway; it must have a financing plan or a revenue-generating approval within that window or face dilutive equity financing or insolvency.
+MIST operates at a loss. The company's 10-K discloses quarterly cash burn, available cash, and estimated runway—the number of months until the company requires additional capital. A company burning $10 million per quarter with $20 million cash has 20 months of runway; it must have a financing plan or a revenue-generating approval within that window or face dilutive [equity financing](/equity-financing/) or insolvency.
 
 Filings also disclose any committed financing arrangements: venture capital funding rounds, debt facilities, or partnerships with larger pharma companies that provide non-dilutive capital. A company with a secured Series C investment has certainty about its financial path; one relying on future fundraising carries risk that capital markets tighten or investor appetite wanes.
 

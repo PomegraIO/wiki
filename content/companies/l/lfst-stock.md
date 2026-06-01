@@ -21,7 +21,7 @@ keywords:
 
 ## The fragmentation opportunity
 
-Behavioral health in the US is radically fragmented. Individual therapists, counselors, and psychiatrists practice in solo shops or small groups. Insurance coverage is patchy. Most patients struggle to find available, affordable therapy; most providers struggle with billing, patient acquisition, and practice management. LifeStance's insight is that this fragmentation is economically inefficient and that a software platform could dramatically improve matching and operations.
+Behavioral health in the US is radically fragmented. Individual therapists, counselors, and psychiatrists practice in solo shops or small groups. Insurance coverage is patchy. Most patients struggle to find available, affordable therapy; most providers struggle with billing, patient [acquisition](/acquisition/), and practice management. LifeStance's insight is that this fragmentation is economically inefficient and that a software platform could dramatically improve matching and operations.
 
 Unlike LifeMD, which focuses on a single condition and medication, LifeStance attempts to aggregate multiple mental health and addiction services (therapy, psychiatry, coaching, telehealth and in-person visits) under a unified brand and interface. A patient can hypothetically enter once, define their needs, and be matched with an available provider. The company earns revenue by taking a percentage of provider payments, charging insurers for coordination, or charging patients directly.
 
@@ -43,7 +43,7 @@ LifeStance does not directly employ most of its providers; this is both a streng
 
 ## Scale and path to profitability
 
-LifeStance went public via SPAC merger in 2022, which signaled significant capital available for growth but also high expectations for near-term profitability. The company has been expanding rapidly, acquiring behavioral health practices and building out its platform. But acquisition-driven growth is expensive; each provider practice acquired means integration costs, cultural clashes, and the need to retain existing staff and revenue. This model works if LifeStance can consolidate practices, extract cost, and re-deploy capital to acquire the next wave—but it's capital-intensive and risky.
+LifeStance went public via SPAC [merger](/merger/) in 2022, which signaled significant capital available for growth but also high expectations for near-term profitability. The company has been expanding rapidly, acquiring behavioral health practices and building out its platform. But acquisition-driven growth is expensive; each provider practice acquired means integration costs, cultural clashes, and the need to retain existing staff and revenue. This model works if LifeStance can consolidate practices, extract cost, and re-deploy capital to acquire the next wave—but it's capital-intensive and risky.
 
 The alternative path is organic growth through the platform, relying on network effects (more patients attract more providers; more providers attract more patients) and pricing power from payers. This requires lower churn, clear clinical differentiation, and payer acceptance. LifeStance has not yet demonstrated this dynamic convincingly; growth is driven more by acquisition than by platform leverage.
 

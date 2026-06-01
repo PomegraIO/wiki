@@ -29,7 +29,7 @@ Regulatory approval also creates temporary moats. Once a device is approved, com
 
 No amount of regulatory approval matters if insurers won't pay. Fractyl competes directly with other metabolic interventions—weight-loss drugs, bariatric surgery, and diet programs—for insurance coverage. Payers evaluate cost-effectiveness and clinical necessity. If semaglutide costs $200 a month and shows 15% weight loss, and Fractyl's procedure costs $15,000 upfront and shows 20% weight loss, the payer calculates the marginal benefit per dollar. If that ratio doesn't justify the procedure, coverage is denied or limited to narrow populations, strangling demand.
 
-Fractyl's competitive leverage is highest when it can show that its intervention works better than or is cheaper than alternatives. If it cannot clear that bar, rivals—whether drug makers or other device companies—will capture the customer base. Reimbursement negotiations with major insurers (UnitedHealth, Anthem, Aetna) are zero-sum: every dollar Fractyl secures is a dollar not spent on competitors' products.
+Fractyl's competitive leverage is highest when it can show that its intervention works better than or is cheaper than alternatives. If it cannot clear that bar, rivals—whether drug makers or other device companies—will capture the customer base. Reimbursement negotiations with major insurers ([UnitedHealth](/unh-stock/), Anthem, Aetna) are zero-sum: every dollar Fractyl secures is a dollar not spent on competitors' products.
 
 ## Physician Adoption and Training Friction
 

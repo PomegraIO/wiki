@@ -4,7 +4,7 @@ description: "Gibson Energy is a Canadian midstream energy company that transpor
 keywords: [midstream, crude-oil, energy-infrastructure, throughput, storage, pipeline]
 ---
 
-*Gibson Energy Inc/ADR (GBNXF), trading over-the-counter, represents shares in a Canadian energy company that operates midstream infrastructure—pipelines, storage terminals, and blending facilities—connecting crude oil producers to refiners and consumers. The company operates as an American Depositary Receipt, allowing US shareholders to hold Canadian stock through a US-traded vehicle. Its unit economics are driven by the volume of crude and refined products moved through its infrastructure and the margin earned per unit of volume.*
+*Gibson Energy Inc/ADR (GBNXF), trading over-the-counter, represents shares in a Canadian energy company that operates midstream infrastructure—pipelines, storage terminals, and blending facilities—connecting [crude oil](/crude-oil/) producers to refiners and consumers. The company operates as an [American Depositary Receipt](/adr/), allowing US shareholders to hold Canadian stock through a US-traded vehicle. Its unit economics are driven by the volume of crude and refined products moved through its infrastructure and the margin earned per unit of volume.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GBNXF</td></tr>
@@ -41,7 +41,7 @@ Contracted revenue is lower-risk but less upside. Spot revenue is higher-risk bu
 
 ## Investment in Capacity and Expansion
 
-To grow throughput, Gibson must invest in new pipelines, terminals, and transportation assets. A new pipeline that costs $100 million to build can move 500,000 barrels per year at $2 per barrel margin, generating $1 million in annual profit. The return on investment is 1 percent annually—a very low return if the company has a cost of capital (cost of debt and equity) of 6 to 8 percent.
+To grow throughput, Gibson must invest in new pipelines, terminals, and transportation assets. A new pipeline that costs $100 million to build can move 500,000 barrels per year at $2 per barrel margin, generating $1 million in annual profit. The return on investment is 1 percent annually—a very low return if the company has a cost of capital ([cost of debt](/cost-of-debt/) and equity) of 6 to 8 percent.
 
 For expansion to be justified, either the volume must be higher, the margin must be higher, or the useful life of the asset must be much longer than the simple one-year calculation above suggests. Gibson's long-lived infrastructure assets (pipelines, tanks) have useful lives of 20 to 40 years, so the unit economics must be evaluated over the full lifecycle. A pipeline earning 1 percent annually over 30 years generates a 30 percent total return, which, when discounted and compounded, can justify the capital outlay.
 
@@ -55,10 +55,10 @@ Additionally, regulatory delays in permitting new capacity can slow Gibson's gro
 
 Midstream companies like Gibson are highly capital-intensive: they must regularly invest in maintaining and expanding infrastructure. To fund this, they rely heavily on debt. A company with $2 billion in assets might carry $1.2 billion in debt, financing growth and capital maintenance through borrowing and [dividends](/dividend/) paid from operating cash flow.
 
-The unit economics therefore include the cost of debt: higher interest rates reduce the margin available for dividends or growth. In a period of rising rates, Gibson's profitability per unit transported may be unchanged, but the cost of its debt increases, and the return to shareholders compresses unless operating margins expand to compensate.
+The unit economics therefore include the cost of debt: higher [interest rates](/interest-rate/) reduce the margin available for dividends or growth. In a period of rising rates, Gibson's profitability per unit transported may be unchanged, but the cost of its debt increases, and the return to shareholders compresses unless [operating margins](/operating-margin/) expand to compensate.
 
 ## Commodity and Currency Exposure
 
-Gibson operates in Canadian dollars but has some exposure to US dollar denominated costs (regulatory compliance, parts procurement) and to commodity prices (crude, refined products, specialty liquids). A weakening Canadian dollar makes imported costs more expensive in local currency terms. A sharp decline in crude prices can reduce shipper demand for transportation (if margins in their own business fall, they defer expansion that would require pipeline volumes).
+Gibson operates in [Canadian dollars](/canadian-dollar/) but has some exposure to [US dollar](/us-dollar/) denominated costs (regulatory compliance, parts procurement) and to commodity prices (crude, refined products, specialty liquids). A weakening Canadian dollar makes imported costs more expensive in local currency terms. A sharp decline in crude prices can reduce shipper demand for transportation (if margins in their own business fall, they defer expansion that would require pipeline volumes).
 
 The unit economics of Gibson's business are therefore exposed to macroeconomic and currency headwinds that are beyond the company's control.

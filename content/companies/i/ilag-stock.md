@@ -25,7 +25,7 @@ However, the market for aging-in-place technology is nascent, fragmented, and hi
 
 ## Competitive Pressure from Incumbents and Scale Players
 
-The aging-care and smart-home markets have attracted large, well-capitalized competitors. Amazon (with Alexa and Ring), Google (Nest, Google Home), Apple (with HealthKit and home integration), and Samsung all offer aging-in-place and smart-home features as part of broader ecosystems. These giants have orders-of-magnitude more resources, established supply chains, large installed bases, and brand recognition.
+The aging-care and smart-home markets have attracted large, well-capitalized competitors. Amazon (with Alexa and Ring), Google (Nest, Google Home), [Apple](/aapl-stock/) (with HealthKit and home integration), and Samsung all offer aging-in-place and smart-home features as part of broader ecosystems. These giants have orders-of-magnitude more resources, established supply chains, large installed bases, and brand recognition.
 
 ILAG must differentiate on specialized features, better user experience for elderly users, or superior healthcare integration. But competing against Amazon or Google's hardware and software ecosystems is extremely difficult for a small, underfunded competitor. If ILAG's platform lacks clear advantages or if it depends on integration with Amazon or Google devices (which changes at Amazon or Google's discretion), ILAG's strategic autonomy is compromised.
 
@@ -33,7 +33,7 @@ Specialized incumbents also pose risk. Companies like Life Alert, Medical Guardi
 
 ## Adoption and Customer Acquisition Risk
 
-Persuading elderly individuals or their families to adopt a new technology is harder than it appears. Many elderly people have limited digital literacy, privacy concerns, or skepticism about the technology's value. Marketing and customer acquisition costs can be high, and churn is a risk if users feel the system is cumbersome, intrusive, or not delivering clear benefits.
+Persuading elderly individuals or their families to adopt a new technology is harder than it appears. Many elderly people have limited digital literacy, privacy concerns, or skepticism about the technology's value. Marketing and customer [acquisition](/acquisition/) costs can be high, and churn is a risk if users feel the system is cumbersome, intrusive, or not delivering clear benefits.
 
 Healthcare providers and senior-living operators may be more sophisticated buyers, but they are also conservative and demand integration with existing electronic health records and workflow systems. Customization and integration are expensive, and competition for contracts is intense. Win rates may be low, and margins may be compressed by discounting and implementation costs.
 

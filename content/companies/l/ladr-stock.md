@@ -4,7 +4,7 @@ description: "A real estate finance firm that originates and manages commercial 
 keywords: ["real estate finance", "mortgage origination", "REIT", "net interest margin", "loan portfolio"]
 ---
 
-*The commercial real estate lending business of **Ladder Capital Corp** (LADR) is fundamentally a unit-margin game: the company originates loans to commercial property owners, funds those loans from capital markets, and captures the spread between its borrowing cost and the yield it earns on each loan. That spread, multiplied by the size of the loan portfolio, drives earnings. Unlike a retailer with thousands of small transactions, Ladder operates with dozens to hundreds of loans, each a distinct unit whose profitability depends on a precise calculation of interest, fees, and default risk.*
+*The [commercial real estate](/commercial-real-estate/) lending business of **Ladder Capital Corp** (LADR) is fundamentally a unit-margin game: the company originates loans to commercial property owners, funds those loans from capital markets, and captures the spread between its borrowing cost and the yield it earns on each loan. That spread, multiplied by the size of the loan portfolio, drives earnings. Unlike a retailer with thousands of small transactions, Ladder operates with dozens to hundreds of loans, each a distinct unit whose profitability depends on a precise calculation of interest, fees, and default risk.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>LADR</td></tr>
@@ -22,13 +22,13 @@ That spread is attractive or unattractive depending on the risk profile of the p
 
 ## Portfolio Duration and Rate Risk
 
-Commercial mortgages typically have terms of 5 to 15 years, while Ladder's funding costs—driven by its debt issuances and credit facility borrowings—may be shorter or reset more frequently. This maturity mismatch introduces interest-rate risk at the unit level. If Ladder locks in a 10-year loan at 6.5% but its cost of funds rises to 6% within a year and remains elevated, the spread on that loan narrows in economic value, even though the contractual payment does not change. Over a portfolio of hundreds of loans, this duration mismatch is material.
+Commercial mortgages typically have terms of 5 to 15 years, while Ladder's funding costs—driven by its debt issuances and credit facility borrowings—may be shorter or reset more frequently. This maturity mismatch introduces [interest-rate risk](/interest-rate-risk/) at the unit level. If Ladder locks in a 10-year loan at 6.5% but its cost of funds rises to 6% within a year and remains elevated, the spread on that loan narrows in economic value, even though the contractual payment does not change. Over a portfolio of hundreds of loans, this duration mismatch is material.
 
-The unit economics of Ladder's lending are therefore not static. Each loan's true profitability depends not just on whether the borrower pays but on the trajectory of interest rates after origination. A portfolio originated during low-rate periods can become deeply unprofitable if rates rise significantly and the company's cost of funds tracks upward while loan yields are fixed.
+The unit economics of Ladder's lending are therefore not static. Each loan's true profitability depends not just on whether the borrower pays but on the trajectory of [interest rates](/interest-rate/) after origination. A portfolio originated during low-rate periods can become deeply unprofitable if rates rise significantly and the company's cost of funds tracks upward while loan yields are fixed.
 
 ## Default and Loss Reserve: The Hidden Cost Per Unit
 
-Not every loan Ladder originates will pay in full. Commercial real estate is cyclical; properties can fall into distress due to vacancy, tenant bankruptcy, or declining valuations. Ladder must reserve against expected losses on its portfolio. This reserve is a real economic cost that reduces the margin per loan. If Ladder's historical default rate and loss-given-default suggest that 0.5% of the loan portfolio will be written off over its life, that 0.5% is a drag on profitability.
+Not every loan Ladder originates will pay in full. Commercial real estate is cyclical; properties can fall into distress due to vacancy, tenant bankruptcy, or declining valuations. Ladder must reserve against expected losses on its portfolio. This reserve is a real economic cost that reduces the margin per loan. If Ladder's historical [default rate](/default-rate/) and loss-given-default suggest that 0.5% of the loan portfolio will be written off over its life, that 0.5% is a drag on profitability.
 
 The reserve estimate is forward-looking and must account for economic conditions. During boom cycles, loss reserves may be light, inflating current-period margins. During downturns or when credit concerns rise, loss reserves balloon, compressing earnings. A loan that appeared to have a 1.3% spread when originated may prove to have had an actual 0.8% spread once loss reserves are accounted for. Ladder's reported earnings are meaningless without understanding its reserve adequacy.
 
@@ -40,7 +40,7 @@ Servicing fees are smaller but more durable. Ladder may earn 0.25% of the outsta
 
 ## Leverage and the Margin Multiplier
 
-Ladder, like other mortgage REITs, is highly leveraged. It may use $8 or $9 of debt for every $1 of equity to fund its loan portfolio. This leverage magnifies returns on equity. If the net interest spread on the loan portfolio is 1.0% and the company is 9:1 leveraged, the return on equity could be 9% or higher (before operating costs and losses). Conversely, leverage magnifies losses. If spreads compress or credit losses spike, the equity is quickly eroded.
+Ladder, like other [mortgage REITs](/mortgage-reit/), is highly leveraged. It may use $8 or $9 of debt for every $1 of equity to fund its loan portfolio. This leverage magnifies returns on equity. If the net interest spread on the loan portfolio is 1.0% and the company is 9:1 leveraged, the [return on equity](/return-on-equity/) could be 9% or higher (before operating costs and losses). Conversely, leverage magnifies losses. If spreads compress or credit losses spike, the equity is quickly eroded.
 
 The unit economics of leverage are thus critical. A margin that appears slim—0.8%—becomes attractive if the company can deploy 9 dollars of debt for every dollar of equity and still maintain safety. But any deterioration in credit quality or widening of funding costs can render that leverage dangerous.
 

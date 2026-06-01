@@ -4,7 +4,7 @@ description: "Canadian recreational vehicle manufacturer specializing in watercr
 keywords: [recreational vehicles, RVs, powersports, marine, snowmobiles, ATVs, manufacturing]
 ---
 
-*Leisure spending is cyclical, but the appetite for recreational vehicles—boats, snowmobiles, all-terrain vehicles—runs deep in wealthy markets. **BRP Inc. (DOO)** manufactures these vehicles under brands including Sea-Doo, Bombardier Recreational Products, and Evinrude, operating factories in Canada, the United States, Mexico, and Europe. The company's profit rides on consumer discretionary spending, product mix (high-margin luxury watercraft versus lower-margin utility vehicles), and the supply-chain cost environment.*
+*Leisure spending is cyclical, but the appetite for recreational vehicles—boats, snowmobiles, all-terrain vehicles—runs deep in wealthy markets. **BRP Inc. (DOO)** manufactures these vehicles under brands including Sea-Doo, Bombardier Recreational Products, and Evinrude, operating factories in Canada, the United States, Mexico, and Europe. The company's profit rides on consumer [discretionary spending](/discretionary-spending/), product mix (high-margin luxury watercraft versus lower-margin utility vehicles), and the supply-chain cost environment.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DOO</td></tr>
@@ -17,7 +17,7 @@ keywords: [recreational vehicles, RVs, powersports, marine, snowmobiles, ATVs, m
 
 ## The discretionary spending trap
 
-BRP's revenue is directly proportional to consumer and commercial discretionary spending. In years when household wealth is high, confidence is strong, and interest rates are low, recreation budgets expand and BRP sales surge. In recessions or periods of rising rates and inflation, discretionary spending collapses first. This makes BRP a classic cyclical stock.
+BRP's revenue is directly proportional to consumer and commercial discretionary spending. In years when household wealth is high, confidence is strong, and [interest rates](/interest-rate/) are low, recreation budgets expand and BRP sales surge. In [recessions](/recession/) or periods of rising rates and [inflation](/inflation/), discretionary spending collapses first. This makes BRP a classic cyclical stock.
 
 The severity of this cycle matters. A recession that depresses consumer spending by 10-15% can cut recreational vehicle demand by 30-40% because potential buyers delay or cancel purchases. BRP cannot easily flex capacity downward—factories, labor, and supply agreements are largely fixed. When demand drops, the company must cut production, furlough workers, or absorb inventory buildup and write-downs. When demand rebounds, capacity constraints and supply-chain delays limit how fast BRP can respond. This asymmetry means the company is often either supply-constrained (missing sales) or demand-constrained (sitting on excess inventory) rather than in balance.
 
@@ -37,7 +37,7 @@ BRP's revenue is heavily concentrated in North America, particularly the United 
 
 International expansion is a long-term growth lever—BRP has operations in Europe and Asia—but these regions remain smaller and growth is slower. Dependence on North America for the majority of revenue means BRP is exposed to North American economic cycles and consumer confidence, not diversified across multiple developed markets.
 
-Geographic concentration also means currency risk: a strong U.S. dollar makes BRP's products more expensive internationally and reduces profit when translated back to Canadian dollars (BRP is Canadian-listed). Management hedges some of this currency exposure through financial instruments, but not all.
+Geographic concentration also means [currency risk](/currency-risk/): a strong U.S. dollar makes BRP's products more expensive internationally and reduces profit when translated back to [Canadian dollars](/canadian-dollar/) (BRP is Canadian-listed). Management hedges some of this currency exposure through financial instruments, but not all.
 
 ## Dealer network and relationship management
 
@@ -49,7 +49,7 @@ BRP's dealer strategy has shifted over recent years toward consolidation and sel
 
 BRP is a manufacturing and capital-intensive business. The company owns or leases factories, tooling, and supply-chain infrastructure. This requires significant capital expenditure. To fund this and operations, BRP has taken on debt. During the 2020-2021 period of strong leisure spending and favorable financing conditions, the company expanded capacity and carried higher debt levels. As rates rose and demand softened, this debt became more burdensome.
 
-BRP's [balance sheet](/balance-sheet/) shows total debt, and the [income statement](/income-statement/) shows interest expense. Understanding the company's debt maturity schedule and refinancing risk is important: if large debt tranches mature when rates are high and refinancing is costly, the company's cash flow to shareholders may be constrained. Conversely, if debt is mostly long-term and fixed-rate, the company has more flexibility.
+BRP's [balance sheet](/balance-sheet/) shows total debt, and the [income statement](/income-statement/) shows interest expense. Understanding the company's debt maturity schedule and [refinancing risk](/refinancing-risk/) is important: if large debt [tranches](/tranche/) mature when rates are high and refinancing is costly, the company's cash flow to shareholders may be constrained. Conversely, if debt is mostly long-term and fixed-rate, the company has more flexibility.
 
 ## What to read in BRP's filings
 
@@ -57,7 +57,7 @@ Start with the revenue by segment and geography: how much of BRP's revenue comes
 
 Next, read the accounts-receivable aging and inventory levels. High inventory relative to quarterly revenue suggests either strong demand (good inventory position) or slowing demand (excess inventory that will need clearance). Inventory write-downs in periods of slowing demand are common in discretionary manufacturing.
 
-Finally, examine the debt schedule and interest-coverage ratio: debt divided by EBIT (earnings before interest and taxes). If interest expense is growing faster than operating income, debt capacity is shrinking. Also read any forward guidance on demand or capital allocation; management commentary on dealer inventory levels and order flow is a leading indicator of next-quarter sales.
+Finally, examine the debt schedule and interest-coverage ratio: debt divided by EBIT (earnings before interest and taxes). If interest expense is growing faster than operating income, debt capacity is shrinking. Also read any [forward guidance](/forward-guidance/) on demand or capital allocation; management commentary on dealer inventory levels and order flow is a leading indicator of next-quarter sales.
 
 <div class="wiki-seealso">
 

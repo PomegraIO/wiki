@@ -24,7 +24,7 @@ This positioning exposes the firm to competition from established rental and lea
 
 ## Competitive Dynamics in Shared Mobility
 
-Motomova navigates a crowded field of short-term vehicle access models. Traditional rental chains dominate urban centers with fixed locations and predictable demand. Peer-to-peer platforms compete on vehicle variety and owner earnings. Corporate fleet services focus on subscription models with long-term commitments. Within this ecosystem, Motomova's niche appears to be flexible, transaction-based vehicle logistics—connecting supply and demand in ways that existing infrastructure does not serve efficiently.
+Motomova navigates a crowded field of short-term vehicle access models. Traditional rental chains dominate urban centers with fixed locations and predictable demand. Peer-to-peer platforms compete on vehicle variety and [owner earnings](/owner-earnings-buffett/). Corporate fleet services focus on subscription models with long-term commitments. Within this ecosystem, Motomova's niche appears to be flexible, transaction-based vehicle logistics—connecting supply and demand in ways that existing infrastructure does not serve efficiently.
 
 The competitive threat is both horizontal (other logistics platforms) and vertical (backward integration by insurers or fleet management software vendors, forward integration by ride-hailing platforms into vehicle supply). Success depends on whether Motomova can accumulate enough transaction volume to undercut competitors on per-unit costs, or whether it can lock in customers through proprietary workflows or data insights unavailable elsewhere.
 
@@ -48,7 +48,7 @@ If the company depends on driver retention or retention of vehicle owners, churn
 
 ## Pathways for Value Creation
 
-For Motomova to differentiate and build defensible market position, the most plausible paths involve deepening operational efficiency in target geographies, leveraging [data](/balance-sheet/) and predictive analytics to optimize utilization, or building integrations with adjacent services (insurance, maintenance, financing) that create switching costs. The company could also pursue selective acquisitions of regional logistics operators to achieve scale faster than organic growth permits.
+For Motomova to differentiate and build defensible market position, the most plausible paths involve deepening operational efficiency in target geographies, leveraging [data](/balance-sheet/) and predictive analytics to optimize utilization, or building integrations with adjacent services (insurance, maintenance, financing) that create switching costs. The company could also pursue selective [acquisitions](/acquisition/) of regional logistics operators to achieve scale faster than organic growth permits.
 
 Alternatively, if Motomova can demonstrate profitable unit economics in a concentrated market (one or two metropolitan areas), it may attract capital or become an acquisition target for a larger logistics or mobility provider seeking to fill gaps in its own network.
 

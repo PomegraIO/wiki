@@ -29,15 +29,15 @@ For Barnwell, Hawaiian sugar operations may operate near breakeven, driven by la
 
 ## Oil and Gas in the Gulf of Mexico: Mature Production and Hedging Pressure
 
-The Gulf of Mexico basin contains thousands of producing fields, from mega-fields operated by majors (ExxonMobil, Shell, Chevron) to smaller stripper wells and mid-sized fields operated by independents. Barnwell, as a smaller producer, likely operates mature or semi-depleted fields where production declines predictably and upside is limited but cash flow is stable (assuming commodity prices hold). Smaller operators in the Gulf face regulatory compliance costs, environmental monitoring, and liability provisions for decommissioning wells—a non-trivial expense as fields mature.
+The Gulf of Mexico basin contains thousands of producing fields, from mega-fields operated by majors (ExxonMobil, Shell, [Chevron](/cvx-stock/)) to smaller stripper wells and mid-sized fields operated by independents. Barnwell, as a smaller producer, likely operates mature or semi-depleted fields where production declines predictably and upside is limited but cash flow is stable (assuming commodity prices hold). Smaller operators in the Gulf face regulatory compliance costs, environmental monitoring, and liability provisions for decommissioning wells—a non-trivial expense as fields mature.
 
 Barnwell's [free cash flow](/free-cash-flow/) from oil and gas depends entirely on commodity prices. A decline in oil or natural-gas prices directly reduces revenues and cash generation. Many oil-and-gas companies hedge a portion of their production through commodity-futures contracts to smooth revenue volatility; Barnwell's footnotes on risk management reveal whether it mitigates price exposure.
 
 ## Multi-Sector Complexity and Valuation Challenges
 
-A company with operations in two separate industries creates complexity for investors and acquirers. A stock buyer interested in energy exposure may be indifferent to (or frustrated by) Hawaiian sugar holdings; an agricultural investor may view the oil-and-gas segment as an unwanted risk. This complexity can result in a "conglomerate discount"—the sum-of-parts valuation is lower than if each segment were separately listed. For Barnwell, this discount may be severe if neither business is a market leader or growth driver.
+A company with operations in two separate industries creates complexity for investors and acquirers. A stock buyer interested in energy exposure may be indifferent to (or frustrated by) Hawaiian sugar holdings; an agricultural investor may view the oil-and-gas segment as an unwanted risk. This complexity can result in a "[conglomerate discount](/conglomerate-discount/)"—the sum-of-parts valuation is lower than if each segment were separately listed. For Barnwell, this discount may be severe if neither business is a market leader or growth driver.
 
-Conversely, the diversification may provide a form of stability: if oil prices crash and energy revenue evaporates, Hawaiian agricultural assets and land holdings may provide a floor. But if both segments underperform simultaneously (low oil prices, weak sugar demand), the company offers little refuge.
+Conversely, the [diversification](/diversification/) may provide a form of stability: if oil prices crash and energy revenue evaporates, Hawaiian agricultural assets and land holdings may provide a floor. But if both segments underperform simultaneously (low oil prices, weak sugar demand), the company offers little refuge.
 
 ## Asset Base and Land Value
 

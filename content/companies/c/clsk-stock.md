@@ -4,7 +4,7 @@ description: "Bitcoin mining operator generating revenue from block rewards and 
 keywords: ["cryptocurrency", "bitcoin mining", "blockchain", "energy", "digital currency"]
 ---
 
-*CleanSpark operates commercial-scale bitcoin mining facilities, converting electrical power into computational work to validate blockchain transactions and earn block rewards. The company's economics are stark: revenue equals the fiat value of bitcoins mined, and profit is what remains after subtracting the cost of electricity, hardware depreciation, facility operations, and labor. **CLSK** distinguishes itself by investing in renewable energy partnerships and efficient mining hardware, aiming to capture margin from the gap between the bitcoin it produces and what it costs to produce it.*
+*CleanSpark operates commercial-scale bitcoin mining facilities, converting electrical power into computational work to validate blockchain transactions and earn block rewards. The company's economics are stark: revenue equals the fiat value of [bitcoins](/bitcoin/) mined, and profit is what remains after subtracting the cost of electricity, hardware [depreciation](/depreciation/), facility operations, and labor. **CLSK** distinguishes itself by investing in renewable energy partnerships and efficient mining hardware, aiming to capture margin from the gap between the bitcoin it produces and what it costs to produce it.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CLSK</td></tr>
@@ -21,7 +21,7 @@ CleanSpark's business reduces to a single, transparent formula: cost per terahas
 
 ## Electricity as the Binding Constraint
 
-In modern bitcoin mining, electricity is not a byproduct cost; it is the dominant one. A mining rig consuming more power than a competitor's rig to produce the same hash rate is a liability. CleanSpark's stated strategy is to secure electricity from renewable sources—hydroelectric, solar, wind—at below-market rates, and to do so on long-term contracts that insulate the company from spot price swings. A facility powered by cheap hydroelectric in a region with excess supply can operate profitably where one powered by grid electricity in a dense urban market cannot. This geographic and procurement advantage is not a permanent moat, but it is a real one for as long as the contracts hold.
+In modern bitcoin mining, electricity is not a byproduct cost; it is the dominant one. A mining rig consuming more power than a competitor's rig to produce the same [hash rate](/hash-rate/) is a liability. CleanSpark's stated strategy is to secure electricity from renewable sources—hydroelectric, solar, wind—at below-market rates, and to do so on long-term contracts that insulate the company from spot price swings. A facility powered by cheap hydroelectric in a region with excess supply can operate profitably where one powered by grid electricity in a dense urban market cannot. This geographic and procurement advantage is not a permanent moat, but it is a real one for as long as the contracts hold.
 
 ## Hardware Obsolescence and Capital Intensity
 
@@ -33,7 +33,7 @@ CleanSpark earns bitcoins, not dollars. The company's cash is denominated in a v
 
 ## Competing on Facilities and Infrastructure
 
-Larger mining pools and industrial-scale operations enjoy advantages in facility design, redundant cooling systems, negotiated electricity rates, and relationships with chip manufacturers and equipment vendors. CleanSpark's ability to compete depends on its ability to build or acquire facilities with favorable long-term power contracts and to maintain state-of-the-art hardware. This is capital-heavy and requires sustained balance-sheet strength. A downturn in bitcoin prices can force smaller, less capitalized miners to shut down facilities, freeing up equipment and electricity supply; larger operators like CleanSpark can consolidate market share by continuing to operate at lower profitability.
+Larger [mining pools](/mining-pool/) and industrial-scale operations enjoy advantages in facility design, redundant cooling systems, negotiated electricity rates, and relationships with chip manufacturers and equipment vendors. CleanSpark's ability to compete depends on its ability to build or acquire facilities with favorable long-term power contracts and to maintain state-of-the-art hardware. This is capital-heavy and requires sustained balance-sheet strength. A downturn in bitcoin prices can force smaller, less capitalized miners to shut down facilities, freeing up equipment and electricity supply; larger operators like CleanSpark can consolidate market share by continuing to operate at lower profitability.
 
 ## Directional Exposure to Blockchain Adoption
 

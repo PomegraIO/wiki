@@ -4,7 +4,7 @@ description: "Finnish quantum computing hardware company developing superconduct
 keywords: ["quantum computing", "hardware", "Finland", "superconducting qubits", "IQM", "quantum processors"]
 ---
 
-*When **IQM Finland Oy (IQMX)** went public via SPAC merger in 2023, it brought a European quantum hardware agenda to the U.S. public markets. Unlike many quantum hopefuls that claim to solve everything, IQM is narrowly built: it designs and manufactures superconducting quantum processors and the control electronics to run them, targeting industrial partners and research institutions that want a tailored quantum system rather than cloud access alone.*
+*When **IQM Finland Oy (IQMX)** went public via SPAC [merger](/merger/) in 2023, it brought a European quantum hardware agenda to the U.S. public markets. Unlike many quantum hopefuls that claim to solve everything, IQM is narrowly built: it designs and manufactures superconducting quantum processors and the control electronics to run them, targeting industrial partners and research institutions that want a tailored quantum system rather than cloud access alone.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IQMX</td></tr>
@@ -23,7 +23,7 @@ A reader approaching the 10-K should note where manufacturing is actually happen
 
 ## Capital Intensity and Timeline Risk
 
-Quantum computing hardware is a capital-intensive venture with a long runway to revenue. The SPAC merger gave IQM a cash infusion that should cover several years of R&D and customer integration work, but you must ask: what is the cash burn rate, and how many customer orders are in the pipeline? The 10-K will disclose revenue from early pilots and commercial contracts; read these carefully. Are they recognizing revenue upfront on delivery, or over time as the customer integrates and uses the system? The accounting treatment matters enormously for assessing both near-term profitability and the true customer commitment.
+[Quantum computing](/qubt-stock/) hardware is a capital-intensive venture with a long runway to revenue. The SPAC merger gave IQM a cash infusion that should cover several years of R&D and customer integration work, but you must ask: what is the cash burn rate, and how many customer orders are in the pipeline? The 10-K will disclose revenue from early pilots and commercial contracts; read these carefully. Are they recognizing revenue upfront on delivery, or over time as the customer integrates and uses the system? The accounting treatment matters enormously for assessing both near-term profitability and the true customer commitment.
 
 IQM's business model also hinges on strategic partnerships. Look in the 10-K's "Partnerships" or "Collaborations" section for names of academic consortia, industrial customers, and co-development agreements. These are leading indicators that the technology is advancing and that the addressable market is moving from "future promise" to "current engineering challenges." Universities and research institutes often publish their results, so cross-checking the company's claimed collaborations against public papers is a reasonable due-diligence step an analyst might take.
 
@@ -41,7 +41,7 @@ Also note debt and equity issuances. The SPAC structure often includes earnouts 
 
 ## Regulatory and Operational Constraints
 
-Quantum processors involve cryogenic systems, vacuum chambers, and microwave electronics. The 10-K should address safety certifications, environmental permits, and any export controls on quantum technology (which exist, particularly for certain chip architectures and the U.S.-China tech landscape). Additionally, the company must disclose talent retention and hiring challenges; quantum engineers are scarce, and wage inflation in the field is real. Look for turnover rates among the engineering team in the proxy statement.
+Quantum processors involve cryogenic systems, vacuum chambers, and microwave electronics. The 10-K should address safety certifications, environmental permits, and any export controls on quantum technology (which exist, particularly for certain chip architectures and the U.S.-China tech landscape). Additionally, the company must disclose talent retention and hiring challenges; quantum engineers are scarce, and wage [inflation](/inflation/) in the field is real. Look for turnover rates among the engineering team in the proxy statement.
 
 Finally, check the business-outlook sections for commentary on the timeline to practical "quantum advantage"—the point where a quantum processor outperforms classical machines on commercially relevant problems. IQM's long-term viability depends on this threshold arriving before investor patience or capital runs dry.
 

@@ -37,7 +37,7 @@ Cencora's primary revenue comes from the spread between the wholesale price it p
 
 The company also earns significant revenue from specialty pharmaceutical distribution, where the margins are higher. Specialty drugs — expensive, often complex-to-administer medicines for conditions like cancer, autoimmune diseases, or hemophilia — cannot be handled like ordinary pills. They require careful storage, sometimes refrigeration, specialized handling and delivery, patient education, and adherence support. Cencora operates a specialty pharmacy business that dispenses these drugs directly to patients or healthcare providers, capturing higher margins for the additional service.
 
-A third and growing revenue stream comes from data, analytics, and information services provided to pharmacies and healthcare systems. Cencora operates platforms that allow pharmacies to manage inventory, track patient adherence, identify cost-saving opportunities, and comply with regulations. These services command recurring fees and are not purely dependent on transaction volume, providing some margin stability.
+A third and growing revenue stream comes from data, analytics, and [information services](/iii-stock/) provided to pharmacies and healthcare systems. Cencora operates platforms that allow pharmacies to manage inventory, track patient adherence, identify cost-saving opportunities, and comply with regulations. These services command recurring fees and are not purely dependent on transaction volume, providing some margin stability.
 
 ## Scale, Automation, and Inventory Management
 

@@ -49,13 +49,13 @@ If Endonovo outsources manufacturing, it is dependent on a contract manufacturer
 
 ## Strategic Dependence and Acquisition Risk
 
-A small, pre-commercial medical device company often ends up as an acquisition target. Large device makers (Medtronic, Stryker, Johnson & Johnson, Boston Scientific) acquire promising technologies to fill pipeline gaps or expand into new indications. An acquisition can be a positive exit for shareholders—if the purchase price reflects the true value of the technology. But acquisitions of pre-commercial firms often occur at low valuations, reflecting the risk and capital still required. Shareholders realize gains, but those gains are uncertain until a deal closes.
+A small, pre-commercial medical device company often ends up as an acquisition target. Large device makers (Medtronic, Stryker, [Johnson & Johnson](/jnj-stock/), [Boston Scientific](/bsx-stock/)) acquire promising technologies to fill pipeline gaps or expand into new indications. An acquisition can be a positive exit for shareholders—if the purchase price reflects the true value of the technology. But [acquisitions](/acquisition/) of pre-commercial firms often occur at low valuations, reflecting the risk and capital still required. Shareholders realize gains, but those gains are uncertain until a deal closes.
 
 If Endonovo pursues independence and is not acquired, it must compete with much larger, better-capitalized rivals for market share and investment attention. This is a harder path.
 
 ## Management Incentives and Conflicts
 
-Early-stage medical device and biotech companies often have management teams incentivized by equity and options. This aligns managers' interests with long-term value creation. But it also creates conflict: management may be optimistic about trial data, downplay clinical risks, or pursue a capital raise strategy that benefits themselves (through option acceleration or founder liquidation) at shareholders' expense. A management team with a history of failed ventures or ethical lapses carries higher agency risk.
+Early-stage medical device and biotech companies often have management teams incentivized by equity and options. This aligns managers' interests with long-term value creation. But it also creates conflict: management may be optimistic about trial data, downplay clinical risks, or pursue a capital raise strategy that benefits themselves (through option acceleration or founder [liquidation](/liquidation/)) at shareholders' expense. A management team with a history of failed ventures or ethical lapses carries higher agency risk.
 
 ## Intellectual Property and Patent Cliff Risk
 

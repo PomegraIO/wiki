@@ -4,7 +4,7 @@ description: "Mobile-health Network Solutions develops mobile health technology 
 keywords: ["telemedicine", "mhealth", "healthcare technology", "patient engagement", "digital health", "remote healthcare"]
 ---
 
-*Mobile-health Network Solutions (MNDR) is a healthcare technology company focused on developing and deploying mobile health platforms and telemedicine solutions. The company designs software and infrastructure that enable patients to access healthcare services remotely, help healthcare providers manage patient interactions, and support healthcare organizations in modernizing their delivery operations through digital channels.*
+*Mobile-health Network Solutions (MNDR) is a healthcare technology company focused on developing and deploying mobile health platforms and telemedicine solutions. The company designs software and infrastructure that enable patients to access [healthcare services](/hcsg-stock/) remotely, help healthcare providers manage patient interactions, and support healthcare organizations in modernizing their delivery operations through digital channels.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MNDR</td></tr>
@@ -58,7 +58,7 @@ Understanding MNDR's financial health requires examining unit economics: the cos
 In healthcare IT, a successful software company typically has:
 - High customer retention (healthcare organizations stick with software solutions once deployed)
 - High gross margins (software scales—once built, delivery costs are low)
-- Moderate customer acquisition cost (selling to healthcare requires salespeople and time)
+- Moderate customer [acquisition](/acquisition/) cost (selling to healthcare requires salespeople and time)
 - Long sales cycles (healthcare organizations evaluate options carefully and move slowly)
 
 MNDR's 10-K will reveal whether the company achieves these unit economics. If customer acquisition costs are too high relative to customer lifetime value, the company will struggle to grow profitably. If retention is poor (customers churn quickly), the business model fails. If gross margins are low, the company must achieve massive scale just to break even.

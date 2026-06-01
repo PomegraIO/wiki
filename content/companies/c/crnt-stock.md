@@ -4,7 +4,7 @@ description: "Wireless backhaul equipment maker serving telecom operators in eme
 keywords: ["wireless", "backhaul", "telecommunications", "microwave", "infrastructure", "carriers", "emerging markets"]
 ---
 
-*Ceragon Networks designs and sells wireless backhaul equipment—the invisible infrastructure that connects cell towers to each other and to the core network. The company trades on NASDAQ under ticker **CRNT** and files with the SEC under CIK 1119769. Its radios and antennas sit between distributed antenna systems and backbone switches, making it possible for rural carriers and remote operators to avoid the capital expense of fiber trenching. The business is niche, technical, and tied to capital spending cycles in telecom.*
+*Ceragon Networks designs and sells wireless backhaul equipment—the invisible infrastructure that connects cell towers to each other and to the core network. The company trades on [NASDAQ](/nasdaq/) under ticker **CRNT** and files with the SEC under CIK 1119769. Its radios and antennas sit between distributed antenna systems and backbone switches, making it possible for rural carriers and remote operators to avoid the capital expense of fiber trenching. The business is niche, technical, and tied to capital spending cycles in telecom.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CRNT</td></tr>

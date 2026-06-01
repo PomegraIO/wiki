@@ -43,7 +43,7 @@ After approval, Ironwood is bound by post-market commitments and requirements. T
 
 ## Competitive Generic Entry and Regulatory Exclusivity
 
-Ironwood's market exclusivity for its products is defined by regulatory grants, not by any inherent business advantage. Patents protect the company's formulation or method of use, but patent terms are fixed and known. Regulatory exclusivity—such as the 5-year new chemical entity exclusivity granted by the FDA—runs concurrently with patents but expires on a federal schedule. Once exclusivity ends, generic competitors can apply for abbreviated approval (an Abbreviated New Drug Application, or ANDA) based on bioequivalence, without repeating clinical trials. Ironwood's revenues are subject to a regulatory countdown clock. The company must plan its product lifecycle, pricing strategy, and next-generation pipeline around this regulatory expiration date.
+Ironwood's market exclusivity for its products is defined by regulatory grants, not by any inherent business advantage. Patents protect the company's formulation or method of use, but patent terms are fixed and known. Regulatory exclusivity—such as the 5-year new chemical entity exclusivity granted by the FDA—runs concurrently with patents but expires on a federal schedule. Once exclusivity ends, generic competitors can apply for abbreviated approval (an Abbreviated New Drug Application, or ANDA) based on bioequivalence, without repeating clinical trials. Ironwood's revenues are subject to a regulatory countdown clock. The company must plan its product lifecycle, pricing strategy, and next-generation pipeline around this regulatory [expiration date](/expiration-date/).
 
 ## Pharmacovigilance and the Cost of Vigilance
 

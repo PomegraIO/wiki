@@ -57,12 +57,17 @@ FAMOUS = {
     "unitedhealth", "humana", "cigna", "merck", "abbvie", "amgen", "gilead",
     "regeneron", "biogen", "novartis", "roche", "astrazeneca", "sanofi",
     "jpmorgan", "citigroup", "wells", "blackrock", "schwab", "fidelity",
-    "mcdonald", "chipotle", "domino", "kroger", "target", "lowe", "carmax",
+    "mcdonald", "chipotle", "domino", "kroger", "lowe", "carmax",
     "ferrari", "porsche", "toyota", "honda", "volkswagen", "nestle", "unilever",
 }
 
 # Common English words that are also company names — never link as bare words.
+# "target" is the worst offender: as a bare word it means an acquisition/price
+# target far more often than the retailer (Target Corp / "Target Group Inc"),
+# so it must only ever link via a multi-word phrase, never alone.
 STOP = {
+    "target", "visa", "snap",   # common words (travel visa, the verb "snap") far
+                                 # more often than Visa Inc / Snap Inc in this corpus
     "match", "gap", "host", "public", "general", "american", "national",
     "first", "capital", "global", "united", "international", "centene",
     "carnival", "booking", "block", "applied", "lam",  # ambiguous; require multiword

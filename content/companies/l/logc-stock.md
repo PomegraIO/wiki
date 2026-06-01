@@ -4,7 +4,7 @@ description: "E-commerce marketplace platform connecting budget-conscious consum
 keywords: ["e-commerce", "marketplace", "consumer spending", "digital commerce", "flash sales"]
 ---
 
-*ContextLogic Holdings Inc., trading as LOGC, operates Wish, a mobile-first e-commerce marketplace that thrives in the intersection of cyclical consumer behavior and secular digital commerce trends. The platform connects price-sensitive shoppers—often in suburban and rural areas underserved by traditional retail—with third-party sellers offering deeply discounted goods, from apparel to electronics to home goods. Wish's traffic and monetization are acutely sensitive to consumer discretionary spending; yet the platform itself is secular, representing the permanent migration of commerce from storefronts to mobile devices. The company's trajectory illuminates a core tension: secular platform strength does not immunize against cyclical spending weakness.*
+*ContextLogic Holdings Inc., trading as LOGC, operates Wish, a mobile-first e-commerce marketplace that thrives in the intersection of cyclical consumer behavior and secular digital commerce trends. The platform connects price-sensitive shoppers—often in suburban and rural areas underserved by traditional retail—with third-party sellers offering deeply discounted goods, from apparel to electronics to home goods. Wish's traffic and monetization are acutely sensitive to consumer [discretionary spending](/discretionary-spending/); yet the platform itself is secular, representing the permanent migration of commerce from storefronts to mobile devices. The company's trajectory illuminates a core tension: secular platform strength does not immunize against cyclical spending weakness.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LOGC</td></tr>
@@ -17,7 +17,7 @@ keywords: ["e-commerce", "marketplace", "consumer spending", "digital commerce",
 
 ## The Secular Platform: Mobile Commerce and Price Discovery
 
-Wish represents a durable shift in how price-sensitive consumers discover and purchase goods. The platform specializes in what economists call "price discovery"—connecting buyers with sellers across geographies, surfacing goods that might otherwise require extensive search or be unavailable locally. A shopper in rural Ohio looking for a discount phone case would historically have limited options: Walmart, Amazon, or mail order catalogs. Wish offers hundreds of sellers and price points in seconds, on a smartphone.
+Wish represents a durable shift in how price-sensitive consumers discover and purchase goods. The platform specializes in what economists call "[price discovery](/price-discovery/)"—connecting buyers with sellers across geographies, surfacing goods that might otherwise require extensive search or be unavailable locally. A shopper in rural Ohio looking for a discount phone case would historically have limited options: [Walmart](/wmt-stock/), Amazon, or mail order catalogs. Wish offers hundreds of sellers and price points in seconds, on a smartphone.
 
 This is structurally permanent. Mobile commerce is not a bubble; it is the default mode of retail for consumers under forty. Wish's core market—budget-conscious consumers, international merchants, and deep-discount hunters—is not evaporating. As the global middle class grows and shipping becomes cheaper and more reliable, the opportunity for discount marketplaces expands. The company's technology (search, recommendation, fraud detection) creates a scalable moat; once built, the platform serves additional users and sellers at minimal cost.
 
@@ -29,7 +29,7 @@ Yet Wish operates squarely in discretionary consumption. The goods sold—fashio
 
 More subtly, Wish's buyers are often financially constrained; they shop the platform precisely because prices are 50–80% below retail. When macroeconomic conditions tighten, these shoppers are often the first to reduce discretionary spending, or they shift spending to absolute necessities. A recession hits Wish harder than it hits Amazon or Walmart, because those platforms serve buyers across the income spectrum and include groceries and staples; Wish serves primarily discretionary hunters.
 
-Wish's user retention also depends on satisfaction. If a user receives a delayed shipment or defective product (common given the seller mix), they become frustrated and leave. During recessions, sellers may cut quality corners to survive, increasing complaints and churn. A vicious cycle can develop: falling traffic leads sellers to reduce quality, which increases complaints, which accelerates user churn.
+Wish's user retention also depends on satisfaction. If a user receives a delayed shipment or defective product (common given the seller mix), they become frustrated and leave. During [recessions](/recession/), sellers may cut quality corners to survive, increasing complaints and churn. A vicious cycle can develop: falling traffic leads sellers to reduce quality, which increases complaints, which accelerates user churn.
 
 ## Advertising Monetization and Cyclical Sensitivity
 
@@ -45,7 +45,7 @@ Wish has achieved scale in certain markets (North America, Europe) but remains a
 
 ## Unit Economics and Profitability Path
 
-For Wish to be sustainably profitable, transaction margins (after seller payout, fraud losses, shipping subsidies, and platform cost) must exceed the cost of user acquisition and retention. The company has historically spent heavily on user acquisition—partly through paid marketing, partly through social features that encourage sharing. This acquisition spending was justified by growth narratives and venture capital appetite for scaled consumer platforms.
+For Wish to be sustainably profitable, transaction margins (after seller payout, fraud losses, shipping subsidies, and platform cost) must exceed the cost of user [acquisition](/acquisition/) and retention. The company has historically spent heavily on user acquisition—partly through paid marketing, partly through social features that encourage sharing. This acquisition spending was justified by growth narratives and venture capital appetite for scaled consumer platforms.
 
 As growth has moderated and capital markets have become more skeptical of loss-making e-commerce platforms, Wish has been forced to cut spending and target profitability. This creates a chicken-and-egg problem: reducing marketing spend slows user growth and monetization, but maintaining spend depletes cash. The resolution—achieving positive unit economics at scale—requires either rising transaction margins (which demand higher volumes or higher take rates, both cyclically sensitive) or falling acquisition costs (which require operating excellence and favorable competitive conditions, not guaranteed).
 

@@ -45,7 +45,7 @@ In practice, revenue is sticky where customers have invested in IR infrastructur
 
 ## Cyclical Exposure and the Structural Story
 
-IR's fortune rides on global industrial production. When manufacturing contracts—whether from trade slowdowns, [recession](/recession/), or sectoral downturns in oil and gas—IR's order books deteriorate rapidly. Conversely, upswings in capex or infrastructure stimulus create demand surges that can strain IR's supply chain.
+IR's fortune rides on [global industrial](/gic-stock/) production. When manufacturing contracts—whether from trade slowdowns, [recession](/recession/), or sectoral downturns in oil and gas—IR's order books deteriorate rapidly. Conversely, upswings in capex or infrastructure stimulus create demand surges that can strain IR's supply chain.
 
 The company's cost structure is heavily weighted toward manufacturing and engineering. It sources materials globally (steel, castings, electrical components), operates a distributed manufacturing footprint across North America, Europe, and Asia, and carries significant labor and facility expenses. Gross margins tend to move with volume and input costs, while operating leverage means small swings in revenue can create outsized swings in operating income.
 

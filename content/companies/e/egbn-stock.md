@@ -4,7 +4,7 @@ description: "Community bank holding company operating regional branches and com
 keywords: ["bank", "community-bank", "lending", "regional", "commercial"]
 ---
 
-*The competitive advantage of a regional community bank is not primarily its balance sheet or lending products—those are visible and imitable. **EAGLE BANCORP INC (EGBN)**, operating in the Mid-Atlantic, relies instead on something harder to copy: relationships embedded in specific geographic markets and the local knowledge of loan officers who know local business owners personally.*
+*The competitive advantage of a regional community bank is not primarily its [balance sheet](/balance-sheet/) or lending products—those are visible and imitable. **EAGLE BANCORP INC (EGBN)**, operating in the Mid-Atlantic, relies instead on something harder to copy: relationships embedded in specific geographic markets and the local knowledge of loan officers who know local business owners personally.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>EGBN</td></tr>
@@ -27,11 +27,11 @@ Deposits, too, are sticky. Businesses that bank with EGBN for lending often cons
 
 ## Knowledge advantages in underwriting
 
-EGBN's loan officers and credit analysts accumulate historical knowledge of local market cycles, property values, and business failure modes that no external algorithm captures efficiently. An EGBN underwriter, having seen three commercial-real-estate downturns in the Maryland market, knows which developer survives a downtown shopping-center recession and which one does not. That pattern recognition is a real advantage in loan pricing and loss avoidance. It is also difficult for larger banks to compete on, because larger banks operate with centralized, standardized underwriting that does not weigh local context as heavily.
+EGBN's loan officers and credit analysts accumulate historical knowledge of local market cycles, property values, and business failure modes that no external algorithm captures efficiently. An EGBN underwriter, having seen three commercial-real-estate downturns in the Maryland market, knows which developer survives a downtown shopping-center [recession](/recession/) and which one does not. That pattern recognition is a real advantage in loan pricing and loss avoidance. It is also difficult for larger banks to compete on, because larger banks operate with centralized, standardized underwriting that does not weigh local context as heavily.
 
 ## Constraint: size and capital limitations
 
-The moat has limits. EGBN cannot compete with national banks on large credits—a $50 million acquisition loan or a complex structured transaction. That is not a weakness specific to EGBN; it is a feature of the community-bank model. But it also means EGBN cannot pursue scale as a defensive strategy. A large borrower, once grown out of EGBN's comfort zone or capital capacity, necessarily exits to a larger bank. EGBN gains nothing from that graduation except perhaps a future dividend from the relationship if that borrower's business returns to smaller scale.
+The moat has limits. EGBN cannot compete with national banks on large credits—a $50 million [acquisition](/acquisition/) loan or a complex structured transaction. That is not a weakness specific to EGBN; it is a feature of the community-bank model. But it also means EGBN cannot pursue scale as a defensive strategy. A large borrower, once grown out of EGBN's comfort zone or capital capacity, necessarily exits to a larger bank. EGBN gains nothing from that graduation except perhaps a future [dividend](/dividend/) from the relationship if that borrower's business returns to smaller scale.
 
 ## Regulatory barriers and capital requirements
 

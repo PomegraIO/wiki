@@ -47,7 +47,7 @@ This reimbursement risk is real for all biotech companies, but it is particularl
 
 ## Dilution and Capital Runway
 
-Finch, as a pre-revenue or early-revenue biotech company, depends on capital raised from equity investors and potentially from debt. Biotech companies typically raise capital in tranches: a Series A, B, C, and potentially a IPO or merger before reaching profitability. Each funding round dilutes existing shareholders, and each round is increasingly difficult as burn rate accelerates and proof-points are demanded.
+Finch, as a pre-revenue or early-revenue biotech company, depends on capital raised from equity investors and potentially from debt. Biotech companies typically raise capital in [tranches](/tranche/): a Series A, B, C, and potentially a IPO or [merger](/merger/) before reaching profitability. Each funding round dilutes existing shareholders, and each round is increasingly difficult as burn rate accelerates and proof-points are demanded.
 
 Finch's OTC listing and position as a smaller biotech suggests that it has faced challenges in raising capital, either because of trial results that disappointed or because investor appetite for microbiome therapeutics has cooled. OTC trading indicates reduced access to public equity markets, which in turn limits the company's ability to raise capital at favorable terms. This compounds the risk: a capital-constrained biotech company may have to cut R&D, slow clinical trials, or make strategic decisions under duress.
 
@@ -61,7 +61,7 @@ Patent positions in microbiome therapeutics are contested and uncertain. The bas
 
 Microbiome therapeutics rode a wave of investor enthusiasm in the 2015–2019 period. Hundreds of millions of dollars flowed into microbiome companies, many of which had limited clinical data. As trials progressed and results were mixed, investor appetite cooled dramatically. Many microbiome companies have struggled to raise follow-on capital, been acquired at distressed valuations, or shuttered programs.
 
-Finch's position in this cycle matters. If the company is further along in clinical development and has demonstrated efficacy, it may recover as the category matures and investors develop more realistic expectations. If it is early-stage or facing trial setbacks, it may struggle to raise capital or may be forced into an unfavorable acquisition or partnership.
+Finch's position in this cycle matters. If the company is further along in clinical development and has demonstrated efficacy, it may recover as the category matures and investors develop more realistic expectations. If it is early-stage or facing trial setbacks, it may struggle to raise capital or may be forced into an unfavorable [acquisition](/acquisition/) or partnership.
 
 ## The Existential Question
 

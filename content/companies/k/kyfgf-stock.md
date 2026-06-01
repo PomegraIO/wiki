@@ -32,13 +32,13 @@ A local business owner borrows from Kyoto Financial not because the rate is lowe
 
 Kyoto Financial Group's revenue is heavily weighted to /net-interest-income/—the spread between what it pays depositors and what it charges borrowers. Additionally, the bank earns fees from wealth management, investment advisory services, and transaction processing. Some regional banks in Japan also participate in syndicated lending to larger corporate borrowers or hold investment securities for yield.
 
-The profitability challenge is structural. Japan's interest rates have been near zero for decades, squeezing the spread. The deposit base is stable but not growing—Japan's population is declining and aging. Borrowers, both individuals and SMEs, have lower demand for credit in a low-growth economy. This forces regional banks to be very careful with credit quality and to diversify into fee-bearing services. The banks that succeed are those that can cross-sell wealth management or insurance products, capture large employers' retirement-plan business, or consolidate smaller operations to achieve cost efficiencies.
+The profitability challenge is structural. Japan's [interest rates](/interest-rate/) have been near zero for decades, squeezing the spread. The deposit base is stable but not growing—Japan's population is declining and aging. Borrowers, both individuals and SMEs, have lower demand for credit in a low-growth economy. This forces regional banks to be very careful with credit quality and to diversify into fee-bearing services. The banks that succeed are those that can cross-sell wealth management or insurance products, capture large employers' retirement-plan business, or consolidate smaller operations to achieve cost efficiencies.
 
 ## The Regulatory and Competitive Landscape
 
 Regional banks in Japan face intense regulatory oversight from the Financial Services Agency. Capital requirements, deposit insurance obligations, and lending standards are stringent. This is good for depositor protection but increases operational cost and limits risk-taking. Regional banks compete not only with each other but with megabanks, online-only banks (which have entered Japan in recent years), and post offices, which still offer basic savings products.
 
-Consolidation pressure is constant. Smaller regional banks are merging to survive. Kyoto Financial Group itself may pursue acquisitions in the Kansai region or consider being acquired by a larger regional player. The status quo—operating as a mid-sized regional bank—requires executing well on cost control and customer retention. The alternative is absorption into a larger entity.
+Consolidation pressure is constant. Smaller regional banks are merging to survive. Kyoto Financial Group itself may pursue [acquisitions](/acquisition/) in the Kansai region or consider being acquired by a larger regional player. The status quo—operating as a mid-sized regional bank—requires executing well on cost control and customer retention. The alternative is absorption into a larger entity.
 
 ## The Digital and Demographic Headwind
 

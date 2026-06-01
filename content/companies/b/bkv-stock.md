@@ -4,7 +4,7 @@ description: "Oil and natural gas exploration and production company operating p
 keywords: ["oil and gas", "natural gas production", "appalachian basin", "energy infrastructure", "upstream energy"]
 ---
 
-***BKV Corp** (ticker **BKV**) is an energy company engaged in the exploration, development, and production of oil and natural gas, with operations concentrated in the Appalachian Basin. The company generates revenue by extracting hydrocarbons from the ground, processing and treating them, and selling them into commodity markets where prices are set by global supply and demand dynamics beyond the producer's control.*
+***BKV Corp** (ticker **BKV**) is an energy company engaged in the exploration, development, and production of oil and [natural gas](/natural-gas/), with operations concentrated in the Appalachian Basin. The company generates revenue by extracting hydrocarbons from the ground, processing and treating them, and selling them into commodity markets where prices are set by global supply and demand dynamics beyond the producer's control.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BKV</td></tr>
@@ -24,7 +24,7 @@ BKV's 10-K discloses proved reserves—the volume of oil and gas the company has
 
 ## Commodity Price Exposure and Revenue Volatility
 
-Natural gas and crude oil prices trade on commodity exchanges and are set globally. BKV receives whatever price the market is paying on the day it sells. A sharp drop in natural gas or oil prices directly cuts the company's revenue and profit, even if it produces the same volume. This price exposure is the dominant source of risk and upside for an E&P company. The 10-K must disclose how much of the company's production is hedged (locked into a fixed price via futures or swaps) and how much is exposed. If BKV has hedged 50% of its oil sales at $60 per barrel, it is insulated from half of any price move. If it has no hedges, every $1 per barrel move in oil prices flows directly to the bottom line. Companies sometimes hedge heavily to stabilize cash flow for debt service; others leave themselves exposed to capture upside if they expect prices to rise.
+Natural gas and [crude oil](/crude-oil/) prices trade on commodity exchanges and are set globally. BKV receives whatever price the market is paying on the day it sells. A sharp drop in natural gas or oil prices directly cuts the company's revenue and profit, even if it produces the same volume. This price exposure is the dominant source of risk and upside for an E&P company. The 10-K must disclose how much of the company's production is hedged (locked into a fixed price via futures or swaps) and how much is exposed. If BKV has hedged 50% of its oil sales at $60 per barrel, it is insulated from half of any price move. If it has no hedges, every $1 per barrel move in oil prices flows directly to the bottom line. Companies sometimes hedge heavily to stabilize cash flow for debt service; others leave themselves exposed to capture upside if they expect prices to rise.
 
 ## Development Capital and Investment Pace
 

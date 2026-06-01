@@ -4,7 +4,7 @@ description: "Digital-native insurance company using AI and behavioral economics
 keywords: ["insurtech", "property insurance", "AI underwriting", "behavioral economics", "digital insurance"]
 ---
 
-*In the fragmented, low-margin property-insurance market, **Lemonade, Inc. (LMND)**, has built a distribution and operations moat through technology-first underwriting and a direct-to-consumer digital platform that eliminates brokers and simplifies claims. The company's model exploits behavioral asymmetries: customers who self-identify online and submit claims digitally have lower fraud propensity and faster resolution timelines than traditional broker-sourced customers.*
+*In the fragmented, low-margin property-insurance market, **Lemonade, Inc. (LMND)**, has built a distribution and operations moat through technology-first underwriting and a direct-to-consumer digital platform that eliminates [brokers](/broker/) and simplifies claims. The company's model exploits behavioral asymmetries: customers who self-identify online and submit claims digitally have lower fraud propensity and faster resolution timelines than traditional broker-sourced customers.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>LMND</td></tr>
@@ -17,11 +17,11 @@ keywords: ["insurtech", "property insurance", "AI underwriting", "behavioral eco
 
 ## Unit Economics: Where the Numbers Matter
 
-Lemonade's fundamental leverage point is the cost-to-acquire and cost-to-serve a customer relative to the lifetime premium it generates. A digital acquisition (paid social, search advertising) might cost $40–80 to land a customer who pays $600 annually for renters insurance. If retention is high (say, 75% annually), the customer lifetime value is $1,500–2,000. That spread—$40 acquisition cost against $1,600 lifetime value—is the engine driving profitability.
+Lemonade's fundamental leverage point is the cost-to-acquire and cost-to-serve a customer relative to the lifetime premium it generates. A digital [acquisition](/acquisition/) (paid social, search advertising) might cost $40–80 to land a customer who pays $600 annually for [renters insurance](/renters-insurance/). If retention is high (say, 75% annually), the customer lifetime value is $1,500–2,000. That spread—$40 acquisition cost against $1,600 lifetime value—is the engine driving profitability.
 
 For analysts, the research task is to dissect Lemonade's reported customer acquisition cost (CAC) and retention metrics. File the [10-k](/10-k/) for quarterly cohort analysis: do customers acquired in Q1 2024 have higher retention and higher lifetime value than cohorts from earlier years? Is CAC rising (a sign of saturating digital channels) or stable (a sign of efficient scaling)?
 
-The combined ratio—the insurer's loss and expense ratio relative to premium—is the second critical metric. Lemonade's aim is to run a combined ratio under 100% (meaning underwriting profit on the [income-statement](/income-statement/)), though early-stage premium growth often inflates ratios temporarily. Compare Lemonade's combined ratio to traditional insurers (Allstate, State Farm): if Lemonade's is 105–110% while competitors run 95–100%, the company is subsidizing customer acquisition with underwriting losses. That is a bet on future efficiency.
+The combined ratio—the insurer's loss and [expense ratio](/expense-ratio/) relative to premium—is the second critical metric. Lemonade's aim is to run a combined ratio under 100% (meaning underwriting profit on the [income-statement](/income-statement/)), though early-stage premium growth often inflates ratios temporarily. Compare Lemonade's combined ratio to traditional insurers (Allstate, State Farm): if Lemonade's is 105–110% while competitors run 95–100%, the company is subsidizing customer acquisition with underwriting losses. That is a bet on future efficiency.
 
 ## The Product Moat: Behavioral Bundling
 
@@ -33,7 +33,7 @@ Investigate the company's disclosure around model performance: does Lemonade pub
 
 ## Scale and Profitability: The Path Ahead
 
-Lemonade is a public company but historically unprofitable on an operating basis. Growth (added policies, higher premium per customer) is the lever for future profitability. Examine the [balance-sheet](/balance-sheet/) for invested assets: Lemonade, like all insurers, holds premiums received and invests them in bonds and equities. Net investment income contributes to profitability independently of underwriting, and Lemonade's returns depend on interest-rate environment and asset allocation.
+Lemonade is a public company but historically unprofitable on an operating basis. Growth (added policies, higher premium per customer) is the lever for future profitability. Examine the [balance-sheet](/balance-sheet/) for invested assets: Lemonade, like all insurers, holds premiums received and invests them in [bonds](/bond/) and equities. Net investment income contributes to profitability independently of underwriting, and Lemonade's returns depend on interest-rate environment and [asset allocation](/asset-allocation/).
 
 A critical research note: in a low-rate environment (2020–2021), insurers struggled with investment yield. As rates rose (2022–2024), investment income improved. Lemonade's profitability over the next 12–24 months will depend on rate environment as much as underwriting performance.
 

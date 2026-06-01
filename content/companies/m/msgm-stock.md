@@ -39,11 +39,11 @@ Live-service games create recurring revenue opportunities by keeping players eng
 
 Mobile gaming has become a significant distribution channel, though mobile games often operate under free-to-play models where revenue comes entirely from in-game monetization rather than upfront purchases. This requires different design and business logic than premium console/PC titles.
 
-Revenue is thus dependent on player acquisition (how many people play the games), retention (how long they continue playing), and spending per player (how much they spend on in-game purchases). These metrics vary significantly by title, platform, and market conditions.
+Revenue is thus dependent on player [acquisition](/acquisition/) (how many people play the games), retention (how long they continue playing), and spending per player (how much they spend on in-game purchases). These metrics vary significantly by title, platform, and market conditions.
 
 ## Platform Distribution and Market Dynamics
 
-MSGM distributes games across multiple platforms: console (PlayStation, Xbox), PC, and mobile devices. Platform holders (Sony, Microsoft, Apple, Google) control access to their player bases and typically take a revenue share (often 30%) from digital sales. This means MSGM retains a percentage of each sale, with the platform holder and IP licensor claiming portions before MSGM's net revenue.
+MSGM distributes games across multiple platforms: console (PlayStation, Xbox), PC, and mobile devices. Platform holders ([Sony](/sony-stock/), [Microsoft](/msft-stock/), [Apple](/aapl-stock/), Google) control access to their player bases and typically take a revenue share (often 30%) from digital sales. This means MSGM retains a percentage of each sale, with the platform holder and IP licensor claiming portions before MSGM's net revenue.
 
 Dependency on platform holders creates competitive and strategic constraints: platform policies can change, access can be restricted, and competitive practices of platform holders (such as developing first-party games) can disadvantage third-party developers like MSGM. Shifts in platform popularity (between console generations, between platforms) affect the addressable market for MSGM's games.
 
@@ -67,7 +67,7 @@ Successful multiplayer or live-service games build communities of players who en
 
 ## Capital Structure and Burn Rates
 
-Game developers often operate with negative cash flow during development phases, requiring either accumulated cash reserves or external financing to fund operations. If MSGM is burning cash on in-development titles with uncertain payoff, the company's capital structure and access to financing become material. Venture capital, private equity, or debt financing may be necessary. Dilution from equity financing or leverage from debt both affect shareholder returns.
+Game developers often operate with negative cash flow during development phases, requiring either accumulated cash reserves or external financing to fund operations. If MSGM is burning cash on in-development titles with uncertain payoff, the company's capital structure and access to financing become material. Venture capital, private equity, or [debt financing](/debt-financing/) may be necessary. Dilution from [equity financing](/equity-financing/) or leverage from debt both affect shareholder returns.
 
 ## Investment Research Directions
 

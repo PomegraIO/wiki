@@ -34,7 +34,7 @@ This places ChronoScale within the broader biotech risk profile: high cash burn 
 
 ChronoScale, as a publicly traded biotech, has access to capital markets but also faces intense scrutiny about its science and its path to commercial viability. Investors in small-cap biotechs typically demand catalysts: clinical trial results, regulatory approvals, or licensing deals that demonstrate forward progress. The market prices these stocks by discounting future revenues against the probability of success—a notoriously difficult calculation. A negative trial result can crater valuation; a positive Phase II readout can double it.
 
-The sector environment matters enormously. In years when biotech IPO windows are open and venture capital is abundant, small biotech companies can fund research for extended periods. In contraction years—when public markets turn risk-averse or interest rates rise and capital becomes expensive—even well-funded biotechs face pressure to de-risk, form partnerships, or consider acquisition. ChronoScale's equity value and its practical ability to fund research exist in symbiotic tension with these macro capital-markets conditions.
+The sector environment matters enormously. In years when biotech IPO windows are open and venture capital is abundant, small biotech companies can fund research for extended periods. In contraction years—when public markets turn risk-averse or [interest rates](/interest-rate/) rise and capital becomes expensive—even well-funded biotechs face pressure to de-risk, form partnerships, or consider [acquisition](/acquisition/). ChronoScale's equity value and its practical ability to fund research exist in symbiotic tension with these macro capital-markets conditions.
 
 ## The Regulatory Unknown
 

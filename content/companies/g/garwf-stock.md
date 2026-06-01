@@ -21,7 +21,7 @@ Unlike exploration firms operating solely in stable jurisdictions, Golden Arrow 
 
 ## Silver as a Cyclical Industrial Commodity
 
-Silver occupies an ambiguous position in the metals hierarchy. Unlike gold, which is predominantly a store of value and moves with real interest rates and currency dynamics, silver is industrially consumed in photography, solar panels, electronics, and jewelry. Industrial silver demand is tightly bound to manufacturing activity and thus the business cycle. A global recession suppresses industrial production, cutting silver demand. Solar panel deployment, though growing structurally with energy transition, also slows during credit contractions when project financing tightens. Golden Arrow's primary exposure to silver, therefore, is to a metal whose price is significantly cyclical. A multi-year manufacturing slowdown can depress silver prices to levels at which new mine development is uneconomic, trapping the company in an extended holding pattern.
+Silver occupies an ambiguous position in the metals hierarchy. Unlike gold, which is predominantly a store of value and moves with [real interest rates](/real-interest-rate/) and currency dynamics, silver is industrially consumed in photography, solar panels, electronics, and jewelry. Industrial silver demand is tightly bound to manufacturing activity and thus the [business cycle](/business-cycle/). A global [recession](/recession/) suppresses industrial production, cutting silver demand. Solar panel deployment, though growing structurally with energy transition, also slows during credit contractions when project financing tightens. Golden Arrow's primary exposure to silver, therefore, is to a metal whose price is significantly cyclical. A multi-year manufacturing slowdown can depress silver prices to levels at which new mine development is uneconomic, trapping the company in an extended holding pattern.
 
 ## Argentine Operating Environment: Political Cycle Overlay
 
@@ -33,7 +33,7 @@ Golden Arrow's portfolio comprises early-stage exploration and development prope
 
 ## Equity Financing and Cycle-Driven Dilution
 
-As an exploration firm with no revenue, Golden Arrow survives through periodic equity raises. These raises are sharply cyclical. During bull markets for junior metals explorers, the company can raise capital at favorable valuations; during bear markets, it raises at distressed discounts or through debt instruments with punitive terms. Over a 15-year project timeline, a company will likely face two or three severe funding droughts. Each forces an equity raise at depressed valuations, diluting long-term shareholders. Successful investors in Golden Arrow must accept extreme volatility in per-share value and willingness to hold through extended periods of shareholder dilution.
+As an exploration firm with no revenue, Golden Arrow survives through periodic equity raises. These raises are sharply cyclical. During [bull markets](/bull-market/) for junior metals explorers, the company can raise capital at favorable valuations; during [bear markets](/bear-market/), it raises at distressed discounts or through debt instruments with punitive terms. Over a 15-year project timeline, a company will likely face two or three severe funding droughts. Each forces an equity raise at depressed valuations, diluting long-term shareholders. Successful investors in Golden Arrow must accept extreme volatility in per-share value and willingness to hold through extended periods of shareholder dilution.
 
 ## Copper as a Longer-Cycle Commodity
 

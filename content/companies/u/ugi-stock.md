@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-UGI Corporation is a diversified energy company that operates across multiple layers of the North American energy supply chain. It is not a pure utility, nor a pure midstream operator, but a hybrid that combines regulated rate-base distribution ([natural gas](/natural-gas/) and electricity to customers in Pennsylvania and Kentucky) with unregulated propane and LPG distribution at scale. That combination — stable regulated income paired with a dominant position in propane delivery — gives UGI an unusual profile: part defensive utility, part cyclical energy business, with a foot in both the on-the-ground last-mile delivery of energy and the commodity trading inherent in propane marketing.
+UGI Corporation is a [diversified energy](/dec-stock/) company that operates across multiple layers of the North American energy supply chain. It is not a pure utility, nor a pure midstream operator, but a hybrid that combines regulated rate-base distribution ([natural gas](/natural-gas/) and electricity to customers in Pennsylvania and Kentucky) with unregulated propane and LPG distribution at scale. That combination — stable regulated income paired with a dominant position in propane delivery — gives UGI an unusual profile: part defensive utility, part cyclical energy business, with a foot in both the on-the-ground last-mile delivery of energy and the commodity trading inherent in propane marketing.
 
 <aside class="wiki-infobox">
 <table>

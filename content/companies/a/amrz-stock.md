@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Amrize AG supplies the North American construction industry with cement, aggregates, ready-mix concrete, roofing membranes, wall systems, and protective coatings—holding the largest U.S. cement footprint by production volume and standing as the second-largest commercial roofing operator by sales.**
+**Amrize AG supplies the [North American construction](/noa-stock/) industry with cement, aggregates, ready-mix concrete, roofing membranes, wall systems, and protective coatings—holding the largest U.S. cement footprint by production volume and standing as the second-largest commercial roofing operator by sales.**
 
 ## Scale and Reach
 

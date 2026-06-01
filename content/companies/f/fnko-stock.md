@@ -31,13 +31,13 @@ This creates a structural risk: if a major licensor (say, Disney) decides to pro
 
 ## Distribution channels and retail relationships
 
-Funko sells through three main channels: direct-to-consumer (its own website), wholesale to retailers (comic shops, mall stores, big-box chains like Target and Walmart), and online marketplaces (Amazon, eBay). Each channel has different margins and customer dynamics.
+Funko sells through three main channels: direct-to-consumer (its own website), wholesale to retailers (comic shops, mall stores, big-box chains like [Target](/tgt-stock/) and [Walmart](/wmt-stock/)), and online marketplaces (Amazon, eBay). Each channel has different margins and customer dynamics.
 
 Direct-to-consumer sales (e-commerce on Funko.com) carry higher margins because Funko captures the full retail price. However, driving traffic to its own site requires advertising spend. Wholesale sales to retailers are lower margin (the retailer takes a cut), but they put products in front of casual buyers who might not visit Funko's website. Amazon and marketplace sales are convenient but commoditized; competition is fierce, and customer acquisition costs are high.
 
 ## The secondary market and investment angle
 
-A significant portion of Funko's appeal comes from the collectible secondary market. Certain rare or limited-edition figures command prices far above retail: a rare Funko Pop might sell for $100, $500, or more on the secondary market. This creates a powerful draw for collectors: they buy not just to enjoy the figure, but hoping it appreciates.
+A significant portion of Funko's appeal comes from the collectible [secondary market](/secondary-market/). Certain rare or limited-edition figures command prices far above retail: a rare Funko Pop might sell for $100, $500, or more on the secondary market. This creates a powerful draw for collectors: they buy not just to enjoy the figure, but hoping it appreciates.
 
 This is speculative behavior, not unlike baseball card or comic-book collecting. When collector sentiment is hot, they buy aggressively, and Funko's sales and stock price surge. When sentiment cools (as can happen if the secondary market becomes oversaturated or collector interest shifts), demand softens sharply.
 
@@ -49,13 +49,13 @@ However, this advantage is not bulletproof. A well-funded competitor could acqui
 
 ## Business cyclicality
 
-Funko's revenue fluctuates with pop-culture calendars and economic sentiment. New movie releases drive sales. Holiday retail seasons concentrate purchases. Economic downturns reduce discretionary spending on collectibles. A recession would likely hit Funko hard: consumers would cut back on non-essential purchases, and the secondary market would soften as speculators exit positions.
+Funko's revenue fluctuates with pop-culture calendars and economic sentiment. New movie releases drive sales. Holiday retail seasons concentrate purchases. Economic downturns reduce [discretionary spending](/discretionary-spending/) on collectibles. A [recession](/recession/) would likely hit Funko hard: consumers would cut back on non-essential purchases, and the secondary market would soften as speculators exit positions.
 
 ## Financial dependencies
 
-Funko's [balance-sheet](/balance-sheet/) is likely heavy in inventory (unsold figurines in warehouses and retail shelves) and accounts receivable (amounts owed by big retailers). Managing inventory is crucial: if Funko guesses wrong on demand for a particular license or figure, it can be stuck with dead stock. Too much inventory consumes cash and space; too little means lost sales.
+Funko's [balance-sheet](/balance-sheet/) is likely heavy in inventory (unsold figurines in warehouses and retail shelves) and [accounts receivable](/accounts-receivable/) (amounts owed by big retailers). Managing inventory is crucial: if Funko guesses wrong on demand for a particular license or figure, it can be stuck with dead stock. Too much inventory consumes cash and space; too little means lost sales.
 
-The company also carries debt, likely incurred during growth phases or acquisitions. Managing [free-cash-flow](/free-cash-flow/) while funding inventory and licensing obligations is a persistent tension.
+The company also carries debt, likely incurred during growth phases or [acquisitions](/acquisition/). Managing [free-cash-flow](/free-cash-flow/) while funding inventory and licensing obligations is a persistent tension.
 
 <div class="wiki-seealso">
 ### Closely related

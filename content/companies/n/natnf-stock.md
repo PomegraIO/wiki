@@ -35,15 +35,15 @@ Water management is central: mining generates acidic drainage and heavy-metal le
 
 ## Reclamation Bonding and Financial Assurance
 
-Provinces require mining companies to post "reclamation bonds"—financial assurances that money exists to restore the landscape after mining ends. For a junior company planning a mine with millions of tons of tailings, the reclamation bond can be tens of millions of dollars, locked away and unavailable for operations. This capital requirement is fixed and non-negotiable; it is a statutory liability, not a contract term. If Nation Gold cannot post the bond, it cannot receive the mining license, and the entire asset becomes valueless.
+Provinces require mining companies to post "reclamation [bonds](/bond/)"—financial assurances that money exists to restore the landscape after mining ends. For a junior company planning a mine with millions of tons of tailings, the reclamation bond can be tens of millions of dollars, locked away and unavailable for operations. This capital requirement is fixed and non-negotiable; it is a statutory liability, not a contract term. If Nation Gold cannot post the bond, it cannot receive the mining license, and the entire asset becomes valueless.
 
-The reclamation calculation is performed by the province using conservative assumptions; the company cannot negotiate down the bond size. If reclamation costs rise (due to inflation, changing environmental standards, or discovery of unexpected contamination), the province can demand a larger bond, further straining the company's balance sheet.
+The reclamation calculation is performed by the province using conservative assumptions; the company cannot negotiate down the bond size. If reclamation costs rise (due to [inflation](/inflation/), changing environmental standards, or discovery of unexpected contamination), the province can demand a larger bond, further straining the company's balance sheet.
 
 ## Royalties and Crown Share Requirements
 
-In addition to income taxes and property taxes, mining companies owe royalties to the crown (the provincial government) based on ore value extracted. Royalty rates vary by province and mineral; in some jurisdictions, rates rise if metal prices surge, creating a variable cost structure. This is not negotiable; it is a statutory condition of the mineral license. Nation Gold's operating margins are therefore determined partly by government policy, and regulatory change can erase profitability.
+In addition to income taxes and property taxes, mining companies owe royalties to the crown (the provincial government) based on ore value extracted. Royalty rates vary by province and mineral; in some jurisdictions, rates rise if metal prices surge, creating a variable cost structure. This is not negotiable; it is a statutory condition of the mineral license. Nation Gold's [operating margins](/operating-margin/) are therefore determined partly by government policy, and regulatory change can erase profitability.
 
-Some provinces also impose back-in rights, allowing the government to acquire an ownership stake in a mine (often 5–10 percent) by paying a share of development costs. This reduces the company's equity stake and future cash flows without the company's consent—a sovereign risk that exists even if the company develops a world-class asset.
+Some provinces also impose back-in rights, allowing the government to acquire an ownership stake in a mine (often 5–10 percent) by paying a share of development costs. This reduces the company's equity stake and future cash flows without the company's consent—a [sovereign risk](/sovereign-risk/) that exists even if the company develops a world-class asset.
 
 ## Exploration Financing and the Regulatory Path to Production
 

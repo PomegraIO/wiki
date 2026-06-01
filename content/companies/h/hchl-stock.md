@@ -21,7 +21,7 @@ China's real-estate sector has entered a structural slowdown after decades of ex
 
 Multiple large developers—Evergrande, Country Garden, Sunac—have defaulted on debt or faced severe financial stress in recent years. These were not marginal players; they were among China's largest developers. Their distress signals that the Chinese property market has shifted from a seller's advantage to a buyer's advantage, and developers cannot command the pricing or volumes they once did.
 
-Happy City Holdings operates in this deteriorating market. Without structural tailwinds from rapid urbanization or rising incomes, the company must compete for share in a contracting pool of homebuyers. This is a different business from developing in a growth market; margins compress, project timelines extend, and customer acquisition becomes more expensive.
+Happy City Holdings operates in this deteriorating market. Without structural tailwinds from rapid urbanization or rising incomes, the company must compete for share in a contracting pool of homebuyers. This is a different business from developing in a growth market; margins compress, project timelines extend, and customer [acquisition](/acquisition/) becomes more expensive.
 
 ## Land Scarcity and Government Policy
 
@@ -33,7 +33,7 @@ Additionally, land prices are volatile and can change sharply based on governmen
 
 Chinese real-estate developers historically relied on bank loans and shadow-banking products (trust structures, wealth-management products) to finance construction. Over the past five years, Chinese authorities have tightened credit conditions, restricted developer leverage, and clamped down on off-balance-sheet financing. This has made capital more expensive and harder to access.
 
-Happy City must secure financing to construct projects and fund operations. If the company is locked out of the credit market, development slows, projects are delayed, and cash flow declines. The company's credit rating and access to capital are subject to government policy and credit-market sentiment, both of which can shift rapidly.
+Happy City must secure financing to construct projects and fund operations. If the company is locked out of the credit market, development slows, projects are delayed, and cash flow declines. The company's [credit rating](/credit-rating/) and access to capital are subject to government policy and credit-market sentiment, both of which can shift rapidly.
 
 ## Pre-Sale Revenue Risk and Completion Risk
 
@@ -49,9 +49,9 @@ Happy City has limited control over this demand cycle. If sentiment deteriorates
 
 ## Currency and Capital Control Risk
 
-Happy City's operations are denominated in Chinese yuan, but it is listed in the US. The Chinese government has periodically restricted the outflow of capital from China to prevent currency depreciation or capital flight. If authorities impose capital controls that prevent the company from transferring dividends or raising capital in overseas markets, US shareholders would face severe liquidity constraints.
+Happy City's operations are denominated in Chinese yuan, but it is listed in the US. The Chinese government has periodically restricted the outflow of capital from China to prevent currency [depreciation](/depreciation/) or [capital flight](/capital-flight-sovereign/). If authorities impose capital controls that prevent the company from transferring [dividends](/dividend/) or raising capital in overseas markets, US shareholders would face severe liquidity constraints.
 
-Additionally, yuan depreciation relative to the US dollar would reduce the reported dollar value of the company's assets and earnings. Over extended periods, currency headwinds can significantly dampen returns to US-dollar investors, independent of operational performance.
+Additionally, yuan depreciation relative to the [US dollar](/us-dollar/) would reduce the reported dollar value of the company's assets and earnings. Over extended periods, currency headwinds can significantly dampen returns to US-dollar investors, independent of operational performance.
 
 ## VIE Structure and Regulatory Risk
 
@@ -73,4 +73,4 @@ As weaker developers fail, stronger ones consolidate market share. This creates 
 
 ## Path Forward: Structural Headwinds
 
-Happy City operates in a market with deteriorating fundamentals, intense competition, and regulatory constraints that are tightening, not easing. Growth is limited by shrinking demand, and profitability is pressured by lower pricing power. The company must navigate a lengthy credit cycle downturn while managing geopolitical exposure and currency risk. Without a clear path to differentiation or cost leadership, the company's return profile is challenged.
+Happy City operates in a market with deteriorating fundamentals, intense competition, and regulatory constraints that are tightening, not easing. Growth is limited by shrinking demand, and profitability is pressured by lower pricing power. The company must navigate a lengthy credit cycle downturn while managing geopolitical exposure and [currency risk](/currency-risk/). Without a clear path to differentiation or cost leadership, the company's return profile is challenged.

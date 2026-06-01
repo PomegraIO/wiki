@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Grupo Financiero Mexicano (Grupo FM or FMX) is a large Mexican financial conglomerate — the kind of holding company that owns a bank, an insurance firm, an investment-brokerage subsidiary, and an asset-management arm. It is among the largest financial institutions in Mexico by asset size. Like many large banks in developing markets, FMX operates across multiple financial services categories because doing so spreads risk across businesses that do not all move in lockstep. Banking profits depend on [interest rates](/interest-rate/) and loan demand. Insurance profits depend on catastrophic events and mortality. Brokerage profits depend on trading volumes. By owning all three, the parent company buffers swings in any one business.
+Grupo Financiero Mexicano (Grupo FM or FMX) is a large Mexican financial conglomerate — the kind of holding company that owns a bank, an insurance firm, an investment-brokerage subsidiary, and an asset-management arm. It is among the largest [financial institutions](/fisi-stock/) in Mexico by asset size. Like many large banks in developing markets, FMX operates across multiple financial services categories because doing so spreads risk across businesses that do not all move in lockstep. Banking profits depend on [interest rates](/interest-rate/) and loan demand. Insurance profits depend on catastrophic events and mortality. Brokerage profits depend on trading volumes. By owning all three, the parent company buffers swings in any one business.
 
 <aside class="wiki-infobox">
 <table>

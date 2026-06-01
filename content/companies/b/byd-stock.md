@@ -46,7 +46,7 @@ The company operates in a capital-intensive business with high fixed costs. Labo
 
 ## Competition and regional dynamics
 
-Boyd Gaming competes against national operators — Caesars, MGM, Penn Entertainment, Golden Entertainment — and against smaller regional chains and tribal casinos. The advantage the company holds is intimate knowledge of its local markets and a no-frills positioning that local customers recognize and trust. A Fremont customer is not seeking the Bellagio experience; they want a neighborhood casino that does not make them feel cheap for playing $0.25 machines.
+Boyd Gaming competes against national operators — Caesars, MGM, [Penn Entertainment](/penn-stock/), Golden Entertainment — and against smaller regional chains and tribal casinos. The advantage the company holds is intimate knowledge of its local markets and a no-frills positioning that local customers recognize and trust. A Fremont customer is not seeking the Bellagio experience; they want a neighborhood casino that does not make them feel cheap for playing $0.25 machines.
 
 The clearer headwind is consolidation across the industry. Larger operators have deeper capital, better access to [bond](/bond/) markets, and economies of scale that smaller chains struggle to match. Boyd Gaming is substantial enough to survive and invest, but it remains smaller than the three or four dominant national operators, and that size disadvantage becomes sharper in weak economic periods when access to credit tightens.
 

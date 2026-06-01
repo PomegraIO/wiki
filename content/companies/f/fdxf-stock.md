@@ -24,7 +24,7 @@ This creates a network moat. A shipper choosing between FDXF and a smaller compe
 
 FDXF's network is protected by the capital invested in it. Building an LTL network requires purchasing or leasing hundreds of terminal buildings, investing in sorting equipment, and maintaining a fleet of tractors and trailers. The company's infrastructure is capital-intensive but operationally efficient. A competitor starting from scratch faces two problems: (1) the capital cost of replicating the network, which is enormous, and (2) the operational learning curve of running an efficient LTL operation, which takes years.
 
-This capital moat is not impenetrable—a well-capitalized private equity fund or a larger competitor could theoretically build a rival network. However, the returns on that capital are modest. LTL freight is a mature, commoditized business with thin margins (5-10% operating margins are typical). The return-on-invested-capital in an LTL network is often below the cost of capital, making expansion economically marginal. This depresses competitive investment, protecting existing networks from new entry.
+This capital moat is not impenetrable—a well-capitalized [private equity fund](/private-equity-fund/) or a larger competitor could theoretically build a rival network. However, the returns on that capital are modest. LTL freight is a mature, commoditized business with thin margins (5-10% operating margins are typical). The return-on-invested-capital in an LTL network is often below the cost of capital, making expansion economically marginal. This depresses competitive investment, protecting existing networks from new entry.
 
 ## Shipper Lock-In and Switching Costs
 
@@ -42,7 +42,7 @@ A competitor with a smaller network cannot justify the same level of capital inv
 
 FDXF is part of the broader FedEx Corporation ecosystem. This integration creates defensibility through intermodal operations—FDXF can accept shipments that route through FedEx's national network or international systems. A pure LTL competitor cannot replicate this breadth; it must either remain regional or build its own intercontinental logistics capability, which is prohibitively expensive.
 
-However, the FedEx integration is also a potential weakness. FDXF must coordinate with FedEx's other divisions and comply with FedEx's capital allocation priorities. Decisions made at FedEx corporate—capital spending, dividend policies, strategic direction—may not optimize FDXF's competitive position. A standalone, independent LTL carrier has more tactical flexibility to respond to competitive threats.
+However, the FedEx integration is also a potential weakness. FDXF must coordinate with FedEx's other divisions and comply with FedEx's capital allocation priorities. Decisions made at FedEx corporate—capital spending, [dividend](/dividend/) policies, strategic direction—may not optimize FDXF's competitive position. A standalone, independent LTL carrier has more tactical flexibility to respond to competitive threats.
 
 ## Labor and Driver Retention
 
@@ -52,7 +52,7 @@ FDXF's defensibility is therefore contingent on the labor market. In a tight lab
 
 ## Pricing Power and Competitive Dynamics
 
-LTL freight is a commodity business with thin margins. FDXF has some pricing power in markets where its network is dominant—it can command a modest premium for superior service and reliability. However, pricing power is limited. A shipper can always threaten to shift to a competitor or use parcel services (UPS, Amazon) as an alternative. This constrains FDXF's ability to raise prices faster than cost inflation, limiting the defensibility of returns.
+LTL freight is a commodity business with thin margins. FDXF has some pricing power in markets where its network is dominant—it can command a modest premium for superior service and reliability. However, pricing power is limited. A shipper can always threaten to shift to a competitor or use parcel services (UPS, Amazon) as an alternative. This constrains FDXF's ability to raise prices faster than cost [inflation](/inflation/), limiting the defensibility of returns.
 
 FDXF's moat does not protect it from price competition. The moat protects FDXF's market share and operational efficiency, but not from margin compression if competitors decide to compete on price.
 

@@ -19,7 +19,7 @@ keywords: ["biopharmaceutical", "drug development", "clinical trials", "ophthalm
 
 For a biotech company in the drug-development stage, intellectual property is everything. Altamira's protection from competition rests primarily on patents covering its drug molecules, formulations, and methods of use. A patent grants the company exclusive rights to manufacture and sell the drug for a defined term—typically 20 years from filing, though effective term after regulatory approval is often shorter, typically 10 to 14 years.
 
-This is a real and valuable moat, but it is also one with a hard expiration date. Once the patent expires, generic manufacturers can enter and typically capture much of the market through price competition. Altamira's opportunity to build sustainable competitive advantage exists only during the patent-protected period. The company must achieve meaningful market share, establish brand recognition if possible, and generate sufficient revenue to sustain future R&D. After expiration, the drug becomes a commodity.
+This is a real and valuable moat, but it is also one with a hard [expiration date](/expiration-date/). Once the patent expires, generic manufacturers can enter and typically capture much of the market through price competition. Altamira's opportunity to build sustainable competitive advantage exists only during the patent-protected period. The company must achieve meaningful market share, establish brand recognition if possible, and generate sufficient revenue to sustain future R&D. After expiration, the drug becomes a commodity.
 
 The durability of the patent moat also depends on the patent's quality. If a patent is narrow, or if competitors can design around it, the protection is weaker. Altamira's patents are presumably reviewed by patent counsel and prosecuted carefully, but the company cannot prevent competitors from developing entirely different compounds that address the same medical indication. A patient with dry eye disease, for example, could be treated with Altamira's patented compound or with an entirely different molecule from a rival. The patent prevents the rival from copying Altamira's specific drug but not from competing in the same therapeutic area.
 
@@ -56,14 +56,14 @@ For Altamira shareholders, the key question is not whether the company has a sus
 <div class="wiki-seealso">
   <h3>Closely related</h3>
   <ul>
-    <li><a href="/cznc-stock/">Citizens & Northern Corp (CZNC)</a></li>
-    <li><a href="/cyph-stock/">CYPHERPUNK TECHNOLOGIES INC. (CYPH)</a></li>
+    <li><a href="/cznc-stock/">[Citizens & Northern](/cznc-stock/) Corp (CZNC)</a></li>
+    <li><a href="/cyph-stock/">[CYPHERPUNK TECHNOLOGIES](/cyph-stock/) INC. (CYPH)</a></li>
   </ul>
   <h3>Wider context</h3>
   <ul>
     <li><a href="/stock/">Stock</a></li>
     <li><a href="/public-company/">Public Company</a></li>
-    <li><a href="/securities-and-exchange-commission/">Securities and Exchange Commission</a></li>
+    <li><a href="/securities-and-exchange-commission/">[Securities and Exchange Commission](/securities-and-exchange-commission/)</a></li>
     <li><a href="/10-k/">10-K</a></li>
   </ul>
 </div>

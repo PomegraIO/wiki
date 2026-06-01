@@ -15,7 +15,7 @@ Alterity Therapeutics is an Australian-American clinical-stage biotech hunting f
 
 ## Where does the lead candidate stand?
 
-ATH434, the company's main asset, has completed Phase II trials in early-stage Parkinson's disease and Phase II trials in multiple system atrophy, a rarer and more aggressive parkinsonian syndrome affecting the brain's ability to regulate movement, autonomy, and coordination. The FDA granted ATH434 Fast Track Designation and Orphan Drug Designation in multiple system atrophy, signaling the regulator's willingness to accelerate review if efficacy holds. That designation also carries commercial advantages: exclusivity periods, fee waivers, and priority review pathways. The European Medicines Agency has also granted Orphan Drug Designation for MSA, widening the geographic scope of potential approval and market exclusivity.
+ATH434, the company's main asset, has completed Phase II trials in early-stage Parkinson's disease and Phase II trials in multiple system atrophy, a rarer and more aggressive parkinsonian syndrome affecting the brain's ability to regulate movement, autonomy, and coordination. The FDA granted ATH434 [Fast Track](/ftrk-stock/) Designation and Orphan Drug Designation in multiple system atrophy, signaling the regulator's willingness to accelerate review if efficacy holds. That designation also carries commercial advantages: exclusivity periods, fee waivers, and priority review pathways. The European Medicines Agency has also granted Orphan Drug Designation for MSA, widening the geographic scope of potential approval and market exclusivity.
 
 ## How does capital flow and clinical timeline work?
 

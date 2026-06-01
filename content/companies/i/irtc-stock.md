@@ -4,7 +4,7 @@ description: "Wearable cardiac-monitoring company manufacturing and distributing
 keywords: [cardiac monitoring, wearable, Holter monitor, arrhythmia, remote monitoring, medical device]
 ---
 
-*iRhythm, trading under **IRTC** on Nasdaq, manufactures and distributes wearable cardiac monitors—primarily patch-based devices worn on the chest that record heartbeat patterns and transmit data to physicians. The company's business model combines hardware sales, data analytics, and the recurring revenue from interpreting the cardiac recordings, positioning iRhythm as both a device maker and a diagnostic-service provider.*
+*iRhythm, trading under **IRTC** on [Nasdaq](/nasdaq/), manufactures and distributes wearable cardiac monitors—primarily patch-based devices worn on the chest that record heartbeat patterns and transmit data to physicians. The company's business model combines hardware sales, data analytics, and the recurring revenue from interpreting the cardiac recordings, positioning iRhythm as both a device maker and a diagnostic-service provider.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IRTC</td></tr>
@@ -53,7 +53,7 @@ iRhythm is investing in building a broader digital-health platform around cardia
 
 ## Manufacturing Scale and Unit Economics
 
-As iRhythm scales, the unit cost of producing a Zio patch should decline (economies of scale in component sourcing, manufacturing efficiency). However, the company faces upward pressure on costs from inflation, competition for manufacturing capacity, and need for quality assurance and sterility certification. A Zio patch is a capital-light product (no multi-million-dollar manufacturing facility required) but operationally demanding (quality control, supply-chain coordination, sterility assurance). iRhythm's [gross margins](/gross-profit-margin/) on the patch and interpretation service are critical to profitability; if margins compress, the company must grow volume substantially to offset.
+As iRhythm scales, the unit cost of producing a Zio patch should decline (economies of scale in component sourcing, manufacturing efficiency). However, the company faces upward pressure on costs from [inflation](/inflation/), competition for manufacturing capacity, and need for quality assurance and sterility certification. A Zio patch is a capital-light product (no multi-million-dollar manufacturing facility required) but operationally demanding (quality control, supply-chain coordination, sterility assurance). iRhythm's [gross margins](/gross-profit-margin/) on the patch and interpretation service are critical to profitability; if margins compress, the company must grow volume substantially to offset.
 
 ## Clinical Outcomes and Reimbursement Justification
 

@@ -24,7 +24,7 @@ Fangdd's revenue is tied to transaction activity in real-estate markets. When pr
 
 ## Advertiser Concentration and Pricing Power
 
-Real-estate agencies and major developers are Fangdd's primary customers. Large agencies or developer groups can demand preferential rates or threaten to shift spend to rival platforms or direct customer acquisition. Fangdd has limited ability to resist price pressure because the underlying service (a listing and search platform) is functionally commoditized—multiple platforms can provide similar value. If a few developers or agencies account for a large percentage of advertising revenue and they collectively decide to reduce spend or negotiate harder, Fangdd's profitability is directly threatened.
+Real-estate agencies and major developers are Fangdd's primary customers. Large agencies or developer groups can demand preferential rates or threaten to shift spend to rival platforms or direct customer [acquisition](/acquisition/). Fangdd has limited ability to resist price pressure because the underlying service (a listing and search platform) is functionally commoditized—multiple platforms can provide similar value. If a few developers or agencies account for a large percentage of advertising revenue and they collectively decide to reduce spend or negotiate harder, Fangdd's profitability is directly threatened.
 
 ## Competitive Intensity and Moat Erosion
 
@@ -44,7 +44,7 @@ China's recent data-privacy regulations (similar in intent to GDPR) impose restr
 
 ## Economic Sensitivity and Credit Cycles
 
-Real-estate purchasing is acutely sensitive to credit availability and consumer confidence. When lending standards tighten or when economic growth slows, property transactions decline rapidly. Fangdd's advertising revenue falls in lockstep. Unlike utility or consumer-staple businesses, real-estate platforms have no recession cushion and no diversified revenue streams; they are pure-play real-estate bets.
+Real-estate purchasing is acutely sensitive to credit availability and consumer confidence. When lending standards tighten or when economic growth slows, property transactions decline rapidly. Fangdd's advertising revenue falls in lockstep. Unlike utility or consumer-staple businesses, real-estate platforms have no [recession](/recession/) cushion and no diversified revenue streams; they are pure-play real-estate bets.
 
 <div class="wiki-seealso">
 ### Closely related

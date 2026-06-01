@@ -4,7 +4,7 @@ description: "US-traded agricultural biotechnology company; CIK 1769484. Develop
 keywords: [agricultural biotechnology, crop science, genetically modified seeds, agricultural innovation, emerging markets]
 ---
 
-*Bioceres Crop Solutions Corp. (ticker BIOX, [SEC CIK 1769484](/10-k/)) is an agricultural biotechnology company whose competitive position and risk profile are fundamentally shaped by its geographic footprint. The company originated in Argentina and maintains significant operations in Latin America—a region with enormous agricultural output but also regulatory complexity, currency volatility, and emerging-market characteristics. Understanding Bioceres requires understanding how its Latin American presence shapes its technology development, commercialization strategy, and earnings stability.*
+*Bioceres Crop Solutions Corp. (ticker BIOX, [SEC CIK 1769484](/10-k/)) is an agricultural biotechnology company whose competitive position and risk profile are fundamentally shaped by its geographic footprint. The company originated in Argentina and maintains significant operations in Latin America—a region with enormous agricultural output but also regulatory complexity, [currency volatility](/currency-volatility/), and emerging-market characteristics. Understanding Bioceres requires understanding how its Latin American presence shapes its technology development, commercialization strategy, and earnings stability.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BIOX</td></tr>
@@ -19,7 +19,7 @@ keywords: [agricultural biotechnology, crop science, genetically modified seeds,
 
 Argentina is one of the world's largest agricultural producers: soybeans, corn, wheat, and beef dominate the landscape. Bioceres' roots in Argentina mean the company sits in the heart of a region where agricultural innovation directly impacts billions of dollars in annual crop output. The advantage is substantial: the company can test crop genetics and agronomic traits in real-world farming contexts, with rapid feedback from large-scale farmers. A new soybean variety Bioceres develops can be evaluated on hundreds of thousands of hectares within a single growing season—impossible in most other geographies.
 
-But Argentina's agricultural sector is also a training ground in volatility. Commodity prices for crops, fertilizer availability, climate swings (droughts in some years, flooding in others), and currency depreciation create a high-variance operating environment. Farmers in Argentina see their export revenues and input costs fluctuate wildly year to year. This instability means Bioceres must develop products that deliver value even when commodity prices collapse—a rigorous test of real agronomic advantage. Products that succeed in Argentina are often robust and valuable globally; products that fail there often fail because they lack genuine farmer benefit.
+But Argentina's agricultural sector is also a training ground in volatility. Commodity prices for crops, fertilizer availability, climate swings (droughts in some years, flooding in others), and currency [depreciation](/depreciation/) create a high-variance operating environment. Farmers in Argentina see their export revenues and input costs fluctuate wildly year to year. This instability means Bioceres must develop products that deliver value even when commodity prices collapse—a rigorous test of real agronomic advantage. Products that succeed in Argentina are often robust and valuable globally; products that fail there often fail because they lack genuine farmer benefit.
 
 ## Regional seed distribution networks
 
@@ -35,9 +35,9 @@ Bioceres' geography gives it a strategic advantage here: the company understands
 
 ## Currency and emerging-market exposure
 
-Much of Bioceres' revenue likely comes from Argentina, Brazil, Paraguay, and Uruguay—all emerging markets with currencies that can depreciate sharply. If Bioceres earns revenue in Argentine pesos, Brazilian reals, or other local currencies, and must report earnings in US dollars, currency movements directly affect reported [earnings-per-share](/earnings-per-share/). A severe currency depreciation in Argentina (as happened in 2018–2019 and again in 2023–2024) can halve a company's reported dollar earnings even if underlying agronomic and commercial performance is unchanged.
+Much of Bioceres' revenue likely comes from Argentina, Brazil, Paraguay, and Uruguay—all emerging markets with currencies that can depreciate sharply. If Bioceres earns revenue in Argentine pesos, Brazilian reals, or other local currencies, and must report earnings in [US dollars](/us-dollar/), currency movements directly affect reported [earnings-per-share](/earnings-per-share/). A severe currency depreciation in Argentina (as happened in 2018–2019 and again in 2023–2024) can halve a company's reported dollar earnings even if underlying agronomic and commercial performance is unchanged.
 
-This currency risk is inherent to Bioceres' geographic positioning. The company can hedge some currency exposure, but hedging is costly and imperfect. Investors must understand that Bioceres' earnings volatility partly reflects macro volatility in emerging markets, not just agricultural or competitive factors.
+This [currency risk](/currency-risk/) is inherent to Bioceres' geographic positioning. The company can hedge some currency exposure, but hedging is costly and imperfect. Investors must understand that Bioceres' earnings volatility partly reflects macro volatility in emerging markets, not just agricultural or competitive factors.
 
 ## Global expansion and developed-market entry
 

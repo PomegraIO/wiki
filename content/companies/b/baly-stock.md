@@ -21,7 +21,7 @@ Bally's operates in the regional gaming market, distinct from the destination-re
 
 ## The Consolidation of Gaming Properties
 
-Bally's asset portfolio has evolved through acquisitions and divestitures; the company has bought and sold gaming properties to optimize geographic footprint and match regional market saturation. In some markets (e.g., Illinois, Pennsylvania), competition from multiple casinos and tribal gaming has compressed margins; in others, Bally's maintains quasi-monopoly positions (few competitors, strong local brand). The firm's strategy involves continuous portfolio optimization: exiting low-return assets and concentrating investment in strong-margin markets. This means revenue is not simply "gaming rooms × occupancy × average wager," but rather the product of localized competition, gaming-machine hold percentages (the percentage of wagered money the casino retains), and customer frequency. Any market entering or departing shifts the income statement measurably.
+Bally's asset portfolio has evolved through [acquisitions](/acquisition/) and [divestitures](/divestiture/); the company has bought and sold gaming properties to optimize geographic footprint and match regional market saturation. In some markets (e.g., Illinois, Pennsylvania), competition from multiple casinos and tribal gaming has compressed margins; in others, Bally's maintains quasi-monopoly positions (few competitors, strong local brand). The firm's strategy involves continuous portfolio optimization: exiting low-return assets and concentrating investment in strong-margin markets. This means revenue is not simply "gaming rooms × occupancy × average wager," but rather the product of localized competition, gaming-machine hold percentages (the percentage of wagered money the casino retains), and customer frequency. Any market entering or departing shifts the [income statement](/income-statement/) measurably.
 
 ## Gaming Margin Mechanics and House Advantage
 
@@ -37,11 +37,11 @@ Digital sports betting involves customer-acquisition costs (advertising, bonuses
 
 ## Regulatory and Competitive Headwinds
 
-Gaming is regulated state-by-state; Bally's must maintain gaming licenses and comply with local rules on machine types, payout percentages, and marketing. License loss or suspension would destroy the business; regulatory compliance costs are thus non-negotiable. Additionally, tribal casinos and state-run lotteries compete directly; some states have capped the number of gaming licenses, protecting incumbents like Bally's. Conversely, states with deregulation have flooded the market with operators, compressing margins. Bally's exposure to these regulatory variations is significant; a state that opens new casino licenses or expands tribal gaming can reduce Bally's market share and [return on equity](/return-on-equity/) measurably. The firm's digital expansion into sports betting and iGaming offers diversification but introduces new competitive and regulatory risks (technology incumbents like DraftKings and FanDuel have entrenched positions and brand recognition).
+Gaming is regulated state-by-state; Bally's must maintain gaming licenses and comply with local rules on machine types, payout percentages, and marketing. License loss or suspension would destroy the business; regulatory compliance costs are thus non-negotiable. Additionally, tribal casinos and state-run lotteries compete directly; some states have capped the number of gaming licenses, protecting incumbents like Bally's. Conversely, states with deregulation have flooded the market with operators, compressing margins. Bally's exposure to these regulatory variations is significant; a state that opens new casino licenses or expands tribal gaming can reduce Bally's market share and [return on equity](/return-on-equity/) measurably. The firm's digital expansion into sports betting and iGaming offers [diversification](/diversification/) but introduces new competitive and regulatory risks (technology incumbents like DraftKings and FanDuel have entrenched positions and brand recognition).
 
 ## Capital Structure and Debt Burden
 
-Bally's has historically carried substantial debt (leveraged through acquisitions and property refurbishments). Gaming is capital-intensive (property acquisition, slot-machine refresh cycles, renovation) but generates strong cash flows, making moderate debt sustainable. However, if market conditions deteriorate, cash flows shrink faster than debt service, creating a squeeze. Bally's must manage [free cash flow](/free-cash-flow/) carefully to service debt and fund capex. Gaming downturns (recessions, new competition) thus present real risks to debt sustainability and potentially to [common stock](/common-stock/) valuation.
+Bally's has historically carried substantial debt (leveraged through acquisitions and property refurbishments). Gaming is capital-intensive (property acquisition, slot-machine refresh cycles, renovation) but generates strong cash flows, making moderate debt sustainable. However, if market conditions deteriorate, cash flows shrink faster than debt service, creating a squeeze. Bally's must manage [free cash flow](/free-cash-flow/) carefully to service debt and fund capex. Gaming downturns ([recessions](/recession/), new competition) thus present real risks to debt sustainability and potentially to [common stock](/common-stock/) valuation.
 
 ## See Also
 
@@ -51,7 +51,7 @@ Bally's has historically carried substantial debt (leveraged through acquisition
 - [Stock](/stock/) — Bally's share price reflects gaming revenue, margins, and betting-market growth
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — regulatory filings (CIK 1747079) detail property-level performance
 - [10-K](/10-k/) — annual reports disclose gaming revenue by property, sports-betting growth, and debt metrics
-- [Enterprise value](/enterprise-value/) — gaming companies valued by EBITDA and property-by-property returns
+- [Enterprise value](/enterprise-value/) — gaming companies valued by [EBITDA](/ebitda/) and property-by-property returns
 
 ### Wider context
 - [Return on equity](/return-on-equity/) — crucial metric for gaming companies managing capital-intensive portfolios

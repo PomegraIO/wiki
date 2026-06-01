@@ -41,7 +41,7 @@ Packaging and labeling are heavily regulated: state mandates on warnings, potenc
 
 Weed, Inc. may operate both cultivation/manufacturing (upstream) and retail (downstream), or focus on one. Vertical integration—owning cultivation, processing, and retail locations—offers margin capture and customer control but is capital-intensive and requires licenses in multiple operational segments. Some states cap vertical integration; others prohibit it.
 
-If Weed, Inc. operates as a wholesale producer/processor, it sells to licensed retailers (dispensaries) who buy at wholesale prices and resell to consumers. Wholesale pricing is lower than retail but avoids retail compliance and customer acquisition costs. If it operates retail dispensaries, it captures retail margin but must manage retail labor, customer experience, and compliance at the point of sale.
+If Weed, Inc. operates as a wholesale producer/processor, it sells to licensed retailers (dispensaries) who buy at wholesale prices and resell to consumers. Wholesale pricing is lower than retail but avoids retail compliance and customer [acquisition](/acquisition/) costs. If it operates retail dispensaries, it captures retail margin but must manage retail labor, customer experience, and compliance at the point of sale.
 
 ## Regulatory Constraints and Licensing
 

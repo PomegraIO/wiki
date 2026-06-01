@@ -11,7 +11,7 @@ keywords:
   - supply chain
 ---
 
-*A vertically integrated cannabis operator rooted in California's competitive and heavily regulated market. **Glass House Brands Inc. (GHBWF)**, trading OTC, operates cultivation facilities, processing centers, and retail locations across California. The company's strategy depends on securing and maintaining cultivation licenses, controlling end-to-end supply chains, and building brands that command premiums in a market where pricing pressure and regulatory friction are constants.*
+*A vertically integrated cannabis operator rooted in California's competitive and heavily regulated market. **[Glass House Brands](/glasf-stock/) Inc. (GHBWF)**, trading OTC, operates cultivation facilities, processing centers, and retail locations across California. The company's strategy depends on securing and maintaining cultivation licenses, controlling end-to-end supply chains, and building brands that command premiums in a market where pricing pressure and regulatory friction are constants.*
 
 <aside class="wiki-infobox"><table>
   <tr><td><strong>Ticker</strong></td><td>GHBWF</td></tr>
@@ -66,7 +66,7 @@ Multi-state expansion has appeal: it diversifies regulatory risk (one state's re
 
 ## Path Dependence on Commodity Pricing and Regulatory Stability
 
-Glass House's earnings depend on maintaining cultivation and retail licenses (regulatory continuity), managing operating costs relative to wholesale and retail cannabis prices (commodity exposure), and protecting retail market share against both chain and independent competitors. The company has limited ability to raise prices above competitive levels because cannabis demand remains price-sensitive and competition is local. Operating margins depend on cost discipline and supply chain efficiency.
+Glass House's earnings depend on maintaining cultivation and retail licenses (regulatory continuity), managing operating costs relative to wholesale and retail cannabis prices (commodity exposure), and protecting retail market share against both chain and independent competitors. The company has limited ability to raise prices above competitive levels because cannabis demand remains price-sensitive and competition is local. [Operating margins](/operating-margin/) depend on cost discipline and supply chain efficiency.
 
 The business model works best in a regulated but stable environment where prices are above black-market levels (enabling profitable operation) but competition is constrained by licensing limits. If federal legalization suddenly permits national players (CPG giants, pharmaceutical firms) to enter and build brands at scale, the competitive dynamics could shift sharply against regional operators like Glass House. The company's future relies on leveraging its existing license portfolio and customer relationships before such a disruption occurs.
 

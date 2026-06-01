@@ -4,7 +4,7 @@ description: "A Taiwan-based LED chipmaker competing in the commodity LED segmen
 keywords: ["LED", "semiconductor", "Taiwan", "chipmaker", "lighting", "display"]
 ---
 
-*SemiLEDs Corp (LEDS)—a Taiwanese manufacturer of light-emitting diode chips—occupies a distinctive, cost-driven niche in the global commodity-LED market. Founded in 2003 and listed on the NASDAQ, the company competes primarily on manufacturing efficiency and price rather than high-specification or custom-design variants. Its rivalry centers on competing with larger, better-capitalized competitors who benefit from massive scale and vertically integrated operations, while simultaneously defending against pricing pressure from Chinese LED producers who have steadily expanded capacity.*
+*SemiLEDs Corp (LEDS)—a Taiwanese manufacturer of light-emitting diode chips—occupies a distinctive, cost-driven niche in the global commodity-LED market. Founded in 2003 and listed on the [NASDAQ](/nasdaq/), the company competes primarily on manufacturing efficiency and price rather than high-specification or custom-design variants. Its rivalry centers on competing with larger, better-capitalized competitors who benefit from massive scale and vertically integrated operations, while simultaneously defending against pricing pressure from Chinese LED producers who have steadily expanded capacity.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LEDS</td></tr>
@@ -25,7 +25,7 @@ In this arena, competitors split into three tiers. At the top sit giants like Ph
 
 The LED market experiences relentless pricing pressure. As the technology matures and adoption saturates major markets—buildings, vehicles, consumer electronics—buyers expect prices to fall year-over-year. SemiLEDs cannot command pricing power through brand or differentiation; it competes on delivered cost. This means that quarter-to-quarter profitability is highly sensitive to gross margin, which in turn depends on factory utilization, yield rates, and input costs. When demand softens globally, SemiLEDs' fabs operate below capacity, and fixed costs compress margins rapidly.
 
-The company is also vulnerable to shifts in customer mix. A large customer win—say, securing supply contracts for a major automotive or LED-fixture maker—can move the needle on revenue and profitability. Conversely, customer loss or a shift in purchasing patterns toward Chinese competitors can trigger steep declines. This customer concentration risk is inherent to the business; SemiLEDs must balance acquiring new customers and retaining incumbent ones in an industry where relationships are price-sensitive.
+The company is also vulnerable to shifts in customer mix. A large customer win—say, securing supply contracts for a major automotive or LED-fixture maker—can move the needle on revenue and profitability. Conversely, customer loss or a shift in purchasing patterns toward Chinese competitors can trigger steep declines. This customer [concentration risk](/concentration-risk/) is inherent to the business; SemiLEDs must balance acquiring new customers and retaining incumbent ones in an industry where relationships are price-sensitive.
 
 ## Market Position Relative to Substitutes and Adjacent Segments
 
@@ -35,7 +35,7 @@ Additionally, SemiLEDs faces indirect competition from companies moving upstream
 
 ## Geographic and Structural Factors
 
-Taiwan's position as a semiconductor manufacturing hub provides SemiLEDs with access to skilled labor, supplier ecosystems, and capital markets. However, Taiwan is also exposed to geopolitical risk, which can affect supply chain continuity and investment sentiment. The company's Taiwan-based fabs make it geographically distinct from Chinese competitors, which can be an advantage in terms of supply-chain diversification for Western customers and a disadvantage in terms of cost per unit.
+Taiwan's position as a semiconductor manufacturing hub provides SemiLEDs with access to skilled labor, supplier ecosystems, and capital markets. However, Taiwan is also exposed to geopolitical risk, which can affect supply chain continuity and investment sentiment. The company's Taiwan-based fabs make it geographically distinct from Chinese competitors, which can be an advantage in terms of supply-chain [diversification](/diversification/) for Western customers and a disadvantage in terms of cost per unit.
 
 Rivals like Philips or Cree have the scale to maintain multiple fabs in different geographies. SemiLEDs, with more limited capital, has made targeted manufacturing investments. Its competitive position thus depends partly on whether its Taiwan fab remains cost-competitive and whether it can justify additional capacity without overextending balance-sheet leverage.
 

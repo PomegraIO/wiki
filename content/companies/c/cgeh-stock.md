@@ -4,7 +4,7 @@ description: "A small-cap energy services and development company engaged in ind
 keywords: [oil and gas, energy services, independent producer, petroleum, upstream]
 ---
 
-*Capstone Energy Plus, Inc., ticker **CGEH**, is an independent energy company operating across a range of oil and gas assets and services. Unlike integrated majors that own refineries, pipelines, and retail networks, Capstone operates primarily in the upstream segment—finding and producing crude oil and natural gas from subsurface reservoirs. The company also engages in development projects and ancillary energy services, positioning itself in the fragmented independent operator tier of the petroleum industry.*
+*Capstone Energy Plus, Inc., ticker **CGEH**, is an independent energy company operating across a range of oil and gas assets and services. Unlike integrated majors that own refineries, pipelines, and retail networks, Capstone operates primarily in the upstream segment—finding and producing [crude oil](/crude-oil/) and [natural gas](/natural-gas/) from subsurface reservoirs. The company also engages in development projects and ancillary energy services, positioning itself in the fragmented independent operator tier of the petroleum industry.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CGEH</td></tr>
@@ -16,7 +16,7 @@ keywords: [oil and gas, energy services, independent producer, petroleum, upstre
 
 ## The Independent Operator Ecosystem
 
-The global oil and gas industry organizes itself into rough tiers: integrated majors (ExxonMobil, Chevron, Shell, BP, Total) that own exploration, production, refining, and distribution; large independents (EOG, ConocoPhillips, Occidental) that own significant acreage and production across multiple regions; and a vast base of small independents and private operators that own and operate individual fields or lease blocks, often for limited time horizons. Capstone Energy Plus sits in the independent space, competing with hundreds of other small-cap producers for acreage, capital, and exit opportunities. Independence at this scale means the company must focus: it cannot match the capital, scale, or diversification of majors, so it typically concentrates on specific basins, plays, or asset types where local expertise and operational agility create competitive advantage.
+The global oil and gas industry organizes itself into rough tiers: integrated majors (ExxonMobil, [Chevron](/cvx-stock/), Shell, BP, Total) that own exploration, production, refining, and distribution; large independents (EOG, [ConocoPhillips](/cop-stock/), Occidental) that own significant acreage and production across multiple regions; and a vast base of small independents and private operators that own and operate individual fields or lease blocks, often for limited time horizons. Capstone Energy Plus sits in the independent space, competing with hundreds of other small-cap producers for acreage, capital, and exit opportunities. Independence at this scale means the company must focus: it cannot match the capital, scale, or [diversification](/diversification/) of majors, so it typically concentrates on specific basins, plays, or asset types where local expertise and operational agility create competitive advantage.
 
 ## Upstream Economics and Operating Margins
 

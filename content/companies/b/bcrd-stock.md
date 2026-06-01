@@ -24,17 +24,17 @@ BlueOne's 10-K filing details this mix, noting customer segments, contract terms
 
 ## Margins and Labor Economics
 
-IT services firms are labor-intensive; a significant [gross-profit margin](/gross-profit-margin/) depends on billability rates and bench utilization. Professional services firms target 60–75% gross margins (revenue minus direct labor and delivery costs); anything below 55% signals either pricing weakness or inefficiency. BlueOne's filing shows gross margin trends, which reveal whether the company is gaining or losing pricing power or facing labor cost inflation faster than it can raise rates.
+IT services firms are labor-intensive; a significant [gross-profit margin](/gross-profit-margin/) depends on billability rates and bench utilization. Professional services firms target 60–75% gross margins (revenue minus direct labor and delivery costs); anything below 55% signals either pricing weakness or inefficiency. BlueOne's filing shows gross margin trends, which reveal whether the company is gaining or losing pricing power or facing labor cost [inflation](/inflation/) faster than it can raise rates.
 
 [Operating margin](/operating-margin/) (before taxes and financing costs) is the key lever. Companies that achieve 15–25% operating margins have built scalable delivery models, strong sales processes, or favorable market positions. Lower margins suggest commodity-like competition or high sales/G&A overhead. BlueOne's overhead structure—sales force size, marketing spend, executive payroll—relative to revenue size indicates whether the company is absorbing costs toward scale or running lean.
 
 ## Customer Concentration Risk
 
-A critical disclosure in the 10-K is whether BlueOne depends on a handful of customers for revenue. If the top 10 customers represent more than 50% of revenue, the loss of even one major account is material. For services firms, customer diversification is a moat; concentrated revenue is a vulnerability. BlueOne's filing lists major customers (often by customer type or industry rather than name, for confidentiality).
+A critical disclosure in the 10-K is whether BlueOne depends on a handful of customers for revenue. If the top 10 customers represent more than 50% of revenue, the loss of even one major account is material. For services firms, customer [diversification](/diversification/) is a moat; concentrated revenue is a vulnerability. BlueOne's filing lists major customers (often by customer type or industry rather than name, for confidentiality).
 
 ## Competitive Positioning
 
-BlueOne operates in a fragmented market. At the global scale, giants like Accenture and IBM dominate through scale, brand, and capability breadth. At the regional or vertical level, dozens of specialized boutiques compete on expertise or relationships. BlueOne's niche is likely defined by either vertical expertise (e.g., "the manufacturing systems integrator for mid-market firms in the Midwest") or horizontal capability (e.g., "the cloud-migration specialist"). The 10-K often hints at competitive advantage through customer retention rates, win rates, or contract expansion metrics.
+BlueOne operates in a fragmented market. At the global scale, giants like [Accenture](/acn-stock/) and IBM dominate through scale, brand, and capability breadth. At the regional or vertical level, dozens of specialized boutiques compete on expertise or relationships. BlueOne's niche is likely defined by either vertical expertise (e.g., "the manufacturing systems integrator for mid-market firms in the Midwest") or horizontal capability (e.g., "the cloud-migration specialist"). The 10-K often hints at competitive advantage through customer retention rates, win rates, or contract expansion metrics.
 
 ## Technology and Intellectual Property
 
@@ -42,7 +42,7 @@ Services firms sometimes develop proprietary methods, accelerators, or pre-built
 
 ## Cash Flow and Growth Dynamics
 
-A services firm's cash flow is tied to receivables collection cycles and contract terms. Large contracts often include milestone payments tied to delivery, while smaller contracts may be billed monthly or quarterly. The 10-K notes days sales outstanding (DSO) and any allowance for doubtful accounts. [Free cash flow](/free-cash-flow/) is crucial; a growing services firm with expanding receivables and long collection cycles can become cash-constrained even while booking revenue.
+A services firm's cash flow is tied to receivables collection cycles and contract terms. Large contracts often include milestone payments tied to delivery, while smaller contracts may be billed monthly or quarterly. The 10-K notes [days sales outstanding](/days-sales-outstanding/) (DSO) and any [allowance for doubtful accounts](/allowance-for-doubtful-accounts/). [Free cash flow](/free-cash-flow/) is crucial; a growing services firm with expanding receivables and long collection cycles can become cash-constrained even while booking revenue.
 
 ## See Also
 

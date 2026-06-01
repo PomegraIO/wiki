@@ -25,13 +25,13 @@ The magic of this model was its predictability: churn (customer departure) ran 1
 
 As fiber-optic and wireless technologies proliferated, QWEST's copper-based business faced structural margin compression. A fiber-fed provider could offer 100 Mbps or gigabit speeds; QWEST's copper network typically maxed out at 25 Mbps or lower, depending on distance from the switching office. Customers defected to cable, fiber, or wireless providers, and QWEST had to cut prices to hold subscribers—simultaneously facing rising unit costs as the customer base shrunk and fixed infrastructure costs spread thinner.
 
-A voice customer paying $45 monthly for landline service migrated to wireless or VoIP and stopped generating that revenue stream. Unlike consumer-goods companies that can discontinue unprofitable product lines, a telecom operator cannot simply shut down copper infrastructure serving 10,000 customer locations. The copper plant sits there, depreciating on the balance sheet, no longer earning. This dynamic pushed regional operators like QWEST toward a gradual decline of profitability—not from new competition but from technology change that made their core infrastructure obsolete.
+A voice customer paying $45 monthly for landline service migrated to wireless or VoIP and stopped generating that revenue stream. Unlike consumer-goods companies that can discontinue unprofitable product lines, a telecom operator cannot simply shut down copper infrastructure serving 10,000 customer locations. The copper plant sits there, depreciating on the [balance sheet](/balance-sheet/), no longer earning. This dynamic pushed regional operators like QWEST toward a gradual decline of profitability—not from new competition but from technology change that made their core infrastructure obsolete.
 
 ## The Capital Trap and Debt Burden
 
-QWEST, like many regional carriers, financed expansion and maintenance through debt and retained earnings. As subscriber bases declined and churn accelerated, cash flow contracted, but debt remained fixed. A company that had issued 20-year bonds at 7% interest when cash flow was strong faced painful choices: refinance at higher rates, cut capital spending and let the network degrade, or sell assets to competitors. Each option eroded the firm's strategic position.
+QWEST, like many regional carriers, financed expansion and maintenance through debt and [retained earnings](/retained-earnings/). As subscriber bases declined and churn accelerated, cash flow contracted, but debt remained fixed. A company that had issued 20-year [bonds](/bond/) at 7% interest when cash flow was strong faced painful choices: refinance at higher rates, cut capital spending and let the network degrade, or sell assets to competitors. Each option eroded the firm's strategic position.
 
-The balance sheet eventually showed the strain: accumulated depreciation from decades of infrastructure buildout inflated total assets but many were economically obsolete. Cash flow available for debt service (EBITDA minus capital maintenance) fell year after year, tightening debt covenants and limiting financial flexibility. At some point, the company's credit rating fell, borrowing costs rose, and the firm became a takeover target or wound down operations.
+The balance sheet eventually showed the strain: [accumulated depreciation](/accumulated-depreciation/) from decades of infrastructure buildout inflated total assets but many were economically obsolete. Cash flow available for debt service ([EBITDA](/ebitda/) minus capital maintenance) fell year after year, tightening debt covenants and limiting financial flexibility. At some point, the company's [credit rating](/credit-rating/) fell, borrowing costs rose, and the firm became a takeover target or wound down operations.
 
 ## The Service Model Transition Failure
 
@@ -41,7 +41,7 @@ The hard lesson: a business with high fixed costs and declining unit volume even
 
 ## Why Researching QWEST Today Matters
 
-For investors studying the firm, the 10-K and other SEC filings are essential to determining whether QWEST operates any ongoing business, owns monetizable assets, or is essentially a shell holding legacy debt and depreciated plant. The structure of the balance sheet—whether assets are marked at fair value or at historical cost less depreciation—reveals whether management is honest about the firm's prospects. If the company still carries copper plant at book value knowing it is functionally worthless, the balance sheet is not a reliable guide to intrinsic value.
+For investors studying the firm, the 10-K and other SEC filings are essential to determining whether QWEST operates any ongoing business, owns monetizable assets, or is essentially a shell holding legacy debt and depreciated plant. The structure of the balance sheet—whether assets are marked at [fair value](/fair-value/) or at [historical cost](/historical-cost/) less [depreciation](/depreciation/)—reveals whether management is honest about the firm's prospects. If the company still carries copper plant at book value knowing it is functionally worthless, the balance sheet is not a reliable guide to [intrinsic value](/intrinsic-value/).
 
 Understanding QWEST's history also teaches a broader lesson about capital-intensive infrastructure businesses. Telecom operators worldwide have consolidated dramatically since the 1990s, and companies without scale, fiber networks, or financial strength to rebuild did not survive as independent entities. QWEST's fate illustrates the risks of technological disruption in regulated, capital-heavy industries where switching costs and customer loyalty cannot protect margins from structural change.
 
@@ -53,6 +53,6 @@ Understanding QWEST's history also teaches a broader lesson about capital-intens
 
 ### Wider context
 - Technology disruption in infrastructure
-- Debt covenants and refinancing risk
+- Debt covenants and [refinancing risk](/refinancing-risk/)
 - Balance sheet analysis for declining businesses
 </div>

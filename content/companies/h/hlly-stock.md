@@ -29,7 +29,7 @@ Beyond carburetors, Holley manufactures fuel-injection systems (increasingly pop
 
 ## The Enthusiast Economy and Discretionary Spending
 
-Holley's revenue is fundamentally discretionary. A customer spends money on performance upgrades, engine rebuilds, and specialty equipment when they have disposable income and when economic confidence is high. Recessions and downturns in consumer spending hit the aftermarket disproportionately because builders postpone or cancel projects. Conversely, strong economic periods see a surge in hobby spending and restoration projects. Holley's sales are thus procyclical: they track consumer confidence and discretionary spending more closely than they track automotive production or broader economic activity.
+Holley's revenue is fundamentally discretionary. A customer spends money on performance upgrades, engine rebuilds, and specialty equipment when they have disposable income and when economic confidence is high. [Recessions](/recession/) and downturns in consumer spending hit the aftermarket disproportionately because builders postpone or cancel projects. Conversely, strong economic periods see a surge in hobby spending and restoration projects. Holley's sales are thus procyclical: they track consumer confidence and [discretionary spending](/discretionary-spending/) more closely than they track automotive production or broader economic activity.
 
 ## Classic Vehicle Restoration Trends
 

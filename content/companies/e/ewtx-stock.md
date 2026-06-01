@@ -21,7 +21,7 @@ Edgewise Therapeutics is a clinical-stage biopharmaceutical company, which means
 
 The company's fundamental financial metric is cash runway: given the current cash balance and monthly burn rate, how many months can the company operate? If Edgewise has $50 million in cash and burns $2 million monthly, runway is 25 months. This is the interval in which the company must either achieve a major milestone (completing a trial, gaining regulatory approval, landing a partnership that funds further development) or raise more capital.
 
-Biotech companies raise capital in tranches, each designed to fund the next set of milestones. The first round might fund exploratory science and early safety studies; the second might fund Phase 1 clinical trials; the third, Phase 2 efficacy studies; and so on. Each tranche is riskier and more expensive (higher [equity dilution](/stock/)) than the last, because the company is still uncertain whether its drugs will work.
+Biotech companies raise capital in [tranches](/tranche/), each designed to fund the next set of milestones. The first round might fund exploratory science and early safety studies; the second might fund Phase 1 clinical trials; the third, Phase 2 efficacy studies; and so on. Each tranche is riskier and more expensive (higher [equity dilution](/stock/)) than the last, because the company is still uncertain whether its drugs will work.
 
 ## Dilution and Founder Incentives
 
@@ -29,7 +29,7 @@ Each time Edgewise raises capital through [stock issuance](/stock/), existing sh
 
 The dilution problem creates a tension: management wants to raise large rounds to extend runway and reduce the need for future raises (and thus future dilution). But investors want to invest at the lowest valuation possible, which means supporting smaller rounds at lower pre-money valuations. The result is serial, smaller rounds—each one extending runway by only 12–18 months, but at valuation that seems reasonable relative to the company's progress.
 
-For founders, heavy dilution can flip incentives. A founder diluted to 1–2% ownership might be less motivated than one holding 10%. This is why equity compensation programs for employees matter in biotech: the company must maintain alignment despite ownership dilution. Additionally, if the company stumbles and the stock price falls, water-down dilution (issuing more shares at a lower valuation than previous rounds) can completely erase earlier shareholders' economic interests.
+For founders, heavy dilution can flip incentives. A founder diluted to 1–2% ownership might be less motivated than one holding 10%. This is why [equity compensation](/equity-compensation/) programs for employees matter in biotech: the company must maintain alignment despite ownership dilution. Additionally, if the company stumbles and the stock price falls, water-down dilution (issuing more shares at a lower valuation than previous rounds) can completely erase earlier shareholders' economic interests.
 
 ## Strategic Partnerships and Non-Dilutive Capital
 
@@ -43,7 +43,7 @@ The mix of capital sources—equity raises, milestone payments from partners, go
 
 EWTX's management must be obsessive about cash management. Burning $2 million monthly is not sustainable if capital raises are years apart or unsuccessful. Management might slow development to reduce burn rate, reduce headcount, or wind down programs deemed less likely to succeed.
 
-The [balance sheet](/balance-sheet/) at any moment—the exact amount of cash and short-term marketable securities—is not a static fact but a tactical variable. Management can draw down cash reserves for operations or invest excess cash in short-term Treasury bills to earn a tiny return while preserving liquidity. The difference between a biotech company with $50 million in cash and one with $49 million might not sound dramatic, but it is the difference between 25 months of runway and 24.5 months—material when the next catalyst is 18 months away.
+The [balance sheet](/balance-sheet/) at any moment—the exact amount of cash and short-term marketable securities—is not a static fact but a tactical variable. Management can draw down cash reserves for operations or invest excess cash in short-term [Treasury bills](/treasury-bill/) to earn a tiny return while preserving liquidity. The difference between a biotech company with $50 million in cash and one with $49 million might not sound dramatic, but it is the difference between 25 months of runway and 24.5 months—material when the next catalyst is 18 months away.
 
 ## Valuation and Equity Rounds
 
@@ -69,7 +69,7 @@ The race against the patent clock shapes capital strategy: if a drug is 10 years
 
 If Edgewise achieves regulatory approval for a drug, capital needs shift dramatically. Instead of funding research and development, capital goes to manufacturing, sales and marketing, and pharmacy benefits management. If the company has burned through capital reaching approval, it may need to raise more for the commercialization phase, again diluting shareholders.
 
-Alternatively, a successful Edgewise might be acquired by a larger pharma company; the acquirer funds commercialization and shares or retains all future profits. From the biotech founders' and early investors' perspective, acquisition is often the intended exit: they invested for a 5–10 year horizon with a goal of acquisition or initial public offering, not perpetual public company operation.
+Alternatively, a successful Edgewise might be acquired by a larger pharma company; the acquirer funds commercialization and shares or retains all future profits. From the biotech founders' and early investors' perspective, [acquisition](/acquisition/) is often the intended exit: they invested for a 5–10 year horizon with a goal of acquisition or [initial public offering](/initial-public-offering/), not perpetual public company operation.
 
 ## The Burn-Rate Death Spiral
 

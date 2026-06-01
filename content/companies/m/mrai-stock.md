@@ -21,7 +21,7 @@ Healthcare claims and behavioral health platforms exhibit exceptional switching 
 
 Switching to a competitor requires re-establishing these integrations—a project costing hundreds of thousands to millions of dollars, consuming IT resources over months or years, and risking operational disruption during transition. Insurance companies and large employers rarely undertake such projects unless performance or cost becomes truly untenable. This creates a formidable moat: once implemented, Marpai's software becomes woven into the client's operations, making exit prohibitively expensive.
 
-Critically, this moat does not depend on superior technology or features—it depends on entrenchment. A competitor with better algorithms or user interface still faces the integration burden, making market entry or customer acquisition expensive even if the product is superior.
+Critically, this moat does not depend on superior technology or features—it depends on entrenchment. A competitor with better algorithms or user interface still faces the integration burden, making market entry or customer [acquisition](/acquisition/) expensive even if the product is superior.
 
 ## Behavioral Health as an Underserved Market
 
@@ -51,7 +51,7 @@ Conversely, payer consolidation (fewer, larger health plans and employers) can p
 
 ## Customer Concentration Risk
 
-If Marpai's revenue is concentrated among a handful of large payers or employers, the moat is undermined by customer concentration risk. Loss of a single large client could materially harm revenue and cash flow, suggesting the switching-cost moat is one-directional: Marpai can extract value from switching costs, but customers can extract value through scale and negotiating power if they represent a large share of revenue.
+If Marpai's revenue is concentrated among a handful of large payers or employers, the moat is undermined by customer [concentration risk](/concentration-risk/). Loss of a single large client could materially harm revenue and cash flow, suggesting the switching-cost moat is one-directional: Marpai can extract value from switching costs, but customers can extract value through scale and negotiating power if they represent a large share of revenue.
 
 Review the company's 10-K (CIK 1844392) for customer concentration disclosures and the top 10 clients' share of revenue. A healthy moat is associated with no single customer exceeding 10–15% of revenue and a large, diversified base of mid-market and large payers.
 

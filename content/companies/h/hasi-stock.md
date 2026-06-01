@@ -19,7 +19,7 @@ Hatteras Financial Corp (formerly known as HA Sustainable Infrastructure Capital
 
 A yieldco is a corporate wrapper designed to hold infrastructure assets that generate stable, predictable cash flows and pay most of those flows out as [dividends](/dividend/) to shareholders. The model emerged in the mid-2010s as a way to recycle capital: a developer like [NextEra Energy](/nee-stock/) or Brookfield builds a solar farm, locks in a 20-year power purchase agreement, then sells the asset to a yieldco. The yieldco, unburdened by the developer's cost of capital and growth ambitions, can finance and own the asset cheaply, pay a high dividend, and attract yield-seeking investors (pension funds, insurers, and retirees). The developer gets upfront cash and can redeploy capital to build the next farm.
 
-Yieldcos proliferated in the 2010s as renewable energy matured and prices for wind and solar fell, making the underlying assets boring, stable, and therefore suited to yield structures. Many have since consolidated or restructured as the renewable-energy landscape shifted, but the model persists for companies willing to [target](/tgt-stock/) a high dividend and modest growth.
+Yieldcos proliferated in the 2010s as renewable energy matured and prices for wind and solar fell, making the underlying assets boring, stable, and therefore suited to yield structures. Many have since consolidated or restructured as the renewable-energy landscape shifted, but the model persists for companies willing to target a high dividend and modest growth.
 
 ## The power purchase agreement: Hatteras's moat
 

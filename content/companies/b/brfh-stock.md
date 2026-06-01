@@ -35,7 +35,7 @@ BARFRESH's competitive leverage includes branded equipment—smoothie blenders a
 
 Smoothies and cold-pressed drinks are commodity-heavy. A strawberry smoothie is primarily strawberries; a green juice is largely leafy greens and apples. BARFRESH's cost of goods sold is heavily exposed to fruit and vegetable pricing, which is seasonal and volatile. When strawberries are in season and abundant, ingredient costs fall and margins expand. During off-season or if crops fail, costs spike and margins compress.
 
-The company can partly mitigate this through ingredient diversification (not every smoothie is strawberry-based) and frozen-fruit purchasing (allowing year-round supply). But fundamentally, BARFRESH is a pass-through vehicle for agricultural commodities with some value-add from blending, fortification, and branding. This limits margin to the gap between ingredient cost and what retail customers will pay—typically modest for a low-margin food business.
+The company can partly mitigate this through ingredient [diversification](/diversification/) (not every smoothie is strawberry-based) and frozen-fruit purchasing (allowing year-round supply). But fundamentally, BARFRESH is a pass-through vehicle for agricultural commodities with some value-add from blending, fortification, and branding. This limits margin to the gap between ingredient cost and what retail customers will pay—typically modest for a low-margin food business.
 
 ## Production Capacity and Scalability
 

@@ -25,7 +25,7 @@ This geographic position creates both advantage and constraint. Advantage: Keise
 
 Japanese railroad operators are not entirely free to set fares; the government reviews and approves rate changes. Keisei's ability to increase fares is thus regulatory, not market-driven. The company must demonstrate cost increases (labor, energy, maintenance) justify fare hikes; regulators balance operator profitability against public-affordability concerns, especially for working-class commuters.
 
-Over the past two decades, Japanese rail operators have faced a trifecta of headwinds: passenger growth stagnation (Japan's population is shrinking), wage pressure (labor shortages in transportation), and investment requirements (aging infrastructure). Keisei's 10-K will show whether management has secured fare increases to offset inflation and maintain margins, or whether regulatory constraints have forced margin compression despite cost growth.
+Over the past two decades, Japanese rail operators have faced a trifecta of headwinds: passenger growth stagnation (Japan's population is shrinking), wage pressure (labor shortages in transportation), and investment requirements (aging infrastructure). Keisei's 10-K will show whether management has secured fare increases to offset [inflation](/inflation/) and maintain margins, or whether regulatory constraints have forced margin compression despite cost growth.
 
 ## Revenue diversification: non-fare revenue and property development
 
@@ -47,9 +47,9 @@ The company's 10-K should include commentary on demographics and service-area tr
 
 ## Capital structure and debt servicing
 
-Japanese rail operators typically maintain moderate leverage, funded through a mix of equity, bonds, and bank loans. Keisei's 10-K will disclose debt levels, interest-coverage ratios, and debt maturity schedule. A company with rising debt and flat or declining EBITDA faces refinancing risk and reduced financial flexibility. Conversely, one with improving operational metrics and de-leveraging shows management confidence in the business model.
+Japanese rail operators typically maintain moderate leverage, funded through a mix of equity, [bonds](/bond/), and bank loans. Keisei's 10-K will disclose debt levels, interest-coverage ratios, and debt maturity schedule. A company with rising debt and flat or declining [EBITDA](/ebitda/) faces [refinancing risk](/refinancing-risk/) and reduced financial flexibility. Conversely, one with improving operational metrics and de-leveraging shows management confidence in the business model.
 
-Dividend sustainability is also relevant: many Japanese rail stocks are held for dividend income by retail investors. If Keisei has maintained a consistent dividend despite margin pressure, the company may be running down cash reserves or selling assets to support dividends—a warning sign. A stable or growing dividend in the context of strong cash generation is healthy; a maintained dividend via financial engineering is concerning.
+Dividend sustainability is also relevant: many Japanese rail stocks are held for dividend income by retail investors. If Keisei has maintained a consistent dividend despite margin pressure, the company may be running down cash reserves or selling assets to support [dividends](/dividend/)—a warning sign. A stable or growing dividend in the context of strong cash generation is healthy; a maintained dividend via financial engineering is concerning.
 
 ## Peer benchmarking and regulatory expectations
 

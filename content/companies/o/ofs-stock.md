@@ -29,7 +29,7 @@ The company extends beyond pure lending; it acts as a quasi-private-equity backe
 
 ## Competitive Position and Risks
 
-OFS competes in a crowded market: thousands of BDCs, private credit firms, and direct lenders now [target](/tgt-stock/) the middle market. Larger BDCs (such as BBDC-Stock) and mega-funds backed by private-equity giants have scale advantages, cheaper funding, and brand pull. Smaller players like OFS must differentiate on industry expertise, relationships, and nimbleness. OFS has built strong franchises in industries like healthcare services, software, business services, and specialty manufacturing, but it is not a household name and cannot compete on pure size.
+OFS competes in a crowded market: thousands of BDCs, private credit firms, and direct lenders now target the middle market. Larger BDCs (such as BBDC-Stock) and mega-funds backed by private-equity giants have scale advantages, cheaper funding, and brand pull. Smaller players like OFS must differentiate on industry expertise, relationships, and nimbleness. OFS has built strong franchises in industries like [healthcare services](/hcsg-stock/), software, business services, and specialty manufacturing, but it is not a household name and cannot compete on pure size.
 
 The business is inherently cyclical: when [credit spreads](/credit-spread/) tighten and equity valuations soar, demand for middle-market capital falls and OFS's portfolio companies repay faster, forcing reinvestment at lower yields. When [recession](/recession/) hits or credit freezes, defaults spike, valuations crater, and distributions shrivel or stop. OFS's leverage, once a return amplifier, becomes a drag if portfolio companies fail and asset sales must occur at markdown.
 

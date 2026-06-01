@@ -36,7 +36,7 @@ Custom design and fabrication increase value but extend time-to-delivery. A cust
 
 ## Supply Chain and Equipment Constraints
 
-Photonic circuit fabrication requires specialized equipment: photolithography systems, etching chambers, deposition systems, optical testing equipment, and clean-room facilities. Much of this equipment is supplied by semiconductor equipment manufacturers (ASML, KLA, Lam Research, etc.) and is capital-intensive. Lightwave Logic either operates its own fab or partners with foundries that provide manufacturing services.
+Photonic circuit fabrication requires specialized equipment: photolithography systems, etching chambers, deposition systems, optical testing equipment, and clean-room facilities. Much of this equipment is supplied by semiconductor equipment manufacturers ([ASML](/asml-stock/), KLA, [Lam Research](/lrcx-stock/), etc.) and is capital-intensive. Lightwave Logic either operates its own fab or partners with foundries that provide manufacturing services.
 
 Sourcing raw materials—polymer precursors, substrates, dopants, solvents—requires relationships with chemical suppliers. Purity and consistency are critical; contaminated or off-specification materials produce defective chips.
 

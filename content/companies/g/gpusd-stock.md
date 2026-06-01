@@ -4,7 +4,7 @@ description: "Diversified holding company with interests in real estate, special
 keywords: ["holding company", "diversified investments", "special-purpose-acquisition-company", "real estate", "technology"]
 ---
 
-*The contemporary capital markets are rife with incomplete narratives: companies assembled through mergers, restructurings, and SPAC transactions that defy easy categorization. **Alset Capital Inc. (GPUSD)** exemplifies this category. The company exists as a diversified holding enterprise with operations and investments spanning real estate development, specialty chemicals manufacturing, and emerging-technology ventures. Understanding its value requires piecing together disparate business units and assessing management's capital allocation track record—a task rendered difficult by the company's complex history and the opacity often surrounding holding company structures.*
+*The contemporary capital markets are rife with incomplete narratives: companies assembled through [mergers](/merger/), restructurings, and SPAC transactions that defy easy categorization. **Alset Capital Inc. (GPUSD)** exemplifies this category. The company exists as a diversified holding enterprise with operations and investments spanning real estate development, specialty chemicals manufacturing, and emerging-technology ventures. Understanding its value requires piecing together disparate business units and assessing management's capital allocation track record—a task rendered difficult by the company's complex history and the opacity often surrounding holding company structures.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>GPUSD</td></tr>
@@ -42,7 +42,7 @@ For investors, this segment presents both opportunity (if Alset has identified v
 
 The holding company's value ultimately depends on management's capital allocation decisions: which assets to buy, which to develop, which to sell, and how to redeploy proceeds. A skilled manager might assemble and rationalize a portfolio into something greater than the sum of its parts; a poor allocator might destroy value through overpayment, failed development, or cross-subsidization of weak assets with proceeds from strong ones.
 
-Assessing Alset's track record requires examining acquisition prices paid, development timelines and costs, divestiture values, and whether consolidated profitability justifies the parent structure's overhead. Published financial information is necessary but often insufficient to answer these questions with confidence.
+Assessing Alset's track record requires examining [acquisition](/acquisition/) prices paid, development timelines and costs, [divestiture](/divestiture/) values, and whether consolidated profitability justifies the parent structure's overhead. Published financial information is necessary but often insufficient to answer these questions with confidence.
 
 ## Governance and Transparency Challenges
 
@@ -52,7 +52,7 @@ The company's origins through SPAC or other restructuring transaction may mean t
 
 ## The Valuation Problem
 
-For a diversified holding company, valuation typically requires separate analysis of each asset class and then aggregation (adjusted for parent-level expenses and leverage). A real-estate asset might be valued on a sum-of-the-parts basis; chemicals operations on earnings multiples appropriate to that industry; technology investments on discounted cash flow or comparable transaction multiples. The difficulty lies in obtaining accurate data on each component.
+For a diversified holding company, valuation typically requires separate analysis of each asset class and then aggregation (adjusted for parent-level expenses and leverage). A real-estate asset might be valued on a sum-of-the-parts basis; chemicals operations on [earnings multiples](/earnings-multiple/) appropriate to that industry; technology investments on discounted cash flow or comparable transaction multiples. The difficulty lies in obtaining accurate data on each component.
 
 Market participants may simply apply a holding company discount—say, 20-30% off the sum-of-the-parts value—to reflect illiquidity, opacity, and the possibility of value-destructive capital allocation. Alset's trading multiples likely reflect such a discount relative to what equivalent asset portfolios might fetch if owned separately.
 

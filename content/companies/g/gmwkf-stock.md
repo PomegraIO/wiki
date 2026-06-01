@@ -4,7 +4,7 @@ description: "UK tabletop games and miniatures company with secular growth in ho
 keywords: ["GMWKF", "Games Workshop", "tabletop gaming", "miniatures", "Warhammer", "hobby retail", "entertainment", "consumer discretionary"]
 ---
 
-*[**GAMES WORKSHOP GROUP PLC**](/gmwkf-stock/) (GMWKF in the US OTC market via American Depositary Receipts) operates in tabletop gaming and miniatures, a business anchored in a loyal, growing hobby community but exposed to consumer discretionary spending cycles and the lumpy demand patterns of gaming product releases.*
+*[**GAMES WORKSHOP GROUP PLC**](/gmwkf-stock/) (GMWKF in the US OTC market via [American Depositary Receipts](/adr/)) operates in tabletop gaming and miniatures, a business anchored in a loyal, growing hobby community but exposed to consumer [discretionary spending](/discretionary-spending/) cycles and the lumpy demand patterns of gaming product releases.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GMWKF (US OTC)</td></tr>
@@ -28,7 +28,7 @@ The company's store expansion and like-for-like sales growth over the past decad
 
 ## The Cyclical Exposure: Discretionary Spending
 
-Against this secular backdrop sits cyclicality. Tabletop gaming is discretionary entertainment, vulnerable to consumer spending pullbacks during recessions. Young adult gamers with modest incomes are early casualties of job losses or reduced hours. Hobbyists facing economic uncertainty postpone army expansions, paint purchases, and tournament travel. Retailers reduce store counts or cut hours during downturns.
+Against this secular backdrop sits cyclicality. Tabletop gaming is discretionary entertainment, vulnerable to consumer spending pullbacks during [recessions](/recession/). Young adult gamers with modest incomes are early casualties of job losses or reduced hours. Hobbyists facing economic uncertainty postpone army expansions, paint purchases, and tournament travel. Retailers reduce store counts or cut hours during downturns.
 
 Games Workshop's inventory cycles also introduce volatility. Product launches—new editions of Warhammer, new armies, new starter sets—generate spikes in demand and revenue. The company must forecast demand accurately to stock retail shelves and meet online orders. Overestimation leads to inventory markdowns; underestimation leads to lost sales and frustrated customers. These cycles are somewhat predictable (new editions follow a regular schedule) but demand is inherently uncertain, especially for newly launched products or armies.
 

@@ -4,7 +4,7 @@ description: "A blank-check company seeking a merger target, operating in the SP
 keywords: [SPAC, blank-check, acquisition, merger, private-equity, capital-markets]
 ---
 
-*As a special-purpose acquisition company, **M3-Brigade Acquisition VI Corp. (MBVI)** does not compete in traditional industry marketplaces. Instead, it competes within the SPAC ecosystem—a closed arena where competitive advantage is defined by sponsor relationships, deal-origination access, and the track record and capital base of the sponsoring group.*
+*As a [special-purpose acquisition company](/special-purpose-acquisition-company/), **M3-Brigade [Acquisition](/acquisition/) VI Corp. (MBVI)** does not compete in traditional industry marketplaces. Instead, it competes within the SPAC ecosystem—a closed arena where competitive advantage is defined by sponsor relationships, deal-origination access, and the track record and capital base of the sponsoring group.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MBVI</td></tr>
@@ -23,7 +23,7 @@ However, within the SPAC ecosystem, competition is real and multidimensional. Sp
 
 - Raise capital at attractive terms (low fees, simple structure, favorable sponsor shares).
 - Identify and secure exclusive access to high-quality acquisition targets (private companies with strong growth, profitability, or strategic narrative).
-- Complete mergers at valuations that generate acceptable returns for public shareholders and private-equity investors.
+- Complete [mergers](/merger/) at valuations that generate acceptable returns for public shareholders and private-equity investors.
 - Build a track record that attracts capital to subsequent vehicles.
 
 MBVI competes in this arena by virtue of M3-Brigade's reputation, relationships, and capital.
@@ -51,7 +51,7 @@ Larger SPACs (those that raised $500 million or more) can compete for larger tar
 
 MBVI operates under inherent structural disadvantages relative to traditional operating companies. The company has no business operations, no revenue, and no cash flows (apart from the capital raised). It must find an acquisition target and complete a merger within a specified timeline (typically 24 months from inception), or return capital to shareholders and dissolve. This creates time pressure that targets can exploit in negotiations.
 
-Additionally, SPAC shareholders face certain protections and redemption rights. Public shareholders dissatisfied with proposed merger terms can redeem their shares for cash, draining capital from the merged entity. This incentivizes sponsors to structure mergers conservatively to minimize redemptions. A competitor seeking the same acquisition target—whether another SPAC, a traditional private-equity fund, or a strategic buyer—may be willing to offer less attractive terms to public shareholders, which reduces MBVI's competitive advantage.
+Additionally, SPAC shareholders face certain protections and [redemption rights](/redemption-rights-equity/). Public shareholders dissatisfied with proposed merger terms can redeem their shares for cash, draining capital from the merged entity. This incentivizes sponsors to structure mergers conservatively to minimize redemptions. A competitor seeking the same acquisition target—whether another SPAC, a traditional private-equity fund, or a strategic buyer—may be willing to offer less attractive terms to public shareholders, which reduces MBVI's competitive advantage.
 
 ## Deal Exclusivity and Competition for Targets
 
@@ -61,7 +61,7 @@ If two SPACs approach the same target company, the target will typically grant e
 
 ## The Redemption Risk Constraint
 
-A significant competitive dimension in SPAC mergers is redemption risk. Retail shareholders acquired MBVI shares in the IPO at $10 per share (the standard SPAC structure). If proposed merger terms are viewed as unattractive relative to that $10 baseline, shareholders redeem, forcing MBVI to merge with less capital than intended. This weakens the merged company's balance sheet and reduces the credibility of MBVI's competitive bid for targets.
+A significant competitive dimension in SPAC mergers is redemption risk. Retail shareholders acquired MBVI shares in the IPO at $10 per share (the standard SPAC structure). If proposed merger terms are viewed as unattractive relative to that $10 baseline, shareholders redeem, forcing MBVI to merge with less capital than intended. This weakens the merged company's [balance sheet](/balance-sheet/) and reduces the credibility of MBVI's competitive bid for targets.
 
 Competitors without redemption risk—traditional private-equity funds or strategic buyers—can offer higher valuations and cleaner transaction structures, potentially winning targets that MBVI would otherwise secure. MBVI's competitive position therefore depends on managing redemption risk through careful communication and target selection that appeals to public shareholders.
 

@@ -46,7 +46,7 @@ Conversely, this geographic dependency means Robot Consulting is tied to Japan's
 
 ## Client Concentration and Regional Risk
 
-The company likely derives a significant share of revenue from a small number of major clients within a concentrated geographic area. This concentration creates two risks: (1) loss of a major client directly impacts revenue, and (2) regional economic downturns affect multiple clients simultaneously. A recession in the Kansai region would depress automation spending across the company's customer base at once, with limited geographic diversification to offset the decline.
+The company likely derives a significant share of revenue from a small number of major clients within a concentrated geographic area. This concentration creates two risks: (1) loss of a major client directly impacts revenue, and (2) regional economic downturns affect multiple clients simultaneously. A [recession](/recession/) in the Kansai region would depress automation spending across the company's customer base at once, with limited geographic [diversification](/diversification/) to offset the decline.
 
 ## International Opportunity and Organizational Limits
 

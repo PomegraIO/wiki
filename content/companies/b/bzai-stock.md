@@ -25,13 +25,13 @@ Blaize is at the inflection where it has working silicon but must prove that cus
 
 ## Edge AI and Inference Specialization
 
-The company's specific niche is edge artificial intelligence—chips that perform AI inference (not training) at the device level, rather than sending raw data to cloud servers. This niche is narrower than NVIDIA's or AMD's broad data-center plays, but it is more defensible than commodity inference accelerators. Edge inference matters in autonomous vehicles, robotics, industrial vision, and consumer devices where latency and privacy demand local computation.
+The company's specific niche is edge artificial intelligence—chips that perform AI inference (not training) at the device level, rather than sending raw data to cloud servers. This niche is narrower than [NVIDIA](/nvda-stock/)'s or AMD's broad data-center plays, but it is more defensible than commodity inference accelerators. Edge inference matters in autonomous vehicles, robotics, industrial vision, and consumer devices where latency and privacy demand local computation.
 
 Blaize's chips are optimized for this workload: they run trained neural networks efficiently without requiring a cloud uplink. The technical challenge is not inventing deep learning, but designing a processor that balances power consumption, throughput, and cost for the specific constraints of edge devices. Get this wrong and the company's silicon is a footnote; get it right and there is a beachhead to defend.
 
 ## The Design Win Grind
 
-Semiconductor companies at Blaize's lifecycle stage live or die by design wins—commitments from customers (Apple, Tesla, Google, and their suppliers) to integrate the chip into a product going to volume. A design win is not a purchase order; it is a multi-year bet. The customer integrates the chip into their reference design, qualifies it, and then sources it as a component across the lifetime of that product line.
+Semiconductor companies at Blaize's lifecycle stage live or die by design wins—commitments from customers ([Apple](/aapl-stock/), [Tesla](/tsla-stock/), Google, and their suppliers) to integrate the chip into a product going to volume. A design win is not a purchase order; it is a multi-year bet. The customer integrates the chip into their reference design, qualifies it, and then sources it as a component across the lifetime of that product line.
 
 This process takes years. A customer evaluates the chip, requests custom features or modifications, runs it through thermal and reliability testing, and negotiates pricing. Only after that long courtship does volume production begin. For Blaize, having even one major design win is a milestone that reshapes valuation; having none, or a design win that does not materialize into volume, is an existential risk.
 

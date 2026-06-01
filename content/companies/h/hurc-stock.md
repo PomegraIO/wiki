@@ -16,7 +16,7 @@ keywords: [machinery, manufacturing, CNC, automation, capital-equipment, industr
 
 ## Cyclical Capital Equipment in a Secular Sector Shift
 
-HURCO manufactures machine tools—large, expensive pieces of equipment that machining shops and manufacturers buy to cut and shape metal and composite parts. These are not consumables but capital goods: a machine-shop owner or an automotive supplier weighs the purchase against replacement budgets, interest rates, and near-term demand forecasts. When the manufacturing economy slows, such capital projects are among the first items cut. When it accelerates, deferred replacement cycles and growth investments flood in simultaneously.
+HURCO manufactures machine tools—large, expensive pieces of equipment that machining shops and manufacturers buy to cut and shape metal and composite parts. These are not consumables but capital goods: a machine-shop owner or an automotive supplier weighs the purchase against replacement budgets, [interest rates](/interest-rate/), and near-term demand forecasts. When the manufacturing economy slows, such capital projects are among the first items cut. When it accelerates, deferred replacement cycles and growth investments flood in simultaneously.
 
 This makes HURC a quintessentially cyclical business. Its [revenue](/stock/) and [earnings](/earnings-per-share/) exhibit pronounced swings around industrial production indices. In strong years, when automobile and aerospace manufacturers are adding capacity and tier-one suppliers are racing to meet demand, HURC's order book fills. In weak years, when OEMs (original equipment manufacturers) trim capital plans, the company's top line can fall thirty or forty percent, and [operating margins](/operating-margin/) compress or turn negative.
 

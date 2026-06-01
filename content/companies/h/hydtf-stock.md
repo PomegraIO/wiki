@@ -45,7 +45,7 @@ The hydrogen market is not yet mature; demand is growing but dominated by legacy
 
 ## Transportation and Infrastructure Constraints
 
-Hydreight's business model is fundamentally constrained by transportation infrastructure. Hydrogen cannot be stored or shipped as efficiently as natural gas or liquid fuels. Hydreight either builds dedicated pipelines to customers (capital-intensive and place-specific), produces hydrogen near customers (forfeiting its cheap-hydro advantage), or invests in hydrogen liquefaction and shipping (expensive and energy-intensive, reducing overall economics). Each strategy trades off cost, scalability, and geography.
+Hydreight's business model is fundamentally constrained by transportation infrastructure. Hydrogen cannot be stored or shipped as efficiently as [natural gas](/natural-gas/) or liquid fuels. Hydreight either builds dedicated pipelines to customers (capital-intensive and place-specific), produces hydrogen near customers (forfeiting its cheap-hydro advantage), or invests in hydrogen liquefaction and shipping (expensive and energy-intensive, reducing overall economics). Each strategy trades off cost, scalability, and geography.
 
 A hydrogen pipeline from a Canadian production facility to a U.S. refinery is a geographically fixed investment that creates operational lock-in: Hydreight and the customer are mutually dependent on that pipeline's continued operation. The capital required to build it is shared sunk cost. This can be positive (stickiness) or negative (if the customer faces demand destruction, the pipeline becomes a liability for both parties).
 

@@ -17,7 +17,7 @@ keywords: ["government contractor", "program administration", "government servic
 
 ## The Government Outsourcing Imperative
 
-U.S. federal, state, and local governments spend trillions annually on benefits, healthcare, and services. Much of that spending is entitlement-based (Medicaid, Social Security, unemployment insurance) and grows with demographic and economic conditions, not government choice. Administering those programs—processing claims, determining eligibility, managing compliance, collecting data—is labor-intensive and requires specialized expertise.
+U.S. federal, state, and local governments spend trillions annually on benefits, healthcare, and services. Much of that spending is entitlement-based (Medicaid, [Social Security](/social-security-personal/), unemployment insurance) and grows with demographic and economic conditions, not government choice. Administering those programs—processing claims, determining eligibility, managing compliance, collecting data—is labor-intensive and requires specialized expertise.
 
 States and the federal government have a strategic choice: build and maintain in-house capacity or contract the work to specialist firms. Outsourcing trades initial capital (building in-house teams) for operational expense (paying contractors), and transfers headcount risk and execution risk to private firms. Over the past two decades, government has increasingly outsourced program administration, creating a stable market for contractors that can absorb volume, scale flexibly, and navigate regulatory compliance.
 
@@ -41,11 +41,11 @@ MAXIMUS operates across:
 
 **Federal programs**: Medicaid, Medicare appeals, federal employees' health insurance, Social Security, and other federal administrations. Federal contracts are large and stable but face political scrutiny and budget constraints.
 
-**State programs**: Each state administers Medicaid, welfare, unemployment insurance, and other benefits. MAXIMUS contracts with multiple states to administer portions of their programs. State budgets are more volatile than federal budgets and sensitive to economic cycles (unemployment spikes in recessions, Medicaid enrollment rises).
+**State programs**: Each state administers Medicaid, welfare, unemployment insurance, and other benefits. MAXIMUS contracts with multiple states to administer portions of their programs. State budgets are more volatile than federal budgets and sensitive to economic cycles (unemployment spikes in [recessions](/recession/), Medicaid enrollment rises).
 
 **International**: The firm has expanded into Australia and elsewhere, providing similar services to foreign governments.
 
-Diversification across programs and jurisdictions reduces concentration risk. A single program change (e.g., Medicaid eligibility rules shift) affects multiple states and could shift volume; MAXIMUS is not entirely insulated, but spread across many programs and states.
+[Diversification](/diversification/) across programs and jurisdictions reduces [concentration risk](/concentration-risk/). A single program change (e.g., Medicaid eligibility rules shift) affects multiple states and could shift volume; MAXIMUS is not entirely insulated, but spread across many programs and states.
 
 ## Operational Execution and Margin Risk
 
@@ -59,7 +59,7 @@ Operational excellence and cost control are the primary levers for profitability
 
 MAXIMUS's growth is bounded by the total available government budget for outsourced program administration. That budget grows modestly over time (with spending growth) but is not elastic. The firm can grow by winning market share from competitors or expanding into new programs, but it cannot grow faster than the underlying government spending it services.
 
-The government contracting sector is consolidated around a handful of large players (MAXIMUS, Accenture, Deloitte, Booz Allen, and others). Competition for contracts is intense; bidding is driven by lowest cost and proven execution. Smaller contractors struggle to compete on cost and capability.
+The government contracting sector is consolidated around a handful of large players (MAXIMUS, [Accenture](/acn-stock/), Deloitte, Booz Allen, and others). Competition for contracts is intense; bidding is driven by lowest cost and proven execution. Smaller contractors struggle to compete on cost and capability.
 
 MAXIMUS has achieved scale and reputation, which allows it to win contracts and defend market position. However, it faces continuous pressure to reduce cost (governments are budget-constrained) and demonstrate execution quality (compliance failures damage reputation).
 
@@ -82,7 +82,7 @@ The 10-K details contract wins, contract losses, contract values, and program re
 
 ### Wider context
 
-- [mmi-stock](/mmi-stock/) — commercial real estate brokerage; decentralized, transaction-driven model
+- [mmi-stock](/mmi-stock/) — [commercial real estate](/commercial-real-estate/) brokerage; decentralized, transaction-driven model
 - [mmlp-stock](/mmlp-stock/) — midstream energy; capital-intensive, fee-based model
 - [mmsi-stock](/mmsi-stock/) — medical devices; technology-driven, manufacturing-based model
 

@@ -29,15 +29,15 @@ Burford raises capital from institutional investors by sponsoring private funds�
 
 In the U.S., Burford must register as an investment adviser with the SEC if it manages assets above certain thresholds and advises U.S. clients. Alternatively, if Burford's funds are exclusively for non-U.S. investors, it may operate under a more limited regulatory regime. However, Burford also manages funds offered to U.S. pension plans and other investors, which triggers SEC oversight. As an investment adviser, Burford must disclose its fees, investment strategies, conflicts of interest, and performance data. It must maintain detailed books and records, implement compliance programs, and submit to SEC examinations.
 
-The fees Burford charges—both management fees (a percentage of capital under management) and performance fees (a carry on investment returns)—are subject to reasonableness and disclosure requirements. If the SEC or an investor believes fees are excessive or that disclosures are misleading, Burford faces regulatory risk and potential litigation from investors.
+The fees Burford charges—both [management fees](/management-fee/) (a percentage of capital under management) and [performance fees](/performance-fee/) (a carry on investment returns)—are subject to reasonableness and disclosure requirements. If the SEC or an investor believes fees are excessive or that disclosures are misleading, Burford faces regulatory risk and potential litigation from investors.
 
 ## Valuation and Accounting Oversight
 
-A critical regulatory issue for Burford is how litigation assets are valued and reported. Unlike traditional investments in stocks or bonds, litigation cases have no market price. Burford must estimate the value of its litigation portfolio—projecting case outcomes, timing of resolution, and probabilities of recovery. These valuations are highly subjective and depend heavily on Burford's internal judgment.
+A critical regulatory issue for Burford is how litigation assets are valued and reported. Unlike traditional investments in stocks or [bonds](/bond/), litigation cases have no market price. Burford must estimate the value of its litigation portfolio—projecting case outcomes, timing of resolution, and probabilities of recovery. These valuations are highly subjective and depend heavily on Burford's internal judgment.
 
 For public companies, auditors and securities regulators scrutinize how investment valuations are justified. Burford must maintain detailed case files, work with valuation specialists, and document the basis for each case valuation. Overvaluing assets—whether through aggressive probability assumptions or optimistic timeline projections—can mislead investors. The company has faced regulatory and reputational scrutiny over its valuation practices, particularly regarding the transparency of how cases are valued internally versus reported publicly.
 
-U.S. accounting standards (GAAP) and International Financial Reporting Standards (IFRS) both require detailed disclosure of fair value methodologies. Burford, as a public company reporting under IFRS, must comply with these standards. Any significant revaluation of its case portfolio—downward revaluations if cases settle for less than expected, or upward if new evidence emerges—must be recorded and disclosed with explanation. Auditors and regulators pay close attention to these movements because they directly affect reported earnings and shareholder value.
+U.S. accounting standards (GAAP) and [International Financial Reporting Standards](/international-financial-reporting-standards/) (IFRS) both require detailed disclosure of [fair value](/fair-value/) methodologies. Burford, as a public company reporting under IFRS, must comply with these standards. Any significant revaluation of its case portfolio—downward revaluations if cases settle for less than expected, or upward if new evidence emerges—must be recorded and disclosed with explanation. Auditors and regulators pay close attention to these movements because they directly affect reported earnings and shareholder value.
 
 ## Ethical and Professional Conduct Rules
 
@@ -55,7 +55,7 @@ Additionally, Burford must maintain insurance to cover certain risks. D&O (direc
 
 Burford operates globally, funding litigation in multiple jurisdictions and managing funds offered to investors across Europe, Asia, and the United States. This creates complex compliance obligations. The company must comply with U.S. [securities](/common-stock/) laws if it raises capital from U.S. investors, with European regulations if it operates in EU jurisdictions, and with local regulations in each country where it conducts operations.
 
-Currency regulations, anti-money laundering requirements, sanctions compliance, and tax withholding rules all apply. If Burford funds a case in a country under international sanctions, or if a case involves a sanctioned party, the funding could violate OFAC rules. These cross-border regulatory requirements add significant compliance cost and limit where Burford can deploy capital.
+Currency regulations, [anti-money laundering](/anti-money-laundering/) requirements, sanctions compliance, and tax withholding rules all apply. If Burford funds a case in a country under international sanctions, or if a case involves a sanctioned party, the funding could violate OFAC rules. These cross-border regulatory requirements add significant compliance cost and limit where Burford can deploy capital.
 
 ## Reputational and Regulatory Risk
 

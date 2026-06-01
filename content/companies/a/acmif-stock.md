@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**Allied Critical Metals Corp. is a junior mining and mineral exploration company focused on developing deposits of rare earth elements and other critical metals necessary for modern technology and energy transition applications.** The company operates in a sector increasingly important to governments and industries seeking to diversify supply chains for minerals that are fundamental to electric vehicles, renewable energy systems, electronics, and defense applications.
+**Allied [Critical Metals](/crml-stock/) Corp. is a junior mining and mineral exploration company focused on developing deposits of rare earth elements and other critical metals necessary for modern technology and energy transition applications.** The company operates in a sector increasingly important to governments and industries seeking to diversify supply chains for minerals that are fundamental to electric vehicles, renewable energy systems, electronics, and defense applications.
 
 The company's mandate centers on identifying and advancing exploration projects containing rare earth elements, lithium, nickel, cobalt, and other minerals classified as critical due to their limited geographic distribution and concentrated production. These materials have become strategic assets in the global push toward decarbonization and technological advancement. Junior miners in this space typically work on early-to-mid stage exploration projects, conducting geological surveys, core sampling, and feasibility studies to determine whether a deposit warrants development into a producing mine.
 

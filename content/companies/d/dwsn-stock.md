@@ -4,7 +4,7 @@ description: "Seismic-data acquisition company providing onshore geophysical ser
 keywords: [geophysics, seismic surveys, oil and gas exploration, contract services, energy]
 ---
 
-*[DAWSON GEOPHYSICAL CO](/dwsn-stock/) (DWSN) emerged from a fundamental observation about how oil and gas companies find and develop hydrocarbon reserves: they must first "see" beneath the earth's surface using seismic imaging—sound waves bounced through rock layers, recorded, and processed into maps. Dawson was founded to provide this imaging service, offering onshore seismic-data acquisition to exploration and production (E&P) companies that needed reliable, efficient surveys without managing the complex logistics of crews, equipment, and permits. The company's founding promise was specialization and operational excellence in a capital-intensive, technically demanding niche.*
+*[DAWSON GEOPHYSICAL CO](/dwsn-stock/) (DWSN) emerged from a fundamental observation about how oil and gas companies find and develop hydrocarbon reserves: they must first "see" beneath the earth's surface using seismic imaging—sound waves bounced through rock layers, recorded, and processed into maps. Dawson was founded to provide this imaging service, offering onshore seismic-data [acquisition](/acquisition/) to exploration and production (E&P) companies that needed reliable, efficient surveys without managing the complex logistics of crews, equipment, and permits. The company's founding promise was specialization and operational excellence in a capital-intensive, technically demanding niche.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DWSN</td></tr>
@@ -43,7 +43,7 @@ The [balance sheet](/balance-sheet/) of a seismic-services company typically sho
 
 Dawson's business model is threatened by several secular trends. First, the rise of 4D seismic (time-lapsed imaging to monitor producing fields) and permanent-monitor systems have reduced demand for fresh surveys in mature basins. Second, improved subsurface imaging techniques (microseismic monitoring, passive seismic, gravity and magnetic surveys) offer alternatives to traditional seismic. Third, and most significantly, the global transition toward renewable energy and the presumed decline of fossil-fuel investment have suppressed long-term oil and gas exploration budgets. Major oil companies are cutting exploration budgets and focusing capital on development of known reserves, not discovery of new ones.
 
-These headwinds compress the addressable market for seismic-acquisition services. Fewer E&P companies are starting new exploration programs; those that do may employ in-house crews or partner with larger integrated services companies (like Schlumberger or Halliburton) that bundle seismic, interpretation, and well-site services. Smaller independent contractors like Dawson face margin pressure and lower volumes.
+These headwinds compress the addressable market for seismic-acquisition services. Fewer E&P companies are starting new exploration programs; those that do may employ in-house crews or partner with larger integrated services companies (like Schlumberger or [Halliburton](/hal-stock/)) that bundle seismic, interpretation, and well-site services. Smaller independent contractors like Dawson face margin pressure and lower volumes.
 
 ## Competitive Dynamics and Scale
 
@@ -55,7 +55,7 @@ Dawson's differentiation has historically rested on operational excellence, crew
 
 To evaluate Dawson Geophysical, examine the [10-K](/10-k/) (CIK 799165) for: (1) revenue by product/service line and by geographic region; (2) equipment and crew utilization rates (disclosed as a percentage of available capacity); (3) backlog or current contract commitments (an indicator of near-term demand); (4) [fixed assets](/balance-sheet/) and [depreciation](/stock/) (understanding equipment base and replacement cycles); and (5) profitability trends in relation to oil prices.
 
-Track oil and natural gas prices (WTI crude, Henry Hub natural gas) and monitor major oil companies' exploration budgets and announcements. These are the leading indicators of demand for Dawson's services. Additionally, review industry reports from energy research firms and oilfield-services analysts to contextualize Dawson's market position and competitive outlook.
+Track oil and [natural gas](/natural-gas/) prices ([WTI crude](/wti-crude/), [Henry Hub](/henry-hub/) natural gas) and monitor major oil companies' exploration budgets and announcements. These are the leading indicators of demand for Dawson's services. Additionally, review industry reports from energy research firms and oilfield-services analysts to contextualize Dawson's market position and competitive outlook.
 
 ## The Founding Model Under Pressure
 

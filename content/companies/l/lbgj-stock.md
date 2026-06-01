@@ -18,7 +18,7 @@ keywords: [china, international-business, trading-on-us-exchange, geopolitical-r
 
 Li Bang International's core business geography—mainland China—creates a structural wedge between the company's operations and its U.S.-traded [stock](/stock/). China's legal system, property rights framework, and corporate governance are materially different from those governing U.S. companies. Mainland Chinese businesses operate under Communist Party oversight, state ownership stakes in nominally private firms, and rules that can be rewritten at government discretion. For a foreign investor in a U.S.-listed Chinese company, this geographic distance creates layers of risk that do not exist for investments in domestically-based peers.
 
-The most fundamental geographic risk is that the Chinese government can, at any time, restrict capital flows out of China, impose operating constraints on the business, or even seize assets for state purposes. These are not theoretical risks; they are embedded in the political economy of mainland China. A company operating in the Guangdong province is subject to provincial and central government policy changes that are opaque to foreign shareholders and difficult to anticipate.
+The most fundamental geographic risk is that the Chinese government can, at any time, restrict [capital flows](/capital-flows/) out of China, impose operating constraints on the business, or even seize assets for state purposes. These are not theoretical risks; they are embedded in the political economy of mainland China. A company operating in the Guangdong province is subject to provincial and central government policy changes that are opaque to foreign shareholders and difficult to anticipate.
 
 ## The China-U.S. Relationship as a Business Factor
 
@@ -28,7 +28,7 @@ Conversely, Chinese government action against Western companies or capital can r
 
 ## Transparency and Disclosure Geography
 
-China's corporate disclosure standards differ markedly from U.S. SEC requirements. Even a U.S.-listed Chinese company may lack the depth of transparency, audit rigor, and shareholder protections that U.S. domestic companies provide. Accounting practices acceptable in China may not meet U.S. GAAP standards. Li Bang's public filings and annual reports must be examined with awareness that the company operates in a jurisdiction where financial opacity is more common and where the government can restrict disclosure to national-security grounds.
+China's corporate disclosure standards differ markedly from U.S. SEC requirements. Even a U.S.-listed Chinese company may lack the depth of transparency, audit rigor, and shareholder protections that U.S. domestic companies provide. Accounting practices acceptable in China may not meet U.S. GAAP standards. Li Bang's public filings and [annual reports](/10-k/) must be examined with awareness that the company operates in a jurisdiction where financial opacity is more common and where the government can restrict disclosure to national-security grounds.
 
 This transparency gap is a geographic reality, not a flaw. A company in Beijing faces regulatory pressures to disclose (or conceal) information that a Massachusetts company does not. Shareholders in Li Bang must account for this structural difference when assessing financial risk.
 
@@ -48,7 +48,7 @@ Without clear disclosure of Li Bang's exact business, it is difficult to assess 
 
 China restricts how much money can be moved out of the country in any year. These capital controls are geographic and affect how much profit a Chinese subsidiary can repatriate to U.S. parent companies or how much capital a U.S. investor can pull back from a Chinese business. Li Bang, if it generates earnings in mainland China, may face restrictions on converting those earnings to U.S. dollars and sending them to shareholders.
 
-This geographic constraint means that a profitable business in China can still represent a poor investment for U.S. shareholders if those profits cannot be accessed. Currency risk and capital-control risk are thus significant for any U.S.-listed China-based company.
+This geographic constraint means that a profitable business in China can still represent a poor investment for U.S. shareholders if those profits cannot be accessed. [Currency risk](/currency-risk/) and capital-control risk are thus significant for any U.S.-listed China-based company.
 
 ## Accounting Fraud and Audit Risk
 

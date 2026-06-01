@@ -31,7 +31,7 @@ This cycle has been violent in recent years. The oil price collapse of 2014–20
 
 **2. Long-term commodity-price trends.** Oil prices are governed by global supply-demand balance, geopolitical risk, and investor sentiment. A structural shift in price—such as a persistent move from $50 to $120 per barrel or vice versa—can last years or decades and reshape the economics of offshore development.
 
-At current price levels, some offshore fields are profitable; others are not. A sustained move to $70–80 per barrel supports development and workload for Helix. A drop to $40 per barrel makes many projects uneconomic, and Helix's vessels sit idle. This is not a typical business cycle; it is a commodity-price regime shift.
+At current price levels, some offshore fields are profitable; others are not. A sustained move to $70–80 per barrel supports development and workload for Helix. A drop to $40 per barrel makes many projects uneconomic, and Helix's vessels sit idle. This is not a typical [business cycle](/business-cycle/); it is a commodity-price regime shift.
 
 ## Structural Headwinds: Energy Transition and Regulatory Pressure
 
@@ -43,13 +43,13 @@ This is not a near-term cliff; offshore oil will supply meaningful energy for de
 
 Unlike a business that can adjust costs flexibly to match demand, Helix owns vessels and equipment with high fixed costs. A ship costs tens of millions of dollars and must be staffed and maintained whether it is earning revenue or sitting idle. In a downturn, Helix cannot shrink costs proportionally to its revenue decline. If utilization drops 50%, revenue drops 50%, but fixed costs drop only 20–30%. Margins compress or swing negative.
 
-Debt amplifies this stress. If Helix financed vessels with debt, a sharp downturn that reduces EBITDA by 50% can create covenant concerns and force asset sales at distressed prices.
+Debt amplifies this stress. If Helix financed vessels with debt, a sharp downturn that reduces [EBITDA](/ebitda/) by 50% can create covenant concerns and force asset sales at distressed prices.
 
 Helix's customer base also lacks stickiness. Each project or contract is typically tendered competitively. An operator facing cost pressure will award work to the lowest bidder. Helix has no long-term contract guarantee; it lives project-to-project. This means the company must be ultra-competitive in boom times to win backlog, but it also means that backlog can evaporate quickly if customers' economics deteriorate.
 
 ## Capital Discipline and Survival
 
-Helix's strategic management through cycles is critical. Companies that over-invested in vessels during booms (building fleet capacity when prices were high and utilization seemed guaranteed) faced destruction in downturns. By contrast, operators that maintained conservative capex, preserved strong balance sheets, and exited downturns with premium assets and pricing power emerged ahead.
+Helix's strategic management through cycles is critical. Companies that over-invested in vessels during booms (building fleet capacity when prices were high and utilization seemed guaranteed) faced destruction in downturns. By contrast, operators that maintained conservative capex, preserved strong [balance sheets](/balance-sheet/), and exited downturns with premium assets and pricing power emerged ahead.
 
 The 2014–2016 downturn was a test case. Operators that had leveraged themselves to build fleet in 2010–2014 faced existential stress. Those with fortress balance sheets and willingness to endure lower utilization while preserving asset quality benefited from later consolidation.
 

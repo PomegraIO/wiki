@@ -16,7 +16,7 @@ keywords: ["payments", "healthcare", "education", "fintech", "international-tran
 
 ## Concentration in Healthcare and Education
 
-Flywire's business is concentrated in two verticals: healthcare (hospitals, health systems, imaging centers, clinical labs) and education (universities, secondary schools, vocational programs). These are both stable, recurring sectors with regulated funding models, which provides a degree of predictability. However, that concentration is also a constraint. If healthcare reimbursement models shift—for instance, a major shift to value-based care instead of fee-for-service—hospital revenues and capital spending change, which ripples to payments volume. Similarly, if education funding pressures intensify (state budget cuts, enrollment declines, shift to online education), schools may reduce spending on payment infrastructure or integrate payment collection in-house. Flywire's 10-K will disclose customer concentration (likely listing the top 5–10 customers and their contribution to revenue); any single customer representing 10%+ of revenue is a concentration risk.
+Flywire's business is concentrated in two verticals: healthcare (hospitals, health systems, imaging centers, clinical labs) and education (universities, secondary schools, vocational programs). These are both stable, recurring sectors with regulated funding models, which provides a degree of predictability. However, that concentration is also a constraint. If healthcare reimbursement models shift—for instance, a major shift to value-based care instead of fee-for-service—hospital revenues and capital spending change, which ripples to payments volume. Similarly, if education funding pressures intensify (state budget cuts, enrollment declines, shift to online education), schools may reduce spending on payment infrastructure or integrate payment collection in-house. Flywire's 10-K will disclose customer concentration (likely listing the top 5–10 customers and their contribution to revenue); any single customer representing 10%+ of revenue is a [concentration risk](/concentration-risk/).
 
 ## Regulatory Risk in Healthcare and Education
 
@@ -24,7 +24,7 @@ Both sectors are heavily regulated and subject to changing rules around data, pr
 
 ## International Payment Dependencies and FX Risk
 
-Flywire's healthcare and education platforms facilitate international payments (e.g., international patients paying US hospitals, international students paying tuition). These cross-border payments depend on foreign exchange markets, international banking relationships, and regulatory approval in both source and destination countries. A sudden tightening of foreign exchange controls in a key source market (India, China, Saudi Arabia, Brazil) could disrupt payment flows. Conversely, currency volatility creates friction; customers may hold payments if they believe exchange rates will move in their favor, creating uncertainty in timing and volume.
+Flywire's healthcare and education platforms facilitate international payments (e.g., international patients paying US hospitals, international students paying tuition). These cross-border payments depend on foreign exchange markets, international banking relationships, and regulatory approval in both source and destination countries. A sudden tightening of foreign exchange controls in a key source market (India, China, Saudi Arabia, Brazil) could disrupt payment flows. Conversely, [currency volatility](/currency-volatility/) creates friction; customers may hold payments if they believe exchange rates will move in their favor, creating uncertainty in timing and volume.
 
 ## Customer Switching Costs and Integration Stickiness
 
@@ -32,7 +32,7 @@ Flywire's value depends partly on integration depth—how embedded the platform 
 
 ## Pricing Pressure and Competitive Encroachment
 
-Payments is a commoditizing business. Transaction fees and processing margins are under perpetual pressure as competitors (Stripe, PayPal, Square, and emerging fintech platforms) vie for volume. Larger competitors with scale advantages can undercut Flywire on price while still earning acceptable returns. For Flywire to maintain margins, the company must either offer differentiated services (industry expertise, specialized features, superior customer success) or accept that price competition will compress margins over time. In healthcare and education, where purchasing decisions are cost-conscious and procurement is formalized, price is often the tiebreaker.
+Payments is a commoditizing business. Transaction fees and processing margins are under perpetual pressure as competitors (Stripe, [PayPal](/pypl-stock/), Square, and emerging fintech platforms) vie for volume. Larger competitors with scale advantages can undercut Flywire on price while still earning acceptable returns. For Flywire to maintain margins, the company must either offer differentiated services (industry expertise, specialized features, superior customer success) or accept that price competition will compress margins over time. In healthcare and education, where purchasing decisions are cost-conscious and procurement is formalized, price is often the tiebreaker.
 
 ## Regulatory Compliance Cost and Operating Leverage
 
@@ -44,7 +44,7 @@ Flywire's business model assumes customers will outsource payment processing and
 
 ## Volume Decline and Economic Sensitivity
 
-Healthcare and education demand are resilient but not immune to economic stress. During recessions, elective healthcare procedures decline, reducing patient volumes and payment activity. During education budget crises, schools may freeze enrollment or shift to lower-cost distance learning, reducing tuition payments and international student flows. Flywire's transaction volumes and fees are sensitive to these shifts.
+Healthcare and education demand are resilient but not immune to economic stress. During [recessions](/recession/), elective healthcare procedures decline, reducing patient volumes and payment activity. During education budget crises, schools may freeze enrollment or shift to lower-cost distance learning, reducing tuition payments and international student flows. Flywire's transaction volumes and fees are sensitive to these shifts.
 
 ## Cross-Border Payment Regulation and Geopolitical Risk
 

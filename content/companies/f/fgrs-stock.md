@@ -4,7 +4,7 @@ description: "Fintech company operating in mortgage origination and blockchain-b
 keywords: ["fintech", "mortgage technology", "blockchain", "financial services", "lending", "home loans"]
 ---
 
-*Figure Technology Solutions (**FGRS**) competes at the intersection of mortgage lending technology and blockchain infrastructure, striving to disrupt traditional mortgage origination and financial servicing in a market where established banks and fintechs vie for processing efficiency, customer acquisition, and regulatory advantage.*
+*[Figure Technology Solutions](/figr-stock/) (**FGRS**) competes at the intersection of mortgage lending technology and blockchain infrastructure, striving to disrupt traditional mortgage origination and financial servicing in a market where established banks and fintechs vie for processing efficiency, customer [acquisition](/acquisition/), and regulatory advantage.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>FGRS</td></tr>
@@ -29,9 +29,9 @@ The competitive vulnerability is real: blockchain is not yet the default settlem
 
 ## Regulatory and Capital Requirements
 
-Mortgage lending is heavily regulated: mortgage originators must navigate federal lending standards, state licensing, and continuous compliance. Capital requirements are steep—a mortgage originator must fund loans in warehouse or portfolio until they are sold or securitized. Figure competes in a capital-intensive business against competitors with deep balance sheets (large banks, established fintech platforms funded by venture or private equity) or access to wholesale funding markets.
+Mortgage lending is heavily regulated: mortgage originators must navigate federal lending standards, state licensing, and continuous compliance. Capital requirements are steep—a mortgage originator must fund loans in warehouse or portfolio until they are sold or securitized. Figure competes in a capital-intensive business against competitors with deep [balance sheets](/balance-sheet/) (large banks, established fintech platforms funded by venture or private equity) or access to wholesale funding markets.
 
-The regulatory barrier is both competitive moat and constraint. Regulatory capital requirements and licensing burden deter new entrants and protect established players, but they also limit Figure's ability to grow faster than its capital access allows. Competitors with greater capital or balance-sheet capacity can originate more loans, serve wider geographies, and weather liquidity crunches during funding-market dislocations. Figure's competitive position depends partly on accessing sufficient capital—through retained earnings, debt, or equity dilution—to fund loan growth without impairing profitability.
+The regulatory barrier is both competitive moat and constraint. Regulatory capital requirements and licensing burden deter new entrants and protect established players, but they also limit Figure's ability to grow faster than its capital access allows. Competitors with greater capital or balance-sheet capacity can originate more loans, serve wider geographies, and weather liquidity crunches during funding-market dislocations. Figure's competitive position depends partly on accessing sufficient capital—through [retained earnings](/retained-earnings/), debt, or equity dilution—to fund loan growth without impairing profitability.
 
 ## Loan Origination Volume and Customer Acquisition
 
@@ -41,7 +41,7 @@ Figure, as a relative newcomer, must spend heavily on marketing and customer acq
 
 ## Secondary Market and Loan Securitization
 
-Mortgage originators are not lenders—they originate loans and immediately or quickly sell them into [secondary mortgage markets](/stock/) via securitization or whole-loan sales. This model requires continuous market access and the confidence of securitization platforms, investors, and warehouse lenders that Figure's loans meet quality standards and will be purchased. Competitors with longer track records and established relationships (Rocket Mortgage, traditional banks) face lower friction in loan sales. Figure must continuously demonstrate loan-quality parity and prove that its origination processes are safe and compliant, or risk higher loan-sale discounts or restricted market access.
+Mortgage originators are not lenders—they originate loans and immediately or quickly sell them into [secondary mortgage markets](/stock/) via [securitization](/securitization/) or whole-loan sales. This model requires continuous market access and the confidence of securitization platforms, investors, and warehouse lenders that Figure's loans meet quality standards and will be purchased. Competitors with longer track records and established relationships (Rocket Mortgage, traditional banks) face lower friction in loan sales. Figure must continuously demonstrate loan-quality parity and prove that its origination processes are safe and compliant, or risk higher loan-sale discounts or restricted market access.
 
 The competitive dynamic intensifies during tight credit markets or when securitization demand softens: only platforms with established relationships or superior pricing can sell their loan volume. Newer platforms may find themselves with inventory on the books at unfavorable financing costs.
 

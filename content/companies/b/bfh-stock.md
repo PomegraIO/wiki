@@ -19,7 +19,7 @@ keywords: [consumer finance, credit card, installment lending, fintech, credit]
 
 The company operates across three main channels. First, point-of-sale lending: when a shopper is checking out at a furniture store, an electronics retailer, or another partner merchant, Bread offers an installment loan right there at the register. The shopper borrows $500, $2,000, or $5,000, and makes monthly payments. Bread earns interest on the loan.
 
-Second, the company offers credit cards with a digital wallet and online lending platform. Consumers apply, are approved (often with higher interest rates than prime credit cards because the borrowers are riskier), and then carry a balance or use the card for purchases. The company earns interest and late-payment fees.
+Second, the company offers credit cards with a digital wallet and online lending platform. Consumers apply, are approved (often with higher [interest rates](/interest-rate/) than prime credit cards because the borrowers are riskier), and then carry a balance or use the card for purchases. The company earns interest and late-payment fees.
 
 Third, some lending is done directly to consumers via online application, without a retail partner. A consumer can go to Bread's website, apply for a loan, get approved in minutes, and receive funds.
 
@@ -31,15 +31,15 @@ Bread lends to people with lower credit scores or less income documentation than
 
 The unit economics work like this: Bread issues a $1,000 installment loan at 25 percent APR with a 24-month term. The customer makes monthly payments of about $50. Over the life of the loan, the customer pays roughly $1,200 in principal plus interest, for a gain of $200 to Bread. If the borrower defaults after 12 payments, the company has earned 12 × $50 = $600 in principal and interest but loses the remaining $600. If 30 percent of borrowers default, Bread must set aside reserves to cover those losses. Add operating costs (underwriting staff, technology, servicing), and Bread needs enough volume and enough successful loans to cover losses and still make a profit.
 
-This is why volume matters. A small lender cannot achieve economies of scale and loses money. A large lender spreads fixed costs over millions of loans and can remain profitable even with default rates of 5 to 8 percent.
+This is why volume matters. A small lender cannot achieve economies of scale and loses money. A large lender spreads fixed costs over millions of loans and can remain profitable even with [default rates](/default-rate/) of 5 to 8 percent.
 
 ## Cyclicality and credit risk
 
-Subprime credit is acutely cyclical. In a strong labor market with rising wages, borrowers have stable income and make their payments. Defaults are low. In a recession, unemployment spikes, wages stagnate, and borrowers stop paying. Default rates surge, reserves are depleted, and earnings collapse.
+Subprime credit is acutely cyclical. In a strong labor market with rising wages, borrowers have stable income and make their payments. Defaults are low. In a [recession](/recession/), unemployment spikes, wages stagnate, and borrowers stop paying. Default rates surge, reserves are depleted, and earnings collapse.
 
 This means Bread's profitability swings with the economic cycle. When times are good, the company is profitable. When unemployment rises, losses mount quickly. Investors in Bread are therefore implicitly making a bet on the economy and job stability.
 
-The company must also manage credit risk actively. It sets underwriting standards—it might refuse to lend to borrowers with more than three recent delinquencies, or it might require higher income verification. These standards affect approval rates (how many applicants are approved) and default rates (how many approvals later default). Tightening standards reduces approvals and growth but lowers losses. Loosening standards grows volume but increases losses. Management must navigate this trade-off.
+The company must also manage [credit risk](/credit-risk/) actively. It sets underwriting standards—it might refuse to lend to borrowers with more than three recent delinquencies, or it might require higher income verification. These standards affect approval rates (how many applicants are approved) and default rates (how many approvals later default). Tightening standards reduces approvals and growth but lowers losses. Loosening standards grows volume but increases losses. Management must navigate this trade-off.
 
 ## Competition and market share
 
@@ -51,7 +51,7 @@ However, this advantage is fragile. New competitors can enter with technology, c
 
 ## Funding and capital structure
 
-Bread does not have customer deposits like a bank. Instead, it funds its loans through debt (borrowing from banks and investors) and equity. When Bread makes a $1 million loan, it must first have $1 million in capital to lend. It may fund that through a warehouse facility (a credit line from a bank), securitization (bundling loans and selling them to investors), or its own [balance sheet](/balance-sheet/).
+Bread does not have customer deposits like a bank. Instead, it funds its loans through debt (borrowing from banks and investors) and equity. When Bread makes a $1 million loan, it must first have $1 million in capital to lend. It may fund that through a warehouse facility (a credit line from a bank), [securitization](/securitization/) (bundling loans and selling them to investors), or its own [balance sheet](/balance-sheet/).
 
 Securitization is common in the consumer-finance industry. Bread bundles hundreds of small loans, places them into a trust, and sells securities (debt) backed by the loan payments. Investors buy the securities and receive the loan payments as interest and principal come in. Bread earns a fee for originating and servicing the loans, and it reduces its funding costs by off-loading the loans from its balance sheet.
 
@@ -59,7 +59,7 @@ The cost of funding (what Bread pays to borrow) is critical. In a low-interest-r
 
 ## Regulatory scrutiny and consumer protection
 
-Consumer lending is regulated. The Consumer Financial Protection Bureau (CFPB) oversees fair lending, disclosure requirements, and unfair or deceptive practices. Bread must ensure that its credit decisions are not discriminatory, that loan terms are clearly disclosed, and that it does not engage in predatory practices.
+Consumer lending is regulated. The [Consumer Financial Protection Bureau](/consumer-financial-protection-bureau/) (CFPB) oversees fair lending, disclosure requirements, and unfair or deceptive practices. Bread must ensure that its credit decisions are not discriminatory, that loan terms are clearly disclosed, and that it does not engage in predatory practices.
 
 For a fintech lender like Bread, regulatory compliance is an operational cost but also a competitive advantage. If Bread maintains excellent compliance, it can operate with fewer regulatory restrictions. If it cuts corners, fines and enforcement actions can be devastating.
 

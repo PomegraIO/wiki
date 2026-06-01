@@ -25,9 +25,9 @@ The capital expenditure (capex) to deploy new stations is high relative to near-
 
 ## Equity Funding and the SPAC Path
 
-ChargePoint went public through a merger with a Special Purpose Acquisition Company (SPAC) in 2021, a path that allows a private company to access public markets faster than a traditional IPO but with less underwriting scrutiny. The SPAC structure provided ChargePoint with an influx of capital and enabled an aggressive expansion of the network.
+ChargePoint went public through a merger with a Special Purpose [Acquisition](/acquisition/) Company (SPAC) in 2021, a path that allows a private company to access public markets faster than a traditional IPO but with less underwriting scrutiny. The SPAC structure provided ChargePoint with an influx of capital and enabled an aggressive expansion of the network.
 
-SPAC mergers are equity-intensive: the blank-check sponsor receives shares, the SPAC shareholders vote for or against the deal, and the merged company typically negotiates redemptions—existing SPAC shareholders redeeming their shares for cash, draining the merged company's balance sheet. ChargePoint's SPAC merger resulted in significant cash proceeds, but the firm has had to raise additional capital since then to fund ongoing expansion.
+SPAC [mergers](/merger/) are equity-intensive: the blank-check sponsor receives shares, the SPAC shareholders vote for or against the deal, and the merged company typically negotiates redemptions—existing SPAC shareholders redeeming their shares for cash, draining the merged company's [balance sheet](/balance-sheet/). ChargePoint's SPAC merger resulted in significant cash proceeds, but the firm has had to raise additional capital since then to fund ongoing expansion.
 
 Each equity raise dilutes existing shareholders' ownership. ChargePoint has issued additional shares multiple times since the merger, funding capex and operations. The dilution is justified only if the capital deployed creates value greater than the cost of the equity. In ChargePoint's case, the bet is that rapid EV adoption will eventually drive high utilization of chargers, transforming the business from a capital-sink to a cash-generative network.
 
@@ -53,7 +53,7 @@ This transition requires building trust with large customers and proving that th
 
 ## Competition and Competitive Positioning
 
-ChargePoint faces competition from other charging networks (EVgo, Electrify America) and from proprietary chargers operated by automakers (Tesla) and petroleum companies (Shell, Chevron). The fragmented market means ChargePoint must maintain significant scale and brand loyalty to justify its network operating costs. The capital structure thus encodes a bet that ChargePoint's software, network breadth, and brand will win market share in a consolidating industry.
+ChargePoint faces competition from other charging networks (EVgo, Electrify America) and from proprietary chargers operated by automakers ([Tesla](/tsla-stock/)) and petroleum companies (Shell, [Chevron](/cvx-stock/)). The fragmented market means ChargePoint must maintain significant scale and brand loyalty to justify its network operating costs. The capital structure thus encodes a bet that ChargePoint's software, network breadth, and brand will win market share in a consolidating industry.
 
 If the EV charging market consolidates and ChargePoint becomes a minor player, the capital invested in the network may never be recovered—a total-loss scenario for equity holders. Conversely, if ChargePoint captures a dominant position, the installed base of chargers becomes a durable competitive moat and a cash-generative asset.
 

@@ -39,7 +39,7 @@ The secular growth of extraction volumes does not guarantee Groove's profitabili
 
 Processing requires capital: extraction equipment, distillation rigs, testing apparatus, climate-controlled facilities. Groove must finance this capital and amortize it across throughput. In a cyclic downturn where customer demand slows (cannabis retail sales fall, brands order less), Groove's fixed costs are stranded. Utilization falls. Returns collapse.
 
-A cultivator with owned land and mature genetics can at least ride out a downturn by cutting operating expenses. A processor with leased space and specialized equipment has fewer levers. Bankruptcy or acquisition often follows extended downturns for under-capitalized processors.
+A cultivator with owned land and mature genetics can at least ride out a downturn by cutting operating expenses. A processor with leased space and specialized equipment has fewer levers. Bankruptcy or [acquisition](/acquisition/) often follows extended downturns for under-capitalized processors.
 
 Groove's access to capital—equity, debt, or credit—is cyclical. Cannabis lending is limited. Equity investors have soured on pure-play processors. A market downturn that depresses cannabis demand can starve Groove of growth capital exactly when it needs flexibility.
 

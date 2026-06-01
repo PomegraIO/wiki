@@ -23,7 +23,7 @@ The home medical equipment channel is critical. Somnigroup's devices are often p
 
 ## Product focus and differentiation
 
-Somnigroup's historical strength lies in positional and mechanical alternatives to pressure-based therapies. The company has developed devices that work through different mechanisms — for instance, positional therapy devices that encourage side sleeping to reduce apneic episodes, or vibration-based systems that promote arousal without air pressure. These are not the same market as CPAP, and they do not aim to be. Instead, they [target](/tgt-stock/) patients for whom CPAP has failed: those with claustrophobia, those with skin sensitivity to masks, those who simply will not tolerate the sensation.
+Somnigroup's historical strength lies in positional and mechanical alternatives to pressure-based therapies. The company has developed devices that work through different mechanisms — for instance, positional therapy devices that encourage side sleeping to reduce apneic episodes, or vibration-based systems that promote arousal without air pressure. These are not the same market as CPAP, and they do not aim to be. Instead, they target patients for whom CPAP has failed: those with claustrophobia, those with skin sensitivity to masks, those who simply will not tolerate the sensation.
 
 The competitive landscape includes both established CPAP giants like ResMed and Philips (who make the vast majority of sleep devices sold worldwide) and a scattering of smaller innovators. Somnigroup does not compete on volume or brand recognition; it competes on the idea that some patients have needs the CPAP oligopoly leaves unmet.
 

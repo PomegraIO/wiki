@@ -16,9 +16,9 @@ keywords: [biotechnology, fibrosis therapy, venture capital, clinical developmen
 
 ## Venture Funding and Series Capital
 
-Chemomab was initially funded through Israeli venture capital and institutional investors, raising capital in multiple series (A, B, C, etc.) as the company de-risked its lead antibody candidates through preclinical and early clinical work. Each series diluted earlier investors but provided cash for R&D, manufacturing scale-up, and clinical trial initiation. Standard venture terms included preferred shares with protective provisions, anti-dilution rights, and liquidation preferences—structures that persist even after the company's transition to public markets.
+Chemomab was initially funded through Israeli venture capital and institutional investors, raising capital in multiple series (A, B, C, etc.) as the company de-risked its lead antibody candidates through preclinical and early clinical work. Each series diluted earlier investors but provided cash for R&D, manufacturing scale-up, and clinical trial initiation. Standard venture terms included preferred shares with protective provisions, anti-dilution rights, and [liquidation preferences](/liquidation-preference/)—structures that persist even after the company's transition to public markets.
 
-The company accessed public equity markets (NASDAQ IPO) to raise growth capital and provide liquidity to early-stage investors. IPO proceeds funded clinical-stage development, manufacturing facilities, and operating runway through regulatory milestones. The move to public equity diluted venture investors and founders but created a freely tradable currency for future capital raises and employee equity compensation.
+The company accessed public equity markets ([NASDAQ](/nasdaq/) IPO) to raise growth capital and provide liquidity to early-stage investors. IPO proceeds funded clinical-stage development, manufacturing facilities, and operating runway through regulatory milestones. The move to public equity diluted venture investors and founders but created a freely tradable currency for future capital raises and employee [equity compensation](/equity-compensation/).
 
 ## R&D Spending and Cash Burn
 
@@ -34,7 +34,7 @@ Grants are typically 50–80% of eligible project costs; companies must co-fund 
 
 ## Balance Sheet Composition and Lack of Revenue
 
-Chemomab's balance sheet reflects a pre-revenue biotech: assets are primarily cash, short-term investments, and intangible assets (in-process R&D, patents). Liabilities are minimal (some accounts payable and deferred revenue from collaborators or milestone payments). The company carries no debt—leverage would be irrational for a cash-burning biotech with no revenue collateral.
+Chemomab's balance sheet reflects a pre-revenue biotech: assets are primarily cash, short-term investments, and [intangible assets](/intangible-assets/) (in-process R&D, patents). Liabilities are minimal (some [accounts payable](/accounts-payable/) and deferred revenue from collaborators or milestone payments). The company carries no debt—leverage would be irrational for a cash-burning biotech with no revenue collateral.
 
 Equity is the sole funding source. Shareholders, through series ventures and the IPO, have provided all capital; all risk (no revenue, high R&D spend, regulatory uncertainty) rests on equity. The company's [balance-sheet](/balance-sheet/) is therefore straightforward: a shrinking cash balance funded by accumulated shareholder equity, with net loss reported each quarter.
 
@@ -58,7 +58,7 @@ This structure—capital raises tied to clinical milestones—is standard in bio
 
 ## Tax Incentives and R&D Credits
 
-Israeli biotech companies benefit from research and development tax credits, which can offset up to 40–50% of eligible R&D spending. These credits reduce cash burn by 5–10% annually and are material to runway calculations. The company discloses the impact of R&D credits in its tax rate and cash flow statement; investors should understand this benefit in modeling cash needs.
+Israeli biotech companies benefit from research and development tax credits, which can offset up to 40–50% of eligible R&D spending. These credits reduce cash burn by 5–10% annually and are material to runway calculations. The company discloses the impact of R&D credits in its tax rate and [cash flow statement](/cash-flow-statement/); investors should understand this benefit in modeling cash needs.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -46,7 +46,7 @@ Macau's gaming revenue is subject to approval by the Macanese government and is 
 
 ## The High-Roller Question
 
-Many Macau properties depend heavily on **VIP play**—high-net-worth individuals from mainland China wagering millions. Junket operators (intermediaries who bring players and finance their wagering) have historically been essential to VIP gaming volume. However, Chinese regulatory scrutiny of junkets and restrictions on outbound capital have periodically constrained this segment. A property too dependent on VIP play faces sharp revenue swings when policy tightens.
+Many Macau properties depend heavily on **[VIP play](/vipz-stock/)**—high-net-worth individuals from mainland China wagering millions. Junket operators (intermediaries who bring players and finance their wagering) have historically been essential to VIP gaming volume. However, Chinese regulatory scrutiny of junkets and restrictions on outbound capital have periodically constrained this segment. A property too dependent on VIP play faces sharp revenue swings when policy tightens.
 
 Melco's earnings stability improves to the extent it attracts mass-market gaming—tourists and regional players who wager consistently but not at extreme high-end levels. This requires marketing investments and a property experience that appeals to that demographic.
 
@@ -54,7 +54,7 @@ Melco's earnings stability improves to the extent it attracts mass-market gaming
 
 Melco's properties are capital-intensive—new resorts cost billions. The company must reinvest to maintain and upgrade properties, as aging casinos lose competitiveness. This capital requirement, combined with geographic concentration, means Melco cannot scale returns easily the way a lower-capital-intensity business can.
 
-The return on invested capital—comparing operating profit to the capital required to build and maintain properties—must exceed the cost of capital for shareholder value creation to occur. A property that costs $2 billion and generates $200 million in annual operating profit delivers a 10 percent return—acceptable in a low-rate environment but insufficient in high-rate periods or if peers are achieving higher returns. Tracking Melco's [return-on-equity](/return-on-equity/) and comparing it to historical ranges and peer benchmarks reveals whether the company is deploying capital effectively.
+The [return on invested capital](/return-on-invested-capital/)—comparing operating profit to the capital required to build and maintain properties—must exceed the cost of capital for shareholder value creation to occur. A property that costs $2 billion and generates $200 million in annual operating profit delivers a 10 percent return—acceptable in a low-rate environment but insufficient in high-rate periods or if peers are achieving higher returns. Tracking Melco's [return-on-equity](/return-on-equity/) and comparing it to historical ranges and peer benchmarks reveals whether the company is deploying capital effectively.
 
 ## Reading the 10-K for Visibility and Risk
 

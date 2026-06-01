@@ -59,7 +59,7 @@ The fourth segment involves insurance brokerage and workers' compensation admini
 
 Paychex's competitive strength rests on integration and switching costs. A business that has built its entire payroll, HR, retirement, and benefits administration on the Paychex platform cannot easily walk away — the cost of migrating all that data and retraining staff would be prohibitive. The company leverages this by steadily expanding what it does for each customer, upselling new modules and services into its installed base.
 
-The economics are attractive: payroll processing runs on established software that requires minimal ongoing development, so gross margins are high and relatively stable. New customers can be acquired through sales teams, partnerships with accountants and professional advisors, and word-of-mouth among small business networks. Customer acquisition costs are reasonable because the [target](/tgt-stock/) market is large and concentrated in industries like healthcare, hospitality, and professional services where payroll complexity is high.
+The economics are attractive: payroll processing runs on established software that requires minimal ongoing development, so gross margins are high and relatively stable. New customers can be acquired through sales teams, partnerships with accountants and professional advisors, and word-of-mouth among small business networks. Customer acquisition costs are reasonable because the target market is large and concentrated in industries like healthcare, hospitality, and professional services where payroll complexity is high.
 
 ## Competition and growth constraints
 

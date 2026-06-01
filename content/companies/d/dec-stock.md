@@ -4,7 +4,7 @@ description: "DEC is a diversified energy company engaged in the acquisition, ma
 keywords: ["energy", "oil and gas", "upstream", "asset management", "energy sector"]
 ---
 
-*The oil and gas industry historically divided into upstream (drilling and production), midstream (pipelines and storage), and downstream (refining and retail). **Diversified Energy Co (DEC)** sits firmly in the upstream segment, acquiring and operating mature oil and natural gas properties across North America, betting that extracting resources profitably from aging fields is more reliable than wildcat drilling for new reserves.*
+*The oil and gas industry historically divided into upstream (drilling and production), midstream (pipelines and storage), and downstream (refining and retail). **Diversified Energy Co (DEC)** sits firmly in the upstream segment, acquiring and operating mature oil and [natural gas](/natural-gas/) properties across North America, betting that extracting resources profitably from aging fields is more reliable than wildcat drilling for new reserves.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DEC</td></tr>
@@ -31,13 +31,13 @@ DEC's competitive advantage, if any, is operational: lower lifting costs, faster
 
 ## Asset Base and Geographic Exposure
 
-DEC's properties are distributed across oil and gas regions: the Appalachian Basin (natural gas), the Rocky Mountains, Texas, Oklahoma, and Canadian provinces. Geographic diversification reduces exposure to any single regulatory or geological regime, but it also complicates operations by spreading technical and environmental expertise across multiple basins with different geological and regulatory profiles.
+DEC's properties are distributed across oil and gas regions: the Appalachian Basin (natural gas), the Rocky Mountains, Texas, Oklahoma, and Canadian provinces. Geographic [diversification](/diversification/) reduces exposure to any single regulatory or geological regime, but it also complicates operations by spreading technical and environmental expertise across multiple basins with different geological and regulatory profiles.
 
-Production is typically sold at regional benchmarks (WTI for crude, Henry Hub for natural gas) minus local basis differentials. A property in a remote region might command a $5–$15 discount to the benchmark because of transportation costs, and this differential is structural. DEC's ability to mitigate basis risk through transportation contracts or local pricing power is limited.
+Production is typically sold at regional benchmarks (WTI for crude, [Henry Hub](/henry-hub/) for natural gas) minus local basis differentials. A property in a remote region might command a $5–$15 discount to the benchmark because of transportation costs, and this differential is structural. DEC's ability to mitigate [basis risk](/basis-risk/) through transportation contracts or local pricing power is limited.
 
 ## Capital Discipline and Cash Return
 
-The cyclical nature of energy markets creates pressure for capital discipline. When prices are high and cash generation is strong, operators face temptation to overspend on acquisitions or exploration. When prices collapse, the same companies face impairment charges and liquidity stress. DEC must balance growth-through-acquisition with shareholder returns and balance-sheet strength.
+The cyclical nature of energy markets creates pressure for capital discipline. When prices are high and cash generation is strong, operators face temptation to overspend on [acquisitions](/acquisition/) or exploration. When prices collapse, the same companies face impairment charges and liquidity stress. DEC must balance growth-through-acquisition with shareholder returns and balance-sheet strength.
 
 Many upstream companies have pivoted toward returning cash to shareholders through [dividends](/dividend/) and [share buybacks](/share-buyback/) rather than reinvesting all cash into acquisition and development. DEC follows this pattern, with management targeting a dividend that is sustainable even in lower commodity-price scenarios, then using excess cash for buybacks or modest acquisitions. This approach appeals to income-oriented shareholders but limits the company's ability to expand production.
 
@@ -55,7 +55,7 @@ The company's reserve-replacement ratio—the amount of new reserves added versu
 
 ## Shareholder Return Profile
 
-DEC's appeal lies in its cash-generation profile and dividend yield. Mature, low-cost properties can generate substantial free cash flow, which can be distributed to shareholders. This model works well when energy prices are stable or rising, but it is vulnerable to price shocks. Shareholders are also exposed to commodity-price risk directly: a 20% drop in oil prices can slash earnings and the dividend.
+DEC's appeal lies in its cash-generation profile and [dividend yield](/dividend-yield/). Mature, low-cost properties can generate substantial [free cash flow](/free-cash-flow/), which can be distributed to shareholders. This model works well when energy prices are stable or rising, but it is vulnerable to price shocks. Shareholders are also exposed to commodity-price risk directly: a 20% drop in oil prices can slash earnings and the dividend.
 
 The company attracts yield-focused and energy-sector investors. Its valuation is anchored in cash flow multiples and commodity price assumptions, not growth multiples; this limits upside in rallies but can provide defensive characteristics in downturns.
 

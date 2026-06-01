@@ -17,7 +17,7 @@ keywords: [cement, peru, construction-materials, infrastructure, latin-america, 
 
 ## Origin and Regional Footprint
 
-Pacasmayo's roots run deep in Peru's industrial history, where the company has supplied cement to the country's post-war reconstruction and successive waves of urban expansion. The firm has cement mills in northern Peru and operations extending into Bolivia, positioning it as one of the few integrated producers with meaningful scale across the Andean corridor. Unlike purely domestic cement makers, Pacasmayo has hedged against domestic business cycles by pursuing cross-border supply agreements and port access that lets it serve construction in Paraguay and southern Peru. This geographic diversification is both an asset and a structural brake—shipping costs and tariff regimes in the region constrain margin expansion, and competition from Brazilian and Mexican producers capable of lower-cost production limits pricing power in many end markets.
+Pacasmayo's roots run deep in Peru's industrial history, where the company has supplied cement to the country's post-war reconstruction and successive waves of urban expansion. The firm has cement mills in northern Peru and operations extending into Bolivia, positioning it as one of the few integrated producers with meaningful scale across the Andean corridor. Unlike purely domestic cement makers, Pacasmayo has hedged against domestic [business cycles](/business-cycle/) by pursuing cross-border supply agreements and port access that lets it serve construction in Paraguay and southern Peru. This geographic [diversification](/diversification/) is both an asset and a structural brake—shipping costs and tariff regimes in the region constrain margin expansion, and competition from Brazilian and Mexican producers capable of lower-cost production limits pricing power in many end markets.
 
 ## How Cement Demand Tracks Actual Infrastructure
 
@@ -25,7 +25,7 @@ The core insight for understanding Pacasmayo is that cement demand in Peru and B
 
 ## Capital Intensity and Cost Structure
 
-Like all cement makers, Pacasmayo is capital-intensive—mills require substantial upfront investment, and maintenance costs are relentless. The company's financial returns depend on keeping utilization high and managing the cost of raw materials (limestone, fuel, energy). Peru's energy cost profile and import tariffs on coal affect input prices, making the company sensitive to both local inflation and global commodity cycles. Pacasmayo has undertaken periodic capacity upgrades and facility improvements to improve efficiency and lower per-ton production costs, but these require sustained capital deployment and belief in medium-term demand growth.
+Like all cement makers, Pacasmayo is capital-intensive—mills require substantial upfront investment, and maintenance costs are relentless. The company's financial returns depend on keeping utilization high and managing the cost of raw materials (limestone, fuel, energy). Peru's energy cost profile and import tariffs on coal affect input prices, making the company sensitive to both local [inflation](/inflation/) and global commodity cycles. Pacasmayo has undertaken periodic capacity upgrades and facility improvements to improve efficiency and lower per-ton production costs, but these require sustained capital deployment and belief in medium-term demand growth.
 
 ## Currency and Country Risk
 
@@ -37,7 +37,7 @@ Pacasmayo operates in a fragmented cement market where regional producers coexis
 
 ## Strategic Reading Points
 
-Investors and analysts studying Pacasmayo should focus on (1) the company's [10-K](/10-k/) disclosure of cement sales volume by market and price realization, which reveals demand trends before they become obvious; (2) its discussion of capacity utilization and any announced expansions, signaling management's confidence in regional growth; (3) currency impacts on reported earnings and how the company hedges or accepts exposure to the sol; (4) its leverage and interest burden, since cement is capital-intensive and refinancing risk rises when regional interest rates climb; and (5) any major contract wins or losses with infrastructure agencies, which drive quarterly volatility.
+Investors and analysts studying Pacasmayo should focus on (1) the company's [10-K](/10-k/) disclosure of cement sales volume by market and price realization, which reveals demand trends before they become obvious; (2) its discussion of capacity utilization and any announced expansions, signaling management's confidence in regional growth; (3) currency impacts on reported earnings and how the company hedges or accepts exposure to the sol; (4) its leverage and interest burden, since cement is capital-intensive and [refinancing risk](/refinancing-risk/) rises when regional [interest rates](/interest-rate/) climb; and (5) any major contract wins or losses with infrastructure agencies, which drive quarterly volatility.
 
 ## Context and Scale
 

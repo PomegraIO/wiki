@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Affinity Bancshares is a mid-sized regional bank holding company headquartered in Covington, Georgia, tracing its roots back to 1928. The company operates primarily through Affinity Bank, a national bank that competes in the fragmented world of community banking by taking deposits and lending them back out into mortgages, commercial real estate, and business loans across its region.
+Affinity Bancshares is a mid-sized regional bank holding company headquartered in Covington, Georgia, tracing its roots back to 1928. The company operates primarily through Affinity Bank, a [national bank](/nbhc-stock/) that competes in the fragmented world of community banking by taking deposits and lending them back out into mortgages, commercial real estate, and business loans across its region.
 
 The bank's bread and butter remains traditional deposit-gathering and lending. Customers fund its business through checking and savings accounts, certificates of deposit, and retirement accounts. On the lending side, Affinity deploys those deposits into [commercial real estate loans](/wiki/commercial-real-estate/), which form the largest portion of its portfolio, along with commercial and industrial loans and residential mortgages. This straightforward model—borrow short, lend long—is the foundation of nearly all regional banking, though success depends on managing the gaps between deposit rates and loan yields in a competitive environment.
 

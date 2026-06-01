@@ -17,7 +17,7 @@ keywords: ["search-advertising", "technology", "operating-margin", "platform-eco
 
 ## How Search Advertising Became a Dollar-Printing Machine
 
-Alphabet's economic engine rests on a simple transaction: a user enters a query, Alphabet displays a list of organic results plus paid ads, and advertisers pay only when a user clicks. The genius is in the ranking—relevance matters because advertisers bid for clicks, but Alphabet keeps the spread between what it charges advertisers and what it pays content creators (almost nothing on search, a meaningful portion on YouTube). 
+[Alphabet](/googl-stock/)'s economic engine rests on a simple transaction: a user enters a query, Alphabet displays a list of organic results plus paid ads, and advertisers pay only when a user clicks. The genius is in the ranking—relevance matters because advertisers bid for clicks, but Alphabet keeps the spread between what it charges advertisers and what it pays content creators (almost nothing on search, a meaningful portion on YouTube). 
 
 The per-click revenue model scales ferociously because there are billions of searches daily and the variable cost of serving an ad is negligible. A search query consumes almost no additional infrastructure; the heavy lifting (server farms, fiber) happened years ago. Consequently, once Google recouped its data-center costs, nearly every additional query became pure [operating margin](/operating-margin/). This is why advertising businesses at trillion-dollar scale still generate 20–25% [net profit margins](/gross-profit-margin/)—the unit economics are so favorable that even after paying for global support, legal exposure, and reinvestment, a huge fraction falls to the bottom line.
 
@@ -27,7 +27,7 @@ Google dominates search in most geographies, commanding roughly 90% of search qu
 
 YouTube inherited the same advertising playbook but applied it to video. A user watches a video; Alphabet inserts an ad (skippable or not); the advertiser pays if watched or clicked. YouTube's revenue per user is lower than search—video advertising is less intent-driven—but the user base dwarfs search, so aggregate revenue is enormous. The variable cost structure remains the same: serving a video ad costs almost nothing incremental.
 
-Outside advertising, Alphabet operates Google Cloud, an infrastructure business with a different margin profile. Cloud services are sold to enterprises and developers, compete on price and features with Amazon Web Services and Microsoft Azure, and operate at lower margins (though improving). Cloud remains a small percentage of total revenue but is the clearest example of Alphabet operating a capital-intensive, competitive business where price discipline is harder to maintain.
+Outside advertising, Alphabet operates Google Cloud, an infrastructure business with a different margin profile. Cloud services are sold to enterprises and developers, compete on price and features with Amazon Web Services and [Microsoft](/msft-stock/) Azure, and operate at lower margins (though improving). Cloud remains a small percentage of total revenue but is the clearest example of Alphabet operating a capital-intensive, competitive business where price discipline is harder to maintain.
 
 ## Moat Through Network Effects and Feedback Loops
 
@@ -37,15 +37,15 @@ The barrier is not technology—many companies could build a search engine—but
 
 ## Cost Structure and Margin Drivers
 
-Advertising revenue flows in with minimal variable cost but high absolute traffic acquisition costs. Alphabet pays massive amounts to device makers (Apple, Samsung) and carriers for placement and distribution. It also pays to license content and partnerships. These payments grow as revenue grows but not dollar-for-dollar. The result: incremental margins exceed average margins. A 5% revenue increase might deliver a 10% [free cash flow](/free-cash-flow/) increase, attracting investment and enabling reinvestment in capacity and R&D.
+Advertising revenue flows in with minimal variable cost but high absolute traffic [acquisition](/acquisition/) costs. Alphabet pays massive amounts to device makers ([Apple](/aapl-stock/), Samsung) and carriers for placement and distribution. It also pays to license content and partnerships. These payments grow as revenue grows but not dollar-for-dollar. The result: incremental margins exceed average margins. A 5% revenue increase might deliver a 10% [free cash flow](/free-cash-flow/) increase, attracting investment and enabling reinvestment in capacity and R&D.
 
 Tax policy and geographic variation matter. Search and YouTube advertising are subject to scrutiny around data usage and competition in different countries, some of which tax or restrict ad platforms. Alphabet's [effective tax rate](/stock/) fluctuates based on where profits are sourced. Concentration in developed markets means currency exposure; earnings in weak currencies reduce dollar revenue.
 
 ## Capital Intensity and Returns
 
-Despite having no inventory and few physical assets, Alphabet invests heavily in data centers, fiber, and R&D. These look like [capital expenditure](/balance-sheet/) on the income statement but drive the scale advantage. Alphabet's [return on equity](/return-on-equity/) remains high because it converts modest capex into enormous profit pools. A 15% ROE at trillion-dollar scale is more impressive than the same at billion-dollar scale.
+Despite having no inventory and few physical assets, Alphabet invests heavily in data centers, fiber, and R&D. These look like [capital expenditure](/balance-sheet/) on the [income statement](/income-statement/) but drive the scale advantage. Alphabet's [return on equity](/return-on-equity/) remains high because it converts modest capex into enormous profit pools. A 15% ROE at trillion-dollar scale is more impressive than the same at billion-dollar scale.
 
-Shareholder returns come through buybacks and dividends. A profitable, slow-growth giant like Alphabet buys back shares to keep per-share metrics rising even as total profit grows slowly. This is not value creation—it merely concentrates ownership—but it is the default capital allocation for mature tech.
+Shareholder returns come through buybacks and [dividends](/dividend/). A profitable, slow-growth giant like Alphabet buys back shares to keep per-share metrics rising even as total profit grows slowly. This is not value creation—it merely concentrates ownership—but it is the default capital allocation for mature tech.
 
 ## Risks to the Revenue Model
 

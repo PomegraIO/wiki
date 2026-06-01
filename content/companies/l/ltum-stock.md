@@ -4,7 +4,7 @@ description: "A mining and mineral-extraction company focused on lithium product
 keywords: ["lithium mining", "minerals", "battery materials", "energy storage", "electric vehicles"]
 ---
 
-*Lithium Corp (LTUM) is a US-listed mining company engaged in the acquisition and development of lithium resources. The company operates in the minerals sector, where it extracts and processes lithium for sale to battery makers, chemical manufacturers, and energy-storage producers. Lithium has become strategically important as [electric vehicle](/stock/) adoption accelerates globally and as grid-scale battery storage grows.*
+*Lithium Corp (LTUM) is a US-listed mining company engaged in the [acquisition](/acquisition/) and development of lithium resources. The company operates in the minerals sector, where it extracts and processes lithium for sale to battery makers, chemical manufacturers, and energy-storage producers. Lithium has become strategically important as [electric vehicle](/stock/) adoption accelerates globally and as grid-scale battery storage grows.*
 
 <aside class="wiki-infobox"><table>
   <tr><th>Ticker</th><td>LTUM</td></tr>
@@ -25,7 +25,7 @@ Lithium Corp's core function is to find, develop, and extract lithium ore, then 
 
 ## Capital Intensity and Project Development
 
-Mining is capital-intensive. Building a new mine requires hundreds of millions to billions of dollars in upfront investment before the first unit of lithium is sold. Lithium Corp must secure capital for exploration, permitting, construction, and initial operations—capital that comes from [equity](/common-stock/) offerings, [debt](/corporate-bond/), joint ventures, or strategic partnerships with larger mining houses or end-users. The financial structure matters: a company with high debt relative to [enterprise value](/enterprise-value/) faces refinancing risk if commodity prices drop and cash flow compresses. A company funded by equity dilutes existing shareholders but avoids interest burden. Many mining companies use a combination: explore early with [equity](/common-stock/) capital, then secure project financing (often backed by offtake agreements with battery makers) to develop a mine toward production. The lag between capital investment and revenue generation can stretch five to ten years or more for large projects.
+Mining is capital-intensive. Building a new mine requires hundreds of millions to billions of dollars in upfront investment before the first unit of lithium is sold. Lithium Corp must secure capital for exploration, permitting, construction, and initial operations—capital that comes from [equity](/common-stock/) offerings, [debt](/corporate-bond/), joint ventures, or strategic partnerships with larger mining houses or end-users. The financial structure matters: a company with high debt relative to [enterprise value](/enterprise-value/) faces [refinancing risk](/refinancing-risk/) if commodity prices drop and cash flow compresses. A company funded by equity dilutes existing shareholders but avoids interest burden. Many mining companies use a combination: explore early with [equity](/common-stock/) capital, then secure project financing (often backed by offtake agreements with battery makers) to develop a mine toward production. The lag between capital investment and revenue generation can stretch five to ten years or more for large projects.
 
 ## Supply Chain and Customer Positioning
 

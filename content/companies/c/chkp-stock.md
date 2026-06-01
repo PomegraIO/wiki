@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Check Point Software Technologies is a cybersecurity company founded in Israel in 1993, making it one of the oldest and most established names in the field. The company develops and sells software and appliances designed to protect the networks, data, and endpoints of large organizations from cyber threats. Its customers span financial institutions, government agencies, telecommunications companies, and other enterprises where the cost of a security breach—in dollars, in reputation, and in regulatory exposure—justifies significant investment in defense. Check Point operates globally, with offices across the Americas, Europe, Asia, and the Middle East, and its shares trade on [NASDAQ](/nasdaq/) under the ticker CHKP.
+Check Point Software Technologies is a cybersecurity company founded in Israel in 1993, making it one of the oldest and most established names in the field. The company develops and sells software and appliances designed to protect the networks, data, and endpoints of large organizations from cyber threats. Its customers span [financial institutions](/fisi-stock/), government agencies, telecommunications companies, and other enterprises where the cost of a security breach—in dollars, in reputation, and in regulatory exposure—justifies significant investment in defense. Check Point operates globally, with offices across the Americas, Europe, Asia, and the Middle East, and its shares trade on [NASDAQ](/nasdaq/) under the ticker CHKP.
 
 <aside class="wiki-infobox">
 <table>

@@ -8,7 +8,7 @@ keywords: ["retail", "apparel", "capital structure", "inventory financing", "sam
 
 ## Retail Capital Architecture
 
-DXLG's balance sheet is fundamentally different from manufacturing or services firms. The company's largest assets are not factories or intellectual property but rather leasehold improvements (the cost of building out store locations) and inventory (clothing, accessories, and seasonal stock). Both are structured for rapid conversion to cash: inventory through sales, leasehold improvements through the depreciation tax shield.
+DXLG's [balance sheet](/balance-sheet/) is fundamentally different from manufacturing or services firms. The company's largest assets are not factories or intellectual property but rather leasehold improvements (the cost of building out store locations) and inventory (clothing, accessories, and seasonal stock). Both are structured for rapid conversion to cash: inventory through sales, leasehold improvements through the [depreciation](/depreciation/) tax shield.
 
 This retail model creates structural working-capital swings. The company must build inventory ahead of peak selling seasons (holiday, back-to-school), locking cash in merchandise for weeks or months before sales convert it back to cash. If sales miss forecasts, inventory becomes distressed (clearance sales at low margins) or obsolete (seasonal items unsold after the season ends). A retail firm's cash flow is therefore lumpy and seasonal, with peaks after holiday selling and valleys during slow seasons.
 
@@ -16,9 +16,9 @@ DXLG's capital structure reflects this lumpiness. The company likely carries rev
 
 ## Lease Obligations and Fixed Costs
 
-DXLG operates a chain of physical stores, each of which requires a lease. Leases are fixed or semi-fixed costs: the company must pay rent whether stores are busy or slow. Under [accounting standards](/stock/), operating leases create lease-related liabilities and right-of-use assets on the balance sheet, increasing reported leverage.
+DXLG operates a chain of physical stores, each of which requires a lease. Leases are fixed or semi-fixed costs: the company must pay rent whether stores are busy or slow. Under [accounting standards](/stock/), [operating leases](/operating-lease/) create lease-related liabilities and right-of-use assets on the balance sheet, increasing reported leverage.
 
-Lease obligations are a form of implicit debt. A $50 million annual lease obligation, payable over 10 years, is economically equivalent to a $50 million liability. Leases constrain financial flexibility: the company cannot easily exit a store lease, even if the location is unprofitable, without renegotiating or paying a penalty. This reduces management's ability to quickly right-size the footprint if conditions deteriorate.
+Lease obligations are a form of [implicit debt](/implicit-debt/). A $50 million annual lease obligation, payable over 10 years, is economically equivalent to a $50 million liability. Leases constrain financial flexibility: the company cannot easily exit a store lease, even if the location is unprofitable, without renegotiating or paying a penalty. This reduces management's ability to quickly right-size the footprint if conditions deteriorate.
 
 DXLG's lease base, disclosed in [10-K](/10-k/) filings, is a critical financial metric. A company with a growing lease base is expanding, consuming capital. A company shrinking its footprint is harvesting cash but risking market relevance. A stable lease base with rising same-store sales suggests good capital efficiency: the company is extracting more revenue from each location without expanding.
 
@@ -34,7 +34,7 @@ DXLG's capital strategy likely emphasizes: (1) achieving profitability in the ex
 
 DXLG finances inventory through a combination of cash flow from operations and vendor relationships. Vendors may extend favorable payment terms (e.g., 60 days net) to retailers in exchange for volume or exclusivity, effectively providing working-capital financing. A retailer with strong vendor relationships can stretch payables, improving cash flow.
 
-However, vendor relationships are fragile. If a retailer falls on hard times, vendors may demand faster payment or reduce credit lines. A retailer with deteriorating sales, inventory turnover, or profitability loses leverage with vendors and faces tighter financing terms.
+However, vendor relationships are fragile. If a retailer falls on hard times, vendors may demand faster payment or reduce credit lines. A retailer with deteriorating sales, [inventory turnover](/inventory-turnover/), or profitability loses leverage with vendors and faces tighter financing terms.
 
 DXLG's ability to manage inventory levels (holding less stock, turning it faster) is a direct lever on working capital and cash flow. A company that improves inventory turnover from 4x to 5x per year reduces average inventory balances and frees cash. This requires disciplined merchandising: stocking the right products in the right sizes and colors, and quickly exiting slow-moving items.
 
@@ -42,7 +42,7 @@ DXLG's ability to manage inventory levels (holding less stock, turning it faster
 
 DXLG's debt is likely a mix of revolving credit for seasonal inventory financing and term debt for longer-term capital needs. The company's [interest coverage ratio](/interest-coverage-ratio/) (operating earnings divided by interest expense) is a critical measure of financial health; a retailer with weak sales cannot sustain high debt loads.
 
-Equity financing for a specialty retail firm is limited. Growth through equity issuance dilutes existing shareholders, and growth itself is uncertain for a mature retailer. Instead, DXLG's capital likely comes from retained earnings and debt, with emphasis on the former.
+[Equity financing](/equity-financing/) for a specialty retail firm is limited. Growth through equity issuance dilutes existing shareholders, and growth itself is uncertain for a mature retailer. Instead, DXLG's capital likely comes from [retained earnings](/retained-earnings/) and debt, with emphasis on the former.
 
 ## The Shareholder Return Strategy
 

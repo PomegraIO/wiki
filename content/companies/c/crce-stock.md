@@ -17,7 +17,7 @@ keywords: [energy, oil and gas, exploration, upstream, energy sector, capital ma
 
 ## How the Drilling Dollar Works
 
-Circle Energy's earnings mechanism is straightforward in theory but capital-demanding in practice: the company acquires or earns interests in oil and gas properties, spends money to explore and delineate resources, drills wells, and—if successful—extracts and sells crude or natural gas at prevailing prices. Until production starts, the company generates no revenue. This creates a J-curve familiar to every oil explorer: years of negative cash burn punctuated by eventual positive cash flow once production ramps. The unit economics depend on how much it costs to drill a well in the basin, what that well produces, and the selling price of hydrocarbons at the wellhead.
+Circle Energy's earnings mechanism is straightforward in theory but capital-demanding in practice: the company acquires or earns interests in oil and gas properties, spends money to explore and delineate resources, drills wells, and—if successful—extracts and sells crude or [natural gas](/natural-gas/) at prevailing prices. Until production starts, the company generates no revenue. This creates a J-curve familiar to every oil explorer: years of negative cash burn punctuated by eventual positive cash flow once production ramps. The unit economics depend on how much it costs to drill a well in the basin, what that well produces, and the selling price of hydrocarbons at the wellhead.
 
 ## Acreage and Lease Economics
 
@@ -25,7 +25,7 @@ Exploration companies like Circle accumulate value through acreage position—le
 
 ## Production Economics and the Commodity Price Lever
 
-Once a well produces, Circle's operating margin becomes a direct function of the wellhead price of oil or gas, the royalties owed to landowners and the government, and the lifting cost (what it costs to extract and transport one barrel per day). In mature, established basins with existing pipelines and infrastructure, lifting costs are often modest; in remote or difficult reservoirs, lifting costs can exceed netback prices, making production uneconomical. A typical community: Circle earns the difference between the sale price and the sum of (royalties + operating costs + capital amortization). If the company retains working interests (not just collecting royalties), downside risk is real when prices collapse.
+Once a well produces, Circle's [operating margin](/operating-margin/) becomes a direct function of the wellhead price of oil or gas, the royalties owed to landowners and the government, and the lifting cost (what it costs to extract and transport one barrel per day). In mature, established basins with existing pipelines and infrastructure, lifting costs are often modest; in remote or difficult reservoirs, lifting costs can exceed netback prices, making production uneconomical. A typical community: Circle earns the difference between the sale price and the sum of (royalties + operating costs + capital [amortization](/amortization/)). If the company retains working interests (not just collecting royalties), downside risk is real when prices collapse.
 
 ## Capital Structure and the Funding Trap
 
@@ -33,7 +33,7 @@ Because exploration requires cash before revenue exists, Circle must fund operat
 
 ## Scale and the Path to Positive Cash Flow
 
-Small exploration companies rarely achieve scale quickly. Circle must either discover enough productive reserves to become a regional producer, or acquire existing production to blend with exploration efforts. Acquisition of producing properties brings immediate cash flow but requires capital; organic discovery takes longer but avoids the overpayment risk of buying production from a seller with better market access. The math favors small explorers that marry successful drilling with opportunistic acquisitions, but execution is rare. Many exploration companies plateau at a small acreage position and face liquidation or merger.
+Small exploration companies rarely achieve scale quickly. Circle must either discover enough productive reserves to become a regional producer, or acquire existing production to blend with exploration efforts. Acquisition of producing properties brings immediate cash flow but requires capital; organic discovery takes longer but avoids the overpayment risk of buying production from a seller with better market access. The math favors small explorers that marry successful drilling with opportunistic [acquisitions](/acquisition/), but execution is rare. Many exploration companies plateau at a small acreage position and face [liquidation](/liquidation/) or [merger](/merger/).
 
 ## Commodity Cycle Dependency and No Hedging Moat
 

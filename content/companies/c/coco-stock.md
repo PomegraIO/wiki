@@ -55,7 +55,7 @@ Distribution logistics account for a substantial cost of goods sold. Moving case
 
 ## Margin Compression and Inflation Sensitivity
 
-Beverage companies like Vita Coco faced significant margin pressure in 2021–2023 as input costs (raw materials, packaging, energy, labor, freight) spiked. The company could not fully pass these costs to consumers without losing volume, so gross margins compressed. As inflation moderates, some relief is possible, but the category's inherent low margin (relative to packaged foods or other CPG categories) means that cost inflation remains a perpetual headwind.
+Beverage companies like Vita Coco faced significant margin pressure in 2021–2023 as input costs (raw materials, packaging, energy, labor, freight) spiked. The company could not fully pass these costs to consumers without losing volume, so gross margins compressed. As [inflation](/inflation/) moderates, some relief is possible, but the category's inherent low margin (relative to packaged foods or other CPG categories) means that cost inflation remains a perpetual headwind.
 
 ## Profitability and Cash Return
 
@@ -73,7 +73,7 @@ Vita Coco's [10-K](/10-k/) (SEC CIK 1482981) discloses the company's revenue by 
 
 ## Market Maturity and Strategic Positioning
 
-Vita Coco is a mature public company in a mature, slow-growth category. Its valuation reflects the current profitability, dividend yield, and the market's view of future growth. The company faces a choice: continue to harvest cash from the coconut water franchise while selectively investing in new categories and geographies, or pursue transformational acquisitions or category reinvention to reignite growth.
+Vita Coco is a mature public company in a mature, slow-growth category. Its valuation reflects the current profitability, [dividend yield](/dividend-yield/), and the market's view of future growth. The company faces a choice: continue to harvest cash from the coconut water franchise while selectively investing in new categories and geographies, or pursue transformational [acquisitions](/acquisition/) or category reinvention to reignite growth.
 
 The company's future depends on whether new product innovation (plant-based milk, alternative water products) gains traction and on whether international expansion (growth in Europe, Asia) provides volume upside. But the core coconut water business—once a high-growth darling—is now a steady, mature, cash-generating franchise competing in a crowded, slow-growth beverage market.
 

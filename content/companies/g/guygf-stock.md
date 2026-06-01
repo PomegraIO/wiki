@@ -23,7 +23,7 @@ Once ground is secured, exploration is a race. The company that defines a resour
 
 ## Capital Access and Financing Competition
 
-Junior explorers live on external capital: equity raises, joint-venture financing, and occasional debt. Gold bull markets open the capital spigot; bear markets slam it shut. G2 competes for investor attention and capital alongside hundreds of other junior explorers. Those that can raise capital at reasonable dilution levels can continue exploring and derisking their assets. Those that cannot face dilution spirals, token funding, or extinction.
+Junior explorers live on external capital: equity raises, joint-venture financing, and occasional debt. Gold [bull markets](/bull-market/) open the capital spigot; [bear markets](/bear-market/) slam it shut. G2 competes for investor attention and capital alongside hundreds of other junior explorers. Those that can raise capital at reasonable dilution levels can continue exploring and derisking their assets. Those that cannot face dilution spirals, token funding, or extinction.
 
 G2's competitive advantage in capital markets is its management team's track record, the quality of its concessions, the geological potential of its projects, and investor perception of execution probability. If G2's CEO has a history of finding gold and bringing discoveries to market, investors will fund the company at better terms. If G2's concessions are in a stable, mining-friendly jurisdiction (Canada, Australia, Mexico) with clear resource potential, financing is easier. If the concessions are in a frontier territory with permitting risk, G2 must offer higher equity upside to attract risk capital, diluting existing shareholders.
 
@@ -43,7 +43,7 @@ Junior explorers are valued not on cash flows (they generate none) but on compar
 
 ## Joint-Venture and M&A Dynamics
 
-G2 may compete by discovering ore that attracts a major miner into a joint-venture or acquisition. Alternatively, G2 itself may acquire smaller explorers' concessions or partner with them to accelerate exploration. Larger miners (Barrick, Newmont, Agnico Eagle) are the acquirers; junior explorers are targets. G2's competitive standing improves if it can demonstrate a discovery pathway that appeals to majors at a valuation premium to its market cap. A rival's early discovery that attracts a major's attention at a high valuation raises the bar for G2 and forces a faster exploration cadence to avoid being left behind.
+G2 may compete by discovering ore that attracts a major miner into a joint-venture or [acquisition](/acquisition/). Alternatively, G2 itself may acquire smaller explorers' concessions or partner with them to accelerate exploration. Larger miners (Barrick, Newmont, Agnico Eagle) are the acquirers; junior explorers are targets. G2's competitive standing improves if it can demonstrate a discovery pathway that appeals to majors at a valuation premium to its market cap. A rival's early discovery that attracts a major's attention at a high valuation raises the bar for G2 and forces a faster exploration cadence to avoid being left behind.
 
 ## Macro Commodity Cycles and Financing Windows
 

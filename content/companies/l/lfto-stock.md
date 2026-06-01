@@ -27,7 +27,7 @@ This is pure performance marketing. Revenue is tied directly to conversions (ins
 
 ## Competitive concentration and platform dependency
 
-Liftoff's competitive position is fragile because the underlying infrastructure—mobile advertising exchanges, app stores, ad networks—is highly concentrated. Apple and Google control iOS and Android distribution; they also control increasingly significant portions of mobile ad inventory (Google via AdMob, Apple via internal networks). Both platform owners have tightened privacy controls (iOS App Tracking Transparency, Google's push toward privacy-preserving ads), which degrades Liftoff's ability to track and attribute user behavior post-click. This restriction reduces the effectiveness of Liftoff's targeting algorithms and the company's confidence in predicting user lifetime value.
+Liftoff's competitive position is fragile because the underlying infrastructure—mobile advertising exchanges, app stores, ad networks—is highly concentrated. [Apple](/aapl-stock/) and Google control iOS and Android distribution; they also control increasingly significant portions of mobile ad inventory (Google via AdMob, Apple via internal networks). Both platform owners have tightened privacy controls (iOS App Tracking Transparency, Google's push toward privacy-preserving ads), which degrades Liftoff's ability to track and attribute user behavior post-click. This restriction reduces the effectiveness of Liftoff's targeting algorithms and the company's confidence in predicting user lifetime value.
 
 Furthermore, Apple and Google can change the economics of mobile advertising overnight through policy changes. If either platform reduces ad inventory, raises CPM floors, or restricts data access, Liftoff's margins compress and its data advantage evaporates. The company is a tenant on infrastructure it does not control.
 
@@ -39,7 +39,7 @@ But this moat is time-bounded and contestable. As privacy regulations tighten (G
 
 ## Customer concentration and churn risk
 
-Liftoff's revenue depends on a relatively small number of large game and app publishers. A handful of major mobile game companies represent a significant share of revenues. If any major customer reduces spending, negotiates harder on rates, or switches to a competitor, revenue suffers. This customer concentration risk is common in performance-marketing businesses; it means Liftoff must continually invest in product innovation and service quality to retain clients.
+Liftoff's revenue depends on a relatively small number of large game and app publishers. A handful of major mobile game companies represent a significant share of revenues. If any major customer reduces spending, negotiates harder on rates, or switches to a competitor, revenue suffers. This customer [concentration risk](/concentration-risk/) is common in performance-marketing businesses; it means Liftoff must continually invest in product innovation and service quality to retain clients.
 
 Additionally, Liftoff's customers are themselves subject to cyclical trends in mobile gaming and consumer apps. When investor enthusiasm for gaming wanes, publishers cut marketing budgets. When a hit game enters decline, that publisher's ad spend drops. Liftoff's revenue is therefore derivative of its customers' success and investor sentiment toward their category.
 
@@ -47,7 +47,7 @@ Additionally, Liftoff's customers are themselves subject to cyclical trends in m
 
 Performance marketing typically offers limited pricing power. Clients measure ROI directly (cost per install vs. expected user lifetime value) and have low switching costs. If Liftoff's fee (take rate or CPA markup) exceeds the client's calculated ROI, the client either leaves or reduces budget. This disciplined economic forcing keeps margins thin.
 
-Liftoff's ability to improve margins comes from: (1) better algorithms that reduce cost per user acquired, (2) market consolidation that reduces competition, or (3) a shift toward higher-margin services (optimization, analytics, managed services) that move beyond pure user acquisition. Liftoff has invested in each area, but progress is not guaranteed.
+Liftoff's ability to improve margins comes from: (1) better algorithms that reduce cost per user acquired, (2) market consolidation that reduces competition, or (3) a shift toward higher-margin services (optimization, analytics, managed services) that move beyond pure user [acquisition](/acquisition/). Liftoff has invested in each area, but progress is not guaranteed.
 
 ## Technology and talent dependency
 
@@ -55,7 +55,7 @@ Liftoff's success hinges on its engineering and data-science teams' ability to b
 
 ## Business model resilience
 
-Performance-marketing businesses are resilient during recessions in some respects (publishers cut budgets but don't stop spending if ROI is positive) and fragile in others (if overall mobile game spending contracts, there's no way to offset). Liftoff's fortunes are tied to the health of the mobile gaming and consumer-app ecosystems. If either faces secular decline—due to saturation, platform policy changes, or shifting consumer behavior—Liftoff's addressable market shrinks.
+Performance-marketing businesses are resilient during [recessions](/recession/) in some respects (publishers cut budgets but don't stop spending if ROI is positive) and fragile in others (if overall mobile game spending contracts, there's no way to offset). Liftoff's fortunes are tied to the health of the mobile gaming and consumer-app ecosystems. If either faces secular decline—due to saturation, platform policy changes, or shifting consumer behavior—Liftoff's addressable market shrinks.
 
 ## Path to scale and profitability
 

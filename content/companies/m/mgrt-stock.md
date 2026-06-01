@@ -21,7 +21,7 @@ The customers who put money into Mega Fortune's platform fall into two camps. Fi
 
 ## The Business Behind the Platform
 
-Revenue flows from the spread between what Mega Fortune collects from wagers and what it pays in prizes. This is a high-volume, thin-margin model: the company wins if it can aggregate millions of small bets and maintain a house statistical advantage. The platform also generates fees from payment processing, since players must fund accounts before they wager. Customer acquisition is typically the largest expense, especially in a market crowded with informal competitors and where brand trust is built slowly.
+Revenue flows from the spread between what Mega Fortune collects from wagers and what it pays in prizes. This is a high-volume, thin-margin model: the company wins if it can aggregate millions of small bets and maintain a house statistical advantage. The platform also generates fees from payment processing, since players must fund accounts before they wager. Customer [acquisition](/acquisition/) is typically the largest expense, especially in a market crowded with informal competitors and where brand trust is built slowly.
 
 Operating such a platform requires infrastructure: servers to handle simultaneous bettors, payment processors to move money in and out of player accounts, customer support for disputes or account issues, and the legal and compliance apparatus to navigate China's evolving stance on online gambling. The cost of each element scales with volume, so profitability depends on growing the player base faster than costs rise.
 

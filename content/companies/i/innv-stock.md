@@ -28,7 +28,7 @@ As INNV accumulates clinical data from thousands of patients over years, it buil
 
 ## Vulnerability: Payer Concentration and Regulatory Risk
 
-INNV's moat is vulnerable to changes in Medicare policy or payer dynamics. The company is dependent on Medicare Advantage plan enrollment, which is set by federal policy and subject to regulatory change. If the federal government reduces Medicare Advantage reimbursement rates, increases regulatory requirements, or shifts beneficiaries to traditional Medicare, INNV's business model is disrupted. Additionally, if Medicaid coverage or state reimbursement changes, the dual-eligible patient segment (which is often more profitable than pure-Medicare patients due to higher complexity and unmet need) becomes less attractive. A competitor might mitigate this risk through diversification into commercial populations or other payers; INNV's concentration in Medicare creates exposure.
+INNV's moat is vulnerable to changes in Medicare policy or payer dynamics. The company is dependent on Medicare Advantage plan enrollment, which is set by federal policy and subject to regulatory change. If the federal government reduces Medicare Advantage reimbursement rates, increases regulatory requirements, or shifts beneficiaries to traditional Medicare, INNV's business model is disrupted. Additionally, if Medicaid coverage or state reimbursement changes, the dual-eligible patient segment (which is often more profitable than pure-Medicare patients due to higher complexity and unmet need) becomes less attractive. A competitor might mitigate this risk through [diversification](/diversification/) into commercial populations or other payers; INNV's concentration in Medicare creates exposure.
 
 ## Geographic Market Fragmentation
 
@@ -40,7 +40,7 @@ INNV's most sustainable moat may lie in demonstrating superior health outcomes a
 
 ## Pressure from Larger Health Systems
 
-INNV faces pressure from integrated health systems (Kaiser Permanente, Humana, UnitedHealth Optum) that have greater scale, brand recognition, and capital. These larger competitors can offer similar integrated models with greater resources, potentially undercutting INNV on price or offering superior benefit packages. INNV's moat depends on remaining nimble and specialized in senior integrated care—a niche where larger, diversified competitors may not focus. If a large health system decides to acquire or compete aggressively in senior integrated care, INNV's competitive position could be rapidly degraded.
+INNV faces pressure from integrated health systems (Kaiser Permanente, [Humana](/hum-stock/), [UnitedHealth](/unh-stock/) Optum) that have greater scale, brand recognition, and capital. These larger competitors can offer similar integrated models with greater resources, potentially undercutting INNV on price or offering superior benefit packages. INNV's moat depends on remaining nimble and specialized in senior integrated care—a niche where larger, diversified competitors may not focus. If a large health system decides to acquire or compete aggressively in senior integrated care, INNV's competitive position could be rapidly degraded.
 
 ## Sustainability Assessment
 

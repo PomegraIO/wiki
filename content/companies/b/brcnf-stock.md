@@ -29,9 +29,9 @@ The economics of this position are significant. A food brand typically sources i
 
 ## The Customer Base and Product Diversification
 
-Burcon's customer base is food and beverage manufacturers—companies like Beyond Meat, Nestlé, Tapping Maple, and other brands developing plant-based products. These customers are not looking for a commodity; they are looking for a differentiated ingredient that enables them to create a product with a specific taste, texture, and nutritional profile. This allows Burcon to command premium pricing and to cultivate long-term relationships, but it also means that Burcon's growth is tied to the success of its customers' products.
+Burcon's customer base is food and beverage manufacturers—companies like [Beyond Meat](/bynd-stock/), Nestlé, Tapping Maple, and other brands developing plant-based products. These customers are not looking for a commodity; they are looking for a differentiated ingredient that enables them to create a product with a specific taste, texture, and nutritional profile. This allows Burcon to command premium pricing and to cultivate long-term relationships, but it also means that Burcon's growth is tied to the success of its customers' products.
 
-The company has pursued diversification by developing proteins from other plant sources—pea, soy, and others—and by exploring functional variants suited to different applications. A protein optimized for a smooth beverage is different from one optimized for a chewy meat alternative. This diversification spreads risk: if one plant source or one customer segment faces market headwinds, Burcon has other revenue streams.
+The company has pursued [diversification](/diversification/) by developing proteins from other plant sources—pea, soy, and others—and by exploring functional variants suited to different applications. A protein optimized for a smooth beverage is different from one optimized for a chewy meat alternative. This diversification spreads risk: if one plant source or one customer segment faces market headwinds, Burcon has other revenue streams.
 
 ## Manufacturing and Scalability Constraints
 

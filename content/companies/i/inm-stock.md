@@ -4,7 +4,7 @@ description: "A clinical-stage biopharmaceutical company developing cannabis-der
 keywords: [cannabinoids, clinical-stage, drug-development, dermatology, ophthalmology, intellectual-property]
 ---
 
-*InMed Pharmaceuticals Inc. trades under the ticker **INM** on the NASDAQ Capital Market and registers with the Securities and Exchange Commission under CIK 1728328. The company represents a hybrid unit-economics model: clinical-stage drug development (expensive, long-dated, binary outcome risk) wrapped around intellectual property related to cannabinoid therapeutics, a category with regulatory momentum but execution uncertainty.*
+*InMed Pharmaceuticals Inc. trades under the ticker **INM** on the [NASDAQ](/nasdaq/) Capital Market and registers with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1728328. The company represents a hybrid unit-economics model: clinical-stage drug development (expensive, long-dated, binary outcome risk) wrapped around intellectual property related to cannabinoid therapeutics, a category with regulatory momentum but execution uncertainty.*
 
 <aside class="wiki-infobox"><table>
   <tr><td>Ticker</td><td>INM</td></tr>
@@ -30,7 +30,7 @@ A realistic unit-economics model for InMed: if a cannabinoid dermatological drug
 
 ## Patent Life and Market-Entry Timing
 
-InMed's IP strategy is critical to unit economics. A cannabinoid drug candidate, if it enters human trials today, will not reach market approval for 5–7 years at minimum. The patent, filed today, will expire 20 years from filing date. This leaves 13–15 years of patent-protected commercial life, a reasonable but compressed window for a specialty pharma company. InMed must achieve market adoption quickly post-approval or face generic competition within a decade.
+InMed's [IP strategy](/ipst-stock/) is critical to unit economics. A cannabinoid drug candidate, if it enters human trials today, will not reach market approval for 5–7 years at minimum. The patent, filed today, will expire 20 years from filing date. This leaves 13–15 years of patent-protected commercial life, a reasonable but compressed window for a specialty pharma company. InMed must achieve market adoption quickly post-approval or face generic competition within a decade.
 
 The urgency to advance compounds and move them to market is built into InMed's unit economics. The company cannot afford to move slowly; time costs are capital costs, and every year spent in development is a year of patent life lost. This pressure sometimes forces clinical-stage companies to take risks: accelerated timelines, suboptimal study design, or aggressive dosing strategies that increase trial risk. InMed must balance speed-to-market against trial rigor — a tension that defines its path to profitability.
 

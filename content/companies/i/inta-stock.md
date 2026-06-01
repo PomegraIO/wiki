@@ -25,7 +25,7 @@ Intapp carved its market position by building software specifically for professi
 
 ## Evolution from Discrete Products to Integrated Platform
 
-Intapp's history reflects industry consolidation and the shift toward cloud delivery. The company has grown through acquisition and organic development, combining point solutions (time tracking, financial management, resource planning) into a broader platform. This platform approach creates network effects: a large firm can standardize on a single Intapp platform rather than cobbling together best-of-breed point solutions, reducing integration headaches and simplifying vendor management.
+Intapp's history reflects industry consolidation and the shift toward cloud delivery. The company has grown through [acquisition](/acquisition/) and organic development, combining point solutions (time tracking, financial management, resource planning) into a broader platform. This platform approach creates network effects: a large firm can standardize on a single Intapp platform rather than cobbling together best-of-breed point solutions, reducing integration headaches and simplifying vendor management.
 
 The company has also migrated its customer base toward cloud-based delivery, moving away from on-premise software. Cloud delivery reduces friction for adoption (no massive IT implementation; faster time to value), improves the company's recurring revenue visibility ([SaaS](/etf/) model with [subscription](/dividend/) pricing), and creates opportunities for frequent product updates and new features without major rollouts.
 
@@ -37,7 +37,7 @@ Smaller firms and solo practitioners are typically outside Intapp's target becau
 
 ## Competitive Landscape and Moats
 
-Intapp competes against both specialized competitors (other professional-services software makers) and larger enterprise-software vendors (such as SAP, Oracle, Microsoft) that offer general platforms that can be customized for professional services. The larger vendors have distribution reach and financial resources, but they lack the specific domain expertise and pre-built workflows that Intapp offers.
+Intapp competes against both specialized competitors (other professional-services software makers) and larger enterprise-software vendors (such as SAP, [Oracle](/orcl-stock/), [Microsoft](/msft-stock/)) that offer general platforms that can be customized for professional services. The larger vendors have distribution reach and financial resources, but they lack the specific domain expertise and pre-built workflows that Intapp offers.
 
 Intapp's defensibility rests on several moats: domain expertise (the company understands the professional-services operating model deeply), switching costs (once embedded, changing vendors is expensive), and a customer base that influences product development (large customers are invested in the platform's evolution). The company is also benefiting from the general shift toward cloud and SaaS models, which favor integrated platform providers over legacy on-premise software.
 

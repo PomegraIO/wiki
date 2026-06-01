@@ -21,7 +21,7 @@ China Dongsheng International represents a late, decaying stage in the corporate
 
 ## OTC Markets and Liquidity Collapse
 
-Trading on OTC (Over-The-Counter) markets is the natural final stage for failed public companies. NASDAQ and NYSE impose listing standards—minimum [stock price](/stock/), minimum trading volume, minimum shareholders' equity. Shells and dormant companies cannot meet these standards; they migrate to OTC, where requirements are minimal and investors are primarily speculators or people stuck in legacy holdings. OTC stocks for dormant companies are characterized by: extreme illiquidity (wide bid-ask spreads), minimal trading volume, exposure to manipulation, and vanishing retail interest. The stock price reflects not fundamentals but the rarity of any trading occurring. Shareholders of such shells are often "dead money"—capital that is sunk with no realistic exit strategy.
+Trading on OTC (Over-The-Counter) markets is the natural final stage for failed public companies. [NASDAQ](/nasdaq/) and NYSE impose listing standards—minimum [stock price](/stock/), minimum trading volume, minimum shareholders' equity. Shells and dormant companies cannot meet these standards; they migrate to OTC, where requirements are minimal and investors are primarily speculators or people stuck in legacy holdings. OTC stocks for dormant companies are characterized by: extreme illiquidity (wide [bid-ask spreads](/bid-ask-spread/)), minimal trading volume, exposure to manipulation, and vanishing retail interest. The stock price reflects not fundamentals but the rarity of any trading occurring. Shareholders of such shells are often "dead money"—capital that is sunk with no realistic exit strategy.
 
 ## Minimal Disclosure and Investor Void
 
@@ -33,7 +33,7 @@ The "China Dongsheng" name suggests the company had operations or investments in
 
 ## Potential Paths: Liquidation, Reverse Merger, or Indefinite Zombiedom
 
-From a lifecycle perspective, a shell company can follow a few end-paths. First: gradual delisting and formal liquidation, where remaining assets are distributed and the company is dissolved. This is a long process; there is no economic incentive to rush it, and delisting has legal/tax complexity. Second: a reverse merger, where a private operating company merges into the shell to go public without a traditional IPO. This would revive the shell; shells with clean compliance records and established tickers are valuable to private companies seeking public status. Third: indefinite zombiedom, where the company neither liquidates nor reconstitutes, existing as a technical listing with no practical business or liquidity. This is the typical fate. Shareholders of China Dongsheng International are likely in the third scenario: holdouts waiting for either an exit event (reverse merger, dividend, or acquisition) that never comes, or formal liquidation at a distant date.
+From a lifecycle perspective, a shell company can follow a few end-paths. First: gradual delisting and formal [liquidation](/liquidation/), where remaining assets are distributed and the company is dissolved. This is a long process; there is no economic incentive to rush it, and delisting has legal/tax complexity. Second: a [reverse merger](/reverse-merger/), where a private operating company merges into the shell to go public without a traditional IPO. This would revive the shell; shells with clean compliance records and established tickers are valuable to private companies seeking public status. Third: indefinite zombiedom, where the company neither liquidates nor reconstitutes, existing as a technical listing with no practical business or liquidity. This is the typical fate. Shareholders of China Dongsheng International are likely in the third scenario: holdouts waiting for either an exit event (reverse [merger](/merger/), [dividend](/dividend/), or [acquisition](/acquisition/)) that never comes, or formal liquidation at a distant date.
 
 ## Investor Profile and Sunk-Cost Bias
 
@@ -41,11 +41,11 @@ Who owns shells like CDSG? Primarily: (a) original investors stuck in legacy hol
 
 ## Regulatory Jeopardy and Delisting Risk
 
-Shells face delisting risk from stock exchanges due to inactivity, minimum-price violations, or filing delinquencies. CDSG, trading OTC, has some insulation from formal delisting threats, but it could be moved to "pink sheets" (manually quoted stocks with minimal transparency) or dropped entirely if market conditions shift or the company stops filing. The regulatory status of a shell is always precarious; there is no constituency advocating for its preservation, only the inertia of non-enforcement.
+Shells face delisting risk from [stock exchanges](/stock-exchange/) due to inactivity, minimum-price violations, or filing delinquencies. CDSG, trading OTC, has some insulation from formal delisting threats, but it could be moved to "pink sheets" (manually quoted stocks with minimal transparency) or dropped entirely if market conditions shift or the company stops filing. The regulatory status of a shell is always precarious; there is no constituency advocating for its preservation, only the inertia of non-enforcement.
 
 ## The Embodiment of Corporate Decline
 
-China Dongsheng International is best understood as a textbook example of the decline and terminal phase of the corporate lifecycle: a company with an idea (China exposure, import-export, investment), an initial public offering, eventual operational failure or market shift, and a lingering corporate shell in the secondary markets. It is not a company heading toward recovery; it is a company that has already failed, and its persistence is an artifact of legal structures and market mechanics, not business viability.
+China Dongsheng International is best understood as a textbook example of the decline and terminal phase of the corporate lifecycle: a company with an idea (China exposure, import-export, investment), an initial public offering, eventual operational failure or market shift, and a lingering corporate shell in the [secondary markets](/secondary-market/). It is not a company heading toward recovery; it is a company that has already failed, and its persistence is an artifact of legal structures and market mechanics, not business viability.
 
 <div class="wiki-seealso">
 ### Closely related

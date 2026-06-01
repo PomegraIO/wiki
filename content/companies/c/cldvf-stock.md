@@ -17,13 +17,13 @@ keywords: ["venture capital", "Canada", "portfolio company", "technology investm
 
 ## Venture Returns and the Long View
 
-Cloud3 Ventures is a venture capital firm, meaning it pools capital and deploys it into private companies expected to grow and eventually exit (via acquisition or public market). A VC fund's returns are built on a multi-year thesis: founders execute, markets expand, valuations compound. The business of venture capital is not sensitive to quarterly GDP or near-term interest rates in the way that, say, a mortgage lender is. If a VC invested in a SaaS company in 2019, the revenue run-rate and unit economics of that business in 2024 are determined by product-market fit, customer acquisition, and operational discipline—not by whether the 2020–2023 period included a recession.
+Cloud3 Ventures is a venture capital firm, meaning it pools capital and deploys it into private companies expected to grow and eventually exit (via [acquisition](/acquisition/) or public market). A VC fund's returns are built on a multi-year thesis: founders execute, markets expand, valuations compound. The business of venture capital is not sensitive to quarterly GDP or near-term [interest rates](/interest-rate/) in the way that, say, a mortgage lender is. If a VC invested in a SaaS company in 2019, the revenue run-rate and unit economics of that business in 2024 are determined by product-market fit, customer acquisition, and operational discipline—not by whether the 2020–2023 period included a [recession](/recession/).
 
 This secular insulation is imperfect. A downturn can reduce the appetite of later-stage investors to write bigger checks, drying up funding and forcing portfolio companies into more conservative mode or closure. Yet that is a _funding cycle_ issue, not a fundamental issue with the underlying businesses. The SaaS company's intrinsic growth trajectory is unchanged; it may simply reach its destination more slowly or at lower valuation if capital is scarce.
 
 ## Canadian Tech Ecosystem and Market Positioning
 
-Cloud3 is based in Canada and invests in the Canadian and North American technology landscape. This positions the firm within a secular shift: the geographic diversification of tech investment beyond Silicon Valley, and the maturation of Canadian founders, engineering talent, and acquirer appetite. The trend toward distributed tech hubs is structural, not cyclical. A Canadian deep-tech startup or fintech platform solves real problems for real customers; if it succeeds, it succeeds because the problem was real, not because the Loonie is strong or weak.
+Cloud3 is based in Canada and invests in the Canadian and North American technology landscape. This positions the firm within a secular shift: the geographic [diversification](/diversification/) of tech investment beyond Silicon Valley, and the maturation of Canadian founders, engineering talent, and acquirer appetite. The trend toward distributed tech hubs is structural, not cyclical. A Canadian deep-tech startup or fintech platform solves real problems for real customers; if it succeeds, it succeeds because the problem was real, not because the Loonie is strong or weak.
 
 Cloud3's edge, if it exists, lies in pattern recognition and deep networks within Canadian tech—understanding which founders have the mettle to scale, which problems are durable, which markets will consolidate. These are secular insights, slowly accumulated and compounded.
 
@@ -37,7 +37,7 @@ For Cloud3 shareholders, the firm's value rests on two secular factors: (1) the 
 
 Where venture firms do experience cyclical pressure is in the availability of _exit capital_. If public equity markets contract or M&A deal flow slows, portfolio companies have fewer paths to liquidity. A VC firm that invested heavily at the peak of a cycle, or that has portfolio companies still needing acquisition or IPO, may see J-curves flatten or mark-downs cascade. Cloud3's realized returns in any given year will swing on exit timing and valuation sentiment.
 
-Yet this is a realization timing issue, not a business fundamentals issue. A portfolio company's intrinsic value—its ability to generate profit and serve its market—is unaffected by a near-term valuation contraction. The question is when and at what price Cloud3 can convert ownership into cash. That timing is cyclical; the underlying quality is secular.
+Yet this is a realization timing issue, not a business fundamentals issue. A portfolio company's [intrinsic value](/intrinsic-value/)—its ability to generate profit and serve its market—is unaffected by a near-term valuation contraction. The question is when and at what price Cloud3 can convert ownership into cash. That timing is cyclical; the underlying quality is secular.
 
 ## Distributed Model and Long-Duration Bets
 
@@ -47,7 +47,7 @@ Cloud3's return depends on whether its portfolio companies—in software, deepte
 
 ## The Secular Bet on Platform and Scaling
 
-For investors in Cloud3 Ventures, the thesis is that the firm's partners understand which companies will compound, which markets are durable, and which founding teams have the grit to navigate adversity. Those skills are independent of the business cycle. In a downturn, execution becomes harder and capital is scarcer, but the bar for success does not move; it is simply that fewer companies will cross it. Cloud3's value as an investor depends on being right more often than the market average—a secular competitive edge, not a cyclical timing bet.
+For investors in Cloud3 Ventures, the thesis is that the firm's partners understand which companies will compound, which markets are durable, and which founding teams have the grit to navigate adversity. Those skills are independent of the [business cycle](/business-cycle/). In a downturn, execution becomes harder and capital is scarcer, but the bar for success does not move; it is simply that fewer companies will cross it. Cloud3's value as an investor depends on being right more often than the market average—a secular competitive edge, not a cyclical timing bet.
 
 <div class="wiki-seealso">
 ### Closely related

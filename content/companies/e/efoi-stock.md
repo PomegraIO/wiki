@@ -4,7 +4,7 @@ description: "Energy Focus manufactures LED lighting products for marine, commer
 keywords: ["led-lighting", "energy-efficiency", "marine-lighting", "industrial-lighting", "led-technology", "sustainable-energy"]
 ---
 
-*Energy Focus manufactures LED lighting systems for ships, submarines, aircraft, and commercial buildings—markets where the company competes between two opposing forces: the slow, unstoppable march toward energy-efficient lighting across all applications, and the boom-bust cycles of maritime shipping, defense budgets, and commercial real estate.*
+*Energy Focus manufactures LED lighting systems for ships, submarines, aircraft, and commercial buildings—markets where the company competes between two opposing forces: the slow, unstoppable march toward energy-efficient lighting across all applications, and the boom-bust cycles of maritime shipping, defense budgets, and [commercial real estate](/commercial-real-estate/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EFOI</td></tr>
@@ -39,7 +39,7 @@ During strong economic years, retrofit activity can accelerate sharply as operat
 
 ## The secular cushion that prevents collapse
 
-What distinguishes Energy Focus from a pure cyclical company is the durability of the secular trend. Even in a recession, the underlying economics of LED lighting—lower operating costs, longer lifespan, better performance—remain compelling. A retrofit deferred is not a retrofit canceled; it is a retrofit postponed. As soon as cash becomes available, the retrofit gets revisited. Additionally, new construction in shipping, defense, and commercial buildings will continue to specify LED as standard, so the company's baseline revenue in new builds should remain stable regardless of retrofit cycles.
+What distinguishes Energy Focus from a pure cyclical company is the durability of the secular trend. Even in a [recession](/recession/), the underlying economics of LED lighting—lower operating costs, longer lifespan, better performance—remain compelling. A retrofit deferred is not a retrofit canceled; it is a retrofit postponed. As soon as cash becomes available, the retrofit gets revisited. Additionally, new construction in shipping, defense, and commercial buildings will continue to specify LED as standard, so the company's baseline revenue in new builds should remain stable regardless of retrofit cycles.
 
 For a cyclical business, this secular tailwind is invaluable. It ensures that the company's valley in each cycle is higher than the previous valley, even if the peak-to-trough volatility remains sharp. A maritime shipping company in a downturn might cut capex by 40% and not recover to prior levels for years; a LED-lighting supplier serving maritime might see retrofit orders drop 60%, but new-vessel installations continue at a steady baseline, so total revenue decline is 30% and recovery is faster.
 

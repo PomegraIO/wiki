@@ -4,7 +4,7 @@ description: "Vermont-chartered community bank focused on commercial lending, re
 keywords: ["community bank", "Vermont banking", "commercial lending", "local bank", "New England regional bank"]
 ---
 
-*At the far margin of U.S. retail banking sits **COMMUNITY BANCORP (CMTV)**, a Vermont-chartered institution that has chosen not to become a regional supermarket but instead to remain a hyperlocal lender embedded in the economies and social fabric of small New England towns. Unlike Berkshire Bank, which has consolidated rural Vermont into a multi-state mid-cap, or traditional mutual savings banks that operate under mutual rather than shareholder ownership, Comtech Bancorp is a small [public company](/public-company/) that lives or dies on the strength of its relationships with local contractors, family businesses, dairy farmers, and home buyers within a tight geographic radius. It is a bank that benefits profoundly from knowing its borrowers by name and their balance sheets by heart.*
+*At the far margin of U.S. retail banking sits **COMMUNITY BANCORP (CMTV)**, a Vermont-chartered institution that has chosen not to become a regional supermarket but instead to remain a hyperlocal lender embedded in the economies and social fabric of small New England towns. Unlike Berkshire Bank, which has consolidated rural Vermont into a multi-state mid-cap, or traditional mutual savings banks that operate under mutual rather than shareholder ownership, Comtech Bancorp is a small [public company](/public-company/) that lives or dies on the strength of its relationships with local contractors, family businesses, dairy farmers, and home buyers within a tight geographic radius. It is a bank that benefits profoundly from knowing its borrowers by name and their [balance sheets](/balance-sheet/) by heart.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CMTV</td></tr>
@@ -29,7 +29,7 @@ Community Bancorp funds itself primarily through retail deposits gathered from l
 
 ## Profitability and Scale Trade-Offs
 
-A community bank with ~$200–400 million in assets (Community Bancorp's approximate range) cannot amortize the compliance, technology, and corporate overhead of a billion-dollar institution. Earnings per share will be modest, and price-to-book ratios typically trade in the 0.5–1.2 range for micro-cap community banks. Larger banks spread their fixed costs across many multiples more assets, generating higher [return-on-equity](/return-on-equity/) and attracting institutional capital. Community Bancorp, by contrast, attracts local capital and patient shareholders who value stability and dividends over growth.
+A community bank with ~$200–400 million in assets (Community Bancorp's approximate range) cannot amortize the compliance, technology, and corporate overhead of a billion-dollar institution. [Earnings per share](/earnings-per-share/) will be modest, and [price-to-book ratios](/price-to-book-ratio/) typically trade in the 0.5–1.2 range for micro-cap community banks. Larger banks spread their fixed costs across many multiples more assets, generating higher [return-on-equity](/return-on-equity/) and attracting institutional capital. Community Bancorp, by contrast, attracts local capital and patient shareholders who value stability and dividends over growth.
 
 ## The Persistence of Small Banks in Modern Banking
 
@@ -45,7 +45,7 @@ Community Bancorp is a modest [dividend](/dividend/) payer, returning a fraction
 
 ## Key Research Touchpoints
 
-An investor considering Community Bancorp should review its 10-K to understand loan concentration—geographic, by borrower size, and by purpose (mortgages vs. commercial vs. agricultural). The bank's loan loss history and provision rates reveal its underwriting discipline. Regulatory filings and call reports (available on the Federal Reserve's National Information Center) provide granular data on deposits, capital, and interest-rate sensitivity. Comparing the bank's net interest margin and efficiency ratios to peer community banks reveals competitive positioning.
+An investor considering Community Bancorp should review its 10-K to understand loan concentration—geographic, by borrower size, and by purpose (mortgages vs. commercial vs. agricultural). The bank's loan loss history and provision rates reveal its underwriting discipline. Regulatory filings and call reports (available on the [Federal Reserve](/federal-reserve/)'s National Information Center) provide granular data on deposits, capital, and interest-rate sensitivity. Comparing the bank's net interest margin and efficiency ratios to peer community banks reveals competitive positioning.
 
 <div class="wiki-seealso">
 ### Closely related

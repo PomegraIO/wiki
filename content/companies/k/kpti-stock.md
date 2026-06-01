@@ -45,7 +45,7 @@ Karyopharm's scientific foundation—that manipulating nuclear export can be the
 
 ## Durability and Sector Position
 
-Karyopharm's viability as an independent company depended on selinexor's continued adoption, the success of follow-on indications and combinations, and the ability to fund a pipeline of next-generation XPO1 inhibitors. The larger pharmaceutical industry's capacity to in-license or acquire novel oncology mechanisms, combined with Karyopharm's focused portfolio and platform, created a potential acquisition scenario. Many biotech companies with a single or dual-indication drug program and a novel mechanism eventually became acquisition targets for large pharma seeking pipeline diversification.
+Karyopharm's viability as an independent company depended on selinexor's continued adoption, the success of follow-on indications and combinations, and the ability to fund a pipeline of next-generation XPO1 inhibitors. The larger pharmaceutical industry's capacity to in-license or acquire novel oncology mechanisms, combined with Karyopharm's focused portfolio and platform, created a potential [acquisition](/acquisition/) scenario. Many biotech companies with a single or dual-indication drug program and a novel mechanism eventually became acquisition targets for large pharma seeking pipeline [diversification](/diversification/).
 
 <div class="wiki-seealso">
 ### Closely related

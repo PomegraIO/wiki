@@ -29,7 +29,7 @@ For proof-of-work operations, energy cost is often the largest operational expen
 
 ## Software Development and Protocol Engagement
 
-BGIN typically does not operate in isolation. The company either develops a blockchain protocol itself, contributes to an existing open-source protocol, or both. Contributing to an open-source protocol—like Ethereum or Bitcoin—means engaging with a global community of developers, many of whom are unpaid volunteers. BGIN's engineering team must review code contributions, coordinate upgrades, and navigate consensus decisions about how the protocol evolves.
+BGIN typically does not operate in isolation. The company either develops a blockchain protocol itself, contributes to an existing open-source protocol, or both. Contributing to an open-source protocol—like [Ethereum](/ethereum/) or [Bitcoin](/bitcoin/)—means engaging with a global community of developers, many of whom are unpaid volunteers. BGIN's engineering team must review code contributions, coordinate upgrades, and navigate consensus decisions about how the protocol evolves.
 
 If BGIN maintains its own protocol, the operational challenge expands: the company must manage the release cycle (when new versions launch), test upgrades extensively to avoid introducing bugs that could lose user funds, and communicate with node operators about when and how to upgrade their systems. A bad software release can be catastrophic—a bug that breaks transaction validation can halt the entire network. BGIN's engineering operations therefore include rigorous testing, staging environments, and conservative release processes.
 
@@ -49,7 +49,7 @@ Managing this community relationship requires dedicated staff. BGIN often hires 
 
 Before deploying changes to a live blockchain, BGIN operates test networks—sometimes called testnets—where developers can experiment without risking real funds. Running a testnet is operationally similar to running the main network but with lower visibility and fewer resources. BGIN must maintain these test environments to give users and developers a place to try new features, test integrations, and verify behavior before rolling out to production.
 
-Testing is operationally extensive for blockchain. A smart contract, a financial application built on top of the protocol, must be tested thoroughly because bugs can result in permanent loss of funds. BGIN may provide testing frameworks, simulators, or analysis tools to help developers verify their code. This is a service that builds goodwill and makes the protocol more attractive to developers.
+Testing is operationally extensive for blockchain. A smart contract, a financial application built on top of the protocol, must be tested thoroughly because bugs can result in permanent loss of funds. BGIN may provide testing frameworks, simulators, or analysis tools to help developers verify their code. This is a service that builds [goodwill](/goodwill/) and makes the protocol more attractive to developers.
 
 ## Compliance and Regulatory Interface
 
@@ -61,7 +61,7 @@ Operating in multiple jurisdictions with different rules means the company must 
 
 Most blockchains involve some form of token—a digital asset that incentivizes participation. BGIN may manage the supply and distribution of tokens, operate programs to reward community participation, or handle the mechanics of staking (where users lock up tokens to participate in consensus). The operational challenge is designing and running these incentive programs fairly and sustainably.
 
-If the token supply is too generous, inflation erodes its value and undermines the incentive to participate; if too stingy, participants cannot afford to join. BGIN must monitor these dynamics and adjust parameters when needed. This is financial engineering work coupled with operational execution—the company must have the systems to process staking rewards, calculate incentives, and distribute funds fairly.
+If the token supply is too generous, [inflation](/inflation/) erodes its value and undermines the incentive to participate; if too stingy, participants cannot afford to join. BGIN must monitor these dynamics and adjust parameters when needed. This is financial engineering work coupled with operational execution—the company must have the systems to process staking rewards, calculate incentives, and distribute funds fairly.
 
 ## Monitoring, Alerting, and Incident Response
 

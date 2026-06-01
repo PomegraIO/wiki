@@ -4,7 +4,7 @@ description: "Regulated utility providing electricity and natural gas to Michiga
 keywords: [utility, regulated, electricity, natural gas, Michigan, public company, infrastructure]
 ---
 
-*Consumers Energy Co trades as **CMS-PB** on US markets and files with the SEC under [CIK 201533](/10-k/). It is a regulated electric and natural gas utility serving customers in Michigan.*
+*Consumers Energy Co trades as **CMS-PB** on US markets and files with the SEC under [CIK 201533](/10-k/). It is a regulated electric and [natural gas](/natural-gas/) utility serving customers in Michigan.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ Consumers Energy sells electricity and natural gas in volumes dictated by custom
 
 ## Why Michigan matters
 
-Michigan is the company's entire market. Population, industrial base, weather (cold winters mean heating demand), and economic conditions in Michigan directly determine earnings. A recession that cuts industrial electricity demand hurts Costamare's top line. A very cold winter helps (more heating fuel sold). The company cannot diversify geographically; it is a Michigan story, period. Investors in Consumers Energy are betting on Michigan's economic durability and population stability, not on nationwide or global trends.
+Michigan is the company's entire market. Population, industrial base, weather (cold winters mean heating demand), and economic conditions in Michigan directly determine earnings. A [recession](/recession/) that cuts industrial electricity demand hurts Costamare's top line. A very cold winter helps (more heating fuel sold). The company cannot diversify geographically; it is a Michigan story, period. Investors in Consumers Energy are betting on Michigan's economic durability and population stability, not on nationwide or global trends.
 
 ## Infrastructure investment and capital intensity
 
@@ -35,7 +35,7 @@ A gas line that leaks must be replaced. A coal plant near end-of-life must be re
 
 ## Debt and [dividend yield](/dividend-yield/)
 
-Utilities are favored by conservative investors because they pay [dividends](/dividend/) and carry debt reasonably. A utility might be 50 percent debt-financed, which is high for many industries but normal for utilities. The [dividend yield](/dividend-yield/) is often in the 3 to 4 percent range. The yield is stable because earnings are stable. Investors should check the [balance sheet](/balance-sheet/) to see the debt-to-equity ratio and understand whether the [dividend](/dividend/) is sustainable or stressed by debt service. A dividend that consumes more than 60 percent of cash flow is at risk in a downturn.
+Utilities are favored by conservative investors because they pay [dividends](/dividend/) and carry debt reasonably. A utility might be 50 percent debt-financed, which is high for many industries but normal for utilities. The [dividend yield](/dividend-yield/) is often in the 3 to 4 percent range. The yield is stable because earnings are stable. Investors should check the [balance sheet](/balance-sheet/) to see the [debt-to-equity ratio](/debt-to-equity-ratio/) and understand whether the [dividend](/dividend/) is sustainable or stressed by debt service. A dividend that consumes more than 60 percent of cash flow is at risk in a downturn.
 
 ## The energy transition challenge
 

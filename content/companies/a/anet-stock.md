@@ -1,6 +1,6 @@
 ﻿---
 title: "Arista Networks, Inc. (ANET)"
-description: "Arista Networks designs and manufactures cloud networking hardware and software, serving hyperscale data centers and large enterprises globally."
+description: "Arista Networks designs and manufactures cloud networking hardware and software, serving [hyperscale data](/gpus-stock/) centers and large enterprises globally."
 keywords:
   - cloud networking
   - data center switches

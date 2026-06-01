@@ -4,7 +4,7 @@ description: "A precious and industrial metals exploration firm whose asset valu
 keywords: [mining, commodities, exploration, cycles, metals, capital-intensive]
 ---
 
-*Precious metals and base metals exploration companies exist to extract value from the ground and sell it into global commodity markets. **MAGELLAN COPPER & GOLD Corp (MAGE)** is exposed to two simultaneous patterns: the sharp cyclical swings in copper and gold prices tied to global demand, credit cycles, and inflation expectations, and the secular structural demand for both metals driven by electrification, renewable energy infrastructure, and jewelry. Whether MAGE creates shareholder value depends critically on whether it can bring mineral reserves into production at the bottom of a commodity cycle and generate cash flow at the top, reinvesting when feasible and returning capital to shareholders when discipline allows.*
+*Precious metals and base metals exploration companies exist to extract value from the ground and sell it into global commodity markets. **MAGELLAN COPPER & GOLD Corp (MAGE)** is exposed to two simultaneous patterns: the sharp cyclical swings in copper and gold prices tied to global demand, credit cycles, and [inflation](/inflation/) expectations, and the secular structural demand for both metals driven by electrification, renewable energy infrastructure, and jewelry. Whether MAGE creates shareholder value depends critically on whether it can bring mineral reserves into production at the bottom of a commodity cycle and generate cash flow at the top, reinvesting when feasible and returning capital to shareholders when discipline allows.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MAGE</td></tr>
@@ -16,7 +16,7 @@ keywords: [mining, commodities, exploration, cycles, metals, capital-intensive]
 
 ## Commodity Prices as the Primary Cycle
 
-Copper and gold prices are set in global futures markets and respond to shifts in industrial demand, central bank policy, and investor sentiment. Copper is an industrial metal with elastic demand: when construction and manufacturing boom, copper demand spikes and prices rise sharply. When recession hits, demand collapses and prices fall 30–50% in months. Gold, conversely, is more defensive and less price-elastic; it is bought as a store of value and hedge against inflation and currency risk, so its price swings are somewhat decoupled from industrial production but closely tied to real interest rates and geopolitical stress.
+Copper and gold prices are set in global futures markets and respond to shifts in industrial demand, [central bank](/central-bank/) policy, and investor sentiment. Copper is an industrial metal with elastic demand: when construction and manufacturing boom, copper demand spikes and prices rise sharply. When [recession](/recession/) hits, demand collapses and prices fall 30–50% in months. Gold, conversely, is more defensive and less price-elastic; it is bought as a store of value and hedge against inflation and [currency risk](/currency-risk/), so its price swings are somewhat decoupled from industrial production but closely tied to [real interest rates](/real-interest-rate/) and geopolitical stress.
 
 MAGE's revenues are entirely commodity-price-dependent. A 20% decline in copper prices translates directly into a 20% decline in production revenue, all else equal. If MAGE has mines with high fixed costs (large permanent workforce, ongoing facility maintenance, debt service), that 20% revenue decline combined with inflexible costs can swing the mine from profitable to loss-making. This is extreme operational leverage.
 
@@ -24,7 +24,7 @@ The commodity cycle is not random. It is driven by observable forces: global cre
 
 ## The Mining Development Cycle
 
-MAGE, as an exploration company, operates on a different time horizon than a producing mine. Exploration firms spend years and hundreds of millions of dollars drilling, assaying, and permitting before production begins. The capital deployment happens in a multi-year arc that may begin in a bull market and conclude in a bear market (or vice versa).
+MAGE, as an exploration company, operates on a different time horizon than a producing mine. Exploration firms spend years and hundreds of millions of dollars drilling, assaying, and permitting before production begins. The capital deployment happens in a multi-year arc that may begin in a bull market and conclude in a [bear market](/bear-market/) (or vice versa).
 
 This creates a structural trap for exploration companies: they often commit capital to develop a mine during a commodity bull market when prices justify the investment. But by the time the mine reaches production, the commodity cycle has turned and prices have collapsed. The mine has been built at high cost but operates at commodity prices that no longer justify that cost structure. Conversely, a company that waits for a severe downturn to develop mines may struggle to raise capital at the trough, miss the upswing, and never recoup its investment.
 
@@ -48,7 +48,7 @@ MAGE's cost position is a structural characteristic determined by where its mine
 
 ## Capital Allocation in Cycles
 
-The metallurgical test for MAGE's management is capital discipline. In commodity bull markets, the temptation to over-invest is extreme: rising cash flow, rising stock prices, and investor enthusiasm for the sector all push toward expansive capex. The best mining companies instead increase distributions and pay down debt, building financial flexibility. In downturns, they can then invest opportunistically in exploration and low-cost expansions.
+The metallurgical test for MAGE's management is capital discipline. In commodity [bull markets](/bull-market/), the temptation to over-invest is extreme: rising cash flow, rising stock prices, and investor enthusiasm for the sector all push toward expansive capex. The best mining companies instead increase distributions and pay down debt, building financial flexibility. In downturns, they can then invest opportunistically in exploration and low-cost expansions.
 
 Poor capital allocation can destroy value: over-investing in marginally economic projects, expanding debt during booms and facing refinancing stress in downturns, or failing to reinvest in exploration and facing reserve depletion as mines age.
 

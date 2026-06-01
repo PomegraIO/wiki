@@ -55,7 +55,7 @@ This regulatory moat is substantial. A new competitor cannot simply copy Integra
 
 Integra sells directly to hospitals and surgical centers through a sales force organized by specialty. Sales representatives visit operating room managers, speak with surgeons about new products, and ensure that products are appropriately stocked and used.
 
-Some products are also distributed through [stock](/stock/) large healthcare distributors (e.g., Cardinal Health, Medline) that act as intermediaries, buying from Integra at wholesale prices and selling to smaller hospitals and surgical practices. Distributor relationships are important for reaching smaller customers but create margin compression—Integra receives a lower price per unit when selling to distributors.
+Some products are also distributed through [stock](/stock/) large healthcare distributors (e.g., [Cardinal Health](/cah-stock/), Medline) that act as intermediaries, buying from Integra at wholesale prices and selling to smaller hospitals and surgical practices. Distributor relationships are important for reaching smaller customers but create margin compression—Integra receives a lower price per unit when selling to distributors.
 
 In recent years, hospital systems have consolidated, and large integrated delivery networks have consolidated their purchasing power, demanding volume discounts. This consolidation shifts some pricing power from device manufacturers to hospital systems, pressuring margins for mid-sized players like Integra.
 
@@ -69,11 +69,11 @@ Outside the U.S., reimbursement systems vary widely. European health systems oft
 
 ## Scale and Consolidation in Medical Devices
 
-Integra is mid-sized relative to giant medical device conglomerates (Johnson & Johnson, Medtronic, Stryker), but large relative to specialized one-product companies. This mid-cap position has both advantages and risks.
+Integra is mid-sized relative to giant medical device conglomerates ([Johnson & Johnson](/jnj-stock/), Medtronic, Stryker), but large relative to specialized one-product companies. This mid-cap position has both advantages and risks.
 
 The advantage is focus: Integra can concentrate expertise and R&D investment in specific surgical specialties without being diluted by hundreds of other product lines. The risk is exposure to competitive pressure from larger competitors that have greater resources and can bundle devices into buying agreements (e.g., "we'll give you a discount on orthopedic devices if you use only our neurosurgery instruments").
 
-Consolidation in the medical device industry continues; acquisitions allow Integra to add new product lines, access new customer segments, and achieve manufacturing efficiencies. However, integrations are difficult—each acquired company has different systems, cultures, and customer relationships—and post-merger realization often falls short of expectations.
+Consolidation in the medical device industry continues; [acquisitions](/acquisition/) allow Integra to add new product lines, access new customer segments, and achieve manufacturing efficiencies. However, integrations are difficult—each acquired company has different systems, cultures, and customer relationships—and post-merger realization often falls short of expectations.
 
 ## Research and Development and Product Cycles
 

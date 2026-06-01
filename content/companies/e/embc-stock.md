@@ -25,7 +25,7 @@ Embecta operates in a heavily regulated market. Its devices require FDA clearanc
 
 ## Market Concentration and Distributor Dependency
 
-Embecta distributes diabetes devices through major medical-device wholesalers (Cardinal Health, McKesson, others) and directly to hospitals and clinics. Concentration among a small number of large distributors creates pricing and contractual risk: a major distributor demanding lower prices or threatening to feature a competitor's products can materially impact Embecta's revenue. The company's [10-K](/10-k/) should disclose the percentage of revenue attributable to major customers and distributors, as well as the terms of any exclusive or non-exclusive distribution agreements. Investors assessing Embecta should understand whether the company has pricing power with distributors or whether it is a price-taker in a consolidated distribution landscape.
+Embecta distributes diabetes devices through major medical-device wholesalers ([Cardinal Health](/cah-stock/), McKesson, others) and directly to hospitals and clinics. Concentration among a small number of large distributors creates pricing and contractual risk: a major distributor demanding lower prices or threatening to feature a competitor's products can materially impact Embecta's revenue. The company's [10-K](/10-k/) should disclose the percentage of revenue attributable to major customers and distributors, as well as the terms of any exclusive or non-exclusive distribution agreements. Investors assessing Embecta should understand whether the company has pricing power with distributors or whether it is a price-taker in a consolidated distribution landscape.
 
 ## Competitive Positioning in a Device-Dense Sector
 
@@ -33,7 +33,7 @@ Embecta competes against other medical-device manufacturers serving diabetes: Me
 
 ## Spinoff Independence and Operational Integration
 
-Embecta was spun off from a larger parent company to operate as a standalone public firm. The spinoff created a focused business but also separated Embecta from the parent's scale in procurement, manufacturing, distribution, and corporate infrastructure. Spinoffs face near-term risks: the company must stand up independent corporate functions (IT, HR, finance, compliance), negotiate new supplier and service agreements, and prove it can operate efficiently at smaller scale than the parent achieved. The [10-K](/10-k/) should disclose the completion status of separation activities, any transition services Embecta receives from the parent, and identified risks from the split. Investors should evaluate whether Embecta has achieved sufficient operational independence and scale to compete effectively without parent support.
+Embecta was spun off from a larger parent company to operate as a standalone public firm. The spinoff created a focused business but also separated Embecta from the parent's scale in procurement, manufacturing, distribution, and corporate infrastructure. [Spinoffs](/spinoff/) face near-term risks: the company must stand up independent corporate functions (IT, HR, finance, compliance), negotiate new supplier and service agreements, and prove it can operate efficiently at smaller scale than the parent achieved. The [10-K](/10-k/) should disclose the completion status of separation activities, any transition services Embecta receives from the parent, and identified risks from the split. Investors should evaluate whether Embecta has achieved sufficient operational independence and scale to compete effectively without parent support.
 
 ## Manufacturing Footprint and Supply-Chain Resilience
 
@@ -45,7 +45,7 @@ Embecta serves diabetes patients across developed and emerging markets; geograph
 
 ## Free Cash Flow and Capital Allocation
 
-As a medical-device company with recurring consumables revenue, Embecta should generate positive free cash flow once separated from the parent and operating efficiently. Investors should examine [free-cash-flow](/free-cash-flow/) trends, capital expenditure requirements, and management's capital-allocation priorities (debt reduction, dividends, share buybacks, acquisitions). The [income-statement](/income-statement/) and [cash-flow statement](/cash-flow-statement/) in the [10-K](/10-k/) reveal whether Embecta's profitability translates into cash returns to shareholders or reinvestment in growth.
+As a medical-device company with recurring consumables revenue, Embecta should generate positive free cash flow once separated from the parent and operating efficiently. Investors should examine [free-cash-flow](/free-cash-flow/) trends, capital expenditure requirements, and management's capital-allocation priorities (debt reduction, [dividends](/dividend/), [share buybacks](/share-buyback/), [acquisitions](/acquisition/)). The [income-statement](/income-statement/) and [cash-flow statement](/cash-flow-statement/) in the [10-K](/10-k/) reveal whether Embecta's profitability translates into cash returns to shareholders or reinvestment in growth.
 
 <div class="wiki-seealso">
 ### Closely related

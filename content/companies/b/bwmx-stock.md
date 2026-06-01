@@ -21,7 +21,7 @@ Betterware's primary competitive moat stems from its established consultant base
 
 ## Product Range and Household Penetration
 
-The company sells kitchen, bathroom, storage, and home-organization products—categories where repeated repurchase and gift-giving drive recurring revenue. By establishing deep household penetration in Mexico (a market of over 130 million people with relatively limited e-commerce infrastructure in rural and semi-urban areas), Betterware creates both lock-in and inertia. Consultants with established customer rosters generate repeat sales with lower acquisition costs than cold outreach. This density of penetration is difficult to disrupt: a competitor must simultaneously recruit consultants *and* convince households to switch allegiance to new products, an expensive and slow process.
+The company sells kitchen, bathroom, storage, and home-organization products—categories where repeated repurchase and gift-giving drive recurring revenue. By establishing deep household penetration in Mexico (a market of over 130 million people with relatively limited e-commerce infrastructure in rural and semi-urban areas), Betterware creates both lock-in and inertia. Consultants with established customer rosters generate repeat sales with lower [acquisition](/acquisition/) costs than cold outreach. This density of penetration is difficult to disrupt: a competitor must simultaneously recruit consultants *and* convince households to switch allegiance to new products, an expensive and slow process.
 
 ## Geographic and Economic Moat
 
@@ -29,7 +29,7 @@ Mexico's retail landscape—characterized by fragmented, decentralized consumer 
 
 ## Consultant Economics and Churn Risk
 
-The company's moat is not absolute. Consultant churn is inherent to direct-sales models: agents leave for better opportunities or stability. If Betterware's commission structure or product quality deteriorates, the consultant base erodes quickly, and with it, the moat. Additionally, larger retailers (Walmart, Amazon) and regional competitors with capital are gradually improving last-mile delivery even to remote Mexican towns. The moat is real but under erosion pressure. As payment infrastructure improves and e-commerce penetration deepens in Mexico, the advantage of physical consultant networks may narrow. Betterware's defensibility depends partly on factors outside its control—the pace of retail disruption in Mexico—and partly on its execution, specifically how well it evolves product range and consultant economics to retain agents even as alternatives emerge.
+The company's moat is not absolute. Consultant churn is inherent to direct-sales models: agents leave for better opportunities or stability. If Betterware's commission structure or product quality deteriorates, the consultant base erodes quickly, and with it, the moat. Additionally, larger retailers ([Walmart](/wmt-stock/), Amazon) and regional competitors with capital are gradually improving last-mile delivery even to remote Mexican towns. The moat is real but under erosion pressure. As payment infrastructure improves and e-commerce penetration deepens in Mexico, the advantage of physical consultant networks may narrow. Betterware's defensibility depends partly on factors outside its control—the pace of retail disruption in Mexico—and partly on its execution, specifically how well it evolves product range and consultant economics to retain agents even as alternatives emerge.
 
 ## Scaling and Product Positioning
 

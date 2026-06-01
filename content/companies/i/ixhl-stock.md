@@ -19,7 +19,7 @@ keywords: ["cannabis", "pharmaceuticals", "clinical trials", "drug development",
 
 Incannex sits at a critical juncture in cannabis therapeutics. Rather than cultivating raw material or dispensing finished products, the company occupies the intermediate layer where botanical inputs become standardized pharmaceutical candidates. This positioning—input agnostic about supply sources, focused entirely on molecular characterization and clinical validation—gives it structural independence from fluctuating cultivation markets while tethering it to the pace of regulatory approval cycles.
 
-The company's core economic function is translating raw plant compounds into doseable, reproducible formulations backed by clinical evidence. This requires investment in analytical chemistry, patient trial infrastructure, and regulatory navigation. Incannex maintains intellectual property portfolios around specific cannabinoid combinations and delivery mechanisms, effectively licensing or partnering these formulations downstream to pharmaceutical manufacturers or healthcare systems capable of navigating territorial rules around cannabis products.
+The company's core economic function is translating raw plant compounds into doseable, reproducible formulations backed by clinical evidence. This requires investment in analytical chemistry, patient trial infrastructure, and regulatory navigation. Incannex maintains intellectual property portfolios around specific cannabinoid combinations and [delivery mechanisms](/delivery-mechanisms/), effectively licensing or partnering these formulations downstream to pharmaceutical manufacturers or healthcare systems capable of navigating territorial rules around cannabis products.
 
 ## Clinical Trial Positioning and Regulatory Moats
 

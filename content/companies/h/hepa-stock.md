@@ -23,9 +23,9 @@ Hepion's therapeutic opportunity lies not in displacing these standard treatment
 
 ## The Competitive Landscape in Hepatitis Research
 
-The hepatitis field attracts substantial investment from larger pharmaceutical companies (Gilead, Novartis, Roche) and numerous smaller biotech firms. Gilead's hepatitis C franchise, while less commercially important post-cure, demonstrates the company's capacity to dominate once a therapeutic breakthrough reaches scale. Hepatitis B has proven more intractable; no single cure has yet reached widespread approval, but dozens of compounds are in development.
+The hepatitis field attracts substantial investment from larger pharmaceutical companies (Gilead, [Novartis](/nvs-stock/), Roche) and numerous smaller biotech firms. Gilead's hepatitis C franchise, while less commercially important post-cure, demonstrates the company's capacity to dominate once a therapeutic breakthrough reaches scale. Hepatitis B has proven more intractable; no single cure has yet reached widespread approval, but dozens of compounds are in development.
 
-Hepion's position is that of a mid-stage competitor with some intellectual property and clinical data, competing for investor attention and financing against better-capitalized rivals. The company must achieve clinical proof-of-concept sufficiently compelling to attract partnership deals or acquisition interest from larger firms, or to secure funding for full late-stage development on its own—a costly and uncertain path.
+Hepion's position is that of a mid-stage competitor with some intellectual property and clinical data, competing for investor attention and financing against better-capitalized rivals. The company must achieve clinical proof-of-concept sufficiently compelling to attract partnership deals or [acquisition](/acquisition/) interest from larger firms, or to secure funding for full late-stage development on its own—a costly and uncertain path.
 
 ## Clinical Development and Regulatory Pathways
 
@@ -37,7 +37,7 @@ The timeline from phase 2 proof-of-concept to approval typically spans 5–8 yea
 
 As a clinical-stage biopharmaceutical with no product revenue, Hepion depends on equity raises, grants, and non-dilutive partnerships to fund operations. The company's research and development budget supports scientists, chemistry teams, regulatory affairs, and clinical trial management. These costs are fixed and substantial, making Hepion's burn rate a critical metric for assessing financial runway.
 
-The company trades on NASDAQ, providing access to public capital markets, but also subjecting the stock to biotech sector volatility. Negative clinical trial results, regulatory setbacks, or shifts in investor appetite for hepatitis research all ripple through the stock price and affect Hepion's ability to raise additional capital at favorable terms. This dynamic can create a vicious cycle: disappointing trial results lower the stock price, increasing dilution from subsequent equity raises, and eroding shareholder value.
+The company trades on [NASDAQ](/nasdaq/), providing access to public capital markets, but also subjecting the stock to biotech sector volatility. Negative clinical trial results, regulatory setbacks, or shifts in investor appetite for hepatitis research all ripple through the stock price and affect Hepion's ability to raise additional capital at favorable terms. This dynamic can create a vicious cycle: disappointing trial results lower the stock price, increasing dilution from subsequent equity raises, and eroding shareholder value.
 
 ## Intellectual Property and Technology Specificity
 

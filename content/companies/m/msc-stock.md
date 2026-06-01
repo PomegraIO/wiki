@@ -35,7 +35,7 @@ Macau's government has demonstrated willingness to reshape the gaming landscape 
 
 ## Capital Requirements and Funding Structure
 
-Resort and casino operations require sustained [capital investment](/enterprise-value/) to maintain and upgrade properties. Studio City must regularly fund renovation, technology upgrades, and competitive amenity additions. Funding for growth or major capital projects typically comes from operating cash flow, debt financing, or equity raises. The capital intensity of the business means the company's [balance sheet](/balance-sheet/) structure—particularly its debt levels and cash generation—directly affects its flexibility and strategic options.
+Resort and casino operations require sustained [capital investment](/enterprise-value/) to maintain and upgrade properties. Studio City must regularly fund renovation, technology upgrades, and competitive amenity additions. Funding for growth or major capital projects typically comes from operating cash flow, [debt financing](/debt-financing/), or equity raises. The capital intensity of the business means the company's [balance sheet](/balance-sheet/) structure—particularly its debt levels and cash generation—directly affects its flexibility and strategic options.
 
 Gaming properties can generate strong [free cash flow](/free-cash-flow/) when occupancy and utilization are high, as incremental customers in an existing venue incur lower marginal costs. However, downturns in visitation can rapidly compress cash generation, creating leverage concerns for companies carrying significant debt. The cyclical nature of gaming venues means capital structure must account for demand volatility.
 
@@ -49,11 +49,11 @@ Studio City's revenue comes primarily from gaming activity, complemented by room
 
 Macau's gaming market is cyclical, tracking economic conditions in China, regional tourism patterns, and international travel. Demand for gaming vacations expands during economic growth and contracts during downturns. The geographic concentration of Studio City's business in Macau creates exposure to both macro economic cycles and sector-specific gaming demand shifts.
 
-Competitive dynamics within Macau depend on concession holder actions and new property developments. Larger regional gaming operators may have more capital resources or geographic diversification. Studio City must compete on property amenities, customer service, brand positioning, and player loyalty programs within the constraints of regulatory licenses and geographic positioning.
+Competitive dynamics within Macau depend on concession holder actions and new property developments. Larger regional gaming operators may have more capital resources or geographic [diversification](/diversification/). Studio City must compete on property amenities, customer service, brand positioning, and player loyalty programs within the constraints of regulatory licenses and geographic positioning.
 
 ## Investment Research Directions
 
-Investors evaluating Studio City should examine its [10-K](/10-k/) filings for detailed operating metrics: property occupancy rates, gaming revenue per available room, [return on assets](/return-on-equity/), debt levels, and cash flow statements. The company's regulatory filings with the SEC (using CIK 1713334) provide audited financial statements and management discussion of risks. Regional tourism trends, Macau regulatory developments, and competitive venue additions should inform understanding of forward demand. The company's history of capital allocation and dividend or buyback policy reflects management's confidence in sustainability.
+Investors evaluating Studio City should examine its [10-K](/10-k/) filings for detailed operating metrics: property occupancy rates, gaming revenue per available room, [return on assets](/return-on-equity/), debt levels, and [cash flow statements](/cash-flow-statement/). The company's regulatory filings with the SEC (using CIK 1713334) provide audited financial statements and management discussion of risks. Regional tourism trends, Macau regulatory developments, and competitive venue additions should inform understanding of forward demand. The company's history of capital allocation and dividend or buyback policy reflects management's confidence in sustainability.
 
 <div class="wiki-seealso">
 

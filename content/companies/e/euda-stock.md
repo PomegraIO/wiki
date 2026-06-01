@@ -4,7 +4,7 @@ description: "Healthcare holding company providing telemedicine and digital heal
 keywords: ["telemedicine", "digital health", "healthcare IT", "Southeast Asia", "medical services", "health technology", "virtual care"]
 ---
 
-*Incorporated in the Cayman Islands and trading over-the-counter under the ticker **EUDA**, **EUDA Health Holdings Ltd** is a healthcare services company delivering telemedicine, virtual consultations, and digital health solutions to patients and providers across Southeast Asia. The company's SEC reporting profile reflects a technology-enabled healthcare model positioned between traditional clinic networks and purely digital-native competitors.*
+*Incorporated in the Cayman Islands and trading over-the-counter under the ticker **EUDA**, **EUDA Health Holdings Ltd** is a [healthcare services](/hcsg-stock/) company delivering telemedicine, virtual consultations, and digital health solutions to patients and providers across Southeast Asia. The company's SEC reporting profile reflects a technology-enabled healthcare model positioned between traditional clinic networks and purely digital-native competitors.*
 
 <aside class="wiki-infobox"><table>
 <tbody>
@@ -35,7 +35,7 @@ Telemedicine in Southeast Asia operates in a fragmented regulatory environment. 
 
 ## Scale and Growth Levers
 
-EUDA's growth depends on several reinforcing mechanisms. More doctors on the platform attract more patients; more patients attract more doctors. Technology improvements—faster scheduling, better integration with provider systems, AI-assisted triage—reduce friction and support higher transaction volumes. Partnerships with employers, insurers, and health systems expand the addressable market beyond direct-to-consumer consultations. International expansion to new countries increases the total patient and provider population the platform can serve. However, expansion is capital-intensive; each new country requires local licensing, regulatory clearance, provider recruitment, and marketing. The company's [balance sheet](/balance-sheet/) and cash-flow statements reveal whether it is funding growth through cash generation or equity financing; growth funded entirely by share dilution eventually exhausts investor patience.
+EUDA's growth depends on several reinforcing mechanisms. More doctors on the platform attract more patients; more patients attract more doctors. Technology improvements—faster scheduling, better integration with provider systems, AI-assisted triage—reduce friction and support higher transaction volumes. Partnerships with employers, insurers, and health systems expand the addressable market beyond direct-to-consumer consultations. International expansion to new countries increases the total patient and provider population the platform can serve. However, expansion is capital-intensive; each new country requires local licensing, regulatory clearance, provider recruitment, and marketing. The company's [balance sheet](/balance-sheet/) and cash-flow statements reveal whether it is funding growth through cash generation or [equity financing](/equity-financing/); growth funded entirely by [share dilution](/share-dilution/) eventually exhausts investor patience.
 
 ## Technology Infrastructure and Data
 
@@ -43,5 +43,5 @@ EUDA's core asset is its software platform—the interface through which patient
 
 ## Growth Stage and Capital Requirements
 
-EUDA, as an OTC-listed company with limited reporting visibility, likely operates in an earlier stage than mature telemedicine unicorns. Early-stage digital-health companies typically lose money as they invest in platform development, provider recruitment, and customer acquisition. The company's path to profitability requires reaching sufficient scale that transaction volume covers fixed costs. The filing history (available via CIK 1847846 on the SEC EDGAR system) shows whether EUDA is narrowing losses, approaching breakeven, or accelerating losses despite growth. Equity funding and [share buyback](/share-buyback/) history provide clues about management's conviction in the business and shareholder dilution trends.
+EUDA, as an OTC-listed company with limited reporting visibility, likely operates in an earlier stage than mature telemedicine unicorns. Early-stage digital-health companies typically lose money as they invest in platform development, provider recruitment, and customer [acquisition](/acquisition/). The company's path to profitability requires reaching sufficient scale that transaction volume covers fixed costs. The filing history (available via CIK 1847846 on the SEC EDGAR system) shows whether EUDA is narrowing losses, approaching breakeven, or accelerating losses despite growth. Equity funding and [share buyback](/share-buyback/) history provide clues about management's conviction in the business and shareholder dilution trends.
 

@@ -4,7 +4,7 @@ description: "A late-stage biotech company with focused pipeline in oncology and
 keywords: ["biotech", "oncology", "pharmaceuticals", "cancer", "clinical stage", "drug development", "CIK 1211583"]
 ---
 
-*FENNEC PHARMACEUTICALS INC. (FENC) represents a company in the critical late-stage lifecycle phase: having advanced lead candidates through clinical development toward [initial-public-offering](/initial-public-offering/) or acquisition, the firm is now managing a narrow portfolio, demonstrating clinical efficacy and safety, and attempting to secure regulatory approval and market access before cash reserves or investor patience becomes exhausted. This lifecycle stage is defined by high stakes and binary outcomes.*
+*FENNEC PHARMACEUTICALS INC. (FENC) represents a company in the critical late-stage lifecycle phase: having advanced lead candidates through clinical development toward [initial-public-offering](/initial-public-offering/) or [acquisition](/acquisition/), the firm is now managing a narrow portfolio, demonstrating clinical efficacy and safety, and attempting to secure regulatory approval and market access before cash reserves or investor patience becomes exhausted. This lifecycle stage is defined by high stakes and binary outcomes.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FENC</td></tr>
@@ -35,9 +35,9 @@ FENNEC's lifecycle stage includes this challenge explicitly. If the company has 
 
 ## Capital Burn and Runway
 
-A late-stage biotech company burning cash on clinical trials, regulatory submissions, and early commercialization faces persistent pressure on its balance sheet. FENNEC's cash runway — the number of quarters it can operate at current burn rate given available cash and credit facilities — is a critical metric for investors. If the company has 18–24 months of runway and a lead program with FDA approval expected in 12–15 months, the timeline is tight but potentially manageable. If a program faces delays or setbacks, the company may need to raise capital via secondary offerings (diluting shareholders) or debt (increasing financial leverage and interest burden).
+A late-stage biotech company burning cash on clinical trials, regulatory submissions, and early commercialization faces persistent pressure on its balance sheet. FENNEC's cash runway — the number of quarters it can operate at current burn rate given available cash and credit facilities — is a critical metric for investors. If the company has 18–24 months of runway and a lead program with FDA approval expected in 12–15 months, the timeline is tight but potentially manageable. If a program faces delays or setbacks, the company may need to raise capital via [secondary offerings](/secondary-offering/) (diluting shareholders) or debt (increasing financial leverage and interest burden).
 
-The [balance-sheet](/balance-sheet/) of a late-stage biotech typically shows cash as the largest asset and accumulated deficit as a massive liability (negative retained earnings) reflecting years of R&D losses. The sustainability of the balance sheet depends on upcoming revenue from approved drugs or success in raising capital. If FENNEC cannot demonstrate clear progress toward profitability within the next 12–24 months, investor confidence will erode and capital raises will occur at lower valuations, crushing shareholder returns.
+The [balance-sheet](/balance-sheet/) of a late-stage biotech typically shows cash as the largest asset and accumulated deficit as a massive liability (negative [retained earnings](/retained-earnings/)) reflecting years of R&D losses. The sustainability of the balance sheet depends on upcoming revenue from approved drugs or success in raising capital. If FENNEC cannot demonstrate clear progress toward profitability within the next 12–24 months, investor confidence will erode and capital raises will occur at lower valuations, crushing shareholder returns.
 
 ## Intellectual Property and Patent Cliffs
 

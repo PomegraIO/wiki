@@ -31,7 +31,7 @@ However, translating that pitch into customer contracts required clearing severa
 
 Like most robotics and capital-equipment companies, Charging Robotics carried high R&D spending and significant manufacturing overhead. The company needed to invest in new robots, in service infrastructure (technicians, spare parts depots), and in customer success teams before the revenue base was large enough to fund those operations internally. This created a classic growth-stage dynamic: burn capital now, bet that scale would come, hope that customers would renew service contracts and upgrade systems.
 
-The financial structure of these businesses often depends on customer acquisition cost relative to lifetime value. A warehouse customer acquired for one installation might operate the robots for five, eight, or ten years, providing annuity-like service revenue. But if customer acquisition took longer than expected, or if churn was high, the math would deteriorate. Charging Robotics' progress was therefore sensitive to how quickly it could move from proof-of-concept pilots to broad rollouts.
+The financial structure of these businesses often depends on customer [acquisition](/acquisition/) cost relative to lifetime value. A warehouse customer acquired for one installation might operate the robots for five, eight, or ten years, providing annuity-like service revenue. But if customer acquisition took longer than expected, or if churn was high, the math would deteriorate. Charging Robotics' progress was therefore sensitive to how quickly it could move from proof-of-concept pilots to broad rollouts.
 
 ## Competitive Positioning and Market Maturation
 

@@ -23,15 +23,15 @@ This structure is fundamentally different from a traditional airline or aviation
 
 ## Traffic Dependency and Macroeconomic Exposure
 
-The company's own filings emphasize repeatedly that airport passenger volumes are correlated with regional economic health and airline network decisions. During recessions, business and leisure travel decline sharply, reducing both passenger volumes and ancillary revenue (retail, restaurants). During booms, traffic rises and the company benefits from fixed or near-fixed concession costs.
+The company's own filings emphasize repeatedly that airport passenger volumes are correlated with regional economic health and airline network decisions. During [recessions](/recession/), business and leisure travel decline sharply, reducing both passenger volumes and ancillary revenue (retail, restaurants). During booms, traffic rises and the company benefits from fixed or near-fixed concession costs.
 
 Moreover, airline consolidation and route rationalization can quickly reduce traffic at a given airport. The filings note that Corporación América's airports compete with other regional hubs; if a major carrier shifts capacity to a competitor airport or exits a market, the company's traffic and revenue decline. The company has limited ability to retain airline routes if broader market conditions favor alternatives.
 
 ## Peso Exposure and Dollar Debt
 
-A persistent tension disclosed in Corporación América's filings is currency mismatch. The company earns revenue in Argentine pesos and other Latin American currencies, but carries substantial debt in US dollars. During periods of currency depreciation—common in Argentina—the peso value of dollar-denominated debt rises relative to peso-denominated revenues, compressing margins and potentially creating debt-service stress.
+A persistent tension disclosed in Corporación América's filings is currency mismatch. The company earns revenue in Argentine pesos and other Latin American currencies, but carries substantial debt in [US dollars](/us-dollar/). During periods of currency [depreciation](/depreciation/)—common in Argentina—the peso value of dollar-denominated debt rises relative to peso-denominated revenues, compressing margins and potentially creating debt-service stress.
 
-The company's filings note that Argentina specifically has experienced multiple currency devaluations and periods of inflation that have eroded the real value of peso revenues. When the peso weakens, the company's dollar debt becomes more expensive to service in local currency terms. The company can raise peso-denominated fees to offset inflation, but concession contracts often limit its flexibility, and raising fares too aggressively can depress traffic further.
+The company's filings note that Argentina specifically has experienced multiple currency devaluations and periods of [inflation](/inflation/) that have eroded the real value of peso revenues. When the peso weakens, the company's dollar debt becomes more expensive to service in local currency terms. The company can raise peso-denominated fees to offset inflation, but concession contracts often limit its flexibility, and raising fares too aggressively can depress traffic further.
 
 ## Concession Renewal and Renegotiation Risk
 
@@ -49,7 +49,7 @@ This operating-leverage dynamic means that Corporación América's earnings are 
 
 The filings note that airports require ongoing capital investment—terminal renovations, new facilities, security upgrades—to remain competitive and meet safety standards. Concession contracts often obligate the operator to maintain and upgrade facilities; the company's capital expenditure budget is consequently substantial and not fully discretionary.
 
-The company funds these investments through operating cash flow and debt. Filings indicate that Corporación América typically carries debt in the range of 3–4x annual EBITDA, reflecting a capital-intensive business model with stable, predictable cash flows (ideal for debt financing). However, this leverage also means that any significant traffic or revenue decline quickly becomes a debt-service concern.
+The company funds these investments through operating cash flow and debt. Filings indicate that Corporación América typically carries debt in the range of 3–4x annual [EBITDA](/ebitda/), reflecting a capital-intensive business model with stable, predictable cash flows (ideal for [debt financing](/debt-financing/)). However, this leverage also means that any significant traffic or revenue decline quickly becomes a debt-service concern.
 
 ## Geographic Concentration and Political Risk
 

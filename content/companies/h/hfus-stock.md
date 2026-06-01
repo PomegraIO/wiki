@@ -61,7 +61,7 @@ Any expansion beyond the Northeast requires either establishing satellite facili
 
 The business is sensitive to corporate-spending cycles. In a downturn, businesses cut marketing spending, which includes promotional items and printed collateral. The company has high fixed costs (equipment, facilities, core staff) that don't scale down quickly in a downturn, so profitability is cyclical.
 
-The company also faces risk from substrate and material inflation. Paper and ink prices fluctuate with commodities. If input costs spike, the company may struggle to pass those increases through to customers, especially if customers are price-sensitive.
+The company also faces risk from substrate and material [inflation](/inflation/). Paper and ink prices fluctuate with commodities. If input costs spike, the company may struggle to pass those increases through to customers, especially if customers are price-sensitive.
 
 Competition from lower-cost offshore printing (especially for orders large enough to justify shipping) is a persistent threat. And the secular decline of print, though slowed by short-run customization, is not reversed—the company must innovate into adjacent services to ensure long-term relevance.
 

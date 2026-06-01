@@ -15,7 +15,7 @@ keywords: ["industrial manufacturing", "microcap", "OTC markets", "manufacturing
 
 ## The Micro-Cap Public Shell
 
-JANEL CORP exists in the margins of the capital markets. It maintains public company status, files periodic reports with the [SEC](/securities-and-exchange-commission/), and trades on the OTC markets—a venue populated by companies too small, too obscure, or too troubled to list on NASDAQ or the New York Stock Exchange. OTC trading means minimal liquidity, wide bid-ask spreads, and a shareholder base often comprised of retail speculators, insiders, and long-term forgotten shareholders. The public company infrastructure—regulatory compliance, audited financial statements, SEC [10-K](/10-k/) filings—creates a veneer of legitimacy, but the OTC markets are also where many dormant shells, speculative plays, and zombie companies trade.
+JANEL CORP exists in the margins of the capital markets. It maintains public company status, files periodic reports with the [SEC](/securities-and-exchange-commission/), and trades on the OTC markets—a venue populated by companies too small, too obscure, or too troubled to list on [NASDAQ](/nasdaq/) or the [New York Stock Exchange](/new-york-stock-exchange/). OTC trading means minimal liquidity, wide [bid-ask spreads](/bid-ask-spread/), and a shareholder base often comprised of retail speculators, insiders, and long-term forgotten shareholders. The public company infrastructure—regulatory compliance, audited financial statements, SEC [10-K](/10-k/) filings—creates a veneer of legitimacy, but the OTC markets are also where many dormant shells, speculative plays, and zombie companies trade.
 
 For JANEL, the continued public status likely reflects either management's desire to maintain capital markets access or the historical accident of prior public ownership, where existing shareholders have no economic incentive to delist a shell that costs little to maintain.
 
@@ -31,7 +31,7 @@ One tangible benefit of public company status is the ability to raise capital by
 
 ## Regulatory Obligations and Reporting Quality
 
-As an SEC filer, JANEL submits annual [10-K](/10-k/) reports, quarterly 10-Qs, and proxy statements. These documents provide the most reliable window into company operations and management compensation. However, the quality of disclosure is often poor for microcap companies: minimal segment reporting, vague descriptions of business, and sparse financial detail. Auditors for microcap companies are often small regional firms with limited capacity to enforce accounting standards or challenge management assertions.
+As an SEC filer, JANEL submits annual [10-K](/10-k/) reports, quarterly 10-Qs, and proxy statements. These documents provide the most reliable window into company operations and management compensation. However, the quality of disclosure is often poor for microcap companies: minimal [segment reporting](/segment-reporting/), vague descriptions of business, and sparse financial detail. Auditors for microcap companies are often small regional firms with limited capacity to enforce accounting standards or challenge management assertions.
 
 ## Liquidity and Trading Dynamics
 
@@ -39,7 +39,7 @@ Trading volume in JANEL stock is likely minimal, meaning a shareholder wishing t
 
 ## Competitive Position and Business Viability
 
-Without concrete information about JANEL's products, customers, and competitive advantages, assessing business viability is speculative. However, the company's microcap status, opaque disclosure, and OTC listing status suggest limited competitive moat or strategic clarity. Manufacturing businesses at JANEL's apparent scale are often subject to intense competition on price, vulnerable to input cost inflation and supplier concentration, and dependent on a small number of customers whose loss could be catastrophic.
+Without concrete information about JANEL's products, customers, and competitive advantages, assessing business viability is speculative. However, the company's microcap status, opaque disclosure, and OTC listing status suggest limited competitive moat or strategic clarity. Manufacturing businesses at JANEL's apparent scale are often subject to intense competition on price, vulnerable to input cost [inflation](/inflation/) and supplier concentration, and dependent on a small number of customers whose loss could be catastrophic.
 
 ## Strategic Purpose and Shareholder Value
 
@@ -47,7 +47,7 @@ The primary rational for holding JANEL stock is speculative: belief that a priva
 
 ## Probability of Viability
 
-JANEL's most probable trajectory is either indefinite dormancy (if it is indeed a shell), slow decline if its industrial operations are uncompetitive, or acquisition by a larger company or private investor seeking to consolidate manufacturing assets. The company's persistence as a public entity likely reflects inertia and insider control, not a coherent strategy to create shareholder value in the open market.
+JANEL's most probable trajectory is either indefinite dormancy (if it is indeed a shell), slow decline if its industrial operations are uncompetitive, or [acquisition](/acquisition/) by a larger company or private investor seeking to consolidate manufacturing assets. The company's persistence as a public entity likely reflects inertia and insider control, not a coherent strategy to create shareholder value in the open market.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -10,7 +10,7 @@ keywords:
   - CIK 1454144
 ---
 
-*Eregli Demir ve Celik Fabrikalari TAS (ticker **ERELY**) is an integrated steel manufacturer headquartered in Turkey, operating production facilities in Eregli on the Black Sea coast. The company controls the full steelmaking chain—from iron ore and scrap input through blast furnaces and electric arc furnaces (EAF) to hot and cold rolling mills—yielding flat products (coil, plate, sheet) and long products (bar, rod, structural shapes) distributed across Turkey, the European Union, and neighboring markets.*
+*Eregli Demir ve Celik Fabrikalari TAS (ticker **ERELY**) is an integrated steel manufacturer headquartered in Turkey, operating production facilities in Eregli on the Black Sea coast. The company controls the full steelmaking chain—from [iron ore](/iron-ore/) and scrap input through blast furnaces and electric arc furnaces (EAF) to hot and cold rolling mills—yielding flat products (coil, plate, sheet) and long products (bar, rod, structural shapes) distributed across Turkey, the European Union, and neighboring markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ERELY</td></tr>
@@ -63,5 +63,5 @@ Eregli's competitive standing depends on keeping this integrated system running 
 ### Wider context
 - [Stock](/stock/)
 - [Stock exchange](/stock-exchange/)
-- Securities and exchange commission
+- [Securities and exchange commission](/securities-and-exchange-commission/)
 </div>

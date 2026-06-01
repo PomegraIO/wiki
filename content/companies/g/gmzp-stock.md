@@ -30,13 +30,13 @@ The company must also carry enough working capital inventory to satisfy customer
 
 Beyond sourcing, GEMZ likely operates modest processing facilities — washing, magnetic separation, density-based grading, or particle-size classification — that move a raw shipment closer to customer spec. This processing is not proprietary; similar equipment exists worldwide at other trading houses and in-house at larger end-users. The advantage is local: GEMZ can process faster or at lower cost than a customer can arrange on short notice, justifying the markup. If the customer can reliably source processed material elsewhere, GEMZ's processing facility becomes redundant.
 
-The per-ton economics of processing are thin. A facility that processes 50 tons per day at $5 per ton of value-add generates $250/day gross margin — before labor, utilities, maintenance, and equipment depreciation. The company needs high throughput and low downtime to amortize fixed facility costs. Idle capacity is pure loss.
+The per-ton economics of processing are thin. A facility that processes 50 tons per day at $5 per ton of value-add generates $250/day gross margin — before labor, utilities, maintenance, and equipment [depreciation](/depreciation/). The company needs high throughput and low downtime to amortize fixed facility costs. Idle capacity is pure loss.
 
 ## Customer Mix and Demand Volatility
 
-GEMZ's revenues depend on demand from downstream industries: jewelry and gemstone cutting, industrial minerals use (concrete, ceramics, abrasives), specialized electronics applications, and construction. Jewelry demand moves with consumer discretionary spending; industrial minerals track construction cycles and manufacturing output. These are not independent; a broad economic slowdown can shrink multiple end-markets simultaneously.
+GEMZ's revenues depend on demand from downstream industries: jewelry and gemstone cutting, industrial minerals use (concrete, ceramics, abrasives), specialized electronics applications, and construction. Jewelry demand moves with consumer [discretionary spending](/discretionary-spending/); industrial minerals track construction cycles and manufacturing output. These are not independent; a broad economic slowdown can shrink multiple end-markets simultaneously.
 
-Large customers enjoy leverage — they can request volume discounts or threaten to buy elsewhere, compressing GEMZ's margin further. Smaller customers are scattered and offer limited volume but less negotiating power. The company's customer concentration risk is real: loss of a top-three account can immediately degrade overall profitability.
+Large customers enjoy leverage — they can request volume discounts or threaten to buy elsewhere, compressing GEMZ's margin further. Smaller customers are scattered and offer limited volume but less negotiating power. The company's customer [concentration risk](/concentration-risk/) is real: loss of a top-three account can immediately degrade overall profitability.
 
 ## Currency and Geographic Complexity
 

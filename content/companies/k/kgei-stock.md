@@ -4,7 +4,7 @@ description: "Kolibri Global Energy Inc. is an international oil and gas company
 keywords: ["oil and gas", "energy", "exploration", "production", "international operations"]
 ---
 
-*Oil and gas extraction is inherently geographic and capital-intensive: find hydrocarbons in the ground, build infrastructure to extract and transport them, and sell the product at global commodity prices. **Kolibri Global Energy Inc.** (ticker **KGEI**, CIK 1477081) is an international oil and gas exploration and production company, with operations in multiple jurisdictions, focused on discovering and developing crude oil and natural gas reserves.*
+*Oil and gas extraction is inherently geographic and capital-intensive: find hydrocarbons in the ground, build infrastructure to extract and transport them, and sell the product at global commodity prices. **Kolibri Global Energy Inc.** (ticker **KGEI**, CIK 1477081) is an international oil and gas exploration and production company, with operations in multiple jurisdictions, focused on discovering and developing [crude oil](/crude-oil/) and [natural gas](/natural-gas/) reserves.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KGEI</td></tr>
@@ -44,13 +44,13 @@ This is why E&P companies must continuously explore and develop: they are on a t
 
 ## Commodity Price Exposure
 
-Kolibri has no control over the price of oil or natural gas. These are global commodities, traded on exchanges (crude oil on NYMEX, Henry Hub natural gas, Brent crude on ICE). A well producing 1,000 barrels of oil per day generates revenue of $70,000 per day at $70/barrel; at $50/barrel, revenue drops to $50,000 per day. Operating costs remain roughly fixed, so operating margin is highly sensitive to commodity prices.
+Kolibri has no control over the price of oil or natural gas. These are global commodities, traded on exchanges (crude oil on NYMEX, [Henry Hub](/henry-hub/) natural gas, [Brent crude](/brent-crude/) on ICE). A well producing 1,000 barrels of oil per day generates revenue of $70,000 per day at $70/barrel; at $50/barrel, revenue drops to $50,000 per day. Operating costs remain roughly fixed, so [operating margin](/operating-margin/) is highly sensitive to commodity prices.
 
 In high-price environments (above $80/barrel for crude), marginal wells are profitable, exploration budgets expand, and companies can justify expensive development projects. In low-price environments, marginal wells shut in (stopped), exploration budgets are slashed, and expensive development projects are deferred. This cyclicality creates boom-and-bust patterns in the industry. Kolibri's financial performance, capital expenditure, and shareholder returns all track global oil and gas prices—forces the company cannot control.
 
 ## Operational Footprint and Geographic Risk
 
-Kolibri's operations are spread across multiple countries, which provides geographic diversification (if production is down in one country due to political disruption or maintenance, other countries can offset). However, international operations also introduce complexity and risk. Each jurisdiction has different regulatory requirements, tax rates, labor laws, and political stability. Kolibri must maintain legal and tax expertise in each jurisdiction and monitor political risk. A country in political turmoil might suddenly expropriate assets or cancel agreements, leaving the company with a loss.
+Kolibri's operations are spread across multiple countries, which provides geographic [diversification](/diversification/) (if production is down in one country due to political disruption or maintenance, other countries can offset). However, international operations also introduce complexity and risk. Each jurisdiction has different regulatory requirements, tax rates, labor laws, and political stability. Kolibri must maintain legal and tax expertise in each jurisdiction and monitor political risk. A country in political turmoil might suddenly expropriate assets or cancel agreements, leaving the company with a loss.
 
 The company's ability to operate internationally also depends on geopolitical relations. Sanctions, trade restrictions, or international disputes can prevent the company from exporting product or receiving payment. Kolibri's operations in any particular region must be evaluated not just on geology and economics but on political risk.
 

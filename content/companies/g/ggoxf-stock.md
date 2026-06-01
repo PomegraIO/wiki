@@ -4,7 +4,7 @@ description: "Galleon Gold Corp. is a mineral-exploration company pursuing preci
 keywords: [gold-mining, exploration, feasibility-study, development-stage, capital-raise, production-ready]
 ---
 
-*Galleon Gold trades under the ticker **GGOXF** on U.S. over-the-counter markets. The company's [10-K](/10-k/) and 10-Q filings position it as a development-stage precious-metals explorer that has advanced selected properties beyond initial exploration into engineering and permitting phases, with the strategic goal of transitioning to production or securing offtake partners.*
+*Galleon Gold trades under the ticker **GGOXF** on U.S. [over-the-counter markets](/over-the-counter-market/). The company's [10-K](/10-k/) and 10-Q filings position it as a development-stage precious-metals explorer that has advanced selected properties beyond initial exploration into engineering and permitting phases, with the strategic goal of transitioning to production or securing offtake partners.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GGOXF</td></tr>

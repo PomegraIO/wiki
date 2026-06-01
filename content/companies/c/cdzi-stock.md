@@ -36,7 +36,7 @@ The company discloses its basins' classification status and any local groundwate
 
 Cadiz's filings describe the infrastructure required to develop and operate water supplies: wells, pumping stations, treatment facilities, and pipelines or conveyance systems. The company discloses capital expenditures undertaken or planned to develop new wells, maintain existing infrastructure, or optimize delivery systems. These disclosures reveal the capital intensity of the business—whether the company can expand supplies with minimal additional investment or whether substantial capex is required to unlock new groundwater or improve delivery systems.
 
-The company's balance sheet, detailed in [10-k](/10-k/) filings, shows property and equipment balances and depreciation schedules, signaling the age and condition of infrastructure and the magnitude of reinvestment required to maintain the asset base.
+The company's [balance sheet](/balance-sheet/), detailed in [10-k](/10-k/) filings, shows property and equipment balances and [depreciation](/depreciation/) schedules, signaling the age and condition of infrastructure and the magnitude of reinvestment required to maintain the asset base.
 
 ## Agricultural Operations and Diversification
 

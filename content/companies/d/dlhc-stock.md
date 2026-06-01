@@ -21,7 +21,7 @@ Government contracts are typically fixed-term, ranging from one to five years. W
 
 ## Government Budget Uncertainty and Appropriations Risk
 
-DLH's largest customer is ultimately the federal government, which operates on an annual appropriations process. If Congress delays appropriations, reduces agency budgets, or reprioitizes spending away from DLH's service areas, the company's pipeline of new contract opportunities shrinks. Additionally, government shutdowns (though temporary) can disrupt contract performance, delay payments, and create operational uncertainty. A change in administration can lead to policy shifts that de-prioritize certain programs (cybersecurity, logistics, health services) that DLH supports. These political risks are largely beyond the company's control but directly affect revenue growth and profitability.
+DLH's largest customer is ultimately the federal government, which operates on an annual appropriations process. If Congress delays appropriations, reduces agency budgets, or reprioitizes spending away from DLH's service areas, the company's pipeline of new contract opportunities shrinks. Additionally, [government shutdowns](/government-shutdown/) (though temporary) can disrupt contract performance, delay payments, and create operational uncertainty. A change in administration can lead to policy shifts that de-prioritize certain programs (cybersecurity, logistics, health services) that DLH supports. These political risks are largely beyond the company's control but directly affect revenue growth and profitability.
 
 ## Competitive Bidding and Margin Pressure
 
@@ -45,11 +45,11 @@ Government contractors must comply with extensive regulations: Federal Acquisiti
 
 ## Integration and Acquisition Risk
 
-DLH may grow through acquisitions of smaller contractors or consulting firms. Such integrations are risky: the acquired company's contracts may not survive under new ownership, customers may leave, and cultural integration can be difficult. Additionally, acquired firms often carry hidden liabilities (underpriced contracts, accounting errors, compliance issues) that surface post-close. A poorly executed acquisition can destroy shareholder value and distract management.
+DLH may grow through [acquisitions](/acquisition/) of smaller contractors or consulting firms. Such integrations are risky: the acquired company's contracts may not survive under new ownership, customers may leave, and cultural integration can be difficult. Additionally, acquired firms often carry hidden liabilities (underpriced contracts, accounting errors, compliance issues) that surface post-close. A poorly executed acquisition can destroy shareholder value and distract management.
 
 ## Limited Scale and Competitive Disadvantage
 
-Compared to mega-contractors like Booz Allen Hamilton or Northrop Grumman, DLH is small. This limits the company's ability to pursue large, complex, multi-year programs that require resources and financial backing. The company is also less likely to benefit from economies of scale in back-office functions (HR, finance, compliance), forcing it to absorb higher overhead costs as a percentage of revenue. This structural disadvantage means DLH must compete on specialization or agility, not scale.
+Compared to mega-contractors like [Booz Allen Hamilton](/bah-stock/) or Northrop Grumman, DLH is small. This limits the company's ability to pursue large, complex, multi-year programs that require resources and financial backing. The company is also less likely to benefit from economies of scale in back-office functions (HR, finance, compliance), forcing it to absorb higher overhead costs as a percentage of revenue. This structural disadvantage means DLH must compete on specialization or agility, not scale.
 
 ## A Clear-Eyed View
 

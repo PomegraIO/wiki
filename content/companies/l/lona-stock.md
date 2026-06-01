@@ -4,7 +4,7 @@ description: "Clinical-stage biopharmaceutical company pursuing regenerative med
 keywords: ["biopharmaceutical", "cell therapy", "regenerative medicine", "clinical trials", "rare disease"]
 ---
 
-*LeonaBio is a biopharmaceutical company developing cell and regenerative therapies, with unit economics that invert the operating margins of mature pharma—the company burns capital today in the hope of eventual regulatory approval and commercialization.*
+*LeonaBio is a biopharmaceutical company developing cell and regenerative therapies, with unit economics that invert the [operating margins](/operating-margin/) of mature pharma—the company burns capital today in the hope of eventual regulatory approval and commercialization.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>LONA</td></tr>
@@ -23,7 +23,7 @@ Every dollar LeonaBio spends advances a pipeline program toward regulatory decis
 
 ## Probability-weighted pipeline value
 
-From the market's perspective, LeonaBio's value is the sum of probability-weighted future revenues from each program in its pipeline multiplied by expected gross margins, minus the present value of future development spending. A program with an estimated 20% approval probability, expected 2025 approval, projected $200 million annual peak revenue, and expected gross margin of 70% is theoretically worth roughly $200 million × 70% × 20% = $28 million in present value, before discounting and before accounting for competition or pricing pressure. This calculation is speculative; the actual math is more complex and sensitive to discount rates. But the principle holds: early-stage biotech companies trade on the *option value* of future approval rather than near-term earnings.
+From the market's perspective, LeonaBio's value is the sum of probability-weighted future revenues from each program in its pipeline multiplied by expected gross margins, minus the present value of future development spending. A program with an estimated 20% approval probability, expected 2025 approval, projected $200 million annual peak revenue, and expected gross margin of 70% is theoretically worth roughly $200 million × 70% × 20% = $28 million in present value, before discounting and before accounting for competition or pricing pressure. This calculation is speculative; the actual math is more complex and sensitive to [discount rates](/discount-rate/). But the principle holds: early-stage biotech companies trade on the *option value* of future approval rather than near-term earnings.
 
 This creates unit economics that confound traditional analysts. A company can be worth less next quarter if it discloses a failed trial, even though it might eventually succeed in the same program. The stock price reflects sequential updating of approval probability.
 
@@ -47,7 +47,7 @@ For rare diseases, payers (government health systems and insurers) often show wi
 
 ## Capital efficiency and runway
 
-LeonaBio's quarterly spending rate and available cash define its runway—how many months of operations the balance sheet can sustain. A company spending $3 million per quarter with $40 million cash has approximately 13 quarters of runway (roughly 3 years). That runway must encompass all planned clinical trials plus regulatory interactions. If a program is delayed, or if a trial enrollment misses targets and takes longer than expected, runway contracts. This creates intense pressure on LeonaBio to reach near-term milestones (trial data readouts, regulatory meetings) or raise capital. Capital raises dilute shareholders, reducing the book value and ownership percentage of early investors. The unit economics of biotech thus include the hidden cost of dilution: each milestone not hit on time forces capital raises that destroy pre-dilution shareholder value.
+LeonaBio's quarterly spending rate and available cash define its runway—how many months of operations the [balance sheet](/balance-sheet/) can sustain. A company spending $3 million per quarter with $40 million cash has approximately 13 quarters of runway (roughly 3 years). That runway must encompass all planned clinical trials plus regulatory interactions. If a program is delayed, or if a trial enrollment misses targets and takes longer than expected, runway contracts. This creates intense pressure on LeonaBio to reach near-term milestones (trial data readouts, regulatory meetings) or raise capital. Capital raises dilute shareholders, reducing the book value and ownership percentage of early investors. The unit economics of biotech thus include the hidden cost of dilution: each milestone not hit on time forces capital raises that destroy pre-dilution shareholder value.
 
 <div class="wiki-seealso">
 ### Closely related

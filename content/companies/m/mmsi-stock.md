@@ -4,7 +4,7 @@ description: "Medical device manufacturer specializing in diagnostic and interve
 keywords: ["medical devices", "diagnostic equipment", "interventional radiology", "healthcare technology", "disposable medical products"]
 ---
 
-*The medical device industry fragments along a spectrum of scale and specialization. Mega-firms like Medtronic and Johnson & Johnson operate across multiple therapeutic domains with global distribution and deep capital reserves. Specialized mid-market manufacturers focus on specific procedures, anatomical sites, or customer types—carving out niches where scale economies are less important than clinical performance and deep expertise. **MERIT MEDICAL SYSTEMS INC (MMSI)** competes as a focused manufacturer in diagnostic and interventional medical devices, primarily serving interventional radiologists, cardiologists, and surgeons in developed healthcare markets.*
+*The medical device industry fragments along a spectrum of scale and specialization. Mega-firms like Medtronic and [Johnson & Johnson](/jnj-stock/) operate across multiple therapeutic domains with global distribution and deep capital reserves. Specialized mid-market manufacturers focus on specific procedures, anatomical sites, or customer types—carving out niches where scale economies are less important than clinical performance and deep expertise. **MERIT MEDICAL SYSTEMS INC (MMSI)** competes as a focused manufacturer in diagnostic and interventional medical devices, primarily serving interventional radiologists, cardiologists, and surgeons in developed healthcare markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MMSI</td></tr>
@@ -71,7 +71,7 @@ Headwinds include:
 
 **Reimbursement pressure**: Healthcare payers increasingly demand lower device costs; hospitals pass that pressure to manufacturers.
 
-**Competition from larger firms**: Medtronic, Boston Scientific, and others have larger R&D budgets and deeper customer relationships. They can outspend MMSI on innovation and marketing.
+**Competition from larger firms**: Medtronic, [Boston Scientific](/bsx-stock/), and others have larger R&D budgets and deeper customer relationships. They can outspend MMSI on innovation and marketing.
 
 **Commoditization**: As devices mature, they become commoditized; margins compress, and price becomes the primary competitive lever.
 
@@ -96,7 +96,7 @@ The 10-K discloses product categories, geographic revenue, customer concentratio
 
 ### Wider context
 
-- [mmi-stock](/mmi-stock/) — commercial real estate brokerage; asset-light, fee-based model
+- [mmi-stock](/mmi-stock/) — [commercial real estate](/commercial-real-estate/) brokerage; asset-light, fee-based model
 - [mmlp-stock](/mmlp-stock/) — midstream energy; capital-intensive, stable contract revenue
 - [mms-stock](/mms-stock/) — government services; contract-driven, low-innovation model
 

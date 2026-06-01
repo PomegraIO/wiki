@@ -49,7 +49,7 @@ GRAIL operates as a service lab, not a product company. Patients do not buy Gall
 
 The unit economics are critical. Each blood test costs GRAIL money to perform—sequencing reagents, labor, servers to run the models. The company reports costs per test in the range of $500–$1,000. Insurance reimbursement rates vary but center around $1,500–$2,500. The margin is positive but not large. Scale matters: to reach profitability, GRAIL must test hundreds of thousands of patients annually, perhaps millions.
 
-Competition is entering the space. Foundation Medicine, Guardant Health, and others have launched competing liquid-biopsy tests. Some focus on cancer monitoring after diagnosis; others chase screening. GRAIL's advantage is breadth—Galleri is built to detect many cancer types in one test—and the Illumina relationship, which provides sequencing technology and manufacturing.
+Competition is entering the space. Foundation Medicine, [Guardant Health](/gh-stock/), and others have launched competing liquid-biopsy tests. Some focus on cancer monitoring after diagnosis; others chase screening. GRAIL's advantage is breadth—Galleri is built to detect many cancer types in one test—and the Illumina relationship, which provides sequencing technology and manufacturing.
 
 ## The Path From Illumina Acquisition to Public Independence
 

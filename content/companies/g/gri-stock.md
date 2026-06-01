@@ -20,15 +20,15 @@ Begin with the **"Business" or "Description of Business"** section, which should
 - **Program name and indication** (e.g., "GRI-001 for rheumatoid arthritis").
 - **Current stage**: Preclinical (lab and animal studies), IND-enabling (leading to FDA Investigational New Drug application), Phase 1 (safety in healthy volunteers), Phase 2 (efficacy signals in patient cohorts), etc.
 - **Mechanism of action**: Does GRI focus on a clear therapeutic principle (e.g., kinase inhibition, gene therapy, monoclonal antibodies)?
-- **Intellectual property**: Patents filed, patents granted, patent expiration dates, and freedom-to-operate risks.
+- **Intellectual property**: Patents filed, patents granted, patent [expiration dates](/expiration-contracts/), and freedom-to-operate risks.
 
 A company with five preclinical programs and zero IND applications is pre-clinical-stage and 5+ years from any revenue. A company with one Phase 2 program is 3–4 years from potential approval (and no guarantee). The stage determines valuation floor and cash-burn profile.
 
 ## Capital and cash runway
 
-Biotech burn rates are typically $3M–$15M per year depending on pipeline breadth and trial size. The 10-K balance sheet shows:
+Biotech burn rates are typically $3M–$15M per year depending on pipeline breadth and trial size. The 10-K [balance sheet](/balance-sheet/) shows:
 - **Cash and cash equivalents**: The fuel tank.
-- **Operating expenses** from the income statement or cash-flow statement, broken down (R&D, general and administrative). R&D expenses should be the plurality for a pre-revenue biotech; if G&A is disproportionate, management overhead may be bloated.
+- **Operating expenses** from the [income statement](/income-statement/) or cash-flow statement, broken down (R&D, general and administrative). R&D expenses should be the plurality for a pre-revenue biotech; if G&A is disproportionate, management overhead may be bloated.
 
 Calculate **months of runway**: (Cash + short-term investments) ÷ (monthly burn rate). If GRI has $25M cash and $2M/month burn, that is 12–13 months of runway. The company will need to raise capital, partner for funding, or reach a funding milestone (e.g., successful Phase 2 topline) to extend operations.
 

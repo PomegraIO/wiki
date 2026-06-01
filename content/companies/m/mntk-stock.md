@@ -41,7 +41,7 @@ From an operational perspective, equipment reliability is existential. A compres
 
 ## The Competitive Footprint
 
-Montauk operates in a consolidating space where a handful of larger firms (and some private companies) own the majority of developed landfill-gas sites in North America. The company's competitive position depends on securing rights to high-gas-yield sites before competitors do, maintaining operational cost advantages through scale, and locking in long-term gas-sale or power-purchase agreements with creditworthy buyers. Sites are unique assets; once a competitor establishes extraction at a landfill, Montauk cannot simply build an alternative facility nearby. This makes site acquisition and development velocity critical operational metrics.
+Montauk operates in a consolidating space where a handful of larger firms (and some private companies) own the majority of developed landfill-gas sites in North America. The company's competitive position depends on securing rights to high-gas-yield sites before competitors do, maintaining operational cost advantages through scale, and locking in long-term gas-sale or power-purchase agreements with creditworthy buyers. Sites are unique assets; once a competitor establishes extraction at a landfill, Montauk cannot simply build an alternative facility nearby. This makes site [acquisition](/acquisition/) and development velocity critical operational metrics.
 
 Additionally, Montauk competes with conventional energy producers and other renewable sources for buyer commitments, and it operates in the shadow of natural gas commodity prices, which determine whether RNG can command a meaningful premium and whether the company's capital investments earn acceptable returns.
 

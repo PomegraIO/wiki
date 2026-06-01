@@ -22,11 +22,11 @@ keywords:
 
 ## What You're Actually Looking At
 
-Conduent is a classic BPO play with a heavy tilt toward insurance and government work. If you're digging into the 10-K, the first thing to grasp is that this is a fee-for-service business where the company doesn't own inventory or product—it owns processes and client relationships. Revenue arrives as customers pay for claims adjudication, correspondence handling, and back-office automation. The unit economics matter immensely: labor cost as a percentage of revenue, automation ROI, and contract renewal rates. When you read the income statement, you're really asking whether the company is becoming more efficient per dollar of revenue or whether wage inflation is squeezing margins.
+Conduent is a classic BPO play with a heavy tilt toward insurance and government work. If you're digging into the 10-K, the first thing to grasp is that this is a fee-for-service business where the company doesn't own inventory or product—it owns processes and client relationships. Revenue arrives as customers pay for claims adjudication, correspondence handling, and back-office automation. The unit economics matter immensely: labor cost as a percentage of revenue, automation ROI, and contract renewal rates. When you read the [income statement](/income-statement/), you're really asking whether the company is becoming more efficient per dollar of revenue or whether wage [inflation](/inflation/) is squeezing margins.
 
 ## The Contract Portfolio as Your Road Map
 
-In the 10-K, you'll find detailed segment reporting by customer. This is crucial. A handful of large clients (often insurance carriers or state agencies) typically account for a substantial portion of revenue, which means concentration risk is real. Look for:
+In the 10-K, you'll find detailed [segment reporting](/segment-reporting/) by customer. This is crucial. A handful of large clients (often insurance carriers or state agencies) typically account for a substantial portion of revenue, which means [concentration risk](/concentration-risk/) is real. Look for:
 
 - **Top customer exposure**: What percentage of revenue comes from the top three or five clients? If one contract renews at lower margins or terminates, how does that cascade? The 10-K will disclose this in the risk factors and segment tables.
 - **Contract terms and renewal dates**: Multi-year contracts reduce turnover risk, but they also lock in pricing—and if cost inflation outpaces contract escalators, margins erode. Scan the notes to contracts and backlog commentary.
@@ -48,9 +48,9 @@ These dynamics live in the management commentary and the operating expense break
 
 Conduent typically operates with moderate [free-cash-flow](/free-cash-flow/) generation. As you review:
 
-- **Operating cash flow vs. net income**: If earnings are rising but cash flow is flat or falling, something's off—maybe working capital tied up in customer receivables, or deferred revenue being earned more slowly than booked. The cash flow statement (Form 10-K part II) will show this.
-- **Debt structure**: BPO firms often carry meaningful debt to fund operations and fund customer wins. What's the leverage ratio? Are debt covenants constraining growth investments?
-- **Dividend and buyback**: Is the company returning cash to shareholders, or reinvesting in technology and integration?
+- **Operating cash flow vs. net income**: If earnings are rising but cash flow is flat or falling, something's off—maybe working capital tied up in customer receivables, or deferred revenue being earned more slowly than booked. The [cash flow statement](/cash-flow-statement/) (Form 10-K part II) will show this.
+- **Debt structure**: BPO firms often carry meaningful debt to fund operations and fund customer wins. What's the [leverage ratio](/leverage-ratio-forex/)? Are debt covenants constraining growth investments?
+- **[Dividend](/dividend/) and buyback**: Is the company returning cash to shareholders, or reinvesting in technology and integration?
 
 ## Customer Concentration and Sector Risk
 
@@ -66,7 +66,7 @@ The 10-K risk factors section will itemize these dependencies. You're not trying
 1. **Item 1 (Business)**: Skim this for segment breakdown and customer concentration disclosure.
 2. **Item 1A (Risk Factors)**: Read carefully. What does management worry about?
 3. **Item 7 (MD&A / Management's Discussion and Analysis)**: This is where officers explain year-over-year changes in revenue and operating margins. Look for candid commentary on contract wins, losses, and cost pressures.
-4. **Consolidated Statements of Operations**: Compare gross profit margin and operating margin across three years. Is the trend your friend or your enemy?
+4. **[Consolidated Statements](/consolidated-statements/) of Operations**: Compare [gross profit margin](/gross-profit-margin/) and operating margin across three years. Is the trend your friend or your enemy?
 5. **Segment reporting**: If available, which service lines are growing? Which are mature or declining?
 
 The goal is to understand whether Conduent is gaining or losing negotiating power, whether its cost base is under control, and whether the customer base is stable or fragile.

@@ -34,7 +34,7 @@ Matinas's competitive position depends on whether its formulations offer a meani
 
 Matinas's focus on rare and orphan indications is tactically sound within the constraints of a small biotech. The U.S. orphan-drug framework provides regulatory incentives—accelerated review, extended market exclusivity, tax credits—that can offset the small patient population. A drug for a 10,000-patient indication in the U.S. might earn lower absolute revenue than a blockbuster serving millions, but the regulatory advantages and focused competition can yield attractive margins.
 
-However, this positioning also limits total addressable market. If Matinas's candidates succeed, the company will never serve millions of patients. The company's valuation and exit potential depend on whether the market prices orphan drugs appropriately, whether larger pharmaceutical firms see acquisition value in a niche portfolio, or whether Matinas can build a sustainable business on multiple orphan programs rather than relying on a single blockbuster.
+However, this positioning also limits total addressable market. If Matinas's candidates succeed, the company will never serve millions of patients. The company's valuation and exit potential depend on whether the market prices orphan drugs appropriately, whether larger pharmaceutical firms see [acquisition](/acquisition/) value in a niche portfolio, or whether Matinas can build a sustainable business on multiple orphan programs rather than relying on a single blockbuster.
 
 ## Clinical Development and Regulatory Risk
 

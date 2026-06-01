@@ -45,7 +45,7 @@ Courts have grown skeptical of patent assertion against small targets—the stra
 
 IPST's revenue is lumpy. A single licensing deal or settlement can represent 20–30% of annual revenue. That creates year-to-year unpredictability and makes financial modeling difficult.
 
-Accounting is also opaque. How does IPST value a patent or portfolio in its balance sheet? Patents are intangible assets, often carried at cost of acquisition. If IPST buys a patent portfolio for $5 million and never licenses it, the balance sheet still shows an asset worth $5 million—but that asset might be worthless. Impairment charges (write-downs) are necessary when a portfolio's value declines, but identifying impairment requires judgment.
+Accounting is also opaque. How does IPST value a patent or portfolio in its balance sheet? Patents are [intangible assets](/intangible-assets/), often carried at cost of acquisition. If IPST buys a patent portfolio for $5 million and never licenses it, the balance sheet still shows an asset worth $5 million—but that asset might be worthless. Impairment charges (write-downs) are necessary when a portfolio's value declines, but identifying impairment requires judgment.
 
 Also important: where does IPST's cash actually come from? Are revenues primarily from licensing (recurring and more predictable) or litigation settlement (one-off and lumpy)? If litigation, the company's durability depends on winning new cases.
 
@@ -65,7 +65,7 @@ Revenue breakdown: What portion comes from licensing versus litigation settlemen
 
 Customer concentration: How many customers does IPST have, and what fraction of revenue do the top five represent?
 
-Patent portfolio value: What does the balance sheet show for "intangible assets"? Has the company taken impairments recently? A rising asset value is suspicious without corresponding acquisitions.
+Patent portfolio value: What does the balance sheet show for "intangible assets"? Has the company taken impairments recently? A rising asset value is suspicious without corresponding [acquisitions](/acquisition/).
 
 Litigation activity: How many cases is IPST defending or asserting? What are the likely outcomes? Pending judgments are often disclosed.
 

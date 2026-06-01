@@ -16,7 +16,7 @@ keywords: ["shipping", "dry bulk", "ocean freight", "charter rates", "capital in
 
 ## The Ship as Unit of Production
 
-Genco owns and operates a fleet of dry bulk vessels — Panamax, Supramax, and smaller multipurpose ships that carry non-containerized cargoes: grain, coal, ore, fertilizer, and other commodities. Each vessel is an independent profit center. Revenue is the daily charter rate × days employed in a year. Cost is fixed (crew wages, insurance, regulatory compliance, depreciation) plus variable (fuel, port fees, maintenance, repairs). The difference is vessel-level EBITDA.
+Genco owns and operates a fleet of dry bulk vessels — Panamax, Supramax, and smaller multipurpose ships that carry non-containerized cargoes: grain, coal, ore, fertilizer, and other commodities. Each vessel is an independent profit center. Revenue is the daily charter rate × days employed in a year. Cost is fixed (crew wages, insurance, regulatory compliance, [depreciation](/depreciation/)) plus variable (fuel, port fees, maintenance, repairs). The difference is vessel-level [EBITDA](/ebitda/).
 
 Charter rates fluctuate daily based on global commodity shipping supply and demand. When many shippers need to move bulk cargo and vessel supply is tight, rates spike — a Panamax might charter for $40,000–$50,000 per day or higher. When shipping demand is weak and the fleet is oversupplied, rates collapse to $6,000–$12,000 per day. At the latter rates, many vessels lose money operationally (daily cost exceeds revenue); owners must lay up ships or accept operating losses.
 
@@ -26,7 +26,7 @@ A single vessel's profitability is therefore volatile and cyclical. Genco's stra
 
 Genco's operating leverage depends critically on utilization. A vessel earning 350 days per year at $20,000 per day generates $7 million in gross revenue. Subtract operating cost of roughly $6,000–$8,000 per day, and the ship earns $4–$4.9 million gross margin. If the same ship is idle 100 days (earning zero), the annual margin drops sharply. Idle days carry fixed cost (crew still paid, insurance still due) with no offsetting revenue.
 
-This creates intense pressure to keep ships moving. Genco must maintain a sales and operations team that markets vessels to brokers and charterers, negotiates terms, and ensures cargo scheduling. In a down market, this team struggles to fill vessels; the company is then forced to lay up ships or operate at low rates to preserve utilization. Laying up ships saves operating cost but signals distress and can damage relationships with charterers. Operating at low rates destroys margin. Either choice is painful.
+This creates intense pressure to keep ships moving. Genco must maintain a sales and operations team that markets vessels to [brokers](/broker/) and charterers, negotiates terms, and ensures cargo scheduling. In a down market, this team struggles to fill vessels; the company is then forced to lay up ships or operate at low rates to preserve utilization. Laying up ships saves operating cost but signals distress and can damage relationships with charterers. Operating at low rates destroys margin. Either choice is painful.
 
 ## The Operating Cost Budget
 
@@ -38,9 +38,9 @@ Fuel is the largest variable cost. A Panamax burns roughly 60 tons of fuel per d
 
 Ships age and need replacement. A Panamax vessel has a typical economic life of 25–30 years, after which operating cost balloons, residual value plummets, and the ship is sold for scrap. To maintain a stable fleet, Genco must acquire new ships regularly. Ship prices fluctuate with scrap values and newbuild prices; when scrap values are high, used ships are expensive (sellers can realize scrap value plus a premium). When scrap prices are low, used ships are cheaper.
 
-A Panamax costs roughly $30–$50 million to purchase on the secondhand market, depending on age and condition. Financing often comes from shipping banks at leverage ratios of 50–65% loan-to-value. The company then carries the debt on its balance sheet. If shipping rates collapse and remain weak for years, Genco's cash flow deteriorates, making debt servicing difficult. Many shipping companies have been forced into financial distress or restructuring during extended down cycles.
+A Panamax costs roughly $30–$50 million to purchase on the secondhand market, depending on age and condition. Financing often comes from shipping banks at [leverage ratios](/leverage-ratio-forex/) of 50–65% loan-to-value. The company then carries the debt on its [balance sheet](/balance-sheet/). If shipping rates collapse and remain weak for years, Genco's cash flow deteriorates, making debt servicing difficult. Many shipping companies have been forced into financial distress or restructuring during extended down cycles.
 
-The depreciation of the ship is also a major non-cash P&L item. Genco writes down each vessel over its useful life; accumulated depreciation is often the largest asset adjustment on the balance sheet. The company's reported earnings include significant depreciation, which can mask underlying cash generation or burn.
+The depreciation of the ship is also a major non-cash P&L item. Genco writes down each vessel over its useful life; [accumulated depreciation](/accumulated-depreciation/) is often the largest asset adjustment on the balance sheet. The company's reported earnings include significant depreciation, which can mask underlying cash generation or burn.
 
 ## Charter Types and Revenue Predictability
 
@@ -50,7 +50,7 @@ Genco's mix of spot versus contract charters shapes its earnings volatility. A f
 
 ## Cyclical Dependency and Market Position
 
-Genco's earnings are tied to the global economy, commodity trade, and geopolitical factors affecting shipping routes. A recession reduces commodity demand and shipping volumes. A shift to shorter trade routes (e.g., nearshoring reducing Asia-to-US container flows) can impact dry bulk separately. Weather, port strikes, and Suez Canal closures disrupt routes and affect vessel positioning. The company has no control over these macro drivers.
+Genco's earnings are tied to the global economy, commodity trade, and geopolitical factors affecting shipping routes. A [recession](/recession/) reduces commodity demand and shipping volumes. A shift to shorter trade routes (e.g., nearshoring reducing Asia-to-US container flows) can impact dry bulk separately. Weather, port strikes, and Suez Canal closures disrupt routes and affect vessel positioning. The company has no control over these macro drivers.
 
 Genco's position is that of a portfolio operator: own enough ships that the fleet can sustain returns through cycles, maintain sufficient balance sheet flexibility to acquire distressed ships when rates collapse, and exit at opportune times. Success requires patient capital, robust risk management, and discipline not to over-expand into late-cycle peaks when newbuild orders are abundant and prices are high.
 

@@ -45,7 +45,7 @@ KVH generates revenue through multiple service models. Hardware sales provide up
 
 The mix of revenue types creates operational complexity. Monthly service revenue is recurring but subject to customer churn—vessels may be sold, scrapped, or switch providers. KVH must continuously acquire new customers to replace churn. Hardware revenue is episodic and dependent on capital spending cycles in shipping and offshore industries. Professional service revenue varies with upgrade and installation activity.
 
-Revenue recognition requires careful tracking. Customers are billed monthly, but payment terms vary. International customers, particularly in developing countries, may have extended payment terms or require payment plans. KVH's accounting operations must track customer accounts, bill correctly according to service plans, and manage collections.
+[Revenue recognition](/revenue-recognition/) requires careful tracking. Customers are billed monthly, but payment terms vary. International customers, particularly in developing countries, may have extended payment terms or require payment plans. KVH's accounting operations must track customer accounts, bill correctly according to service plans, and manage collections.
 
 ## Maintenance and Lifecycle Support
 

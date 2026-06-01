@@ -4,7 +4,7 @@ description: "A Canadian energy infrastructure and manufacturing company providi
 keywords: ["EFXT", "Enerflex", "compression equipment", "energy infrastructure", "oil and gas services", "Canada"]
 ---
 
-*Enerflex Ltd. (EFXT) manufactures and operates industrial equipment and infrastructure for the oil and gas sector, primarily focused on compression systems, power generation, processing facilities, and rental fleets. Its unit economics pivot on the difference between the capital cost of equipment, its operating margin once deployed, and the duration of customer contracts that justify that capital outlay.*
+*Enerflex Ltd. (EFXT) manufactures and operates industrial equipment and infrastructure for the oil and gas sector, primarily focused on compression systems, power generation, processing facilities, and rental fleets. Its unit economics pivot on the difference between the capital cost of equipment, its [operating margin](/operating-margin/) once deployed, and the duration of customer contracts that justify that capital outlay.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>EFXT</td></tr>
@@ -47,7 +47,7 @@ Service contracts might be billed monthly or annually and typically include prev
 
 ## Capital Intensity and Leverage
 
-Enerflex's business is capital-intensive: it must invest heavily in manufacturing facilities, rental fleet inventory, and working capital (accounts receivable from oil producers, parts inventory). This typically requires debt financing. A company with $500 million in equity and $400 million in debt can deploy $900 million in fleet and manufacturing assets, earning rental revenue and sales margin.
+Enerflex's business is capital-intensive: it must invest heavily in manufacturing facilities, rental fleet inventory, and working capital ([accounts receivable](/accounts-receivable/) from oil producers, parts inventory). This typically requires [debt financing](/debt-financing/). A company with $500 million in equity and $400 million in debt can deploy $900 million in fleet and manufacturing assets, earning rental revenue and sales margin.
 
 But leverage is double-edged in cyclical industries. When oil prices are high and producers are investing, utilization is strong, and Enerflex's rental fleet is fully deployed at premium rates. When oil prices collapse and producers cut back, utilization falls and Enerflex is stuck with idle equipment that still carries debt service obligations. Downturns can force write-downs (equipment worth less than its book value) and covenant violations (debt obligations harder to meet).
 
@@ -65,7 +65,7 @@ Enerflex must therefore continuously replace aging fleet with new equipment, mai
 
 ## Geographic and Product Diversification
 
-Enerflex's risk profile improves if it serves diverse basins and geographies (not just Alberta and the Permian, but also international operations) and diverse end-markets (natural gas compression, liquids extraction, processing, power generation) rather than being hyper-concentrated in one basin and one product. Diversification smooths out the worst of the cyclicality.
+Enerflex's risk profile improves if it serves diverse basins and geographies (not just Alberta and the Permian, but also international operations) and diverse end-markets ([natural gas](/natural-gas/) compression, liquids extraction, processing, power generation) rather than being hyper-concentrated in one basin and one product. [Diversification](/diversification/) smooths out the worst of the cyclicality.
 
 ---
 

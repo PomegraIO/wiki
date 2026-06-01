@@ -4,7 +4,7 @@ description: "A special-purpose acquisition company that is shell entity seeking
 keywords: ["SPAC", "shell-company", "acquisition", "merger", "blank-check company"]
 ---
 
-*A **1606 CORP. (CBDW)** is a special-purpose-acquisition-company — a type of shell entity formed specifically to hunt for a company to buy. The company exists to raise money from investors, identify a target business, and combine with it. If no merger happens within a set time window, the money goes back to shareholders.*
+*A **1606 CORP. (CBDW)** is a special-purpose-acquisition-company — a type of shell entity formed specifically to hunt for a company to buy. The company exists to raise money from investors, identify a target business, and combine with it. If no [merger](/merger/) happens within a set time window, the money goes back to shareholders.*
 
 <aside class="wiki-infobox">
 <table>

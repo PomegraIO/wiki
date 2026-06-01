@@ -17,7 +17,7 @@ keywords: ["medtech", "women's health", "reproductive health", "growth-stage", "
 
 ## Niche Selection and Market Entry Timing
 
-FEMASYS's focus on women's reproductive health reflects a strategic decision to serve a market segment historically underserved by major medical-device manufacturers. Reproductive-health products (contraceptives, fertility-enhancement devices, gynecological interventions) face unique regulatory pathways, reimbursement challenges, and patient-access barriers. By specializing in this domain, FEMASYS can build deep expertise and customer relationships that generalist firms may not prioritize. Conversely, the firm is entirely dependent on this single market segment, with no revenue diversification across disease areas or customer geographies.
+FEMASYS's focus on women's reproductive health reflects a strategic decision to serve a market segment historically underserved by major medical-device manufacturers. Reproductive-health products (contraceptives, fertility-enhancement devices, gynecological interventions) face unique regulatory pathways, reimbursement challenges, and patient-access barriers. By specializing in this domain, FEMASYS can build deep expertise and customer relationships that generalist firms may not prioritize. Conversely, the firm is entirely dependent on this single market segment, with no revenue [diversification](/diversification/) across disease areas or customer geographies.
 
 The company's lifecycle stage is determined not by age but by revenue generation and profitability. FEMASYS is growth-stage because it is either pre-revenue or early-revenue, with most capital devoted to product development, clinical trials, and regulatory submissions rather than market expansion or operational scaling. This lifecycle stage is both opportunity and peril: opportunity because success in bringing a novel product to market can create explosive growth and valuation expansion; peril because the path to approval is costly and uncertain, and failure means shareholder dilution or worse.
 
@@ -47,9 +47,9 @@ The company may seek acquisition by a larger player once it reaches a validation
 
 ## The Path to Maturity
 
-FEMASYS's transition from growth to maturity (and eventually to stable or declining phases) depends on a sequence of milestones: regulatory approval, successful market entry, reimbursement acceptance, and sustained adoption by providers and patients. If the company achieves these, it transitions to a revenue-generating business with predictable cash flows and the possibility of [dividend](/dividend/) payments or acquisitions at premium valuations.
+FEMASYS's transition from growth to maturity (and eventually to stable or declining phases) depends on a sequence of milestones: regulatory approval, successful market entry, reimbursement acceptance, and sustained adoption by providers and patients. If the company achieves these, it transitions to a revenue-generating business with predictable cash flows and the possibility of [dividend](/dividend/) payments or [acquisitions](/acquisition/) at premium valuations.
 
-If the company encounters regulatory delays, trial failures, or reimbursement denials, it faces either restructuring (layoffs, asset sales, or merger on less favorable terms) or continued dilution through additional equity raises until it reaches profitability or is absorbed by another firm. The stock price reflects this binary risk: growth-stage medtech stocks are volatile, with large upside on milestone achievement and large downside on setback.
+If the company encounters regulatory delays, trial failures, or reimbursement denials, it faces either restructuring (layoffs, asset sales, or [merger](/merger/) on less favorable terms) or continued dilution through additional equity raises until it reaches profitability or is absorbed by another firm. The stock price reflects this binary risk: growth-stage medtech stocks are volatile, with large upside on milestone achievement and large downside on setback.
 
 ## Patient Demand and Market Expansion
 

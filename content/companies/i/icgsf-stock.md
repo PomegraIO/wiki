@@ -21,7 +21,7 @@ Mining companies arrange themselves along a spectrum of risk and potential retur
 
 For juniors, the fundamental competitive dynamic is capital access. To advance from early exploration (drilling and mapping a prospect) to resource definition (proving up a mineral deposit) to development (building a mine) requires tens of millions to hundreds of millions of dollars. Most juniors cannot self-fund. They must raise capital from equity investors, strategic partners, or larger mining companies.
 
-This creates a tournament structure: hundreds of junior mining companies compete for a limited pool of exploration investment capital. Investors (institutional hedge funds, resource-focused mutual funds, sophisticated individuals) allocate capital to juniors based on geology, management team reputation, location quality, and market sentiment toward the metals being sought.
+This creates a tournament structure: hundreds of junior mining companies compete for a limited pool of exploration investment capital. Investors (institutional [hedge funds](/hedge-fund/), resource-focused [mutual funds](/mutual-fund/), sophisticated individuals) allocate capital to juniors based on geology, management team reputation, location quality, and market sentiment toward the metals being sought.
 
 ## Competitive Position in Precious-Metals Exploration
 
@@ -47,7 +47,7 @@ Investor sentiment is also driven by precious-metals prices. When gold and silve
 
 Large producers like Barrick and Newmont have their own exploration programs and can also acquire prospective junior properties directly. This creates a potential exit path for ICG: if the company makes a discovery that catches the attention of a producer, the producer may offer to acquire the property or the company itself.
 
-However, acquisition by a large producer can also be a loss for early shareholders. Producers typically acquire junior discoveries at prices representing only a fraction of the long-term mine value—they are risk-adjusted for development and production execution risk. Shareholders of a junior that is acquired are paid a premium to where the stock traded, but substantially less than the theoretical discounted value of the discovered mine.
+However, [acquisition](/acquisition/) by a large producer can also be a loss for early shareholders. Producers typically acquire junior discoveries at prices representing only a fraction of the long-term mine value—they are risk-adjusted for development and production execution risk. Shareholders of a junior that is acquired are paid a premium to where the stock traded, but substantially less than the theoretical discounted value of the discovered mine.
 
 Mid-tier producers represent different competitors and potential acquirers. Companies like Coeur d'Alene focus on precious metals and may be more active in acquiring small silver or gold deposits that complement their existing operations.
 
@@ -65,7 +65,7 @@ The company's competitive advantage, to the extent it exists, is its geological 
 
 ## Market Dynamics and Consolidation
 
-The junior mining sector experiences periodic consolidation, particularly when precious-metals prices fall and capital becomes scarce. Smaller juniors merge to create larger entities with more diversified project portfolios and larger treasury reserves. ICG's future may involve merger with a peer junior, acquisition by a strategic partner, or—if exploration is unsuccessful—gradual devaluation and eventual dissolution.
+The junior mining sector experiences periodic consolidation, particularly when precious-metals prices fall and capital becomes scarce. Smaller juniors merge to create larger entities with more diversified project portfolios and larger treasury reserves. ICG's future may involve [merger](/merger/) with a peer junior, acquisition by a strategic partner, or—if exploration is unsuccessful—gradual devaluation and eventual dissolution.
 
 The sector remains competitive and cyclical, with individual junior success depending heavily on geological chance (whether a property contains exploitable ore) and market conditions (whether capital is available and metal prices are attractive).
 

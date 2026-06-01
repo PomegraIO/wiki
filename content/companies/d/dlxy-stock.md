@@ -26,9 +26,9 @@ keywords:
 
 Delixy Holdings functions as a parent company, holding [equity](/common-stock/) stakes in operating subsidiaries or divisions and managing consolidated [debt](/corporate-bond/) and [equity](/common-stock/) at the holding company level. The structure concentrates ownership and financial decision-making at the parent, distributing capital to subsidiaries based on their capital needs and performance.
 
-[Common stockholders](/common-stock/) in Delixy Holdings own claims on the consolidated earnings and assets of the entire portfolio, diversified across the company's various business units. The [equity](/common-stock/) base accumulates through retained earnings, [share buybacks](/share-buyback/), or periodic capital raises. [Preferred shares](/preferred-stock/) or other securities might provide senior claims, funding specific portfolio companies or strategic initiatives while subordinating common shareholder returns.
+[Common stockholders](/common-stock/) in Delixy Holdings own claims on the consolidated earnings and assets of the entire portfolio, diversified across the company's various business units. The [equity](/common-stock/) base accumulates through [retained earnings](/retained-earnings/), [share buybacks](/share-buyback/), or periodic capital raises. [Preferred shares](/preferred-stock/) or other securities might provide senior claims, funding specific portfolio companies or strategic initiatives while subordinating common shareholder returns.
 
-The firm's [debt](/corporate-bond/) typically sits at the parent or is guaranteed by the parent on behalf of subsidiaries. This centralized borrowing often lowers total [interest costs](/corporate-bond/) by pooling credit ratings and access to capital markets, then distributing funds downward through loans, equity injections, or management fees to operating units.
+The firm's [debt](/corporate-bond/) typically sits at the parent or is guaranteed by the parent on behalf of subsidiaries. This centralized borrowing often lowers total [interest costs](/corporate-bond/) by pooling [credit ratings](/credit-rating/) and access to capital markets, then distributing funds downward through loans, equity injections, or [management fees](/management-fee/) to operating units.
 
 ## Cross-Border and Multi-Jurisdiction Funding
 
@@ -44,13 +44,13 @@ Delixy Holdings pulls earnings from its portfolio companies into a consolidated 
 
 ## Subsidiary Capitalization and Strategic Flexibility
 
-Delixy Holdings' ability to deploy capital strategically across subsidiaries depends on the debt and equity mix it maintains. High parent leverage constrains flexibility—most cash is committed to debt service rather than available for new investments or support of struggling units. Lower leverage or excess borrowing capacity permits rapid capital redeployment in response to acquisition opportunities, divestiture needs, or performance swings across the portfolio.
+Delixy Holdings' ability to deploy capital strategically across subsidiaries depends on the debt and equity mix it maintains. High parent leverage constrains flexibility—most cash is committed to debt service rather than available for new investments or support of struggling units. Lower leverage or excess borrowing capacity permits rapid capital redeployment in response to acquisition opportunities, [divestiture](/divestiture/) needs, or performance swings across the portfolio.
 
 Subsidiaries themselves may carry [debt](/corporate-bond/) or depend entirely on parent equity funding. Decentralized structures with subsidiary-level borrowing can reduce consolidated leverage if structured carefully, allowing the parent to remain lightly capitalized while operating units carry appropriate risk. Conversely, if parent [debt](/corporate-bond/) guarantees subsidiary obligations, consolidated exposure remains high regardless of formal structure.
 
 ## Capital Allocation Discipline
 
-The quality of holding company operations hinges on capital allocation discipline at the parent level. Does management direct capital toward high-[return on equity](/return-on-equity/) subsidiaries and away from underperformers? Or does the structure perpetuate underperforming units? Do acquisitions and divestiture decisions reflect realistic [enterprise value](/enterprise-value/) assessment?
+The quality of holding company operations hinges on capital allocation discipline at the parent level. Does management direct capital toward high-[return on equity](/return-on-equity/) subsidiaries and away from underperformers? Or does the structure perpetuate underperforming units? Do [acquisitions](/acquisition/) and divestiture decisions reflect realistic [enterprise value](/enterprise-value/) assessment?
 
 [Earnings per share](/earnings-per-share/) growth at the holding company level can mask stagnant or declining underlying subsidiary performance if hidden by share count reductions or [buybacks](/share-buyback/). Investors studying Delixy Holdings should examine [free cash flow](/free-cash-flow/) and operating performance unit-by-unit, not merely consolidated headline numbers.
 

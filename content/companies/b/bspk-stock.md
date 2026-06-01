@@ -33,15 +33,15 @@ That said, the regulatory environment is fluid. New solvent rules, import restri
 
 ## The Retail-Branding Pivot
 
-Alongside contract manufacturing, Bespoke has moved toward retail-branded products — vapes, concentrates, and edibles sold under house brands or co-branded partnerships. This requires different skills: consumer-facing packaging, compliance with potency and serving-size labeling, retail shelf-space negotiation, and demand forecasting. Retail margin is typically higher than contract manufacturing, but retail also means exposure to retail-price deflation and consumer preference shifts toward cheaper, lower-potency products or entirely novel categories (synthetic cannabinoids, cannabis beverages).
+Alongside contract manufacturing, Bespoke has moved toward retail-branded products — vapes, concentrates, and edibles sold under house brands or co-branded partnerships. This requires different skills: consumer-facing packaging, compliance with potency and serving-size labeling, retail shelf-space negotiation, and demand forecasting. Retail margin is typically higher than contract manufacturing, but retail also means exposure to retail-price [deflation](/deflation/) and consumer preference shifts toward cheaper, lower-potency products or entirely novel categories (synthetic cannabinoids, cannabis beverages).
 
 The shift is revealing: contract manufacturing is a commodity play where Bespoke competes on cost and reliability; retail branding is a brand play where Bespoke competes on perceived quality and novelty. The tension between these two models — and the capital constraints of serving both — is unresolved.
 
 ## Capital Formation and Listing Constraints
 
-Bespoke's status as an over-the-counter-quoted company reflects the reality that [stock](/stock/) exchanges and [securities](/securities-and-exchange-commission/) regulators have been cautious toward cannabis firms, treating Schedule I status as a financial and reputational risk despite state legality. OTC status means limited access to institutional capital, higher cost of equity, and low analyst coverage. Competitors with access to public or private institutional funding (Curaleaf, Trulieve, or Canadian operators on major exchanges) can fund buildout and acquisitions more cheaply.
+Bespoke's status as an over-the-counter-quoted company reflects the reality that [stock](/stock/) exchanges and [securities](/securities-and-exchange-commission/) regulators have been cautious toward cannabis firms, treating Schedule I status as a financial and reputational risk despite state legality. OTC status means limited access to institutional capital, higher [cost of equity](/cost-of-equity/), and low analyst coverage. Competitors with access to public or private institutional funding (Curaleaf, Trulieve, or Canadian operators on major exchanges) can fund buildout and [acquisitions](/acquisition/) more cheaply.
 
-For Bespoke, going OTC was a pragmatic choice: it allows the company to raise equity from accredited investors and trade shares, but it also caps the firm's ability to raise large amounts of capital and creates a permanent stigma with pension funds and passive indices. Some cannabis operators have re-listed on major exchanges by shifting operations or structure; Bespoke's path to institutional funding depends on federal legalization or private-equity backing.
+For Bespoke, going OTC was a pragmatic choice: it allows the company to raise equity from [accredited investors](/accredited-investor/) and trade shares, but it also caps the firm's ability to raise large amounts of capital and creates a permanent stigma with pension funds and passive indices. Some cannabis operators have re-listed on major exchanges by shifting operations or structure; Bespoke's path to institutional funding depends on federal legalization or private-equity backing.
 
 ## Sector Drivers: Consolidation, Potency Deflation, and Diversification
 
@@ -51,7 +51,7 @@ Meanwhile, consumer preferences are diversifying beyond flower: edibles, beverag
 
 ## Researching Bespoke Extracts
 
-To understand Bespoke's financial performance and strategy, consult its [10-K](/10-k/) filings with the [SEC](/securities-and-exchange-commission/) (CIK 1409197). Pay attention to: revenue split between contract manufacturing and retail products; customer concentration (reliance on a handful of large cultivators or retailers); gross margin trends and gross margin by segment; inventory obsolescence risk (cannabis expires and loses potency); and footnote disclosure on regulatory changes or facility closures. State-level legalization timelines and federal policy signals will shape sector-wide capital availability and consolidation pace.
+To understand Bespoke's financial performance and strategy, consult its [10-K](/10-k/) filings with the [SEC](/securities-and-exchange-commission/) (CIK 1409197). Pay attention to: revenue split between contract manufacturing and retail products; customer concentration (reliance on a handful of large cultivators or retailers); gross margin trends and gross margin by segment; inventory obsolescence risk (cannabis expires and loses potency); and [footnote disclosure](/footnote-disclosure/) on regulatory changes or facility closures. State-level legalization timelines and federal policy signals will shape sector-wide capital availability and consolidation pace.
 
 <div class="wiki-seealso">
 

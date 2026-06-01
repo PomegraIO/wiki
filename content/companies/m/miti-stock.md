@@ -31,7 +31,7 @@ The friction point is capital. Mitesco must continuously refinance or securitize
 
 ## Competitive Position: Fragmented, Local, and Flooded
 
-Mitesco competes in a highly fragmented market. Unlike the [stock-exchange](/stock-exchange/), where Mitesco shares trade on OTC systems, the hard-money market has no central price discovery. Hundreds of regional lenders, private capital groups, fintech platforms, and specialist funds compete for the same borrowers, each with slightly different rate cards, speed profiles, and underwriting standards.
+Mitesco competes in a highly fragmented market. Unlike the [stock-exchange](/stock-exchange/), where Mitesco shares trade on OTC systems, the hard-money market has no central [price discovery](/price-discovery/). Hundreds of regional lenders, private capital groups, fintech platforms, and specialist funds compete for the same borrowers, each with slightly different rate cards, speed profiles, and underwriting standards.
 
 Large institutional alternatives (Ares, Blackstone's credit arm, Oaktree) have moved into this space at scale, bringing cheaper capital and diversified platforms. Banks occasionally test the waters with portfolios of hard money. Fintech lenders have digitized portions of the merchant cash advance market, lowering origination costs and enabling tighter spreads.
 
@@ -39,7 +39,7 @@ Mitesco's edge—if it has one—rests on nimbleness, local market knowledge, or
 
 ## The Capital Constraint and Leverage Dependency
 
-Mitesco's balance sheet structure reveals its model's fragility. Small, undercapitalized lenders in this sector typically operate with high leverage—borrowing against their portfolios, selling securitizations, or tapping credit lines. This magnifies returns in good times (a 2:1 or 3:1 leverage ratio doubles or triples equity returns if the portfolio performs) but can turn fatal in stress.
+Mitesco's balance sheet structure reveals its model's fragility. Small, undercapitalized lenders in this sector typically operate with high leverage—borrowing against their portfolios, selling [securitizations](/securitization/), or tapping credit lines. This magnifies returns in good times (a 2:1 or 3:1 leverage ratio doubles or triples equity returns if the portfolio performs) but can turn fatal in stress.
 
 When the credit cycle tightens, refinancing becomes expensive or impossible. A portfolio seasoning poorly (if defaults spike above model) triggers rapid deleveraging, often forced fire-sales of loans to other lenders at steep discounts. Mitesco's shareholders absorb the loss.
 
@@ -47,11 +47,11 @@ When the credit cycle tightens, refinancing becomes expensive or impossible. A p
 
 Mitesco operates largely outside banking regulation—its merchant cash advances are structured as sales of receipts, skirting usury ceilings; its hard loans are often private transactions not subject to consumer protection rules. This regulatory arbitrage is a feature, not a bug. However, it is also precarious. A regulatory shift—toward licensing private lenders, capping rates on merchant cash advances, or tightening securitization rules—could compress Mitesco's niche overnight.
 
-The persistence of Mitesco-style lenders depends on a continued supply of borrowers who cannot access traditional credit and investors willing to fund them at high spreads. Both will persist as long as mainstream banking remains risk-averse and interest rates reward illiquidity. But the niche is not protected; it is tolerated.
+The persistence of Mitesco-style lenders depends on a continued supply of borrowers who cannot access traditional credit and investors willing to fund them at high spreads. Both will persist as long as mainstream banking remains risk-averse and [interest rates](/interest-rate/) reward illiquidity. But the niche is not protected; it is tolerated.
 
 ## Research Starting Points
 
-To understand Mitesco in depth, consult its [10-k](/10-k/) filing (CIK 802257) for loan portfolio composition, default history, leverage ratios, and capital sources. Look for clues on whether the company is growing originations faster than losses, or vice versa. Most hard-money lenders live or die on portfolio seasoning curves. Check auditor notes for bad-debt provisions and loan-loss reserves—aggressive reserves suggest caution; minimal reserves suggest either confidence or denial.
+To understand Mitesco in depth, consult its [10-k](/10-k/) filing (CIK 802257) for loan portfolio composition, default history, [leverage ratios](/leverage-ratio-forex/), and capital sources. Look for clues on whether the company is growing originations faster than losses, or vice versa. Most hard-money lenders live or die on portfolio seasoning curves. Check auditor notes for bad-debt provisions and loan-loss reserves—aggressive reserves suggest caution; minimal reserves suggest either confidence or denial.
 
 ---
 

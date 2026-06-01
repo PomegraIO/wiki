@@ -25,7 +25,7 @@ Franklin's core product line includes personal hotspots ranging from entry-level
 
 ## Carrier Relationships and Channel Concentration
 
-Franklin's biggest customers are wireless carriers and retailers who purchase devices for resale under their own branding or as standalone products. The company's 10-K filing discloses customer concentration risk (often expressed as the percentage of total sales from the largest customer or customers). High dependence on one or two carriers creates vulnerability—if a major carrier reduces orders, shifts procurement to competitors, or develops proprietary hardware, Franklin's revenue could decline sharply. Conversely, long-term contracts with major carriers provide stability. The SEC filings detail the terms of major contracts and any material changes in customer composition.
+Franklin's biggest customers are wireless carriers and retailers who purchase devices for resale under their own branding or as standalone products. The company's 10-K filing discloses customer [concentration risk](/concentration-risk/) (often expressed as the percentage of total sales from the largest customer or customers). High dependence on one or two carriers creates vulnerability—if a major carrier reduces orders, shifts procurement to competitors, or develops proprietary hardware, Franklin's revenue could decline sharply. Conversely, long-term contracts with major carriers provide stability. The SEC filings detail the terms of major contracts and any material changes in customer composition.
 
 ## Manufacturing and Supply-Chain Model
 
@@ -41,7 +41,7 @@ The portable hotspot market faces structural headwinds. Smartphone data plans ha
 
 ## Profitability and Cash Generation
 
-Despite mature and competitive dynamics, Franklin can remain profitable if it manages operating costs and maintains reasonable margins. The 10-K shows [operating margin](/operating-margin/), [return-on-equity](/return-on-equity/), and free cash flow—critical metrics for assessing business health in a declining market. A company with strong free cash flow can return capital to shareholders (via [dividends](/dividend/) or [share buybacks](/share-buyback/)) even if growth is stagnant, signaling financial stability. Conversely, rising inventory levels, deteriorating receivables, or shrinking margins suggest distress.
+Despite mature and competitive dynamics, Franklin can remain profitable if it manages operating costs and maintains reasonable margins. The 10-K shows [operating margin](/operating-margin/), [return-on-equity](/return-on-equity/), and [free cash flow](/free-cash-flow/)—critical metrics for assessing business health in a declining market. A company with strong free cash flow can return capital to shareholders (via [dividends](/dividend/) or [share buybacks](/share-buyback/)) even if growth is stagnant, signaling financial stability. Conversely, rising inventory levels, deteriorating receivables, or shrinking margins suggest distress.
 
 ## Path Forward and Strategic Alternatives
 

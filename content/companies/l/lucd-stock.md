@@ -4,7 +4,7 @@ description: "A diagnostics company developing and commercializing tests for dis
 keywords: ["diagnostics", "medical testing", "laboratory medicine", "disease detection", "healthcare technology"]
 ---
 
-*Lucid Diagnostics Inc. (LUCD) operates in clinical diagnostics, developing and offering laboratory tests used by physicians to detect disease, monitor patient health, and guide treatment decisions. The company positions itself within the broader shift toward personalized medicine and precision diagnostics—the use of specific biomarkers and genetic information to tailor healthcare to individual patients rather than apply one-size-fits-all treatment protocols.*
+*[Lucid](/lcid-stock/) Diagnostics Inc. (LUCD) operates in clinical diagnostics, developing and offering laboratory tests used by physicians to detect disease, monitor patient health, and guide treatment decisions. The company positions itself within the broader shift toward personalized medicine and precision diagnostics—the use of specific biomarkers and genetic information to tailor healthcare to individual patients rather than apply one-size-fits-all treatment protocols.*
 
 <aside class="wiki-infobox"><table>
   <tr><th>Ticker</th><td>LUCD</td></tr>
@@ -41,7 +41,7 @@ Lucid Diagnostics generates revenue in several ways. It may run tests in-house a
 
 ## Research and Disclosure
 
-Examine Lucid Diagnostics' [10-K annual report](/10-k/) for details on test offerings, revenue by test, customer concentration (what percentage of revenue comes from each major customer or payer), and regulatory status of tests in development. The company should disclose which tests are approved and revenue-generating, which are in development or validation, and what reimbursement rates apply. Look for partnerships, acquisition activity, or licensing deals that signal new capabilities or markets. Industry publications covering laboratory medicine and diagnostics trends provide context on the competitive landscape and clinical adoption of diagnostic innovations.
+Examine Lucid Diagnostics' [10-K annual report](/10-k/) for details on test offerings, revenue by test, customer concentration (what percentage of revenue comes from each major customer or payer), and regulatory status of tests in development. The company should disclose which tests are approved and revenue-generating, which are in development or validation, and what reimbursement rates apply. Look for partnerships, [acquisition](/acquisition/) activity, or licensing deals that signal new capabilities or markets. Industry publications covering laboratory medicine and diagnostics trends provide context on the competitive landscape and clinical adoption of diagnostic innovations.
 
 <div class="wiki-seealso">
 ### Closely related

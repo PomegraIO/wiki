@@ -15,7 +15,7 @@ handwritten: true
 
 ## Electronics and Systems Integration
 
-AUMOVIO designs and manufactures the hardware and software that sits at the heart of modern vehicles—sensor systems for perception, display and cockpit electronics, braking and motion control systems, and the software architectures that allow vehicles to become software-defined machines. The company operates across passenger vehicles and commercial vehicle platforms, with roughly 82,000 employees and operations spanning 80 locations across 24 countries, centered on innovation out of Frankfurt am Main.
+AUMOVIO designs and manufactures the hardware and software that sits at the heart of modern vehicles—sensor systems for perception, display and cockpit electronics, braking and motion control systems, and the software architectures that allow vehicles to become software-defined machines. The company operates across passenger vehicles and [commercial vehicle](/cvgi-stock/) platforms, with roughly 82,000 employees and operations spanning 80 locations across 24 countries, centered on innovation out of Frankfurt am Main.
 
 ## Modular Solutions for the Autonomous Transition
 

@@ -17,9 +17,9 @@ keywords: ["holding company", "consumer brands", "acquisitions", "brand manageme
 
 ## The Portfolio Moat
 
-Compass Diversified's primary competitive advantage is its business model—not the businesses themselves, but the model of acquiring them, improving them, and holding them under one umbrella. The company owns brands like Sterno (canned cooking fuel), Hy-Vee stores' private labels, and other niche consumer products. None of these brands individually has a strong moat; many face constant price competition and margin pressure. However, as a portfolio they generate diverse revenue streams and cash flows. If one brand faces a downturn (say, a temporary decline in camping), other brands may be stable or growing. This diversification is valuable to shareholders because it reduces volatility.
+Compass Diversified's primary competitive advantage is its business model—not the businesses themselves, but the model of acquiring them, improving them, and holding them under one umbrella. The company owns brands like Sterno (canned cooking fuel), Hy-Vee stores' private labels, and other niche consumer products. None of these brands individually has a strong moat; many face constant price competition and margin pressure. However, as a portfolio they generate diverse revenue streams and cash flows. If one brand faces a downturn (say, a temporary decline in camping), other brands may be stable or growing. This [diversification](/diversification/) is valuable to shareholders because it reduces volatility.
 
-The moat here is the same as that of a private-equity firm or a diversified conglomerate: the ability to acquire underperforming businesses, fix them, and hold them for stable returns. Competitors attempting this model must have equivalent skill at identifying acquisition targets, capital to deploy, operational expertise to improve margins, and a public currency (stock) to fund future acquisitions. Compass's public stock makes it easier to issue shares for acquisition financing compared to a private buyer. This is a real advantage, though not unassailable—larger cap-markets participants can raise capital more cheaply.
+The moat here is the same as that of a private-equity firm or a diversified conglomerate: the ability to acquire underperforming businesses, fix them, and hold them for stable returns. Competitors attempting this model must have equivalent skill at identifying acquisition targets, capital to deploy, operational expertise to improve margins, and a public currency (stock) to fund future [acquisitions](/acquisition/). Compass's public stock makes it easier to issue shares for acquisition financing compared to a private buyer. This is a real advantage, though not unassailable—larger cap-markets participants can raise capital more cheaply.
 
 ## Operational Improvement Capability
 
@@ -29,7 +29,7 @@ However, this moat is fungible. If Compass's operational-improvement team leaves
 
 ## Brand Ownership and Customer Relationships
 
-Compass owns brands that, while not dominant, have customer loyalty in specific niches. Sterno has long-standing relationships with outdoor retailers and caterers. Brands in Compass's portfolio have relationships with big-box retailers like Walmart, Target, and Costco. These retailer relationships are valuable but also fragile—large retailers can swap private-label or competing brands if pricing shifts. Compass's leverage as a supplier is limited because none of its individual brands are essential to a major retailer.
+Compass owns brands that, while not dominant, have customer loyalty in specific niches. Sterno has long-standing relationships with outdoor retailers and caterers. Brands in Compass's portfolio have relationships with big-box retailers like [Walmart](/wmt-stock/), [Target](/tgt-stock/), and Costco. These retailer relationships are valuable but also fragile—large retailers can swap private-label or competing brands if pricing shifts. Compass's leverage as a supplier is limited because none of its individual brands are essential to a major retailer.
 
 The portfolio-company model mitigates this risk somewhat. If Compass has multiple consumer brands, losing one shelf at Walmart is painful but not catastrophic. A standalone brand losing shelf space might face a revenue cliff. Compass can absorb and navigate retailer negotiations across multiple brands, which is a defensive advantage.
 
@@ -49,7 +49,7 @@ Compass's moat is also a function of its ability to continue identifying acquisi
 
 ## Retailer Concentration
 
-Compass's brands are heavily distributed through large retailers (Walmart, Target, Costco, Amazon). This concentration creates leverage in the relationship—these retailers can demand price concessions or threaten to shift shelf space to private label. Compass's mitigation is diversification: it owns multiple brands across multiple categories, reducing dependence on any single product's relationship with a single retailer. However, if all Compass brands are sold through the same three or four retailers, the company is collectively vulnerable to retailer power.
+Compass's brands are heavily distributed through large retailers (Walmart, [Target](/tgt-stock/), Costco, Amazon). This concentration creates leverage in the relationship—these retailers can demand price concessions or threaten to shift shelf space to private label. Compass's mitigation is diversification: it owns multiple brands across multiple categories, reducing dependence on any single product's relationship with a single retailer. However, if all Compass brands are sold through the same three or four retailers, the company is collectively vulnerable to retailer power.
 
 ## Management Dependency
 

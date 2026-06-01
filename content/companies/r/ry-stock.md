@@ -57,7 +57,7 @@ Across North America, RBC is a mid-tier player by assets compared to JPMorgan, [
 
 RBC is not without risks. The Canadian economy is more dependent on commodity prices (oil, metals) and real-estate valuations than the U.S., and prolonged downturns in either hit loan quality and deposit rates. The mortgage market in Canada is heavily concentrated in the prime, fixed-rate segment (partly due to government guarantee programs), and this structure is vulnerable to rapid rate declines that reduce renewal income. Interest-rate sensitivity cuts both ways: rising rates boost the net interest margin (the spread between funding costs and lending rates), but they pressure mortgage demand and real-estate valuations.
 
-Regulatory capital requirements have been tightening, and large Canadian banks face heightened scrutiny from the Office of the Superintendent of Financial Institutions (OSFI). This does not threaten solvency—RBC's ratios are healthy—but it does constrain leverage and can limit dividend-growth ambitions.
+Regulatory capital requirements have been tightening, and large Canadian banks face heightened scrutiny from the Office of the Superintendent of [Financial Institutions](/fisi-stock/) (OSFI). This does not threaten solvency—RBC's ratios are healthy—but it does constrain leverage and can limit dividend-growth ambitions.
 
 The U.S. banking business is exposed to economic cyclicality and competitive pressure from larger American rivals and regional players. Wealth management and capital markets are sensitive to market dislocations and client risk appetite, which can swing sharply in downturns.
 

@@ -4,7 +4,7 @@ description: A consumer-gifting or digital-services platform; operates in a mark
 keywords: [consumer discretionary, gifting platform, market seasonality, consumer spending, platform risk, regulatory compliance, digital commerce]
 ---
 
-*GIFTIFY, INC. (GIFT, CIK 1760233) is a digital-age consumer company operating in a market segment—gifting—that is inherently discretionary, seasonally volatile, and vulnerable to shifts in consumer behavior and spending priorities. Unlike utilities or staples, gifting platforms thrive in prosperity and collapse in recession; the company's survival depends on being essential enough to survive a contraction, or raising capital to outlast one.*
+*GIFTIFY, INC. (GIFT, CIK 1760233) is a digital-age consumer company operating in a market segment—gifting—that is inherently discretionary, seasonally volatile, and vulnerable to shifts in consumer behavior and spending priorities. Unlike utilities or staples, gifting platforms thrive in prosperity and collapse in [recession](/recession/); the company's survival depends on being essential enough to survive a contraction, or raising capital to outlast one.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GIFT</td></tr>
@@ -16,7 +16,7 @@ keywords: [consumer discretionary, gifting platform, market seasonality, consume
 
 ## The Discretionary Spending Cliff
 
-Gifting—whether through a digital platform, a marketplace, or a managed service—is a discretionary activity. When a consumer's disposable income falls, gifting is one of the first activities to be curtailed. A gift is not a need like food or housing; it is a nice-to-have that reflects affection or social obligation. In a recession or a period of economic uncertainty, discretionary spending collapses faster than overall GDP, and gifting is particularly sensitive because it does not generate immediate value for the giver.
+Gifting—whether through a digital platform, a marketplace, or a managed service—is a discretionary activity. When a consumer's disposable income falls, gifting is one of the first activities to be curtailed. A gift is not a need like food or housing; it is a nice-to-have that reflects affection or social obligation. In a recession or a period of economic uncertainty, [discretionary spending](/discretionary-spending/) collapses faster than overall GDP, and gifting is particularly sensitive because it does not generate immediate value for the giver.
 
 GIFTIFY's revenue depends on the number of transactions and the average spend per transaction; both metrics are vulnerable to consumer confidence. A 10% decline in consumer sentiment can translate to a 25-30% decline in gifting volume, because the reduction is concentrated among those most price-sensitive and least optimistic about the future. For a young or marginally profitable gifting platform, this cliff is unforgiving.
 
@@ -30,7 +30,7 @@ This concentration also creates a psychological trap: investors see a spike in D
 
 GIFTIFY must acquire customers through paid advertising (Facebook, Google, email, influencers) or organic discovery. Customer-acquisition costs in consumer digital services are rising; competition for attention is fierce, and conversion rates are declining. The company must spend significant capital to acquire customers, then hope those customers return for repeat transactions.
 
-The risk is that acquisition costs exceed the lifetime value of a customer. If GIFTIFY spends $20 to acquire a customer and that customer generates $15 in lifetime profit, the economics are broken. For a consumer gifting platform, repeat-transaction rates are uncertain; many customers may use the platform once or twice and never return. Without internal data on cohort retention and lifetime value—data that GIFTIFY rarely discloses in public filings—it is impossible to assess whether the business model pencils out.
+The risk is that [acquisition](/acquisition/) costs exceed the lifetime value of a customer. If GIFTIFY spends $20 to acquire a customer and that customer generates $15 in lifetime profit, the economics are broken. For a consumer gifting platform, repeat-transaction rates are uncertain; many customers may use the platform once or twice and never return. Without internal data on cohort retention and lifetime value—data that GIFTIFY rarely discloses in public filings—it is impossible to assess whether the business model pencils out.
 
 ## Platform Risk and Dependency
 

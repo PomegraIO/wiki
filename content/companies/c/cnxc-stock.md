@@ -27,7 +27,7 @@ This secular trend is not recession-proof but is self-reinforcing in growth peri
 
 However, Concentrix's demand is also cyclically sensitive. When enterprises enter cost-cutting mode (recession, earnings pressure, or management reshuffles), customer service outsourcing contracts are scrutinized. Clients may reduce scope, consolidate vendors, or shift work back in-house to reduce external spending. A recession typically leads to flattish or declining volumes in BPO, even as the long-term trend remains growth-oriented.
 
-The effect is a "down-but-not-broken" pattern: recessions slow the growth rate or reduce margins, but they do not eliminate demand. Enterprises cannot entirely abandon customer support during downturns; they can only optimize it.
+The effect is a "down-but-not-broken" pattern: [recessions](/recession/) slow the growth rate or reduce margins, but they do not eliminate demand. Enterprises cannot entirely abandon customer support during downturns; they can only optimize it.
 
 ## Structural Characteristics: Labor Arbitrage and Global Footprint
 
@@ -43,7 +43,7 @@ This creates a cyclical margin squeeze: growth periods support margin expansion;
 
 ## Client Concentration and Sector Sensitivity
 
-Concentrix serves a diversified client base across telecom, financial services, tech, and e-commerce. Diversification reduces single-client risk, but it does not eliminate sector cyclicality. Telecom and financial services are cyclically sensitive (demand for support scales with transaction volumes, which vary with economic activity).
+Concentrix serves a diversified client base across telecom, financial services, tech, and e-commerce. [Diversification](/diversification/) reduces single-client risk, but it does not eliminate sector cyclicality. Telecom and financial services are cyclically sensitive (demand for support scales with transaction volumes, which vary with economic activity).
 
 A technology sector recession can reduce demand from tech-giant clients; a financial crisis can depress volumes from banking clients simultaneously.
 
@@ -51,7 +51,7 @@ A technology sector recession can reduce demand from tech-giant clients; a finan
 
 Concentrix's labor-based BPO model faces secular displacement risk from AI and automation. Conversational AI systems, natural language processing, and automated workflows can handle increasing portions of routine customer service work that historically required human agents.
 
-This is a secular threat unrelated to business cycles: even during expansion periods, client companies are investing in automation to reduce long-term labor costs, reducing the volume of work going to offshore BPO providers.
+This is a secular threat unrelated to [business cycles](/business-cycle/): even during expansion periods, client companies are investing in automation to reduce long-term labor costs, reducing the volume of work going to offshore BPO providers.
 
 ## Cyclical Recovery Potential with Secular Uncertainty
 

@@ -53,7 +53,7 @@ Moderna is pursuing mRNA vaccines for respiratory viruses — influenza, respira
 
 The company is also exploring mRNA therapies for cancer. The concept is personalized cancer vaccines: a patient's tumor is sequenced, and an mRNA vaccine is designed to teach the patient's immune system to recognize and attack that specific tumor. Early-stage data have been promising, but the complexity of development, manufacturing, and individualization is substantial. A personalized therapy requires custom manufacturing for each patient, which is far more complex than manufacturing a vaccine for millions of people.
 
-Other pipeline programs [target](/tgt-stock/) heart disease, cystic fibrosis, and other conditions where mRNA might enable new treatments. Most of these programs are still in early-stage development.
+Other pipeline programs target heart disease, cystic fibrosis, and other conditions where mRNA might enable new treatments. Most of these programs are still in early-stage development.
 
 ## Manufacturing, scale, and commercialization
 

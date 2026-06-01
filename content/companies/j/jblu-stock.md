@@ -31,7 +31,7 @@ JetBlue competes on cost by operating a simple, standardized fleet of modern Air
 
 But JetBlue's cost advantage versus larger carriers is shrinking. American, Delta, and United have also modernized their fleets and achieved meaningful fuel efficiency gains. United, in particular, operates a very efficient narrow-body fleet that competes directly with JetBlue's.
 
-Labor costs are another competitive factor. JetBlue pays pilots and flight attendants at market rates, but the company's total compensation (wages, benefits, pension obligations) is lower than unionized carriers' costs because JetBlue has a younger workforce and fewer legacy pension liabilities. But this advantage is eroding as JetBlue's workforce matures and as competitors (particularly Southwest) have held labor costs down.
+Labor costs are another competitive factor. JetBlue pays pilots and flight attendants at market rates, but the company's total compensation (wages, benefits, [pension obligations](/pension-obligation/)) is lower than unionized carriers' costs because JetBlue has a younger workforce and fewer legacy pension liabilities. But this advantage is eroding as JetBlue's workforce matures and as competitors (particularly Southwest) have held labor costs down.
 
 Over time, labor cost differentials tend to narrow. Employees of different carriers demand wage parity, unions use pattern-bargaining to raise wages across carriers, and regional labor markets tighten. JetBlue's ability to maintain a cost advantage through lower labor costs is therefore temporary.
 
@@ -59,7 +59,7 @@ JetBlue can hedge fuel costs (locking in future fuel prices through derivatives)
 
 Large carriers have established frequent-flyer programs with millions of members and partnerships with hotel chains, credit-card companies, and other travel providers. These programs create network effects: customers prefer the carrier where they have most miles, where their membership tier provides status and benefits, and where they can redeem miles for travel.
 
-JetBlue's frequent-flyer program exists but is smaller and less valuable to customers. A customer with 100,000 American Airlines miles might be reluctant to switch to JetBlue because switching means leaving behind miles and status.
+JetBlue's frequent-flyer program exists but is smaller and less valuable to customers. A customer with 100,000 [American Airlines](/aal-stock/) miles might be reluctant to switch to JetBlue because switching means leaving behind miles and status.
 
 This is a competitive disadvantage that compounds. Large carriers with more members and richer programs attract more high-value business travelers and frequent leisure travelers. These customers generate disproportionate profit. JetBlue, with a smaller program, must work harder to attract and retain them.
 
@@ -71,7 +71,7 @@ But competing internationally requires more capital (larger aircraft, longer ran
 
 ## Cyclicality and Recession Sensitivity
 
-Airline demand is cyclical. In strong economic times, business and leisure travel rise, and airlines operate near full capacity at high prices. In recessions, business travel falls sharply, leisure travel declines, and load factors (percentage of seats filled) drop. Airlines cut capacity, reduce routes, and compete on price to maintain volume.
+Airline demand is cyclical. In strong economic times, business and leisure travel rise, and airlines operate near full capacity at high prices. In [recessions](/recession/), business travel falls sharply, leisure travel declines, and load factors (percentage of seats filled) drop. Airlines cut capacity, reduce routes, and compete on price to maintain volume.
 
 JetBlue, as a smaller carrier, has less flexibility than larger carriers during downturns. Large carriers can shift capacity from unprofitable routes to profitable ones, maintain frequency on key routes, and use size to negotiate better supplier terms. JetBlue has less optionality.
 
@@ -89,7 +89,7 @@ JetBlue must be selective about route expansion and maintenance. The company can
 
 JetBlue's competitive position is stable but pressured. The company has achieved scale (fifth-largest US carrier), established brand recognition (especially in the Northeast), and moderate cost efficiency. But structural factors limit competitive power:
 
-1. Large carriers control key airport gates and capacity, constraining JetBlue's expansion options.
+1. Large carriers control key airport gates and capacity, constraining JetBlue's [expansion options](/expansion-option/).
 2. Larger competitors have more extensive networks, better frequent-flyer programs, and more pricing power.
 3. Fuel, labor, and capital costs are rising, compressing margins across the industry.
 4. Cyclical demand means profitability is volatile.

@@ -30,7 +30,7 @@ Behind the customer-facing product sits supply chain: sourcing components (resis
 
 Ispire's revenue comes from per-unit device sales and accessories (replacement chambers, power adapters, carrying cases). A vaporization device might retail for $150–$400; Ispire's [gross-profit-margin](/gross-profit-margin/) on direct-to-consumer sales is high (60–75%), while wholesale to retailers is lower (35–50%). Accessories are higher-margin; a replacement chamber might cost $5 to manufacture and sell for $20–$30.
 
-A customer buying an Ispire device contributes $50–$150 in gross profit (retailer-dependent), plus ancillary purchases over the product lifetime. A customer who buys a device, recommends it to three friends, and later buys accessories represents much higher lifetime value. Ispire's customer acquisition cost—through digital marketing, retail shelf placement, influencer partnerships—is offset by repeat purchase and accessories revenue.
+A customer buying an Ispire device contributes $50–$150 in gross profit (retailer-dependent), plus ancillary purchases over the product lifetime. A customer who buys a device, recommends it to three friends, and later buys accessories represents much higher lifetime value. Ispire's customer [acquisition](/acquisition/) cost—through digital marketing, retail shelf placement, influencer partnerships—is offset by repeat purchase and accessories revenue.
 
 ## Brand and Community
 

@@ -38,13 +38,13 @@ Vera Bradley is a mid-sized specialty retailer built on a distinctive design aes
 
 Vera Bradley began in 1998 as a single handbag designed to solve a practical problem—the founder's frustration at carrying around a plain, generic duffel bag. The original quilted cotton tote, decorated with a colorful, all-over floral pattern, struck a nerve with a specific customer segment: women seeking functional accessories that didn't sacrifice aesthetic appeal. Over the next decade, the brand expanded into luggage, wallets, organizers, and eventually home goods (bedding, throws, wall art), all animated by the same design vocabulary of bold prints on quilted cotton.
 
-What gave Vera Bradley staying power through the 2000s and 2010s was a clear [target](/tgt-stock/) customer and a defensible (if narrow) niche. The brand became especially popular with college students, travelers, and middle-income women aged 25 to 55. A printed cotton bag with reinforced handles, designed to hold a lot, felt both stylish and practical—a rare combination in fashion retail.
+What gave Vera Bradley staying power through the 2000s and 2010s was a clear target customer and a defensible (if narrow) niche. The brand became especially popular with college students, travelers, and middle-income women aged 25 to 55. A printed cotton bag with reinforced handles, designed to hold a lot, felt both stylish and practical—a rare combination in fashion retail.
 
 ## The Business Today
 
 Vera Bradley operates in three distinct channels, each with different dynamics. Direct-to-consumer (online and company-owned stores) offers the highest margins and direct customer relationship. Wholesale to department stores and specialty retailers reaches shoppers who may not seek out the brand independently. A growing outlet channel ("Vera Bradley Outlet") serves price-conscious customers and helps clear seasonal inventory.
 
-The core handbag business remains the revenue engine: totes, crossbody bags, wallets, and small leather goods. Luggage—rolling suitcases and weekend bags—adds seasonality tied to travel. The home goods line (comforters, pillows, table linens) leverages brand affinity but faces competition from larger players like Bed Bath & Beyond and Wayfair. 
+The core handbag business remains the revenue engine: totes, crossbody bags, wallets, and small leather goods. Luggage—rolling suitcases and weekend bags—adds seasonality tied to travel. The home goods line (comforters, pillows, table linens) leverages brand affinity but faces competition from larger players like [Bed Bath & Beyond](/bbby-stock/) and Wayfair. 
 
 In 2021, the company acquired Pura Vida Bracelets, a direct-to-consumer brand known for affordable woven and beaded bracelets, often sold as "friendship" or surf-style accessories. This [acquisition](/acquisition/) was meant to diversify revenue and reach a younger customer base through a distinctly different aesthetic and price point—Pura Vida bracelets retail for $20–50, a departure from Vera Bradley's $40–120 handbags. The integration remains a strategic test: whether Vera Bradley can effectively operate two brands with different design languages and customer psychographics under one corporate structure.
 
@@ -60,7 +60,7 @@ Fourth, inventory management. A fashion-adjacent business built on printed desig
 
 ## Competitive Position
 
-Vera Bradley occupies a crowded space. Upmarket, it competes against Coach, Dooney & Bourke, and Fossil Group in the affordable-luxury handbag market. Downmarket, it faces Old Navy, Target, and Amazon basics. The brand's defensibility rests on design distinctiveness and customer loyalty—people who love Vera Bradley often buy multiple pieces—but that loyalty isn't unshakeable. A shift toward minimalist aesthetics or neutral tones works against the brand's signature bold prints.
+Vera Bradley occupies a crowded space. Upmarket, it competes against Coach, Dooney & Bourke, and Fossil Group in the affordable-luxury handbag market. Downmarket, it faces Old Navy, [Target](/tgt-stock/), and Amazon basics. The brand's defensibility rests on design distinctiveness and customer loyalty—people who love Vera Bradley often buy multiple pieces—but that loyalty isn't unshakeable. A shift toward minimalist aesthetics or neutral tones works against the brand's signature bold prints.
 
 The Pura Vida acquisition attempted to carve out a different niche with a younger customer, but woven bracelets are a discretionary, lower-ticket impulse good; margins and customer lifetime value differ significantly from handbags. Vera Bradley has to maintain two separate brand identities and customer strategies simultaneously.
 

@@ -4,7 +4,7 @@ description: "A Japanese industrial conglomerate serving shipbuilding, energy, a
 keywords: ["Japan", "industrial", "engineering", "ADR", "CIK 1567526"]
 ---
 
-*[**IHI Corporation (IHICF)**](/), trading in the US as an American Depositary Receipt, is a diversified Japanese industrial manufacturer with CIK 1567526. Headquartered in Tokyo, IHI serves global markets in shipbuilding, power generation, aerospace propulsion, and industrial machinery through a portfolio of capital-intensive businesses that require specialized engineering and sustained customer relationships.*
+*[**IHI Corporation (IHICF)**](/), trading in the US as an [American Depositary Receipt](/adr/), is a diversified Japanese industrial manufacturer with CIK 1567526. Headquartered in Tokyo, IHI serves global markets in shipbuilding, power generation, aerospace propulsion, and industrial machinery through a portfolio of capital-intensive businesses that require specialized engineering and sustained customer relationships.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IHICF</td></tr>
@@ -20,7 +20,7 @@ IHI's business model is rooted in contract manufacturing for large industrial cu
 
 This model is capital-intensive. IHI owns shipyards, fabrication plants, and aerospace assembly facilities—assets that generate revenue only when there is contract work flowing. When orders are scarce, those facilities sit underutilized, and margins compress. When orders are plentiful and the company cannot expand capacity fast enough, it runs overtime and squeezes tighter margins still. The profitability of IHI is thus cyclical, tethered to government defense spending and global energy investment cycles.
 
-The unit economics of a single shipbuilding contract illustrate the tension. IHI might bid to build a naval destroyer for several hundred million dollars, with delivery spread across three years. The company must estimate the cost of materials (steel, advanced systems), labor (specialized welders and engineers in Tokyo), and overhead, then set a fixed or near-fixed price. If inflation spikes, supply chains break, or the company encounters unexpected technical issues during construction, the margin evaporates. Large industrial contracts are therefore high-stakes: a few that go badly can erase years of smaller wins.
+The unit economics of a single shipbuilding contract illustrate the tension. IHI might bid to build a naval destroyer for several hundred million dollars, with delivery spread across three years. The company must estimate the cost of materials (steel, advanced systems), labor (specialized welders and engineers in Tokyo), and overhead, then set a fixed or near-fixed price. If [inflation](/inflation/) spikes, supply chains break, or the company encounters unexpected technical issues during construction, the margin evaporates. Large industrial contracts are therefore high-stakes: a few that go badly can erase years of smaller wins.
 
 ## Segmentation: Where the Dollars Come From
 
@@ -30,9 +30,9 @@ IHI's revenue is concentrated in three main segments: Maritime, Energy, and Aero
 
 **Energy** encompasses power plants and industrial machinery—turbines, boilers, combined-cycle gas plants. This segment serves both utilities and industrial buyers worldwide. A large power-plant contract might take two years to execute and lock in IHI's engineering and fabrication resources entirely. Energy margins fluctuate with commodity prices and global power-demand cycles; a sharp drop in power consumption or a pivot away from fossil-fuel infrastructure can idle capacity.
 
-**Aerospace** supplies engines and components to aircraft makers and airlines. This segment serves Airbus, Boeing, and Japanese regional manufacturers. Margins here are often constrained because much of the work is subcontracting—IHI is part of a larger assembly chain and does not capture the full value of the final aircraft. Supply-chain disruptions in aerospace (like the 2020–2023 semiconductor shortage) have repeatedly pressured IHI's margins in this division.
+**Aerospace** supplies engines and components to aircraft makers and airlines. This segment serves Airbus, [Boeing](/ba-stock/), and Japanese regional manufacturers. Margins here are often constrained because much of the work is subcontracting—IHI is part of a larger assembly chain and does not capture the full value of the final aircraft. Supply-chain disruptions in aerospace (like the 2020–2023 semiconductor shortage) have repeatedly pressured IHI's margins in this division.
 
-The combined picture is a conglomerate earning steady but modest [operating margins](/operating-margin/) (typically 3–7% depending on order mix and macroeconomic conditions) and reinvesting retained earnings into R&D and capital projects aimed at holding market position in each segment.
+The combined picture is a conglomerate earning steady but modest [operating margins](/operating-margin/) (typically 3–7% depending on order mix and macroeconomic conditions) and reinvesting [retained earnings](/retained-earnings/) into R&D and capital projects aimed at holding market position in each segment.
 
 ## The Competitive Moat and Geographic Anchoring
 
@@ -42,7 +42,7 @@ IHI competes with South Korean yards (Hyundai Heavy Industries, Samsung) on comm
 
 ## Capital Returns and Balance Sheet Health
 
-IHI funds its operations through a mix of operating cash flow and periodic debt issuance. Like most Japanese industrials, the company maintains a conservative balance sheet relative to Western peers, with moderate [debt levels](/bond/) and steady dividends. The company returns cash to shareholders through dividends (modest, 2–3% yield typically) rather than aggressive buybacks. That reflects Japan's slower growth environment and the expectation that shareholder value accrues gradually.
+IHI funds its operations through a mix of operating cash flow and periodic debt issuance. Like most Japanese industrials, the company maintains a conservative balance sheet relative to Western peers, with moderate [debt levels](/bond/) and steady [dividends](/dividend/). The company returns cash to shareholders through dividends (modest, 2–3% yield typically) rather than aggressive buybacks. That reflects Japan's slower growth environment and the expectation that shareholder value accrues gradually.
 
 [Return on equity](/return-on-equity/) for IHI hovers in the low single digits—a feature of capital-intensive, contract-based manufacturing. The company generates cash from operations but must reinvest much of it to maintain and upgrade facilities. That reinvestment shows up as capital expenditure and R&D, keeping ROE modest but supporting the company's competitive position for the next contract cycle.
 

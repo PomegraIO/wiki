@@ -33,7 +33,7 @@ The 10-K details the company's manufacturing footprint: whether devices are manu
 
 ## Revenue Concentration and Customer Base
 
-If GUIDED THERAPEUTICS has cleared and commercialized devices, the 10-K discloses revenue by product and customer concentration. The filing typically identifies major customers (large hospital systems, distributor chains, international distributors) and the percentage of revenue from the top customers. A few large hospital systems or distributors may account for the majority of sales; loss of a major customer can cause revenue disruption. The filing should also disclose reorder rates: are hospitals and clinicians adopting the device as standard of care, or do sales require continuous new customer acquisition? Reorder revenue indicates product-market fit; declining reorder rates suggest adoption challenges or competitive pressure.
+If GUIDED THERAPEUTICS has cleared and commercialized devices, the 10-K discloses revenue by product and customer concentration. The filing typically identifies major customers (large hospital systems, distributor chains, international distributors) and the percentage of revenue from the top customers. A few large hospital systems or distributors may account for the majority of sales; loss of a major customer can cause revenue disruption. The filing should also disclose reorder rates: are hospitals and clinicians adopting the device as standard of care, or do sales require continuous new customer [acquisition](/acquisition/)? Reorder revenue indicates product-market fit; declining reorder rates suggest adoption challenges or competitive pressure.
 
 ## Research and Development Spending and Pipeline
 

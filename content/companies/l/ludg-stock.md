@@ -4,7 +4,7 @@ description: "A specialty eyewear retailer focused on boutique optical retail an
 keywords: ["retail", "eyewear", "consumer brands", "branded merchandise"]
 ---
 
-*Eyewear retail has stratified into three tiers: mass-market chains (Lenscrafters, Pearle Vision), luxury conglomerates (Luxottica), and digital disruptors (Warby Parker, Zenni). **LUDWIG ENTERPRISES, INC.** (LUDG) operates in a fourth, smaller tier: the independent or regional boutique eyewear retailer that relies on curated brand selection, local professional expertise, and lifestyle positioning rather than scale or digital convenience. Where [LUCY](/lucy-stock/) manufactures proprietary innovation and [LUD](/lud-stock/) manufactures for others' brands, LUDG aggregates and sells brands—a different economics entirely.*
+*Eyewear retail has stratified into three tiers: mass-market chains (Lenscrafters, Pearle Vision), luxury conglomerates (Luxottica), and digital disruptors ([Warby Parker](/wrby-stock/), Zenni). **LUDWIG ENTERPRISES, INC.** (LUDG) operates in a fourth, smaller tier: the independent or regional boutique eyewear retailer that relies on curated brand selection, local professional expertise, and lifestyle positioning rather than scale or digital convenience. Where [LUCY](/lucy-stock/) manufactures proprietary innovation and [LUD](/lud-stock/) manufactures for others' brands, LUDG aggregates and sells brands—a different economics entirely.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LUDG</td></tr>
@@ -35,7 +35,7 @@ Versus [LUCY](/lucy-stock/), LUDG does not manufacture or own IP; it retails. LU
 
 Versus [LUD](/lud-stock/), the conglomerate, LUDG is pure-play retail with no manufacturing hedges. If wholesale eyewear costs rise, LUDG cannot lower them through captive supply; it must either raise prices (risking volume) or absorb margin loss.
 
-Versus [LUNG](/lung-stock/), a medical device maker, LUDG operates in the consumer/cosmetic segment, not the therapeutic segment. LUNG's market is driven by medical need and [insurance](/index-fund/); LUDG's is driven by preference and discretionary spending. LUDG is thus more cyclically sensitive—during downturns, consumers defer designer eyewear purchases.
+Versus [LUNG](/lung-stock/), a medical device maker, LUDG operates in the consumer/cosmetic segment, not the therapeutic segment. LUNG's market is driven by medical need and [insurance](/index-fund/); LUDG's is driven by preference and [discretionary spending](/discretionary-spending/). LUDG is thus more cyclically sensitive—during downturns, consumers defer designer eyewear purchases.
 
 ## Market Headwinds
 
@@ -49,7 +49,7 @@ LUDG's small size means it must be capital-efficient. Each store or franchise ou
 
 ## Research Path
 
-Readers of LUDG should assess the composition and health of its retail footprint: How many corporate stores versus franchises? What is the average revenue per store and trend? Are new stores profitable, or is growth capital-destructive? What is store-level [gross-profit-margin](/gross-profit-margin/) and how sensitive is it to wholesale price increases? Look for customer acquisition costs and repeat-purchase rates to gauge the durability of the brand relationship. Examine real-estate leases and occupancy costs as a percentage of store revenue; high occupancy costs limit profitability and flexibility.
+Readers of LUDG should assess the composition and health of its retail footprint: How many corporate stores versus franchises? What is the average revenue per store and trend? Are new stores profitable, or is growth capital-destructive? What is store-level [gross-profit-margin](/gross-profit-margin/) and how sensitive is it to wholesale price increases? Look for customer [acquisition](/acquisition/) costs and repeat-purchase rates to gauge the durability of the brand relationship. Examine real-estate leases and occupancy costs as a percentage of store revenue; high occupancy costs limit profitability and flexibility.
 
 <div class="wiki-seealso">
 

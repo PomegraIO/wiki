@@ -9,7 +9,7 @@ keywords:
 handwritten: true
 ---
 
-**Apex Critical Metals pursues strategic positions in mineral deposits that underpin clean energy and national security priorities.** The company operates in an intersection where commodity supply meets geopolitical risk—securing and processing the materials that electric vehicle batteries, renewable generators, and military systems require.
+**Apex [Critical Metals](/crml-stock/) pursues strategic positions in mineral deposits that underpin clean energy and national security priorities.** The company operates in an intersection where commodity supply meets geopolitical risk—securing and processing the materials that electric vehicle batteries, renewable generators, and military systems require.
 
 ## Mining & Development Focus
 

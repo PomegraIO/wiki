@@ -29,7 +29,7 @@ However, as 5G became more widespread and handset makers integrated 5G modems in
 
 ## Revenue Model and Customer Concentration
 
-Inseego generates revenue from device sales—both hardware that it designs or sources from manufacturing partners and sells under its own brand. The company also derives some income from software subscriptions and managed services, though hardware remains the dominant revenue driver. A material portion of sales flows through carrier relationships, meaning concentration risk with major telecom operators is a structural feature of the business.
+Inseego generates revenue from device sales—both hardware that it designs or sources from manufacturing partners and sells under its own brand. The company also derives some income from software subscriptions and managed services, though hardware remains the dominant revenue driver. A material portion of sales flows through carrier relationships, meaning [concentration risk](/concentration-risk/) with major telecom operators is a structural feature of the business.
 
 The device-hardware model carries inherent constraints. Product cycles are medium-term (devices are refreshed every two to three years), capital expenditure on inventory and tooling is material, and gross margins on physical goods are constrained by component costs and manufacturing efficiency. Unlike pure software businesses, Inseego cannot achieve infinite scale on a single codebase; each new device variant requires engineering, certification, and supply-chain management.
 

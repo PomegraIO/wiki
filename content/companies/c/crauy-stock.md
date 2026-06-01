@@ -29,7 +29,7 @@ Chery's lineup spans entry-level sedans and hatchbacks, compact crossovers, and 
 
 ## Electric Vehicle Transition and Strategic Pivot
 
-Chinese automakers face both urgent opportunity and existential pressure in electric vehicles. Chery has invested in EV platforms and battery technology, launching electric and plug-in hybrid variants across its model lines. The competitive landscape in EVs differs from traditional internal-combustion vehicles: battery sourcing, software-and-connectivity features, and charging-infrastructure partnerships become critical differentiators alongside manufacturing cost. BYD, Tesla (through Gigafactory Shanghai), Nio, and others have gained EV market share that Chery must recapture or lose. Chery's cost discipline and manufacturing scale apply to EVs as well, but the technology race—in battery chemistry, range, autonomous-driving features, and user interface—is not yet settled in Chery's favor. The company's success in EVs will determine whether it remains merely a volume manufacturer or graduates to defensible segments.
+Chinese automakers face both urgent opportunity and existential pressure in electric vehicles. Chery has invested in EV platforms and battery technology, launching electric and plug-in hybrid variants across its model lines. The competitive landscape in EVs differs from traditional internal-combustion vehicles: battery sourcing, software-and-connectivity features, and charging-infrastructure partnerships become critical differentiators alongside manufacturing cost. BYD, [Tesla](/tsla-stock/) (through Gigafactory Shanghai), Nio, and others have gained EV market share that Chery must recapture or lose. Chery's cost discipline and manufacturing scale apply to EVs as well, but the technology race—in battery chemistry, range, autonomous-driving features, and user interface—is not yet settled in Chery's favor. The company's success in EVs will determine whether it remains merely a volume manufacturer or graduates to defensible segments.
 
 ## Geographic Expansion Beyond China
 
@@ -41,7 +41,7 @@ Chery's reliance on suppliers within China, its manufacturing footprint inside C
 
 ## Profitability, Capital Intensity, and Return Metrics
 
-Chery operates in an industry with high capital intensity—new models, retooling factories, and EV platform development require sustained investment. Automotive manufacturing typically generates low [return-on-equity](/return-on-equity/) even for well-managed producers, and Chery's position as a cost leader in price-sensitive segments implies single-digit operating margins at peak efficiency. Capital returns to shareholders come through reinvestment in competitive capability rather than dividends; a sustained downturn in Chinese domestic demand or losing share to lower-cost producers would quickly erode profitability.
+Chery operates in an industry with high capital intensity—new models, retooling factories, and EV platform development require sustained investment. Automotive manufacturing typically generates low [return-on-equity](/return-on-equity/) even for well-managed producers, and Chery's position as a cost leader in price-sensitive segments implies single-digit [operating margins](/operating-margin/) at peak efficiency. Capital returns to shareholders come through reinvestment in competitive capability rather than [dividends](/dividend/); a sustained downturn in Chinese domestic demand or losing share to lower-cost producers would quickly erode profitability.
 
 ## Market Position Relative to Peers
 

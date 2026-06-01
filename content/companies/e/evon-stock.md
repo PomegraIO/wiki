@@ -30,7 +30,7 @@ This evolution from pure financial investor to operational platform distinguishe
 
 ## Sector Focus and Diversification Trade-Off
 
-EvoNexus Group's portfolio spans multiple sectors—technology, healthcare, deep science, and sometimes traditional manufacturing undergoing digitalization. This diversification reflects both the group's founding thesis (that innovation happens across sectors) and a practical reality: concentration in a single sector or technology bet would expose the holding company to catastrophic risk if that sector contracted or a key technology failed to mature.
+EvoNexus Group's portfolio spans multiple sectors—technology, healthcare, deep science, and sometimes traditional manufacturing undergoing digitalization. This [diversification](/diversification/) reflects both the group's founding thesis (that innovation happens across sectors) and a practical reality: concentration in a single sector or technology bet would expose the holding company to catastrophic risk if that sector contracted or a key technology failed to mature.
 
 The tension inherent in this approach is real. Broad diversification reduces the chances of catastrophic loss but also means the firm does not dominate any single space. A competitor focused entirely on artificial intelligence, or on biotechnology, or on climate technology might move faster or achieve greater penetration in their chosen niche. EvoNexus's bet is that the ability to move capital and talent between sectors, and to share infrastructure across portfolio companies, provides an advantage that offset that niche disadvantage.
 

@@ -17,7 +17,7 @@ keywords: ["solar energy", "renewable energy", "supply chain", "capital intensit
 
 ## Commodity Input Costs and Margin Compression
 
-FTC Solar's trackers are built from steel, motors, electronics, and rare-earth materials. When steel prices spike (due to Chinese tariffs, ore supply disruptions, or global shipping costs), FTC faces a choice: absorb the cost hit or raise prices and risk losing bids. Large project developers and utilities—FTC's customers—have substantial bargaining power; they can shop for alternatives or put projects on hold when component costs rise. During periods of input inflation, FTC's gross margins compress rapidly. The company has limited pricing power because its product is largely commoditized; customers care about efficacy and cost, not brand loyalty. Long-term contracts may lock in prices before costs are known, further squeezing margins.
+FTC Solar's trackers are built from steel, motors, electronics, and rare-earth materials. When steel prices spike (due to Chinese tariffs, ore supply disruptions, or global shipping costs), FTC faces a choice: absorb the cost hit or raise prices and risk losing bids. Large project developers and utilities—FTC's customers—have substantial bargaining power; they can shop for alternatives or put projects on hold when component costs rise. During periods of input [inflation](/inflation/), FTC's gross margins compress rapidly. The company has limited pricing power because its product is largely commoditized; customers care about efficacy and cost, not brand loyalty. Long-term contracts may lock in prices before costs are known, further squeezing margins.
 
 ## Customer and Revenue Concentration
 

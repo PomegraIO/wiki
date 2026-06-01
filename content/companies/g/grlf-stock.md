@@ -33,7 +33,7 @@ The company manages inventory conversion across states with different potency li
 
 ## Retail Operations and Customer Interface
 
-Licensed cannabis retail locations are points of sale where adult consumers (or medical patients) purchase products. GREEN LEAF INNOVATIONS either owns and operates its own retail stores or sells to third-party retailers. Where it operates retail, the company faces point-of-sale logistics: inventory tracking, compliance with per-transaction purchase limits (which vary by state), staff training on product knowledge and legal compliance, and customer acquisition in markets where advertising is heavily restricted or banned.
+Licensed cannabis retail locations are points of sale where adult consumers (or medical patients) purchase products. GREEN LEAF INNOVATIONS either owns and operates its own retail stores or sells to third-party retailers. Where it operates retail, the company faces point-of-sale logistics: inventory tracking, compliance with per-transaction purchase limits (which vary by state), staff training on product knowledge and legal compliance, and customer [acquisition](/acquisition/) in markets where advertising is heavily restricted or banned.
 
 Retail locations must be security-hardened. Cannabis sales attract theft, so stores require cameras, alarm systems, and sometimes security staff. Inventory must be tracked in state track-and-trace systems (like METRC, used in many states), which require real-time data entry and reconciliation. If inventory counts don't match the state system, the store can face fines or license suspension.
 
@@ -55,7 +55,7 @@ Staff retention is material. Experienced growers or trimmers command higher wage
 
 ## Regulatory Risk and Licensing
 
-The federal government classifies cannabis as a [Schedule I controlled substance](/stock/), making the entire industry technically federal crime. This means banks are reluctant to serve cannabis businesses, forcing many to operate in cash or through specialty lenders. For a public company, this creates operational friction: access to capital markets is limited, debt financing is expensive and scarce, and some investors are barred from holdings by policy.
+The federal government classifies cannabis as a [Schedule I controlled substance](/stock/), making the entire industry technically federal crime. This means banks are reluctant to serve cannabis businesses, forcing many to operate in cash or through specialty lenders. For a public company, this creates operational friction: access to capital markets is limited, [debt financing](/debt-financing/) is expensive and scarce, and some investors are barred from holdings by policy.
 
 State licenses are renewable, typically every two years. License renewal requires demonstrating compliance with all prior regulations, and regulators can deny renewal if operations have violated state law. This creates ongoing compliance risk and potential loss of the licenses that support operations.
 
@@ -63,7 +63,7 @@ State licenses are renewable, typically every two years. License renewal require
 
 GREEN LEAF INNOVATIONS competes against larger, multi-state operators with more facilities and higher production volumes, which can achieve better unit costs through scale, and against vertically integrated producers that also control retail distribution. Smaller operators compete on quality, specialty strains, or localized customer loyalty. The company's competitive position in each state is partly determined by the scale of its licensed facilities and partly by execution excellence in cultivation and retail.
 
-Margins are pressured by market saturation in developed cannabis states and by federal illegality, which prevents efficient capital access. The company must generate sufficient cash from operations to fund facility expansion and upgrades without relying on public debt or equity at favorable terms.
+Margins are pressured by market saturation in developed cannabis states and by federal illegality, which prevents efficient capital access. The company must generate sufficient cash from operations to fund facility expansion and upgrades without relying on [public debt](/public-debt/) or equity at favorable terms.
 
 GREEN LEAF INNOVATIONS' durability depends on maintaining operational control across cultivation, processing, and retail while managing state-by-state regulatory complexity. The business has no moat beyond license scarcity—and licenses are increasingly available—so advantage flows to operators with lower costs, higher quality, and better retail experience.
 

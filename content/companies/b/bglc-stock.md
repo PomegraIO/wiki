@@ -33,7 +33,7 @@ Extraction is often the first loss point. Some samples contain little usable gen
 
 Genetic laboratories operate under Clinical Laboratory Improvement Amendments (CLIA) in the United States, requiring accreditation and ongoing quality assurance. BGLC must run internal controls—samples of known sequence or composition—with each batch of real samples. If controls don't match expected results, the entire batch is suspect and may need reprocessing.
 
-Quality assurance extends to reagent management. BGLC must verify that each batch of extraction reagents, sequencing chemistry, or diagnostic reagents works as expected before using it on patient samples. Expired or defective reagents will produce errors or incomplete results. The company must maintain inventory systems that track reagent lot numbers and expiration dates and prevent use of suspect material.
+Quality assurance extends to reagent management. BGLC must verify that each batch of extraction reagents, sequencing chemistry, or diagnostic reagents works as expected before using it on patient samples. Expired or defective reagents will produce errors or incomplete results. The company must maintain inventory systems that track reagent lot numbers and [expiration dates](/expiration-contracts/) and prevent use of suspect material.
 
 Equipment qualification is also ongoing. Sequencing machines, thermal cyclers, and other lab equipment require regular calibration and maintenance. A machine producing incorrect results silently can invalidate weeks of samples before the error is detected. BGLC must run quality-assurance samples through equipment regularly to catch drift or malfunction early.
 
@@ -43,7 +43,7 @@ If BGLC performs DNA sequencing, the laboratory operates Next-Generation Sequenc
 
 Sequencing machines are expensive (hundreds of thousands of dollars) and require high uptime. A machine down for service means samples queue; turnaround time increases and customers become frustrated. BGLC must budget for maintenance, schedule it during low-demand periods when possible, and maintain backup instruments if throughput is critical.
 
-The computational infrastructure handling raw sequencing data is equally critical. BGLC must have servers with sufficient storage and processing power to align sequences to a reference genome and call variants (identify differences from the reference). A computational failure or bottleneck delays result reporting. BGLC must monitor computational jobs, manage data storage, and ensure that data is backed up and secure.
+The computational infrastructure handling raw sequencing data is equally critical. BGLC must have servers with sufficient storage and processing power to align sequences to a reference genome and call variants (identify differences from the reference). A computational failure or bottleneck delays result reporting. BGLC must monitor computational jobs, manage [data storage](/dtst-stock/), and ensure that data is backed up and secure.
 
 ## Variant Calling and Interpretation
 

@@ -49,7 +49,7 @@ The differentiation from larger pharma is both advantage and liability. Advantag
 
 Clinical-stage biotech is defined by cash burn: CytoMed consumes capital on R&D, clinical trials, regulatory submissions, and staff without offsetting revenue. The company must repeatedly raise capital (through [secondary offerings](/stock/), [bonds](/bond/), or partnerships) or access debt facilities to fund its programs. The amount of capital available, the terms at which it is available, and the company's ability to efficiently deploy capital all determine how long the firm can survive and progress candidates toward approval.
 
-A severe market downturn that restricts access to biotech capital or a shift in investor sentiment away from cellular therapeutics can force CytoMed to reduce scope, sell assets, or pursue a merger or acquisition. Conversely, positive trial data and strong investor appetite for growth-stage biotech can accelerate funding and expand the pipeline. CytoMed's trajectory is tightly coupled to capital markets conditions and the conviction of its investors.
+A severe market downturn that restricts access to biotech capital or a shift in investor sentiment away from cellular therapeutics can force CytoMed to reduce scope, sell assets, or pursue a [merger](/merger/) or [acquisition](/acquisition/). Conversely, positive trial data and strong investor appetite for growth-stage biotech can accelerate funding and expand the pipeline. CytoMed's trajectory is tightly coupled to capital markets conditions and the conviction of its investors.
 
 <div class="wiki-seealso">
 ### Closely related

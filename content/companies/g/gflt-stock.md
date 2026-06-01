@@ -4,7 +4,7 @@ description: "Small-cap proptech firm whose economics hinge on converting fracti
 keywords: ["real estate", "fractional ownership", "proptech", "SEC filing", "small-cap equity"]
 ---
 
-*[GenFlat Holdings, Inc.](/gflt-stock/) (GFLT) is a micro-cap public company trading on US exchanges and filing with the SEC under CIK 1796949. The firm operates in the intersection of real estate finance and property technology — specifically in fractionalizing residential property ownership into marketable stakes for retail and institutional investors. Its viability turns on whether it can overcome the regulatory friction, customer acquisition costs, and legal precedent that have challenged prior fractional-ownership platforms.*
+*[GenFlat Holdings, Inc.](/gflt-stock/) (GFLT) is a micro-cap public company trading on US exchanges and filing with the SEC under CIK 1796949. The firm operates in the intersection of real estate finance and property technology — specifically in fractionalizing residential property ownership into marketable stakes for retail and institutional investors. Its viability turns on whether it can overcome the regulatory friction, customer [acquisition](/acquisition/) costs, and legal precedent that have challenged prior fractional-ownership platforms.*
 
 <aside class="wiki-infobox">
 <table>
@@ -20,7 +20,7 @@ keywords: ["real estate", "fractional ownership", "proptech", "SEC filing", "sma
 
 The central economic logic of GenFlat is that real estate ownership has historically been binary: you either own a property or you don't. That all-or-nothing constraint locks out retail investors with modest capital and creates inefficiency. A $500,000 home cannot be easily divided among 50 people; the transaction costs, legal complexity, and coordination burden make it economically irrational. Fractional platforms promise to digitize that division, converting indivisible property into tradeable shares.
 
-For GenFlat, the unit economics of a single transaction are promising in theory: the company takes a small fee (often a percentage of transaction value or ongoing revenue share) from each purchase or sale of fractional stakes. If enough investors trade fractional properties through GenFlat's platform, the revenue accumulates with minimal marginal cost — the software runs whether the platform moves \$1 million or \$100 million worth of property stakes. The company does not hold inventory, does not service mortgages, and does not carry real estate risk on its balance sheet. That outsourced-risk model is why the venture has attracted capital.
+For GenFlat, the unit economics of a single transaction are promising in theory: the company takes a small fee (often a percentage of transaction value or ongoing revenue share) from each purchase or sale of fractional stakes. If enough investors trade fractional properties through GenFlat's platform, the revenue accumulates with minimal marginal cost — the software runs whether the platform moves \$1 million or \$100 million worth of property stakes. The company does not hold inventory, does not service mortgages, and does not carry real estate risk on its [balance sheet](/balance-sheet/). That outsourced-risk model is why the venture has attracted capital.
 
 ## The Execution Chasm: Regulatory, Customer, and Legal
 
@@ -44,11 +44,11 @@ Third, differentiate from competitors on speed, cost, user experience, or proper
 
 One genuine secular advantage for fractional-ownership platforms is demographic. Retail investors increasingly expect fractional access to assets — fractional stocks became standard with platforms like Robinhood, and fractional crypto is now commonplace. The cultural expectation that good assets should be divisible is rising. GenFlat benefits from that wind.
 
-Additionally, interest in real estate as an income-generating asset has grown among younger cohorts who may not have capital for outright ownership. A fractional model that offers cash-flow participation (via dividends from rents or appreciation) without the headache of property management appeals to a specific investor archetype.
+Additionally, interest in real estate as an income-generating asset has grown among younger cohorts who may not have capital for outright ownership. A fractional model that offers cash-flow participation (via [dividends](/dividend/) from rents or appreciation) without the headache of property management appeals to a specific investor archetype.
 
 ## Reading the Earnings Path
 
-To assess GenFlat's viability, watch for: (1) growth in gross transaction volume (dollar value of fractional stakes traded); (2) the spread between that volume and operating expenses (customer acquisition cost, regulatory compliance, technology development); (3) the internal secondary market depth (what percentage of exits are investor-to-investor versus forced property sales); and (4) regulatory endorsements or licensing wins that reduce future friction.
+To assess GenFlat's viability, watch for: (1) growth in gross transaction volume (dollar value of fractional stakes traded); (2) the spread between that volume and operating expenses (customer acquisition cost, regulatory compliance, technology development); (3) the internal [secondary market](/secondary-market/) depth (what percentage of exits are investor-to-investor versus forced property sales); and (4) regulatory endorsements or licensing wins that reduce future friction.
 
 These metrics will appear in the firm's [10-K](/10-k/) filing with the SEC. A company in this space with rising volume but expanding losses may be buying growth unsustainably; one with modest volume but positive unit economics may be on a viable path but too small to interest most investors.
 

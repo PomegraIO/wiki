@@ -43,7 +43,7 @@ The retail supply segment — the one that bills consumers for the electricity t
 
 ## Navigating the energy transition
 
-Like all European utilities, EDP faces a historical shift in how electricity is generated and used. The European Union has set a [target](/tgt-stock/) for net-zero emissions by mid-century and interim goals to cut fossil fuel use and expand renewables dramatically. That means EDP must build new wind and solar capacity while shrinking coal generation, and do so in a way that keeps the grid stable and electricity available and affordable.
+Like all European utilities, EDP faces a historical shift in how electricity is generated and used. The European Union has set a target for net-zero emissions by mid-century and interim goals to cut fossil fuel use and expand renewables dramatically. That means EDP must build new wind and solar capacity while shrinking coal generation, and do so in a way that keeps the grid stable and electricity available and affordable.
 
 The transition is complex. Hydropower and wind are both variable — they produce power when conditions are right, not necessarily when demand is highest. The grid needs balance, so EDP and other utilities have invested in battery storage, pumped hydropower (using excess electricity to pump water uphill, then releasing it through turbines when needed), and flexible gas plants that can ramp up and down quickly. Managing this balancing act while meeting climate goals is the central technical and business challenge.
 

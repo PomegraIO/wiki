@@ -23,13 +23,13 @@ This is not a novel biological concept—competitors (Bayer, Merck, and smaller 
 
 ## The Binary Bet: Clinical Outcomes Trump Macroeconomics
 
-Cyclerion is a zero-revenue, cash-burning entity. It has no product sales, no manufacturing or distribution business, and no revenue-generating assets. Its only asset is its intellectual property and the conduct and results of its clinical trials. In this model, macroeconomic cycles are nearly irrelevant. Cyclerion will not prosper in economic booms or suffer in recessions because of consumer spending or industrial demand. Instead, it thrives or falters based on:
+Cyclerion is a zero-revenue, cash-burning entity. It has no product sales, no manufacturing or distribution business, and no revenue-generating assets. Its only asset is its intellectual property and the conduct and results of its clinical trials. In this model, macroeconomic cycles are nearly irrelevant. Cyclerion will not prosper in economic booms or suffer in [recessions](/recession/) because of consumer spending or industrial demand. Instead, it thrives or falters based on:
 
 1. **Trial execution and timelines**: Can the company enroll and retain patients in its Phase 2 and anticipated Phase 3 trials? Are sites and contract research organizations functioning normally, or are they overwhelmed by other trial activity or staffing shortages? Delays in patient enrollment or data readouts compress the runway and increase cash burn per unit of clinical progress.
 
 2. **Efficacy and safety signals**: Do the interim data show compelling benefit in the primary endpoint? Are there unexpected adverse events or organ toxicities that force dose reductions or trial termination?
 
-3. **Investor appetite for biotech capital raises**: Cyclerion will need multiple rounds of funding to advance its pipeline. During periods of robust biotech venture and public equity appetite (venture dollars flowing, IPOs popular, equity research coverage bullish), Cyclerion can raise capital at favorable terms and extend its runway. When biotech funding dries up (interest rates rise, risk appetite falls, a high-profile clinical failure spooks the sector), Cyclerion faces capital dilution, failed financings, or insolvency.
+3. **Investor appetite for biotech capital raises**: Cyclerion will need multiple rounds of funding to advance its pipeline. During periods of robust biotech venture and public equity appetite (venture dollars flowing, IPOs popular, equity research coverage bullish), Cyclerion can raise capital at favorable terms and extend its runway. When biotech funding dries up ([interest rates](/interest-rate/) rise, risk appetite falls, a high-profile clinical failure spooks the sector), Cyclerion faces capital dilution, failed financings, or insolvency.
 
 4. **Regulatory clarity and partnerships**: Win a partnership with a large pharma company and Cyclerion's cash position and credibility improve markedly. Face a regulatory setback or rejection of its chemistry (e.g., an FDA feedback letter suggesting a new preclinical program is required) and the timeline and cost balloon.
 
@@ -37,9 +37,9 @@ None of these drivers are cyclical in the economic sense. A recession does not i
 
 ## Cash Burn, Runway, and Capital Efficiency
 
-As a pre-commercial biotech firm, Cyclerion's survival metric is cash runway—how long its balance sheet can sustain operating expenses given burn rate. A typical Phase 2 program costs USD 10–50 million per indication to reach a clinically meaningful readout. Cyclerion's portfolio spans at least 3–4 serious programs, implying a multi-year, high-hundred-million-dollar path to any meaningful clinical and commercial validation.
+As a pre-commercial biotech firm, Cyclerion's survival metric is cash runway—how long its [balance sheet](/balance-sheet/) can sustain operating expenses given burn rate. A typical Phase 2 program costs USD 10–50 million per indication to reach a clinically meaningful readout. Cyclerion's portfolio spans at least 3–4 serious programs, implying a multi-year, high-hundred-million-dollar path to any meaningful clinical and commercial validation.
 
-The company has completed one or more capital raises (evident from its public status) and presumably has sufficient runway for near-term trial milestones. However, if trial enrollment lags, efficacy signals disappoint, or unexpected safety concerns emerge, Cyclerion may be forced to deprioritize or discontinue programs, layoff staff, or seek bridge financing at a severe dilution to existing shareholders. Conversely, a positive Phase 2b efficacy readout in a large indication like HFpEF could trigger a financing boom, a strategic partnership, or even an acquisition offer.
+The company has completed one or more capital raises (evident from its public status) and presumably has sufficient runway for near-term trial milestones. However, if trial enrollment lags, efficacy signals disappoint, or unexpected safety concerns emerge, Cyclerion may be forced to deprioritize or discontinue programs, layoff staff, or seek bridge financing at a severe dilution to existing shareholders. Conversely, a positive Phase 2b efficacy readout in a large indication like HFpEF could trigger a financing boom, a strategic partnership, or even an [acquisition](/acquisition/) offer.
 
 ## The Secular Trend: Aging Populations and Disease Prevalence
 

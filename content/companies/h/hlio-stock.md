@@ -21,7 +21,7 @@ Helios manufactures electro-hydraulic actuators, which are devices that convert 
 
 ## Defense and Aerospace Concentration
 
-The vast majority of Helios revenue derives from defense spending and aerospace manufacturers' need for flight-critical systems. Major customers include Boeing, Lockheed Martin, General Dynamics, and naval ship builders in the United States and allied nations. Foreign military sales (FMS) programs, where the U.S. government facilitates defense equipment exports to partners like Israel, Japan, and NATO allies, represent another significant channel. This customer concentration creates both security and vulnerability: the company's fortunes rise with defense budgets and military aircraft procurement cycles, but it operates under strict export controls and must maintain ITAR (International Traffic in Arms Regulations) compliance, meaning its manufacturing and technical data are tightly regulated by the U.S. government.
+The vast majority of Helios revenue derives from defense spending and aerospace manufacturers' need for flight-critical systems. Major customers include [Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/), [General Dynamics](/gd-stock/), and naval ship builders in the United States and allied nations. Foreign military sales (FMS) programs, where the U.S. government facilitates defense equipment exports to partners like Israel, Japan, and NATO allies, represent another significant channel. This customer concentration creates both security and vulnerability: the company's fortunes rise with defense budgets and military aircraft procurement cycles, but it operates under strict export controls and must maintain ITAR (International Traffic in Arms Regulations) compliance, meaning its manufacturing and technical data are tightly regulated by the U.S. government.
 
 ## The Unsung Infrastructure of Modern Weapons Systems
 
@@ -37,7 +37,7 @@ The company operates manufacturing facilities in the United States and maintains
 
 ## Cyclicality and the Defense Budget
 
-Helios's revenue is directly correlated with defense spending levels and military aircraft procurement rates. When governments expand defense budgets or when major acquisition programs ramp up (new fighter jets, naval vessels, missile systems), Helios sees revenue growth. Conversely, budget cuts or program cancellations create revenue headwinds. The company has limited ability to diversify away from this dependency; its core competency is so specialized that commercial applications remain marginal. A customer looking for Helios actuators is committing to a relationship that will last decades, through political cycles, wars, and shifts in strategic posture.
+Helios's revenue is directly correlated with defense spending levels and military aircraft procurement rates. When governments expand defense budgets or when major [acquisition](/acquisition/) programs ramp up (new fighter jets, naval vessels, missile systems), Helios sees revenue growth. Conversely, budget cuts or program cancellations create revenue headwinds. The company has limited ability to diversify away from this dependency; its core competency is so specialized that commercial applications remain marginal. A customer looking for Helios actuators is committing to a relationship that will last decades, through political cycles, wars, and shifts in strategic posture.
 
 <div class="wiki-seealso">
 ### Closely related

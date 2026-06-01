@@ -18,11 +18,11 @@ The market opportunity is substantial. Sickle-cell patients and their caregivers
 
 ## Competitive Landscape in Sickle-Cell Therapy
 
-Emmaus is not alone in pursuing sickle-cell therapeutics. Competitors include large pharmaceutical companies (Novartis, Vertex) with approved therapies, and numerous smaller biotech firms with programs in development. Vertex Pharmaceuticals, for instance, has launched CASGEVY, a gene-edited therapy, and other disease-modifying agents. The sickle-cell space is increasingly crowded, meaning Emmaus must differentiate its approach—superior efficacy, better safety profile, simpler administration, lower cost—to capture meaningful market share. Alternatively, Emmaus may focus on a specific sickle-cell complication (e.g., pulmonary hypertension secondary to sickle-cell disease) where competition is lighter.
+Emmaus is not alone in pursuing sickle-cell therapeutics. Competitors include large pharmaceutical companies ([Novartis](/nvs-stock/), Vertex) with approved therapies, and numerous smaller biotech firms with programs in development. Vertex Pharmaceuticals, for instance, has launched CASGEVY, a gene-edited therapy, and other disease-modifying agents. The sickle-cell space is increasingly crowded, meaning Emmaus must differentiate its approach—superior efficacy, better safety profile, simpler administration, lower cost—to capture meaningful market share. Alternatively, Emmaus may focus on a specific sickle-cell complication (e.g., pulmonary hypertension secondary to sickle-cell disease) where competition is lighter.
 
 ## Pulmonary Hypertension as a Secondary Market
 
-Emmaus's interest in pulmonary hypertension (high blood pressure in the lung vasculature) reflects a dual strategy. Pulmonary hypertension is itself a rare disease, affecting hundreds of thousands globally, with several FDA-approved therapies but substantial unmet need. Moreover, pulmonary hypertension is a complication of sickle-cell disease, making it a natural extension of Emmaus's sickle-cell franchise. A therapy that reduces sickle-cell-associated pulmonary hypertension could serve both the sickle-cell and idiopathic pulmonary-hypertension populations. This expansion of indication breadth provides revenue diversification and extends the addressable market.
+Emmaus's interest in pulmonary hypertension (high blood pressure in the lung vasculature) reflects a dual strategy. Pulmonary hypertension is itself a rare disease, affecting hundreds of thousands globally, with several FDA-approved therapies but substantial unmet need. Moreover, pulmonary hypertension is a complication of sickle-cell disease, making it a natural extension of Emmaus's sickle-cell franchise. A therapy that reduces sickle-cell-associated pulmonary hypertension could serve both the sickle-cell and idiopathic pulmonary-hypertension populations. This expansion of indication breadth provides revenue [diversification](/diversification/) and extends the addressable market.
 
 ## Clinical Development and Regulatory Strategy
 
@@ -40,7 +40,7 @@ Biopharmaceutical manufacturing is complex, especially for therapies requiring s
 
 ## Capital Requirements and Funding
 
-Biopharmaceutical development consumes substantial capital. Clinical trials, regulatory preparation, and manufacturing scale-up collectively cost hundreds of millions. Emmaus must fund ongoing operations through a combination of equity financing, debt, and occasional partnerships or licensing deals. Shareholder dilution from repeated equity raises erodes existing investor stakes. A company that raises capital repeatedly without reaching significant milestones (regulatory approval, revenue) may see its stock price stagnate or decline despite operating progress.
+Biopharmaceutical development consumes substantial capital. Clinical trials, regulatory preparation, and manufacturing scale-up collectively cost hundreds of millions. Emmaus must fund ongoing operations through a combination of [equity financing](/equity-financing/), debt, and occasional partnerships or licensing deals. Shareholder dilution from repeated equity raises erodes existing investor stakes. A company that raises capital repeatedly without reaching significant milestones (regulatory approval, revenue) may see its stock price stagnate or decline despite operating progress.
 
 ## Partnering and Out-Licensing
 

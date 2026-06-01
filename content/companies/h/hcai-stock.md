@@ -41,7 +41,7 @@ Additionally, government agencies are notoriously slow to pay invoices, and coll
 
 ## Exchange-Rate Exposure
 
-The company's operations are denominated in Chinese yuan, but its stock is traded in US dollars. Currency fluctuations can significantly affect reported earnings for US shareholders, independent of operational performance. A weakening yuan would boost reported US dollar revenues, while a strengthening yuan would suppress them. Over multi-year holding periods, this can be a material headwind or tailwind.
+The company's operations are denominated in Chinese yuan, but its stock is traded in [US dollars](/us-dollar/). Currency fluctuations can significantly affect reported earnings for US shareholders, independent of operational performance. A weakening yuan would boost reported US dollar revenues, while a strengthening yuan would suppress them. Over multi-year [holding periods](/holding-period/), this can be a material headwind or tailwind.
 
 ## Unit Economics and Path to Profitability
 
@@ -59,8 +59,8 @@ As the platform grows and handles more data, the company becomes a target for da
 
 ## Capital Requirements and Dilution Risk
 
-To maintain market share and compete against rivals, Huachen likely needs to invest continuously in new cities, new customers, and technology upgrades. This requires capital. If the company cannot generate sufficient free cash flow, it will need to raise equity or debt. Equity raises dilute existing shareholders, while debt raises create fixed obligations that reduce financial flexibility during downturns.
+To maintain market share and compete against rivals, Huachen likely needs to invest continuously in new cities, new customers, and technology upgrades. This requires capital. If the company cannot generate sufficient [free cash flow](/free-cash-flow/), it will need to raise equity or debt. Equity raises dilute existing shareholders, while debt raises create fixed obligations that reduce financial flexibility during downturns.
 
 ## Path to Value: Constraints
 
-Huachen operates in an opaque, relationship-driven market in a country with high geopolitical risk to US investors. Margins are likely thin, competition is intense, and the company has limited differentiation beyond its software and brand. Growth is achievable but not guaranteed, and profitability requires disciplined execution in a market where government policy can shift rapidly. For investors, the risk-reward calculus is unfavorable without material discount to intrinsic value.
+Huachen operates in an opaque, relationship-driven market in a country with high geopolitical risk to US investors. Margins are likely thin, competition is intense, and the company has limited differentiation beyond its software and brand. Growth is achievable but not guaranteed, and profitability requires disciplined execution in a market where government policy can shift rapidly. For investors, the risk-reward calculus is unfavorable without material discount to [intrinsic value](/intrinsic-value/).

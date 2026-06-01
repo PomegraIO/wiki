@@ -47,7 +47,7 @@ The regulatory environment is also emerging. Some cities and jurisdictions have 
 
 ## Financial structure and runway
 
-KSCP, as a hardware and service company with high upfront capital requirements, likely requires continuous funding or strong unit economics and cash generation to scale. The company's [10-K](/10-k/) will disclose cash burn, customer acquisition costs (how much KSCP spends to win a new deployment), customer lifetime value (the cumulative profit from a customer), and capital expenditures for manufacturing.
+KSCP, as a hardware and service company with high upfront capital requirements, likely requires continuous funding or strong unit economics and cash generation to scale. The company's [10-K](/10-k/) will disclose cash burn, customer [acquisition](/acquisition/) costs (how much KSCP spends to win a new deployment), customer lifetime value (the cumulative profit from a customer), and capital expenditures for manufacturing.
 
 Profitability in robotics and hardware is rarely achieved until scale. KSCP may operate at a loss for years while it scales deployments and manufacturing. Once volume grows, marginal costs fall and the recurring subscription model generates strong cash returns. This is a common path for venture-backed hardware companies, and KSCP's path reflects similar dynamics.
 

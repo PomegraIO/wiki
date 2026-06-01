@@ -4,7 +4,7 @@ description: "Marshall Islands-flagged ship owner operating a modest tanker flee
 keywords: ["shipping", "tanker", "maritime", "Marshall Islands", "capital-intensive", "commodity"]
 ---
 
-*Imperial Petroleum Inc./Marshall Islands is a **IMPP**-listed maritime shipping company that owns and operates a fleet of oil tankers engaged in the carriage of crude oil and refined petroleum products across global routes. It competes not through scale or technological advantage but through the disciplined management of a modest asset base in one of the most cyclical industries—where profitability swings on global energy demand, spot rates, and the availability of profitable trade routes.*
+*Imperial Petroleum Inc./Marshall Islands is a **IMPP**-listed maritime shipping company that owns and operates a fleet of oil tankers engaged in the carriage of [crude oil](/crude-oil/) and refined petroleum products across global routes. It competes not through scale or technological advantage but through the disciplined management of a modest asset base in one of the most cyclical industries—where profitability swings on global energy demand, spot rates, and the availability of profitable trade routes.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IMPP</td></tr>
@@ -37,7 +37,7 @@ Tanker shipping does not exist in a vacuum—it follows the physical flows of cr
 
 ## Access to Capital and Refinancing Risk
 
-A shipping company's ability to fund fleet maintenance, add new vessels, or refinance debt is essential to survival. IMPP, as a smaller, thinly traded company, may face higher borrowing costs and less access to capital markets than giants like Frontline. During periods of credit stress, a smaller operator can find itself unable to refinance maturing debt or fund necessary maintenance, forcing asset sales or dilutive equity raises. The company's balance sheet—including its [debt](/bond/) levels, available [credit lines](/stock/), and ability to generate cash from operations—determines its resilience through a down cycle.
+A shipping company's ability to fund fleet maintenance, add new vessels, or refinance debt is essential to survival. IMPP, as a smaller, thinly traded company, may face higher borrowing costs and less access to capital markets than giants like Frontline. During periods of credit stress, a smaller operator can find itself unable to refinance maturing debt or fund necessary maintenance, forcing asset sales or dilutive equity raises. The company's [balance sheet](/balance-sheet/)—including its [debt](/bond/) levels, available [credit lines](/stock/), and ability to generate cash from operations—determines its resilience through a down cycle.
 
 ## Operational Execution in a Commodity Market
 
@@ -45,6 +45,6 @@ Because the tanker market is highly competitive and rates are set globally, IMPP
 
 ## Research and Due Diligence
 
-IMPP's 10-K annual report and quarterly filings with the SEC disclose the company's fleet composition (vessel names, ages, carrying capacities), operational metrics (revenue per ton-mile, utilization rates), debt structure, and management's commentary on market conditions. A reader evaluating IMPP should examine whether the company has hedged fuel costs or taken other steps to lock in margin during favorable rate environments, and whether management's capital allocation track record shows discipline or opportunism during cycles.
+IMPP's 10-K [annual report](/10-k/) and quarterly filings with the SEC disclose the company's fleet composition (vessel names, ages, carrying capacities), operational metrics (revenue per ton-mile, utilization rates), debt structure, and management's commentary on market conditions. A reader evaluating IMPP should examine whether the company has hedged fuel costs or taken other steps to lock in margin during favorable rate environments, and whether management's capital allocation track record shows discipline or opportunism during cycles.
 
 </content>

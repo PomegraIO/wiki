@@ -29,7 +29,7 @@ The risk is that over time, even specialized products become commoditized. A lar
 
 Elmet's customers may themselves be consolidating. When automotive suppliers consolidate into larger Tier-1 players, or when distributors merge, Elmet loses negotiating leverage. A consolidated customer can demand price reductions, extended payment terms, or integrated supply-chain solutions that a smaller producer cannot profitably deliver. This is a structural headwind affecting many small manufacturers: they serve consolidating customer bases that squeeze margins in every price negotiation.
 
-Elmet's vulnerability to customer concentration is therefore a competitive liability. If one or two customers represent a large share of revenue, Elmet is at risk from customer demands, switching behavior, or geographic shifts in demand. Diversifying the customer base is critical, but diversification is difficult if Elmet's technical capabilities are specialized.
+Elmet's vulnerability to customer concentration is therefore a competitive liability. If one or two customers represent a large share of revenue, Elmet is at risk from customer demands, switching behavior, or geographic shifts in demand. Diversifying the customer base is critical, but [diversification](/diversification/) is difficult if Elmet's technical capabilities are specialized.
 
 ## Manufacturing Footprint and Labor Cost Dynamics
 
@@ -47,11 +47,11 @@ Managing this product-mix tradeoff is a core competitive skill. Larger competito
 
 Elmet's competitive position five years from now depends on what it invests in today. If Elmet underinvests in product development and process improvement, competitors will pull ahead; if Elmet overinvests in speculative new technologies, it risks cash burn without competitive advantage. This capital-allocation discipline is harder for smaller companies: they have less margin for error and less access to capital if investments fail.
 
-Elmet's dividend policy also constrains reinvestment. If Elmet maintains a dividend to attract income-oriented investors, it reduces cash available for growth capex. This is a classic small-cap tension: paying a dividend to stabilize the stock price versus retaining cash for competitive investment.
+Elmet's [dividend](/dividend/) policy also constrains reinvestment. If Elmet maintains a dividend to attract income-oriented investors, it reduces cash available for growth capex. This is a classic small-cap tension: paying a dividend to stabilize the stock price versus retaining cash for competitive investment.
 
 ## Acquisitions and Organic Growth
 
-Elmet may pursue growth through acquisition of competitors or adjacent businesses, consolidating market share or capabilities. Acquisitions are risky: integration complexity, overpaid purchase prices, and cultural misalignment often destroy value. Larger competitors have better track records and more operational leverage from acquisitions. Elmet's acquisition strategy must be disciplined and realistic about integration challenges.
+Elmet may pursue growth through acquisition of competitors or adjacent businesses, consolidating market share or capabilities. [Acquisitions](/acquisition/) are risky: integration complexity, overpaid purchase prices, and cultural misalignment often destroy value. Larger competitors have better track records and more operational leverage from acquisitions. Elmet's acquisition strategy must be disciplined and realistic about integration challenges.
 
 Alternatively, Elmet pursues organic growth: investing in sales and marketing, expanding into adjacent markets, or launching new products. Organic growth is slower but avoids integration risk. Elmet's competitive position is likely determined by whether organic growth is sufficient to maintain market share against larger, acquisition-driven competitors.
 

@@ -23,7 +23,7 @@ For INNEOVA to land a customer, that customer must perceive the switch cost (ret
 
 INNEOVA exists because a repeating population of customers faces a repeating problem. The company's revenue model reflects this: it typically collects fees per transaction, per user, or per deployed instance—structures that align the company's growth to the customer's expanding use of the solution. If the customer stops expanding, or if competitive alternatives emerge that the customer can switch to without significant friction, INNEOVA's growth stalls.
 
-The company's strategy, therefore, must address both acquisition (winning the first deal with a new customer) and retention (making switching away costly and friction-laden). In tech and services businesses, this usually takes the form of sticky integration—the more a customer embeds INNEOVA's tools into their workflows, the higher the exit cost. Some operators achieve stickiness through superior user experience or lock-in of data; others through network effects (the platform becomes more valuable as more of your suppliers or partners join it).
+The company's strategy, therefore, must address both [acquisition](/acquisition/) (winning the first deal with a new customer) and retention (making switching away costly and friction-laden). In tech and services businesses, this usually takes the form of sticky integration—the more a customer embeds INNEOVA's tools into their workflows, the higher the exit cost. Some operators achieve stickiness through superior user experience or lock-in of data; others through network effects (the platform becomes more valuable as more of your suppliers or partners join it).
 
 ## Market Position and Competitive Anchoring
 

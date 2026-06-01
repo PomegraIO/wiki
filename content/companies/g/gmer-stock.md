@@ -31,7 +31,7 @@ The customer retention picture is critical. If a regional operator builds its ow
 
 A distinct advantage of GOOD GAMING is that it operates across multiple state regimes, each with its own licensing, anti-money-laundering, and consumer protection rules. The company must navigate and remain compliant across all of them. For a small operator, this is expensive and risky—they may make a mistake that triggers a state regulator to shut them down. GOOD GAMING's operational scale and experience allow it to absorb compliance costs across multiple platforms, making it a more attractive partner than self-operation.
 
-However, this is also a concentration risk. If a major state—California, Texas, or New York—changes its gaming laws in an adverse way, GOOD GAMING could lose significant revenue if one of its major client operators becomes non-viable or faces a license denial. The company cannot diversify away from regulatory risk because its entire business is predicated on the fragmented legal landscape.
+However, this is also a [concentration risk](/concentration-risk/). If a major state—California, Texas, or New York—changes its gaming laws in an adverse way, GOOD GAMING could lose significant revenue if one of its major client operators becomes non-viable or faces a license denial. The company cannot diversify away from regulatory risk because its entire business is predicated on the fragmented legal landscape.
 
 ## Customer Types and Their Economics
 

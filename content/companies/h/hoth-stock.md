@@ -4,7 +4,7 @@ description: "Hoth Therapeutics, Inc. is a clinical-stage biopharmaceutical comp
 keywords: ["dermatology", "immunotherapy", "clinical trial", "drug development", "orphan disease"]
 ---
 
-*__Hoth Therapeutics, Inc.__ (HOTH) is a clinical-stage pharmaceutical company whose business model consists of consuming capital from equity investors to advance drug candidates through clinical testing, with eventual monetization dependent on regulatory approval, partnering, or acquisition. The company has no revenue from operations and no marketed products.*
+*__Hoth Therapeutics, Inc.__ (HOTH) is a clinical-stage pharmaceutical company whose business model consists of consuming capital from equity investors to advance drug candidates through clinical testing, with eventual monetization dependent on regulatory approval, partnering, or [acquisition](/acquisition/). The company has no revenue from operations and no marketed products.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HOTH</td></tr>

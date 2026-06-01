@@ -4,7 +4,7 @@ description: "A mobile gaming publisher operating in the growth phase, pivoting 
 keywords: ["mobile games", "game publishing", "indie games", "gaming software", "digital entertainment"]
 ---
 
-*Libera Gaming Operations (LBRJ) is a mobile and browser-based game publisher navigating the transition from growth-stage experimentation to sustainable operations. The company curates and publishes titles across casual and mid-core segments, competing in a market where user acquisition costs have risen sharply and attention is fragmented across thousands of titles.*
+*Libera Gaming Operations (LBRJ) is a mobile and browser-based game publisher navigating the transition from growth-stage experimentation to sustainable operations. The company curates and publishes titles across casual and mid-core segments, competing in a market where user [acquisition](/acquisition/) costs have risen sharply and attention is fragmented across thousands of titles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LBRJ</td></tr>
@@ -41,13 +41,13 @@ The company's maturation phase is partly driven by this reality: it is learning 
 
 Libera's shift toward maturity is marked by tighter cost discipline. The company is moving from a revenue-growth narrative ("how many downloads") to a margin narrative ("how many dollars per user retained"). This is a harder story to tell to public markets, because margins depend on operational execution against games that are difficult to compare, and because the company cannot control player behavior.
 
-Some publishers navigate this phase successfully by becoming essential at a specific niche—capturing the devotion of a particular game genre or player demographic. Others struggle because their portfolio lacks a standout title that drives growth independently, forcing them into a perpetual upgrade treadmill where they must launch new games faster than old ones decline. A few find an acquisition target or merger partner that provides distribution, capital, or IP that resets the growth clock.
+Some publishers navigate this phase successfully by becoming essential at a specific niche—capturing the devotion of a particular game genre or player demographic. Others struggle because their portfolio lacks a standout title that drives growth independently, forcing them into a perpetual upgrade treadmill where they must launch new games faster than old ones decline. A few find an acquisition target or [merger](/merger/) partner that provides distribution, capital, or IP that resets the growth clock.
 
 For Libera, the lifecycle moment is acute because scale alone no longer ensures viability. The company must prove that it can operate a profitable portfolio, or it risks becoming acquisition-bait or, worse, a long slow-motion decline. Public shareholders expect either continued growth—difficult in a crowded market—or clear profitability—harder to demonstrate than the early-stage metrics that justified the IPO.
 
 ## The Road Ahead: Stabilization or Restructuring
 
-Publishers that successfully traverse this phase usually emerge with smaller, more stable portfolios; a disciplined approach to new launches; and a clear understanding of their niche within the larger market. The alternative is restructuring, divestiture of underperforming assets, or absorption into a larger entertainment company with deeper pockets and longer time horizons.
+Publishers that successfully traverse this phase usually emerge with smaller, more stable portfolios; a disciplined approach to new launches; and a clear understanding of their niche within the larger market. The alternative is restructuring, [divestiture](/divestiture/) of underperforming assets, or absorption into a larger entertainment company with deeper pockets and longer time horizons.
 
 Libera's near-term focus is almost certainly on demonstrating that its current portfolio can be profitable on a standalone basis, without requiring constant infusions of marketing capital. That requires execution on live-ops, retention metrics, and the unglamorous work of making incremental improvements to player engagement. It is a different skill set from the rapid experimentation and portfolio expansion that dominated the company's early years, and not all organizations make the transition cleanly.
 

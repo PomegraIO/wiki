@@ -26,7 +26,7 @@ keywords:
 
 Graham Holdings' story begins with newspaper ownership, specifically the *Washington Post*, acquired by the Graham family in the mid-twentieth century. For decades, the Post was the company's crown jewel and principal revenue driver. Like most newspaper publishers, Graham Holdings faced the existential collapse of print advertising and circulation as digital media, internet classifieds, and ad networks redirected reader attention and advertiser spending. Rather than cling to shrinking print operations, the company systematically pivoted: it sold stakes in struggling media properties, invested heavily in education technology, acquired broadcasting assets, and built a diversified portfolio of businesses designed to generate steady cash flows less dependent on any single industry cycle.
 
-This evolution is important because it shaped the company's capital-allocation philosophy. Holding companies that emerge from family wealth and legacy assets often develop a long-term, patient-capital mindset. They can afford to hold underperforming assets longer than financial buyers would, invest in early-stage ventures with multi-decade payoff horizons, and tolerate lower returns in exchange for stability and optionality. Graham Holdings' moves—retaining stakes in Berkshire Hathaway (inherited from earlier stock holdings), investing in education technology, building broadcasting operations—reflect this philosophy.
+This evolution is important because it shaped the company's capital-allocation philosophy. Holding companies that emerge from family wealth and legacy assets often develop a long-term, patient-capital mindset. They can afford to hold underperforming assets longer than financial buyers would, invest in early-stage ventures with multi-decade payoff horizons, and tolerate lower returns in exchange for stability and optionality. Graham Holdings' moves—retaining stakes in [Berkshire Hathaway](/brk-b-stock/) (inherited from earlier stock holdings), investing in education technology, building broadcasting operations—reflect this philosophy.
 
 ## The Education Technology Footprint
 
@@ -46,21 +46,21 @@ The company's stance on broadcasting appears pragmatic: hold assets that generat
 
 ## The Healthcare Segment and Diversification Strategy
 
-Graham Holdings also operates in healthcare services, including urgent-care clinics and other healthcare facilities. This segment, like broadcasting, is a steady cash-generating operation rather than a high-growth story. Healthcare services are tied to local population demographics and insurance reimbursement rates. Graham operates these assets as part of its diversification strategy: reducing dependence on any single industry and spreading risk.
+Graham Holdings also operates in [healthcare services](/hcsg-stock/), including urgent-care clinics and other healthcare facilities. This segment, like broadcasting, is a steady cash-generating operation rather than a high-growth story. Healthcare services are tied to local population demographics and insurance reimbursement rates. Graham operates these assets as part of its [diversification](/diversification/) strategy: reducing dependence on any single industry and spreading risk.
 
 Across all segments, Graham Holdings operates as a conglomerate holding company: it owns controlling or significant stakes in separate operating companies, each with its own management, competitive dynamics, and earning potential. The holding company's role is to allocate capital, set strategic direction, manage taxes efficiently, and extract cash dividends from successful subsidiaries.
 
 ## Capital Structure and Shareholder Returns
 
-Graham Holdings is not primarily a dividend-paying stock. Instead, the company typically reinvests earnings and returns capital episodically through share buybacks. Buybacks allow the company to concentrate ownership and return excess capital without committing to ongoing distributions that limit operational flexibility.
+Graham Holdings is not primarily a dividend-paying stock. Instead, the company typically reinvests earnings and returns capital episodically through [share buybacks](/share-buyback/). Buybacks allow the company to concentrate ownership and return excess capital without committing to ongoing distributions that limit operational flexibility.
 
 The company's capital structure is relatively simple: it is an equity-financed holding company with modest debt. This balance-sheet strength gives Graham the capacity to acquire assets, fund subsidiaries during downturns, or opportunistically deploy capital when attractive investments appear. The simple capital structure is characteristic of family-controlled holding companies that prioritize financial flexibility over financial engineering.
 
 ## Competitive Positioning in a Conglomerate Discount World
 
-Diversified holding companies trade at a "conglomerate discount"—the sum of the parts is often worth more than the whole, because financial markets value pure-play specialists more highly than diversified operators. An investor who wants exposure to education technology can buy a specialized ed-tech firm; one who wants broadcasting exposure can buy a broadcasting company. A holding company combining both offers diversification but loses the valuation premium a specialist commands.
+Diversified holding companies trade at a "[conglomerate discount](/conglomerate-discount/)"—the sum of the parts is often worth more than the whole, because financial markets value pure-play specialists more highly than diversified operators. An investor who wants exposure to education technology can buy a specialized ed-tech firm; one who wants broadcasting exposure can buy a broadcasting company. A holding company combining both offers diversification but loses the valuation premium a specialist commands.
 
-Graham Holdings navigates this discount by pursuing high-quality operations in each segment, extracting steady cash flow, and maintaining a fortress balance sheet. The holding company justifies its existence by deploying capital more wisely than shareholders could on their own, by realizing synergies across subsidiaries, and by maintaining discipline around capital allocation. Whether it succeeds depends on management's acumen in deploying capital and avoiding value-destructive acquisitions.
+Graham Holdings navigates this discount by pursuing high-quality operations in each segment, extracting steady cash flow, and maintaining a fortress [balance sheet](/balance-sheet/). The holding company justifies its existence by deploying capital more wisely than shareholders could on their own, by realizing synergies across subsidiaries, and by maintaining discipline around capital allocation. Whether it succeeds depends on management's acumen in deploying capital and avoiding value-destructive [acquisitions](/acquisition/).
 
 ## The Shareholder Base and Stewardship Philosophy
 

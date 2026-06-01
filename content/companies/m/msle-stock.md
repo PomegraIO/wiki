@@ -25,7 +25,7 @@ Competition in cell therapy turns on three axes: (1) manufacturing cost and spee
 
 The cell-therapy sector exhibits winner-take-most dynamics within each indication. Juno Therapeutics (now Beyer subsidiary) and Gilead's CAR-T franchise have set the bar for regulatory path, manufacturing scale, and reimbursement rates. Early competitors who secured first-mover advantage in oncology CAR-T have consolidated market share; newer entrants must either out-compete on efficacy or move to adjacent indications where the regulatory pathway is clearer or the unmet need more acute.
 
-Satellos' strategy—focusing on inherited metabolic disorders—reflects this segmentation. These indications often suffer from limited treatment options and smaller patient populations that tolerate higher per-dose costs. The competitive advantage lies in being first-to-clinic in the specific indication and in demonstrating safety and durability that justify institutional adoption. Failure here does not mean obsolescence; it means divestiture to a larger pharma partner or private-equity restructuring—a common fate for stage-dependent cell-therapy companies that cannot sustain funding through phase-3 readouts.
+Satellos' strategy—focusing on inherited metabolic disorders—reflects this segmentation. These indications often suffer from limited treatment options and smaller patient populations that tolerate higher per-dose costs. The competitive advantage lies in being first-to-clinic in the specific indication and in demonstrating safety and durability that justify institutional adoption. Failure here does not mean obsolescence; it means [divestiture](/divestiture/) to a larger pharma partner or private-equity restructuring—a common fate for stage-dependent cell-therapy companies that cannot sustain funding through phase-3 readouts.
 
 Rivalry with other rare-disease cell-therapy players hinges on clinical data release cadence, patent estate, and manufacturing partnerships. Satellos' competition is not primarily against Juno or Gilead in 2024 but against other myogenic or rare-metabolic platforms seeking the same venture capital and licensing opportunities.
 
@@ -43,7 +43,7 @@ Competitive pressure is felt acutely in financing: if comparable platforms raise
 
 ## Market Dynamics and Consolidation Risk
 
-The broader cell-therapy sector is consolidating. Large pharma (Juno, CAR-T Gilead, Novartis, Celgene) have secured or in-licensed proven platforms and moved them to late-stage development or commercial scale. Smaller pure-play cell-therapy companies face a binary outcome: go public and achieve late-stage proof-of-concept before capital markets close, or accept acquisition by a larger partner at terms that reflect dilution risk.
+The broader cell-therapy sector is consolidating. Large pharma (Juno, CAR-T Gilead, [Novartis](/nvs-stock/), Celgene) have secured or in-licensed proven platforms and moved them to late-stage development or commercial scale. Smaller pure-play cell-therapy companies face a binary outcome: go public and achieve late-stage proof-of-concept before capital markets close, or accept [acquisition](/acquisition/) by a larger partner at terms that reflect dilution risk.
 
 Satellos' competitive survival depends on:
 

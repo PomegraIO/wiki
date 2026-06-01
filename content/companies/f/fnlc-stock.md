@@ -27,21 +27,21 @@ First Bancorp operates multiple branch networks under different brand names (sub
 
 First Bancorp's earnings are rooted in deposits. The company attracts deposits by offering reasonable interest-rates on savings and money-market accounts and by providing physical branches where customers can conduct business face-to-face. In small towns, the local bank branch is often the only financial institution within miles, giving it an advantage in deposit-gathering.
 
-The bank's profitability swings with interest-rates. When the Federal Reserve raises rates (as it did in 2022–2023), depositors demand higher yields, and the bank must pay more to hold deposits. But it can also charge more on new loans and earn more on its securities portfolio. The net effect depends on the shape of the [yield-curve](/yield-curve/): a steep yield curve (short rates low, long rates high) favors banks; a flat or inverted curve (all rates compressed) squeezes margins.
+The bank's profitability swings with interest-rates. When the [Federal Reserve](/federal-reserve/) raises rates (as it did in 2022–2023), depositors demand higher yields, and the bank must pay more to hold deposits. But it can also charge more on new loans and earn more on its securities portfolio. The net effect depends on the shape of the [yield-curve](/yield-curve/): a steep yield curve (short rates low, long rates high) favors banks; a flat or inverted curve (all rates compressed) squeezes margins.
 
 ## Mortgage lending and residential focus
 
 First Bancorp's loan portfolio is dominated by residential mortgages. Home loans are the safest, most standardized loans a bank can make. Mortgages generate stable 15–30-year cash-flows, and a well-underwritten mortgage backed by real property is unlikely to default so long as the borrower has steady income.
 
-However, mortgages also entail interest-rate risk. If a bank originates a $200,000 mortgage at 4 percent fixed for 30 years, and interest rates later rise to 7 percent, the bank is locked into a below-market rate. If the borrower prepays the loan (by refinancing to a lower rate, ironically), the bank loses the stable cash flow and must reinvest proceeds in a lower-rate environment.
+However, mortgages also entail [interest-rate risk](/interest-rate-risk/). If a bank originates a $200,000 mortgage at 4 percent fixed for 30 years, and [interest rates](/interest-rate/) later rise to 7 percent, the bank is locked into a below-market rate. If the borrower prepays the loan (by refinancing to a lower rate, ironically), the bank loses the stable cash flow and must reinvest proceeds in a lower-rate environment.
 
-The bank manages this risk by selling some mortgages on the secondary market (to Fannie Mae, Freddie Mac, or other investors) or by hedging interest-rate exposure through derivatives. These tactics reduce risk but also reduce profitability, because the bank foregoes the spread it would have earned had it held the loan.
+The bank manages this risk by selling some mortgages on the [secondary market](/secondary-market/) (to [Fannie Mae](/fannie-mae/), [Freddie Mac](/freddie-mac/), or other investors) or by hedging interest-rate exposure through derivatives. These tactics reduce risk but also reduce profitability, because the bank foregoes the spread it would have earned had it held the loan.
 
 ## Commercial lending and credit risk
 
 Beyond mortgages, First Bancorp lends to small businesses: equipment financing, working-capital loans, real-estate loans secured by commercial buildings. Commercial lending is riskier than mortgage lending because the borrower's ability to repay depends on business success, which is uncertain.
 
-First Bancorp manages credit risk through rigorous underwriting: evaluating the borrower's credit history, the collateral, and the business's cash-flow projections. A loan officer denies more applications than she approves. Yet even with care, a portion of loans default. When defaults spike (as in 2008–2009), a bank's capital is eroded. First Bancorp's ability to absorb losses depends on the quality of its loan underwriting and the health of its regional economy.
+First Bancorp manages [credit risk](/credit-risk/) through rigorous underwriting: evaluating the borrower's credit history, the collateral, and the business's cash-flow projections. A loan officer denies more applications than she approves. Yet even with care, a portion of loans default. When defaults spike (as in 2008–2009), a bank's capital is eroded. First Bancorp's ability to absorb losses depends on the quality of its loan underwriting and the health of its regional economy.
 
 ## Capital ratios and regulatory pressure
 
@@ -59,7 +59,7 @@ Unlike FNFI (which trades OTC), First Bancorp trades on the [NASDAQ](/nasdaq/), 
 
 ## Secular headwinds for community banks
 
-Small-to-medium regional banks face structural pressures. Digital banking has reduced the value of physical branches. Customers now check balances and transfer funds on smartphones; a physical branch is less essential than it once was. Large national banks (JPMorgan, Bank of America) and online-only banks (Ally, Charles Schwab) compete aggressively on rates and convenience.
+Small-to-medium regional banks face structural pressures. Digital banking has reduced the value of physical branches. Customers now check balances and transfer funds on smartphones; a physical branch is less essential than it once was. Large national banks (JPMorgan, [Bank of America](/bank-of-america/)) and online-only banks (Ally, [Charles Schwab](/charles-schwab/)) compete aggressively on rates and convenience.
 
 Consolidation is ongoing: small banks merge with larger ones or disappear. First Bancorp has been acquisitive itself, buying smaller regional banks to grow. The company's survival depends on staying large and efficient enough to absorb regulatory costs while remaining nimble enough to serve communities that national banks neglect.
 

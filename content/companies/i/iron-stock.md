@@ -4,7 +4,7 @@ description: "Biopharmaceutical company developing therapies for iron metabolism
 keywords: [biotech, hepcidin, iron metabolism, hemolytic anemia, drug development]
 ---
 
-*Disc Medicine operates as **IRON** on Nasdaq and is a drug-development company researching treatments for rare blood disorders centered on iron metabolism. Unlike many biotech firms that chase blockbuster diseases, Disc focuses on a specific biological pathway—hepcidin signaling—that regulates iron absorption and recycling, and on applications in hemolytic anemia where red blood cells break down prematurely, stranding iron in tissues.*
+*Disc Medicine operates as **IRON** on [Nasdaq](/nasdaq/) and is a drug-development company researching treatments for rare blood disorders centered on iron metabolism. Unlike many biotech firms that chase blockbuster diseases, Disc focuses on a specific biological pathway—hepcidin signaling—that regulates iron absorption and recycling, and on applications in hemolytic anemia where red blood cells break down prematurely, stranding iron in tissues.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IRON</td></tr>
@@ -33,7 +33,7 @@ Disc's core assets are patent positions covering hepcidin-modulating compounds a
 
 ## Regulatory Pathway and Approval Timelines
 
-Disc's drugs must navigate [FDA](/securities-and-exchange-commission/) approval, which for rare diseases can involve the Breakthrough Therapy or Fast Track designation if early data are compelling. The FDA pathway for hematologic disorders is well-established; Disc knows the clinical end points it needs to demonstrate (improvement in hemoglobin levels, reduced transfusion dependence, safety metrics). Still, approval is not guaranteed, and the timeline from Phase 2 to approved therapy is typically 5–10 years. During that time, Disc must sustain operations without product revenue, relying on cash reserves and capital raised from investors who believe in the science and the market opportunity.
+Disc's drugs must navigate [FDA](/securities-and-exchange-commission/) approval, which for rare diseases can involve the Breakthrough Therapy or [Fast Track](/ftrk-stock/) designation if early data are compelling. The FDA pathway for hematologic disorders is well-established; Disc knows the clinical end points it needs to demonstrate (improvement in hemoglobin levels, reduced transfusion dependence, safety metrics). Still, approval is not guaranteed, and the timeline from Phase 2 to approved therapy is typically 5–10 years. During that time, Disc must sustain operations without product revenue, relying on cash reserves and capital raised from investors who believe in the science and the market opportunity.
 
 ## Market Size and Reimbursement Assumptions
 
@@ -45,7 +45,7 @@ Disc is not alone in pursuing hepcidin-modulating approaches; other biotech and 
 
 ## Capital Requirements and Path to Sustainability
 
-Disc's burn rate—the rate at which it spends cash—is measured in tens of millions annually. It has limited runway (as of any recent capital raise) and will need additional funding to complete current trials and initiate new ones. The company could achieve sustainable cash flow only if one or more of its drugs are approved and begin generating revenue. This creates a high-stakes dynamic: successful trials lead to approval, revenue, and the ability to self-fund; failed trials or slow patient enrollment lead to cash depletion and forced financing or acquisition. Disc's [stock](/stock/) price reflects the risk-reward of this model: low revenue but potentially enormous upside if a drug works.
+Disc's burn rate—the rate at which it spends cash—is measured in tens of millions annually. It has limited runway (as of any recent capital raise) and will need additional funding to complete current trials and initiate new ones. The company could achieve sustainable cash flow only if one or more of its drugs are approved and begin generating revenue. This creates a high-stakes dynamic: successful trials lead to approval, revenue, and the ability to self-fund; failed trials or slow patient enrollment lead to cash depletion and forced financing or [acquisition](/acquisition/). Disc's [stock](/stock/) price reflects the risk-reward of this model: low revenue but potentially enormous upside if a drug works.
 
 ## Academic Partnerships and Knowledge Base
 

@@ -17,7 +17,7 @@ The pharmaceutical business is fundamentally about the life cycle of patents. A 
 
 ## Oncology and cellular therapy
 
-Novartis has made oncology — the treatment of cancer — its strategic priority for the past decade. Cancer drugs are among the most profitable in the world because they often extend life or offer remission from a fatal disease, justifying enormous prices. The company has built its oncology franchise through [acquisition](/acquisition/) and internal discovery, accumulating drugs that [target](/tgt-stock/) different types of cancer using different mechanisms.
+Novartis has made oncology — the treatment of cancer — its strategic priority for the past decade. Cancer drugs are among the most profitable in the world because they often extend life or offer remission from a fatal disease, justifying enormous prices. The company has built its oncology franchise through [acquisition](/acquisition/) and internal discovery, accumulating drugs that target different types of cancer using different mechanisms.
 
 The company's oncology portfolio includes Kisqali (breast cancer), Tafinlar and Mekinist (melanoma and other cancers), Zometa (a support drug used alongside other cancer treatments), and others. These are not perfect cures — none are — but they extend life, improve quality of life, or reduce recurrence risk, and they command prices in the range of $50,000–$200,000 per patient per year. From the company's perspective, oncology is where the margin is. From the patient and healthcare system perspective, these are extraordinarily expensive treatments that strain budgets and raise questions about access and fairness.
 

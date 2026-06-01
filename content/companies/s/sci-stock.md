@@ -56,6 +56,6 @@ Vulnerabilities include demographic trends (aging boomer cohort eventually works
 
 Start with SCI's annual [10-K](/wiki/10-k/) filing, paying particular attention to the preneed backlog disclosure—usually found in [segment reporting](/segment-reporting/) or notes to the financial statements. Look for trends in backlog dollars and the rate at which it is being recognized as revenue. Compare at-need volume to prior years (a proxy for actual deaths and family demand) and monitor cremation penetration rates.
 
-Peer comparisons are limited; Carriage Services (CSV) is a smaller public funeral operator, but SCI's scale makes direct comparison imperfect. Industry reports from funeral service associations provide context on market share and consolidation trends. Recent earnings calls often discuss pricing actions, backlog quality, and competitive dynamics in key markets.
+Peer comparisons are limited; [Carriage Services](/csv-stock/) (CSV) is a smaller public funeral operator, but SCI's scale makes direct comparison imperfect. Industry reports from funeral service associations provide context on market share and consolidation trends. Recent earnings calls often discuss pricing actions, backlog quality, and competitive dynamics in key markets.
 
 Finally, given that much of SCI's value rests on the preneed model, regulatory news—particularly state-level changes to preneed fund rules—can materially affect the investment thesis. Monitor legislative and regulatory developments in major SCI markets.

@@ -16,7 +16,7 @@ keywords: [CISO, CISO Global Inc, cybersecurity, stock, security software, CIK 1
 
 ## The Recurring Revenue Question
 
-Software and security firms live or die on [recurring revenue](/free-cash-flow/)—subscription and maintenance fees that flow predictably year after year. In CISO's 10-K, the critical distinction is how much revenue comes from subscription or SaaS contracts versus one-time license sales or consulting work. A company with 80% recurring revenue is more defensible than one where half the top line depends on professional services or new customer acquisition. Examine the Deferred Revenue line on the [balance sheet](/balance-sheet/): a growing deferred revenue balance (customer prepayments) signals strong retention and future cash collection. The 10-K's MD&A section should break out subscription revenue explicitly; if it doesn't, that omission itself is informative—it may suggest weakness in that metric.
+Software and security firms live or die on [recurring revenue](/free-cash-flow/)—subscription and maintenance fees that flow predictably year after year. In CISO's 10-K, the critical distinction is how much revenue comes from subscription or SaaS contracts versus one-time license sales or consulting work. A company with 80% recurring revenue is more defensible than one where half the top line depends on professional services or new customer [acquisition](/acquisition/). Examine the Deferred Revenue line on the [balance sheet](/balance-sheet/): a growing deferred revenue balance (customer prepayments) signals strong retention and future cash collection. The 10-K's MD&A section should break out subscription revenue explicitly; if it doesn't, that omission itself is informative—it may suggest weakness in that metric.
 
 ## Customer Concentration and Churn
 
@@ -40,7 +40,7 @@ Cybersecurity is subject to export controls (ITAR, EAR) if the company's product
 
 ## Path Forward for the Analyst
 
-Start with the company's most recent 10-K and review Item 1 (Business) and the segment breakdown. Cross-reference revenue growth rates with the Statement of Cash Flows to confirm whether growth is cash-backed. Pull the Deferred Revenue from the last three years' balance sheets to trend subscription strength. If the company is unprofitable, identify the path to [profitability](/operating-margin/)—many software firms are priced for growth despite near-term losses, but the theory must be auditable in the filings. Finally, compare CISO's growth rate, margins, and unit acquisition costs to public peers (CrowdStrike, Fortinet, Palo Alto Networks) to frame relative valuation. The 10-K is the baseline; peer comparison is the context.
+Start with the company's most recent 10-K and review Item 1 (Business) and the segment breakdown. Cross-reference revenue growth rates with the Statement of Cash Flows to confirm whether growth is cash-backed. Pull the Deferred Revenue from the last three years' balance sheets to trend subscription strength. If the company is unprofitable, identify the path to [profitability](/operating-margin/)—many software firms are priced for growth despite near-term losses, but the theory must be auditable in the filings. Finally, compare CISO's growth rate, margins, and unit acquisition costs to public peers ([CrowdStrike](/crwd-stock/), [Fortinet](/ftnt-stock/), [Palo Alto Networks](/panw-stock/)) to frame [relative valuation](/relative-valuation/). The 10-K is the baseline; peer comparison is the context.
 
 <div class="wiki-seealso">
 ### Closely related

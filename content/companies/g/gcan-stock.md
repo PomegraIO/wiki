@@ -41,11 +41,11 @@ Brand loyalty in cannabis is less pronounced than in many consumer goods categor
 
 ## Vertical Integration Trade-offs
 
-Some cannabis operators integrate vertically (GCAN among them), owning both cultivation and retail. This allows a company to control the full chain, reduce middleman markups, and ensure product consistency. But vertical integration also means that cultivation risk is borne directly—if a grow is damaged by disease or environmental factors, the company loses revenue immediately. A non-integrated retailer can source from multiple growers and shift purchases when one supplier fails. GCAN's integration is an advantage in normal times (margin capture) but a concentration risk in crisis.
+Some cannabis operators integrate vertically (GCAN among them), owning both cultivation and retail. This allows a company to control the full chain, reduce middleman markups, and ensure product consistency. But vertical integration also means that cultivation risk is borne directly—if a grow is damaged by disease or environmental factors, the company loses revenue immediately. A non-integrated retailer can source from multiple growers and shift purchases when one supplier fails. GCAN's integration is an advantage in normal times (margin capture) but a [concentration risk](/concentration-risk/) in crisis.
 
 ## Commodity Price Pressure and Market Maturity
 
-As cannabis markets mature and licensing expands, prices have declined materially in states with longer-running legal markets (California, Colorado). This is a race to the bottom that all operators face. GCAN competes in a commodity market where product differentiation is limited and price elasticity is high. As markets evolve, success depends on achieving scale-driven cost advantages and maintaining operating margins despite pricing pressure.
+As cannabis markets mature and licensing expands, prices have declined materially in states with longer-running legal markets (California, Colorado). This is a race to the bottom that all operators face. GCAN competes in a commodity market where product differentiation is limited and price elasticity is high. As markets evolve, success depends on achieving scale-driven cost advantages and maintaining [operating margins](/operating-margin/) despite pricing pressure.
 
 The moat, in its purest form, is scarcity of licenses and the regulatory complexity that protects them. Everything else—cultivation, retail, brand—is harder to defend because cannabis is becoming a commoditized product in legalized markets.
 

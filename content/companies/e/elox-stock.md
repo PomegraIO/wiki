@@ -24,7 +24,7 @@ Eloxx's competitive position is therefore determined by whether its pipeline—t
 
 Eloxx's competitive strength is inseparable from what's in its pipeline. If the company is developing therapies for genetic diseases—conditions that are rare, severe, and underserved—it may face less direct competition than if it targets common conditions where large, established pharma companies also compete. The logic is straightforward: large pharma companies focus on drugs that can sell to millions of patients; smaller biotech companies can compete by developing treatments for rare diseases where the addressable market is smaller but the unmet medical need is acute.
 
-This positioning has competitive advantages: Regulatory pathways for rare diseases are often faster (breakthrough therapy designations, orphan drug designations, accelerated approval); markets are less crowded with competitors; pricing can be higher because patients have few alternatives. The disadvantage is that the addressable market is inherently small, limiting peak revenue and enterprise value.
+This positioning has competitive advantages: Regulatory pathways for rare diseases are often faster (breakthrough therapy designations, orphan drug designations, accelerated approval); markets are less crowded with competitors; pricing can be higher because patients have few alternatives. The disadvantage is that the addressable market is inherently small, limiting peak revenue and [enterprise value](/enterprise-value/).
 
 ## Head-to-Head Scientific Competition
 

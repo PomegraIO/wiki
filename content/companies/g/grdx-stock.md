@@ -32,7 +32,7 @@ The competitive advantage is in algorithm sophistication and data integration. G
 
 ## Distinct from Traditional Utility Software
 
-Traditional utility software vendors (ABB, Siemens, Schneider Electric) have built substantial businesses selling SCADA (supervisory control and data acquisition) systems, energy management systems, and grid planning tools to utilities. These vendors' software is deeply embedded in utility operations and faces switching costs because utility IT infrastructure is highly integrated and risk-averse.
+Traditional utility software vendors (ABB, Siemens, Schneider Electric) have built substantial businesses selling SCADA (supervisory control and data [acquisition](/acquisition/)) systems, energy management systems, and grid planning tools to utilities. These vendors' software is deeply embedded in utility operations and faces switching costs because utility IT infrastructure is highly integrated and risk-averse.
 
 GridAI differs in several respects. First, it targets a different operational layer — not the centralized utility control center but distributed edge resources. Second, it is newer and more agile than incumbents (which carry legacy product lines and slower innovation cycles). Third, it is cloud-native and API-driven, whereas traditional vendors often operate on-premise, proprietary systems. Fourth, GridAI can position itself as vendor-agnostic, integrating with equipment from multiple manufacturers, whereas traditional vendors often have proprietary hardware relationships. This neutrality is valuable: a utility or ISO wants to optimize assets from many vendors without being locked into one vendor's ecosystem.
 
@@ -48,7 +48,7 @@ GridAI should not be confused with renewable-energy developers (solar installers
 
 ## Customer Concentration and Relationship Dynamics
 
-GridAI's likely customer base includes large utilities, independent system operators (ISOs), and aggregators of distributed resources (virtual power plants, microgrids). These are large, capital-intensive organizations with long sales cycles, regulatory oversight, and rigorous vendor evaluation. Unlike SaaS companies selling to thousands of small customers, GridAI likely has a small number of major customers whose loss would significantly impact [revenue](/earnings-per-share/). This creates customer concentration risk but also means that contract values are large and relationships are sticky once established.
+GridAI's likely customer base includes large utilities, independent system operators (ISOs), and aggregators of distributed resources (virtual power plants, microgrids). These are large, capital-intensive organizations with long sales cycles, regulatory oversight, and rigorous vendor evaluation. Unlike SaaS companies selling to thousands of small customers, GridAI likely has a small number of major customers whose loss would significantly impact [revenue](/earnings-per-share/). This creates customer [concentration risk](/concentration-risk/) but also means that contract values are large and relationships are sticky once established.
 
 ## Capital Efficiency and Path to Profitability
 

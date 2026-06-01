@@ -17,7 +17,7 @@ keywords: ["consumer electronics", "audio equipment", "television", "retro brand
 
 ## Emerson's Commoditized Marketplace
 
-Emerson Radio's competitive arena is defined by three brutal facts: (1) the standalone TV market has been decimated by smartphones and streaming; (2) audio equipment market has bifurcated into premium boutique brands (Bose, Sonos, Apple) and zero-margin commodity imports; (3) Emerson owns a recognizable name, but recognition alone has no pricing power in a world where consumers expect $50 Bluetooth speakers and free ad-supported streaming.
+Emerson Radio's competitive arena is defined by three brutal facts: (1) the standalone TV market has been decimated by smartphones and streaming; (2) audio equipment market has bifurcated into premium boutique brands (Bose, Sonos, [Apple](/aapl-stock/)) and zero-margin commodity imports; (3) Emerson owns a recognizable name, but recognition alone has no pricing power in a world where consumers expect $50 Bluetooth speakers and free ad-supported streaming.
 
 The company competes primarily on heritage and low-cost manufacturing contracts. It licenses its brand name to contract manufacturers in Asia, then sells rebranded products through discount retail channels and online marketplaces. This is not a high-margin business; it is transaction volume dependent and price-elastic. Any competitor willing to absorb lower margins or offering perceptually similar products at lower prices captures market share.
 
@@ -31,7 +31,7 @@ Competitors are numerous and faceless: unbranded Amazon electronics, OEM (origin
 
 ## Market Segmentation and Retreat
 
-The consumer-electronics market has segmented into tiers. At the premium end: Apple, Bose, Sonos, JBL—companies that invest in industrial design, proprietary software ecosystems, and marketing. At the value end: Amazon Alexa-integrated devices, flat-pack turntables from Target, commodity Bluetooth speakers. In between is a vanishing middle, where mid-market brands like Emerson once lived.
+The consumer-electronics market has segmented into tiers. At the premium end: Apple, Bose, Sonos, JBL—companies that invest in industrial design, proprietary software ecosystems, and marketing. At the value end: Amazon Alexa-integrated devices, flat-pack turntables from [Target](/tgt-stock/), commodity Bluetooth speakers. In between is a vanishing middle, where mid-market brands like Emerson once lived.
 
 Emerson's competitive strategy is implicit: survive via brand licensing, maintain minimal overhead, milk residual demand for "classic" audio products from nostalgic consumers and niche retailers. The company does not attempt to out-innovate Sonos or out-price commodity Chinese manufacturers. Instead, it leases its name to contract manufacturers and takes a margin on each unit sold—a passive revenue model suited to slow decline rather than growth.
 
@@ -39,7 +39,7 @@ Rivalry in this niche is low-intensity but relentless. There is no absolute winn
 
 ## Retail Channel Weakness
 
-Emerson products are sold through discount retailers (Walmart, Target, Amazon), specialty retro shops, and online marketplaces. It competes directly against Victrola (which has better design positioning), against house-brand products from retailers themselves, and against genuine vintage Emerson units (which cost less and carry cachet the reproductions lack).
+Emerson products are sold through discount retailers ([Walmart](/wmt-stock/), [Target](/tgt-stock/), Amazon), specialty retro shops, and online marketplaces. It competes directly against Victrola (which has better design positioning), against house-brand products from retailers themselves, and against genuine vintage Emerson units (which cost less and carry cachet the reproductions lack).
 
 Retail shelf space is a zero-sum game. Emerson's leverage with retailers is minimal; it cannot demand premium placement or terms because its products do not drive traffic or margins that justify it. Retailers stock Emerson because it is recognizable and fills a category slot; they would replace it instantly with a higher-margin alternative.
 

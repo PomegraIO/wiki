@@ -26,13 +26,13 @@ EACO's current and historical business segments have included medical devices, e
 
 Medical-device businesses tend to be regulatory-heavy (FDA approval, compliance), capital-intensive (R&D, manufacturing), and characterized by long sales cycles. Entertainment and media businesses are demand-sensitive, competitive, and often margin-compressed. A holding company combining both is really managing two different businesses with different playbooks.
 
-Asset sales and acquisitions are common at holding companies. If a subsidiary is underperforming or no longer fits strategy, it is sold. If an opportunity appears, capital is deployed to acquire or build a new subsidiary. These moves can create one-time gains or losses that obscure underlying operating performance.
+Asset sales and [acquisitions](/acquisition/) are common at holding companies. If a subsidiary is underperforming or no longer fits strategy, it is sold. If an opportunity appears, capital is deployed to acquire or build a new subsidiary. These moves can create one-time gains or losses that obscure underlying operating performance.
 
 ## Segment Reporting and Inter-Company Transactions
 
 EACO's [10-K](/10-k/) will break out revenue and earnings by business segment. One segment might report $20 million in revenue and $3 million in earnings; another might report $5 million in revenue and $500,000 in loss. The parent company consolidates these to report total company financials.
 
-Inter-company transactions complicate the picture. If one EACO subsidiary sells goods to another, the transaction appears in both segments' financials. Consolidated earnings eliminate the double-count, but segment reporting can show inflated revenues if a lot of inter-company activity is happening. Reading the footnotes is critical.
+Inter-company transactions complicate the picture. If one EACO subsidiary sells goods to another, the transaction appears in both segments' financials. Consolidated earnings eliminate the double-count, but [segment reporting](/segment-reporting/) can show inflated revenues if a lot of inter-company activity is happening. Reading the footnotes is critical.
 
 ## Cash Generation and Capital Allocation
 
@@ -62,7 +62,7 @@ But this approach requires investors to estimate the value of each subsidiary. F
 
 **Asset-sale necessity.** If cash generation falls short, the company may be forced to sell subsidiaries at unfavorable prices to raise cash. These forced sales realize lower value than planned exits.
 
-**Complexity and transparency.** The more subsidiaries and the more diverse the businesses, the harder it is for investors to understand true earnings quality and financial health. This opacity can drive a discount to intrinsic value.
+**Complexity and transparency.** The more subsidiaries and the more diverse the businesses, the harder it is for investors to understand true [earnings quality](/earnings-quality/) and financial health. This opacity can drive a discount to [intrinsic value](/intrinsic-value/).
 
 **Corporate governance.** With a diverse portfolio, it is hard to hold management accountable. Did subsidiary A underperform because of execution failure or because the market contracted? Corporate-level strategic review is critical but often weak in holding companies.
 
@@ -83,7 +83,7 @@ When analyzing EACO, examine:
 - **Debt and capital structure.** What debt obligations exist? Is the company adequately capitalized or overleveraged relative to subsidiary earnings?
 - **Management track record.** Has the current leadership team created value through smart capital allocation, or has the company been coasting?
 
-The [10-K](/10-k/) and quarterly statements will detail segment performance and any major acquisitions or divestitures. Quarterly earnings calls often discuss management's view of each segment and strategic priorities. Comparing EACO's stock price to estimated subsidiary values reveals whether the market is pricing in execution risk or discount.
+The [10-K](/10-k/) and quarterly statements will detail segment performance and any major acquisitions or [divestitures](/divestiture/). Quarterly earnings calls often discuss management's view of each segment and strategic priorities. Comparing EACO's stock price to estimated subsidiary values reveals whether the market is pricing in execution risk or discount.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -1,0 +1,31 @@
+---
+title: "John Hancock Tax-Advantaged Dividend Income Fund (HTD)"
+description: "A closed-end fund holding dividend-paying stocks and generating supplemental income through covered-call options, distributed monthly to shareholders."
+keywords:
+  - closed-end fund
+  - dividend stocks
+  - tax-advantaged income
+  - equity income fund
+  - covered calls
+handwritten: true
+---
+
+John Hancock Tax-Advantaged Dividend [Income Fund](/income-fund/) operates under the ticker HTD and pursues a focused strategy: collect stocks that pay [dividends](/dividend/), amplify the yield through option selling, and pass the resulting income to shareholders monthly while structuring the distributions to minimize taxes. It is a [closed-end fund](/closed-end-fund/), meaning the number of shares is fixed and the fund itself trades on an exchange like a stock. The [net asset value](/net-asset-value/) (what the fund actually owns) may be higher or lower than the share price depending on market sentiment, and that gap is economically important for buyers and sellers.
+
+The core product is straightforward. The fund holds a portfolio of large-cap and mid-cap companies that pay reliable dividends — the kinds of stalwart firms that have a long history of regular, steadily rising payouts. Think established financial services, utilities, consumer staples, [real estate investment trusts](/real-estate-investment-trust/), and other mature businesses where cash return to shareholders is the business model. This is not a fund hunting for the next Amazon or [Apple](/aapl-stock/); it is a fund seeking companies that will pay cash to their owners year after year.
+
+What distinguishes HTD from simply buying a dividend-focused [index fund](/index-fund/) is the tax structure and the income-enhancement strategy. The fund is organized to generate distributions that qualify for favorable tax treatment under US tax law. Many of the distributions it pays are classified as long-term capital gains rather than ordinary income, which means shareholders in high tax brackets pay a lower federal tax rate on them. That difference is meaningful for wealthy individuals and makes the fund especially attractive to those holding it in a taxable account. Additionally, the fund employs covered-call option strategies — selling the right for someone to buy its shares at a future date and price, and capturing the option premium to supplement the dividend income. This boosts the yield above what the stocks alone would provide.
+
+The appeal is clear for a certain investor profile: someone in early or late retirement, living off investment income, wanting that income to be as tax-efficient as possible, and willing to accept that their upside is capped in exchange for a higher monthly distribution. For a 65-year-old with a $2 million portfolio and a 4% annual income need, a fund yielding 6% or 7% via combinations of dividends and [option premiums](/option-premium/) is far more attractive than a broad stock index yielding 2%.
+
+The risks run in parallel. First is the options risk: by selling [call options](/call-option/), the fund surrenders the right to unlimited upside. If the market soars and the fund's holdings double, shareholders do not capture the full gain. They get the call-away price and nothing more. Over decades, this caps wealth accumulation. A shareholder comparing HTD to owning the S&P 500 directly will likely find that during [bull markets](/bull-market/), the index outpaced the closed-end fund significantly, even accounting for the monthly distributions. The monthly income is real and spendable, but it comes at a cost.
+
+Second is the leverage risk (if the fund employs it, which many closed-end dividend funds do). By borrowing at short-term rates to buy additional securities, the fund can amplify both gains and losses. A 30% market decline is worse for a leveraged fund than an unlevered one, and in severe downturns the gap matters for solvency and shareholder recovery.
+
+Third is the [depreciation](/depreciation/) of the underlying assets. A fund holding dividend-paying stocks benefits when those stocks go up in price, but it also rides out their declines. Some of the fund's holdings may be mature, slow-growing businesses that eventually shrink. A regional bank in a declining region, a utility with rising costs, or a manufacturer facing automation risk might all keep paying dividends even as the underlying business weakens and the stock price drifts downward. The manager's job is to avoid holding stocks in terminal decline, but that requires judgment and it is not always clear which companies have structural problems and which are just cheap.
+
+Fourth is the distribution sustainability question. If the monthly distribution is being paid out of the fund's capital rather than earned from investment income and dividends, the fund is slowly liquidating. A $100 million fund paying out 8% per year while earning only 4% is shrinking by 4% per year before expenses. That math catches up. HTD's prospectus and [annual reports](/10-k/) disclose the composition of distributions (how much is from income, how much from capital gains, how much from return of capital), and savvy investors should check: is this fund becoming smaller and more concentrated over time, or is its capital base stable?
+
+The final risk is concentration. Dividend-paying stocks tend to cluster in certain sectors: financial services, utilities, energy, real estate. This means the fund has less [diversification](/diversification/) than a broad market index. If those sectors fall out of favor (as they did during the tech boom of the 2010s), a dividend-focused fund lags. Being paid steadily in cash is cold comfort if the underlying portfolio shrinks 20% relative to the market.
+
+For a retiree or income-focused investor who understands these tradeoffs and has accepted the cap on upside in exchange for monthly cash, HTD and similar vehicles can serve a real purpose. The risk is for the investor who thinks the 7% monthly yield is "too good to be true" — because it is good only if the underlying stocks stay healthy and the options do not get called away at inopportune times. Understanding what you are actually owning, and why the yield is what it is, is the price of investing safely in such funds.

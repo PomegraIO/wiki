@@ -4,7 +4,7 @@ description: "A ship-owning company that operates a fleet of oceangoing tankers 
 keywords: ["shipping", "maritime", "tanker", "crude oil", "logistics", "capital-intensive"]
 ---
 
-*Heidmar Maritime Holdings Corp. trades as **HMR** and operates under CIK 2029471. It is an owner and operator of seagoing tanker vessels engaged in transporting crude oil and refined petroleum products on international routes, participating in the competitive market for marine freight capacity.*
+*Heidmar Maritime Holdings Corp. trades as **HMR** and operates under CIK 2029471. It is an owner and operator of seagoing tanker vessels engaged in transporting [crude oil](/crude-oil/) and refined petroleum products on international routes, participating in the competitive market for marine freight capacity.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HMR</td></tr>
@@ -21,7 +21,7 @@ The oceangoing petroleum tanker business separates into narrowly defined vessel 
 
 ## Capital as Incumbent Defense
 
-Few firms can sustain the balance-sheet demands of tanker ownership. A modern product tanker costs $30–50 million to build; a crude carrier costs substantially more. The shipping company that exists today did so because it deployed enormous capital—whether from founder wealth, bank debt, or public equity—and did not sink it into the wrong vessels. Heidmar's fleet is thus a moat in itself: the upfront capital expenditure required to own comparable tonnage excludes most would-be entrants. A startup cannot borrow money to build a competing fleet without established cash flows and existing assets to pledge. Incumbent shipowners have refinanced vessels at lower rates, have relationships with shipyards and bunker suppliers, and can negotiate charter agreements at scale. Heidmar's existing vessels, financed years ago, do not carry the same burden as new debt would. This incumbency advantage compounds: the company reinvests earnings into vessel acquisition or disposal, adjusting the fleet without starting from zero.
+Few firms can sustain the balance-sheet demands of tanker ownership. A modern product tanker costs $30–50 million to build; a crude carrier costs substantially more. The shipping company that exists today did so because it deployed enormous capital—whether from founder wealth, bank debt, or public equity—and did not sink it into the wrong vessels. Heidmar's fleet is thus a moat in itself: the upfront capital expenditure required to own comparable tonnage excludes most would-be entrants. A startup cannot borrow money to build a competing fleet without established cash flows and existing assets to pledge. Incumbent shipowners have refinanced vessels at lower rates, have relationships with shipyards and bunker suppliers, and can negotiate charter agreements at scale. Heidmar's existing vessels, financed years ago, do not carry the same burden as new debt would. This incumbency advantage compounds: the company reinvests earnings into vessel [acquisition](/acquisition/) or disposal, adjusting the fleet without starting from zero.
 
 ## Indivisible Asset Ownership
 
@@ -41,7 +41,7 @@ International shipping is heavily regulated—environmental standards (sulfur ca
 
 ## Conclusion
 
-Heidmar's competitive moat is built on three pillars: the indivisible, capital-intensive nature of tanker fleets; the operational and financial leverage that incumbency provides; and the durability of relationships with major charterers. No software, patent, or brand loyalty shields the company; its protection is structural. Competitive threats come not from innovation but from cyclical downturns that shake the balance sheets of highly leveraged peers, from regulatory changes that favor upgraded fleets, and from the gradual aging of its own assets. The company does not dominate by being better—it survives by being there, with the right assets, at the right time in the cycle.
+Heidmar's competitive moat is built on three pillars: the indivisible, capital-intensive nature of tanker fleets; the operational and financial leverage that incumbency provides; and the durability of relationships with major charterers. No software, patent, or brand loyalty shields the company; its protection is structural. Competitive threats come not from innovation but from cyclical downturns that shake the [balance sheets](/balance-sheet/) of highly leveraged peers, from regulatory changes that favor upgraded fleets, and from the gradual aging of its own assets. The company does not dominate by being better—it survives by being there, with the right assets, at the right time in the cycle.
 
 <div class="wiki-seealso">
 ### Closely related

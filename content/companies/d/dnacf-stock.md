@@ -4,7 +4,7 @@ description: "A Japanese entertainment and online services company that builds m
 keywords: ["Japanese gaming", "mobile games", "entertainment company", "ADR", "Japan"]
 ---
 
-*DeNA Co., Ltd. is a **Japanese entertainment and digital services company** whose stock trades in the United States as an American Depositary Receipt under the ticker **DNACF**. The company made its name by creating mobile games and online entertainment platforms that reach millions of players across Japan and globally. It is not a manufacturing firm, not a bank, not a manufacturer of hardware—it is a content and platform company that earns money primarily when players spend on games and when advertisers pay to reach those players.*
+*DeNA Co., Ltd. is a **Japanese entertainment and digital services company** whose stock trades in the United States as an [American Depositary Receipt](/adr/) under the ticker **DNACF**. The company made its name by creating mobile games and online entertainment platforms that reach millions of players across Japan and globally. It is not a manufacturing firm, not a bank, not a manufacturer of hardware—it is a content and platform company that earns money primarily when players spend on games and when advertisers pay to reach those players.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DNACF</td></tr>
@@ -29,7 +29,7 @@ DeNA is large enough to sustain hundreds of employees but small enough to be nim
 
 ## The American Depositary Receipt Structure
 
-An American Depositary Receipt is a way for foreign companies to have shares traded in the United States without going through the full listing process of a US stock exchange. A bank (the depositary) holds the actual Japanese shares and issues receipts that represent them. When you buy DNACF, you own a receipt that represents a certain number of DeNA's actual shares held in Japan. Dividends and corporate actions flow through the depositary to the receipt holder. This structure makes it easier for US investors to buy and sell Japanese stocks without opening an account in Japan or understanding Japanese securities law, but it also means the ADR price moves as both the company's value and currency exchange rates move. A stronger yen makes the ADR more expensive in dollars, even if the underlying company's value has not changed.
+An American Depositary Receipt is a way for foreign companies to have shares traded in the United States without going through the full listing process of a US [stock exchange](/stock-exchange/). A bank (the depositary) holds the actual Japanese shares and issues receipts that represent them. When you buy DNACF, you own a receipt that represents a certain number of DeNA's actual shares held in Japan. [Dividends](/dividend/) and corporate actions flow through the depositary to the receipt holder. This structure makes it easier for US investors to buy and sell Japanese stocks without opening an account in Japan or understanding Japanese securities law, but it also means the ADR price moves as both the company's value and currency exchange rates move. A stronger yen makes the ADR more expensive in dollars, even if the underlying company's value has not changed.
 
 ## Competition and Positioning
 
@@ -37,8 +37,8 @@ DeNA competes against other Japanese gaming publishers like Bandai Namco, Square
 
 ## The Risk of Hits and Misses
 
-A mobile game publisher lives or dies on whether its games resonate with players. Unlike a utility or a bank, DeNA has no steady-state revenue floor. A company with five major games generates most of its revenue from those five. If two are sunset and only one new game succeeds, revenue can drop sharply. The company is also exposed to shifts in player taste, new competition, and app store policy changes. Apple and Google control the Android and iOS app stores and can change commission rates, feature discovery algorithms, or content policies, affecting all game publishers simultaneously.
+A mobile game publisher lives or dies on whether its games resonate with players. Unlike a utility or a bank, DeNA has no steady-state revenue floor. A company with five major games generates most of its revenue from those five. If two are sunset and only one new game succeeds, revenue can drop sharply. The company is also exposed to shifts in player taste, new competition, and app store policy changes. [Apple](/aapl-stock/) and Google control the Android and iOS app stores and can change commission rates, feature discovery algorithms, or content policies, affecting all game publishers simultaneously.
 
 ## What to Research
 
-To understand DeNA as an investor, examine its game portfolio and player retention metrics in its 10-K annual report. Look for which games are in their growth phase versus mature or declining phases. Understand what percentage of revenue comes from Japan versus international markets. Track changes in average revenue per user and paying user conversion rates. The company's competitive position turns entirely on game quality, and that quality is revealed through player behavior and retention data, which you can usually infer from the company's guidance and historical trends.
+To understand DeNA as an investor, examine its game portfolio and player retention metrics in its 10-K [annual report](/10-k/). Look for which games are in their growth phase versus mature or declining phases. Understand what percentage of revenue comes from Japan versus international markets. Track changes in average revenue per user and paying user conversion rates. The company's competitive position turns entirely on game quality, and that quality is revealed through player behavior and retention data, which you can usually infer from the company's guidance and historical trends.

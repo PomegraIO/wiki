@@ -38,7 +38,7 @@ Maze must either build these capabilities in-house or rely on contract research 
 
 ## Clinical Development and Licensing Revenue
 
-Once Maze has candidates ready for human testing, the path forward is through partnership or licensing. The company does not typically run its own clinical trials; instead, it licenses molecules to larger pharmaceutical companies, partner biotech firms, or clinical-stage specialists who have the infrastructure, funding, and regulatory relationships to run multi-phase trials. Alternatively, Maze may seek a strategic investment or outright acquisition from a larger player. This dependence on licensing and partnership is the critical transition point in its value chain: Maze generates revenue primarily through upfront licensing payments, milestone payments tied to clinical progress, and long-term royalties on approved drugs.
+Once Maze has candidates ready for human testing, the path forward is through partnership or licensing. The company does not typically run its own clinical trials; instead, it licenses molecules to larger pharmaceutical companies, partner biotech firms, or clinical-stage specialists who have the infrastructure, funding, and regulatory relationships to run multi-phase trials. Alternatively, Maze may seek a strategic investment or outright [acquisition](/acquisition/) from a larger player. This dependence on licensing and partnership is the critical transition point in its value chain: Maze generates revenue primarily through upfront licensing payments, milestone payments tied to clinical progress, and long-term royalties on approved drugs.
 
 This structure means Maze's financial success is not directly tied to patient demand or drug sales volume. A single successful licensing deal can replenish the cash runway; conversely, a delay in partnership or a partner's clinical failure can materially impact the company's valuation and ability to fund new projects.
 
@@ -48,7 +48,7 @@ What Maze adds to the value chain is selectivity and reduction of early-stage at
 
 ## Capital and Scale Constraints
 
-Unlike pharmaceutical manufacturers (which benefit from economies of scale once a drug is approved) or contract manufacturers, Maze operates in a space where each program requires fresh investment and technical work. The company's value lies entirely in its intellectual property, the quality of its people, and the validation of its target-selection and design methodology. It has no production assets, no distribution network, and no end-user customer relationship. The firm's balance sheet therefore reflects a pure biotech model: cash, intellectual property, research commitments, and equity financing.
+Unlike pharmaceutical manufacturers (which benefit from economies of scale once a drug is approved) or contract manufacturers, Maze operates in a space where each program requires fresh investment and technical work. The company's value lies entirely in its intellectual property, the quality of its people, and the validation of its target-selection and design methodology. It has no production assets, no distribution network, and no end-user customer relationship. The firm's [balance sheet](/balance-sheet/) therefore reflects a pure biotech model: cash, intellectual property, research commitments, and [equity financing](/equity-financing/).
 
 ## Dependence on Capital Markets and Biotech Sentiment
 

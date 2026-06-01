@@ -29,7 +29,7 @@ Understanding which end of this relationship Borealis occupies requires reading 
 
 ## Asset Intensity and Capital Requirements
 
-Food processing is capital-intensive: modern equipment for freezing, drying, milling, fermenting, or packaging requires substantial upfront investment. Older facilities or outdated technology reduce competitiveness. For a public company like Borealis, understanding its capital allocation—whether it reinvests in upgrades, maintains aging plants, or pursues acquisitions—signals management's confidence in its market and its ability to sustain margins. Equipment breakdowns or underutilized capacity are direct profit drains in this industry.
+Food processing is capital-intensive: modern equipment for freezing, drying, milling, fermenting, or packaging requires substantial upfront investment. Older facilities or outdated technology reduce competitiveness. For a public company like Borealis, understanding its capital allocation—whether it reinvests in upgrades, maintains aging plants, or pursues [acquisitions](/acquisition/)—signals management's confidence in its market and its ability to sustain margins. Equipment breakdowns or underutilized capacity are direct profit drains in this industry.
 
 The company's balance sheet and [cash flow](/free-cash-flow/) statements reveal how much it spends on maintaining and upgrading plants and equipment. Declining capital investment can indicate maturity, pessimism, or cash harvesting; rising investment suggests growth ambitions or need to stay competitive. The tenure and condition of Borealis's primary production facilities are key to assessing its long-term competitive standing.
 
@@ -55,7 +55,7 @@ Food processing is fragmented: thousands of small plants operate regionally, ser
 
 ## Reading Borealis through Its Filings
 
-To evaluate Borealis Foods, start with its most recent 10-K: review segment reporting (if multi-category), customer concentration metrics, margin trends, and capital spending plans. Check the management-discussion-and-analysis section for commentary on input costs, pricing actions, and customer demand. Footnotes on commitments and contingencies may reveal long-term contracts or facility issues. Cross-reference recent quarterly earnings calls for forward guidance on volumes and margins. In the food-processing sector, where competition is local-to-regional and scale-driven, these filings are the roadmap to understanding what makes Borealis distinct and durable.
+To evaluate Borealis Foods, start with its most recent 10-K: review [segment reporting](/segment-reporting/) (if multi-category), customer concentration metrics, margin trends, and capital spending plans. Check the management-discussion-and-analysis section for commentary on input costs, pricing actions, and customer demand. Footnotes on commitments and contingencies may reveal long-term contracts or facility issues. Cross-reference recent quarterly earnings calls for [forward guidance](/forward-guidance/) on volumes and margins. In the food-processing sector, where competition is local-to-regional and scale-driven, these filings are the roadmap to understanding what makes Borealis distinct and durable.
 
 <div class="wiki-seealso">
 ### Closely related

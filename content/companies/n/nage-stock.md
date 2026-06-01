@@ -28,7 +28,7 @@ Firms in the NAD+ space often burn cash on research before generating meaningful
 
 ## Competition and the Hazard of Commoditization
 
-The NAR and NMN supplement markets have seen rapid entry by larger players—major supplement manufacturers and even some pharmaceutical companies have launched products in this space. Niagen's defensibility depends on whether it owns patents on specific formulations or delivery mechanisms, or whether its value lies in clinical research or brand positioning. The 10-K must explain what intellectual property Niagen controls and which competitors it acknowledges. If the company positions itself as a research and development provider to larger firms rather than a direct-to-consumer brand, its competitive threat is different—partnerships become more critical than market share. Conversely, if Niagen sells directly, it competes on brand trust, research credibility, and distribution efficiency against much larger supplement vendors.
+The NAR and NMN supplement markets have seen rapid entry by larger players—major supplement manufacturers and even some pharmaceutical companies have launched products in this space. Niagen's defensibility depends on whether it owns patents on specific formulations or [delivery mechanisms](/delivery-mechanisms/), or whether its value lies in clinical research or brand positioning. The 10-K must explain what intellectual property Niagen controls and which competitors it acknowledges. If the company positions itself as a research and development provider to larger firms rather than a direct-to-consumer brand, its competitive threat is different—partnerships become more critical than market share. Conversely, if Niagen sells directly, it competes on brand trust, research credibility, and distribution efficiency against much larger supplement vendors.
 
 ## Regulatory Risk as Business Risk
 
@@ -36,7 +36,7 @@ Unlike a pharmaceutical company pursuing FDA approval, Niagen operates under die
 
 ## Funding Requirements and Exit Pathways
 
-For a research-stage biotech supplement company, the path forward typically runs toward either profitability through scaling product sales, acquisition by a larger supplement or pharmaceutical company, or partnerships that license its intellectual property. Studying Niagen's cash burn and runway, disclosed in the 10-K's liquidity discussion, reveals which of these paths the company is positioned to pursue. A company running low on cash and with limited revenue faces pressure to raise capital, seek a buyer, or find partnerships—each with different implications for investors.
+For a research-stage biotech supplement company, the path forward typically runs toward either profitability through scaling product sales, [acquisition](/acquisition/) by a larger supplement or pharmaceutical company, or partnerships that license its intellectual property. Studying Niagen's cash burn and runway, disclosed in the 10-K's liquidity discussion, reveals which of these paths the company is positioned to pursue. A company running low on cash and with limited revenue faces pressure to raise capital, seek a buyer, or find partnerships—each with different implications for investors.
 
 ---
 

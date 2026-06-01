@@ -33,7 +33,7 @@ FCCI's [balance sheet](/balance-sheet/) reflects the capital demands of restaura
 
 ## The Franchisee Question
 
-If FCCI franchises most of its units rather than owning them, its asset base is lighter and returns on capital higher, but its growth becomes hostage to franchisee confidence and access to financing. In downturns, even healthy franchisees halt new builds, pinching FCCI's royalty base. In upswings, too many weak franchisees may sign leases, leading to failures and brand-image damage when units close. This franchisee-leverage dynamic is not strictly cyclical (some franchisees are intrinsically better operators) nor purely structural (not all recessions hit the fast-casual segment equally), but a blend. Understanding FCCI's franchisee health, visible through [10-K](/10-k/) disclosures on royalty trends and impairments, separates the durable franchise from the cyclically vulnerable one.
+If FCCI franchises most of its units rather than owning them, its asset base is lighter and returns on capital higher, but its growth becomes hostage to franchisee confidence and access to financing. In downturns, even healthy franchisees halt new builds, pinching FCCI's royalty base. In upswings, too many weak franchisees may sign leases, leading to failures and brand-image damage when units close. This franchisee-leverage dynamic is not strictly cyclical (some franchisees are intrinsically better operators) nor purely structural (not all [recessions](/recession/) hit the fast-casual segment equally), but a blend. Understanding FCCI's franchisee health, visible through [10-K](/10-k/) disclosures on royalty trends and impairments, separates the durable franchise from the cyclically vulnerable one.
 
 ## Reading the Fundamentals
 

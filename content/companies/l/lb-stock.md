@@ -42,7 +42,7 @@ Debt levels and capital structure are important considerations. As a newly publi
 
 The fundamental risk is oil and gas price volatility. A sustained collapse in crude prices would sharply reduce drilling activity and royalty income. Unlike producers, LandBridge cannot cut costs or optimize operations during downturns; it simply collects less. The company has limited ability to influence drilling timelines or commodity prices—it is entirely dependent on third-party operators who are also commodity-price takers.
 
-A second risk is competition for acreage and the commoditization of mineral rights. If large energy companies or institutional investors [target](/tgt-stock/) the Delaware Basin at scale, competitive pressure on royalty rates and land premiums could squeeze returns. LandBridge's strategic positioning and existing relationships offer some moat, but no sustainable barrier prevents rivals from assembling similar portfolios.
+A second risk is competition for acreage and the commoditization of mineral rights. If large energy companies or institutional investors target the Delaware Basin at scale, competitive pressure on royalty rates and land premiums could squeeze returns. LandBridge's strategic positioning and existing relationships offer some moat, but no sustainable barrier prevents rivals from assembling similar portfolios.
 
 The infrastructure diversification strategy carries execution risk. Building data center campuses or fiber networks requires expertise and capital that differ markedly from land ownership. Permitting, interconnection, and customer [acquisition](/acquisition/) timelines are long and subject to regulatory change. Initial partnerships are promising, but the company is unproven in these adjacent markets.
 

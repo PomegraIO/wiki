@@ -27,7 +27,7 @@ MOMO monetizes primarily through virtual gifts and in-app purchases. Users spend
 
 Livestream features amplify this monetization. A user broadcasting to an audience receives gifts from viewers; MOMO captures a percentage of the spending. Viewers send gifts to support streamers they like. The streamer gains status and income; MOMO gains transaction fees. The mechanic aligns user incentives with MOMO's revenue.
 
-This model's sustainability depends on whether spending users remain engaged and continue purchasing. If user acquisition slows or retention declines, monetization follows. MOMO must constantly refresh content and features to sustain engagement intensity.
+This model's sustainability depends on whether spending users remain engaged and continue purchasing. If user [acquisition](/acquisition/) slows or retention declines, monetization follows. MOMO must constantly refresh content and features to sustain engagement intensity.
 
 ## Geographic and Competitive Context
 
@@ -39,7 +39,7 @@ The competitive landscape has shifted as Douyin and Kuaishou integrated livestre
 
 Chinese tech platforms face increasing regulatory scrutiny regarding user data, content moderation, and engagement-maximization mechanics. Livestream platforms specifically face rules around sexual content, gambling-adjacent mechanics, and time-use restrictions for younger users. MOMO's business model depends on regulatory stability; if China restricts livestream tipping, virtual-gift mechanics, or user data collection, MOMO's monetization could be significantly impaired.
 
-The company's compliance posture—its investment in content moderation, age-gating, and reported usage limits for minors—signals management's assessment of regulatory risk. Investors monitoring MOLN (MOLECULAR PARTNERS' ticker) and MOMO (Hello Group's ticker) both track regulatory announcements affecting their respective platforms' viability.
+The company's compliance posture—its investment in content moderation, age-gating, and reported usage limits for minors—signals management's assessment of regulatory risk. Investors monitoring MOLN ([MOLECULAR PARTNERS](/moln-stock/)' ticker) and MOMO (Hello Group's ticker) both track regulatory announcements affecting their respective platforms' viability.
 
 ## User Segmentation and Engagement Dynamics
 
@@ -49,7 +49,7 @@ The platform's ability to grow depends on expanding within existing cohorts (inc
 
 ## Cash Generation and Capital Allocation
 
-MOMO generates substantial cash from user spending. The company allocates that cash to user acquisition (marketing to drive new downloads), feature development (maintaining engagement), and shareholder returns (dividends or buybacks). The specific allocation reveals management's confidence in growth and risk orientation. Heavy investment in user acquisition signals belief in available market opportunity; shareholder distributions signal confidence in stabilized business economics.
+MOMO generates substantial cash from user spending. The company allocates that cash to user acquisition (marketing to drive new downloads), feature development (maintaining engagement), and shareholder returns ([dividends](/dividend/) or buybacks). The specific allocation reveals management's confidence in growth and risk orientation. Heavy investment in user acquisition signals belief in available market opportunity; shareholder distributions signal confidence in stabilized business economics.
 
 The SEC filing (CIK 1610601) reveals revenue composition, user metrics, average-revenue-per-user, and cash-flow generation—metrics revealing whether MOMO's monetization deepens as the user base matures or plateaus.
 

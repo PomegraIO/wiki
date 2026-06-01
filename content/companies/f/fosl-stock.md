@@ -36,7 +36,7 @@ Operationally, wholesale distribution requires maintaining relationships with bu
 
 Watch and jewelry sales are highly seasonal. Fourth-quarter holidays drive Christmas and gift-buying; spring and summer see vacation and special-occasion purchases. Fossil must plan production and inventory six to nine months ahead of peak seasons to ensure products are available for the holiday rush. Guessing wrong on color, size, or style preferences means either stockouts (lost sales) or bloated inventory that must be cleared via discounting.
 
-The company also manages multiple price points and brand tiers. Michele watches command higher prices than Relic branded goods; some items are fashion-forward and trend-dependent, while others are timeless designs with longer shelf lives. Managing this portfolio means different demand forecasting models for different brands and styles. A fashion watch that mixes metallics and stones may have a short selling season and steep markdown risk, while a classic leather strap watch may hold value longer.
+The company also manages multiple price points and brand tiers. Michele watches command higher prices than Relic branded goods; some items are fashion-forward and trend-dependent, while others are timeless designs with longer shelf lives. Managing this portfolio means different demand forecasting models for different brands and styles. A fashion watch that mixes metallics and stones may have a [short selling](/short-selling/) season and steep markdown risk, while a classic leather strap watch may hold value longer.
 
 ## Supply Chain Complexity and Lead Times
 
@@ -60,7 +60,7 @@ Fossil's contracted manufacturers are responsible for production but Fossil is r
 
 ## Smartwatch Integration and Technology Risk
 
-Fossil developed or licensed smartwatch platforms and integrated them into various brands. Smartwatches require software updates, compatibility with mobile operating systems (iOS, Android), and ongoing developer support. A major software update from Apple or Google can affect compatibility. Fossil must continuously update firmware and applications to maintain functionality, or customers move to competing smartwatch brands with better platform support.
+Fossil developed or licensed smartwatch platforms and integrated them into various brands. Smartwatches require software updates, compatibility with mobile operating systems (iOS, Android), and ongoing developer support. A major software update from [Apple](/aapl-stock/) or Google can affect compatibility. Fossil must continuously update firmware and applications to maintain functionality, or customers move to competing smartwatch brands with better platform support.
 
 ## Seasonal Staffing and Warehousing
 

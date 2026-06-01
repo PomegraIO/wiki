@@ -17,17 +17,17 @@ keywords: [regulated utility, electric utility, gas utility, Texas utility, rate
 
 ## The Rate-Base Economic Model
 
-A regulated utility's profit equation is fundamentally different from competitive businesses. Instead of pricing at what the market will bear and minimizing costs, the utility is granted a monopoly franchise and its rates are set by a regulator (the Public Utility Commission) to permit the utility to recover its operating costs plus a "fair" return on invested capital.
+A regulated utility's profit equation is fundamentally different from competitive businesses. Instead of pricing at what the market will bear and minimizing costs, the utility is granted a monopoly franchise and its rates are set by a regulator (the Public Utility Commission) to permit the utility to recover its operating costs plus a "fair" [return on invested capital](/return-on-invested-capital/).
 
 The formula is: **Allowed Revenue = Operating Costs + (Rate Base × Allowed ROE)**
 
-If Entergy Texas operates electric distribution lines, power plants, and customer service centers with a total invested capital (rate base) of $20 billion, and the regulator allows an 8.5% ROE, the company is permitted annual revenue of $20 billion × 0.085 = $1.7 billion in operating profit (plus operating costs). As long as Entergy Texas's actual operating costs stay below the allowed amount and the company invests efficiently (not wastefully), it captures the full allowed return. If operating costs rise (due to inflation, unexpected outages, or regulatory mandates like environmental compliance), Entergy can petition for a rate increase; if allowed, revenue rises to cover the new costs. Conversely, if the company becomes very efficient and cuts costs below the allowed amount, it does not get to keep the difference; the next rate case will reflect the lower costs and rates will be reduced, passing savings to customers.
+If Entergy Texas operates electric distribution lines, power plants, and customer service centers with a total invested capital (rate base) of $20 billion, and the regulator allows an 8.5% ROE, the company is permitted annual revenue of $20 billion × 0.085 = $1.7 billion in operating profit (plus operating costs). As long as Entergy Texas's actual operating costs stay below the allowed amount and the company invests efficiently (not wastefully), it captures the full allowed return. If operating costs rise (due to [inflation](/inflation/), unexpected outages, or regulatory mandates like environmental compliance), Entergy can petition for a rate increase; if allowed, revenue rises to cover the new costs. Conversely, if the company becomes very efficient and cuts costs below the allowed amount, it does not get to keep the difference; the next rate case will reflect the lower costs and rates will be reduced, passing savings to customers.
 
 ## Growth Through Capital Investment
 
 A regulated utility's earnings growth is tied to growth in the rate base—the invested capital the utility is allowed to earn a return on. The only way to grow earnings without cutting costs (which is limited and one-time) is to invest capital in new infrastructure and get that investment into the rate base.
 
-Entergy Texas invests in transmission and distribution lines, power plants, natural gas pipelines, and customer-service infrastructure. A $1 billion investment in new transmission capacity (e.g., upgrading 100 miles of high-voltage lines to connect new wind farms) is added to the rate base. The company then earns 8.5% on that $1 billion, generating $85 million in annual regulated profit. If the company's cost of capital (weighted average of debt and equity) is 6%, the 8.5% allowed return leaves a 2.5% spread for shareholders—modest compared to unregulated businesses but steady and guaranteed by regulation.
+Entergy Texas invests in transmission and distribution lines, power plants, [natural gas](/natural-gas/) pipelines, and customer-service infrastructure. A $1 billion investment in new transmission capacity (e.g., upgrading 100 miles of high-voltage lines to connect new wind farms) is added to the rate base. The company then earns 8.5% on that $1 billion, generating $85 million in annual regulated profit. If the company's cost of capital (weighted average of debt and equity) is 6%, the 8.5% allowed return leaves a 2.5% spread for shareholders—modest compared to unregulated businesses but steady and guaranteed by regulation.
 
 The company's incentive is thus to invest in new, productive infrastructure, get it authorized by the regulator, and deploy it. Over-investment (building plants or lines that are not needed) is penalized by regulators via lower authorized returns or rate reductions. Under-investment risks service reliability penalties and loss of franchise. The balance is struck through rate cases, where the utility proposes investments and the regulator approves (or reduces) them.
 
@@ -49,7 +49,7 @@ A utility's earnings depend critically on favorable rate-case outcomes. If a reg
 
 Entergy Texas files rate cases every 2–4 years (depending on Texas law). The company proposes a rate increase based on projected capital investment and costs; intervenors (consumer advocates, large industrial customers) oppose or negotiate reductions. The regulator adjudicates. A contentious regulatory environment (with strong consumer advocacy) tends to produce lower-than-requested increases, underearning the allowed ROE. A utility-friendly regulator may grant increases closer to request.
 
-The 10-K or annual report will disclose Entergy Texas's most recent rate case outcomes and any pending cases. Investors should monitor regulatory proceedings to assess whether near-term allowed ROEs are likely to be earned or if headwinds are building.
+The 10-K or [annual report](/10-k/) will disclose Entergy Texas's most recent rate case outcomes and any pending cases. Investors should monitor regulatory proceedings to assess whether near-term allowed ROEs are likely to be earned or if headwinds are building.
 
 ## Capital Intensity and Infrastructure Aging
 
@@ -65,9 +65,9 @@ Regulatory support for energy transition varies by state and jurisdiction. Texas
 
 ## Preferred Equity Risk and Yield Characteristics
 
-ETI-P, the preferred equity, carries a fixed dividend rate (e.g., 6.5% annually). The preferred is callable (Entergy can redeem it at par if rates fall and refinancing is cheaper) and trades at a yield determined by the market. If the preferred yields 5%, the price is roughly par + the capital appreciation from lower rates. If the preferred yields 7%, the price is below par, reflecting either rising interest rates or increased perceived risk (e.g., a likelihood that Entergy cuts the preferred dividend due to financial stress).
+ETI-P, the preferred equity, carries a fixed dividend rate (e.g., 6.5% annually). The preferred is callable (Entergy can redeem it at par if rates fall and refinancing is cheaper) and trades at a yield determined by the market. If the preferred yields 5%, the price is roughly par + the capital appreciation from lower rates. If the preferred yields 7%, the price is below par, reflecting either rising [interest rates](/interest-rate/) or increased perceived risk (e.g., a likelihood that Entergy cuts the preferred dividend due to financial stress).
 
-The preferred's value is sensitive to interest rates (inverse relationship) and to Entergy's creditworthiness. If Entergy faces financial deterioration (rising debt, declining credit rating), the preferred yield widens, and the price falls. The preferred holder enjoys a predictable income stream but no capital appreciation if the company prospers (the common shareholders capture upside), and the price downside is substantial if risk increases.
+The preferred's value is sensitive to interest rates (inverse relationship) and to Entergy's creditworthiness. If Entergy faces financial deterioration (rising debt, declining [credit rating](/credit-rating/)), the preferred yield widens, and the price falls. The preferred holder enjoys a predictable income stream but no capital appreciation if the company prospers (the common shareholders capture upside), and the price downside is substantial if risk increases.
 
 ## Research Path
 

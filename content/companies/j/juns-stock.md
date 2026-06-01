@@ -40,9 +40,9 @@ This is the specific risk Jupiter carries: it has identified a biologically plau
 
 ## Fundraising, Capital, and Path to Revenue
 
-As a clinical-stage biotech, Jupiter has no meaningful product revenue. Its revenue model is potential: successful clinical trials, regulatory approval, and either a commercial launch (requiring massive additional capital and infrastructure) or an acquisition by a larger pharmaceutical company seeking a novel neuroscience asset. The company's early history involved raising capital through private equity, venture investors, and potentially grant funding from the National Institutes of Health or disease-specific foundations.
+As a clinical-stage biotech, Jupiter has no meaningful product revenue. Its revenue model is potential: successful clinical trials, regulatory approval, and either a commercial launch (requiring massive additional capital and infrastructure) or an [acquisition](/acquisition/) by a larger pharmaceutical company seeking a novel neuroscience asset. The company's early history involved raising capital through private equity, venture investors, and potentially grant funding from the National Institutes of Health or disease-specific foundations.
 
-Going public or trading on OTC markets (as the JUNS ticker indicates) reflects a later-stage capital event—either a successful Series C or D venture round that warranted a public shell, or a reverse merger that gave the private company public status to facilitate future fundraising. For a biotech at Jupiter's stage, public trading on OTC markets typically means limited liquidity but access to a broader pool of capital and a clearer path to larger financing rounds or acquisition.
+Going public or trading on OTC markets (as the JUNS ticker indicates) reflects a later-stage capital event—either a successful Series C or D venture round that warranted a public shell, or a [reverse merger](/reverse-merger/) that gave the private company public status to facilitate future fundraising. For a biotech at Jupiter's stage, public trading on OTC markets typically means limited liquidity but access to a broader pool of capital and a clearer path to larger financing rounds or acquisition.
 
 ## From Lab Discovery to Clinical Reality
 

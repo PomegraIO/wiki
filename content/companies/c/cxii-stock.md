@@ -4,7 +4,7 @@ description: "Special purpose acquisition company (SPAC) seeking to merge with a
 keywords: ["SPAC", "special purpose acquisition company", "blank-check company", "merger", "capital pool"]
 ---
 
-*Investors drawn to pre-identified acquisition opportunities without the track record of established buyout firms have, since the early 2000s, formed blank-check companies — pools of capital raised through public markets that stand ready to acquire a private business and merge it into a public entity. **Churchill Capital Corp XII** (CXII) is one such vehicle, assembled by sponsors with a reputation in acquisitions and restructuring. It offers investors a wager: that the sponsors will identify and negotiate a merger with a private company more cheaply and with better terms than the typical initial [public offering](/initial-public-offering/), and that the resulting entity will outperform the public markets.*
+*Investors drawn to pre-identified acquisition opportunities without the track record of established buyout firms have, since the early 2000s, formed blank-check companies — pools of capital raised through public markets that stand ready to acquire a private business and merge it into a public entity. **Churchill Capital Corp XII** (CXII) is one such vehicle, assembled by sponsors with a reputation in [acquisitions](/acquisition/) and restructuring. It offers investors a wager: that the sponsors will identify and negotiate a [merger](/merger/) with a private company more cheaply and with better terms than the typical initial [public offering](/initial-public-offering/), and that the resulting entity will outperform the public markets.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CXII</td></tr>
@@ -34,7 +34,7 @@ The private company also benefits from the SPAC's existing public currency — i
 
 ## Structural Mechanics and Risk
 
-Churchill Capital Corp XII, like all SPACs, raised capital at the IPO and placed the bulk of it in a trust account, restricted from use until the merger closes. Shareholders who doubt the eventual merger or wish to avoid the risk can redeem their shares before the vote, taking their pro-rata portion of the trust. This redemption right is the SPAC's built-in circuit breaker, allowing skeptical investors to exit cheaply.
+Churchill Capital Corp XII, like all SPACs, raised capital at the IPO and placed the bulk of it in a trust account, restricted from use until the merger closes. Shareholders who doubt the eventual merger or wish to avoid the risk can redeem their shares before the vote, taking their pro-rata portion of the trust. This redemption right is the SPAC's built-in [circuit breaker](/circuit-breaker/), allowing skeptical investors to exit cheaply.
 
 The merger itself requires affirmative votes from the SPAC's public shareholders. This creates a second checkpoint: if too many shareholders redeem or vote against the deal, it may not close, forcing the sponsors to find a new target or, if the deadline expires without a deal, to liquidate and return capital.
 

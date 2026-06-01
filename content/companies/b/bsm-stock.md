@@ -23,9 +23,9 @@ This asset class generates cash with minimal ongoing capital expenditure on Blac
 
 ## Distributions and the Partnership Form
 
-The partnership structure is fundamental to understanding BSM's capital strategy. Limited partnerships (LPs) are designed to distribute cash to unitholders rather than retain earnings. Unlike a corporation, which retains profits and reinvests them, an LP typically "distributes" a large portion of cash quarterly to its unit holders. These distributions are not "dividends" (a term used for corporations); they are simply cash returned to the ownership base. For investors seeking cash return, the LP form is attractive because the partnership is tax-efficient (avoiding corporate-level taxation) and committed to distribution.
+The partnership structure is fundamental to understanding BSM's capital strategy. Limited partnerships (LPs) are designed to distribute cash to unitholders rather than retain earnings. Unlike a corporation, which retains profits and reinvests them, an LP typically "distributes" a large portion of cash quarterly to its unit holders. These distributions are not "[dividends](/dividend/)" (a term used for corporations); they are simply cash returned to the ownership base. For investors seeking cash return, the LP form is attractive because the partnership is tax-efficient (avoiding corporate-level taxation) and committed to distribution.
 
-Black Stone's quarterly distributions are the primary returns to unitholders. Because the business is asset-hold rather than growth-focused, the partnership does not retain substantial earnings for reinvestment. Instead, it uses external financing—debt and equity issuance—to fund acquisitions of new mineral interests, which expand the asset base and support distribution growth over time.
+Black Stone's quarterly distributions are the primary returns to unitholders. Because the business is asset-hold rather than growth-focused, the partnership does not retain substantial earnings for reinvestment. Instead, it uses external financing—debt and equity issuance—to fund [acquisitions](/acquisition/) of new mineral interests, which expand the asset base and support distribution growth over time.
 
 ## Leverage as an Acquisition Engine
 
@@ -41,13 +41,13 @@ This volatility is a feature of the asset class. Unlike regulated utilities or c
 
 ## Debt Maturity and Refinancing Risk
 
-Black Stone's debt is typically arranged in tranches with staggered maturities. Some debt might be due in 3–5 years, other portions in 5–10 years. As debt matures, the partnership must either repay from cash on hand or refinance—issuing new debt to pay off old debt. In favorable lending markets (low interest rates, strong investor appetite for energy assets), refinancing is straightforward. In stressed markets or after commodity price collapses, refinancing can be difficult and expensive.
+Black Stone's debt is typically arranged in [tranches](/tranche/) with staggered maturities. Some debt might be due in 3–5 years, other portions in 5–10 years. As debt matures, the partnership must either repay from cash on hand or refinance—issuing new debt to pay off old debt. In favorable lending markets (low [interest rates](/interest-rate/), strong investor appetite for energy assets), refinancing is straightforward. In stressed markets or after commodity price collapses, refinancing can be difficult and expensive.
 
-If refinancing costs rise sharply, or if lenders tighten credit availability, the partnership might face pressure to cut distributions or sell assets to reduce debt. This refinancing risk is a permanent feature of a levered energy company's capital structure, a fact unitholders must reckon with.
+If refinancing costs rise sharply, or if lenders tighten credit availability, the partnership might face pressure to cut distributions or sell assets to reduce debt. This [refinancing risk](/refinancing-risk/) is a permanent feature of a levered energy company's capital structure, a fact unitholders must reckon with.
 
 ## Equity Issuance and Dilution
 
-Black Stone also grows through equity issuance—issuing new units to raise capital for acquisitions. New unit issuances dilute existing unitholders' ownership percentages but provide capital without increasing debt. The partnership must balance these methods: borrowing is cheaper (interest rates are typically lower than [equity](/common-stock/) returns), but it increases financial risk. Equity issuance is more expensive but safer. Most growing LPs use both, alternating between debt and equity offerings based on market conditions and the partnership's leverage ratios.
+Black Stone also grows through equity issuance—issuing new units to raise capital for acquisitions. New unit issuances dilute existing unitholders' ownership percentages but provide capital without increasing debt. The partnership must balance these methods: borrowing is cheaper (interest rates are typically lower than [equity](/common-stock/) returns), but it increases financial risk. Equity issuance is more expensive but safer. Most growing LPs use both, alternating between debt and equity offerings based on market conditions and the partnership's [leverage ratios](/leverage-ratio-forex/).
 
 ## Reserve Requirements and Debt Cushions
 

@@ -4,7 +4,7 @@ description: "Special purpose acquisition company formed to merge with and take 
 keywords: [SPAC, infrastructure, acquisition, merger, capital-raise]
 ---
 
-*Keel Infrastructure Corp. (KEEL) is a special purpose acquisition company (SPAC)—a blank-check corporation raised to identify and acquire an operating business, often in infrastructure or industrial sectors. SPACs themselves generate no operating revenue; their value proposition to investors is the promise of a disciplined capital deployment process and professional management capable of identifying an attractive acquisition target in a fragmented or private market.*
+*Keel Infrastructure Corp. (KEEL) is a special purpose [acquisition](/acquisition/) company (SPAC)—a blank-check corporation raised to identify and acquire an operating business, often in infrastructure or industrial sectors. SPACs themselves generate no operating revenue; their value proposition to investors is the promise of a disciplined capital deployment process and professional management capable of identifying an attractive acquisition target in a fragmented or private market.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KEEL</td></tr>
@@ -34,7 +34,7 @@ Before a merger is announced or completed, Keel's 10-K is largely a shell: minim
 
 ## The redemption dynamic and sponsor confidence
 
-SPAC deals often experience substantial redemptions when announced. If investors believe the deal is unattractive, they exercise redemption rights, forcing the sponsor to inject capital or shrink the transaction. High redemption rates (say, >50%) signal market skepticism. Conversely, low redemption rates suggest investors view the deal favorably.
+SPAC deals often experience substantial redemptions when announced. If investors believe the deal is unattractive, they exercise [redemption rights](/redemption-rights-equity/), forcing the sponsor to inject capital or shrink the transaction. High redemption rates (say, >50%) signal market skepticism. Conversely, low redemption rates suggest investors view the deal favorably.
 
 Keel's filings will disclose this once a target is announced. An analyst should calculate post-redemption equity value and dilution: if 70% of public shareholders redeem, the remaining equity base is much smaller, and sponsor (founder) shares represent a larger portion of the pro-forma cap table. This can incentivize sponsors to pursue strategy beneficial to themselves but not minority shareholders.
 

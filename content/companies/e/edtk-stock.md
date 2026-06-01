@@ -33,7 +33,7 @@ Students evaluating EDTK will examine course breadth, instructor credentials, an
 
 EDTK's primary revenue comes from student tuition. Students pay per course, per month, or per completion—the exact structure varies by offering. The company may also earn revenue from credential testing services, job placement services, or partnerships with employers seeking trained workers.
 
-The unit economics are favorable if the platform can maintain high utilization and low churn. A student who enrolls and completes a course has directly contributed to revenue. If that student then enrolls in a second course, the platform's efficiency grows—no new marketing spend is required, and the student is already committed. The challenge is student acquisition cost: EDTK must advertise, build brand awareness, and recruit cohorts of new learners constantly. If acquisition cost per student is high relative to lifetime tuition, the model breaks.
+The unit economics are favorable if the platform can maintain high utilization and low churn. A student who enrolls and completes a course has directly contributed to revenue. If that student then enrolls in a second course, the platform's efficiency grows—no new marketing spend is required, and the student is already committed. The challenge is student [acquisition](/acquisition/) cost: EDTK must advertise, build brand awareness, and recruit cohorts of new learners constantly. If acquisition cost per student is high relative to lifetime tuition, the model breaks.
 
 ## Geographic and Regulatory Context
 

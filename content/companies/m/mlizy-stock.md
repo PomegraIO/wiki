@@ -9,7 +9,7 @@ keywords:
   - loyalty rewards
 ---
 
-*Meliuz, a São Paulo-based fintech, operates a consumer platform combining cashback rewards, loyalty programs, and financial services (lending, credit) in the Brazilian market. The firm monetizes through merchant partnerships and financial-product origination while contending with macroeconomic volatility, currency depreciation, intense local competition, and regulatory uncertainty in its core market.*
+*Meliuz, a São Paulo-based fintech, operates a consumer platform combining cashback rewards, loyalty programs, and financial services (lending, credit) in the Brazilian market. The firm monetizes through merchant partnerships and financial-product origination while contending with macroeconomic volatility, currency [depreciation](/depreciation/), intense local competition, and regulatory uncertainty in its core market.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>MLIZY</td></tr>
@@ -23,11 +23,11 @@ keywords:
 
 Meliuz leverages Brazil's large, underserved consumer base and growing digital-payment adoption. The firm's core proposition—aggregating cashback offers from merchants and loyalty programs on a mobile platform—addresses a real pain point for price-conscious Brazilian consumers. Adding financial products (credit, installment lending, subscriptions) theoretically creates cross-selling opportunities and higher customer lifetime value.
 
-Brazil's economy is large but volatile. Growth is uneven, unemployment and inflation fluctuate, and real wages are often stagnant. Consumer spending patterns are cyclical. During downturns, cashback-driven loyalty platforms suffer as consumers reduce discretionary spending or shift to lower-price merchants outside the platform. Meliuz's fortunes are tightly bound to Brazilian consumer confidence and credit availability.
+Brazil's economy is large but volatile. Growth is uneven, unemployment and [inflation](/inflation/) fluctuate, and real wages are often stagnant. Consumer spending patterns are cyclical. During downturns, cashback-driven loyalty platforms suffer as consumers reduce [discretionary spending](/discretionary-spending/) or shift to lower-price merchants outside the platform. Meliuz's fortunes are tightly bound to Brazilian consumer confidence and credit availability.
 
 ## Currency Exposure and Capital Volatility
 
-Meliuz is domiciled in Brazil and earns primarily in Brazilian reais (BRL). The firm's US-listed [stock](/stock/) is exposed to BRL depreciation relative to the US dollar. When the real weakens—which has been a persistent trend—the dollar value of Meliuz's revenues, earnings, and balance-sheet assets declines. This creates earnings headwinds not driven by operational performance, complicating investor analysis and potentially depressing share price.
+Meliuz is domiciled in Brazil and earns primarily in Brazilian reais (BRL). The firm's US-listed [stock](/stock/) is exposed to BRL depreciation relative to the [US dollar](/us-dollar/). When the real weakens—which has been a persistent trend—the dollar value of Meliuz's revenues, earnings, and balance-sheet assets declines. This creates earnings headwinds not driven by operational performance, complicating investor analysis and potentially depressing share price.
 
 If Meliuz maintains significant liabilities in dollars (for example, US-based debt or leases), currency weakness increases the real-currency cost of servicing those obligations, further pressuring margins.
 
@@ -47,7 +47,7 @@ Meliuz must differentiate through superior user experience, higher cashback rate
 
 If Meliuz extends credit (personal loans, installment financing, credit lines), it assumes underwriting and default risk. In a slowing Brazilian economy with rising unemployment, loan losses can spike. Managing credit portfolios requires sophisticated data, modeling, and collections infrastructure. Meliuz must either develop these in-house (expensive and uncertain) or partner with banks or credit bureaus (diluting margins and introducing dependencies).
 
-Loan defaults directly reduce profitability and can erode user trust if credit experiences are poor. Additionally, lending in Brazil faces regulatory oversight from the Central Bank and potential cap restrictions on interest rates. If rates are capped below Meliuz's cost of funds plus default provisions, credit products become unprofitable.
+Loan defaults directly reduce profitability and can erode user trust if credit experiences are poor. Additionally, lending in Brazil faces regulatory oversight from the [Central Bank](/central-bank/) and potential cap restrictions on [interest rates](/interest-rate/). If rates are capped below Meliuz's cost of funds plus default provisions, credit products become unprofitable.
 
 ## Regulatory Risk
 
@@ -57,7 +57,7 @@ Additionally, Brazil's tax environment is complex and subject to interpretation.
 
 ## Unit Economics Opacity
 
-For a fintech-platform business in an emerging market, unit economics are critical but often opaque. Meliuz's efficiency—cost to acquire a user, lifetime cashback and financial-product revenue per user, and customer retention—determine whether the business scales profitably. Limited public disclosure of these metrics makes evaluation difficult. If customer acquisition cost is high, retention is low, or transaction values are small, unit economics may not support profitable growth.
+For a fintech-platform business in an emerging market, unit economics are critical but often opaque. Meliuz's efficiency—cost to acquire a user, lifetime cashback and financial-product revenue per user, and customer retention—determine whether the business scales profitably. Limited public disclosure of these metrics makes evaluation difficult. If customer [acquisition](/acquisition/) cost is high, retention is low, or transaction values are small, unit economics may not support profitable growth.
 
 ## Upside from Financial Inclusion
 

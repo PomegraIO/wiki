@@ -23,13 +23,13 @@ A researcher evaluating HMMR must determine whether the company is pre-revenue b
 
 The term "technology" can encompass hardware (manufacturing equipment, sensors, computing devices), software (applications, platforms, APIs), or hybrid (hardware + embedded software). Each category has vastly different unit economics and capital requirements.
 
-Hardware companies require manufacturing capital, supply-chain expertise, and go-to-market infrastructure. Per-unit gross margins might be 30–50%, but getting from prototypes to production-scale manufacturing can cost millions. Software companies have higher gross margins (70–90%) but need distribution and customer acquisition. A technology holding company might be aggregating multiple small companies or assets, which creates both optionality (diverse product portfolio) and complexity (integration overhead).
+Hardware companies require manufacturing capital, supply-chain expertise, and go-to-market infrastructure. Per-unit gross margins might be 30–50%, but getting from prototypes to production-scale manufacturing can cost millions. Software companies have higher gross margins (70–90%) but need distribution and customer [acquisition](/acquisition/). A technology holding company might be aggregating multiple small companies or assets, which creates both optionality (diverse product portfolio) and complexity (integration overhead).
 
 Without clarity on what HMMR actually builds or sells, estimating unit economics is impossible. The company's SEC filings should provide some indication, but OTC filings are often sparse.
 
 ## The Shell Company Risk
 
-Some OTC companies with generic or opaque names are de facto shells—entities with minimal operations, often carrying assets or intellectual property that the founders believe will increase in value, or that are simply waiting to be acquired or merged. A shell company trades on OTC because it has no independent business but seeks to raise capital or provide a vehicle for a reverse merger.
+Some OTC companies with generic or opaque names are de facto shells—entities with minimal operations, often carrying assets or intellectual property that the founders believe will increase in value, or that are simply waiting to be acquired or merged. A shell company trades on OTC because it has no independent business but seeks to raise capital or provide a vehicle for a [reverse merger](/reverse-merger/).
 
 If HMMR is a shell, its unit economics are irrelevant until or unless it acquires or merges with an operating company. The shareholder is betting on management's ability to execute a strategic transaction and integrate an acquisition into a profitable whole. That is a high-risk bet and one that often ends in value destruction or shareholder dilution.
 
@@ -71,13 +71,13 @@ However, most OTC technology companies are never acquired at attractive prices. 
 
 ## Valuation and Risk Premium
 
-OTC technology companies with minimal revenue are valued almost entirely on sentiment and speculation. A company with $0 in revenue might have a market cap of $10–100 million depending on the story investors believe and the volume of hype. The stock price often has no relationship to fundamental value because there are no fundamentals to value.
+OTC technology companies with minimal revenue are valued almost entirely on sentiment and speculation. A company with $0 in revenue might have a [market cap](/market-capitalization/) of $10–100 million depending on the story investors believe and the volume of hype. The stock price often has no relationship to fundamental value because there are no fundamentals to value.
 
 The risk premium on such a stock is enormous. Investors should expect a total loss in most cases and structure positions accordingly—only invest capital they can afford to lose entirely. The occasional successful development-stage company that reaches profitability and goes on to build real value is the exception, not the rule.
 
 ## Assessing Viability Without Transparent Disclosure
 
-For an OTC technology company with opaque operations, the best assessment tool is the SEC's EDGAR database. Obtain the most recent 10-K or 10-Q filing, examine the balance sheet (does the company have positive or negative equity?), the cash flow statement (is cash increasing or decreasing?), and the MD&A section (does management articulate a clear path to revenue and profitability?).
+For an OTC technology company with opaque operations, the best assessment tool is the SEC's EDGAR database. Obtain the most recent 10-K or 10-Q filing, examine the [balance sheet](/balance-sheet/) (does the company have positive or negative equity?), the [cash flow statement](/cash-flow-statement/) (is cash increasing or decreasing?), and the MD&A section (does management articulate a clear path to revenue and profitability?).
 
 If the company reports mounting losses, no revenue, and dwindling cash, and management offers vague or boilerplate language about future plans, the company is likely in a slow death spiral. If the company reports ongoing R&D with clear milestones and an articulated path to revenue, the investment is speculative but not necessarily a sure loss.
 

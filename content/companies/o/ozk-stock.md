@@ -49,7 +49,7 @@ During certain periods (such as 2014–2019), real estate lending was profitable
 
 ## Capital and leverage
 
-Banks are regulated on their capital levels. OZK must maintain minimum levels of regulatory capital as a buffer against losses. The bank's leverage—the ratio of assets to equity—is therefore constrained by regulation. During a period of rapid loan growth, the bank may reach its [target](/tgt-stock/) leverage and need to raise capital (issue more equity) to continue growing. Raising capital is dilutive to existing shareholders, so it represents a cost to growth.
+Banks are regulated on their capital levels. OZK must maintain minimum levels of regulatory capital as a buffer against losses. The bank's leverage—the ratio of assets to equity—is therefore constrained by regulation. During a period of rapid loan growth, the bank may reach its target leverage and need to raise capital (issue more equity) to continue growing. Raising capital is dilutive to existing shareholders, so it represents a cost to growth.
 
 Conversely, in a downturn when loan losses mount, the bank's capital erodes, and it may need to raise capital at an unfavorable price to restore its ratios. This dynamic makes the real estate cycle punitive for real estate-focused banks: they grow fastest when conditions are best (when they should be cautious), and they face capital constraints when conditions worsen (when conservatism is most needed).
 

@@ -49,7 +49,7 @@ EQT has made substantial progress in lowering unit costs through technology impr
 
 ## The business cycles of commodity extraction
 
-Natural gas prices are volatile. Prices reflect the balance between seasonal demand (higher in winter for heating), global supply (including LNG exports), storage levels, weather, and macroeconomic health. A mild winter, a global slowdown, or a surge in LNG exports can depress prices for years. A cold [snap](/snap-stock/) or supply disruption can spike them just as quickly.
+Natural gas prices are volatile. Prices reflect the balance between seasonal demand (higher in winter for heating), global supply (including LNG exports), storage levels, weather, and macroeconomic health. A mild winter, a global slowdown, or a surge in LNG exports can depress prices for years. A cold snap or supply disruption can spike them just as quickly.
 
 When prices are high, EQT generates enormous [free cash flow](/free-cash-flow/): the incremental revenue from higher prices flows almost directly to profit because the company's cost base is already in place. When prices are low, even a large, efficient producer like EQT operates at thin margins or swings into losses if costs exceed the realization price.
 

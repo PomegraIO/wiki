@@ -21,7 +21,7 @@ This model creates a dual personality. One portion of the business—emergency f
 
 ## The Cyclical Compression
 
-During recessions and periods of economic uncertainty, the proportion of revenue from defensive work tends to rise while transformational work contracts sharply. Clients defer new product launches, postpone infrastructure rewrites, and cut consulting budgets. They pivot to keeping the lights on and fixing urgent problems, which often still requires vendor involvement but at lower budgets and with less scope. GMTech's utilization rates fall—fewer billable hours per consultant. To maintain profitability, the company must lay off staff (a painful and damaging step that reduces morale and client relationships) or watch margins compress as headcount costs remain fixed while revenue shrinks.
+During [recessions](/recession/) and periods of economic uncertainty, the proportion of revenue from defensive work tends to rise while transformational work contracts sharply. Clients defer new product launches, postpone infrastructure rewrites, and cut consulting budgets. They pivot to keeping the lights on and fixing urgent problems, which often still requires vendor involvement but at lower budgets and with less scope. GMTech's utilization rates fall—fewer billable hours per consultant. To maintain profitability, the company must lay off staff (a painful and damaging step that reduces morale and client relationships) or watch margins compress as headcount costs remain fixed while revenue shrinks.
 
 Conversely, in expansion cycles—particularly after recessions when client companies have deferred so much maintenance that systems become genuinely creaky—demand for ambitious transformation engagements accelerates. Companies fund new initiatives, hire more staff, and spend on technology to drive efficiency and growth. Utilization climbs, hiring accelerates, and revenue per consultant rises. This whipsaw rhythm creates volatility in earnings and share price.
 
@@ -35,13 +35,13 @@ Third, the scarcity of skilled technology talent is pushing more work toward ext
 
 ## Competitive Positioning
 
-GMTech competes against larger, established consulting firms (Accenture, Deloitte, IBM), smaller boutique agencies specializing in specific technologies or industries, and in-house teams at larger enterprises. The advantage for a mid-sized independent firm like GMTech lies in agility: faster decision-making, lower overhead, ability to specialize in particular technology stacks or verticals, and potentially higher quality and responsiveness on smaller to mid-sized engagements.
+GMTech competes against larger, established consulting firms ([Accenture](/acn-stock/), Deloitte, IBM), smaller boutique agencies specializing in specific technologies or industries, and in-house teams at larger enterprises. The advantage for a mid-sized independent firm like GMTech lies in agility: faster decision-making, lower overhead, ability to specialize in particular technology stacks or verticals, and potentially higher quality and responsiveness on smaller to mid-sized engagements.
 
 The disadvantage is scale. Large consulting firms can bid on and execute massive, multi-year transformation programs that exceed GMTech's capacity. They can cross-sell across a portfolio of services. They can absorb market downturns by reducing headcount across a global organization without signaling strategic retreat. GMTech must rely on reputation, client relationships, and specialization to maintain a differentiated market position.
 
 ## The Rhythm of Renewal
 
-For investors reading the 10-K, the key signals are utilization rates (billable hours as a percentage of available hours), average contract value and duration, and the ratio of new sales to revenue (which hints at whether the company is growing its customer base or relying on repeat work). Gross margins, usually high for service businesses, reveal how much wage inflation is eroding profitability. Backlog and pipeline size hint at near-term revenue visibility.
+For investors reading the 10-K, the key signals are utilization rates (billable hours as a percentage of available hours), average contract value and duration, and the ratio of new sales to revenue (which hints at whether the company is growing its customer base or relying on repeat work). Gross margins, usually high for service businesses, reveal how much wage [inflation](/inflation/) is eroding profitability. Backlog and pipeline size hint at near-term revenue visibility.
 
 GMTech's fortunes will remain tethered to the corporate IT spending cycle—periods of retrenchment will squeeze margins and force restructuring—but the underlying demand for technology services to manage legacy systems, cloud complexity, and talent scarcity points to a rising long-term trend. Growth will remain lumpy, but the floor may be lifting.
 

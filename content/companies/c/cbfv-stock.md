@@ -4,7 +4,7 @@ description: "A community bank holding company registered with the SEC under CIK
 keywords: ["community-bank", "bank-holding-company", "lending", "deposits", "regional-finance"]
 ---
 
-*A **CB Financial Services, Inc. (CBFV)** is the parent company of one or more bank subsidiaries that take deposits from local customers and lend that money to other local customers. Like any bank, it profits by earning interest on loans while paying lower interest on deposits. Its risks center on whether borrowers repay, whether depositors stay, and whether interest rates are moving in its favor or against it.*
+*A **CB Financial Services, Inc. (CBFV)** is the parent company of one or more bank subsidiaries that take deposits from local customers and lend that money to other local customers. Like any bank, it profits by earning interest on loans while paying lower interest on deposits. Its risks center on whether borrowers repay, whether depositors stay, and whether [interest rates](/interest-rate/) are moving in its favor or against it.*
 
 <aside class="wiki-infobox">
 <table>
@@ -22,7 +22,7 @@ CBFV is a holding company — a parent entity that owns and manages one or more 
 
 ## What Makes a "Community" Bank
 
-Community banks like CBFV are small to mid-sized regional lenders. They are not Wells Fargo or Bank of America. What they do is dig into their local area and understand local borrowers. A community bank knows the construction company owner down the street, the dairy farmer one county over, and the small business that needs a line of credit. This intimate market knowledge is a strength — it can make credit decisions faster and sometimes better than a distant megabank that runs everything through a formula. But it is also a weakness: if the local economy falters, the bank's loan portfolio can blow up all at once.
+Community banks like CBFV are small to mid-sized regional lenders. They are not [Wells Fargo](/wells-fargo/) or [Bank of America](/bank-of-america/). What they do is dig into their local area and understand local borrowers. A community bank knows the construction company owner down the street, the dairy farmer one county over, and the small business that needs a line of credit. This intimate market knowledge is a strength — it can make credit decisions faster and sometimes better than a distant megabank that runs everything through a formula. But it is also a weakness: if the local economy falters, the bank's loan portfolio can blow up all at once.
 
 ## The Deposit Base is Fragile
 
@@ -30,7 +30,7 @@ Banks depend on deposits. If customers get nervous or an online bank offers high
 
 ## Interest Rate Risk Cuts Both Ways
 
-When the Federal Reserve raises interest rates, new loans are more profitable — the bank can charge customers more. But deposits also become costly because customers demand higher returns to keep their money in the bank. The bank's existing loan portfolio, locked in at old rates, is now less valuable. When the Fed cuts rates, the opposite happens: deposits become cheap, but the bank's old loans are stuck earning low returns. Managing this interest-rate risk is a constant balancing act that separates well-run banks from troubled ones.
+When the [Federal Reserve](/federal-reserve/) raises interest rates, new loans are more profitable — the bank can charge customers more. But deposits also become costly because customers demand higher returns to keep their money in the bank. The bank's existing loan portfolio, locked in at old rates, is now less valuable. When the Fed cuts rates, the opposite happens: deposits become cheap, but the bank's old loans are stuck earning low returns. Managing this [interest-rate risk](/interest-rate-risk/) is a constant balancing act that separates well-run banks from troubled ones.
 
 ## Loan Quality and the Loss Reserve
 
@@ -54,7 +54,7 @@ Read the annual [10-K](/10-k/) filing for CIK 1605301 on the SEC's EDGAR system.
 
 ## Competitive Risks and the Consolidation Wave
 
-Larger banks are acquiring community banks at a steady clip. If CBFV faces an unsolicited takeover or wants to sell to a bigger bank, shareholders might see a premium price. But employees and local customers often see a change in service and local decision-making. Community banks that cannot compete on price or technology, and cannot achieve scale, face a slow decline or eventual acquisition.
+Larger banks are acquiring community banks at a steady clip. If CBFV faces an unsolicited takeover or wants to sell to a bigger bank, shareholders might see a premium price. But employees and local customers often see a change in service and local decision-making. Community banks that cannot compete on price or technology, and cannot achieve scale, face a slow decline or eventual [acquisition](/acquisition/).
 
 <div class="wiki-seealso">
 

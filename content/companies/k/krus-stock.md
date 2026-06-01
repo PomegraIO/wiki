@@ -35,15 +35,15 @@ The demographic is crucial. Kaiten sushi appeals to younger diners, urban profes
 
 ## Execution risks
 
-Casual-dining chains face persistent challenges. Labor cost inflation erodes margins. Rent increases squeeze profitability. Food-cost volatility (especially for seafood like salmon, tuna, and shrimp, which are commodities) creates uncertainty. Consumer spending on dining out is cyclical and falls when the economy weakens. KRUS's financial performance will reflect these pressures. The [10-K](/10-k/) will disclose same-store sales trends, per-unit volumes, and cost-of-goods-sold to show how well KRUS is managing these headwinds.
+Casual-dining chains face persistent challenges. Labor cost [inflation](/inflation/) erodes margins. Rent increases squeeze profitability. Food-cost volatility (especially for seafood like salmon, tuna, and shrimp, which are commodities) creates uncertainty. Consumer spending on dining out is cyclical and falls when the economy weakens. KRUS's financial performance will reflect these pressures. The [10-K](/10-k/) will disclose same-store sales trends, per-unit volumes, and cost-of-goods-sold to show how well KRUS is managing these headwinds.
 
 A second risk is execution at scale. Running 10 sushi restaurants under tight operational standards is easier than running 50. As KRUS expands, it must hire district managers, centralize procurement, standardize training, and maintain quality across locations. Missteps in operations or management can degrade customer experience and sales.
 
 ## Capital requirements and structure
 
-Building new restaurants requires cash or debt financing. KRUS may finance growth through its own [earnings](/earnings-per-share/), bank loans, or [bonds](/corporate-bond/). Each choice has trade-offs. Retained earnings are free but limited in size. Debt is cheaper than equity but creates obligation and risk. [Preferred stock](/preferred-stock/) is a hybrid. The company's [balance sheet](/balance-sheet/) shows which strategy KRUS has chosen.
+Building new restaurants requires cash or [debt financing](/debt-financing/). KRUS may finance growth through its own [earnings](/earnings-per-share/), bank loans, or [bonds](/corporate-bond/). Each choice has trade-offs. [Retained earnings](/retained-earnings/) are free but limited in size. Debt is cheaper than equity but creates obligation and risk. [Preferred stock](/preferred-stock/) is a hybrid. The company's [balance sheet](/balance-sheet/) shows which strategy KRUS has chosen.
 
-Once mature, a restaurant location is an [asset](/balance-sheet/) that throws off cash. KRUS's enterprise value reflects investor expectations for how many units the company will eventually operate and what profit margin each unit will earn. If KRUS consistently misses growth targets or unit economics worsen, the [stock price](/stock/) will fall.
+Once mature, a restaurant location is an [asset](/balance-sheet/) that throws off cash. KRUS's [enterprise value](/enterprise-value/) reflects investor expectations for how many units the company will eventually operate and what profit margin each unit will earn. If KRUS consistently misses growth targets or unit economics worsen, the [stock price](/stock/) will fall.
 
 ## Research angle
 

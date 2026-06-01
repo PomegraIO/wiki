@@ -38,11 +38,11 @@ FinWise concentrates its lending in specific industries (construction, real esta
 
 ## The Interest-Rate Trap
 
-A community bank's profitability is exquisitely sensitive to interest rates. When the Federal Reserve raises rates, the bank faces a timing problem. Its existing loan book—mortgages, term loans, lines of credit—is locked in at old rates. New deposits, by contrast, can be repriced upward within weeks. If the Fed raises rates by 200 basis points, and FinWise's loan book is fixed at old rates while deposits must be re-bid at new rates, the spread compresses sharply. A bank that was earning 4% margin on its spread might earn 2% for months or years until old loans roll off and new loans are made at higher rates.
+A community bank's profitability is exquisitely sensitive to [interest rates](/interest-rate/). When the [Federal Reserve](/federal-reserve/) raises rates, the bank faces a timing problem. Its existing loan book—mortgages, term loans, lines of credit—is locked in at old rates. New deposits, by contrast, can be repriced upward within weeks. If the Fed raises rates by 200 basis points, and FinWise's loan book is fixed at old rates while deposits must be re-bid at new rates, the spread compresses sharply. A bank that was earning 4% margin on its spread might earn 2% for months or years until old loans roll off and new loans are made at higher rates.
 
 Conversely, when rates fall, the dynamic reverses. FinWise's loan book refinances downward and yields fall, but deposit costs are already near zero, leaving no room to compress further. The spread widens—until so many depositors demand higher rates on savings that FinWise must pay up to keep them, eroding the benefit.
 
-This rate-duration mismatch is embedded in community banking. A bank that borrows short (deposits that are on-demand or short-term) and lends long (mortgages and term loans of 5–20 years) is fundamentally exposed to the yield curve. If short rates rise faster than long rates (or remain elevated while long rates fall), the bank's margin takes years to recover.
+This rate-duration mismatch is embedded in community banking. A bank that borrows short (deposits that are on-demand or short-term) and lends long (mortgages and term loans of 5–20 years) is fundamentally exposed to the [yield curve](/yield-curve/). If short rates rise faster than long rates (or remain elevated while long rates fall), the bank's margin takes years to recover.
 
 ## Loan-Loss Reserves and Accounting Discretion
 
@@ -52,13 +52,13 @@ FinWise must estimate how many of its loans will default and set aside capital (
 
 FinWise cannot grow faster than deposits allow. If it originates loans at 10% annually while its deposit base grows at 5%, it will either run out of deposits to fund new loans or be forced to borrow from other banks at rates that compress margin. Asset growth requires either deposit growth, wholesale funding at higher cost, or equity capital raises (which dilute existing shareholders and draw scrutiny if done too frequently).
 
-Deposit growth depends on the bank's reputation, brand strength, and competitive position. In a market where larger regional banks (Wells Fargo, U.S. Bank, regional giants) also compete, FinWise must differentiate on service, relationship quality, or niche expertise. It cannot compete on price alone because it lacks the scale efficiency of larger peers. It must be sticky—borrowers and depositors must feel that FinWise serves them better than alternatives—to grow.
+Deposit growth depends on the bank's reputation, brand strength, and competitive position. In a market where larger regional banks ([Wells Fargo](/wells-fargo/), U.S. Bank, regional giants) also compete, FinWise must differentiate on service, relationship quality, or niche expertise. It cannot compete on price alone because it lacks the scale efficiency of larger peers. It must be sticky—borrowers and depositors must feel that FinWise serves them better than alternatives—to grow.
 
 ## Why FinWise Persists
 
-The economic model works when three conditions hold: the bank maintains a low-cost deposit base (through relationship strength, not rate competition), the loan book performs (low default rates), and economic conditions do not force rapid interest-rate changes that compress margins. In a stable environment with modest loan losses, a community bank of FinWise's scale can generate adequate returns on equity and reinvest earnings to grow.
+The economic model works when three conditions hold: the bank maintains a low-cost deposit base (through relationship strength, not rate competition), the loan book performs (low [default rates](/default-rate/)), and economic conditions do not force rapid interest-rate changes that compress margins. In a stable environment with modest loan losses, a community bank of FinWise's scale can generate adequate returns on equity and reinvest earnings to grow.
 
-But the model is vulnerable to shocks: a recession (raising loan losses), a sharp rate-tightening cycle (compressing margins while refinancing risk persists), or a new competitor that offers higher deposit rates and lures away FinWise's base. FinWise's durability rests on the assumption that local banking relationships matter, that small businesses will remain willing to bank with a smaller institution, and that Utah's economic growth will continue to support loan demand.
+But the model is vulnerable to shocks: a [recession](/recession/) (raising loan losses), a sharp rate-tightening cycle (compressing margins while [refinancing risk](/refinancing-risk/) persists), or a new competitor that offers higher deposit rates and lures away FinWise's base. FinWise's durability rests on the assumption that local banking relationships matter, that small businesses will remain willing to bank with a smaller institution, and that Utah's economic growth will continue to support loan demand.
 
 ## The Regulatory Overhang
 

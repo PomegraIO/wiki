@@ -17,7 +17,7 @@ keywords: ["logistics", "shipping", "freight", "inter-island transport", "supply
 
 ## The Per-Ton-Mile Transaction and Its Margin
 
-A regional logistics operator earns revenue by moving cargo: dollars per ton, dollars per ton-mile, or per-container fees. New Century's unit transaction is a shipment of cargo from one island port to another, priced by weight or volume. If a shipment weighs 50 tons and travels 500 nautical miles, the ton-miles are 25,000. If New Century charges $0.50 per ton-mile, revenue is $12,500. The cost of that shipment includes fuel burned, crew labor hours, port fees at origin and destination, cargo handling, and an amortized share of vessel depreciation. If total cost is $8,000, gross contribution is $4,500 or 36%. But this assumes the vessel arrives at the destination with a full load and a confirmed return cargo; empty legs destroy the unit margin.
+A regional logistics operator earns revenue by moving cargo: dollars per ton, dollars per ton-mile, or per-container fees. New Century's unit transaction is a shipment of cargo from one island port to another, priced by weight or volume. If a shipment weighs 50 tons and travels 500 nautical miles, the ton-miles are 25,000. If New Century charges $0.50 per ton-mile, revenue is $12,500. The cost of that shipment includes fuel burned, crew labor hours, port fees at origin and destination, cargo handling, and an amortized share of vessel [depreciation](/depreciation/). If total cost is $8,000, gross contribution is $4,500 or 36%. But this assumes the vessel arrives at the destination with a full load and a confirmed return cargo; empty legs destroy the unit margin.
 
 ## Utilization as the Dominant Cost Driver
 
@@ -25,7 +25,7 @@ A shipping vessel has capacity of, say, 1,000 tons. If it carries 500 tons one d
 
 ## Fuel as a Volatile Cost Component
 
-A vessel consumes diesel fuel at a rate depending on engine size, speed, and sea state. Fuel is typically 30–40% of per-ton-mile cost in bulk cargo services. Fuel prices fluctuate with crude oil; New Century must either absorb price swings or pass them to customers via fuel surcharges. Shippers often resist surcharges; NewCentury's margin is eroded by rising fuel prices unless it can renegotiate contracts quickly. Larger carriers can hedge fuel on commodity markets; smaller, regional operators like New Century often lack the hedging sophistication or financial scale, bearing the full volatility.
+A vessel consumes diesel fuel at a rate depending on engine size, speed, and sea state. Fuel is typically 30–40% of per-ton-mile cost in bulk cargo services. Fuel prices fluctuate with [crude oil](/crude-oil/); New Century must either absorb price swings or pass them to customers via fuel surcharges. Shippers often resist surcharges; NewCentury's margin is eroded by rising fuel prices unless it can renegotiate contracts quickly. Larger carriers can hedge fuel on commodity markets; smaller, regional operators like New Century often lack the hedging sophistication or financial scale, bearing the full volatility.
 
 ## Seasonality and Demand Timing
 
@@ -45,7 +45,7 @@ A vessel crew of 10–15 people generates salary, benefits, and training costs t
 
 ## Vessel Depreciation and Capital Cycles
 
-New Century's vessel fleet was acquired at some historical cost and is depreciated over years. If New Century bought a vessel for $5 million with a 20-year life, depreciation is $250,000 per year or roughly $25,000 per month. If that vessel carries 100 tons per voyage and makes 50 voyages per year, depreciation per ton is $50. But if utilization falls and voyages drop to 30 per year, depreciation per ton rises to $83. As vessels age, maintenance cost rises; New Century faces a choice: reinvest in new vessels (high capex, lower maintenance cost per ton but large upfront sunk cost) or extend life of older vessels (lower capex, higher maintenance cost per ton, higher risk of breakdown). This capital-cycle choice ripples through unit economics for years.
+New Century's vessel fleet was acquired at some [historical cost](/historical-cost/) and is depreciated over years. If New Century bought a vessel for $5 million with a 20-year life, depreciation is $250,000 per year or roughly $25,000 per month. If that vessel carries 100 tons per voyage and makes 50 voyages per year, depreciation per ton is $50. But if utilization falls and voyages drop to 30 per year, depreciation per ton rises to $83. As vessels age, maintenance cost rises; New Century faces a choice: reinvest in new vessels (high capex, lower maintenance cost per ton but large upfront sunk cost) or extend life of older vessels (lower capex, higher maintenance cost per ton, higher risk of breakdown). This capital-cycle choice ripples through unit economics for years.
 
 ## Scale and Competitive Positioning
 
@@ -53,7 +53,7 @@ New Century competes with larger global carriers that operate massive container 
 
 ## Return on Deployed Vessel Capital
 
-New Century's ultimate metric is return on invested capital: vessel purchase cost divided into annual EBITDA contribution. If a vessel costs $5 million and earns $500,000 per year in contribution (revenue minus direct voyage costs), return is 10%. If the company reinvests every dollar of contribution in new vessels (organic growth), it is reinvesting at 10% return. If alternative investments (bonds, equities, acquisitions) offer 8% return, this is reasonable; if they offer 12%, New Century is destroying shareholder value by expanding the fleet. Profitability of the marine freight business depends on whether unit-economics improvements can be sustained, or whether the industry is trapped in low-return equilibrium.
+New Century's ultimate metric is [return on invested capital](/return-on-invested-capital/): vessel purchase cost divided into annual [EBITDA](/ebitda/) contribution. If a vessel costs $5 million and earns $500,000 per year in contribution (revenue minus direct voyage costs), return is 10%. If the company reinvests every dollar of contribution in new vessels (organic growth), it is reinvesting at 10% return. If alternative investments ([bonds](/bond/), equities, [acquisitions](/acquisition/)) offer 8% return, this is reasonable; if they offer 12%, New Century is destroying shareholder value by expanding the fleet. Profitability of the marine freight business depends on whether unit-economics improvements can be sustained, or whether the industry is trapped in low-return equilibrium.
 
 <div class="wiki-seealso">
 
@@ -64,6 +64,6 @@ New Century's ultimate metric is return on invested capital: vessel purchase cos
 
 ### Wider context
 - [/enterprise-value/](/enterprise-value/) — Valuation of capital-intensive maritime companies.
-- [/balance-sheet/](/balance-sheet/) — Vessel asset values and debt financing for maritime fleets.
+- [/balance-sheet/](/balance-sheet/) — Vessel asset values and [debt financing](/debt-financing/) for maritime fleets.
 
 </div>

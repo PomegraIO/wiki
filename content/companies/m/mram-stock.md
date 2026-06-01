@@ -29,7 +29,7 @@ MRAM is not a mass-market memory technology like DRAM or NAND flash. Instead, it
 
 Everspin's dominance in this niche creates a strong moat: it is the de facto standard MRAM supplier to these segments. Customers designing data center systems, industrial equipment, or automotive platforms expect to source MRAM from Everspin and build their systems around Everspin's pinout, performance specifications, and reliability track record. Switching to a new supplier entails redesign, re-qualification, and risk—costs that favor incumbent Everspin.
 
-However, niche dominance is also the moat's limitation. The total addressable market for MRAM remains constrained compared to mainstream DRAM or NAND flash. If a larger, better-capitalized competitor (such as Intel, Samsung, or Micron) decides MRAM is strategic and invests heavily in manufacturing, Everspin's niche advantage could evaporate. A large competitor could leverage existing fabrication plants, supply relationships, and customer relationships to enter MRAM aggressively, overwhelming Everspin through scale.
+However, niche dominance is also the moat's limitation. The total addressable market for MRAM remains constrained compared to mainstream DRAM or NAND flash. If a larger, better-capitalized competitor (such as [Intel](/intc-stock/), Samsung, or Micron) decides MRAM is strategic and invests heavily in manufacturing, Everspin's niche advantage could evaporate. A large competitor could leverage existing fabrication plants, supply relationships, and customer relationships to enter MRAM aggressively, overwhelming Everspin through scale.
 
 ## Customer Switching Costs and System Integration
 

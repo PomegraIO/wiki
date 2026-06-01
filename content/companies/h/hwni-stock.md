@@ -41,7 +41,7 @@ The rural and semi-rural focus also exposes High Wire to demographic and economi
 
 ## Scale and Market Limitation
 
-Regional telecom builders face a persistent scale challenge. High Wire lacks the capital, stock-market liquidity, and nationwide presence of larger carriers. Acquisitions by or from larger players represent existential decisions. The company must choose whether to remain a strong regional player or pursue the costly and uncertain path of national or continental scale. Both strategies have failed for many mid-size telecom operators—those that remained regional saw demand flatten as better-capitalized competitors entered, and those that stretched nationally often over-leveraged and stumbled.
+Regional telecom builders face a persistent scale challenge. High Wire lacks the capital, stock-market liquidity, and nationwide presence of larger carriers. [Acquisitions](/acquisition/) by or from larger players represent existential decisions. The company must choose whether to remain a strong regional player or pursue the costly and uncertain path of national or continental scale. Both strategies have failed for many mid-size telecom operators—those that remained regional saw demand flatten as better-capitalized competitors entered, and those that stretched nationally often over-leveraged and stumbled.
 
 High Wire's OTC listing and relatively modest market profile indicate a company that has chosen regional optimization over public-market expansion. This constrains access to cheap capital for aggressive growth but also avoids the obligation to chase scale at any cost. The geographic constraint, in this sense, is also a strategic choice.
 

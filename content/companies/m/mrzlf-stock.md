@@ -43,13 +43,13 @@ Mirasol's focus shifts between precious metals (gold, silver) and base metals (c
 
 Mirasol is funded by equity investors who accept exploration risk in hopes of a major discovery or a profitable sale of the company to a larger miner. The company may also fund exploration through joint ventures: a partner corporation funds Mirasol's work on a property in exchange for an equity stake or option rights. This model allows Mirasol to explore with less capital risk, though at the cost of diluting equity ownership.
 
-A successful exploration discovery significantly increases Mirasol's value — both the property value (now proven to contain ore) and the company's reputation (its exploration teams have proven capable). This can lead to an acquisition by a major miner or a sale of the property at a substantial profit. A dry hole or a property that proves uneconomic destroys value and consumes capital with no return.
+A successful exploration discovery significantly increases Mirasol's value — both the property value (now proven to contain ore) and the company's reputation (its exploration teams have proven capable). This can lead to an [acquisition](/acquisition/) by a major miner or a sale of the property at a substantial profit. A dry hole or a property that proves uneconomic destroys value and consumes capital with no return.
 
 ## Risks and Dependencies
 
 Exploration risk is fundamental: most properties do not yield economic deposits. Commodity price risk also applies — even a large ore body is uneconomic if metal prices collapse, making the company's historical exploration work worthless. Jurisdiction and permitting risk is significant: political instability, changes in mining law, or community opposition can prevent development even if ore is proven. Environmental and community relationships are critical; poor relations with local stakeholders can paralyze operations.
 
-Currency risk affects the company's costs (if operations are in Mexican pesos) and the valuation of its properties (priced in dollars). Funding risk is real: if capital markets close to mining exploration, Mirasol cannot finance further work and must divest properties or cease operations.
+[Currency risk](/currency-risk/) affects the company's costs (if operations are in Mexican pesos) and the valuation of its properties (priced in dollars). Funding risk is real: if capital markets close to mining exploration, Mirasol cannot finance further work and must divest properties or cease operations.
 
 Mirasol's survival depends on continued capital availability, geological success on at least some properties, and maintaining good standing with host governments and local communities.
 

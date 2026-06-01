@@ -4,7 +4,7 @@ description: "Technology and investment holding company with diversified operati
 keywords: ["holding company", "technology", "advanced materials", "electronics", "investment", "diversified"]
 ---
 
-*[ATII Holdings Inc.](/)**NANO**) operates as a holding company—a legal structure that owns subsidiaries or business units and coordinates them under one corporate umbrella. ATII's specific operations depend on what subsidiaries it holds and manages, which can shift through acquisitions and divestitures. The operational reality of a holding company differs fundamentally from that of a single-product manufacturer: instead of optimizing one facility or supply chain, ATII must allocate capital across multiple businesses, integrate new acquisitions, and harvest value from synergies or improvements in portfolio companies.*
+*[ATII Holdings Inc.](/)**NANO**) operates as a holding company—a legal structure that owns subsidiaries or business units and coordinates them under one corporate umbrella. ATII's specific operations depend on what subsidiaries it holds and manages, which can shift through [acquisitions](/acquisition/) and [divestitures](/divestiture/). The operational reality of a holding company differs fundamentally from that of a single-product manufacturer: instead of optimizing one facility or supply chain, ATII must allocate capital across multiple businesses, integrate new acquisitions, and harvest value from synergies or improvements in portfolio companies.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NANO</td></tr>
@@ -21,7 +21,7 @@ A holding company does not directly run factories or customer service; it owns e
 
 ## Portfolio management and capital allocation
 
-ATII's earnings stream is the sum of its subsidiaries' profits (or losses) minus corporate overhead. A subsidiary generating high [cash flow](/free-cash-flow/) can be harvested (dividends paid up to ATII corporate) or reinvested in growth. A struggling subsidiary might be turned around through management changes, cost reduction, or strategic refocusing, or it might be sold. Periodically, ATII scouts acquisitions—targets that fit its thesis (e.g., complementary technology, undervalued assets, opportunity for operational improvement) and can be bought, integrated, and managed more efficiently under ATII's umbrella. This requires ATII to maintain a corporate development team that can evaluate deals, negotiate purchases, and plan integration post-close. Each acquisition introduces operational risk: integration misses, culture clashes, or targets underperforming their projections.
+ATII's earnings stream is the sum of its subsidiaries' profits (or losses) minus corporate overhead. A subsidiary generating high [cash flow](/free-cash-flow/) can be harvested ([dividends](/dividend/) paid up to ATII corporate) or reinvested in growth. A struggling subsidiary might be turned around through management changes, cost reduction, or strategic refocusing, or it might be sold. Periodically, ATII scouts acquisitions—targets that fit its thesis (e.g., complementary technology, undervalued assets, opportunity for operational improvement) and can be bought, integrated, and managed more efficiently under ATII's umbrella. This requires ATII to maintain a corporate development team that can evaluate deals, negotiate purchases, and plan integration post-close. Each acquisition introduces [operational risk](/operational-risk/): integration misses, culture clashes, or targets underperforming their projections.
 
 ## Operational leverage across the portfolio
 
@@ -33,7 +33,7 @@ When ATII acquires a company, the integration phase—combining financial system
 
 ## Risk concentration and diversification trade-off
 
-Holding companies balance diversification and focus. A holding company with too many unrelated businesses (e.g., electronics, medical devices, real estate, financial services) is hard to manage and may trade at a discount to the sum of parts; investors prefer focused, understandable firms. A holding company with too much concentration (most earnings from one subsidiary) faces binary risk: if that subsidiary stumbles, the whole company stumbles. ATII must hold a portfolio where individual unit failures are survivable and where there is some strategic coherence—some thread connecting the businesses to each other or to an industry thesis.
+Holding companies balance [diversification](/diversification/) and focus. A holding company with too many unrelated businesses (e.g., electronics, medical devices, real estate, financial services) is hard to manage and may trade at a discount to the sum of parts; investors prefer focused, understandable firms. A holding company with too much concentration (most earnings from one subsidiary) faces binary risk: if that subsidiary stumbles, the whole company stumbles. ATII must hold a portfolio where individual unit failures are survivable and where there is some strategic coherence—some thread connecting the businesses to each other or to an industry thesis.
 
 ## Subsidiary autonomy and corporate governance
 

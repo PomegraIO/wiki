@@ -56,7 +56,7 @@ This dynamic creates a strong incentive to reach commercialization as quickly as
 
 ## The Probability-Weighted Value Stack
 
-MapLight's intrinsic value, from a unit-economics perspective, is the sum of the expected values of all its drug candidates, weighted by the probability of success and discounted for the time value of money and development risk. If MapLight has candidates with a combined expected value of five hundred million dollars (based on market size, pricing, and probability of success), and the company must invest two hundred million dollars to bring those candidates to market, then the project has a positive expected return and makes economic sense.
+MapLight's [intrinsic value](/intrinsic-value/), from a unit-economics perspective, is the sum of the expected values of all its drug candidates, weighted by the probability of success and discounted for the [time value](/time-value/) of money and development risk. If MapLight has candidates with a combined expected value of five hundred million dollars (based on market size, pricing, and probability of success), and the company must invest two hundred million dollars to bring those candidates to market, then the project has a positive expected return and makes economic sense.
 
 However, this is forward-looking and uncertain. Markets price MapLight's stock based on their collective belief in these probabilities. If trials fail, those beliefs change sharply, and the stock price may fall dramatically. This volatility reflects the inherent uncertainty in drug development: the clinical and commercial success of MapLight's pipeline is genuinely unpredictable until results are revealed.
 

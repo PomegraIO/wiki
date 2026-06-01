@@ -24,7 +24,7 @@ Cargo screening systems evolve rapidly. X-ray and scanning technology improves; 
 
 ## Port and Border Cargo Volume Volatility
 
-The utilization and throughput of major ports and border crossings fluctuate with trade cycles, economic growth, and policy changes (tariffs, trade agreements). When cargo volume declines, port operators have less need for inspection systems, less justification for maintenance contracts, and lower incentive to invest in capacity upgrades. A recession or a sharp decline in international trade directly reduces DUOS's addressable market and depresses utilization of installed systems. Unlike a software-as-a-service company with recurring subscriptions, DUOS generates revenue from system sales and maintenance; if systems are underutilized, margins suffer.
+The utilization and throughput of major ports and border crossings fluctuate with trade cycles, economic growth, and policy changes (tariffs, trade agreements). When cargo volume declines, port operators have less need for inspection systems, less justification for maintenance contracts, and lower incentive to invest in capacity upgrades. A [recession](/recession/) or a sharp decline in international trade directly reduces DUOS's addressable market and depresses utilization of installed systems. Unlike a software-as-a-service company with recurring subscriptions, DUOS generates revenue from system sales and maintenance; if systems are underutilized, margins suffer.
 
 ## Customer Concentration in Public Sector
 

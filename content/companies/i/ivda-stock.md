@@ -17,7 +17,7 @@ keywords: surveillance, security, video-analytics, North-America, infrastructure
 
 ## The US Critical-Infrastructure Security Market
 
-Iveda's primary market is North American critical infrastructure—airports, utilities, water systems, transportation networks, government facilities—where federal and state funding for security has been elevated and sustained since the post-9/11 era. This market is geographically concentrated and legally defined: federal authorities (DHS, TSA, EPA) set security standards for their respective infrastructure domains; states and municipalities implement and fund compliance.
+Iveda's [primary market](/primary-market/) is North American critical infrastructure—airports, utilities, water systems, transportation networks, government facilities—where federal and state funding for security has been elevated and sustained since the post-9/11 era. This market is geographically concentrated and legally defined: federal authorities (DHS, TSA, EPA) set security standards for their respective infrastructure domains; states and municipalities implement and fund compliance.
 
 The company's video-surveillance and command-and-control platforms target this ecosystem—providing integrated monitoring, threat detection, and response coordination for large, distributed facilities. A US airport, power plant, or water treatment facility requires systems that meet federal compliance standards, integrate with existing security infrastructure, and operate reliably 24/7. Iveda competes by offering cloud-connected analytics and centralized monitoring capabilities that reduce operator burden and improve response time.
 
@@ -47,7 +47,7 @@ This market segment is geographically concentrated and politically sensitive. Bo
 
 Outside government, Iveda has targeted commercial security—large corporations, hospitals, schools, shopping centers requiring integrated video surveillance and access control. These customers operate in geographically distributed real estate (multiple buildings, multiple states) and seek unified command-and-control systems that provide visibility across locations.
 
-However, commercial markets are also competitive: established security integrators, building-management software vendors (Johnson Controls, Honeywell), and cloud-infrastructure platforms (AWS, Microsoft) all offer surveillance and command-and-control capabilities. Iveda must differentiate on specialized analytics (threat detection, anomaly identification) or on integration with specific vertical workflows (hospitality, healthcare). Geographic expansion requires either building vertical expertise or partnering with integrators who understand local commercial markets.
+However, commercial markets are also competitive: established security integrators, building-management software vendors (Johnson Controls, Honeywell), and cloud-infrastructure platforms (AWS, [Microsoft](/msft-stock/)) all offer surveillance and command-and-control capabilities. Iveda must differentiate on specialized analytics (threat detection, anomaly identification) or on integration with specific vertical workflows (hospitality, healthcare). Geographic expansion requires either building vertical expertise or partnering with integrators who understand local commercial markets.
 
 ## Cloud Infrastructure and Data-Residency Geography
 
@@ -71,7 +71,7 @@ Iveda competes differently across these geographies. In mature markets, the comp
 
 Unlike some US security firms that have expanded internationally (particularly to Canada, UK, Australia), Iveda has remained primarily North American in focus. International surveillance markets have different regulatory frameworks, competitive dynamics, and customer types. European customers are more privacy-conscious and subject to stricter GDPR constraints; Asian and Middle Eastern markets have different security paradigms and purchasing structures.
 
-Iveda's choice to remain US-centric reflects both resource constraints (the company is modest-scale) and strategic focus on the deep US government-security market where it has established credentials. International expansion would require building new capabilities, certifications, and customer relationships—a geographic diversification that the company has not yet pursued at scale.
+Iveda's choice to remain US-centric reflects both resource constraints (the company is modest-scale) and strategic focus on the deep US government-security market where it has established credentials. International expansion would require building new capabilities, certifications, and customer relationships—a geographic [diversification](/diversification/) that the company has not yet pursued at scale.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -51,7 +51,7 @@ The past decade has shown how volatile industrial supply chains can be. Shortage
 
 ## Why This Matters for Investors
 
-Understanding Magnera means understanding the unit transaction, the utilization dynamics, the working-capital trap, and the pricing discipline of its market. The company's SEC filings (accessible through its [10-K](/10-k/) annual report) will detail gross margins, inventory levels, days sales outstanding, and capital expenditure requirements. Those numbers tell the real story of unit economics.
+Understanding Magnera means understanding the unit transaction, the utilization dynamics, the working-capital trap, and the pricing discipline of its market. The company's SEC filings (accessible through its [10-K](/10-k/) annual report) will detail gross margins, inventory levels, [days sales outstanding](/days-sales-outstanding/), and capital expenditure requirements. Those numbers tell the real story of unit economics.
 
 <div class="wiki-seealso">
 ### Closely related

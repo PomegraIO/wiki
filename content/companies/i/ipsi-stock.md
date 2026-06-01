@@ -4,7 +4,7 @@ description: "A payment processing and transaction services provider for merchan
 keywords: ["payment processing", "merchant services", "fintech", "transaction", "banking"]
 ---
 
-*A small, closely held payments company, **Innovative Payment Solutions (IPSI)**, processes financial transactions for merchants and banks. Unlike giants like Visa or Mastercard that own global networks, IPSI is a regional or specialized processor—a middleman that handles the technical plumbing between a point-of-sale terminal or online gateway and the actual banks moving money.*
+*A small, closely held payments company, **Innovative Payment Solutions (IPSI)**, processes financial transactions for merchants and banks. Unlike giants like [Visa](/v-stock/) or [Mastercard](/ma-stock/) that own global networks, IPSI is a regional or specialized processor—a middleman that handles the technical plumbing between a point-of-sale terminal or online gateway and the actual banks moving money.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IPSI</td></tr>
@@ -31,7 +31,7 @@ Smaller processors like IPSI rarely achieve the unit volumes of Stripe, Square, 
 
 ## The competitive position
 
-IPSI operates in a market with heavy incumbents. National processors (Fiserv, Jack Henry & Associates, FIS) handle transaction volumes an order of magnitude larger. Payment platforms (Stripe, Square, Paypal) have built consumer brands and distribution moats. Banks own or control their own processing to minimize costs.
+IPSI operates in a market with heavy incumbents. National processors (Fiserv, [Jack Henry & Associates](/jkhy-stock/), FIS) handle transaction volumes an order of magnitude larger. Payment platforms (Stripe, Square, [Paypal](/pypl-stock/)) have built consumer brands and distribution moats. Banks own or control their own processing to minimize costs.
 
 For IPSI to survive, it must own a segment the giants ignore or serve too inefficiently. That might mean:
 
@@ -45,7 +45,7 @@ Specialized transaction types—perhaps unbanked or high-risk merchants (crypto,
 
 Payment processing is moderately capital-intensive. IPSI must maintain secure servers, 24/7 infrastructure, and redundancy (uptime is critical; a processor down for an hour costs merchants thousands). The company also holds float—it receives transactions from customers, then settles money to their bank accounts hours or days later. That float can be invested, but it ties up capital.
 
-IPSI cannot improve by just raising prices; customers switch to competitors. Growth in profit comes from new customer acquisition (costly in sales) or transaction-volume increases from existing customers (requires product stickiness and service quality). The company is thus locked into a competition where scale matters and differentiation is hard to maintain.
+IPSI cannot improve by just raising prices; customers switch to competitors. Growth in profit comes from new customer [acquisition](/acquisition/) (costly in sales) or transaction-volume increases from existing customers (requires product stickiness and service quality). The company is thus locked into a competition where scale matters and differentiation is hard to maintain.
 
 ## Technology and integration debt
 
@@ -61,7 +61,7 @@ Look for gross margin trends. Payment processors should maintain 60–75% gross 
 
 Check debt levels. If IPSI borrowed to fund acquisition or float, rising debt with flat revenue is a warning sign.
 
-Search for regulatory filings or complaints. Payment processors are regulated by the Federal Reserve and state banking authorities. Violations or fines are disclosed in SEC filings and sometimes reported separately.
+Search for regulatory filings or complaints. Payment processors are regulated by the [Federal Reserve](/federal-reserve/) and state banking authorities. Violations or fines are disclosed in SEC filings and sometimes reported separately.
 
 <div class="wiki-seealso">
 ### Closely related

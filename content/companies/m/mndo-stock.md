@@ -53,7 +53,7 @@ Government customers are a significant portion of the client base (common for Is
 
 ## The OTC Market Position
 
-MNDO trades on OTC markets, not a major exchange. This reflects the company's size and profile—it is too small or too specialized to justify the costs and listing requirements of major exchange listing. OTC trading brings reduced liquidity, higher bid-ask spreads, and fewer institutional investors covering the stock. For a small enterprise software firm, this market positioning is typical.
+MNDO trades on OTC markets, not a major exchange. This reflects the company's size and profile—it is too small or too specialized to justify the costs and listing requirements of major exchange listing. OTC trading brings reduced liquidity, higher [bid-ask spreads](/bid-ask-spread/), and fewer institutional investors covering the stock. For a small enterprise software firm, this market positioning is typical.
 
 Investors must rely heavily on [10-K](/10-K/) filings and company disclosures to understand the business. The SEC filings (available through EDGAR using CIK 1119083) will detail the company's customer base, revenue breakdown by product line, major contracts, and risks. These documents are essential reading before investing.
 

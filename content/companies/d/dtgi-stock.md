@@ -4,7 +4,7 @@ description: "Small-cap IT services and managed services provider targeting mid-
 keywords: [it-services, managed-services, msp, support, consulting, infrastructure]
 ---
 
-*[**Digerati Technologies, Inc.**](/dtgi-stock/) (DTGI) is a privately-held and OTC-traded provider of managed IT services and technical support to small-and-mid-market (SMM) businesses, offering a blend of infrastructure management, help desk support, and cloud consulting. It occupies the long tail of the IT services market—below Accenture, IBM, and Cognizant—where small vendors survive by serving customers too small for the majors but large enough to need professional IT operations.*
+*[**Digerati Technologies, Inc.**](/dtgi-stock/) (DTGI) is a privately-held and OTC-traded provider of managed IT services and technical support to small-and-mid-market (SMM) businesses, offering a blend of infrastructure management, help desk support, and cloud consulting. It occupies the long tail of the IT services market—below [Accenture](/acn-stock/), IBM, and Cognizant—where small vendors survive by serving customers too small for the majors but large enough to need professional IT operations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>DTGI</td></tr>
@@ -25,7 +25,7 @@ The MSP market has become saturated. Thousands of small IT services shops compet
 
 ## Labor Intensity and the Scaling Problem
 
-MSP revenue is fundamentally bounded by the labor productivity of the team. To grow revenue, Digerati must hire more support staff, consultants, and engineers. Each employee has a cost (salary, benefits, training) and a capacity (how many customers or tickets they can handle per month). This creates a labor-intensive business with limited leverage. Unlike a software company where you build once and sell to thousands, an MSP must continually add labor to grow. This limits profitability margins and makes the business difficult to scale without either raising prices (which risks losing customers to competitors) or reducing service quality (which risks churn and reputation damage). Growth requires organic hiring or acquisitions, both of which consume capital or dilute existing shareholders.
+MSP revenue is fundamentally bounded by the [labor productivity](/labor-productivity/) of the team. To grow revenue, Digerati must hire more support staff, consultants, and engineers. Each employee has a cost (salary, benefits, training) and a capacity (how many customers or tickets they can handle per month). This creates a labor-intensive business with limited leverage. Unlike a software company where you build once and sell to thousands, an MSP must continually add labor to grow. This limits profitability margins and makes the business difficult to scale without either raising prices (which risks losing customers to competitors) or reducing service quality (which risks churn and reputation damage). Growth requires organic hiring or [acquisitions](/acquisition/), both of which consume capital or dilute existing shareholders.
 
 ## Customer Concentration and Churn Risk
 

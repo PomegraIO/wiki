@@ -17,7 +17,7 @@ keywords: ["mining", "gold", "precious metals", "copper", "commodity risk", "Lat
 
 ## Commodity Price Leverage and Earnings Volatility
 
-McEwen's operating mines (Gold Bar in Nevada, Los Azules copper project in Argentina, and others) generate revenue tied directly to the spot prices of gold, silver, and copper. When gold prices are strong, mine profitability can be exceptional; when gold prices weaken, high-cost mines may operate at breakeven or losses. The company's earnings are thus highly volatile and difficult to predict, as they swing with global commodity markets rather than with operational excellence alone. An investor buying McEwen stock is implicitly taking a bet on precious-metals prices, whether or not that was the intent. This leverage benefits shareholders if commodity prices rally sharply, but it can quickly erase equity value in a sustained downturn—and mining companies often see their stock prices fall faster than commodity prices during bear markets.
+McEwen's operating mines (Gold Bar in Nevada, Los Azules copper project in Argentina, and others) generate revenue tied directly to the spot prices of gold, silver, and copper. When gold prices are strong, mine profitability can be exceptional; when gold prices weaken, high-cost mines may operate at breakeven or losses. The company's earnings are thus highly volatile and difficult to predict, as they swing with global commodity markets rather than with operational excellence alone. An investor buying McEwen stock is implicitly taking a bet on precious-metals prices, whether or not that was the intent. This leverage benefits shareholders if commodity prices rally sharply, but it can quickly erase equity value in a sustained downturn—and mining companies often see their stock prices fall faster than commodity prices during [bear markets](/bear-market/).
 
 ## Capital Intensity and Project Execution Risk
 
@@ -33,15 +33,15 @@ Los Azules, a copper deposit in Argentina, represents a significant portion of M
 
 ## Geopolitical and Economic Instability
 
-Mining companies operating in Argentina, Mexico, or Peru face country risk. Macroeconomic crises, currency instability, labor unrest, or political upheaval can disrupt operations or force renegotiation of terms. An unexpected change in a government's mining or economic policy can overnight alter the calculus of an operation. Narcotics trafficking and organized crime in parts of Mexico create additional security and supply-chain risks for mining companies. These risks are not unique to McEwen, but they are real and not under management's control.
+Mining companies operating in Argentina, Mexico, or Peru face [country risk](/country-risk/). Macroeconomic crises, currency instability, labor unrest, or political upheaval can disrupt operations or force renegotiation of terms. An unexpected change in a government's mining or economic policy can overnight alter the calculus of an operation. Narcotics trafficking and organized crime in parts of Mexico create additional security and supply-chain risks for mining companies. These risks are not unique to McEwen, but they are real and not under management's control.
 
 ## Operational and Safety Challenges
 
-Mining is inherently hazardous. Fatal accidents, injuries, or environmental incidents (tailings failures, acid drainage, water contamination) can halt operations, trigger litigation, damage the company's social license, and invite regulatory action. A major incident at one of McEwen's mines could trigger suspensions, fines, and reputational damage that extends to other projects. The company's safety record is a point of ongoing operational risk and a factor in its ability to permit and operate future mines.
+Mining is inherently hazardous. Fatal accidents, injuries, or environmental incidents (tailings failures, acid drainage, water contamination) can halt operations, trigger litigation, damage the company's social license, and invite regulatory action. A major incident at one of McEwen's mines could trigger suspensions, fines, and reputational damage that extends to other projects. The company's safety record is a point of ongoing [operational risk](/operational-risk/) and a factor in its ability to permit and operate future mines.
 
 ## Exploration Risk and Reserve Depletion
 
-Mining companies must continuously replace mined ounces with new reserves through exploration or acquisition. McEwen explores for new deposits and conducts development drilling on known properties, but exploration is inherently speculative. Most exploration programs fail to define economic ore bodies. As existing mines deplete, the company must bring new mines into production or its production will decline. If McEwen's exploration programs fail or if the company cannot fund new development projects, it will face a declining production profile and shrinking cash generation.
+Mining companies must continuously replace mined ounces with new reserves through exploration or [acquisition](/acquisition/). McEwen explores for new deposits and conducts development drilling on known properties, but exploration is inherently speculative. Most exploration programs fail to define economic ore bodies. As existing mines deplete, the company must bring new mines into production or its production will decline. If McEwen's exploration programs fail or if the company cannot fund new development projects, it will face a declining production profile and shrinking cash generation.
 
 ## Financing and Equity Dilution
 

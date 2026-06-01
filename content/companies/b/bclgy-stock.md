@@ -4,7 +4,7 @@ description: "Digital classifieds platform serving Eastern Europe and the Baltic
 keywords: ["digital classifieds", "Eastern Europe", "Baltic region", "online marketplace", "emerging markets"]
 ---
 
-*The **Baltic Classifieds Group PLC (BCLGY)** operates a constellation of online classifieds platforms across Eastern Europe, the Baltics, Russia, and Central Asia — markets that have outsourced their pre-internet bulletin boards and newspaper classifieds to digital networks far faster than Western Europe. Unlike the consolidated classifieds giants (OLX, Avito), which operate continent-wide or globally, Baltic Classifieds is a regionally anchored player that has assembled local-market leadership by acquiring and consolidating platforms country by country. The geopolitics, currency volatility, and regulatory uncertainty that characterise these markets shape the company's opportunity and its vulnerabilities in ways quite distinct from classifieds operators in Western Europe or North America.*
+*The **Baltic Classifieds Group PLC (BCLGY)** operates a constellation of online classifieds platforms across Eastern Europe, the Baltics, Russia, and Central Asia — markets that have outsourced their pre-internet bulletin boards and newspaper classifieds to digital networks far faster than Western Europe. Unlike the consolidated classifieds giants (OLX, Avito), which operate continent-wide or globally, Baltic Classifieds is a regionally anchored player that has assembled local-market leadership by acquiring and consolidating platforms country by country. The geopolitics, [currency volatility](/currency-volatility/), and regulatory uncertainty that characterise these markets shape the company's opportunity and its vulnerabilities in ways quite distinct from classifieds operators in Western Europe or North America.*
 
 <aside class="wiki-infobox">
 <table>
@@ -30,7 +30,7 @@ Before analyzing Baltic Classifieds specifically, understand the unit economics 
 
 The business model is essentially a two-sided marketplace: more buyers attract more sellers (and vice versa), creating a virtuous cycle. Once a platform reaches critical mass in a local market, it becomes difficult to dislodge — users simply assume "everyone" is on that platform. The margin profile should be exceptional: classifieds platforms typically have minimal cost of goods sold (server hosting and some fraud-prevention), and their largest operating expense is staff. This means high gross margins (70–90%) and a relatively linear path to operating leverage if the platform is growing.
 
-For Baltic Classifieds, the 10-K will disclose revenue by geography and, if granular, by platform or vertical (autos, property, jobs, general). Investors should track not just total revenue growth but growth by market — a platform growing in a stable market at 5% annually may be mature and cash-generative, while a new entrant or an expansion market at 20% growth is consuming investment. The 10-K should also reveal the customer acquisition cost (CAC) for sellers and whether the company is buying growth through marketing or organically growing through network effects.
+For Baltic Classifieds, the 10-K will disclose revenue by geography and, if granular, by platform or vertical (autos, property, jobs, general). Investors should track not just total revenue growth but growth by market — a platform growing in a stable market at 5% annually may be mature and cash-generative, while a new entrant or an expansion market at 20% growth is consuming investment. The 10-K should also reveal the customer [acquisition](/acquisition/) cost (CAC) for sellers and whether the company is buying growth through marketing or organically growing through network effects.
 
 ## Geographic Exposure and Geopolitical Risk
 
@@ -56,14 +56,14 @@ Consolidation in the classifieds space has historically favored large, multi-mar
 
 ## Revenue Quality and Growth Trajectories
 
-The 10-K's income statement should show total revenue, and ideally, revenue by platform or market. Key metrics:
+The 10-K's [income statement](/income-statement/) should show total revenue, and ideally, revenue by platform or market. Key metrics:
 - **Organic growth**: How much of revenue growth comes from existing platforms gaining users and monetizing better, versus acquisition-driven growth?
 - **Repeat customer concentration**: Do a small number of power users (car dealers, property agencies) account for a large fraction of revenue? If so, loss of one major customer could hurt significantly.
 - **Seasonality**: Classifieds often exhibit seasonality (e.g., auto sales spike before holidays; real estate activity fluctuates with seasons). The 10-K should show quarterly trends that reveal this pattern.
 
 ## Margin Profile and Path to Profitability
 
-Because classifieds are inherently high-margin, Baltic Classifieds' operating margin (operating income divided by revenue) should ideally be rising as the company matures. However, if the company is reinvesting heavily in expanding into new markets or acquiring new platforms, operating margin may be compressed temporarily. The 10-K will show operating expenses in detail, and analysts should check whether the company is spending proportionally more on engineering (product development), sales (customer acquisition), or G&A.
+Because classifieds are inherently high-margin, Baltic Classifieds' [operating margin](/operating-margin/) (operating income divided by revenue) should ideally be rising as the company matures. However, if the company is reinvesting heavily in expanding into new markets or acquiring new platforms, operating margin may be compressed temporarily. The 10-K will show operating expenses in detail, and analysts should check whether the company is spending proportionally more on engineering (product development), sales (customer acquisition), or G&A.
 
 In mature markets, operating margin should approach 30–40% or higher. In early-stage markets, it may be negative as the company invests upfront. The company's guidance on profitability timelines for new platforms or markets will signal management's confidence in the underlying model.
 
@@ -93,5 +93,5 @@ Baltic Classifieds exemplifies a company that operates in an underfollowed, geop
 ### Wider context
 - How Digital Marketplaces Create Value
 - Understanding Network Effects in Platforms
-- Emerging Markets and Currency Risk in International Stocks
+- Emerging Markets and [Currency Risk](/currency-risk/) in International Stocks
 </div>

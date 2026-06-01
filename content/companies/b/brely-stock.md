@@ -19,7 +19,7 @@ keywords: ["rare earths", "mining", "mineral processing", "Brazil", "supply chai
 
 Rare-earth elements are not actually rare—they are widely distributed in the Earth's crust. What is rare is economic extraction, because ore deposits are often diffuse, extraction is capital-intensive and chemically complex, and the elements are typically intermingled (separating them requires advanced chemistry and equipment). Brazil is geologically endowed with rare-earth-bearing deposits, particularly monazite and other mineral forms. Brazilian Rare Earths' role is to develop these deposits, mine the ore, concentrate it, and refine it into products that downstream manufacturers can use.
 
-This positioning is foundational to the global supply chain. The rare-earth market has long been dominated by China, which accounts for the majority of global production and refining capacity. For countries and companies seeking geographic diversification—the United States military-industrial base, European battery makers, Japanese electronics firms—a reliable non-Chinese source is strategically valuable. Brazilian Rare Earths is positioned to serve that demand, assuming it can achieve economical operations.
+This positioning is foundational to the global supply chain. The rare-earth market has long been dominated by China, which accounts for the majority of global production and refining capacity. For countries and companies seeking geographic [diversification](/diversification/)—the United States military-industrial base, European battery makers, Japanese electronics firms—a reliable non-Chinese source is strategically valuable. Brazilian Rare Earths is positioned to serve that demand, assuming it can achieve economical operations.
 
 ## The Complexity of Ore to Element
 
@@ -30,7 +30,7 @@ Each step adds cost and complexity. A mine-to-refinery operation at scale must m
 - Mining equipment and labor
 - Physical concentration infrastructure
 - Chemical processing facilities
-- Waste management and environmental remediation
+- [Waste management](/wm-stock/) and environmental remediation
 - Supply and offtake agreements with customers
 
 This vertical integration is necessary for Brazilian Rare Earths to achieve margin, but it also concentrates risk. A disruption anywhere in the chain—permitting delays, process downtime, pricing weakness—directly impacts the company's profitability.
@@ -51,13 +51,13 @@ This geopolitical layer is distinctive to mining. Brazilian Rare Earths' value t
 
 Developing a mine and refinery is capital-intensive. A Brazilian Rare Earths operation requires tens or hundreds of millions of dollars upfront before the first commercial ore is extracted. This creates financing challenges; the company must raise capital (through equity or debt) before generating revenue. Once operational, the company must manage cash flow to cover ongoing exploration, maintenance, environmental remediation, and debt service, while generating returns to shareholders.
 
-This capital structure means that Brazilian Rare Earths is sensitive to interest rates, equity-market conditions, and investor appetite for mining and minerals plays. In periods when capital is scarce or expensive, the company may face growth constraints or financial stress.
+This capital structure means that Brazilian Rare Earths is sensitive to [interest rates](/interest-rate/), equity-market conditions, and investor appetite for mining and minerals plays. In periods when capital is scarce or expensive, the company may face growth constraints or financial stress.
 
 ## Processing Challenges and Environmental Risk
 
 Chemical processing of rare-earth ore generates hazardous waste and requires skilled management. Improper handling of processing chemicals, inadequate tailings management, or radioactive contamination (some rare-earth ores contain naturally radioactive elements) can damage the environment and invite regulatory action or local opposition. Brazil has environmental regulations and enforcement, but the quality of oversight varies. Brazilian Rare Earths must invest in environmental controls not only for compliance but to maintain its operating license and community social-license-to-operate.
 
-This environmental layer adds cost and complexity. It also creates tail risk: if an environmental incident occurs, the company faces remediation costs, operational suspension, reputational damage, and potential legal liability. This risk is non-diversifiable and can materially impact shareholder value.
+This environmental layer adds cost and complexity. It also creates [tail risk](/tail-risk/): if an environmental incident occurs, the company faces remediation costs, operational suspension, reputational damage, and potential legal liability. This risk is non-diversifiable and can materially impact shareholder value.
 
 ## Customer Contracts and Volume Risk
 

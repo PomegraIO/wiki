@@ -37,7 +37,7 @@ A biopharmaceutical company like Neurocrine lives or dies on the success of its 
 
 The patent system is crucial to this model. When a company invents a new drug, it can file a patent that prevents competitors from making the same molecule for roughly twenty years from the filing date. In practice, the exclusivity period is shorter because some of the patent term is consumed during the regulatory approval process, but the period of protection is still long enough to allow a profitable business to be built. Once the patent expires, generic competitors typically enter and the price falls sharply.
 
-Neurocrine's revenue depends on the number and scale of approved medicines in its portfolio and the pace at which new medicines can be approved. The company has less control over the latter — regulatory approval is partly scientific evidence and partly the FDA's regulatory discretion — but management can influence the former by choosing which diseases to [target](/tgt-stock/), which molecules to advance, and which partnerships to pursue.
+Neurocrine's revenue depends on the number and scale of approved medicines in its portfolio and the pace at which new medicines can be approved. The company has less control over the latter — regulatory approval is partly scientific evidence and partly the FDA's regulatory discretion — but management can influence the former by choosing which diseases to target, which molecules to advance, and which partnerships to pursue.
 
 ## Capital intensity and funding the pipeline
 

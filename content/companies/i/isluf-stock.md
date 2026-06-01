@@ -4,7 +4,7 @@ description: "A blank-check company pursuing acquisitions or business combinatio
 keywords: ["SPAC", "special-purpose-acquisition-company", "Israel", "technology", "acquisitions"]
 ---
 
-*An investor looking to gain exposure to Israeli growth companies without picking individual stocks might acquire **Israel Acquisitions Corp (ISLUF)** — a shell entity whose sole purpose is to find, negotiate, and merge with an operating business, typically in Israeli technology, telecommunications, or advanced manufacturing. The company's only asset is cash raised from public shareholders; its only product is capital deployed on behalf of those who bought in.*
+*An investor looking to gain exposure to Israeli growth companies without picking individual stocks might acquire **Israel [Acquisitions](/acquisition/) Corp (ISLUF)** — a shell entity whose sole purpose is to find, negotiate, and merge with an operating business, typically in Israeli technology, telecommunications, or advanced manufacturing. The company's only asset is cash raised from public shareholders; its only product is capital deployed on behalf of those who bought in.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ISLUF</td></tr>
@@ -22,7 +22,7 @@ Israel Acquisitions Corp was incorporated for precisely this purpose. The sponso
 
 ## The Clock and the Pressure
 
-Behind the customer's ease lies mechanical pressure. Investors hand over capital with a contractual deadline: the SPAC must announce a merger target within 18 to 24 months, or return the cash. This creates urgency that shapes every transaction. Managers cannot shop indefinitely; they cannot wait for perfect deals. Instead, they hunt aggressively in their market—in Israel's case, scanning growth firms in tech, life sciences, and specialized manufacturing—then negotiate hard and fast.
+Behind the customer's ease lies mechanical pressure. Investors hand over capital with a contractual deadline: the SPAC must announce a [merger](/merger/) target within 18 to 24 months, or return the cash. This creates urgency that shapes every transaction. Managers cannot shop indefinitely; they cannot wait for perfect deals. Instead, they hunt aggressively in their market—in Israel's case, scanning growth firms in tech, life sciences, and specialized manufacturing—then negotiate hard and fast.
 
 The customer never sees this urgency directly. What they see is a stock ticker. What they fund, invisibly, is a ticking clock that forces discovery and commitment. The SPAC's business model depends on finding a target attractive enough that the original shareholders vote to approve the merger, not simply redeem their shares for their pro-rata cash.
 

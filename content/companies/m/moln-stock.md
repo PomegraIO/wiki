@@ -37,9 +37,9 @@ From MOLECULAR PARTNERS' perspective, the pipeline is also a financial lifeline.
 
 ## Capital Structure and Development Funding
 
-MOLECULAR PARTNERS must sustain itself through a lengthy development cycle while generating returns to shareholders. The company does this through a blend of equity financing (raising capital from biotech-focused investors), grant funding (particularly from Swiss and EU sources), and upfront payments and milestones from licensing deals. This hybrid funding model depends on investor confidence that the pipeline will generate valuable licensing agreements.
+MOLECULAR PARTNERS must sustain itself through a lengthy development cycle while generating returns to shareholders. The company does this through a blend of [equity financing](/equity-financing/) (raising capital from biotech-focused investors), grant funding (particularly from Swiss and EU sources), and upfront payments and milestones from licensing deals. This hybrid funding model depends on investor confidence that the pipeline will generate valuable licensing agreements.
 
-The company's balance sheet reflects this reality: a biotech enterprise with limited current revenue, substantial R&D expenses, and accumulated losses offset by periodic influxes of license-deal cash. A prospective partner evaluates MOLECULAR PARTNERS' financial runway by examining how long its cash supports operations absent new deals—a critical metric because a cash-starved partner might make desperate licensing concessions.
+The company's [balance sheet](/balance-sheet/) reflects this reality: a biotech enterprise with limited current revenue, substantial R&D expenses, and accumulated losses offset by periodic influxes of license-deal cash. A prospective partner evaluates MOLECULAR PARTNERS' financial runway by examining how long its cash supports operations absent new deals—a critical metric because a cash-starved partner might make desperate licensing concessions.
 
 ## Competitive Position and Therapeutic Focus
 

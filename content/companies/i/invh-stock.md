@@ -36,7 +36,7 @@ Invitation Homes was founded in 2012 by executives with experience in real estat
 
 Invitation Homes operates three primary business lines that fit together into a cohesive model.
 
-**Property Acquisition and Renovation** involves identifying and purchasing single-family homes in [target](/tgt-stock/) markets, typically in metropolitan areas with favorable demographics and rental demand. Properties are purchased at discounts to replacement cost, then renovated to rental-grade condition — kitchens and bathrooms updated, systems repaired, cosmetic work completed. The goal is to bring homes to a standard that appeals to quality tenants and justifies premium rents while minimizing vacancy and maintenance costs.
+**Property Acquisition and Renovation** involves identifying and purchasing single-family homes in target markets, typically in metropolitan areas with favorable demographics and rental demand. Properties are purchased at discounts to replacement cost, then renovated to rental-grade condition — kitchens and bathrooms updated, systems repaired, cosmetic work completed. The goal is to bring homes to a standard that appeals to quality tenants and justifies premium rents while minimizing vacancy and maintenance costs.
 
 **Rental Operations** is the revenue engine. Invitation Homes leases homes to families, taking on the role of landlord — collecting rent, maintaining the properties, handling tenant relations, and managing all the legal and operational complexity of residential property ownership. The company employs dedicated property management teams in local markets, which gives tenants a local point of contact and Invitation Homes real-time visibility into its portfolio's condition and performance.
 

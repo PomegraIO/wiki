@@ -4,7 +4,7 @@ description: "Medical-device manufacturer specializing in laser-based surgical a
 keywords: [laser, medical device, ophthalmic, surgical, aesthetic, FDA, manufacturing]
 ---
 
-*IRIDEX, which trades under **IRIX** on Nasdaq, designs and manufactures medical-laser systems used by surgeons in operating rooms and dermatologists in outpatient clinics across ophthalmology, ear-nose-throat procedures, and cosmetic medicine. The company's revenue model rests on the capital equipment sale itself and the recurring consumables—laser tips, mirrors, fiber optics—that customers must replenish after each use, creating a installed-base dependency that persists across market cycles.*
+*IRIDEX, which trades under **IRIX** on [Nasdaq](/nasdaq/), designs and manufactures medical-laser systems used by surgeons in operating rooms and dermatologists in outpatient clinics across ophthalmology, ear-nose-throat procedures, and cosmetic medicine. The company's revenue model rests on the capital equipment sale itself and the recurring consumables—laser tips, mirrors, fiber optics—that customers must replenish after each use, creating a installed-base dependency that persists across market cycles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IRIX</td></tr>
@@ -17,7 +17,7 @@ keywords: [laser, medical device, ophthalmic, surgical, aesthetic, FDA, manufact
 
 ## How IRIDEX Produces Its Devices
 
-IRIX manufactures laser systems in its own facilities, where components are assembled into integrated platforms. The manufacturing process involves precision optics—mirrors, lenses, fiber-optic cables—sourced from specialized suppliers, combined with laser tubes or solid-state laser modules that require calibration and safety certification before shipment. Each unit must pass [FDA](/securities-and-exchange-commission/) clearance as a Class II or III medical device, a regulatory hurdle that takes months and creates switching costs for competitors seeking to displace installed systems. The company operates a direct sales force that calls on hospitals, surgical centers, and cosmetic clinics, educating physicians on technique and building loyalty to a specific laser platform.
+IRIX manufactures laser systems in its own facilities, where components are assembled into integrated platforms. The manufacturing process involves [precision optics](/poci-stock/)—mirrors, lenses, fiber-optic cables—sourced from specialized suppliers, combined with laser tubes or solid-state laser modules that require calibration and safety certification before shipment. Each unit must pass [FDA](/securities-and-exchange-commission/) clearance as a Class II or III medical device, a regulatory hurdle that takes months and creates switching costs for competitors seeking to displace installed systems. The company operates a direct sales force that calls on hospitals, surgical centers, and cosmetic clinics, educating physicians on technique and building loyalty to a specific laser platform.
 
 ## Equipment Sales and the Consumables Moat
 
@@ -29,7 +29,7 @@ IRIX's products address discrete clinical niches—retinal photocoagulation in o
 
 ## Manufacturing Complexity and Scale Trade-Off
 
-IRIX is small by medical-device standards—revenue typically in the range of $100 million or less—yet manufactures sophisticated electro-optical systems. This creates a unit-economics challenge: the capital and R&D costs to design and certify a new laser platform are high in absolute terms, but spread across a limited installed base. The company cannot achieve the manufacturing scale of a Stryker or Boston Scientific, so it must either focus on niche applications where competitors cannot justify their overhead, or remain vulnerable to larger firms entering its market segments. The company has periodically divested product lines when they underperformed, concentrating capital on the segments where IRIX maintains a defensible position.
+IRIX is small by medical-device standards—revenue typically in the range of $100 million or less—yet manufactures sophisticated electro-optical systems. This creates a unit-economics challenge: the capital and R&D costs to design and certify a new laser platform are high in absolute terms, but spread across a limited installed base. The company cannot achieve the manufacturing scale of a Stryker or [Boston Scientific](/bsx-stock/), so it must either focus on niche applications where competitors cannot justify their overhead, or remain vulnerable to larger firms entering its market segments. The company has periodically divested product lines when they underperformed, concentrating capital on the segments where IRIX maintains a defensible position.
 
 ## Supply-Chain Vulnerabilities in Precision Optics
 
@@ -45,7 +45,7 @@ Larger device manufacturers—including those focused on retinal surgery or cosm
 
 ## Capital Structure and Growth Financing
 
-As a mid-cap medical-device company, IRIX finances operations and growth primarily through [operating cash flow](/free-cash-flow/) and selective [debt](/corporate-bond/). New product development requires upfront R&D spending before revenue contribution. The company faces pressure to show growth to justify its [valuation](/price-to-earnings-ratio/), yet the capital intensity of developing and certifying new laser platforms limits how fast it can expand. Strategic acquisitions of complementary technologies have occasionally been pursued, but only if they add clear clinical or market advantage rather than scale alone.
+As a mid-cap medical-device company, IRIX finances operations and growth primarily through [operating cash flow](/free-cash-flow/) and selective [debt](/corporate-bond/). New product development requires upfront R&D spending before revenue contribution. The company faces pressure to show growth to justify its [valuation](/price-to-earnings-ratio/), yet the capital intensity of developing and certifying new laser platforms limits how fast it can expand. Strategic [acquisitions](/acquisition/) of complementary technologies have occasionally been pursued, but only if they add clear clinical or market advantage rather than scale alone.
 
 <div class="wiki-seealso">
 ### Closely related

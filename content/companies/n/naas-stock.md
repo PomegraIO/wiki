@@ -36,7 +36,7 @@ Changes in Chinese EV policy—a shift toward charging-only standards, reduced s
 
 Battery swapping competes directly with plug-in fast charging, which has improved dramatically over recent years. Modern 350 kW chargers can add substantial range in 15 to 20 minutes, narrowing the time advantage of swapping. Additionally, EV battery chemistry and form factors are not standardized globally or even across Chinese manufacturers. For battery swapping to scale, standardization is necessary—all compatible vehicles must accept the same battery form and interface. Absence of standardization fractures the network; NaaS platforms optimized for one battery form cannot serve vehicles using another.
 
-NAAS competes against other swap-network operators and against the entrenched infrastructure of conventional EV charging provided by companies like Tesla (Supercharger network) and numerous public charging networks. NAAS's differentiation is its focus on fleet and commercial vehicles, where the economics of swapping are stronger than for consumer vehicles.
+NAAS competes against other swap-network operators and against the entrenched infrastructure of conventional EV charging provided by companies like [Tesla](/tsla-stock/) (Supercharger network) and numerous public charging networks. NAAS's differentiation is its focus on fleet and commercial vehicles, where the economics of swapping are stronger than for consumer vehicles.
 
 ## Capital Intensity and Fleet Partnerships
 
@@ -48,7 +48,7 @@ The unit economics of a swap station—capital cost, utilization rate, battery c
 
 Battery swapping remains an emerging infrastructure model in early adoption. The long-term market size for NaaS depends on whether swapping becomes a standard EV infrastructure component or remains a niche solution for specific use cases (urban taxis, delivery fleets). If charging technology continues to improve and form-factor standardization occurs across manufacturers, the case for swapping weakens. Conversely, if swapping becomes the preferred model for commercial fleets in Asia, NAAS could scale significantly.
 
-Current investors are essentially betting on the long-term viability of the battery-swap paradigm, NaaS's ability to maintain technological and operational leadership, and continued government support in the company's primary markets. The company's dependence on a single geographic region and a technology model that remains unproven at massive scale introduces meaningful uncertainty.
+Current investors are essentially betting on the long-term viability of the battery-swap paradigm, NaaS's ability to maintain technological and operational leadership, and continued government support in the company's [primary markets](/primary-market/). The company's dependence on a single geographic region and a technology model that remains unproven at massive scale introduces meaningful uncertainty.
 
 <div class="wiki-seealso">
 ### Closely related

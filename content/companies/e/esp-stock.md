@@ -25,7 +25,7 @@ Espey's products—power supplies, power distribution units, converter rectifier
 
 ## Industrial Diversification as a Hedge
 
-Espey is not pure-play defense. The company also serves industrial customers: electric utilities, renewable energy systems, power quality vendors, and other OEMs that need high-reliability power conversion. This diversification provides a hedge against defense budget oscillation. In a year when a major military program is delayed or congressional funding is redirected, industrial revenue may hold steady or grow, offsetting the defense dip. Conversely, if industrial demand weakens (during a broad recession), the company can rely on the baseline of military procurement. The two streams are not perfectly inverse, but the mix reduces concentration risk.
+Espey is not pure-play defense. The company also serves industrial customers: electric utilities, renewable energy systems, power quality vendors, and other OEMs that need high-reliability power conversion. This [diversification](/diversification/) provides a hedge against defense budget oscillation. In a year when a major military program is delayed or congressional funding is redirected, industrial revenue may hold steady or grow, offsetting the defense dip. Conversely, if industrial demand weakens (during a broad [recession](/recession/)), the company can rely on the baseline of military procurement. The two streams are not perfectly inverse, but the mix reduces [concentration risk](/concentration-risk/).
 
 ## Manufacturing in the U.S.
 
@@ -37,7 +37,7 @@ Because defense and aerospace programs are episodic (a new system enters product
 
 ## Comparison to Peers and Market Perception
 
-Compared to large defense primes like Lockheed Martin or RTX, Espey is tiny—operating at a fraction of the scale. It lacks the political heft and diversification of mega-contractors. Yet compared to pure-play commercial OEMs, it enjoys the stability of defense work. Its valuation typically reflects this hybrid: higher multiples than cyclical industrials but lower than secular-growth software or biotech. The market often overlooked small defense suppliers during periods of geo-political calm but reprices them sharply during periods of tension or increased military spending. This repricing is not based on fundamentals but on sentiment about defense budgets; it is, in essence, a cyclical valuation premium disconnected from business cycle dynamics.
+Compared to large defense primes like [Lockheed Martin](/lmt-stock/) or RTX, Espey is tiny—operating at a fraction of the scale. It lacks the political heft and diversification of mega-contractors. Yet compared to pure-play commercial OEMs, it enjoys the stability of defense work. Its valuation typically reflects this hybrid: higher multiples than cyclical industrials but lower than secular-growth software or biotech. The market often overlooked small defense suppliers during periods of geo-political calm but reprices them sharply during periods of tension or increased military spending. This repricing is not based on fundamentals but on sentiment about defense budgets; it is, in essence, a cyclical valuation premium disconnected from [business cycle](/business-cycle/) dynamics.
 
 ## Secular Headwinds to Monitor
 

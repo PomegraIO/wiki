@@ -36,13 +36,13 @@ Unlike simple SaaS products that customers can sign up for and use immediately, 
 
 ## Competitive Landscape and Feature Parity
 
-Catalyst competes against well-funded peers and against large EHR vendors (Epic, Cerner, now Oracle) who are bundling analytics features into their platforms. As EHR vendors add built-in analytics capabilities, they reduce the addressable market for dedicated analytics software. Catalyst must differentiate on depth and advanced features, but this advantage is not permanent; as technology matures, differentiation narrows and pricing pressure increases.
+Catalyst competes against well-funded peers and against large EHR vendors (Epic, Cerner, now [Oracle](/orcl-stock/)) who are bundling analytics features into their platforms. As EHR vendors add built-in analytics capabilities, they reduce the addressable market for dedicated analytics software. Catalyst must differentiate on depth and advanced features, but this advantage is not permanent; as technology matures, differentiation narrows and pricing pressure increases.
 
 The competitive dynamic also includes venture-backed startups targeting specific use cases within healthcare (revenue cycle optimization, clinical outcomes analytics, etc.). These focused competitors can sometimes outmaneuver a more general-purpose analytics vendor by going deep into a single problem. Catalyst must defend breadth while competitors exploit specialized depth.
 
 ## Acquisition Integration and Cultural Risk
 
-Catalyst has grown partly through acquisitions of smaller healthcare data and analytics companies. Each acquisition brings integration risk: technology stacks must be consolidated, customers must be migrated to unified platforms, and employee retention is often uncertain. Botched integrations can lead to customer churn, product delays, and talent losses that hamper execution.
+Catalyst has grown partly through [acquisitions](/acquisition/) of smaller healthcare data and analytics companies. Each acquisition brings integration risk: technology stacks must be consolidated, customers must be migrated to unified platforms, and employee retention is often uncertain. Botched integrations can lead to customer churn, product delays, and talent losses that hamper execution.
 
 Furthermore, healthcare IT companies are often acquired for their teams and intellectual property, not for their efficiency or margin profile. Post-acquisition, the acquirer must keep those teams motivated and productive while consolidating technology. If Catalyst makes acquisitions that underperform relative to purchase price, shareholder value can be destroyed even if the underlying businesses are sound.
 

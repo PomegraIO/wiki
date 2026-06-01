@@ -24,7 +24,7 @@ This position has advantages and constraints. The company can leverage existing 
 
 ## Capital Intensity and Asset Utilization
 
-Specialty chemical and materials companies are capital-intensive. Dynaresource likely owns production facilities, processing equipment, storage infrastructure, and distribution assets. Building or upgrading a facility costs millions and takes years. Once built, the facility has high fixed costs (wages, maintenance, utilities, depreciation) that persist whether the company is running at full capacity or fifty percent.
+Specialty chemical and materials companies are capital-intensive. Dynaresource likely owns production facilities, processing equipment, storage infrastructure, and distribution assets. Building or upgrading a facility costs millions and takes years. Once built, the facility has high fixed costs (wages, maintenance, utilities, [depreciation](/depreciation/)) that persist whether the company is running at full capacity or fifty percent.
 
 This creates a utilization game. The company is always trying to maximize output per facility—push higher volumes through existing assets—to spread fixed costs across more units sold. If demand falls and the company can't reduce output proportionally, the cost per unit climbs, margins compress, and profitability suffers.
 
@@ -74,7 +74,7 @@ The [10-K](/10-k/) details inventory and receivables. Comparing year-to-year cha
 
 Specialty chemicals and materials are often economically sensitive. In a recession, manufacturers cut production, order less, and use existing inventory longer. Dynaresource's sales fall. In a boom, manufacturers expand capacity and need more inputs. Dynaresource's sales rise.
 
-The company's business may be countercyclical to certain industries. For example, if Dynaresource sells recycled or reclaimed materials, recessions that squeeze manufacturing may increase demand for cheaper inputs. Or if the company sells to construction, a housing boom drives demand.
+The company's business may be countercyclical to certain industries. For example, if Dynaresource sells recycled or reclaimed materials, [recessions](/recession/) that squeeze manufacturing may increase demand for cheaper inputs. Or if the company sells to construction, a housing boom drives demand.
 
 Understanding what end markets Dynaresource serves tells you how its sales respond to economic cycles.
 

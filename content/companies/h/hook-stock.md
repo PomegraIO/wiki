@@ -4,7 +4,7 @@ description: "HOOKIPA Pharma Inc. is a clinical-stage biopharmaceutical company 
 keywords: ["immunotherapy", "viral vector", "clinical development", "oncology", "infectious disease"]
 ---
 
-*__HOOKIPA Pharma Inc.__ (HOOK) operates as a pre-commercial biotech venture whose business model does not yet include marketed drug sales. Instead, the company earns nothing from operations; it consumes cash to fund clinical trials and manufacturing development while seeking partnership revenue through licensing agreements or expects eventual liquidity through acquisition or public market exit.*
+*__HOOKIPA Pharma Inc.__ (HOOK) operates as a pre-commercial biotech venture whose business model does not yet include marketed drug sales. Instead, the company earns nothing from operations; it consumes cash to fund clinical trials and manufacturing development while seeking partnership revenue through licensing agreements or expects eventual liquidity through [acquisition](/acquisition/) or public market exit.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HOOK</td></tr>

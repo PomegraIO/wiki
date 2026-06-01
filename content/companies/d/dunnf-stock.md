@@ -28,7 +28,7 @@ Disposable hygiene and tableware products are most heavily used in hospitality (
 
 ## Geographic Concentration and European Economic Exposure
 
-Duni is a Swedish company generating most revenue from European operations. Europe's economic cycles are distinct: recession, inflation, and currency fluctuations in one or more Eurozone countries or the UK directly impact Duni's operations. A downturn in Germany, France, or Scandinavia reduces consumer discretionary spending and hospitality volumes. Currency movements (EUR/USD, SEK/USD) affect translation of earnings when reported in dollars to US shareholders. The company lacks geographic diversification that might buffer regional downturns.
+Duni is a Swedish company generating most revenue from European operations. Europe's economic cycles are distinct: [recession](/recession/), [inflation](/inflation/), and currency fluctuations in one or more Eurozone countries or the UK directly impact Duni's operations. A downturn in Germany, France, or Scandinavia reduces consumer [discretionary spending](/discretionary-spending/) and hospitality volumes. Currency movements (EUR/USD, SEK/USD) affect translation of earnings when reported in dollars to US shareholders. The company lacks geographic [diversification](/diversification/) that might buffer regional downturns.
 
 ## Currency Exchange Risk for US Investors
 

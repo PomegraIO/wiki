@@ -19,7 +19,7 @@ keywords: [mining, critical minerals, junior explorer, defense metals, OTC-trade
 
 Junior mining explorers typically hold thin or invisible moats against larger competitors. Their survival depends on two fragile assets: a mineral property with genuine ore potential, and access to capital. Military Metals' potential moat, if it exists, rests on a different logic: the explicit demand signal from governments and defense contractors for secure, non-geopolitically-vulnerable supply chains.
 
-Established majors like BHP, Rio Tinto, and Glencore do not orient toward the "military metals" label as a brand or focus. They chase commodities wherever margins justify the capital. A junior that credibly anchors itself as a supplier to [defense contractors](/public-company/) or government procurement programs gains preferential access to long-term contracts, offtake agreements, and patient capital—advantages that raw ore grade alone cannot match. For Military Metals, this articulated purpose may create a moat that scale and efficiency alone would not.
+Established majors like BHP, [Rio Tinto](/rtntf-stock/), and Glencore do not orient toward the "military metals" label as a brand or focus. They chase commodities wherever margins justify the capital. A junior that credibly anchors itself as a supplier to [defense contractors](/public-company/) or government procurement programs gains preferential access to long-term contracts, offtake agreements, and patient capital—advantages that raw ore grade alone cannot match. For Military Metals, this articulated purpose may create a moat that scale and efficiency alone would not.
 
 ## The Exploration Model as Limiting Factor
 
@@ -35,7 +35,7 @@ This moat is durable only as long as the geopolitical context holds. A shift tow
 
 ## The OTC Listing as Friction
 
-Listing on OTC Markets (rather than NASDAQ or NYSE) signals either a company not yet large or mature enough to meet major-exchange standards, or a deliberate choice to avoid the compliance and reporting cost. For a junior explorer, OTC listing may preserve capital and operational flexibility in early-stage exploration. However, OTC markets trade with wide bid-ask spreads, lower volume, and lower analyst coverage—disadvantages when raising capital or attracting institutional investors. The OTC listing itself is a moat *against* scaling quickly, not a moat *for* competitive advantage.
+Listing on OTC Markets (rather than [NASDAQ](/nasdaq/) or NYSE) signals either a company not yet large or mature enough to meet major-exchange standards, or a deliberate choice to avoid the compliance and reporting cost. For a junior explorer, OTC listing may preserve capital and operational flexibility in early-stage exploration. However, OTC markets trade with wide [bid-ask spreads](/bid-ask-spread/), lower volume, and lower analyst coverage—disadvantages when raising capital or attracting institutional investors. The OTC listing itself is a moat *against* scaling quickly, not a moat *for* competitive advantage.
 
 ## Capital Access as the Real Bottleneck
 

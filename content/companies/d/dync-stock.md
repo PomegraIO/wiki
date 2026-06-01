@@ -60,7 +60,7 @@ Switching costs matter. If Dynamix has been managing a customer's infrastructure
 
 Dynamix can grow by signing new customers (organic) or by acquiring another service provider and consolidating its customer base (inorganic). Acquisition is faster but requires capital. Organic growth is slower but builds customer relationships from scratch.
 
-An acquisition that adds customers but doesn't improve operational efficiency is just buying revenue. The goal is to combine the acquired customer base with existing operations, reduce redundancy, and increase margins. This is hard. Many service acquisitions disappoint because the cost savings fail to materialize or the cultural disruption causes customer churn.
+An acquisition that adds customers but doesn't improve operational efficiency is just buying revenue. The goal is to combine the acquired customer base with existing operations, reduce redundancy, and increase margins. This is hard. Many service [acquisitions](/acquisition/) disappoint because the cost savings fail to materialize or the cultural disruption causes customer churn.
 
 ## Why This Matters for Research
 
@@ -70,7 +70,7 @@ When evaluating Dynamix, examine:
 - **Renewal rates and pipeline.** Did the company renew eighty percent of customer contracts? What is the pipeline of new business?
 - **Gross margin trends.** Are margins expanding or contracting? This signals whether the company is improving operational efficiency or losing pricing power.
 - **Acquisition impact.** If the company acquired another service provider, has it realized the promised synergies?
-- **Industry exposure.** Which customer industries is Dynamix dependent on? Recessions in those sectors drive contract losses.
+- **Industry exposure.** Which customer industries is Dynamix dependent on? [Recessions](/recession/) in those sectors drive contract losses.
 
 The company's cash flow matters more than accounting earnings, because cash from operations reflects the real customer payments flowing through.
 

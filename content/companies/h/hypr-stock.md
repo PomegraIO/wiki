@@ -33,7 +33,7 @@ Hyperfine's filings lay out how the company makes money: direct sales of portabl
 
 ## Competitive Landscape and Incumbent Threats
 
-Hyperfine's 10-K acknowledges that it competes against established makers of traditional MRI systems (General Electric, Siemens, Philips) and against newer entrants pursuing alternative imaging technologies (portable ultrasound, point-of-care CT). The company's strategy hinges on speed and portability—attributes that traditional high-field MRI makers have not prioritized because their installed base and service networks depend on expensive, fixed equipment. But Hyperfine's disclosures also note that incumbents could enter the portable MRI space, leveraging their brand, service networks, and installed customer relationships. A competitor with deeper pockets and distribution could quickly take share. Hyperfine's ability to build switching costs (proprietary imaging algorithms, software upgrades, workflow integration) is a key risk disclosed in the company's 10-K.
+Hyperfine's 10-K acknowledges that it competes against established makers of traditional MRI systems ([General Electric](/ge-stock/), Siemens, Philips) and against newer entrants pursuing alternative imaging technologies (portable ultrasound, point-of-care CT). The company's strategy hinges on speed and portability—attributes that traditional high-field MRI makers have not prioritized because their installed base and service networks depend on expensive, fixed equipment. But Hyperfine's disclosures also note that incumbents could enter the portable MRI space, leveraging their brand, service networks, and installed customer relationships. A competitor with deeper pockets and distribution could quickly take share. Hyperfine's ability to build switching costs (proprietary imaging algorithms, software upgrades, workflow integration) is a key risk disclosed in the company's 10-K.
 
 ## Manufacturing, Supply Chain, and Scaling
 
@@ -41,7 +41,7 @@ The filings disclose how Hyperfine manufactures its systems—whether in-house o
 
 ## Market Opportunity and Addressable Market Framing
 
-Hyperfine's 10-K frames its opportunity as the global neuroimaging market—how many stroke, hemorrhage, and traumatic-brain-injury patients are diagnosed annually, in how many hospitals, and how often could portable MRI speed diagnosis or improve outcomes? The company discloses its addressable market (the portion it can realistically reach given reimbursement, clinical adoption, and geography) and growth assumptions. The filing also acknowledges market risks: declining stroke incidence as prevention improves, shifts to alternative imaging modalities, or regulatory changes that narrow approved indications.
+Hyperfine's 10-K frames its opportunity as the global neuroimaging market—how many stroke, hemorrhage, and traumatic-brain-injury patients are diagnosed annually, in how many hospitals, and how often could portable MRI speed diagnosis or improve outcomes? The company discloses its addressable market (the portion it can realistically reach given reimbursement, clinical adoption, and geography) and growth assumptions. The filing also acknowledges [market risks](/market-risk/): declining stroke incidence as prevention improves, shifts to alternative imaging modalities, or regulatory changes that narrow approved indications.
 
 ## Cash Burn, Funding, and Path to Profitability
 

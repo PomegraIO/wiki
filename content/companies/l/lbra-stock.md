@@ -15,9 +15,9 @@ keywords: [holding-company, small-cap, us-operations, sec-filings, capital-struc
 
 ## OTC Markets and the Geography of Small Public Companies
 
-1847 Holdings' listing on OTC markets, rather than NASDAQ or NYSE, reflects a specific geography of U.S. capitalism. OTC stocks trade on the open market but without the listing standards, disclosure requirements, or market surveillance of major exchanges. Companies on OTC markets are typically smaller, newer, or in transition—often pursuing acquisitions, mergers, or business pivots that make them unsuitable for traditional exchange listing.
+1847 Holdings' listing on OTC markets, rather than [NASDAQ](/nasdaq/) or NYSE, reflects a specific geography of U.S. capitalism. OTC stocks trade on the open market but without the listing standards, disclosure requirements, or [market surveillance](/market-surveillance/) of major exchanges. Companies on OTC markets are typically smaller, newer, or in transition—often pursuing [acquisitions](/acquisition/), [mergers](/merger/), or business pivots that make them unsuitable for traditional exchange listing.
 
-This geographic position in the capital markets creates both opportunity and constraint. OTC-listed companies can access public markets and shareholder capital without meeting the profitability or scale thresholds required for major exchanges. But they also face lower liquidity, wider bid-ask spreads, and reduced institutional investor interest. For 1847 Holdings, operating in this niche means the company can remain public with modest operations, but it also means shareholder capital is constrained and the company's strategic options are narrowed by available financing.
+This geographic position in the capital markets creates both opportunity and constraint. OTC-listed companies can access public markets and shareholder capital without meeting the profitability or scale thresholds required for major exchanges. But they also face lower liquidity, wider [bid-ask spreads](/bid-ask-spread/), and reduced institutional investor interest. For 1847 Holdings, operating in this niche means the company can remain public with modest operations, but it also means shareholder capital is constrained and the company's strategic options are narrowed by available financing.
 
 ## The Holding Company Structure
 
@@ -27,7 +27,7 @@ The holding company structure provides flexibility—the parent can remain a she
 
 ## Capital Raising in the OTC Ecosystem
 
-As an OTC-listed company, 1847 Holdings exists in a ecosystem of small public firms that raise capital through offerings to retail and institutional investors interested in early-stage, high-risk opportunities. The company's ability to raise capital is constrained by its size, liquidity, and the willingness of investors to purchase OTC stocks. Geographic concentration of shareholders—if most investors are retail traders in a particular region or retail-oriented brokers, the stock's liquidity and price discovery suffer.
+As an OTC-listed company, 1847 Holdings exists in a ecosystem of small public firms that raise capital through offerings to retail and institutional investors interested in early-stage, high-risk opportunities. The company's ability to raise capital is constrained by its size, liquidity, and the willingness of investors to purchase OTC stocks. Geographic concentration of shareholders—if most investors are retail traders in a particular region or retail-oriented [brokers](/broker/), the stock's liquidity and [price discovery](/price-discovery/) suffer.
 
 The company's financing geography also shapes its business options. A modestly capitalized OTC holding company cannot acquire large businesses or make substantial investments without significant dilution to existing shareholders. This limits 1847 Holdings to smaller acquisitions, minority investments, or pivot strategies that do not require enormous capital infusions.
 
@@ -63,7 +63,7 @@ This asymmetry of information is structural, not unique to 1847 Holdings. Many O
 
 ## The Merger Arbitrage Geography
 
-1847 Holdings might become a target for acquisition or merger by larger companies seeking to acquire its capital structure, shareholder base, or cash. This "reverse merger" geography is common in OTC markets: a foreign company or operating company might combine with 1847 Holdings to access U.S. public markets and shareholder capital more efficiently than completing an initial public offering. For shareholders of 1847 Holdings, this creates hidden optionality—the company might be attractive as a vehicle for an acquisition, even if its current operations are minimal.
+1847 Holdings might become a target for acquisition or merger by larger companies seeking to acquire its capital structure, shareholder base, or cash. This "[reverse merger](/reverse-merger/)" geography is common in OTC markets: a foreign company or operating company might combine with 1847 Holdings to access U.S. public markets and shareholder capital more efficiently than completing an [initial public offering](/initial-public-offering/). For shareholders of 1847 Holdings, this creates hidden optionality—the company might be attractive as a vehicle for an acquisition, even if its current operations are minimal.
 
 ---
 

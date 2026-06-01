@@ -19,7 +19,7 @@ keywords: [radio, advertising, media, regional-broadcaster, appalachia, digital-
 
 Terrestrial radio advertising in the US faces persistent headwinds as listening shifts to streaming, podcasts, and app-based audio. Bright Mountain Media is not shielded from this trend. Its core radio business depends on local advertiser budgets that are themselves being sliced among more channels and platforms. When you read the 10-K, the MD&A section will address this reality directly — whether the company acknowledges it or not is your first signal. Look for candid discussion of audience and listenership trends by market and format. Management may highlight listener demographics or loyalty metrics, but the financial test is revenue. If same-store advertising revenue (excluding new-market entry) is declining, the company is fighting a tide; digital expansion becomes a necessity, not an option.
 
-Start with consolidated revenue by segment: radio broadcasting revenue (the core), digital advertising revenue, and any other sources. The ratio of radio-to-digital should reveal the company's diversification effort. A company still deriving 85%+ of revenue from terrestrial radio, in 2026, is in a high-risk position unless its radio markets are exceptionally stable or it is rapidly scaling digital.
+Start with consolidated revenue by segment: radio broadcasting revenue (the core), digital advertising revenue, and any other sources. The ratio of radio-to-digital should reveal the company's [diversification](/diversification/) effort. A company still deriving 85%+ of revenue from terrestrial radio, in 2026, is in a high-risk position unless its radio markets are exceptionally stable or it is rapidly scaling digital.
 
 ## Advertiser Concentration and Economic Sensitivity
 
@@ -35,9 +35,9 @@ A key metric: is digital revenue growing, and is it offset by radio decline? If 
 
 ## Debt Load and Interest Burden
 
-Small broadcasters often carry acquisition debt from building their platform. Check the consolidated balance sheet for total debt and compare it to EBITDA (earnings before interest, taxes, depreciation, and amortization). A debt-to-EBITDA ratio above 3.5× is worrisome for a mature media company with declining core revenues. If debt is above 4×, the company has limited flexibility to invest in technology or market downturns.
+Small broadcasters often carry [acquisition](/acquisition/) debt from building their platform. Check the consolidated [balance sheet](/balance-sheet/) for total debt and compare it to [EBITDA](/ebitda/) (earnings before interest, taxes, [depreciation](/depreciation/), and [amortization](/amortization/)). A [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/) above 3.5× is worrisome for a mature media company with declining core revenues. If debt is above 4×, the company has limited flexibility to invest in technology or market downturns.
 
-Scan the cash flow statement for interest expense and compare it to operating cash flow. If interest consumes more than 30% of operating cash flow, the company has little cushion for growth investment or downturns. Look at debt maturity schedules in the notes — a wall of debt due in the next 2–3 years, combined with declining radio revenue, creates a refinancing risk. When the debt matures, can the company roll it over at reasonable rates, or must it cut costs aggressively?
+Scan the [cash flow statement](/cash-flow-statement/) for interest expense and compare it to operating cash flow. If interest consumes more than 30% of operating cash flow, the company has little cushion for growth investment or downturns. Look at debt maturity schedules in the notes — a wall of debt due in the next 2–3 years, combined with declining radio revenue, creates a [refinancing risk](/refinancing-risk/). When the debt matures, can the company roll it over at reasonable rates, or must it cut costs aggressively?
 
 ## Audience Metrics and Advertiser Appeal
 

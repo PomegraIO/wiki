@@ -4,7 +4,7 @@ description: Digital health insurance marketplace connecting consumers to Medica
 keywords: health insurance, digital marketplace, Medicare, insurance brokers, enrollment platform
 ---
 
-*The field of health insurance enrollment in America operates as a fractured ecosystem of brokers, direct carriers, government programs, and digital platforms, each claiming dominion over a consumer's route to coverage. **GoHealth, Inc.** (GOCO, CIK 1808220) sits in the middle of that maze as a digital marketplace that has bet its model on bringing order to the chaos by aggregating insurance options and directing consumer traffic to them.*
+*The field of health insurance enrollment in America operates as a fractured ecosystem of [brokers](/broker/), direct carriers, government programs, and digital platforms, each claiming dominion over a consumer's route to coverage. **GoHealth, Inc.** (GOCO, CIK 1808220) sits in the middle of that maze as a digital marketplace that has bet its model on bringing order to the chaos by aggregating insurance options and directing consumer traffic to them.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GOCO</td></tr>
@@ -23,7 +23,7 @@ This is not a novel concept. Insurance brokers have been middlemen for centuries
 
 ## Competitive Framing and Market Vulnerability
 
-The insurance enrollment market has no single dominant digital player in the way that, say, health comparison site Zocdoc dominates appointment booking. Medicare-specific brokers, direct insurer websites, independent broker networks, and government platforms (Medicare.gov, Healthcare.gov) all compete for the same consumer. GoHealth's vulnerability lies in its dependence on marketing spend to drive traffic and on high customer-acquisition costs that must be offset by commission revenue. If acquisition becomes more expensive or if insurers reduce commission rates, the entire unit economics deteriorates.
+The insurance enrollment market has no single dominant digital player in the way that, say, health comparison site Zocdoc dominates appointment booking. Medicare-specific brokers, direct insurer websites, independent broker networks, and government platforms (Medicare.gov, Healthcare.gov) all compete for the same consumer. GoHealth's vulnerability lies in its dependence on marketing spend to drive traffic and on high customer-acquisition costs that must be offset by commission revenue. If [acquisition](/acquisition/) becomes more expensive or if insurers reduce commission rates, the entire unit economics deteriorates.
 
 Unlike a platform that sells a product it manufactures or owns, GoHealth is a pure intermediary. It creates no insurance; it merely redistributes consumer attention. This makes it highly sensitive to regulatory changes (commission structures, consumer privacy rules, licensing requirements), carrier strategy shifts (carriers may build their own digital enrollment tools and stop rewarding brokers), and broader economic cycles (fewer uninsured people equals fewer enrollment opportunities).
 
@@ -35,7 +35,7 @@ The second lever is conversion: taking traffic and converting it to completed en
 
 ## Earnings Fragility and Market Forces
 
-Commission structures in health insurance broking have compressed over the past decade as direct-to-consumer insurance buying has matured and carriers have sought to shift customers away from brokers toward their own websites. Medicare Advantage commissions, which are GoHealth's largest category, have fluctuated based on regulatory changes and plan profitability. A change in state broker licensing, a shift in carrier commission policy, or a recession reducing new health plan purchases any of these can disproportionately impact a company that has no pricing power and no recurring-revenue buffer.
+Commission structures in health insurance broking have compressed over the past decade as direct-to-consumer insurance buying has matured and carriers have sought to shift customers away from brokers toward their own websites. Medicare Advantage commissions, which are GoHealth's largest category, have fluctuated based on regulatory changes and plan profitability. A change in state broker licensing, a shift in carrier commission policy, or a [recession](/recession/) reducing new health plan purchases any of these can disproportionately impact a company that has no pricing power and no recurring-revenue buffer.
 
 The company is also vulnerable to changes in consumer behavior. If government platforms (Healthcare.gov, Medicare.gov) improve their user experience and marketing, or if direct insurer platforms gain traction, GoHealth's dependency on paid marketing becomes more expensive. Equally, any major carrier's decision to delist from the platform or to cap commissions creates a direct headwind.
 

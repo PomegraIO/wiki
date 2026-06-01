@@ -46,7 +46,7 @@ Margins are a perpetual challenge. While cultivation costs have declined as the 
 
 ## Pressures and Competitive Position
 
-Organigram faces a crowded field of Canadian LPs, including larger competitors with deeper capital and more diversified operations. Tilray, Canopy Growth, and others have experimented with non-cannabis businesses and international expansion, creating different risk profiles. Organigram's strategy of remaining pure-play cannabis and building international presence bets on specialization, but it also means execution risk is concentrated.
+Organigram faces a crowded field of Canadian LPs, including larger competitors with deeper capital and more diversified operations. Tilray, [Canopy Growth](/cgc-stock/), and others have experimented with non-cannabis businesses and international expansion, creating different risk profiles. Organigram's strategy of remaining pure-play cannabis and building international presence bets on specialization, but it also means execution risk is concentrated.
 
 Regulatory risk is endemic. Health Canada can tighten cultivation regulations, alter licensing requirements, or shift rules around retail licensing, packaging, or marketing. Pricing pressure from provincial regulators and legal competition from gray-market producers constrain upside. International expansion faces approval uncertainty in each new market.
 

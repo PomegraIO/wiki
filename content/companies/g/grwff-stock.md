@@ -4,7 +4,7 @@ description: "Canadian life insurer and asset manager whose earnings hinge on th
 keywords: ["life insurance", "Canadian financial services", "asset management", "insurance float", "underwriting economics", "annuities"]
 ---
 
-*The unit economics of **Great-West Lifeco Inc. (GRWFF)** revolve around the spread between premiums collected today and claims paid in the future, compounded by the investment returns earned on that "float"—the pool of premium reserves held between receipt and payout. As a major Canadian insurer and asset manager, its profitability depends on underwriting discipline and the ability to place those reserves profitably while maintaining solvency.*
+*The unit economics of **[Great-West Lifeco](/gwlif-stock/) Inc. (GRWFF)** revolve around the spread between premiums collected today and claims paid in the future, compounded by the investment returns earned on that "float"—the pool of premium reserves held between receipt and payout. As a major Canadian insurer and asset manager, its profitability depends on underwriting discipline and the ability to place those reserves profitably while maintaining solvency.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GRWFF</td></tr>
@@ -23,7 +23,7 @@ This dynamic explains why premium volume, lapse rates, and mortality assumptions
 
 ## The Investment Return Lever
 
-The second pillar of unit economics is the return earned on reserves held between premium receipt and claim payment. If Great-West collects $1 million in annual premiums from a cohort with an average payment-to-claim lag of 10 years, it holds roughly $10 million in reserve on average. Investing that at a 4% annual return generates $400,000 in annual earnings—enough to cover a significant portion of expenses or underwriting losses. Conversely, if interest rates fall or equity valuations crack, that earnings stream shrinks, forcing the company to rely more heavily on underwriting discipline to hit profit targets.
+The second pillar of unit economics is the return earned on reserves held between premium receipt and claim payment. If Great-West collects $1 million in annual premiums from a cohort with an average payment-to-claim lag of 10 years, it holds roughly $10 million in reserve on average. Investing that at a 4% annual return generates $400,000 in annual earnings—enough to cover a significant portion of expenses or underwriting losses. Conversely, if [interest rates](/interest-rate/) fall or equity valuations crack, that earnings stream shrinks, forcing the company to rely more heavily on underwriting discipline to hit profit targets.
 
 For a Canadian insurer exposed to both Canadian and U.S. markets (through subsidiaries), interest-rate movements and equity volatility are material to annual earnings. A sharp decline in long-duration bond yields compresses reinvestment returns on maturing reserves. Equity downgraffs also reduce the value of segregated-fund liabilities—a product category where Great-West guarantees a minimum return to policyholders while taking the upside on equity risk.
 
@@ -41,7 +41,7 @@ The company's Canadian domicile and U.S. presence mean it is subject to both Can
 
 ## Float Duration and Reinvestment Risk
 
-The duration of Great-West's liabilities matters because it determines how long the company holds and reinvests reserves. Life insurance often has a duration of 20 to 40 years or more; annuities can extend even longer. A long-duration liability base creates reinvestment risk: if the company invests reserves in 5-year bonds and rates are high, but liabilities run 30 years, the company faces the risk that reinvesting maturing bonds at lower future rates will erode the spread. This dynamic is why insurers like Great-West hold substantial allocations to equities and real estate alongside bonds—to capture long-term returns and mitigate reinvestment risk.
+The duration of Great-West's liabilities matters because it determines how long the company holds and reinvests reserves. Life insurance often has a duration of 20 to 40 years or more; annuities can extend even longer. A long-duration liability base creates [reinvestment risk](/reinvestment-risk/): if the company invests reserves in 5-year [bonds](/bond/) and rates are high, but liabilities run 30 years, the company faces the risk that reinvesting maturing bonds at lower future rates will erode the spread. This dynamic is why insurers like Great-West hold substantial allocations to equities and real estate alongside bonds—to capture long-term returns and mitigate reinvestment risk.
 
 ## Competitive Pricing and Industry Structure
 
@@ -49,9 +49,9 @@ Great-West competes against other Canadian insurers (such as Sun Life, Manulife,
 
 ## Returning Capital: Dividends and Buybacks
 
-Great-West's actual unit economics ultimately determine how much excess capital the company can pay to shareholders. A well-managed insurer that generates surplus returns over regulatory capital requirements can return that capital through dividends or share buybacks. The dividend is partly a signal that management expects stable, predictable earnings from the core business; cuts or suspensions signal deterioration in underwriting or investment returns, which investors watch closely.
+Great-West's actual unit economics ultimately determine how much excess capital the company can pay to shareholders. A well-managed insurer that generates surplus returns over regulatory capital requirements can return that capital through [dividends](/dividend/) or [share buybacks](/share-buyback/). The dividend is partly a signal that management expects stable, predictable earnings from the core business; cuts or suspensions signal deterioration in underwriting or investment returns, which investors watch closely.
 
-The economics of Great-West Lifeco are durable because mortality and morbidity are relatively stable, and the company has an installed base of millions of policies generating steady float. But they are vulnerable to macroeconomic shocks—rate cuts eroding reinvestment returns, equity crashes reducing asset values and triggering capital charges, or a recession reducing new policy sales and increasing lapse rates as consumers cut premiums. Understanding the company requires tracing the flow of premiums through the investment book and out to claims, and asking whether the company has priced that journey correctly.
+The economics of Great-West Lifeco are durable because mortality and morbidity are relatively stable, and the company has an installed base of millions of policies generating steady float. But they are vulnerable to macroeconomic shocks—rate cuts eroding reinvestment returns, equity crashes reducing asset values and triggering capital charges, or a [recession](/recession/) reducing new policy sales and increasing lapse rates as consumers cut premiums. Understanding the company requires tracing the flow of premiums through the investment book and out to claims, and asking whether the company has priced that journey correctly.
 
 <div class="wiki-seealso">
 ### Closely related

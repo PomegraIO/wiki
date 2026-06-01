@@ -51,7 +51,7 @@ The CRO business is ultimately dependent on how much its customers spend on deve
 
 Regulatory change is a constant risk. New rules around trial design, data privacy, site inspection, or patient protections can raise costs overnight and require ICON to invest in new capabilities to stay compliant. The push toward real-world evidence and novel trial designs also means the company must innovate constantly or risk losing ground to more agile competitors.
 
-Geopolitical risk is real as well. ICON runs trials in many countries, and sanctions, [visa](/v-stock/) restrictions, or political instability in key markets can disrupt operations. China and India are huge sourcing markets for trial sites and patient populations, and any fracture in those relationships would hurt the company.
+Geopolitical risk is real as well. ICON runs trials in many countries, and sanctions, visa restrictions, or political instability in key markets can disrupt operations. China and India are huge sourcing markets for trial sites and patient populations, and any fracture in those relationships would hurt the company.
 
 ## How a reader would research ICON
 

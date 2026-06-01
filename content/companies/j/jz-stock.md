@@ -28,7 +28,7 @@ handwritten: true
 
 Jianzhi operates at the intersection of professional education and technology infrastructure. The company's core offering is a portfolio of online learning platforms that deliver educational content to subscription customers. Rather than serving students directly, much of the company's reach flows through institutional partnerships—a B2B2C model where it supplies platforms and content to schools, universities, and other training providers who then offer the service to their students. This indirect channel complements direct-to-consumer subscriptions where individual learners access the platforms for monthly fees.
 
-The company's content libraries emphasize professional and vocational training rather than K-12 curriculum. Course offerings [target](/tgt-stock/) working professionals seeking skill development, career advancement, or credential completion. This positioning places Jianzhi in the expanding market for online adult learning in China, where remote upskilling has become more accessible and normalized.
+The company's content libraries emphasize professional and vocational training rather than K-12 curriculum. Course offerings target working professionals seeking skill development, career advancement, or credential completion. This positioning places Jianzhi in the expanding market for online adult learning in China, where remote upskilling has become more accessible and normalized.
 
 ## Revenue Streams
 

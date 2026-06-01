@@ -30,7 +30,7 @@ Additionally, AI-focused customers tend to be venture-backed firms or large tech
 
 Even if Core AI has achieved early traction, the broader question remains: does the market want a specialized AI infrastructure vendor, or will cloud providers and open-source communities solve the problem more cheaply? If Core AI's software solves real, durable customer pain points, it has a moat. If it solves problems that were always going to be solved by larger, better-capitalized competitors, it faces a slow erosion of relevance and margin pressure.
 
-The way to assess this is not through press releases but through the [10-K](/10-k/): customer retention rates, churn, price stability, and contract renewal patterns. High growth with deteriorating retention is a warning signal. So is a widening customer acquisition cost relative to lifetime value.
+The way to assess this is not through press releases but through the [10-K](/10-k/): customer retention rates, churn, price stability, and contract renewal patterns. High growth with deteriorating retention is a warning signal. So is a widening customer [acquisition](/acquisition/) cost relative to lifetime value.
 
 ## Capital Intensity and the Road to Profitability
 

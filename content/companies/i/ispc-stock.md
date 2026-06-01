@@ -50,7 +50,7 @@ iSpecimen's platform also generates valuable metadata. Every specimen match, eve
 
 ## Sector Headwinds and Growth
 
-iSpecimen's customer base spans pharma R&D, diagnostics development, and academic research. Biotech funding cycles, drug development timelines, and publication frequency in life-science journals all influence customer spending. During recession or biotech slowdown, pharma companies cut research budgets, reducing specimen demand. During boom periods, specimen sourcing becomes a competitive necessity—researchers need tissue fast, and they pay for speed.
+iSpecimen's customer base spans pharma R&D, diagnostics development, and academic research. Biotech funding cycles, drug development timelines, and publication frequency in life-science journals all influence customer spending. During [recession](/recession/) or biotech slowdown, pharma companies cut research budgets, reducing specimen demand. During boom periods, specimen sourcing becomes a competitive necessity—researchers need tissue fast, and they pay for speed.
 
 The company's fortunes are thus cyclical to biotech investment and pharma pipeline momentum. A customer evaluating ISPC must assess not just the platform's health but the health of its customer base.
 

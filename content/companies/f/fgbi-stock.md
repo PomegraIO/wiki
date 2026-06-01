@@ -19,7 +19,7 @@ keywords: [bank holding company, commercial bank, Louisiana, Mississippi, SMB le
 
 First Guaranty Bank operates as a mid-sized regional bank competing in Louisiana and Mississippi, markets where it holds substantial market presence but faces increasing pressure from larger regional and national competitors. The bank's value chain is rooted in the traditional relationship-banking model: it attracts deposits from local individuals and businesses, deploys those deposits into loans to regional borrowers, and earns the spread between deposit costs and loan yields.
 
-Louisiana banking has always been distinct from national patterns. Historical factors—regulatory environment, cultural ties to relationship lending, local industry structures (petrochemicals, shipping, agriculture)—created conditions favorable to strong regional banks. First Guaranty Bank built its franchise around this regional dynamics, establishing itself as a dominant lender in central Louisiana and then expanding into Mississippi. The franchise reflects geographic focus rather than product diversification.
+Louisiana banking has always been distinct from national patterns. Historical factors—regulatory environment, cultural ties to relationship lending, local industry structures (petrochemicals, shipping, agriculture)—created conditions favorable to strong regional banks. First Guaranty Bank built its franchise around this regional dynamics, establishing itself as a dominant lender in central Louisiana and then expanding into Mississippi. The franchise reflects geographic focus rather than product [diversification](/diversification/).
 
 The holding company structure allows First Guaranty to consolidate the bank, issue [corporate-bond](/corporate-bond/)s at the parent level if needed, and manage capital and [dividend](/dividend/) policy centrally. This is standard banking architecture: the holding company is a shell that owns the operating bank subsidiary.
 
@@ -33,19 +33,19 @@ Deposit composition matters for cost structure and stability. Core deposits (che
 
 ## Commercial Lending as Primary Revenue Driver
 
-First Guaranty's loan portfolio is weighted toward commercial and industrial (C&I) lending—lines of credit and term loans to businesses for working capital, equipment purchases, and acquisitions. This category dominates because it is where the bank's relationship advantage is greatest. A small business owner seeking to expand inventory or buy equipment looks for a lender who understands the business, can structure terms flexibly, and can make quick credit decisions. National lenders often cannot match this agility.
+First Guaranty's loan portfolio is weighted toward commercial and industrial (C&I) lending—lines of credit and term loans to businesses for working capital, equipment purchases, and [acquisitions](/acquisition/). This category dominates because it is where the bank's relationship advantage is greatest. A small business owner seeking to expand inventory or buy equipment looks for a lender who understands the business, can structure terms flexibly, and can make quick credit decisions. National lenders often cannot match this agility.
 
 The C&I portfolio also includes lending to distributors, manufacturers, agricultural businesses, and service providers—a cross-section of the regional economy. Loan-to-deposit ratios and portfolio composition are disclosed in the 10-K; they show whether the bank is lending aggressively or conservatively relative to its deposit base.
 
-Beyond C&I, First Guaranty originates commercial real-estate loans (for office buildings, retail centers, and light industrial properties), residential mortgages (though this is smaller relative to C&I), and consumer loans. The portfolio mix is a strategic choice reflecting market opportunity and management risk tolerance. A bank that perceives strong demand and low credit risk in CRE might allocate more capital to that segment; one worried about overheating will constrain it.
+Beyond C&I, First Guaranty originates commercial real-estate loans (for office buildings, retail centers, and light industrial properties), residential mortgages (though this is smaller relative to C&I), and consumer loans. The portfolio mix is a strategic choice reflecting market opportunity and management risk tolerance. A bank that perceives strong demand and low [credit risk](/credit-risk/) in CRE might allocate more capital to that segment; one worried about overheating will constrain it.
 
 ## Interest-Rate Sensitivity and Net Interest Margin
 
-First Guaranty's profitability swings with interest rates and the width of its net interest margin (the spread between what the bank pays for deposits and what it earns on loans). When the Fed keeps rates low, deposit costs fall, and the bank's margin widens—a favorable environment for earnings. When rates rise abruptly, the bank's deposit costs climb, and if loan yields do not rise as fast, the margin compresses.
+First Guaranty's profitability swings with [interest rates](/interest-rate/) and the width of its net interest margin (the spread between what the bank pays for deposits and what it earns on loans). When the Fed keeps rates low, deposit costs fall, and the bank's margin widens—a favorable environment for earnings. When rates rise abruptly, the bank's deposit costs climb, and if loan yields do not rise as fast, the margin compresses.
 
 This sensitivity is visible in quarterly earnings: periods of stable low rates often produce strong results, while periods of rising rates can pressure margins. The bank's balance-sheet profile (duration of assets vs. liabilities, how loans are priced, how often deposits reprice) determines its specific exposure. A bank with mostly long-term fixed-rate loans and short-term deposits faces acute pressure when rates spike.
 
-First Guaranty has disclosed interest-rate risk exposure in its filings; this allows investors to gauge how sensitive earnings are to Fed policy changes.
+First Guaranty has disclosed [interest-rate risk](/interest-rate-risk/) exposure in its filings; this allows investors to gauge how sensitive earnings are to Fed policy changes.
 
 ## Regional Economy and Concentration Risk
 
@@ -59,7 +59,7 @@ This regional concentration is partly a strength (the bank has deep roots and un
 
 First Guaranty's asset quality—measured by nonaccrual rates, charge-off rates, and allowance for credit losses—reveals how well the bank selects borrowers and how its portfolio performs through cycles. The bank's historical credit data, disclosed in the 10-K and quarterly filings, show whether underwriting has been conservative or aggressive.
 
-During economic expansion, credit quality tends to be stable; during recession or regional downturns, delinquencies spike. A bank with disciplined underwriting and good loss-mitigation practices will have lower peak delinquencies during downturns than a bank that relaxed standards during good times. First Guaranty's historical track record—how it weathered the 2008–2009 financial crisis and the 2015–2016 energy downturn—provides evidence on management's credit discipline.
+During economic expansion, credit quality tends to be stable; during [recession](/recession/) or regional downturns, delinquencies spike. A bank with disciplined underwriting and good loss-mitigation practices will have lower peak delinquencies during downturns than a bank that relaxed standards during good times. First Guaranty's historical track record—how it weathered the 2008–2009 financial crisis and the 2015–2016 energy downturn—provides evidence on management's credit discipline.
 
 ## Scale and Competitive Position
 

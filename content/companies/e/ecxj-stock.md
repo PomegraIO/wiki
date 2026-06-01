@@ -61,7 +61,7 @@ Technology upgrades, however, require capital investment that franchisees may no
 
 ## Geographic Concentration and Macroeconomic Sensitivity
 
-CXJ operates in Japan, where demographic headwinds include aging population and lower birth rates. Younger demographics are more convenience-store-frequent; declining youth populations slow long-term growth. Additionally, convenience-store traffic is economically cyclical—recessions reduce discretionary spending and impulse purchases, pressuring franchisee profitability.
+CXJ operates in Japan, where demographic headwinds include aging population and lower birth rates. Younger demographics are more convenience-store-frequent; declining youth populations slow long-term growth. Additionally, convenience-store traffic is economically cyclical—[recessions](/recession/) reduce [discretionary spending](/discretionary-spending/) and impulse purchases, pressuring franchisee profitability.
 
 Operational durability for CXJ depends on recruiting and retaining franchisees, maintaining supply-chain efficiency, supporting franchisee profitability, and innovating to stay competitive against entrenched rivals. The company's real asset is not a single breakthrough location but rather the network effects—the logistics, the supplier relationships, the brand equity, and the franchisee community—that create value for thousands of independent operators.
 

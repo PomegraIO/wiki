@@ -32,7 +32,7 @@ Development-stage companies often pursue partnerships or licensing deals as a pa
 
 ## Research and Development Investment Pattern
 
-Genvor's cash flow statement segregates research and development spending from general and administrative overhead. For a development-stage company, R&D typically dwarfs other expenses, reflecting the company's current focus on building its technology rather than scaling operations. The trend in R&D spending across quarters and years reveals whether Genvor is increasing investment (betting on near-term milestones), plateauing (hitting resource constraints), or declining (shifting strategy or running out of capital). Management's discussion typically explains major R&D spending shifts, creating a narrative audit trail.
+Genvor's [cash flow statement](/cash-flow-statement/) segregates research and development spending from general and administrative overhead. For a development-stage company, R&D typically dwarfs other expenses, reflecting the company's current focus on building its technology rather than scaling operations. The trend in R&D spending across quarters and years reveals whether Genvor is increasing investment (betting on near-term milestones), plateauing (hitting resource constraints), or declining (shifting strategy or running out of capital). Management's discussion typically explains major R&D spending shifts, creating a narrative audit trail.
 
 ## Capital Raised and Dilution Trajectory
 

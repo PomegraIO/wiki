@@ -16,7 +16,7 @@ keywords: ["SPAC", "shell company", "blank-check", "capital structure", "dilutio
 
 ## Structural SPAC Risk: No Underlying Business
 
-KPET is a blank-check or SPAC-related company, meaning it was formed to acquire a business but may not yet have identified or completed that acquisition. During the search phase, the company is essentially a cash shell. Shareholders own a claim on that cash and the right to approve a merger, but they own no operating business and generate no revenue. The risks are severe:
+KPET is a blank-check or SPAC-related company, meaning it was formed to acquire a business but may not yet have identified or completed that [acquisition](/acquisition/). During the search phase, the company is essentially a cash shell. Shareholders own a claim on that cash and the right to approve a merger, but they own no operating business and generate no revenue. The risks are severe:
 
 - If no acquisition is found within the specified timeframe (typically two years), shareholders can demand a cash return, but that return may be diluted by expense drawdowns and market conditions.
 - The sponsor and management team—not the shareholders—control the acquisition process. They can select any target, negotiate any terms, and drive the company toward an acquisition that benefits insiders at shareholders' expense.
@@ -28,11 +28,11 @@ SPAC sponsors and management teams are incentivized to close deals—any deal—
 
 ## Investor Dilution
 
-SPAC mergers typically involve significant equity dilution:
+SPAC [mergers](/merger/) typically involve significant equity dilution:
 
 - Sponsors receive an equity stake (promote shares) upfront as compensation for assembling the deal.
 - Target company shareholders receive shares in the merged entity, often at valuations that imply aggressive growth assumptions.
-- New capital may be raised (PIPE—private investment in public equity) at a discount to the public float, or dilutive warrant issuance occurs.
+- New capital may be raised (PIPE—private investment in public equity) at a discount to the [public float](/float/), or dilutive warrant issuance occurs.
 
 Public shareholders who bought into the blank-check stage may find their ownership percentage halved or more after the merger. Additionally, if redemptions are high (shareholders vote to take cash back), the capital raised is reduced, forcing greater dilution to reach the target raise.
 
@@ -46,7 +46,7 @@ SPAC shares often trade thinly. If you need to exit, there may be limited buyer 
 
 ## Warrant Overhang
 
-Most SPACs issued warrants to early investors. Warrants are call options on the stock; they create dilution if exercised. A rising stock price may be partially offset by the dilutive impact of warrant exercise. Warrant holders have different interests from common shareholders and may exercise at times unfavorable to common holders.
+Most SPACs issued warrants to early investors. Warrants are [call options](/call-option/) on the stock; they create dilution if exercised. A rising stock price may be partially offset by the dilutive impact of warrant exercise. Warrant holders have different interests from common shareholders and may exercise at times unfavorable to common holders.
 
 ## Valuation Risk and Growth Assumptions
 
@@ -58,7 +58,7 @@ If KPET has completed a merger, the newly combined entity faces standard integra
 
 ## Accounting and Disclosure Risk
 
-SPACs and recently merged entities sometimes face accounting restatements or disclosure gaps. Management may lack strong financial infrastructure. The company's internal controls may be weak, creating audit findings or delays in financial reporting. Investors may discover accounting issues or executive misconduct post-merger, triggering shareholder suits and further stock decline.
+SPACs and recently merged entities sometimes face accounting [restatements](/restatement/) or disclosure gaps. Management may lack strong financial infrastructure. The company's internal controls may be weak, creating audit findings or delays in financial reporting. Investors may discover accounting issues or executive misconduct post-merger, triggering shareholder suits and further stock decline.
 
 ## Regulatory and Compliance Uncertainty
 

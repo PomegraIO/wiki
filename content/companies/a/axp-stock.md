@@ -28,7 +28,7 @@ Card members are typically higher-income than the average credit card holder; Am
 
 Amex operates in a duopoly network environment alongside visa-stock and Mastercard, with smaller players like Discover in certain markets. Its competitive edges are brand prestige (especially in premium segments), deep relationships with affluent consumers and multinational corporations, and network effects in merchant acquiring (where scale drives down costs). The closed-loop model once seemed limiting—fewer merchants accept Amex than Visa—but digital payments and e-commerce have narrowed that gap, and Amex's premium positioning actually benefits from its stricter merchant standards and lower fraud rates.
 
-Pressure comes from fintech disruption, embedded finance, cryptocurrency payment projects, and buy-now-pay-later startups that chip away at small transactions. Newer competitors also [target](/tgt-stock/) corporate expense management, which Amex has long dominated. However, Amex's brand and entrenched relationships provide durable moats; switching costs for corporate customers are real, and high-net-worth consumers show strong loyalty to premium cards.
+Pressure comes from fintech disruption, embedded finance, cryptocurrency payment projects, and buy-now-pay-later startups that chip away at small transactions. Newer competitors also target corporate expense management, which Amex has long dominated. However, Amex's brand and entrenched relationships provide durable moats; switching costs for corporate customers are real, and high-net-worth consumers show strong loyalty to premium cards.
 
 ## Profitability and capital structure
 

@@ -18,7 +18,7 @@ Adagene's competitive advantage rests on proprietary platforms for engineering a
 
 ## Pipeline and development stage
 
-Adagene's lead programs [target](/tgt-stock/) high-incidence cancers including solid tumors and hematologic malignancies. The company typically advances candidates from in vitro engineering through preclinical validation, then into early-stage human trials (IND stage). Like most clinical-stage biotech, Adagene has not yet achieved regulatory approval or commercialization; revenue comes from research collaborations, milestone payments, and strategic partnerships rather than drug sales. The financial runway depends on capital raises and the pace at which candidate therapies advance through development.
+Adagene's lead programs target high-incidence cancers including solid tumors and hematologic malignancies. The company typically advances candidates from in vitro engineering through preclinical validation, then into early-stage human trials (IND stage). Like most clinical-stage biotech, Adagene has not yet achieved regulatory approval or commercialization; revenue comes from research collaborations, milestone payments, and strategic partnerships rather than drug sales. The financial runway depends on capital raises and the pace at which candidate therapies advance through development.
 
 ## Competitive position and risks
 

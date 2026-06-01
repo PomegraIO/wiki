@@ -17,7 +17,7 @@ keywords: ["freelance marketplace", "gig economy", "platform model", "service ma
 
 ## The Transaction Model and Unit Economics
 
-Fiverr's revenue stream is a take rate—typically 20–30% of each transaction. The 10-K should disclose total GMV (gross merchandise value) and how the take rate has moved over time. If take rate is compressing, it means either Fiverr is cutting rates to fight competition (like [Upwork](/stock/)), or sellers are gaining more bargaining power as the platform matures. Conversely, if Fiverr has expanded its take rate, it may have improved its ability to upsell (premium services, promoted listings) or simplified its pricing in a way that customers accept. The key metric analysts miss: *repeat buyer rate*. When a buyer returns to transact multiple times, the platform has achieved stickiness. The 10-K should disclose cohort retention or repeat rates; if Fiverr's repeat buyers are low relative to one-time purchasers, the business model relies on constant acquisition of new customers—expensive and fragile.
+Fiverr's revenue stream is a take rate—typically 20–30% of each transaction. The 10-K should disclose total GMV (gross merchandise value) and how the take rate has moved over time. If take rate is compressing, it means either Fiverr is cutting rates to fight competition (like [Upwork](/stock/)), or sellers are gaining more bargaining power as the platform matures. Conversely, if Fiverr has expanded its take rate, it may have improved its ability to upsell (premium services, promoted listings) or simplified its pricing in a way that customers accept. The key metric analysts miss: *repeat buyer rate*. When a buyer returns to transact multiple times, the platform has achieved stickiness. The 10-K should disclose cohort retention or repeat rates; if Fiverr's repeat buyers are low relative to one-time purchasers, the business model relies on constant [acquisition](/acquisition/) of new customers—expensive and fragile.
 
 ## Geographic and Category Diversification
 
@@ -37,7 +37,7 @@ Fiverr's sellers are classified as independent contractors, not employees. The 1
 
 ## Margins Under Pressure
 
-Unlike software-as-a-service companies with high incremental margins, Fiverr's incremental margin is constrained by the take rate it must return to sellers. The 10-K should show GAAP operating margin and adjusted EBITDA margin; the gap between them reveals stock-based compensation and amortization loads. If margins are expanding, Fiverr is reducing support and moderation costs or raising take rates without seller/buyer churn. If margins are flat or declining despite revenue growth, the platform is investing heavily in growth or is losing pricing power—a red flag.
+Unlike software-as-a-service companies with high incremental margins, Fiverr's incremental margin is constrained by the take rate it must return to sellers. The 10-K should show GAAP [operating margin](/operating-margin/) and adjusted [EBITDA margin](/ebitda-margin/); the gap between them reveals stock-based compensation and [amortization](/amortization/) loads. If margins are expanding, Fiverr is reducing support and moderation costs or raising take rates without seller/buyer churn. If margins are flat or declining despite revenue growth, the platform is investing heavily in growth or is losing pricing power—a red flag.
 
 ## Investment Angle
 

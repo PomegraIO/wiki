@@ -43,7 +43,7 @@ Bright Horizons is also capital-intensive. Each new center requires upfront spen
 
 ## Scale and geographic reach
 
-The company operates centers in nearly every US state, plus programs in Canada, the United Kingdom, and other markets. This geographic diversity reduces dependence on any single regional economy. However, it also makes operations complex. Different states have different licensing rules; different cities have different rental markets; some regions have tighter labor supplies than others. The company must balance building in high-growth metros (where costs are higher and competition is stiff) versus secondary markets (where employers may be sparser).
+The company operates centers in nearly every US state, plus programs in Canada, the United Kingdom, and other markets. This geographic diversity reduces dependence on any single regional economy. However, it also makes operations complex. Different states have different licensing rules; different cities have different rental markets; some regions have tighter labor supplies than others. The company must balance building in high-growth metros (where costs are higher and competition is stiff) versus [secondary markets](/secondary-market/) (where employers may be sparser).
 
 ## Why public investors care
 

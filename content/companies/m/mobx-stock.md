@@ -4,7 +4,7 @@ description: "Mobile technology company subject to securities regulation, potent
 keywords: ["technology", "mobile", "NASDAQ", "OTC", "securities", "public company"]
 ---
 
-*MOBIX LABS trades under the ticker **MOBX** and, like many early-stage technology companies, must navigate the baseline regulatory environment of a U.S. public company while avoiding the sector-specific oversight that constrains medical-device firms or heavily regulated financial institutions. The company's compliance obligations are dominated by [SEC](/securities-and-exchange-commission/) rules governing disclosure, executive certification, and audit standards, along with the market-specific requirements of its listing venue. However, depending on the specifics of MOBIX's technology and customer base, export-control regulations or industry-specific certifications may emerge as material compliance constraints.*
+*MOBIX LABS trades under the ticker **MOBX** and, like many early-stage technology companies, must navigate the baseline regulatory environment of a U.S. public company while avoiding the sector-specific oversight that constrains medical-device firms or heavily regulated [financial institutions](/fisi-stock/). The company's compliance obligations are dominated by [SEC](/securities-and-exchange-commission/) rules governing disclosure, executive certification, and audit standards, along with the market-specific requirements of its listing venue. However, depending on the specifics of MOBIX's technology and customer base, export-control regulations or industry-specific certifications may emerge as material compliance constraints.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MOBX</td></tr>
@@ -36,7 +36,7 @@ MOBIX LABS' officers, directors, and large shareholders must comply with Section
 
 ## Going-Concern, Liquidity, and Financial-Viability Disclosure
 
-Early-stage or cash-constrained technology companies often face going-concern risks—the possibility that they will exhaust cash and become unable to operate without additional financing. If MOBIX LABS' auditors have substantial doubt about the company's going concern, they must include a going-concern warning in the audit report, and management must disclose the concern prominently in the [10-K](/10-k/). Such disclosure triggers analyst downgrades, potential delisting, and reduced access to financing. The company must also disclose plans to address liquidity constraints—raising capital, reducing burn rate, or achieving profitability. Investors in early-stage technology companies like MOBIX LABS should carefully review liquidity disclosure and the path to cash flow breakeven.
+Early-stage or cash-constrained technology companies often face going-concern risks—the possibility that they will exhaust cash and become unable to operate without additional financing. If MOBIX LABS' auditors have substantial doubt about the company's [going concern](/going-concern/), they must include a going-concern warning in the audit report, and management must disclose the concern prominently in the [10-K](/10-k/). Such disclosure triggers analyst downgrades, potential delisting, and reduced access to financing. The company must also disclose plans to address liquidity constraints—raising capital, reducing burn rate, or achieving profitability. Investors in early-stage technology companies like MOBIX LABS should carefully review liquidity disclosure and the path to cash flow breakeven.
 
 ## Navigating MOBIX LABS' Regulatory Posture
 

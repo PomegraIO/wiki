@@ -17,9 +17,9 @@ keywords: ["grocery retail", "supermarket", "Canadian retail", "food distributio
 
 ## The Canadian Grocery oligopoly
 
-Canada's grocery market is highly consolidated: five or six large chains control most supermarket traffic. Metro competes against Loblaws (Loblaw Companies Ltd), which is Canada's largest grocer, Costco, Walmart Canada, and smaller regional players. The market is mature and price-sensitive; customers do not develop deep loyalty and will shop where prices are lowest and locations are convenient. Margins are thin—operating margins for grocers typically run 2–5%—because competition compresses prices and inventory moves fast but does not command large markups.
+Canada's grocery market is highly consolidated: five or six large chains control most supermarket traffic. Metro competes against Loblaws (Loblaw Companies Ltd), which is Canada's largest grocer, Costco, [Walmart](/wmt-stock/) Canada, and smaller regional players. The market is mature and price-sensitive; customers do not develop deep loyalty and will shop where prices are lowest and locations are convenient. Margins are thin—[operating margins](/operating-margin/) for grocers typically run 2–5%—because competition compresses prices and inventory moves fast but does not command large markups.
 
-Metro's competitive position is strongest in Ontario and Quebec, where it has built store networks and supply chains over decades. In Atlantic Canada, it operates under banner brands and through licensed independents, giving it reach without owning every asset. The ADR listing on NASDAQ lets US investors own a stake, but the company's real market and earnings are generated in Canadian dollars, introducing currency translation effects into reported results.
+Metro's competitive position is strongest in Ontario and Quebec, where it has built store networks and supply chains over decades. In Atlantic Canada, it operates under banner brands and through licensed independents, giving it reach without owning every asset. The ADR listing on [NASDAQ](/nasdaq/) lets US investors own a stake, but the company's real market and earnings are generated in [Canadian dollars](/canadian-dollar/), introducing currency translation effects into reported results.
 
 ## The Three-Tier Business
 
@@ -41,7 +41,7 @@ The fundamental metric in grocery is weekly customer traffic (how many people sh
 
 E-commerce (online grocery delivery) is growing and changing the competitive landscape. Loblaws, Costco, and Walmart all have online grocery and delivery options. Metro is developing these capabilities but started later than some competitors. Online delivery is more expensive to operate than in-store shopping (labor-intensive picking and delivery) and offers lower margins. However, it is necessary for customer retention; if customers prefer ordering online and a grocer cannot deliver, they will shop elsewhere.
 
-Inflation in food costs directly impacts customer behavior. When food prices rise (due to commodity costs, transportation, or import tariffs), lower-income customers cut spending, reduce traffic, or switch to discount formats. Metro's customer base is geographically spread and income-diverse; inflation disproportionately affects lower-income shoppers, which can pressure traffic and mix.
+[Inflation](/inflation/) in food costs directly impacts customer behavior. When food prices rise (due to commodity costs, transportation, or import tariffs), lower-income customers cut spending, reduce traffic, or switch to discount formats. Metro's customer base is geographically spread and income-diverse; inflation disproportionately affects lower-income shoppers, which can pressure traffic and mix.
 
 ## Seasonality and Inventory Risk
 

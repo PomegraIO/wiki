@@ -4,7 +4,7 @@ description: "A blank-check acquisition vehicle (SPAC) positioned as a temporary
 keywords: [SPAC, special-purpose acquisition, blank-check company, business combination]
 ---
 
-*M3-Brigade Acquisition V Corp. (MBAV) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC), which means it is a publicly listed shell entity created to raise capital for the explicit purpose of acquiring a private company and taking it public through merger. The firm has no operating business; its value in the capital-markets chain is purely as a financial intermediary, capturing sponsor gains and exit value for early investors while providing a financing alternative to traditional IPOs for private companies.*
+*M3-Brigade [Acquisition](/acquisition/) V Corp. (MBAV) is a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC), which means it is a publicly listed shell entity created to raise capital for the explicit purpose of acquiring a private company and taking it public through merger. The firm has no operating business; its value in the capital-markets chain is purely as a financial intermediary, capturing sponsor gains and exit value for early investors while providing a financing alternative to traditional IPOs for private companies.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>MBAV</td></tr>
@@ -24,11 +24,11 @@ MBAV's position in the capital-markets value chain is as an intermediary: it sta
 
 When MBAV launched, it conducted an initial public offering to raise capital from investors. That capital is deposited in a trust account and held until a merger target is identified and approved by shareholders. Investor money is locked up; the SPAC sponsor and affiliated investors then use their own capital to hunt for acquisition targets. If no acceptable merger is found within a specified window (often two years), the trust capital is returned to investors.
 
-This structure creates a peculiar incentive: the SPAC sponsor has strong motivation to complete a merger—even a mediocre one—because their founder shares and earned-in sponsor shares vest only upon consummation. Public investors, by contrast, must decide whether the announced target justifies holding the investment or whether to redeem their shares (a right available before the shareholder vote on the merger).
+This structure creates a peculiar incentive: the SPAC sponsor has strong motivation to complete a merger—even a mediocre one—because their [founder shares](/founder-shares/) and earned-in sponsor shares vest only upon consummation. Public investors, by contrast, must decide whether the announced target justifies holding the investment or whether to redeem their shares (a right available before the shareholder vote on the merger).
 
 ## Value Addition and the Intermediary Function
 
-From the perspective of capital flows, MBAV's value proposition is to reduce the cost and timeline of going public for a private company. A traditional IPO requires months of SEC review, roadshow presentations to hundreds of institutional investors, regulatory filings, and underwriter fees. A SPAC merger is faster and more certain (the capital is already raised) but comes with less discovery and typically lower valuations than a hot IPO.
+From the perspective of [capital flows](/capital-flows/), MBAV's value proposition is to reduce the cost and timeline of going public for a private company. A traditional IPO requires months of SEC review, roadshow presentations to hundreds of institutional investors, regulatory filings, and underwriter fees. A SPAC merger is faster and more certain (the capital is already raised) but comes with less discovery and typically lower valuations than a hot IPO.
 
 MBAV adds value by:
 
@@ -52,7 +52,7 @@ Public investors in MBAV bear the sponsor's due-diligence and execution risk. If
 
 ## Post-Merger Integration and Public-Company Burden
 
-Once a merger is consummated, the private company becomes a public company subject to SEC filing requirements, Sarbanes-Oxley compliance, and quarterly earnings pressure. Many SPAC mergers have encountered post-merger volatility or shareholder litigation when the private company's actual performance diverges from projections made during the SPAC process. The infrastructure burden (auditors, investors-relations, filing management) is new to the target company and adds costs that were not present when private.
+Once a merger is consummated, the private company becomes a public company subject to SEC filing requirements, Sarbanes-Oxley compliance, and quarterly earnings pressure. Many SPAC [mergers](/merger/) have encountered post-merger volatility or shareholder litigation when the private company's actual performance diverges from projections made during the SPAC process. The infrastructure burden (auditors, investors-relations, filing management) is new to the target company and adds costs that were not present when private.
 
 ## Regulatory and Market Sentiment Shifts
 

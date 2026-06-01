@@ -27,7 +27,7 @@ The company's lifecycle is not one of steady growth. Instead, it mirrors boom-bu
 
 BuzzFeed was founded when "going viral" was an emerging and powerful metric for media reach. The company pioneered content designed explicitly for social sharing—quizzes, listicles, memes, and unboxings that generated millions of views with minimal traditional journalistic investment. This worked extraordinarily well during the 2010s when Facebook's algorithm prioritized and distributed viral content to billions of users, and when brand advertisers were desperate to reach young audiences where traditional TV could not.
 
-The company's early lifecycle was rapid growth: audience scaling, traffic multiplication, and rising [advertising revenue](/income-statement/). This phase created the impression of a sustainable, scalable media business. The company expanded aggressively into branded content (ads disguised as editorial), expanded its team, and went public (via a SPAC merger) with ambitions to become a diversified media empire.
+The company's early lifecycle was rapid growth: audience scaling, traffic multiplication, and rising [advertising revenue](/income-statement/). This phase created the impression of a sustainable, scalable media business. The company expanded aggressively into branded content (ads disguised as editorial), expanded its team, and went public (via a SPAC [merger](/merger/)) with ambitions to become a diversified media empire.
 
 ## The Structural Contraction
 
@@ -41,7 +41,7 @@ Third, audience attention fragmented further. Younger users migrated to TikTok a
 
 In response to these structural headwinds, BuzzFeed attempted to diversify. The company expanded into video production, seeking to capture streaming and YouTube audiences. It acquired other media properties (HuffPost, Complex Networks) to broaden its portfolio. It pursued licensing and syndication to reduce dependence on direct advertising. It explored e-commerce tie-ins and other revenue sources beyond pure advertising.
 
-These moves are classic responses to a media company's decline phase: trying to defend legacy business while adapting to new platforms and revenue models. Some succeed (some publishers found sustainable audiences on new platforms); many do not (acquisitions that did not integrate well, video bets that did not generate returns, streaming ambitions that could not compete with Netflix and Amazon).
+These moves are classic responses to a media company's decline phase: trying to defend legacy business while adapting to new platforms and revenue models. Some succeed (some publishers found sustainable audiences on new platforms); many do not ([acquisitions](/acquisition/) that did not integrate well, video bets that did not generate returns, streaming ambitions that could not compete with [Netflix](/nflx-stock/) and Amazon).
 
 ## The Profitability Question
 
@@ -51,7 +51,7 @@ BuzzFeed's [balance sheet](/balance-sheet/) and [income statement](/income-state
 
 ## The Licensing and IP Approach
 
-One diversification that has gained traction for BuzzFeed is licensing—selling quiz data, branded content, and other intellectual property to other publishers or platforms. This represents a shift in the company's lifecycle: from direct publisher (audience aggregator and advertiser) to a provider of content and tools used by others. This is a lower-growth but potentially more stable model than pure direct advertising, though it also represents a pullback from the company's original ambition to be a major independent media brand.
+One [diversification](/diversification/) that has gained traction for BuzzFeed is licensing—selling quiz data, branded content, and other intellectual property to other publishers or platforms. This represents a shift in the company's lifecycle: from direct publisher (audience aggregator and advertiser) to a provider of content and tools used by others. This is a lower-growth but potentially more stable model than pure direct advertising, though it also represents a pullback from the company's original ambition to be a major independent media brand.
 
 ## Comparison to Streaming and Platform Companies
 
@@ -61,7 +61,7 @@ The company's arc is not unique. Many digital publishers have traversed the same
 
 ## Current Lifecycle Stage
 
-BuzzFeed currently operates in a managed contraction phase. The company has scaled back ambitions, reduced headcount, and focused on properties and revenue streams with stronger unit economics. Whether this contraction will stabilize toward a profitable, smaller entity or whether the company will continue a slow decline toward irrelevance remains an open question. The company's public status and access to capital markets give it more runway than private media companies, but the underlying business challenges persist.
+BuzzFeed currently operates in a managed [contraction phase](/contraction-phase/). The company has scaled back ambitions, reduced headcount, and focused on properties and revenue streams with stronger unit economics. Whether this contraction will stabilize toward a profitable, smaller entity or whether the company will continue a slow decline toward irrelevance remains an open question. The company's public status and access to capital markets give it more runway than private media companies, but the underlying business challenges persist.
 
 ---
 

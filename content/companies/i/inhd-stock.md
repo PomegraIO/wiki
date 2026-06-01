@@ -19,7 +19,7 @@ An investor or shareholder in INNO HOLDINGS is not buying a simple product. They
 
 This is a fundamentally different customer relationship than in a product or service business. The investor cannot "use" the holding company in any traditional sense. Instead, the investor must assess whether the managers of INNO HOLDINGS will deploy capital wisely, grow the underlying businesses profitably, and distribute value to shareholders through [dividends](/dividend/), [share buybacks](/share-buyback/), or [earnings](/earnings-per-share/) growth.
 
-The investor's satisfaction is measured in total shareholder return—the combination of stock price appreciation and [dividends](/dividend/) received. If INNO HOLDINGS' stock underperforms alternatives, or if the company squanders capital on bad acquisitions or operations, the investor votes by selling or not renewing their position.
+The investor's satisfaction is measured in total shareholder return—the combination of stock price appreciation and [dividends](/dividend/) received. If INNO HOLDINGS' stock underperforms alternatives, or if the company squanders capital on bad [acquisitions](/acquisition/) or operations, the investor votes by selling or not renewing their position.
 
 ## What Kind of Holdings?
 
@@ -46,7 +46,7 @@ An investor "buying" management's capital allocation skill is making a bet on co
 
 ## The Portfolio Concentration Trade-Off
 
-INNO HOLDINGS' investor base includes two polar constituencies: diversification seekers and concentrated-bet believers. A diversification seeker owns the stock because it owns a portfolio of disparate businesses, reducing single-industry risk. A concentrated-bet believer owns it because a few holdings are genuinely excellent and management is shrewd.
+INNO HOLDINGS' investor base includes two polar constituencies: [diversification](/diversification/) seekers and concentrated-bet believers. A diversification seeker owns the stock because it owns a portfolio of disparate businesses, reducing single-industry risk. A concentrated-bet believer owns it because a few holdings are genuinely excellent and management is shrewd.
 
 The holding company's structure creates operational friction compared to operating a single business. The holding company must maintain a corporate center (board, audit, finance, legal, investor relations), and that overhead is borne by the operating businesses. An investor must be convinced that the holding company structure creates more value through diversification or management skill than it consumes in overhead.
 
@@ -58,7 +58,7 @@ If INNO HOLDINGS cuts its dividend to fund acquisitions the investor does not li
 
 ## Valuation and the Conglomerate Discount
 
-Holding companies often trade at a discount to the sum of the value of their underlying holdings—a phenomenon called the "conglomerate discount." This reflects investor skepticism about management and concerns about cross-subsidy of weak businesses or misallocation of capital.
+Holding companies often trade at a discount to the sum of the value of their underlying holdings—a phenomenon called the "[conglomerate discount](/conglomerate-discount/)." This reflects investor skepticism about management and concerns about cross-subsidy of weak businesses or misallocation of capital.
 
 An investor evaluating INNO HOLDINGS must assess whether the discount is justified or represents an opportunity. If the investor believes the company's holdings are misvalued or that management is about to shift strategy to unlock value, buying the stock is a bet on a reversal of the discount. If the investor believes the discount reflects genuine mismanagement, the stock is a trap.
 
@@ -70,7 +70,7 @@ An investor reading INNO HOLDINGS' [10-K](/10-k/) (annual report filed with the 
 
 ## Specific Business Risks
 
-INNO HOLDINGS' investor also faces specific operational risks depending on what the company owns. If INNO HOLDINGS owns operating businesses vulnerable to regulatory change, supply chain disruption, or technology obsolescence, the shareholder bears those risks. If the company owns concentrated stakes in other public companies, the shareholder's value is tied to those companies' performance and volatility.
+INNO HOLDINGS' investor also faces specific [operational risks](/operational-risk/) depending on what the company owns. If INNO HOLDINGS owns operating businesses vulnerable to regulatory change, supply chain disruption, or technology obsolescence, the shareholder bears those risks. If the company owns concentrated stakes in other public companies, the shareholder's value is tied to those companies' performance and volatility.
 
 Unlike a diversified [mutual fund](/mutual-fund/) or [ETF](/etf/) where risk is distributed across hundreds of holdings, a holding company's investor typically holds concentrated positions in a smaller number of underlying assets. This can create outsize gains if those holdings perform well, but also outsize losses if they falter.
 

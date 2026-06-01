@@ -23,7 +23,7 @@ The choice of California is not incidental. A company selling products priced at
 
 ## Distribution Geography
 
-Beyond Meat sells primarily through two channels: retail supermarkets and foodservice (restaurants, fast-casual chains, workplace cafeterias). Its reach in the US retail market concentrates in major urban areas and regions with strong Whole Foods, Kroger, Sprouts, and other chains receptive to premium branded products. Geographically, the coasts (California, Northeast Corridor) and urban centers (Chicago, Denver, Austin) became its early strongholds. These regions overlap with liberal and younger demographics, but more fundamentally, they are regions where supermarket chains maintain extensive loyalty-program data and can recognize purchasing patterns.
+Beyond Meat sells primarily through two channels: retail supermarkets and foodservice (restaurants, fast-casual chains, workplace cafeterias). Its reach in the US retail market concentrates in major urban areas and regions with strong Whole Foods, [Kroger](/kr-stock/), Sprouts, and other chains receptive to premium branded products. Geographically, the coasts (California, Northeast Corridor) and urban centers (Chicago, Denver, Austin) became its early strongholds. These regions overlap with liberal and younger demographics, but more fundamentally, they are regions where supermarket chains maintain extensive loyalty-program data and can recognize purchasing patterns.
 
 The company's recent distribution expansion into international markets—Canada, UK, Europe—extends the same geographic logic: affluent, environmentally aware urban consumers in advanced economies. In developing markets or rural regions where consumers prioritize price over sustainability, Beyond Meat has minimal presence.
 

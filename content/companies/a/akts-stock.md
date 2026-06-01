@@ -25,7 +25,7 @@ It doesn't. As a clinical-stage company, Aktis generates no product revenue. Cas
 
 ## What sets it apart from other radiopharmaceutical shops?
 
-Aktis' miniprotein architecture claims advantages over traditional antibodies: smaller size may improve tissue penetration and reduce off-target binding, while avoiding some immunogenicity risks. The company also operates in an uncrowded segment—radiopharmaceuticals remain niche compared to small-molecule and large-molecule oncology—and the Nectin-4 [target](/tgt-stock/) remains relatively uncontested in the radiopharmaceutical space. However, the field is moving fast; competitors pursuing different isotopes, targeting strategies, and delivery platforms are also advancing. Aktis' moat depends on data quality and clinical outcomes, not pure novelty.
+Aktis' miniprotein architecture claims advantages over traditional antibodies: smaller size may improve tissue penetration and reduce off-target binding, while avoiding some immunogenicity risks. The company also operates in an uncrowded segment—radiopharmaceuticals remain niche compared to small-molecule and large-molecule oncology—and the Nectin-4 target remains relatively uncontested in the radiopharmaceutical space. However, the field is moving fast; competitors pursuing different isotopes, targeting strategies, and delivery platforms are also advancing. Aktis' moat depends on data quality and clinical outcomes, not pure novelty.
 
 ## What would validate the bet?
 

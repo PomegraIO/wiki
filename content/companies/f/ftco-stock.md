@@ -45,7 +45,7 @@ Fortitude's reported ore reserves are estimates based on drilling, geological mo
 
 ## Production Risk and Operating Margin Volatility
 
-If Fortitude reaches production, the business faces new risks: the actual mine recovery rate may differ from projections, operational costs may exceed budget, and commodity prices may fall just as production starts (locking in loss-making economics). Mines operate in harsh environments; equipment breaks, workers are injured, environmental incidents occur. Fortitude must manage these operational risks while locked into selling gold at market prices. Many junior miners bring a mine into production only to find that economics are worse than projected.
+If Fortitude reaches production, the business faces new risks: the actual mine recovery rate may differ from projections, operational costs may exceed budget, and commodity prices may fall just as production starts (locking in loss-making economics). Mines operate in harsh environments; equipment breaks, workers are injured, environmental incidents occur. Fortitude must manage these [operational risks](/operational-risk/) while locked into selling gold at market prices. Many junior miners bring a mine into production only to find that economics are worse than projected.
 
 <div class="wiki-seealso">
 ### Closely related

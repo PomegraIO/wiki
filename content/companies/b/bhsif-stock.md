@@ -51,7 +51,7 @@ BAYHORSE's project status—what stage of permitting it is in, whether there are
 
 Like all mining projects, BAYHORSE's viability depends on whether it can mine silver at a cost below market prices with sufficient margin to cover development capital payback and operating costs. A mine with an all-in production cost of $12 per ounce is viable at $18 prices; one with a cost of $16 is marginally viable only at strong prices. Development-stage miners often have uncertain cost estimates; feasibility studies show engineering assumptions that prove wrong in operation, leading to cost overruns.
 
-BAYHORSE's latest public filings will include a technical report or feasibility study that estimates mine life, ore grade, and all-in production costs. These are engineering estimates, not operational fact. An investor should scrutinize them for conservatism or optimism bias and compare them to other recently developed silver mines' actual costs. A project whose technical report is aligned with real-world operation is more credible than one that assumes 20% better results than peers have achieved.
+BAYHORSE's latest public filings will include a technical report or feasibility study that estimates mine life, ore grade, and all-in production costs. These are engineering estimates, not operational fact. An investor should scrutinize them for conservatism or [optimism bias](/optimism-bias/) and compare them to other recently developed silver mines' actual costs. A project whose technical report is aligned with real-world operation is more credible than one that assumes 20% better results than peers have achieved.
 
 ## The Secular vs. Cyclical Timing Problem
 

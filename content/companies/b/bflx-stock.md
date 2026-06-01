@@ -45,7 +45,7 @@ Branded cannabis products—a particular strain of flower, an edible brand, a va
 
 Cannabis companies cannot access normal banking. Most banks refuse to account for cannabis companies because the federal government considers it money laundering (accepting cash from activities illegal at the federal level). This means cannabis companies operate mostly in cash, which creates security risks, accounting complexity, and barriers to scaling.
 
-Some credit unions and state-chartered banks have begun serving cannabis businesses, but at high cost. A cannabis company might pay 8 to 10 percent interest rates on loans, versus 3 to 5 percent for a conventional business. This expensive capital makes expansion difficult.
+Some credit unions and state-chartered banks have begun serving cannabis businesses, but at high cost. A cannabis company might pay 8 to 10 percent [interest rates](/interest-rate/) on loans, versus 3 to 5 percent for a conventional business. This expensive capital makes expansion difficult.
 
 Cann American, as a public company, can theoretically raise equity capital, but investors face federal legal risk. If the federal government decides to prosecute cannabis operations, shareholders could lose their entire investment. This risk is reflected in the company's stock price.
 

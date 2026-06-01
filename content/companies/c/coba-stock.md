@@ -29,7 +29,7 @@ Processing and refining also require chemical reagents, water, and skilled labor
 
 ## Spot Price Exposure and Hedging Decisions
 
-The global price of cobalt is set in commodity markets. As a producer, Chilean Cobalt is exposed to price fluctuations. When cobalt prices are high (because electric vehicle demand is booming or supply is constrained), margins widen. When prices fall (because demand slows or new supply comes online), margins compress or turn negative. The company can hedge this exposure by entering forward contracts or using financial instruments to lock in prices, but hedging is a cost and a bet—if prices rise after hedging, the company has surrendered upside.
+The global price of cobalt is set in commodity markets. As a producer, Chilean Cobalt is exposed to price fluctuations. When cobalt prices are high (because electric vehicle demand is booming or supply is constrained), margins widen. When prices fall (because demand slows or new supply comes online), margins compress or turn negative. The company can hedge this exposure by entering [forward contracts](/forward-contract/) or using financial instruments to lock in prices, but hedging is a cost and a bet—if prices rise after hedging, the company has surrendered upside.
 
 Large miners often negotiate long-term contracts with battery manufacturers or refineries, fixing prices for a portion of output. This reduces revenue volatility but at the cost of lower prices than the spot market might offer. The mix of spot sales, hedged positions, and long-term contracts is a strategic choice that affects not just profitability but [cash flow](/free-cash-flow/) predictability.
 
@@ -41,9 +41,9 @@ But this advantage is fragile. If Congo supply becomes more stable, or if other 
 
 ## Capital Intensity and Return on Investment
 
-Cobalt mining is capital-intensive. After the initial development spend, there are recurring capital expenditures to maintain the mine, upgrade processing equipment, and manage environmental and regulatory compliance. A well-managed mine can generate substantial operating margins when prices are high, but the business does not have the pricing power of a pharmaceutical company or the network effects of a software company. Returns are constrained by commodity-market conditions.
+Cobalt mining is capital-intensive. After the initial development spend, there are recurring capital expenditures to maintain the mine, upgrade processing equipment, and manage environmental and regulatory compliance. A well-managed mine can generate substantial [operating margins](/operating-margin/) when prices are high, but the business does not have the pricing power of a pharmaceutical company or the network effects of a software company. Returns are constrained by commodity-market conditions.
 
-For Chilean Cobalt to create shareholder value, it must either grow reserves (through exploration or acquisition of other assets), lower cost structure below competitors, or be acquired by a larger mining company or diversified commodity player. Standalone operation in a mature commodity market is viable but offers limited upside.
+For Chilean Cobalt to create shareholder value, it must either grow reserves (through exploration or [acquisition](/acquisition/) of other assets), lower cost structure below competitors, or be acquired by a larger mining company or diversified commodity player. Standalone operation in a mature commodity market is viable but offers limited upside.
 
 ## Environmental and Social License
 

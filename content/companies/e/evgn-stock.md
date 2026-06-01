@@ -4,7 +4,7 @@ description: "Agricultural-technology platform using AI and genomics to develop 
 keywords: ["agriculture", "biotechnology", "crop genetics", "agricultural technology", "artificial intelligence"]
 ---
 
-*Evogene Ltd. (EVGN), a [stock](/stock/) listed on NASDAQ under ticker EVGN and filing with the [SEC](/securities-and-exchange-commission/) under CIK 1574565, is an agricultural-technology company focused on using computational biology and genomic analysis to accelerate the development of improved crop varieties. The company's revenue model is hybrid: near-term licensing fees and partnerships with agrochemical and seed companies, combined with a longer-dated vision of commercializing proprietary crop varieties directly.*
+*Evogene Ltd. (EVGN), a [stock](/stock/) listed on [NASDAQ](/nasdaq/) under ticker EVGN and filing with the [SEC](/securities-and-exchange-commission/) under CIK 1574565, is an agricultural-technology company focused on using computational biology and genomic analysis to accelerate the development of improved crop varieties. The company's revenue model is hybrid: near-term licensing fees and partnerships with agrochemical and seed companies, combined with a longer-dated vision of commercializing proprietary crop varieties directly.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>EVGN</td></tr>
@@ -29,9 +29,9 @@ The company's operating expenses are primarily R&D, focused on platform developm
 
 ## Competitive Positioning and Margins
 
-Evogene competes indirectly with traditional seed companies (Corteva, Syngenta, Bayer) that develop crop varieties through conventional breeding and genetic engineering. The company also competes with other agtech platforms using AI and genomics (e.g., Ginkgo Bioworks, which has expanded into agriculture). Evogene's advantage is focused expertise in crop genetics and established partnerships with major agrochemical players. The disadvantage is that Evogene does not have direct market access or brand recognition with farmers; it is a supplier to suppliers. Farmers see the output (a seed with improved traits) but not the technology behind it.
+Evogene competes indirectly with traditional seed companies (Corteva, Syngenta, Bayer) that develop crop varieties through conventional breeding and genetic engineering. The company also competes with other agtech platforms using AI and genomics (e.g., [Ginkgo Bioworks](/dna-stock/), which has expanded into agriculture). Evogene's advantage is focused expertise in crop genetics and established partnerships with major agrochemical players. The disadvantage is that Evogene does not have direct market access or brand recognition with farmers; it is a supplier to suppliers. Farmers see the output (a seed with improved traits) but not the technology behind it.
 
-Gross margins on licensing and milestone revenue are very high—often 80%+—because the company is not producing or distributing physical products. Royalties depend on partner pricing and volume; if a partner commercializes a product derived from Evogene's work and charges a premium for it, Evogene's royalty is a small percentage of that premium. Operating margins are another matter: R&D and overhead are fixed, and without sufficient revenue, operating margins are negative. The company will not achieve operating profitability until royalty revenue from multiple commercialized products reaches critical mass.
+Gross margins on licensing and milestone revenue are very high—often 80%+—because the company is not producing or distributing physical products. Royalties depend on partner pricing and volume; if a partner commercializes a product derived from Evogene's work and charges a premium for it, Evogene's royalty is a small percentage of that premium. [Operating margins](/operating-margin/) are another matter: R&D and overhead are fixed, and without sufficient revenue, operating margins are negative. The company will not achieve operating profitability until royalty revenue from multiple commercialized products reaches critical mass.
 
 ## Development Stage and Commercialization Risk
 
@@ -39,7 +39,7 @@ Evogene is in a transition phase. The company has shifted from pure partnerships
 
 ## Geographic and Crop Exposure
 
-Evogene's partnerships and development efforts span multiple crops (wheat, corn, soy, canola, specialty crops) and geographies (Israel, US, Europe, Argentina). Diversification across crops and geographies reduces dependence on a single product or market, but also means that the company must maintain deep expertise across many domains. Agricultural commodity prices and farmer economics vary by geography and crop. A downturn in wheat prices globally or a regional crop failure could reduce farmer willingness to adopt higher-cost improved varieties, indirectly affecting partner revenue and thus Evogene's royalties.
+Evogene's partnerships and development efforts span multiple crops (wheat, corn, soy, canola, specialty crops) and geographies (Israel, US, Europe, Argentina). [Diversification](/diversification/) across crops and geographies reduces dependence on a single product or market, but also means that the company must maintain deep expertise across many domains. Agricultural commodity prices and farmer economics vary by geography and crop. A downturn in wheat prices globally or a regional crop failure could reduce farmer willingness to adopt higher-cost improved varieties, indirectly affecting partner revenue and thus Evogene's royalties.
 
 ## Capital Efficiency and Long-term Viability
 

@@ -4,7 +4,7 @@ description: "A small-cap technology firm trading under CIK 2058584; risks and d
 keywords: [DKI, technology, small-cap, emerging business, financial risk, investment]
 ---
 
-*DarkIris Inc. (DKI), a publicly traded micro-cap entity with SEC filing obligations under CIK 2058584, operates in an arena where regulatory oversight, capital scarcity, and execution risk are often the binding constraints. Unlike established technology firms that can weather pivots and margin pressure, a company at this scale lives or dies on its ability to solve a focused problem, retain customer trust, and manage its balance sheet. Prospective analysts should approach DarkIris through the lens of what could break the business, not what could make it soar.*
+*DarkIris Inc. (DKI), a publicly traded micro-cap entity with SEC filing obligations under CIK 2058584, operates in an arena where regulatory oversight, capital scarcity, and execution risk are often the binding constraints. Unlike established technology firms that can weather pivots and margin pressure, a company at this scale lives or dies on its ability to solve a focused problem, retain customer trust, and manage its [balance sheet](/balance-sheet/). Prospective analysts should approach DarkIris through the lens of what could break the business, not what could make it soar.*
 
 <aside class="wiki-infobox"><table>
 <tr><th>Ticker</th><td>DKI</td></tr>
@@ -27,7 +27,7 @@ A micro-cap technology firm typically has one of three paths to funding: venture
 
 ## Product-Market Fit Dependency
 
-For any firm in technology, the existence of product-market fit—evidence that customers want what the company builds, are willing to pay for it, and will keep paying—is foundational. Without it, no amount of capital solves the problem; with it, even a resource-constrained operation can survive. The risk for DarkIris is that the company may appear to have fit based on early customer wins or a niche segment, then discover that the market is far smaller than anticipated, that customer acquisition costs are unsustainably high, or that a larger competitor can undercut pricing and steal the niche. Public filings should reveal repeat customers, contracts, and trend lines; absence of these signals is itself a warning.
+For any firm in technology, the existence of product-market fit—evidence that customers want what the company builds, are willing to pay for it, and will keep paying—is foundational. Without it, no amount of capital solves the problem; with it, even a resource-constrained operation can survive. The risk for DarkIris is that the company may appear to have fit based on early customer wins or a niche segment, then discover that the market is far smaller than anticipated, that customer [acquisition](/acquisition/) costs are unsustainably high, or that a larger competitor can undercut pricing and steal the niche. Public filings should reveal repeat customers, contracts, and trend lines; absence of these signals is itself a warning.
 
 ## Regulatory and Compliance Hazards
 
@@ -43,4 +43,4 @@ Analysts should closely examine: cash burn rate and runway, customer concentrati
 
 ## The Fair View
 
-DarkIris trades on the public markets, which means information is available, and legal protections exist for shareholders. However, public does not mean safe, and small public does not mean liquid or stable. The company is subject to the same economic forces—recession, changing buyer preferences, new competition—as any private firm, but with the added burden of public-company compliance costs and shareholder expectations. Success is possible; risk is real and substantial.
+DarkIris trades on the public markets, which means information is available, and legal protections exist for shareholders. However, public does not mean safe, and small public does not mean liquid or stable. The company is subject to the same economic forces—[recession](/recession/), changing buyer preferences, new competition—as any private firm, but with the added burden of public-company compliance costs and shareholder expectations. Success is possible; risk is real and substantial.

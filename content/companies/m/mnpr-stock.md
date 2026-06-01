@@ -41,9 +41,9 @@ This timing pressure is invisible to outside observers but is a primary determin
 
 ## Capital Raise and Dilution Dynamics
 
-Monopar has raised capital multiple times through equity offerings, each diluting existing shareholders. The [stock](/stock/) price at the time of each raise determines the cost of capital in share dilution terms. If Monopar's trials show promise, the stock price rises and future raises are less dilutive. If trials disappoint, the stock price falls, future raises are highly dilutive, and shareholders' ownership stakes shrink even as the company persists.
+Monopar has raised capital multiple times through equity offerings, each diluting existing shareholders. The [stock](/stock/) price at the time of each raise determines the cost of capital in [share dilution](/share-dilution/) terms. If Monopar's trials show promise, the stock price rises and future raises are less dilutive. If trials disappoint, the stock price falls, future raises are highly dilutive, and shareholders' ownership stakes shrink even as the company persists.
 
-This dynamic aligns the incentives of Monopar's management with shareholders: clinical success is the primary lever on valuation. Unlike a mature pharma firm where operational efficiency or cost-cutting can move the stock, Monopar's valuation is essentially a call option on trial outcomes.
+This dynamic aligns the incentives of Monopar's management with shareholders: clinical success is the primary lever on valuation. Unlike a mature pharma firm where operational efficiency or cost-cutting can move the stock, Monopar's valuation is essentially a [call option](/call-option/) on trial outcomes.
 
 ## Contrast to MEDICINOVA and MANNKIND
 

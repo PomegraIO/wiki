@@ -17,7 +17,7 @@ keywords: ["OTC markets", "foreign company", "disclosure risk", "currency exposu
 
 Companies trading on OTC markets face significantly lower disclosure requirements than [NASDAQ](/nasdaq/) or exchange-listed firms. The SEC's regulatory framework distinguishes between reporting and non-reporting issuers: reporting issuers file quarterly 10-Qs and annual 10-Ks with detailed financial statements, risk disclosures, and executive compensation. Non-reporting OTC issuers often file minimal disclosure or voluntarily submit information that is neither audited nor standardized.
 
-BLMZF's position on the OTC market suggests limited financial reporting to the SEC, making it difficult for investors to access reliable, audited information about the company's operations, revenue, profitability, and financial position. OTC companies often do not have earnings calls, investor relations functions, or institutional research coverage—leaving public investors dependent on press releases or incomplete filings. This information void means that pricing in OTC markets is driven more by rumor, promotion, and speculation than by fundamental analysis, and bid-ask spreads are often wide, indicating illiquidity and low market confidence.
+BLMZF's position on the OTC market suggests limited financial reporting to the SEC, making it difficult for investors to access reliable, audited information about the company's operations, revenue, profitability, and financial position. OTC companies often do not have earnings calls, investor relations functions, or institutional research coverage—leaving public investors dependent on press releases or incomplete filings. This information void means that pricing in OTC markets is driven more by rumor, promotion, and speculation than by fundamental analysis, and [bid-ask spreads](/bid-ask-spread/) are often wide, indicating illiquidity and low market confidence.
 
 ## The Liquidity Trap
 
@@ -33,9 +33,9 @@ Furthermore, foreign jurisdictions may have weaker corporate-governance standard
 
 ## Currency and Foreign-Operations Risk
 
-If BLMZF operates primarily in a foreign currency or foreign jurisdiction, its reported US-dollar results will fluctuate with currency movements independent of business fundamentals. A weakening of the foreign currency relative to the US dollar will depress reported revenues and earnings even if operating performance in the local currency is stable. Additionally, if the company earns revenue in one currency but incurs costs in another, it faces translation and transaction risks that require active management.
+If BLMZF operates primarily in a foreign currency or foreign jurisdiction, its reported US-dollar results will fluctuate with currency movements independent of business fundamentals. A weakening of the foreign currency relative to the [US dollar](/us-dollar/) will depress reported revenues and earnings even if operating performance in the local currency is stable. Additionally, if the company earns revenue in one currency but incurs costs in another, it faces translation and transaction risks that require active management.
 
-Currency volatility can be extreme during periods of geopolitical stress, central-bank intervention, or shifts in capital flows. An investor in BLMZF would need to monitor not only the company's business performance but also macroeconomic and foreign-exchange developments that can overwhelm business fundamentals in the short term.
+[Currency volatility](/currency-volatility/) can be extreme during periods of geopolitical stress, central-bank intervention, or shifts in [capital flows](/capital-flows/). An investor in BLMZF would need to monitor not only the company's business performance but also macroeconomic and foreign-exchange developments that can overwhelm business fundamentals in the short term.
 
 ## Political and Regulatory Risk
 
@@ -45,7 +45,7 @@ Additionally, sanctions or geopolitical tension could restrict the company's abi
 
 ## Reverse Merger and Promotional Risk
 
-Many OTC-traded companies are the result of "reverse mergers"—transactions in which a private operating company merges with a public shell company to gain a public listing without undergoing a traditional IPO. Reverse mergers often involve less vetting by underwriters and regulators than conventional IPOs, and some have resulted in fraud or severe overstatement of business prospects.
+Many OTC-traded companies are the result of "[reverse mergers](/reverse-merger/)"—transactions in which a private operating company merges with a public shell company to gain a public listing without undergoing a traditional IPO. Reverse [mergers](/merger/) often involve less vetting by underwriters and regulators than conventional IPOs, and some have resulted in fraud or severe overstatement of business prospects.
 
 Additionally, OTC stocks are sometimes subject to "pump and dump" schemes in which promoters (often with undisclosed conflicts of interest) aggressively market a stock, drive up the price, and then sell into the demand they created. Investors who bought near the peak face substantial losses. BLMZF, as an OTC stock, could be vulnerable to such schemes, particularly if it is thinly traded and primarily followed by retail investors.
 

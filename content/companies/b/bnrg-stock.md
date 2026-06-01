@@ -45,7 +45,7 @@ In target markets (EU, Asia, others), Brenmiller must satisfy local equipment an
 
 Utilities and large industrial customers are reluctant to deploy unproven storage systems. Brenmiller typically must conduct performance testing—a monitored, often extended pilot or demonstration project—at a customer site under real operating conditions. These projects are regulatory-adjacent: utilities may require independent monitoring of performance claims, and the company must demonstrate that the system meets contracted specifications (round-trip efficiency, response time, cycling durability).
 
-Performance testing adds cost and time to customer acquisition, but it is an expected part of the commercialization cycle for novel hardware. Failing to meet performance targets in a demonstration project damages Brenmiller's market reputation and may trigger contractual disputes.
+Performance testing adds cost and time to customer [acquisition](/acquisition/), but it is an expected part of the commercialization cycle for novel hardware. Failing to meet performance targets in a demonstration project damages Brenmiller's market reputation and may trigger contractual disputes.
 
 ## Environmental Compliance and Permitting
 

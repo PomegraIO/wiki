@@ -1,0 +1,27 @@
+---
+title: "UR-Energy Inc. (URG)"
+description: "UR-Energy is a uranium mining and production company operating projects in Wyoming and Canada, positioned to serve the nuclear fuel supply chain as energy demand shifts."
+keywords:
+  - uranium mining
+  - nuclear fuel
+  - Wyoming
+  - energy production
+  - mining operations
+handwritten: true
+---
+
+UR-Energy Inc. operates as a uranium extraction company with a lean, project-focused footprint. The company controls mineral properties and processing facilities in Wyoming and Canada — two geographies that anchor its strategy differently. A uranium miner lives or dies on commodity prices, political permission, and the ability to extract ore at a cost below the market price of the material it sells. UR-Energy occupies a particular niche in that spectrum: not a megaminer with diversified commodity exposure, not a junior exploration play seeking greenfield discoveries, but a mid-stage producer with assets in known districts, working toward production decisions and asset development.
+
+The Wyoming operations centre on the Churchrock mine and the associated extraction infrastructure. Wyoming's uranium district has been mined for decades, leaving behind knowledge of ore grade, extraction costs, and permitting frameworks. The Canadian footprint includes the Lost Creek project in the Powder River Basin — technically Wyoming, but illustrative of the company's reach across North American uranium-rich areas. These are not virgin discoveries; they are known mineral bodies where the question is whether they can be developed profitably at current and foreseeable uranium prices.
+
+Uranium's price is not set by supply-and-demand alone. It tracks the course of nuclear energy policy globally. When countries commit to zero-carbon electricity — as much of Europe has done, as the United States increasingly signals — nuclear fuel demand rises. When nuclear plants age out of service faster than replacements are built, or when renewable and battery capacity satisfies demand growth, uranium demand stagnates. UR-Energy exists in that oscillation. Its assets are only valuable if uranium prices remain high enough to justify extraction costs, which means the company is exposed to policy shifts — changes in coal subsidies, shifts in nuclear policy, international commitments around carbon reduction — as directly as any energy company can be.
+
+The company's operating model is capital-intensive in fits and starts. Bringing a uranium mine into production requires upfront capital for site preparation, extraction equipment, processing facilities, and regulatory approval — costs that must be borne before a single pound of uranium ships. Once operational, margins hinge on the commodity price relative to extraction costs. A $30-per-pound uranium price and a $20-per-pound cost per unit leaves room for overhead and returns; if the price falls to $25, the economics collapse. UR-Energy must therefore manage both the obvious [operational risk](/operational-risk/) — can we extract ore cost-effectively? — and the commodity-price risk that can wipe out profitability overnight.
+
+The permitting and regulatory environment adds another layer. Uranium mining and processing in the United States requires approval from the Nuclear Regulatory Commission, state environmental authorities, and often county governments. Approvals can take years and are subject to political pressure. Indigenous peoples and environmental advocates scrutinize uranium projects closely given the industry's legacy of contamination and the long-lived hazard of tailings. UR-Energy must navigate these relationships not as a distant shareholder but as an on-the-ground operator accountable to local communities.
+
+Geographically, both Wyoming and Canada are established uranium districts with existing regulatory frameworks and mining expertise. Wyoming especially has decades of uranium production history — the Powder River Basin is the site of the largest uranium reserve in the United States. That history is a mixed asset: it provides knowable geology and experienced labor, but it also leaves behind the memory of boom-and-bust, environmental damage, and mine closures. A new company entering that landscape must prove it can operate responsibly and profitably in ways the predecessors did not.
+
+The company's competitive position is thin. It is not the largest uranium miner globally — that role belongs to bigger diversified miners and state-owned enterprises. It does not control the largest reserves. What it does hold is optionality: assets that become valuable if and when uranium prices justify development. That bet is essentially a wager on nuclear energy's role in the global energy transition.
+
+Understanding UR-Energy requires tracking uranium prices — observed on commodity exchanges and in long-term contracting — and the company's cost structures for each project. The [annual report](/10-k/) (SEC CIK 0001375205) discloses reserves, expected mining costs, and capital requirements. Management commentary on the timing of production decisions, any offtake agreements with utilities, and changes to extraction-cost estimates reveal how the company views its own economics. The uranium market's supply-demand balance — driven by reactor additions and retirements, decommissioning rates at aging plants, and government spending on advanced reactors — sets the broader backdrop for any UR-Energy investment thesis.

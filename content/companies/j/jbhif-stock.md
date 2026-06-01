@@ -53,11 +53,11 @@ Australian electronics retail is intensely price-competitive. Major retailers (J
 
 This creates margin pressure. JB Hi-Fi must price competitively on headline products (TVs, laptops) to drive store traffic, then rely on higher-margin services and accessories to achieve overall profitability. But if customers showroom (look in-store, buy online) in increasing numbers, the store footprint becomes a cost burden rather than an advantage.
 
-JB Hi-Fi also faces direct competition from manufacturers and distributors selling direct. Samsung, Apple, and other brands sell directly online and through their own retail stores. This cuts out the middleman and reduces prices. JB Hi-Fi loses the margin and must compete for volume.
+JB Hi-Fi also faces direct competition from manufacturers and distributors selling direct. Samsung, [Apple](/aapl-stock/), and other brands sell directly online and through their own retail stores. This cuts out the middleman and reduces prices. JB Hi-Fi loses the margin and must compete for volume.
 
 ## Cyclicality and Discretionary Spending
 
-Consumer electronics are discretionary purchases. In recessions, consumers delay upgrades—they keep their old TV or laptop longer. This creates significant revenue and profit volatility.
+Consumer electronics are discretionary purchases. In [recessions](/recession/), consumers delay upgrades—they keep their old TV or laptop longer. This creates significant revenue and profit volatility.
 
 JB Hi-Fi's profitability is therefore cyclically sensitive. In booms, when consumers have excess income and upgrade technology frequently, JB Hi-Fi's sales and margins rise. In recessions, sales fall and margins compress as the company competes harder to maintain volume.
 

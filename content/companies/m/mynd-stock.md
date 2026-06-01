@@ -4,7 +4,7 @@ description: "Telehealth platform and behavioral health provider delivering virt
 keywords: ["telehealth", "behavioral health", "psychiatry", "mental health treatment", "employee benefits", "digital mental healthcare"]
 ---
 
-*Mynd.ai is a digital behavioral health provider that delivers psychiatric treatment and therapy over video and messaging. Trading as **MYND** on the NASDAQ and registered with the SEC under CIK 1708441, Mynd operates in the fragmented U.S. mental healthcare market, where access to psychiatrists is constrained, wait times are long, and employers are eager to find cost-effective solutions for their employees.*
+*Mynd.ai is a digital behavioral health provider that delivers psychiatric treatment and therapy over video and messaging. Trading as **MYND** on the [NASDAQ](/nasdaq/) and registered with the SEC under CIK 1708441, Mynd operates in the fragmented U.S. mental healthcare market, where access to psychiatrists is constrained, wait times are long, and employers are eager to find cost-effective solutions for their employees.*
 
 <aside class="wiki-infobox">
 <table>
@@ -28,11 +28,11 @@ The unit economics work because Mynd's psychiatrists and therapists operate at h
 
 ## Market Position and Competitive Environment
 
-The telehealth mental health market expanded rapidly after the COVID-19 pandemic loosened reimbursement rules for remote psychiatric care. Other players include Teladoc Health, Talkspace, BetterHelp (privately held), and Ginger (acquired by Headspace). Each player has different positioning: some emphasize therapy over psychiatry, others target consumers rather than employers, some operate as standalone apps.
+The telehealth mental health market expanded rapidly after the COVID-19 pandemic loosened reimbursement rules for remote psychiatric care. Other players include [Teladoc Health](/tdoc-stock/), Talkspace, BetterHelp (privately held), and Ginger (acquired by Headspace). Each player has different positioning: some emphasize therapy over psychiatry, others target consumers rather than employers, some operate as standalone apps.
 
 Mynd differentiated early by focusing on psychiatry—the harder-to-access specialty—and by prioritizing employer relationships. Employers value Mynd because psychiatry is the scarcest resource in mental healthcare and the most expensive component. A company struggling to manage stress and depression across its workforce is willing to pay for direct psychiatric access.
 
-However, the market is increasingly crowded. Large healthcare incumbents like CVS Health and Amazon have launched telehealth platforms. Insurance companies are now directing patients to in-network telehealth providers. Mynd must defend its position by maintaining network quality (clinician satisfaction and availability) and demonstrating that its customers see fewer days of lost productivity due to mental illness.
+However, the market is increasingly crowded. Large healthcare incumbents like [CVS Health](/cvs-stock/) and Amazon have launched telehealth platforms. Insurance companies are now directing patients to in-network telehealth providers. Mynd must defend its position by maintaining network quality (clinician satisfaction and availability) and demonstrating that its customers see fewer days of lost productivity due to mental illness.
 
 ## Clinician Economics and Scaling Challenges
 
@@ -70,7 +70,7 @@ Look for Mynd's publicly available clinical outcomes. If Mynd publishes studies 
 <h3>Wider context</h3>
 <ul>
 <li>Telehealth reimbursement and federal coverage policy</li>
-<li><a href="/income-statement/">Income statement</a> analysis for subscription-based models</li>
+<li><a href="/income-statement/">[Income statement](/income-statement/)</a> analysis for subscription-based models</li>
 <li>Employer-sponsored healthcare and benefits trends</li>
 </ul>
 </div>

@@ -24,7 +24,7 @@ Even if a candidate reaches efficacy in trials, regulatory approval is not guara
 
 ## Funding and Cash Runway Dependency
 
-Clinical-stage biotechs burn cash and do not generate offsetting revenue. **CLYM** must regularly raise capital—through equity offerings, debt financing, or partnerships—to fund ongoing trials, manufacturing scale-up, and operations. This creates funding risk: if capital markets deteriorate, investor appetite for biotech wanes, or **CLYM**'s clinical data disappoints, the company may struggle to raise capital at acceptable terms. Equity dilution from repeated capital raises erodes shareholder value; debt issuance adds fixed obligations and refinancing risk. If **CLYM** cannot raise capital, it must reduce spending, delay trials, or cease operations entirely. The window between a failed trial and the next capital raise is precarious.
+Clinical-stage biotechs burn cash and do not generate offsetting revenue. **CLYM** must regularly raise capital—through equity offerings, [debt financing](/debt-financing/), or partnerships—to fund ongoing trials, manufacturing scale-up, and operations. This creates funding risk: if capital markets deteriorate, investor appetite for biotech wanes, or **CLYM**'s clinical data disappoints, the company may struggle to raise capital at acceptable terms. Equity dilution from repeated capital raises erodes shareholder value; debt issuance adds fixed obligations and [refinancing risk](/refinancing-risk/). If **CLYM** cannot raise capital, it must reduce spending, delay trials, or cease operations entirely. The window between a failed trial and the next capital raise is precarious.
 
 ## Competition and Patent Landscape
 

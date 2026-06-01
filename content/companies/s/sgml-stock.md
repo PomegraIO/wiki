@@ -1,0 +1,32 @@
+---
+title: "Sigma Lithium Corp (SGML)"
+description: "Sigma Lithium is a lithium producer developing open-pit and brine mining operations in Brazil, supplying battery-grade lithium carbonate to EV manufacturers and battery makers downstream."
+keywords:
+  - lithium mining
+  - battery materials
+  - electric vehicles
+  - lithium carbonate
+  - resource extraction
+  - Brazil operations
+handwritten: true
+---
+
+Sigma Lithium is a hard-rock and brine lithium producer based in Canada but operating mineral assets primarily in Brazil. The company extracts lithium, the alkali metal essential to rechargeable batteries, from mineral deposits in the Araçuaí Valley region and processes it into battery-grade products sold to electric-vehicle manufacturers, battery makers, and other industrial customers. The stock trades on the [NASDAQ](/nasdaq/) under SGML and on the TSX under SGML.TO.
+
+Lithium occupies an unusual position in the energy transition. It is not energy itself, but without it, the batteries that store electric energy cannot exist at scale. Every EV battery, every grid-scale storage system, and every portable device powered by a rechargeable cell requires lithium. That dependence makes lithium mining a chokepoint. Global EV capacity is expanding faster than lithium supply can keep pace, and the EV industry's demand for the metal has grown from a niche industrial use to the dominant end market in less than two decades.
+
+Sigma's upstream assets are its mining concessions — the geological right to extract lithium from the ground. The company owns and operates open-pit mines and is developing brine deposits. Open-pit spodumene mining (spodumene is a lithium-bearing mineral) is capital-intensive but straightforward: dig, crush, process, and refine. Brine extraction, where lithium is dissolved in saltwater reservoirs and evaporated into ponds, is slower but requires less processing. Both methods depend on proximity to the ore, on water availability for processing, and on local permitting and environmental acceptance. Sigma's Araçuaí deposits in Minas Gerais state, Brazil, are among the world's largest hard-rock lithium resources, but bringing them to production requires tens of billions of reais in capital, years of permitting, and sustained technical execution.
+
+The downstream end of Sigma's supply chain is battery makers and EV manufacturers. Lithium producers like Sigma are commodity suppliers — they convert ore into pure lithium or lithium compounds (most commonly lithium carbonate or lithium hydroxide) and sell them at a price negotiated in the market or locked into long-term contracts. The more successful miners lock in supply contracts with large offtakers, reducing price risk and securing demand certainty. Sigma has worked to sign long-term agreements with battery makers and EV OEMs. A long-term contract means steady volumes at a known price; without it, producers are exposed to lithium price swings, which have been volatile.
+
+The lithium market itself is a study in scarcity and timing. Lithium is produced by a handful of large miners scattered across Australia, Chile, Argentina, and China, plus smaller producers including Sigma. When EV demand surged between 2020 and 2022, lithium prices spiked as battery makers rushed to secure supply. Prices fell again as new production came online and near-term EV growth moderated. Sigma benefits from periods of price strength but faces headwinds during periods of weakness. The company's capital plan depends on sustained strong economics; if lithium prices collapse, project returns fall, and financing becomes harder to arrange.
+
+Brazil as a jurisdiction offers advantages and risks. The country has abundant water, stable geology in the right regions, and a relatively developed supply chain for mining and processing. But Brazil also has complex environmental regulations, periodic political uncertainty, and infrastructure gaps compared to established mining regions. Sigma must navigate permitting processes that can be slow and unpredictable. [Currency risk](/currency-risk/) is another factor: Sigma is a Canadian company with costs in Brazilian reais and prices often denominated in [US dollars](/us-dollar/), so exchange-rate moves affect profitability.
+
+The company's business model is to develop its ore reserves into producing mines, sell the output on long-term contracts at a margin above cash costs, and reinvest or return excess cash to shareholders. Like all miners, Sigma operates on the capital intensity of extractive industry — bringing a deposit to production requires billions in upfront spending before a dollar of revenue materializes. Financing that capital spend in the face of commodity-price uncertainty is the core strategic challenge. [Debt financing](/debt-financing/) locks in the cost of capital but requires steady cash flow to service; [equity financing](/equity-financing/) dilutes existing shareholders but does not require fixed payments.
+
+For equity investors, Sigma is a leverage-to-commodity-price play. If lithium demand stays strong and prices remain elevated, Sigma's large resource base should translate into years of high-margin production, and shares could deliver outsized returns. If EV demand disappoints or lithium supply overshoots demand, prices could fall, and the company's project returns would deteriorate — potentially triggering writedowns or strategic shifts. The equity risk is real, and it is rooted in the uncertainty of commodity cycles.
+
+## How to research Sigma Lithium
+
+Start with the company's 10-K (SEC CIK 0001848309) and quarterly reports, which detail the resource base, the capital plans, and the signed contracts. The company's investor presentations break down the Araçuaí deposits and the path to production. Lithium spot prices and contract prices are published by speciality market-data services; understanding the price environment is essential to assessing project economics. Watch lithium-industry reports from banks and specialist consultancies, which model supply and demand and often issue outlooks on future prices. For context, the International Energy Agency and Bloomberg publish regular lithium supply and demand forecasts, invaluable for understanding the market backdrop. Any investor in a junior miner should understand the permitting and financing timeline — Sigma's biggest near-term risk is that permitting takes longer than expected, compressing the window in which to secure financing before market conditions shift.

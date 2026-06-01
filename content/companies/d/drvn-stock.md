@@ -10,7 +10,7 @@ keywords:
   - service-location
 ---
 
-*Driven Brands Holdings Inc. (DRVN), with SEC filings under [CIK 1804745](/), is a holding company and franchisor of vehicle-care service brands. The company operates primarily through Mister Car Wash, a leading US car wash chain, and AAMCO, an automotive repair franchise network. Driven Brands' core revenue model is franchising: the corporate entity owns or franchises out operating locations, collects royalties on franchisee revenue, and earns service fees. The per-location unit economics determine overall profitability and growth capacity.*
+*Driven Brands Holdings Inc. (DRVN), with SEC filings under [CIK 1804745](/), is a holding company and franchisor of vehicle-care service brands. The company operates primarily through [Mister Car Wash](/mcw-stock/), a leading US car wash chain, and AAMCO, an automotive repair franchise network. Driven Brands' core revenue model is franchising: the corporate entity owns or franchises out operating locations, collects royalties on franchisee revenue, and earns service fees. The per-location unit economics determine overall profitability and growth capacity.*
 
 ## The Franchisee Revenue Model
 
@@ -18,7 +18,7 @@ Driven Brands' unit of analysis is the individual car wash or AAMCO service loca
 
 The cost structure of a car wash location is primarily fixed and variable equipment costs plus labor. A basic wash bay with automated equipment costs $500,000 to $1.5 million to build and install. Labor—washers, customer service staff, managers—represents the largest variable cost. A location needs 8 to 15 full-time or part-time employees, depending on shift coverage and transaction volume. Annual labor costs can run $300,000 to $800,000. Utilities, water, chemicals, and maintenance run $100,000 to $200,000 per year. Rent or mortgage on the real estate is another major fixed cost.
 
-For a franchisee-owned location, the unit economics work roughly as follows: $1.5 million in annual revenue minus $500,000 to $700,000 in labor, $150,000 in utilities and supplies, $200,000 in rent, leaves operating profit of perhaps $150,000 to $400,000, or a 10% to 25% operating margin. That profit must cover debt service on any borrowing used to build the location, and return on the franchisee's invested capital. The economics are reasonable but not spectacular, which is why franchising is attractive: a franchisee operates the location and bears the operational risk; Driven Brands collects royalties and systems fees with minimal operational overhead.
+For a franchisee-owned location, the unit economics work roughly as follows: $1.5 million in annual revenue minus $500,000 to $700,000 in labor, $150,000 in utilities and supplies, $200,000 in rent, leaves operating profit of perhaps $150,000 to $400,000, or a 10% to 25% [operating margin](/operating-margin/). That profit must cover debt service on any borrowing used to build the location, and return on the franchisee's invested capital. The economics are reasonable but not spectacular, which is why franchising is attractive: a franchisee operates the location and bears the [operational risk](/operational-risk/); Driven Brands collects royalties and systems fees with minimal operational overhead.
 
 ## The Franchisor's Margin Stack
 
@@ -30,7 +30,7 @@ Driven Brands' aggregate revenue is the sum of royalties and fees from all franc
 
 The unit economics of a single car wash location are heavily influenced by real estate. A high-traffic corner with 15,000 to 20,000 vehicles per day passing nearby can support a car wash that serves 1,000+ vehicles daily. A strip mall location with 5,000 daily passersby might support only 300-400 daily washes. Rent is lower for secondary locations but the revenue ceiling is lower too. A prime location with $300,000 annual rent might gross $3 million in revenue; a secondary location with $100,000 rent might gross $800,000.
 
-Driven Brands' strategy for location growth depends on identifying real estate parcels where the unit economics work. The company must balance franchisee profitability (locations need to earn enough to attract qualified operators) against its own royalty economics (lower rent means lower absolute royalty dollars). The real estate market directly affects Driven Brands' growth rate and profitability. In markets where commercial real estate is expensive, the spread between revenue and rent narrows, making unit economics tighter for franchisees and lowering franchisee demand for new locations.
+Driven Brands' strategy for location growth depends on identifying real estate parcels where the unit economics work. The company must balance franchisee profitability (locations need to earn enough to attract qualified operators) against its own royalty economics (lower rent means lower absolute royalty dollars). The real estate market directly affects Driven Brands' growth rate and profitability. In markets where [commercial real estate](/commercial-real-estate/) is expensive, the spread between revenue and rent narrows, making unit economics tighter for franchisees and lowering franchisee demand for new locations.
 
 ## Membership Subscriptions and Gross Margin
 

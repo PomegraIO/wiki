@@ -4,7 +4,7 @@ description: "A diversified hedge fund offering liquid alternative returns, comb
 keywords: [hedge-fund, alternatives, diversification, capital-structure, systematic, cycles]
 ---
 
-*Alternative investment structures like **MAN AHL DIVERSIFIED I LP (MADL)** occupy a peculiar position in financial markets: their returns reflect the performance of hundreds of underlying securities and strategies, yet the very fact that investors demand them as a portfolio diversifier is itself both cyclical and structural. When stocks and bonds are correlated and volatile, allocators flee to alternatives. When everything is calm, the bid for alternatives fades. Yet the decades-long structural shift toward passive indexing and systematic risk-factor strategies has created a durable constituency for diversified hedge vehicles.*
+*Alternative investment structures like **MAN AHL DIVERSIFIED I LP (MADL)** occupy a peculiar position in financial markets: their returns reflect the performance of hundreds of underlying securities and strategies, yet the very fact that investors demand them as a portfolio diversifier is itself both cyclical and structural. When stocks and [bonds](/bond/) are correlated and volatile, allocators flee to alternatives. When everything is calm, the bid for alternatives fades. Yet the decades-long structural shift toward passive indexing and systematic risk-factor strategies has created a durable constituency for diversified hedge vehicles.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MADL</td></tr>
@@ -16,11 +16,11 @@ keywords: [hedge-fund, alternatives, diversification, capital-structure, systema
 
 ## The Tactical Hedge Cycle
 
-MADL's performance and asset base move in a pattern distinct from but related to broader market cycles. When equity and bond markets are highly correlated—both rising or both falling in tandem—diversification value collapses and hedge funds underperform. Investors who believed they had non-correlated assets discover instead that correlation spikes to near-unity in market stress. This drives redemptions and outflows from funds like MADL.
+MADL's performance and asset base move in a pattern distinct from but related to broader market cycles. When equity and bond markets are highly correlated—both rising or both falling in tandem—[diversification](/diversification/) value collapses and [hedge funds](/hedge-fund/) underperform. Investors who believed they had non-correlated assets discover instead that correlation spikes to near-unity in market stress. This drives redemptions and outflows from funds like MADL.
 
 When markets fragment—equities stable but bonds volatile, or sectors moving independently—the correlation between traditional asset classes falls, and strategies that exploit these uncorrelated pockets of return suddenly outperform. This drives inflows. The cycle of correlation expansion and contraction is real and measurable, and MADL's asset inflows and performance are tightly coupled to it.
 
-This tactical cycle is a feature of every market regime. In inflation, volatility rises and dispersion increases; hedge strategies that profit from dispersion shine. In disinflation, correlations tighten and mean-reversion strategies prevail. MADL's diversified portfolio of systematic and discretionary strategies is designed to capture returns across multiple regimes, but this also means its returns will be volatile and regime-dependent.
+This tactical cycle is a feature of every market regime. In [inflation](/inflation/), volatility rises and dispersion increases; hedge strategies that profit from dispersion shine. In [disinflation](/disinflation/), correlations tighten and mean-reversion strategies prevail. MADL's diversified portfolio of systematic and discretionary strategies is designed to capture returns across multiple regimes, but this also means its returns will be volatile and regime-dependent.
 
 ## The Secular Shift Toward Systematic Alternatives
 
@@ -32,7 +32,7 @@ MADL benefits from this structural shift. Its existence as a publicly listed fun
 
 ## Cost, Fees, and the Performance Cycle
 
-Hedge funds and alternative vehicles face a persistent structural headwind: fee erosion. The rise of passive indexing has reduced the amount of excess return expected to justify active management fees. A traditional hedge fund charging 2% management fees and 20% performance fees must now generate returns above index funds that cost 0.05% annually. This is structurally harder than it was 20 years ago when the performance bar was lower.
+Hedge funds and alternative vehicles face a persistent structural headwind: fee erosion. The rise of passive indexing has reduced the amount of excess return expected to justify active [management fees](/management-fee/). A traditional hedge fund charging 2% management fees and 20% [performance fees](/performance-fee/) must now generate returns above index funds that cost 0.05% annually. This is structurally harder than it was 20 years ago when the performance bar was lower.
 
 For MADL, this means that the value proposition must rest not on absolute returns—which are not guaranteed—but on diversification and downside protection relative to traditional 60/40 portfolios. When this value manifests (periods of high equity volatility, credit stress, or geopolitical shock), MADL attracts capital and its premium is earned. When everything is calm and correlated, the strategy underperforms and capital flees.
 
@@ -48,7 +48,7 @@ This creates an inverted return profile for asset managers: they are largest and
 
 MADL is diversified by design—it likely holds positions across long equities, short equities, macro strategies, trend-following, mean-reversion, and event-driven tactics. This diversification is its structural advantage. No single regime or strategy dominates returns. But diversification also means that in any given year, the fund will underperform the best-performing segment. An investor who could have timed perfectly into pure momentum long equity strategies every year would beat MADL by definition. The cost of diversification is the foregoing of concentrated bets.
 
-Over a full cycle—which might span 7–10 years through expansion, slowdown, crisis, and recovery—MADL's diversification tends to reduce drawdowns and volatility relative to pure equity index funds. Over a 3-year bull market, it will lag equities. The structural value of MADL is to those investors with 10+ year horizons who prioritize volatility management over return maximization.
+Over a full cycle—which might span 7–10 years through expansion, slowdown, crisis, and recovery—MADL's diversification tends to reduce drawdowns and volatility relative to pure equity index funds. Over a 3-year [bull market](/bull-market/), it will lag equities. The structural value of MADL is to those investors with 10+ year horizons who prioritize volatility management over return maximization.
 
 ## The Liquidity Assumption
 

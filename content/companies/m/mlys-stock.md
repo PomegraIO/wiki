@@ -25,7 +25,7 @@ Mineralys operates with limited assets beyond its intellectual property and clin
 
 ## Equity as the Primary Lever
 
-Unlike established pharmaceuticals with steady cash generation and [dividend](/dividend/) capacity, Mineralys compensates its capital providers through share appreciation and—theoretically—a liquidity event (acquisition or successful IPO exit). The [share-buyback](/share-buyback/) programs seen in mature healthcare are impossible here; every dollar is committed to R&D. The company's [earnings-per-share](/earnings-per-share/) metric is irrelevant—Mineralys is unlikely to be profitable for years—so equity value tracks clinical momentum, regulatory feedback, and competitive positioning in ion channels, not trailing earnings multiples. This makes the stock highly volatile and sensitive to binary news: a successful Phase 1 readout can double the share price; a terminated program can halve it.
+Unlike established pharmaceuticals with steady cash generation and [dividend](/dividend/) capacity, Mineralys compensates its capital providers through share appreciation and—theoretically—a liquidity event ([acquisition](/acquisition/) or successful IPO exit). The [share-buyback](/share-buyback/) programs seen in mature healthcare are impossible here; every dollar is committed to R&D. The company's [earnings-per-share](/earnings-per-share/) metric is irrelevant—Mineralys is unlikely to be profitable for years—so equity value tracks clinical momentum, regulatory feedback, and competitive positioning in ion channels, not trailing [earnings multiples](/earnings-multiple/). This makes the stock highly volatile and sensitive to binary news: a successful Phase 1 readout can double the share price; a terminated program can halve it.
 
 ## Partnerships as Capital Substitutes
 
@@ -37,7 +37,7 @@ The typical exit for a biotech like Mineralys comes in three forms: acquisition 
 
 ## Capital Intensity and Time Horizon Misalignment
 
-A clinical program from first-in-human to regulatory approval spans 7–10 years and costs $500 million to $2 billion industry-wide. Mineralys must raise capital every 18–24 months, aligning its financing calendar to near-term clinical events, not the true underlying program timelines. This creates perpetual dilution pressure: shareholders agree to lower ownership percentages with each round to fund the next tranche of preclinical or clinical work. The [balance-sheet](/balance-sheet/) tells the story of this grinding dilution—share count rises, per-share book value falls, and net cash (if any remains) shrinks as the company burns through raised capital.
+A clinical program from first-in-human to regulatory approval spans 7–10 years and costs $500 million to $2 billion industry-wide. Mineralys must raise capital every 18–24 months, aligning its financing calendar to near-term clinical events, not the true underlying program timelines. This creates perpetual dilution pressure: shareholders agree to lower ownership percentages with each round to fund the next [tranche](/tranche/) of preclinical or clinical work. The [balance-sheet](/balance-sheet/) tells the story of this grinding dilution—share count rises, per-share book value falls, and net cash (if any remains) shrinks as the company burns through raised capital.
 
 ## Valuation Disconnect from Traditional Metrics
 

@@ -4,7 +4,7 @@ description: "An optical sensor and laser-scanning hardware company whose foundi
 keywords: [optical-sensor, display-technology, lidar, augmented-reality, hardware-startup]
 ---
 
-*MVIS carries the particular burden of the technology pioneer: a long history of pursuing markets that theorists insisted were inevitable but customers did not yet want. **MICROVISION, INC.** (ticker **MVIS**, [SEC CIK 65770](/10-k/)) was founded to build micro-optics and heads-up display systems for military and consumer applications. The company spent the 1990s and 2000s betting on wearable display technology—augmented reality for soldiers, then for civilians—but the market timing proved merciless. Years of R&D and pivots later, MVIS shifted toward lidar and sensor solutions for autonomous vehicles and 3D scanning, territories that remain commercial but hard-fought.*
+*MVIS carries the particular burden of the technology pioneer: a long history of pursuing markets that theorists insisted were inevitable but customers did not yet want. **MICROVISION, INC.** (ticker **MVIS**, [SEC CIK 65770](/10-k/)) was founded to build micro-optics and heads-up display systems for military and consumer applications. The company spent the 1990s and 2000s betting on wearable display technology—augmented reality for soldiers, then for civilians—but the [market timing](/market-timing/) proved merciless. Years of R&D and pivots later, MVIS shifted toward lidar and sensor solutions for autonomous vehicles and 3D scanning, territories that remain commercial but hard-fought.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MVIS</td></tr>

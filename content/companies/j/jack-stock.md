@@ -35,13 +35,13 @@ The system is most resilient when input costs (beef, bread, dairy, labor) are st
 
 ## Location Control and Brand Consistency
 
-The franchisee network is geographically concentrated in the western United States, reflecting historical footprint. This concentration creates positive and negative effects. Positively, Jack in the Box maintains cultural and operational cohesion—franchisees operate in a region where the brand is established and has greater pricing power. Negatively, the company has limited geographic diversification; a regional recession or regional competitor gain (In-N-Out Burger, for example) threatens a larger portion of the network.
+The franchisee network is geographically concentrated in the western United States, reflecting historical footprint. This concentration creates positive and negative effects. Positively, Jack in the Box maintains cultural and operational cohesion—franchisees operate in a region where the brand is established and has greater pricing power. Negatively, the company has limited geographic [diversification](/diversification/); a regional [recession](/recession/) or regional competitor gain (In-N-Out Burger, for example) threatens a larger portion of the network.
 
 The company maintains brand consistency through rigorous operational standards: approved suppliers, menu specifications, labor policies, and customer-facing appearance. Franchisees must invest in this compliance. A franchisee that deviates—sourcing cheaper inputs, modifying the menu, or cutting labor—risks brand damage and eventual termination. Jack in the Box's enforcement capacity is strong because the franchisee's business model depends entirely on the brand license.
 
 ## The Capital Efficiency Trade-off
 
-From Jack in the Box's perspective, the franchise model is capital-efficient: franchisees fund the build-out of new locations and absorb day-to-day operational risk. The company itself directly operates only a fraction of its estate, focusing capital on high-performing or strategically important locations. This contrasts with competitors like McDonald's, which owns a much larger proportion of real estate.
+From Jack in the Box's perspective, the franchise model is capital-efficient: franchisees fund the build-out of new locations and absorb day-to-day [operational risk](/operational-risk/). The company itself directly operates only a fraction of its estate, focusing capital on high-performing or strategically important locations. This contrasts with competitors like McDonald's, which owns a much larger proportion of real estate.
 
 However, capital efficiency comes with operational fragility. The company has less direct control over service quality, menu execution, and local customer experience than an integrated operator would have. A cluster of poor franchisee experiences can damage brand equity system-wide, and the company's ability to course-correct is limited by franchisee autonomy. Franchisees that are marginally profitable or failing may resist reinvestment or innovation mandates.
 
@@ -59,8 +59,8 @@ New franchisees must be willing to pay Jack in the Box's franchise fees (initial
 
 ## Leverage and Shareholder Returns
 
-Jack in the Box has historically used debt to fund share buybacks and dividends, returning capital to shareholders by leveraging the stable royalty cash flow. This is sustainable as long as franchisees remain profitable enough to maintain their payments. Economic downturns, wage inflation, or food cost spikes that compress franchisee margins create pressure on the company's ability to service debt if franchisees default or exit en masse.
+Jack in the Box has historically used debt to fund [share buybacks](/share-buyback/) and [dividends](/dividend/), returning capital to shareholders by leveraging the stable royalty cash flow. This is sustainable as long as franchisees remain profitable enough to maintain their payments. Economic downturns, wage [inflation](/inflation/), or food cost spikes that compress franchisee margins create pressure on the company's ability to service debt if franchisees default or exit en masse.
 
 ## Research Anchors
 
-Readers examining Jack in the Box should review its [10-K](/10-k/) (CIK in this entry) for disclosure of franchisee count trends, same-unit sales growth, average unit volumes, and royalty per unit. Increasing franchisee exits or declining average unit volumes signal system stress. Debt levels and leverage ratios reveal the company's dependence on continued royalty cash flow.
+Readers examining Jack in the Box should review its [10-K](/10-k/) (CIK in this entry) for disclosure of franchisee count trends, same-unit sales growth, average unit volumes, and royalty per unit. Increasing franchisee exits or declining average unit volumes signal system stress. Debt levels and [leverage ratios](/leverage-ratio-forex/) reveal the company's dependence on continued royalty cash flow.

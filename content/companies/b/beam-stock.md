@@ -39,7 +39,7 @@ This meant the company inherited both credibility and constraint. The credibilit
 
 As Beam matured, the founding thesis evolved but held. The company began to explore in vivo base editing—trying to edit cells inside the body rather than in the lab, a far more challenging undertaking but one that could eventually reach common diseases. It partnered with larger pharma companies to expand its pipeline and capital base. It refined the science based on early clinical data, sometimes doubling down on aspects of the platform that worked better than predicted.
 
-Yet the company remained defined by its origin: a platform born from academic discovery, founded by people who had spent years proving a principle, and committed to taking that principle into patients with genetic disease. Where other gene-therapy companies grew by acquisition or breadth, Beam grew by deepening its mastery of a single, precise tool.
+Yet the company remained defined by its origin: a platform born from academic discovery, founded by people who had spent years proving a principle, and committed to taking that principle into patients with genetic disease. Where other gene-therapy companies grew by [acquisition](/acquisition/) or breadth, Beam grew by deepening its mastery of a single, precise tool.
 
 ## A Wager on Precision
 

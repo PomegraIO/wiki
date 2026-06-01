@@ -28,7 +28,7 @@ The clinical case for adoption rests on a straightforward logic: approximately 3
 
 ## Cost and Revenue Dynamics
 
-Heartflow charges per case, with pricing typically ranging between $200 and $500 per analysis depending on contract terms and institutional volume. A major cardiac center might process hundreds of cases annually; a solo cardiologist's office might process a handful. The company's gross margins are high because marginal processing cost is minimal once the cloud infrastructure is in place. However, the customer acquisition cost is steep: building clinical credibility, navigating hospital procurement, and securing reimbursement take time and effort.
+Heartflow charges per case, with pricing typically ranging between $200 and $500 per analysis depending on contract terms and institutional volume. A major cardiac center might process hundreds of cases annually; a solo cardiologist's office might process a handful. The company's gross margins are high because marginal processing cost is minimal once the cloud infrastructure is in place. However, the customer [acquisition](/acquisition/) cost is steep: building clinical credibility, navigating hospital procurement, and securing reimbursement take time and effort.
 
 Reimbursement from [insurers](/bond/) and [Medicare](/price-to-book-ratio/) is a critical operational constraint. In the United States, private payers and Medicare have gradually added reimbursement codes that cover Heartflow analysis. This expansion broadens the addressable market because institutions can now bill for the service rather than absorbing the cost. Internationally, reimbursement varies widely. European hospitals may reimburse; other regions have no clear pathway to payment, limiting market penetration.
 

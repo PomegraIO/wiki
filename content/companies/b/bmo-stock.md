@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Bank of Montreal is one of Canada's oldest and largest financial institutions, with roots stretching back to 1817. It operates as a diversified bank serving three principal customer sets: individual consumers and small businesses, mid-market and large commercial clients, and institutional investors and high-net-worth individuals. The company's stock trades on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and on the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker BMO, and it ranks among the largest banks in North America by asset base.
+Bank of Montreal is one of Canada's oldest and largest [financial institutions](/fisi-stock/), with roots stretching back to 1817. It operates as a diversified bank serving three principal customer sets: individual consumers and small businesses, mid-market and large commercial clients, and institutional investors and high-net-worth individuals. The company's stock trades on the [Toronto Stock Exchange](/toronto-stock-exchange/) (TSX) and on the [New York Stock Exchange](/new-york-stock-exchange/) (NYSE) under the ticker BMO, and it ranks among the largest banks in North America by asset base.
 
 <aside class="wiki-infobox">
 <table>

@@ -18,7 +18,7 @@ keywords: ["mobility", "transportation", "shared economy", "logistics", "micro-c
 
 E-commerce and on-demand delivery have created explosive demand for last-mile logistics—the final hop from a regional hub to a customer's door. This segment has proven extremely difficult to make profitable at scale. UberEats, DoorDash, and Amazon Flex aggregate demand and distribute it across networks of drivers and couriers, but the cost structure is brutal: driver wages, insurance, vehicle wear, and platform overhead often exceed the per-delivery margin, particularly in lower-density areas.
 
-Mobility Global operates in this terrain as a niche player. Rather than attempt national platform density, the company focuses on specific metropolitan areas or geographic niches where it can achieve local saturation and extract better unit economics. This is the opposite of the venture-capital playbook (go national immediately, subsidize, achieve scale, eventually raise prices). MBGL's thesis is that profitability at smaller scale, in selected markets, is achievable if customer acquisition is efficient and driver retention is high.
+Mobility Global operates in this terrain as a niche player. Rather than attempt national platform density, the company focuses on specific metropolitan areas or geographic niches where it can achieve local saturation and extract better unit economics. This is the opposite of the venture-capital playbook (go national immediately, subsidize, achieve scale, eventually raise prices). MBGL's thesis is that profitability at smaller scale, in selected markets, is achievable if customer [acquisition](/acquisition/) is efficient and driver retention is high.
 
 ## Revenue Model and Operational Reality
 
@@ -28,7 +28,7 @@ This model is customer-acquisition intensive. A new market requires spending on 
 
 ## Competitive Disadvantages and Niches
 
-National platforms like DoorDash and Uber own the urban centers where network effects are strongest and scale advantages are most pronounced. MBGL cannot compete on brand recognition or driver supply density in tier-1 cities. Instead, it targets secondary markets (mid-size cities, suburbs, college towns) where national platforms operate at lower density and where a focused local competitor can offer better driver pay or faster service.
+National platforms like DoorDash and Uber own the urban centers where network effects are strongest and scale advantages are most pronounced. MBGL cannot compete on brand recognition or driver supply density in tier-1 cities. Instead, it targets [secondary markets](/secondary-market/) (mid-size cities, suburbs, college towns) where national platforms operate at lower density and where a focused local competitor can offer better driver pay or faster service.
 
 Another niche: verticals where the national platforms underinvest. Small-business deliveries, medical supply logistics, or B2B same-day delivery often carry margins above consumer food delivery, and the customer relationship can be sticky if the service is reliable. MBGL could differentiate by catering to these segments with customized service rather than trying to beat DoorDash at commodity food delivery.
 
@@ -46,13 +46,13 @@ MBGL's dependence on contractor drivers makes it vulnerable to regulatory shifts
 
 ## Path to Profitability and Scalability Questions
 
-For a micro-cap logistics company, the critical questions are: In which markets has MBGL achieved unit-level profitability (positive contribution margin per transaction)? How many markets does it operate in, and how long did profitability take to reach in the first one? What is the customer acquisition cost relative to the lifetime value of a customer, and is that ratio improving over time?
+For a micro-cap logistics company, the critical questions are: In which markets has MBGL achieved unit-level profitability (positive [contribution margin](/contribution-margin/) per transaction)? How many markets does it operate in, and how long did profitability take to reach in the first one? What is the customer acquisition cost relative to the lifetime value of a customer, and is that ratio improving over time?
 
 If MBGL has achieved strong unit economics in even one market, the template for replication to adjacent areas is clearer. If unit economics remain underwater, the company is a capital-burning startup masquerading as a public company, and its micro-cap valuation may reflect limited remaining runway.
 
 ## Researching MBGL
 
-Start with the company's SEC filings via its CIK (2090312), where quarterly and annual reports detail revenue, operating costs, and market-by-market performance if disclosed. Earnings calls, if held, will address profitability timeline and capital needs. Check the company's investor relations site for annual reports and guidance on market expansion plans.
+Start with the company's SEC filings via its CIK (2090312), where quarterly and [annual reports](/10-k/) detail revenue, operating costs, and market-by-market performance if disclosed. Earnings calls, if held, will address profitability timeline and capital needs. Check the company's investor relations site for annual reports and guidance on market expansion plans.
 
 The real due diligence is qualitative: Are customers in MBGL's markets sticky and repeat users? Are drivers satisfied and retained, or is there constant churn? How does MBGL's service compare to national platforms in those markets, and does it command a premium or discount? These answers come from speaking to actual users and drivers, not from financials alone.
 

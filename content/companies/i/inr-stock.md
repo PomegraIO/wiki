@@ -4,7 +4,7 @@ description: "INFINITY NATURAL RESOURCES operates in the oil and gas sector, hol
 keywords: [oil and gas, exploration, hydrocarbon, energy resources, petroleum, natural resources]
 ---
 
-*[INFINITY NATURAL RESOURCES, INC.](/inr-stock/) operates as a petroleum and natural gas exploration and development company, holding exploration rights and production interests in oil and gas basins across North America. The company pursues conventional hydrocarbon exploration and development, seeking to identify and monetize oil and gas reservoirs. INFINITY is a [public company](/public-company/) with SEC filings under [CIK 2029118](/10-k/).*
+*[INFINITY NATURAL RESOURCES, INC.](/inr-stock/) operates as a petroleum and [natural gas](/natural-gas/) exploration and development company, holding exploration rights and production interests in oil and gas basins across North America. The company pursues conventional hydrocarbon exploration and development, seeking to identify and monetize oil and gas reservoirs. INFINITY is a [public company](/public-company/) with SEC filings under [CIK 2029118](/10-k/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INR</td></tr>
@@ -23,9 +23,9 @@ The company holds exploration and development interests in sedimentary basins wi
 
 ## Asset Portfolio and Geographic Concentration
 
-INFINITY's [balance sheet](/balance-sheet/) reflects its exploration model: intangible assets (leasehold mineral rights), property and equipment (wells and production facilities if the company has producing properties), and accumulated drilling and G&A costs. The specific basins and acreage in which the company holds interests are disclosed in SEC filings. Geographic concentration in one or two basins creates dependency on local geological conditions and regional commodity prices.
+INFINITY's [balance sheet](/balance-sheet/) reflects its exploration model: [intangible assets](/intangible-assets/) (leasehold mineral rights), property and equipment (wells and production facilities if the company has producing properties), and accumulated drilling and G&A costs. The specific basins and acreage in which the company holds interests are disclosed in SEC filings. Geographic concentration in one or two basins creates dependency on local geological conditions and regional commodity prices.
 
-If the company holds producing assets, the [income statement](/income-statement/) will show crude oil and natural gas revenue. If the company is still in exploration, revenue may be minimal or nonexistent, with all line items reflecting costs. The transition from exploration to production is a critical inflection point: it signals that a discovery has been made and that development capex is justified.
+If the company holds producing assets, the [income statement](/income-statement/) will show [crude oil](/crude-oil/) and natural gas revenue. If the company is still in exploration, revenue may be minimal or nonexistent, with all line items reflecting costs. The transition from exploration to production is a critical inflection point: it signals that a discovery has been made and that development capex is justified.
 
 ## Capital Requirements and Funding Sources
 
@@ -43,13 +43,13 @@ For exploration companies without current production, commodity prices affect in
 
 Oil and gas operations are heavily regulated at federal, state, and local levels. INFINITY must comply with lease terms, environmental regulations, safety standards, and reporting requirements. The regulatory environment is dynamic; stricter environmental standards, restrictions on drilling in certain areas, or changes to lease terms can materially impact the company's ability to explore and produce.
 
-Environmental liability is also material. Exploration and production activities can generate environmental obligations (well plugging, site reclamation, waste management). These liabilities are disclosed in SEC filings. In some cases, environmental cleanup costs can exceed the value of hydrocarbon recovery, turning a failed exploration well into a long-term liability.
+[Environmental liability](/environmental-liability/) is also material. Exploration and production activities can generate environmental obligations (well plugging, site reclamation, [waste management](/wm-stock/)). These liabilities are disclosed in SEC filings. In some cases, environmental cleanup costs can exceed the value of hydrocarbon recovery, turning a failed exploration well into a long-term liability.
 
 ## Operational Risks and Dry Holes
 
 Exploration wells are speculative. A well drilled may encounter geological formations that do not contain commercially viable hydrocarbon accumulations. The costs of drilling a dry hole (exploration well that finds nothing) are generally sunk and non-recoverable. Only successful discoveries that justify development recover those costs through production revenue.
 
-This binary outcome structure means that INFINITY's financial performance is lumpy and unpredictable. A successful discovery can transform the company; a series of dry holes can deplete capital and force the company into difficult strategic options (downsizing, merger, asset sale, or insolvency).
+This binary outcome structure means that INFINITY's financial performance is lumpy and unpredictable. A successful discovery can transform the company; a series of dry holes can deplete capital and force the company into difficult strategic options (downsizing, [merger](/merger/), asset sale, or insolvency).
 
 ## Understanding INFINITY Through Its Disclosures
 

@@ -4,7 +4,7 @@ description: "Japanese fintech firm trading primarily as an over-the-counter ADR
 keywords: [bitcoin, cryptocurrency, fintech, japan, blockchain, digital-currency, Asia]
 ---
 
-*The challenge facing early cryptocurrency adopters in developed markets is not technology but adoption friction. **Metaplanet Inc. (MPJPY)**, a Japanese corporation traded as an American Depositary Receipt on U.S. over-the-counter markets, represents a bet that an entity can build unit economics in digital-asset trading and custody by capturing a margin between the cost of acquiring cryptocurrency and the rate at which customers will transact through its platform.*
+*The challenge facing early cryptocurrency adopters in developed markets is not technology but adoption friction. **Metaplanet Inc. (MPJPY)**, a Japanese corporation traded as an [American Depositary Receipt](/adr/) on U.S. [over-the-counter markets](/over-the-counter-market/), represents a bet that an entity can build unit economics in digital-asset trading and custody by capturing a margin between the cost of acquiring cryptocurrency and the rate at which customers will transact through its platform.*
 
 <aside class="wiki-infobox">
 <table>
@@ -18,15 +18,15 @@ keywords: [bitcoin, cryptocurrency, fintech, japan, blockchain, digital-currency
 
 ## The Bitcoin Transaction and Fee Economics
 
-Metaplanet's fundamental unit is a single customer transaction: a user wishing to buy or sell Bitcoin (or other cryptocurrencies) on the company's platform or through its partner exchanges. The unit economics of this transaction are simple: Metaplanet (or its partner institution) acquires Bitcoin at a wholesale cost, marks it up to a retail price, and collects a spread. Alternatively, the company charges a percentage fee on the transaction, or charges a monthly subscription for access to trading or custody. The profitability of the platform depends on the volume of transactions, the size of the spread or fee, and the cost to operate and secure the platform.
+Metaplanet's fundamental unit is a single customer transaction: a user wishing to buy or sell [Bitcoin](/bitcoin/) (or other cryptocurrencies) on the company's platform or through its partner exchanges. The unit economics of this transaction are simple: Metaplanet (or its partner institution) acquires Bitcoin at a wholesale cost, marks it up to a retail price, and collects a spread. Alternatively, the company charges a percentage fee on the transaction, or charges a monthly subscription for access to trading or custody. The profitability of the platform depends on the volume of transactions, the size of the spread or fee, and the cost to operate and secure the platform.
 
-Unlike traditional financial intermediaries—brokers and exchanges that deal in equities or [bonds](/bond/)—Metaplanet's market is nascent and driven by volatility and speculative interest. A single Bitcoin might trade at vastly different prices across exchanges in different jurisdictions. This price differential creates arbitrage opportunities, but also makes customer acquisition and retention sensitive to price and perceived security.
+Unlike traditional financial intermediaries—[brokers](/broker/) and exchanges that deal in equities or [bonds](/bond/)—Metaplanet's market is nascent and driven by volatility and speculative interest. A single Bitcoin might trade at vastly different prices across exchanges in different jurisdictions. This price differential creates arbitrage opportunities, but also makes customer [acquisition](/acquisition/) and retention sensitive to price and perceived security.
 
 ## Geographic and Regulatory Constraints
 
-Metaplanet is domiciled in Japan, a jurisdiction that has developed specific regulatory frameworks for cryptocurrency exchanges and custody providers. The company must comply with Japan's Payment Services Act and its successor regulations. Compliance costs—legal, technology infrastructure for anti-money-laundering and know-your-customer checks, reporting to regulators—are embedded in the cost of doing business. These regulatory costs are fixed overhead that must be spread across a customer base and transaction volume. A platform with few users must spread these costs thinly, resulting in higher costs per transaction.
+Metaplanet is domiciled in Japan, a jurisdiction that has developed specific regulatory frameworks for [cryptocurrency exchanges](/cryptocurrency-exchange/) and custody providers. The company must comply with Japan's Payment Services Act and its successor regulations. Compliance costs—legal, technology infrastructure for anti-money-laundering and know-your-customer checks, reporting to regulators—are embedded in the cost of doing business. These regulatory costs are fixed overhead that must be spread across a customer base and transaction volume. A platform with few users must spread these costs thinly, resulting in higher costs per transaction.
 
-The company's access to U.S. markets is mediated through the over-the-counter markets, not a major exchange like the NASDAQ or New York Stock Exchange. This liquidity constraint affects the company's ability to raise capital through equity issuance and may increase its cost of capital.
+The company's access to U.S. markets is mediated through the over-the-counter markets, not a major exchange like the [NASDAQ](/nasdaq/) or [New York Stock Exchange](/new-york-stock-exchange/). This liquidity constraint affects the company's ability to raise capital through equity issuance and may increase its cost of capital.
 
 ## The Competitive Landscape: Scaling Against Giants
 

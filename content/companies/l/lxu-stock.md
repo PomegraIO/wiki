@@ -70,7 +70,7 @@ For instance, if a jurisdiction adopts a carbon tax or emissions standard, indus
 
 ## Long-Term Regulatory Trends and Strategic Alignment
 
-LSB's long-term viability depends on strategic alignment with regulatory trends. The firm must anticipate that refrigerant regulations will continue to tighten, efficiency standards will continue to rise, and environmental liability for water discharge and air emissions will increase. The company's capital-investment strategy, R&D roadmap, and product-portfolio decisions are all filtered through this regulatory lens.
+LSB's long-term viability depends on strategic alignment with regulatory trends. The firm must anticipate that refrigerant regulations will continue to tighten, efficiency standards will continue to rise, and [environmental liability](/environmental-liability/) for water discharge and air emissions will increase. The company's capital-investment strategy, R&D roadmap, and product-portfolio decisions are all filtered through this regulatory lens.
 
 Management's credibility is partly measured by its ability to describe these regulatory headwinds clearly and to articulate how the company will remain compliant and profitable despite them. Investors who read LSB's [10-k](/10-k/) carefully will find management discussion of regulatory risks, anticipated changes, and the company's compliance strategies. That discussion is not peripheral; for a manufacturer like LSB, regulatory foresight and adaptability are core competitive and operational capabilities.
 

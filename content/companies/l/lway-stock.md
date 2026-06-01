@@ -32,7 +32,7 @@ Unlike shelf-stable beverages, kefir requires cold chain management from product
 
 Distribution logistics are time-sensitive. Kefir is shipped via refrigerated trucks to regional distribution centers and then to retail locations. The entire journey from manufacturing to retail shelf must maintain temperatures at or below 40°F to preserve live cultures. Any break in the cold chain—a delayed truck, a warm warehouse, a grocery store's malfunctioning cooler—degrades product quality and viability. Lifeway's operational success depends on reliable partnerships with refrigerated logistics providers and retail partners.
 
-Shelf life is typically 2 to 3 weeks from production. Unlike shelf-stable products that can be warehoused for months, Lifeway must coordinate manufacturing volume with retail velocity. Overproduction leads to expired inventory; underproduction means missed sales. The company must forecast demand by region and product variety, schedule manufacturing runs, and manage inventory turnover in real time.
+Shelf life is typically 2 to 3 weeks from production. Unlike shelf-stable products that can be warehoused for months, Lifeway must coordinate manufacturing volume with retail velocity. Overproduction leads to expired inventory; underproduction means missed sales. The company must forecast demand by region and product variety, schedule manufacturing runs, and manage [inventory turnover](/inventory-turnover/) in real time.
 
 ## Manufacturing Footprint and Asset Base
 

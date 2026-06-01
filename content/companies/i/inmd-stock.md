@@ -12,7 +12,7 @@ InMode's core protection comes from the technical difficulty of replicating its 
 
 ## Consumable Revenue Stream
 
-The true moat lies in the consumable handpiece economics. InMode's platforms require single-use or finite-life applicators—much like razor blades after the razors themselves are installed. This creates recurring revenue that is predictable and locked-in: a clinic with an InMode system generating 50 treatments per week consumes a steady stream of handpieces for years. A competitor offering a one-time hardware sale faces a structural disadvantage against a vendor who captures margin from thousands of consumable SKUs per customer per year. This model mirrors Align Technology's Invisalign system or Intuitive Surgical's da Vinci—the device is the gateway; the consumables are the fortress.
+The true moat lies in the consumable handpiece economics. InMode's platforms require single-use or finite-life applicators—much like razor blades after the razors themselves are installed. This creates recurring revenue that is predictable and locked-in: a clinic with an InMode system generating 50 treatments per week consumes a steady stream of handpieces for years. A competitor offering a one-time hardware sale faces a structural disadvantage against a vendor who captures margin from thousands of consumable SKUs per customer per year. This model mirrors [Align Technology](/algn-stock/)'s Invisalign system or [Intuitive Surgical](/isrg-stock/)'s da Vinci—the device is the gateway; the consumables are the fortress.
 
 ## Geographic Expansion as Vulnerability
 
@@ -20,7 +20,7 @@ Yet InMode's moat is not impenetrable. The company's growth depends on penetrati
 
 ## Competitive Consolidation Risk
 
-The aesthetic-device market has consolidated significantly (Candela was bought by Synergetics, Sciton merged with Iridex). InMode has remained independent, but faces potential acquisition by larger medtech conglomerates—or could see larger rivals acquire emerging competitors before they scale. If Bausch + Lomb, Stryker, or Johnson & Johnson acquire a next-generation fractional-laser startup, they bring distribution, R&D scale, and payer relationships that InMode cannot match. InMode's moat against startups is real; its moat against acquisition-backed incumbents is thinner.
+The aesthetic-device market has consolidated significantly (Candela was bought by Synergetics, Sciton merged with Iridex). InMode has remained independent, but faces potential [acquisition](/acquisition/) by larger medtech conglomerates—or could see larger rivals acquire emerging competitors before they scale. If Bausch + Lomb, Stryker, or [Johnson & Johnson](/jnj-stock/) acquire a next-generation fractional-laser startup, they bring distribution, R&D scale, and payer relationships that InMode cannot match. InMode's moat against startups is real; its moat against acquisition-backed incumbents is thinner.
 
 ## Regulatory and Reimbursement Layers
 

@@ -4,7 +4,7 @@ description: "Shipping company operating a fleet of tankers that transport crude
 keywords: ["shipping", "tankers", "maritime transport", "oil transport", "oceangoing vessels", "international trade"]
 ---
 
-*International Seaways owns and operates oceangoing tanker vessels that move crude oil and refined petroleum products from refineries, storage terminals, and production facilities across the world's oceans. The company competes in the global shipping market as a smaller but disciplined player in a capital-intensive, cyclical industry shaped by oil demand, refining margins, trade routes, and the supply and demand for vessel capacity itself.*
+*International Seaways owns and operates oceangoing tanker vessels that move [crude oil](/crude-oil/) and refined petroleum products from refineries, storage terminals, and production facilities across the world's oceans. The company competes in the global shipping market as a smaller but disciplined player in a capital-intensive, cyclical industry shaped by oil demand, refining margins, trade routes, and the supply and demand for vessel capacity itself.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>INSW</td></tr>
@@ -17,7 +17,7 @@ keywords: ["shipping", "tankers", "maritime transport", "oil transport", "oceang
 
 ## Tanker Shipping: A Window into Global Energy and Trade
 
-The tanker industry moves petroleum around the world—crude oil from producing regions (the Middle East, West Africa, Russia, the North Sea) to refineries, and refined products (gasoline, diesel, jet fuel, heating oil) from refineries to distribution points, consuming nations, and eventually end users. It is an essential infrastructure, largely invisible to consumers, that underpins global energy security and economic activity.
+The tanker industry moves petroleum around the world—crude oil from producing regions (the Middle East, West Africa, Russia, the North Sea) to refineries, and refined products (gasoline, diesel, jet fuel, [heating oil](/heating-oil/)) from refineries to distribution points, consuming nations, and eventually end users. It is an essential infrastructure, largely invisible to consumers, that underpins global energy security and economic activity.
 
 The industry is structured by vessel class: ultra-large crude carriers (ULCCs), very-large crude carriers (VLCCs), supertankers, Aframaxes, and smaller product tankers. Each class serves specific routes, cargo types, and economic niches. A VLCC might haul crude from the Persian Gulf to refineries in Asia or Europe on multi-week transits; a smaller product tanker might move refined fuels on shorter regional routes. International Seaways operates a diversified fleet across multiple classes and cargo types, balancing exposure to different route economics and demand patterns.
 
@@ -35,7 +35,7 @@ International Seaways' earnings are thus highly variable quarter to quarter and 
 
 ## Operating Leverage and Capital Deployment
 
-Tanker ownership is capital-intensive. A modern VLCC costs over $100 million to build; supertankers and newer vessels cost more. The company must continuously invest in vessel acquisition (whether through newbuilds or secondhand purchases), as older vessels become obsolete due to environmental regulations, efficiency requirements, and age. Financing these purchases typically involves a mix of [equity](/common-stock/), [debt](/corporate-bond/), and retained earnings.
+Tanker ownership is capital-intensive. A modern VLCC costs over $100 million to build; supertankers and newer vessels cost more. The company must continuously invest in vessel [acquisition](/acquisition/) (whether through newbuilds or secondhand purchases), as older vessels become obsolete due to environmental regulations, efficiency requirements, and age. Financing these purchases typically involves a mix of [equity](/common-stock/), [debt](/corporate-bond/), and [retained earnings](/retained-earnings/).
 
 The company also faces material operating costs: crew wages, fuel, insurance, port fees, maintenance, and dry-docking (periodic hull inspection and maintenance). Fuel costs in particular are substantial and volatile, exposing the company to global oil-price moves. Some contracts pass fuel costs through to charterers; others do not, creating profit variability.
 
@@ -49,7 +49,7 @@ International Seaways must navigate these regulations through fleet renewal, tec
 
 Tanker shipping is sensitive to geopolitical disruptions and trade patterns. Sanctions on Russian oil, for example, have rerouted crude flows and altered the supply-demand balance for tanker services. Discussions about energy transition and reduced global petroleum demand create long-term structural headwinds: if electric vehicles and renewables reduce oil consumption, tanker demand may decline over decades.
 
-International Seaways must balance near-term cyclical dynamics against potential long-term demand erosion. The company has made strategic bets on which cargo types and routes will remain viable as the energy transition unfolds. Diversification into renewable products transport (such as biofuels) or other liquid cargoes (chemicals, liquefied natural gas) offers some hedging, but the core business remains hydrocarbon transportation.
+International Seaways must balance near-term cyclical dynamics against potential long-term demand erosion. The company has made strategic bets on which cargo types and routes will remain viable as the energy transition unfolds. [Diversification](/diversification/) into renewable products transport (such as biofuels) or other liquid cargoes (chemicals, liquefied [natural gas](/natural-gas/)) offers some hedging, but the core business remains hydrocarbon transportation.
 
 ## Charter Relationships and Commercial Acumen
 

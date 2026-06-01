@@ -22,7 +22,7 @@ The unit economics are straightforward: premium less claims, loss adjustment exp
 
 ## The Transaction Volume Sensitivity
 
-Investors Title's earnings are directly tied to real estate closing volume, which fluctuates with interest rates, buyer confidence, and regional growth. A 10% drop in home sales in its served markets translates broadly into a 10% drop in premium revenue. The company has minimal recurring revenue streams; each transaction stands alone. This makes the business acutely sensitive to economic cycles. During the 2008 recession, title insurance volume collapsed. Conversely, refinancing booms—which involve title work but generate lower premiums than purchase closings—can partially offset sales slowdowns.
+Investors Title's earnings are directly tied to real estate closing volume, which fluctuates with [interest rates](/interest-rate/), buyer confidence, and regional growth. A 10% drop in home sales in its served markets translates broadly into a 10% drop in premium revenue. The company has minimal recurring revenue streams; each transaction stands alone. This makes the business acutely sensitive to economic cycles. During the 2008 [recession](/recession/), title insurance volume collapsed. Conversely, refinancing booms—which involve title work but generate lower premiums than purchase closings—can partially offset sales slowdowns.
 
 The cost structure is also rigid in the short term. Title agents, branch offices, and staff drive transaction processing; these cannot scale down quickly if volume drops. A loss of market share compounds the problem: fixed costs spread across fewer premiums yield tighter margins or losses. Conversely, in a hot real estate market, incremental transactions flow through with high marginal profitability, since the infrastructure is already in place.
 
@@ -40,13 +40,13 @@ The model also creates a revenue-sharing economics question: the higher the agen
 
 ## Capital Requirements and Regulatory Constraints
 
-Title insurers must maintain statutory surplus—capital reserves—to ensure they can pay claims. Most states require surplus equal to a percentage of premiums written or reserves. Investors Title cannot freely distribute all earnings as dividends; a portion must be retained or reinvested to stay in regulatory good standing. This caps the return on equity for shareholders, especially in years when premium volume grows faster than the company's ability to generate new capital.
+Title insurers must maintain statutory surplus—capital reserves—to ensure they can pay claims. Most states require surplus equal to a percentage of premiums written or reserves. Investors Title cannot freely distribute all earnings as [dividends](/dividend/); a portion must be retained or reinvested to stay in regulatory good standing. This caps the [return on equity](/return-on-equity/) for shareholders, especially in years when premium volume grows faster than the company's ability to generate new capital.
 
 Catastrophic title defects—say, a mass discovery of forged deeds in a county—can wipe out a year of profits or force a capital raise. The company's [balance-sheet](/balance-sheet/) capacity thus sets a hard upper limit on how many premiums it can underwrite in any given year, making the capital-to-premium ratio a key operational constraint.
 
 ## Competitive Positioning and Priced Risk
 
-Investors Title competes with national incumbents like Fidelity National Financial and First American, as well as regional and local underwriters. Pricing is constrained by state regulation and by customers' price sensitivity. An insurance agent or lender shopping title policies often compares quotes; if all underwriters are charging similar rates, Investors Title must compete on claims-handling speed, agent profitability, or underwriting ease.
+Investors Title competes with national incumbents like [Fidelity National Financial](/fnf-stock/) and First American, as well as regional and local underwriters. Pricing is constrained by state regulation and by customers' price sensitivity. An insurance agent or lender shopping title policies often compares quotes; if all underwriters are charging similar rates, Investors Title must compete on claims-handling speed, agent profitability, or underwriting ease.
 
 The company's long-term unit economics depend on whether it can sustain underwriting discipline (controlling loss ratios) while growing premium volume faster than its peers, thereby spreading overhead and improving margins. Any deterioration in loss experience—whether from geographic shifts, aggressive growth into riskier segments, or market conditions—directly erodes profitability per policy.
 

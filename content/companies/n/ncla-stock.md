@@ -17,7 +17,7 @@ keywords: ["nuclear energy", "small modular reactors", "SMR", "power generation"
 
 ## Capital Cost Per Megawatt as the Decisive Metric
 
-A nuclear reactor is a capital-intensive asset. A traditional large reactor (1,000 MW) costs $10–$20 billion and takes 10–15 years to build. Cost per megawatt is $10–$20 million per MW. Nuclea's small modular reactors (SMRs) are advertised as cheaper and faster to build; if a 300 MW SMR costs $3 billion, cost per megawatt is $10 million/MW—comparable to large reactors per unit but on a smaller scale. The challenge: if actual construction costs exceed budget (common in nuclear projects), the per-MW cost rises sharply. A $3 billion budget overrun on a $3 billion project doubles the cost per megawatt. Nuclea's unit economics are therefore hostage to construction discipline and supply-chain cost control. Every dollar of capital cost above budget is a dollar of operating margin that must be earned back over 20+ years of plant life.
+A nuclear reactor is a capital-intensive asset. A traditional large reactor (1,000 MW) costs $10–$20 billion and takes 10–15 years to build. Cost per megawatt is $10–$20 million per MW. Nuclea's small modular reactors (SMRs) are advertised as cheaper and faster to build; if a 300 MW SMR costs $3 billion, cost per megawatt is $10 million/MW—comparable to large reactors per unit but on a smaller scale. The challenge: if actual construction costs exceed budget (common in nuclear projects), the per-MW cost rises sharply. A $3 billion budget overrun on a $3 billion project doubles the cost per megawatt. Nuclea's unit economics are therefore hostage to construction discipline and supply-chain cost control. Every dollar of capital cost above budget is a dollar of [operating margin](/operating-margin/) that must be earned back over 20+ years of plant life.
 
 ## Capacity Factor and Utilization
 
@@ -37,7 +37,7 @@ A nuclear plant requires a staff of 100–200 skilled workers (reactor operators
 
 ## Regulatory Capital Allowance and Utility Returns
 
-In regulated markets, utilities earn a guaranteed return on invested capital (typically 8–12% return on equity per state regulatory approval). If Nuclea builds a $3 billion reactor in a regulated jurisdiction and is allowed a 10% return, annual allowed revenue is $300 million. As long as the company recovers its costs and earns the allowed return, profitability is stable—and limited. In unregulated markets, if Nuclea's reactor earns $50/MWh selling power but operating cost is $30/MWh (including all-in capital cost amortization), it earns 40% margin. The risk: unregulated markets offer higher upside but are exposed to wholesale price collapses or demand destruction (e.g., recession, oversupply of cheap renewable power).
+In regulated markets, utilities earn a guaranteed [return on invested capital](/return-on-invested-capital/) (typically 8–12% [return on equity](/return-on-equity/) per state regulatory approval). If Nuclea builds a $3 billion reactor in a regulated jurisdiction and is allowed a 10% return, annual allowed revenue is $300 million. As long as the company recovers its costs and earns the allowed return, profitability is stable—and limited. In unregulated markets, if Nuclea's reactor earns $50/MWh selling power but operating cost is $30/MWh (including all-in capital cost [amortization](/amortization/)), it earns 40% margin. The risk: unregulated markets offer higher upside but are exposed to wholesale price collapses or demand destruction (e.g., [recession](/recession/), oversupply of cheap renewable power).
 
 ## Decommissioning Liability and Tail Risk
 
@@ -45,7 +45,7 @@ Nuclear reactors must be decommissioned at end-of-life (30–60 years). Decommis
 
 ## Insurance and Liability Risk
 
-Nuclear plants carry insurance against catastrophic failure. Insurance costs are roughly $10–$20 million per year for a large reactor. In addition, regulatory liability and latent risks (safety issues, regulatory changes, accident at another plant triggering industry-wide new rules) create tail risks. Nuclea's unit economics assume normative insurance costs; a major industry accident or discovery could increase insurance cost and regulatory burden sharply.
+Nuclear plants carry insurance against catastrophic failure. Insurance costs are roughly $10–$20 million per year for a large reactor. In addition, regulatory liability and latent risks (safety issues, regulatory changes, accident at another plant triggering industry-wide new rules) create [tail risks](/tail-risk/). Nuclea's unit economics assume normative insurance costs; a major industry accident or discovery could increase insurance cost and regulatory burden sharply.
 
 ## Competitive Positioning vs. Renewables
 
@@ -64,7 +64,7 @@ Nuclea's best-case scenario is to secure long-term (20+ year) PPAs with utilitie
 ### Closely related
 - [/stock/](/stock/) — Public equity structure for capital-intensive energy companies.
 - [/10-k/](/10-k/) — Disclosure of reactor construction costs, capacity factors, and wholesale revenue.
-- [/free-cash-flow/](/free-cash-flow/) — Operating cashflow after depreciation and fuel costs.
+- [/free-cash-flow/](/free-cash-flow/) — Operating cashflow after [depreciation](/depreciation/) and fuel costs.
 
 ### Wider context
 - [/balance-sheet/](/balance-sheet/) — Long-term debt structure for nuclear-plant financing.

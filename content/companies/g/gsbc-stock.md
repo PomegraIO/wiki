@@ -17,7 +17,7 @@ keywords: ["community bank", "net interest margin", "lending spreads", "deposit 
 
 ## The Core Spread: Deposits to Loans
 
-Great Southern takes customer deposits, paying 0.5% annual interest on a checking account and 2.0% on a 1-year certificate of deposit (CD). It then lends that money to borrowers—a farmer needing an operating loan, a small business needing working capital, a homebuyer taking out a mortgage. The bank earns interest on those loans: 6% on a commercial loan, 5.5% on a home equity line, 7.5% on a used-auto loan.
+Great Southern takes customer deposits, paying 0.5% annual interest on a checking account and 2.0% on a 1-year [certificate of deposit](/certificate-of-deposit/) (CD). It then lends that money to borrowers—a farmer needing an operating loan, a small business needing working capital, a homebuyer taking out a mortgage. The bank earns interest on those loans: 6% on a commercial loan, 5.5% on a home equity line, 7.5% on a used-auto loan.
 
 The unit economics of a single loan-deposit relationship are straightforward: a customer deposits $100,000 in a checking account at 0.5%, costing the bank $500 per year. The bank lends that $100,000 to a small business at 6.0%, earning $6,000 per year. The gross spread is 5.5%, or $5,500 per year. After accounting for overhead (teller labor, branch rent, loan officers, systems), the net spread—net interest margin (NIM)—is what remains. A well-run community bank might achieve a 3-4% NIM; a pressured bank struggling with competition or credit quality might see NIM fall to 2% or lower.
 
@@ -29,27 +29,27 @@ Great Southern's deposit-mix strategy therefore shapes its unit economics. A ban
 
 ## Loan Composition and Credit Risk
 
-Not all loans earn the same rate or have the same credit risk. A 30-year fixed-rate mortgage is safe (most homeowners prioritize mortgage payments), earns 5.5%, and is subject to prepayment risk (if rates fall, the borrower refinances and the bank loses the spread). A used-auto loan is riskier (personal bankruptcies can wipe out an auto loan), earns 7.5%, but is secured by a depreciating asset (the car). A commercial real-estate loan might earn 6.5%, but faces risk if the business fails and the collateral is worth less than the loan.
+Not all loans earn the same rate or have the same [credit risk](/credit-risk/). A 30-year fixed-rate mortgage is safe (most homeowners prioritize mortgage payments), earns 5.5%, and is subject to [prepayment risk](/prepayment-risk/) (if rates fall, the borrower refinances and the bank loses the spread). A used-auto loan is riskier (personal bankruptcies can wipe out an auto loan), earns 7.5%, but is secured by a depreciating asset (the car). A commercial real-estate loan might earn 6.5%, but faces risk if the business fails and the collateral is worth less than the loan.
 
-Great Southern's profitability depends on the mix of loans in its portfolio. A portfolio heavy in safe mortgages generates stable but modest NIM; a portfolio with higher-risk commercial loans generates higher spreads but faces elevated loan-loss provisions when credit conditions deteriorate. A recession that causes business failures increases loan losses, directly compressing profitability as the bank must set aside reserves for expected losses and write off unrecover able balances.
+Great Southern's profitability depends on the mix of loans in its portfolio. A portfolio heavy in safe mortgages generates stable but modest NIM; a portfolio with higher-risk commercial loans generates higher spreads but faces elevated loan-loss provisions when credit conditions deteriorate. A [recession](/recession/) that causes business failures increases loan losses, directly compressing profitability as the bank must set aside reserves for expected losses and write off unrecover able balances.
 
 ## Non-Interest Income
 
-Beyond the spread, banks earn fees: checking-account monthly fees, overdraft fees, ATM fees, loan-origination fees, wealth management fees, insurance commissions. These fees are "non-interest income" and they improve unit economics by adding revenue beyond the spread. A bank that earns 3% NIM on $1 billion in earning assets ($30 million) but also earns $10 million in non-interest income has total net operating revenue of $40 million.
+Beyond the spread, banks earn fees: checking-account monthly fees, overdraft fees, ATM fees, loan-origination fees, wealth [management fees](/management-fee/), insurance commissions. These fees are "non-interest income" and they improve unit economics by adding revenue beyond the spread. A bank that earns 3% NIM on $1 billion in earning assets ($30 million) but also earns $10 million in non-interest income has total net operating revenue of $40 million.
 
-However, non-interest income is increasingly pressured: online banks have eliminated monthly checking fees, and regulators scrutinize overdraft fees. For a community bank like Great Southern, non-interest income is harder to scale than for a large national bank because the customer base is smaller and less profitable customers pay fewer fees.
+However, non-interest income is increasingly pressured: online banks have eliminated monthly checking fees, and regulators scrutinize overdraft fees. For a community bank like Great Southern, non-interest income is harder to scale than for a large [national bank](/nbhc-stock/) because the customer base is smaller and less profitable customers pay fewer fees.
 
 ## Rate Environment and Reinvestment Risk
 
-When interest rates rise, the immediate effect is positive: Great Southern can lend new money at higher rates (improving spread), and deposits cost more but less so (depositors demand higher yields, but the increase in funding costs lags the increase in loan rates). A bank benefits from a rising-rate environment because it can lock in wider spreads on new loans.
+When [interest rates](/interest-rate/) rise, the immediate effect is positive: Great Southern can lend new money at higher rates (improving spread), and deposits cost more but less so (depositors demand higher yields, but the increase in funding costs lags the increase in loan rates). A bank benefits from a rising-rate environment because it can lock in wider spreads on new loans.
 
 Conversely, when rates fall, the opposite occurs: Great Southern must refinance deposits at lower rates (improving funding costs), but also earns lower rates on new loans (compressing spreads). Additionally, the value of existing loans—which often have fixed rates—falls in present-value terms, potentially creating economic losses if the bank must sell loans or liquidate securities at lower values.
 
-For a bank with a large portfolio of long-dated, fixed-rate mortgages, a sharp drop in rates erodes the economics of that portfolio. The bank must earn its way out of the adverse position through time, reinvesting as mortgages pay off at new, lower rates.
+For a bank with a large portfolio of long-dated, [fixed-rate mortgages](/fixed-rate-mortgage-personal/), a sharp drop in rates erodes the economics of that portfolio. The bank must earn its way out of the adverse position through time, reinvesting as mortgages pay off at new, lower rates.
 
 ## Loan Loss Provisions and Credit Cycles
 
-Banks must provision (set aside reserves) for expected loan losses. If Great Southern has a $100 million commercial-loan portfolio and estimates that 2% of loans will default, it sets aside a $2 million provision. If the actual loss rate is higher (say, 3%, due to a recession), the bank must increase the provision, which flows through the income statement as an expense, reducing profitability.
+Banks must provision (set aside reserves) for expected loan losses. If Great Southern has a $100 million commercial-loan portfolio and estimates that 2% of loans will default, it sets aside a $2 million provision. If the actual loss rate is higher (say, 3%, due to a recession), the bank must increase the provision, which flows through the [income statement](/income-statement/) as an expense, reducing profitability.
 
 Loan-loss provisions are a drag on unit economics that most bank analysis overlooks. A well-managed bank in stable economic times might provision at 0.5% of loans; a bank entering a credit downturn might provision at 2-3% because expected losses rise. The difference is substantial: on a $1 billion loan portfolio, that is $5-30 million in additional expense that reduces net income dollar-for-dollar.
 
@@ -57,13 +57,13 @@ Loan-loss provisions are a drag on unit economics that most bank analysis overlo
 
 Great Southern's profitability per dollar of capital depends on how it invests that capital. A bank that deploys 90% of capital into loans (high leverage) earns higher returns on equity than a bank holding 50% in loans and 50% in low-return treasury securities. However, higher leverage also increases risk: if loan losses exceed provisions, the bank's capital base erodes quickly.
 
-Regulators impose minimum capital ratios, and well-managed banks maintain capital above those minima for safety. Capital held in excess of regulatory minima does not earn competitive returns—it is an opportunity cost. Great Southern's strategy to optimize capital deployment (choosing which loans to make, which securities to hold, when to pay dividends or buy back shares) directly shapes unit economics.
+Regulators impose minimum capital ratios, and well-managed banks maintain capital above those minima for safety. Capital held in excess of regulatory minima does not earn competitive returns—it is an opportunity cost. Great Southern's strategy to optimize capital deployment (choosing which loans to make, which securities to hold, when to pay [dividends](/dividend/) or buy back shares) directly shapes unit economics.
 
 ## Competitive Positioning in a Fragmented Market
 
 Great Southern operates in a fragmented market: it competes against other community banks, branches of large national banks, and online banks. Large national banks can fund themselves at lower cost (they are deemed safer by the market) and amortize fixed costs (marketing, compliance, technology) across millions of customers. Online banks have minimal overhead (no branches) and can offer high deposit rates.
 
-For Great Southern to compete, it must differentiate on service, relationships, or specialized lending niches where it has expertise. A bank that knows the local agricultural market and can service farm loans faster and at better pricing than a national bank can earn higher margins on agricultural loans. But that focus also creates concentration risk: if the agricultural economy deteriorates, credit losses spike.
+For Great Southern to compete, it must differentiate on service, relationships, or specialized lending niches where it has expertise. A bank that knows the local agricultural market and can service farm loans faster and at better pricing than a national bank can earn higher margins on agricultural loans. But that focus also creates [concentration risk](/concentration-risk/): if the agricultural economy deteriorates, credit losses spike.
 
 ## Interest-Rate Risk Hedging
 

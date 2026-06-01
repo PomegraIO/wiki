@@ -45,7 +45,7 @@ MSAI's position is not in the customer's core business — it is enabling infras
 
 MSAI likely serves multiple verticals (buildings, utilities, manufacturing, transportation, environmental) with some shared software platform and some vertical-specific customization. The company's ability to leverage shared R&D across verticals determines its unit economics — writing software once and licensing it widely is high-margin; writing custom solutions for each customer is low-margin.
 
-The company may also pursue integration strategies: acquiring specialized sensor makers to add new sensor types, acquiring software competitors to consolidate the analytics layer, or building integrations with popular building/factory management systems (Salesforce, SAP, proprietary legacy systems) that embed MSAI analytics into workflows customers already use daily.
+The company may also pursue integration strategies: acquiring specialized sensor makers to add new sensor types, acquiring software competitors to consolidate the analytics layer, or building integrations with popular building/factory management systems ([Salesforce](/crm-stock/), SAP, proprietary legacy systems) that embed MSAI analytics into workflows customers already use daily.
 
 ## Competitive Positioning
 
@@ -53,7 +53,7 @@ MSAI competes against two different classes of competitor: large conglomerates (
 
 ## Risks and Key Dependencies
 
-MSAI's success depends on technical excellence (building ML models that reliably predict failures before they occur), customer acquisition ability (translating technical capability into sales), and platform stickiness (once deployed, the cost and hassle of switching to a competitor should be high). The company also depends on cloud infrastructure providers (AWS, Azure, Google Cloud) for data storage and processing — disruption in that layer affects MSAI's costs and customer experience.
+MSAI's success depends on technical excellence (building ML models that reliably predict failures before they occur), customer [acquisition](/acquisition/) ability (translating technical capability into sales), and platform stickiness (once deployed, the cost and hassle of switching to a competitor should be high). The company also depends on cloud infrastructure providers (AWS, Azure, Google Cloud) for [data storage](/dtst-stock/) and processing — disruption in that layer affects MSAI's costs and customer experience.
 
 Cybersecurity and data privacy are material risks: MSAI collects sensitive operational data from customer infrastructure; a breach could destroy customer trust and trigger regulatory liability. The company also depends on customers' willingness to invest in monitoring and optimization — in economic downturns or when infrastructure budgets tighten, spending on sensor systems may be deferred.
 

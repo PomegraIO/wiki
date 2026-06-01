@@ -32,7 +32,7 @@ Conversely, Asian markets represent some of the world's highest-growth regions. 
 
 ## Currency and Capital Flow Geography
 
-A key feature of Fenbo's geographic structure is the currency and capital-flow complexity it introduces. If the company generates revenue and earnings in Asian currencies—Chinese yuan, Indian rupees, Vietnamese dong, Philippine pesos—those earnings must be converted to U.S. dollars to pay [dividends](/dividend/) or be reinvested, or they must be managed in their native currencies. Currency fluctuations directly affect the dollar value of the firm to U.S. investors.
+A key feature of Fenbo's geographic structure is the currency and capital-flow complexity it introduces. If the company generates revenue and earnings in Asian currencies—Chinese yuan, [Indian rupees](/indian-rupee/), Vietnamese dong, Philippine pesos—those earnings must be converted to U.S. dollars to pay [dividends](/dividend/) or be reinvested, or they must be managed in their native currencies. Currency fluctuations directly affect the dollar value of the firm to U.S. investors.
 
 More fundamentally, repatriation of capital from Asia to the United States is regulated in most jurisdictions. Countries impose limits on how much foreign profit can be transferred out, require corporate tax compliance, and sometimes restrict capital outflows entirely during periods of economic stress or geopolitical tension. Fenbo's ability to get money from its Asian operations back to shareholders in the United States depends on navigating these geographic regulatory boundaries.
 
@@ -44,7 +44,7 @@ A holding company incorporated in Asia but trading on U.S. markets exists in a g
 
 This creates potential for governance asymmetries. The parent company in the U.S. may disclose limited detail about specific subsidiary operations, related-party transactions, or geographic-specific profit and loss information. An investor trying to understand which Asian markets are performing well, which are struggling, and whether management is allocating capital effectively across geographies may find the disclosure insufficient.
 
-The OTC Pink Sheets listing—the lowest tier of U.S. public market trading—carries no mandatory disclosure requirements beyond what the company itself volunteers. This means a firm like Fenbo's transparency depends entirely on its own governance discipline. Some OTC-listed companies maintain rigorous disclosure; others provide minimal information to investors. Assessing this before investing is critical.
+The [OTC Pink](/otc-pink/) Sheets listing—the lowest tier of U.S. public market trading—carries no mandatory disclosure requirements beyond what the company itself volunteers. This means a firm like Fenbo's transparency depends entirely on its own governance discipline. Some OTC-listed companies maintain rigorous disclosure; others provide minimal information to investors. Assessing this before investing is critical.
 
 ## Market Entry and Competitive Positioning
 

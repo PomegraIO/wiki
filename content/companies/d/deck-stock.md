@@ -30,7 +30,7 @@ Deckers Outdoor Corporation (NYSE: DECK) is a holding company that owns and oper
 
 ## Portfolio of brands, one operating company
 
-Deckers is not one brand but a collection. Each brand has its own history and [target](/tgt-stock/) customer, but they share distribution networks, supply chains, and a common parent company that oversees finance and strategy.
+Deckers is not one brand but a collection. Each brand has its own history and target customer, but they share distribution networks, supply chains, and a common parent company that oversees finance and strategy.
 
 The North Face, which Deckers acquired in 2000, is the largest by revenue. It started in 1966 as a small company selling mountaineering and backpacking gear in San Francisco and has grown into a global brand synonymous with serious outdoor equipment—winter jackets, hiking boots, tents, and packs. The brand commands premium prices and attracts both professional climbers and casual weekend hikers and also fashion buyers who wear North Face jackets as lifestyle wear.
 

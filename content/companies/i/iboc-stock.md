@@ -25,19 +25,19 @@ IBOC's competitive advantage rests on three pillars. First, geographic footprint
 
 The bank's loan portfolio reflects the regional economy. South Texas is a major agricultural producer (citrus, vegetables, cotton); a logistics and trade hub; a retail center serving both sides of the border; and historically, a center for oil-and-gas exploration and service industries. Border communities also depend on cross-border retail traffic and maquiladora (manufacturing) operations on the Mexican side. During economic downturns in either Texas or Mexico, loan performance in IBOC's portfolio deteriorates. During periods of strong trade and commodity prices, the bank benefits.
 
-The 2008 financial crisis and subsequent recession hit border regions hard: real estate values collapsed, small businesses failed, and unemployment spiked. Larger banks (like JPMorgan Chase or Bank of America) reduced or exited border markets, seeing them as high-risk. IBOC had to navigate heightened credit losses and lower margins. During stronger periods, the bank has grown deposits and originated profitable loans.
+The 2008 financial crisis and subsequent [recession](/recession/) hit border regions hard: real estate values collapsed, small businesses failed, and unemployment spiked. Larger banks (like [JPMorgan Chase](/jpmorgan-chase/) or [Bank of America](/bank-of-america/)) reduced or exited border markets, seeing them as high-risk. IBOC had to navigate heightened credit losses and lower margins. During stronger periods, the bank has grown deposits and originated profitable loans.
 
 ## Deposit franchise and peso holdings
 
-A distinctive aspect of border banking is peso exposure. Mexican businesses and individuals hold peso accounts at U.S. banks for convenience and safety. IBOC accepts peso deposits, which it must convert, invest, or lend. Peso-denominated assets and liabilities create balance-sheet exposure to peso depreciation: if the peso weakens against the dollar, IBOC's U.S. dollar net worth declines, affecting shareholder [equity](/common-stock/). The bank hedges this risk through forward contracts and natural offsets (peso deposits funding peso loans), but some exposure remains.
+A distinctive aspect of border banking is peso exposure. Mexican businesses and individuals hold peso accounts at U.S. banks for convenience and safety. IBOC accepts peso deposits, which it must convert, invest, or lend. Peso-denominated assets and liabilities create balance-sheet exposure to peso [depreciation](/depreciation/): if the peso weakens against the dollar, IBOC's U.S. dollar net worth declines, affecting shareholder [equity](/common-stock/). The bank hedges this risk through [forward contracts](/forward-contract/) and natural offsets (peso deposits funding peso loans), but some exposure remains.
 
 IBOC's deposit gathering in the region is a competitive strength. Local families and small businesses keep deposits at IBOC for service, relationship history, and trust. The bank competes with larger regional banks (like Compass Bancshares or Cullen/Frost) and national banks for deposits, but benefits from historical ties and understanding of local needs.
 
 ## Commercial lending: Underwriting regional credit
 
-IBOC's underwriting is crucial to profitability. The bank must assess whether a small manufacturing business in Monterrey, Mexico (with audited financials in Spanish, complex supply chains, and exposure to peso volatility) is creditworthy. This requires credit expertise, country knowledge, and willingness to accept higher risk than banks operating in more stable, developed economies. The corresponding reward is higher interest rates on loans to border businesses.
+IBOC's underwriting is crucial to profitability. The bank must assess whether a small manufacturing business in Monterrey, Mexico (with audited financials in Spanish, complex supply chains, and exposure to peso volatility) is creditworthy. This requires credit expertise, country knowledge, and willingness to accept higher risk than banks operating in more stable, developed economies. The corresponding reward is higher [interest rates](/interest-rate/) on loans to border businesses.
 
-Credit losses in economic downturns can be severe. If the Mexican economy enters recession or the peso depreciates sharply, borrowers' ability to service dollar-denominated debt is impaired. IBOC's [loan-loss reserves](/balance-sheet/) are a function of management's assessment of credit risk; higher reserve levels signal caution about asset quality.
+Credit losses in economic downturns can be severe. If the Mexican economy enters recession or the peso depreciates sharply, borrowers' ability to service dollar-denominated debt is impaired. IBOC's [loan-loss reserves](/balance-sheet/) are a function of management's assessment of [credit risk](/credit-risk/); higher reserve levels signal caution about asset quality.
 
 ## Interest-rate sensitivity and funding costs
 
@@ -47,13 +47,13 @@ IBOC also borrows from the Federal Home Loan Bank and may take advantage of othe
 
 ## Capital and regulatory requirements
 
-Like all [bank holding companies](/public-company/), IBOC must maintain minimum [capital](/balance-sheet/) ratios set by Federal Reserve regulation. The bank's [10-K](/10-k/) discloses Tier 1 capital, Common Equity Tier 1 (CET1), and Tier 2 capital levels. These ratios measure whether the bank has adequate loss-absorbing capital to survive stress. If capital ratios fall below regulatory minimums, the bank faces restrictions on dividend payments and may be required to raise capital or reduce assets.
+Like all [bank holding companies](/public-company/), IBOC must maintain minimum [capital](/balance-sheet/) ratios set by [Federal Reserve regulation](/federal-reserve-regulation/). The bank's [10-K](/10-k/) discloses [Tier 1 capital](/tier-1-capital/), Common Equity Tier 1 (CET1), and [Tier 2 capital](/tier-2-capital/) levels. These ratios measure whether the bank has adequate loss-absorbing capital to survive stress. If capital ratios fall below regulatory minimums, the bank faces restrictions on [dividend](/dividend/) payments and may be required to raise capital or reduce assets.
 
 IBOC's ability to deploy [capital](/balance-sheet/) into loans and earn returns above its [cost of equity](/return-on-equity/) is the core test of management effectiveness. If the bank can grow loans in its core market profitably, [return on equity](/return-on-equity/) will be attractive. If the bank must compete for loans in a commodity market or if credit losses are high, [return on equity](/return-on-equity/) will be subpar.
 
 ## Cross-border regulatory complexity
 
-IBOC faces regulatory oversight from the Federal Reserve, the OCC, and the FDIC in the United States, as well as indirect exposure to Mexican regulations affecting its customers. Sanctions rules (OFAC) are complex for banks with Mexican customers; the bank must screen for clients with links to drug trafficking or terrorism. Anti-money-laundering (AML) and know-your-customer (KYC) rules require careful documentation of customer identity and source of funds, especially for cross-border transactions. Regulatory scrutiny on border banks has increased over time, raising compliance costs.
+IBOC faces regulatory oversight from the [Federal Reserve](/federal-reserve/), the OCC, and the FDIC in the United States, as well as indirect exposure to Mexican regulations affecting its customers. Sanctions rules (OFAC) are complex for banks with Mexican customers; the bank must screen for clients with links to drug trafficking or terrorism. Anti-money-laundering (AML) and know-your-customer (KYC) rules require careful documentation of customer identity and source of funds, especially for cross-border transactions. Regulatory scrutiny on border banks has increased over time, raising compliance costs.
 
 ## Market positioning in a consolidating industry
 

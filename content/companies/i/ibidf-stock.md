@@ -31,7 +31,7 @@ In 2020–2021, pandemic-driven shortages and work-from-home demand created a su
 
 ## Manufacturing footprint and supply-chain resilience
 
-Ibiden operates fabrication facilities in Japan (primary), South Korea, Singapore, Malaysia, and Europe. This geographic diversification hedges against regional disruptions (labor actions, natural disasters, geopolitical risk) but also creates complexity in coordinating production, managing tax exposure, and maintaining consistent product quality across sites. Capacity expansions in lower-cost regions (Southeast Asia) can improve profitability if quality and yields match Japanese standards.
+Ibiden operates fabrication facilities in Japan (primary), South Korea, Singapore, Malaysia, and Europe. This geographic [diversification](/diversification/) hedges against regional disruptions (labor actions, natural disasters, geopolitical risk) but also creates complexity in coordinating production, managing tax exposure, and maintaining consistent product quality across sites. Capacity expansions in lower-cost regions (Southeast Asia) can improve profitability if quality and yields match Japanese standards.
 
 The company also operates as a supplier in global semiconductor and automotive supply chains, which means exposure to trade policy, tariffs, and supply-chain disruptions. Automotive customers, in particular, demand just-in-time delivery and penalize disruptions; Ibiden must maintain buffers and redundancy that add cost.
 

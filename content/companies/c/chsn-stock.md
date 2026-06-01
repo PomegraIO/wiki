@@ -34,7 +34,7 @@ Disruption has begun: e-commerce platforms (Alibaba, JD.com, Douyin commerce) an
 
 The Chinese beverage market has shifted dramatically over the past five to ten years. Sugar-sweetened soft drinks have faced headwinds due to health consciousness and nascent regulation. Bottled water (plain, mineral, and alkaline variants) has grown steadily. Sports drinks, plant-based beverages, and functional drinks (collagen, probiotics, energy) have exploded, driven by younger consumers seeking perceived health benefits. Alcohol-free beer and alcohol products positioned as "health drinks" (low-sugar, natural) have gained traction.
 
-A company like Chanson must navigate these shifts, adjusting its product portfolio to match consumer preferences, reformulating existing products, and launching new SKUs (stock-keeping units, or individual products). Misreading the market—maintaining focus on declining categories or failing to innovate into growth areas—is a common path to erosion. Conversely, diversification into multiple categories spreads marketing and operational resources thin and dilutes brand focus.
+A company like Chanson must navigate these shifts, adjusting its product portfolio to match consumer preferences, reformulating existing products, and launching new SKUs (stock-keeping units, or individual products). Misreading the market—maintaining focus on declining categories or failing to innovate into growth areas—is a common path to erosion. Conversely, [diversification](/diversification/) into multiple categories spreads marketing and operational resources thin and dilutes brand focus.
 
 ## Regulatory and Quality Environment
 

@@ -29,7 +29,7 @@ The appeal is genuine. Industrial plant-based protein production currently relie
 
 Approval for genetically modified organisms varies wildly across jurisdictions. The European Union maintains strict restrictions on cultivating GM crops. Canada, Australia, and other markets have their own review timelines, which can stretch years. The United States has a more permissive regime, but even there, new GM traits require USDA, FDA, and EPA reviews. For a startup with limited resources, navigating these approval pathways in parallel is expensive and uncertain.
 
-Moolec's viability depends on achieving regulatory approvals in major agricultural markets—particularly the US and Latin America, where it has regional roots. Delays in any single market can defer revenue realization and drain cash reserves. Even approval does not guarantee adoption; farmers may hesitate to plant novel varieties if downstream buyers (food companies, exporters, commodity traders) fear consumer backlash or require non-GM certification. Argentina, where Moolec is headquartered, has a long history of soy cultivation and a pro-GM regulatory stance, but Argentina's macroeconomic instability and currency volatility introduce further risk to the firm's home-market prospects and balance-sheet valuation.
+Moolec's viability depends on achieving regulatory approvals in major agricultural markets—particularly the US and Latin America, where it has regional roots. Delays in any single market can defer revenue realization and drain cash reserves. Even approval does not guarantee adoption; farmers may hesitate to plant novel varieties if downstream buyers (food companies, exporters, commodity traders) fear consumer backlash or require non-GM certification. Argentina, where Moolec is headquartered, has a long history of soy cultivation and a pro-GM regulatory stance, but Argentina's macroeconomic instability and [currency volatility](/currency-volatility/) introduce further risk to the firm's home-market prospects and balance-sheet valuation.
 
 ## Scale and Margin Uncertainties
 
@@ -60,7 +60,7 @@ Moolec operates in a growing global interest in sustainable protein and climate-
 - [mlgo-stock](/mlgo-stock/) — technology-dependent company in a niche market
 
 ### Wider context
-- [Initial Public Offering](/initial-public-offering/) — Moolec went public via SPAC merger
+- [Initial Public Offering](/initial-public-offering/) — Moolec went public via SPAC [merger](/merger/)
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) — regulatory oversight of public company disclosures
 
 </div>

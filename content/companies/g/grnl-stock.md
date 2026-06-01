@@ -4,7 +4,7 @@ description: "Investment and venture management company, potentially operating a
 keywords: ["venture", "investment", "development-stage", "capital allocation", "shell", "acquisitions"]
 ---
 
-*[**GREENLITE VENTURES INC**](/grnl-stock/) (ticker [**GRNL**](/grnl-stock/)) functions as an investment and venture management entity. The company may operate as a development-stage business actively pursuing acquisitions or strategic investments, or it may hold a portfolio of securities and operating entities awaiting capital deployment. The operational reality of Greenlite Ventures is driven by management's capital allocation decisions: which sectors to target, how to structure deal flow, how to manage portfolio companies, and when to exit investments. Unlike a product or service company with repeatable operations, Greenlite's performance hinges on strategic choices and deal execution.*
+*[**GREENLITE VENTURES INC**](/grnl-stock/) (ticker [**GRNL**](/grnl-stock/)) functions as an investment and venture management entity. The company may operate as a development-stage business actively pursuing [acquisitions](/acquisition/) or strategic investments, or it may hold a portfolio of securities and operating entities awaiting capital deployment. The operational reality of Greenlite Ventures is driven by management's capital allocation decisions: which sectors to target, how to structure deal flow, how to manage portfolio companies, and when to exit investments. Unlike a product or service company with repeatable operations, Greenlite's performance hinges on strategic choices and deal execution.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GRNL</td></tr>
@@ -55,11 +55,11 @@ The ultimate goal of venture investment is to exit at a higher valuation than en
 
 **IPO**: if the portfolio company reaches significant scale (typically $100M+ in revenue), it can be taken public, creating a return when Greenlite sells shares. IPO exits require the portfolio company to achieve scale, profitability (or near-profitability), and clean financials—a 3–7 year build-out typically.
 
-**Secondary sale**: selling to another private-equity or venture firm. This is useful if the portfolio company is not yet large enough for IPO but is attractive to other investors.
+**[Secondary sale](/secondary-sale/)**: selling to another private-equity or venture firm. This is useful if the portfolio company is not yet large enough for IPO but is attractive to other investors.
 
-**Dividend recapitalization**: if a portfolio company generates steady cash flow, Greenlite can borrow against the cash flow and distribute the proceeds to itself, recouping some capital while remaining invested.
+**Dividend [recapitalization](/recapitalization/)**: if a portfolio company generates steady cash flow, Greenlite can borrow against the cash flow and distribute the proceeds to itself, recouping some capital while remaining invested.
 
-**Holdco structure**: some Greenlite Ventures may hold a diverse portfolio of smaller companies permanently, collecting dividends from operating businesses without ever selling them. This turns the company into a holding company, akin to Berkshire Hathaway on a smaller scale.
+**Holdco structure**: some Greenlite Ventures may hold a diverse portfolio of smaller companies permanently, collecting [dividends](/dividend/) from operating businesses without ever selling them. This turns the company into a holding company, akin to [Berkshire Hathaway](/brk-b-stock/) on a smaller scale.
 
 Exit timing affects returns. Exiting during an industry boom generates high valuations; exiting during a downturn generates lower proceeds. Greenlite's capital deployment cycle is thus partly timing-dependent—getting lucky with exit windows can significantly boost returns.
 
@@ -75,7 +75,7 @@ If Greenlite Ventures is self-capitalized (deploying its own balance-sheet capit
 
 ## Portfolio Diversification and Risk Management
 
-A venture portfolio is inherently risky: some portfolio companies will fail, some will underperform, and ideally, a few will generate exceptional returns. The goal is for the winners to more than offset the losers. This requires adequate portfolio size and diversification.
+A venture portfolio is inherently risky: some portfolio companies will fail, some will underperform, and ideally, a few will generate exceptional returns. The goal is for the winners to more than offset the losers. This requires adequate portfolio size and [diversification](/diversification/).
 
 A portfolio of 10 companies allows idiosyncratic company risk to diversify somewhat, but sector-level downturns still hit hard. A portfolio of software companies all facing cloud-computing headwinds will suffer simultaneously. Diversification across sectors (software, manufacturing, healthcare) or geographies (US, Europe, Asia) reduces correlated risk.
 

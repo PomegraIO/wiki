@@ -33,7 +33,7 @@ The company spent its early years building a scientific platform focused on unde
 
 ## The pipeline and the strategy
 
-Spyre's therapeutic programs [target](/tgt-stock/) conditions where uncontrolled immune activation causes damage — including autoimmune diseases and inflammatory conditions that currently lack satisfactory treatments or where existing drugs carry substantial side effects. The company's approach emphasizes precision immunology: identifying the specific immune cells or molecules driving disease and intervening at that point, rather than attempting wholesale immune suppression.
+Spyre's therapeutic programs target conditions where uncontrolled immune activation causes damage — including autoimmune diseases and inflammatory conditions that currently lack satisfactory treatments or where existing drugs carry substantial side effects. The company's approach emphasizes precision immunology: identifying the specific immune cells or molecules driving disease and intervening at that point, rather than attempting wholesale immune suppression.
 
 As of the company's most recent clinical updates, Spyre had multiple programs in clinical development, though specific stage and timeline data should be confirmed in the company's latest SEC filings. The nature of early-stage biotech means the pipeline is likely to shift — some programs will be abandoned as data emerges, others will be paused, and new candidates may emerge from the research phase. This is normal and expected; most experimental drugs fail before reaching patients.
 

@@ -39,7 +39,7 @@ A Krispy Kreme store's profitability depends on throughput—traffic volume driv
 
 ## How It Compares to Dunkin' and Starbucks
 
-Dunkin' dominates the value breakfast segment (doughnuts, coffee, prepared foods) with superior coffee quality and speed-of-service; it is an everyday destination, not a treat. Starbucks competes on brand and atmosphere at a higher price point. Krispy Kreme sits between—more aspirational than Dunkin' (the doughnut experience is central, not incidental) but less premium than Starbucks. This middle position is sustainable only if the brand stays strong and the experience justifies a price above fast-casual but below specialty. In competitive markets where both Dunkin' and Starbucks operate, Krispy Kreme's share of occasions shrinks. In less saturated markets or regions with brand strength, it thrives.
+Dunkin' dominates the value breakfast segment (doughnuts, coffee, prepared foods) with superior coffee quality and speed-of-service; it is an everyday destination, not a treat. [Starbucks](/sbux-stock/) competes on brand and atmosphere at a higher price point. Krispy Kreme sits between—more aspirational than Dunkin' (the doughnut experience is central, not incidental) but less premium than Starbucks. This middle position is sustainable only if the brand stays strong and the experience justifies a price above fast-casual but below specialty. In competitive markets where both Dunkin' and Starbucks operate, Krispy Kreme's share of occasions shrinks. In less saturated markets or regions with brand strength, it thrives.
 
 <div class="wiki-seealso">
 ### Closely related

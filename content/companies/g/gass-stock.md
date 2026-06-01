@@ -21,7 +21,7 @@ StealthGas earns revenue by chartering its vessels to energy traders, refiners, 
 
 ## Global Energy Demand: Cyclical and Increasingly Secular
 
-LPG demand has two sources: developed-market heating and cooking (seasonal and declining), and emerging-market industrial demand, particularly for power generation in areas without reliable grids or natural-gas infrastructure. The latter is growing structurally with electrification in Asia and Africa. That is a secular tailwind. But the cyclical overlay is severe. A global recession cuts industrial activity, refinery throughput, and power generation, all of which compress LPG volumes traded. China's property slowdown or India's infrastructure cycle directly impacts LPG demand. A downturn in emerging-market growth can suppress LPG demand by 5–10% globally, creating a glut of carrier capacity and evaporating rates. StealthGas has no control over this; it is a passive participant in a commodities supply chain.
+LPG demand has two sources: developed-market heating and cooking (seasonal and declining), and emerging-market industrial demand, particularly for power generation in areas without reliable grids or natural-gas infrastructure. The latter is growing structurally with electrification in Asia and Africa. That is a secular tailwind. But the cyclical overlay is severe. A global [recession](/recession/) cuts industrial activity, refinery throughput, and power generation, all of which compress LPG volumes traded. China's property slowdown or India's infrastructure cycle directly impacts LPG demand. A downturn in emerging-market growth can suppress LPG demand by 5–10% globally, creating a glut of carrier capacity and evaporating rates. StealthGas has no control over this; it is a passive participant in a commodities supply chain.
 
 ## Fleet Supply: A Decadal Cycle of Its Own
 
@@ -37,7 +37,7 @@ Owning and operating LPG carriers requires substantial capital. New vessels cost
 
 ## Leverage and Financial Cycle
 
-StealthGas likely carries debt to finance its fleet. In a strong shipping cycle, debt is easily serviced from operating cash flow; in a weak cycle, tight cash flow strains the balance sheet. A company that over-leverages during boom times can face liquidity crises when rates crash. Conversely, conservative leverage positioning during a boom foregoes returns. Shipping companies are perpetually torn between the temptation to maximize returns through leverage and the need to survive downturns with a fortress balance sheet. The financial cycle (credit availability, interest rates) overlaps with the shipping cycle, often amplifying swings. When a shipping downturn coincides with credit tightening, the impact is severe.
+StealthGas likely carries debt to finance its fleet. In a strong shipping cycle, debt is easily serviced from operating cash flow; in a weak cycle, tight cash flow strains the [balance sheet](/balance-sheet/). A company that over-leverages during boom times can face liquidity crises when rates crash. Conversely, conservative leverage positioning during a boom foregoes returns. Shipping companies are perpetually torn between the temptation to maximize returns through leverage and the need to survive downturns with a fortress balance sheet. The financial cycle (credit availability, [interest rates](/interest-rate/)) overlaps with the shipping cycle, often amplifying swings. When a shipping downturn coincides with credit tightening, the impact is severe.
 
 ## Labor and Commodity Input Costs
 

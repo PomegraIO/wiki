@@ -19,11 +19,11 @@ keywords: ["cargo handling", "port equipment", "industrial machinery", "load sec
 
 Cargotec makes heavy machinery for cargo handling: ship-to-shore cranes, straddle carriers, twist locks, and vehicle lashing systems used in ports and by trucking companies. Each product is engineered steel, hydraulics, and electrical controls, manufactured to order or in small batches. The firm's profitability depends on getting the unit cost of manufacturing, assembly, and testing below the selling price.
 
-Unlike high-volume consumer goods, industrial machinery economics are hit-or-miss. A container crane costs $2–5 million to build and sell. The profit on a single unit might be $400,000 to $600,000 if the build stays on schedule and within cost targets. But a single overrun—a delay in hydraulic component sourcing, a design change requested mid-build, labor shortages—can eliminate the margin. Cargotec must carefully manage project execution to hit contribution margins of 15–25% on major equipment sales.
+Unlike high-volume consumer goods, industrial machinery economics are hit-or-miss. A container crane costs $2–5 million to build and sell. The profit on a single unit might be $400,000 to $600,000 if the build stays on schedule and within cost targets. But a single overrun—a delay in hydraulic component sourcing, a design change requested mid-build, labor shortages—can eliminate the margin. Cargotec must carefully manage project execution to hit [contribution margins](/contribution-margin/) of 15–25% on major equipment sales.
 
 ## Fixed costs and the throughput barrier
 
-Cargotec operates manufacturing facilities in Europe, North America, and Asia. These plants incur fixed costs: depreciation, maintenance, indirect labor, facility rent. To be profitable, the firm must generate sufficient sales volume to cover these costs and produce margin on top. In years when global cargo volumes are weak and ports defer equipment purchases, Cargotec's utilization drops and profitability falls sharply.
+Cargotec operates manufacturing facilities in Europe, North America, and Asia. These plants incur fixed costs: [depreciation](/depreciation/), maintenance, indirect labor, facility rent. To be profitable, the firm must generate sufficient sales volume to cover these costs and produce margin on top. In years when global cargo volumes are weak and ports defer equipment purchases, Cargotec's utilization drops and profitability falls sharply.
 
 Conversely, in years of strong shipping and port investment, backorders grow, and the firm runs plants at high utilization, spreading fixed costs over more units and boosting margin significantly. This cyclicality is baked into the business: Cargotec's fortunes rise and fall with container port activity globally.
 
@@ -51,7 +51,7 @@ The global cargo-handling market is concentrated among a handful of major suppli
 
 ## Geographic and end-market exposure
 
-Cargotec's revenue is split across ports, trucking, construction, and industrial sectors, in multiple geographies. A slowdown in Asian container traffic affects port equipment demand; a construction downturn affects material-handling demand. The firm's geographic and vertical diversification provides some insulation, but exposure to global shipping, which is cyclical and sensitive to trade volumes, remains core to its business.
+Cargotec's revenue is split across ports, trucking, construction, and industrial sectors, in multiple geographies. A slowdown in Asian container traffic affects port equipment demand; a construction downturn affects material-handling demand. The firm's geographic and vertical [diversification](/diversification/) provides some insulation, but exposure to global shipping, which is cyclical and sensitive to trade volumes, remains core to its business.
 
 ## Research path
 

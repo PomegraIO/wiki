@@ -31,7 +31,7 @@ Rare earth processing is chemically intensive and generates hazardous waste stre
 
 State-level mining permitting is equally demanding. Most rare earth projects would require permits from state mining boards or equivalent agencies, plus water rights adjudication in water-scarce regions. Water is critical for rare earth processing; in the West, water rights are fiercely contested. ERock cannot simply use water it owns or that flows through its land; it must obtain legal entitlements—often acquired through purchase, lease, or adjudication—and it must prove that its withdrawal will not impair the rights of other water users. This alone can be a multi-year process in water-short states.
 
-Mining permits at state level often impose bonding requirements: ERock must post financial security to guarantee that if operations cease, the company will fund full mine closure, site restoration, and financial assurance of long-term environmental monitoring. The cost of that bond—sometimes tens of millions of dollars—is a direct regulatory expense that reduces available capital for development.
+Mining permits at state level often impose bonding requirements: ERock must post financial security to guarantee that if operations cease, the company will fund full mine closure, site restoration, and financial assurance of long-term environmental monitoring. The cost of that [bond](/bond/)—sometimes tens of millions of dollars—is a direct regulatory expense that reduces available capital for development.
 
 ## Reclamation and Closure Planning
 

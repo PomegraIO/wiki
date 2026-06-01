@@ -20,11 +20,11 @@ keywords: ["florist", "e-commerce", "gifting", "subscription", "logistics"]
 
 ## Relationship Risk and Florist Dependency
 
-The company's delivery network depends on partnerships with thousands of local florists across North America. 1 800 FLOWERS does not own the fulfillment; it brokers transactions between customers and local shops. This creates a structural liability: a florist in a given market who receives a surge of orders during Valentine's may lack the margin, skill, or willingness to deliver them on time or at the promised quality. If fulfillment partners fail repeatedly, brand damage spreads far faster than the company can fix it. Conversely, florists who feel squeezed by commission rates and volume demands may deprioritize 1 800 FLOWERS orders in favor of their own customer base. The company has incentive to police the network but limited levers over independent operators.
+The company's delivery network depends on partnerships with thousands of local florists across North America. 1 800 FLOWERS does not own the fulfillment; it [brokers](/broker/) transactions between customers and local shops. This creates a structural liability: a florist in a given market who receives a surge of orders during Valentine's may lack the margin, skill, or willingness to deliver them on time or at the promised quality. If fulfillment partners fail repeatedly, brand damage spreads far faster than the company can fix it. Conversely, florists who feel squeezed by commission rates and volume demands may deprioritize 1 800 FLOWERS orders in favor of their own customer base. The company has incentive to police the network but limited levers over independent operators.
 
 ## Discretionary Spending Sensitivity
 
-Flowers and gifts are consumption-optional in ways that food or utilities are not. In a recession or extended downturn, consumers defer non-essential spending or trade down to cheaper options (grocery-store bouquets, free digital cards). The company's subscription services (FTD, The Posy, and other recurring-gift offerings) offer some revenue smoothing, but the base business remains anchored to disposable income and willingness to spend on sentiment. Employment disruptions, inflation eroding real wages, or credit-market tightening all pose direct headwinds.
+Flowers and gifts are consumption-optional in ways that food or utilities are not. In a [recession](/recession/) or extended downturn, consumers defer non-essential spending or trade down to cheaper options (grocery-store bouquets, free digital cards). The company's subscription services (FTD, The Posy, and other recurring-gift offerings) offer some revenue smoothing, but the base business remains anchored to disposable income and willingness to spend on sentiment. Employment disruptions, [inflation](/inflation/) eroding real wages, or credit-market tightening all pose direct headwinds.
 
 ## E-Commerce Commoditization
 
@@ -32,7 +32,7 @@ The low barrier to entry in online flower sales means that 1 800 FLOWERS compete
 
 ## Margin Pressure and Unit Economics
 
-The company must spend on customer acquisition, brand maintenance, and logistics to compete. Flower delivery is either handled in-house (costly, limited scale) or franchised to local florists (margin-sharing). International expansion attempts have foundered; the model is capital-intensive to replicate. Even with scale, a fresh-flower retail operation has hard limits on margins due to product spoilage, seasonality, and delivery costs.
+The company must spend on customer [acquisition](/acquisition/), brand maintenance, and logistics to compete. Flower delivery is either handled in-house (costly, limited scale) or franchised to local florists (margin-sharing). International expansion attempts have foundered; the model is capital-intensive to replicate. Even with scale, a fresh-flower retail operation has hard limits on margins due to product spoilage, seasonality, and delivery costs.
 
 ## A Bet on Occasions and Consumer Trust
 

@@ -18,7 +18,7 @@ keywords: ["manufacturing", "specialty equipment", "industrial components", "nic
 
 MGLD operates manufacturing facilities that convert raw materials and component inputs into finished products for customers who value customization over commodity pricing. This is not mass production; the company likely employs job-shop or batch-production methods where each customer order triggers a distinct production run. This operational model requires skilled technicians, flexible tooling, and inventory management that anticipates customer demand without committing to large pre-manufactured stock. A job-shop manufacturer lives or dies by its ability to turn orders quickly, maintain quality at low volumes, and price work competitively enough that custom production remains preferable to the customer relative to mass-produced alternatives.
 
-The company's facilities include machine tools, assembly areas, quality-control stations, and likely specialized equipment tuned to its chosen niches. Capital efficiency is critical; a machine that sits idle because demand is lumpy or seasonal destroys profitability. MGLD must therefore either maintain excess capacity to handle demand peaks or accept long lead times when orders surge. The choice between these trade-offs shapes the company's competitive positioning and cash conversion cycle.
+The company's facilities include machine tools, assembly areas, quality-control stations, and likely specialized equipment tuned to its chosen niches. Capital efficiency is critical; a machine that sits idle because demand is lumpy or seasonal destroys profitability. MGLD must therefore either maintain excess capacity to handle demand peaks or accept long lead times when orders surge. The choice between these trade-offs shapes the company's competitive positioning and [cash conversion cycle](/cash-conversion-cycle/).
 
 ## Supply Chain and Material Sourcing
 
@@ -48,7 +48,7 @@ The company's ability to retain expertise—through competitive wages, job stabi
 
 Unlike a service business with minimal inventory, MGLD carries raw-material stock, work-in-progress, and finished-goods inventory. Each of these consumes cash and capital. A manufacturer that carries 30 days of raw materials, 15 days of work-in-progress, and 10 days of finished goods has financed roughly 55 days of operating costs in inventory—a substantial cash requirement for a small company. If customers demand 60-day payment terms while MGLD must pay suppliers in 30 days, the company faces a working-capital squeeze that can overwhelm profitability.
 
-MGLD's actual cash conversion cycle—the number of days between cash outlay for materials and cash collection from customers—is disclosed implicitly in the balance sheet through accounts payable, accounts receivable, and inventory changes. An efficient manufacturer converts cash quickly; an inefficient one ties up capital and must borrow to fund operations.
+MGLD's actual cash conversion cycle—the number of days between cash outlay for materials and cash collection from customers—is disclosed implicitly in the balance sheet through [accounts payable](/accounts-payable/), [accounts receivable](/accounts-receivable/), and inventory changes. An efficient manufacturer converts cash quickly; an inefficient one ties up capital and must borrow to fund operations.
 
 <div class="wiki-seealso">
 ### Closely related

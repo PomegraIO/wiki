@@ -31,7 +31,7 @@ Second, the company had to identify which methylation markers correlated with cl
 
 Third, MDxHealth had to pursue clinical validation and regulatory approval. In the United States, molecular diagnostic tests that provide patient-level results must be validated to FDA standards (or meet CLIA requirements for laboratories). In Europe, regulations are less rigid, but clinical adoption still requires published evidence that the tests improve patient outcomes.
 
-Fourth, the company had to build a business model. Molecular diagnostics are typically offered through partnerships with hospital laboratories or as a reference laboratory service. MDxHealth could either license its assays to large diagnostic companies (like Quest Diagnostics or LabCorp) or operate its own laboratory and market tests directly to physicians and patients. The company chose a hybrid model: develop proprietary assays, partner with diagnostic providers in some geographies, and operate its own testing capability in others.
+Fourth, the company had to build a business model. Molecular diagnostics are typically offered through partnerships with hospital laboratories or as a reference laboratory service. MDxHealth could either license its assays to large diagnostic companies (like [Quest Diagnostics](/dgx-stock/) or LabCorp) or operate its own laboratory and market tests directly to physicians and patients. The company chose a hybrid model: develop proprietary assays, partner with diagnostic providers in some geographies, and operate its own testing capability in others.
 
 ## The Diagnostic Test Portfolio
 
@@ -51,7 +51,7 @@ Growth requires expanding the test portfolio (new cancer types, new clinical app
 
 ## Challenges in Precision Diagnostics
 
-MDxHealth's business model faces structural challenges. First, competition is intense. Other companies (Guardant Health, Foundation Medicine, Exact Sciences, and others) offer competing methylation or genomic tests. Many large diagnostic companies have developed in-house methylation assays. Differentiation requires proprietary science and strong clinical evidence.
+MDxHealth's business model faces structural challenges. First, competition is intense. Other companies ([Guardant Health](/gh-stock/), Foundation Medicine, Exact Sciences, and others) offer competing methylation or genomic tests. Many large diagnostic companies have developed in-house methylation assays. Differentiation requires proprietary science and strong clinical evidence.
 
 Second, reimbursement is uncertain and can change. Insurance companies periodically re-evaluate coverage for molecular diagnostics. If a major payer denies coverage for a test, revenue can drop sharply. MDxHealth must continuously generate clinical evidence to justify reimbursement and defend against cost-cutting pressures.
 
@@ -59,7 +59,7 @@ Third, the scientific foundation itself can shift. If new methylation markers ar
 
 ## Evolution and Strategic Positioning
 
-MDxHealth's trajectory has involved partnerships, acquisitions of complementary technologies, and expansion into new cancer types. The company faces a strategic question: maintain independence as a specialized diagnostics company, or seek acquisition by a larger diagnostic or pharmaceutical company that can distribute tests globally and cross-sell with other products.
+MDxHealth's trajectory has involved partnerships, [acquisitions](/acquisition/) of complementary technologies, and expansion into new cancer types. The company faces a strategic question: maintain independence as a specialized diagnostics company, or seek acquisition by a larger diagnostic or pharmaceutical company that can distribute tests globally and cross-sell with other products.
 
 The company's founding purpose — building a clinical diagnostic company from epigenetic science — was accomplished. Whether methylation-based tests remain the standard of care for cancer risk assessment and treatment guidance as alternative technologies emerge remains an open question. Success requires continuous innovation, strong clinical partnerships, and navigating complex reimbursement markets.
 

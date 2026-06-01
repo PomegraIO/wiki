@@ -38,7 +38,7 @@ The flip side is that healthcare real estate is capital-intensive to build and i
 
 ## The competitive and operational landscape
 
-Healthcare Realty competes against other healthcare-focused REITs (such as Medical Properties Trust and CNL Healthcare Properties), as well as against generic commercial landlords willing to rent to medical tenants. The advantage of specialized expertise matters: a [healthcare REIT](/healthcare-reit/) understands lease structures, knows the operator base, can spot distress earlier, and manages relationships with hospital systems and physician groups more effectively than a generalist landlord.
+Healthcare Realty competes against other healthcare-focused REITs (such as [Medical Properties](/mpt-stock/) Trust and CNL Healthcare Properties), as well as against generic commercial landlords willing to rent to medical tenants. The advantage of specialized expertise matters: a [healthcare REIT](/healthcare-reit/) understands lease structures, knows the operator base, can spot distress earlier, and manages relationships with hospital systems and physician groups more effectively than a generalist landlord.
 
 The real pressure on the portfolio comes from consolidation among healthcare providers. Large health systems and hospital networks negotiate aggressively on rent, often demanding below-market rates in exchange for occupying many buildings at once. When a major health system becomes a tenant, it wields leverage. Smaller, independent physician groups are less able to demand concessions, making them more stable tenants but less attractive as growth targets because they occupy less space.
 

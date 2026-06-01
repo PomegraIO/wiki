@@ -19,7 +19,7 @@ keywords: [manufacturing, composites, molding, automotive, industrial, plastics,
 
 ## What Core Molding actually makes
 
-Core Molding Technologies operates injection-molding and compression-molding facilities. The company makes plastic and composite parts. Think bumpers, door panels, interior trim, speaker cones, appliance handles, or battery enclosures. These are not consumer products with brand names; they are components that go into other manufacturers' products. Automotive is the primary market; a big percentage of Core Molding's revenue comes from making parts for car assemblers or their suppliers. Appliance makers, consumer electronics, and industrial customers round out the customer base. The company is a contract manufacturer—it takes a customer's design, operates the molds, and ships the finished parts.
+Core Molding Technologies operates injection-molding and compression-molding facilities. The company makes plastic and composite parts. Think bumpers, door panels, interior trim, speaker cones, appliance handles, or battery enclosures. These are not consumer products with brand names; they are components that go into other manufacturers' products. Automotive is the [primary market](/primary-market/); a big percentage of Core Molding's revenue comes from making parts for car assemblers or their suppliers. Appliance makers, consumer electronics, and industrial customers round out the customer base. The company is a contract manufacturer—it takes a customer's design, operates the molds, and ships the finished parts.
 
 ## The manufacturing reality
 
@@ -35,7 +35,7 @@ Automotive is Core Molding's largest end market. When car sales and production a
 
 ## Pricing and margin pressure
 
-Contract manufacturers are not in high-margin businesses. A molded plastic part might have a [gross profit margin](/gross-profit-margin/) of 20 to 30 percent. Price pressure is constant: customers demand cost reductions, and larger suppliers—automotive OEMs—have significant leverage. Core Molding must offset customer price cuts with productivity gains (making parts faster, cheaper) or loss of volume. When raw material costs (plastic resin) spike, margins are squeezed unless the company can pass costs to customers. Most can only partially recover raw material inflation, so operating leverage cuts both ways—when volumes are up, margins expand, and when volumes are down, margins compress.
+Contract manufacturers are not in high-margin businesses. A molded plastic part might have a [gross profit margin](/gross-profit-margin/) of 20 to 30 percent. Price pressure is constant: customers demand cost reductions, and larger suppliers—automotive OEMs—have significant leverage. Core Molding must offset customer price cuts with productivity gains (making parts faster, cheaper) or loss of volume. When raw material costs (plastic resin) spike, margins are squeezed unless the company can pass costs to customers. Most can only partially recover raw material [inflation](/inflation/), so operating leverage cuts both ways—when volumes are up, margins expand, and when volumes are down, margins compress.
 
 ## Tooling and setup costs
 
@@ -51,7 +51,7 @@ Molding facilities require equipment investment. New injection-molding presses a
 
 ## Geographic and product concentration
 
-Core Molding operates facilities in the United States and possibly elsewhere. Proximity to customers (automotive plants) drives facility location. If major customers are concentrated in the Midwest, the company's footprint is biased there, which means regional economic downturns hit hard. Diversification across geographies and end markets (automotive, appliances, industrial) reduces risk, but most contract manufacturers are still heavily automotive-dependent.
+Core Molding operates facilities in the United States and possibly elsewhere. Proximity to customers (automotive plants) drives facility location. If major customers are concentrated in the Midwest, the company's footprint is biased there, which means regional economic downturns hit hard. [Diversification](/diversification/) across geographies and end markets (automotive, appliances, industrial) reduces risk, but most contract manufacturers are still heavily automotive-dependent.
 
 ## The long-term picture
 

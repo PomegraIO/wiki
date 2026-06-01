@@ -47,7 +47,7 @@ For Clearmind specifically, this means a narrowing window of opportunity. If psi
 
 Clearmind's survival depends on three hard constraints: clinical efficacy data that regulators view as compelling, sustained financing, and an ability to navigate an unprecedented regulatory landscape. Any one failure is terminal. Clinical trials are multiyear, multimillion-dollar commitments; a failed trial doesn't just lose money—it closes off that indication and raises questions about the molecule itself. Financing is typically available for promising biotech, but only if clinical progress is evident; a stalled program loses investor confidence quickly.
 
-Additionally, Clearmind operates in a subsector that remains politically vulnerable. A policy reversal, renewed drug-war messaging, or a high-profile adverse event in the broader psychedelic-therapy space could dry up capital and regulatory goodwill. The company has no product revenue to cushion such setbacks.
+Additionally, Clearmind operates in a subsector that remains politically vulnerable. A policy reversal, renewed drug-war messaging, or a high-profile adverse event in the broader psychedelic-therapy space could dry up capital and regulatory [goodwill](/goodwill/). The company has no product revenue to cushion such setbacks.
 
 <div class="wiki-seealso">
 ### Closely related

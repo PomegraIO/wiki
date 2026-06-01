@@ -29,7 +29,7 @@ CAPL's wholesale business is exposed to crude-oil-driven swings in refined-produ
 
 ## Capital Return and Unit-Price Dependency
 
-CAPL is structured to return most of its distributable cash to unitholders as monthly or quarterly distributions, limiting capital reinvestment and growth. That structure appeals to income investors but locks the partnership into a model where growth and returns are separated: maintenance capital keeps assets functioning, but expansion requires either new external debt or dilutive unit issuance. If the [stock](/stock/) price falls, a rights offering becomes punitive to existing holders. The partnership's cost of capital—both debt and equity—rises when unit prices decline, making expansion less attractive precisely when business is under stress.
+CAPL is structured to return most of its distributable cash to unitholders as monthly or quarterly distributions, limiting capital reinvestment and growth. That structure appeals to income investors but locks the partnership into a model where growth and returns are separated: maintenance capital keeps assets functioning, but expansion requires either new [external debt](/external-debt/) or dilutive unit issuance. If the [stock](/stock/) price falls, a [rights offering](/rights-offering/) becomes punitive to existing holders. The partnership's cost of capital—both debt and equity—rises when unit prices decline, making expansion less attractive precisely when business is under stress.
 
 ## Regulatory and Environmental Headwinds
 
@@ -37,7 +37,7 @@ Federal and state regulations on fuel quality, emissions, and environmental reme
 
 ## Debt Servicing in a Margin Squeeze
 
-The partnership carries leverage to fund operations and distributions to unitholders. In an environment of rising [corporate-bond](/corporate-bond/) rates or widening credit spreads, refinancing maturing debt becomes more expensive. If margin compression coincides with higher debt costs, the partnership faces real pressure: it cannot easily cut the distribution without triggering unit sales and further price declines, yet it must service debt. A multi-year period of flat or declining fuel demand would test the sustainability of CAPL's [dividend](/dividend/) policy and its ability to remain investment-grade.
+The partnership carries leverage to fund operations and distributions to unitholders. In an environment of rising [corporate-bond](/corporate-bond/) rates or widening [credit spreads](/credit-spread/), refinancing maturing debt becomes more expensive. If margin compression coincides with higher debt costs, the partnership faces real pressure: it cannot easily cut the distribution without triggering unit sales and further price declines, yet it must service debt. A multi-year period of flat or declining fuel demand would test the sustainability of CAPL's [dividend](/dividend/) policy and its ability to remain investment-grade.
 
 ---
 

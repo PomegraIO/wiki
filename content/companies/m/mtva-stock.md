@@ -17,7 +17,7 @@ keywords: ["biotechnology", "clinical development", "therapeutic development", "
 
 ## The R&D Burn Model: Capital Intensity and Runway
 
-MetaVia's business model is inverted compared to mature pharmaceuticals. Rather than generating revenue and investing a percentage into R&D, MetaVia consumes capital to fund R&D, burning through accumulated cash (from past equity raises and cash on balance sheet) each quarter with no offsetting product revenue. The company measures success not by [profit margins](/operating-margin/) or return on assets, but by milestones: advancing a drug candidate through clinical trial phases, securing regulatory guidance, publishing positive efficacy data, or obtaining partnerships.
+MetaVia's business model is inverted compared to mature pharmaceuticals. Rather than generating revenue and investing a percentage into R&D, MetaVia consumes capital to fund R&D, burning through accumulated cash (from past equity raises and cash on balance sheet) each quarter with no offsetting product revenue. The company measures success not by [profit margins](/operating-margin/) or [return on assets](/return-on-assets/), but by milestones: advancing a drug candidate through clinical trial phases, securing regulatory guidance, publishing positive efficacy data, or obtaining partnerships.
 
 The fundamental metric is *runway*—how many months of operations the current cash balance supports. A clinical-stage biotech with $50 million in cash and $5 million quarterly burn has approximately 10 quarters (2.5 years) to achieve a material milestone before needing another [equity](/common-stock/) raise. Each financing dilutes shareholders; multiple financings can dramatically reduce the equity value of early investors.
 
@@ -32,7 +32,7 @@ MetaVia's assets progress through defined stages:
 5. **Phase 3**: Large randomized trials proving efficacy vs. placebo/standard treatment; critical gate, expensive ($50M–$300M+).
 6. **NDA/BLA**: New Drug Application or Biologics License Application; regulatory review.
 
-Each transition de-risks the project and increases its value. A Phase 2 success (demonstrating efficacy) might increase a program's valuation 3–5x compared to Phase 1 data. A Phase 3 success might increase it 10–20x, creating significant upside for shareholders and making the company an acquisition target for larger pharmaceutical firms.
+Each transition de-risks the project and increases its value. A Phase 2 success (demonstrating efficacy) might increase a program's valuation 3–5x compared to Phase 1 data. A Phase 3 success might increase it 10–20x, creating significant upside for shareholders and making the company an [acquisition](/acquisition/) target for larger pharmaceutical firms.
 
 ## The Partnership and Licensing Path to Capital Access
 
@@ -62,7 +62,7 @@ Conversely, if competitors develop a similar drug with a different chemical stru
 
 Investors evaluating MetaVia should examine: (1) pipeline composition (how many programs, at what stages); (2) unmet medical needs in target indications (market size, competitive landscape); (3) cash runway (sufficient to reach next meaningful milestone); (4) partnerships or letter-of-intent agreements that reduce financing risk; (5) management team experience in drug development and regulatory navigation; and (6) patent position and remaining exclusivity.
 
-A common warning sign is a company with a single program nearing the end of runway and no backup candidates. Diversification across multiple programs reduces (but does not eliminate) the risk of total pipeline failure.
+A common warning sign is a company with a single program nearing the end of runway and no backup candidates. [Diversification](/diversification/) across multiple programs reduces (but does not eliminate) the risk of total pipeline failure.
 
 ## See Also
 

@@ -44,7 +44,7 @@ Profitability also depends on utilization of PeopleReady workers. Not every work
 
 ## Competitive positioning and moats
 
-The staffing industry is fragmented, with national players like Kelly Services and smaller regional firms competing on price and speed. TrueBlue's main advantage is network density: in markets where it has high penetration of both workers and employers, the app experience improves and the matching gets faster. That network effect is local, not global—being strong in Denver does not help much if you have no workers in Tampa.
+The staffing industry is fragmented, with national players like [Kelly Services](/kelya-stock/) and smaller regional firms competing on price and speed. TrueBlue's main advantage is network density: in markets where it has high penetration of both workers and employers, the app experience improves and the matching gets faster. That network effect is local, not global—being strong in Denver does not help much if you have no workers in Tampa.
 
 The company also benefits from switching costs. Employers who integrate PeopleManagement into their HR operations, or who have been using PeopleScout for years to handle recruitment, face friction in switching to a competitor. Workers who have a positive history on PeopleReady (good pay, reliable work, reviews) may prefer to return to a platform they trust. But neither switching cost is insurmountable, and price competition remains intense.
 

@@ -24,7 +24,7 @@ CEPU's main competitive tension is between itself and the Puerto Rico government
 
 ## Fuel Supply and Commodity Risk
 
-CEPU's profitability hinges on the cost of fuel for power generation. Puerto Rico has no natural gas pipeline connecting it to the mainland and must import liquefied natural gas (LNG) or rely on imported petroleum products. This supply-chain dependency creates two competitive risks: exposure to global LNG pricing and vulnerability to shipping disruptions.
+CEPU's profitability hinges on the cost of fuel for power generation. Puerto Rico has no [natural gas](/natural-gas/) pipeline connecting it to the mainland and must import liquefied natural gas (LNG) or rely on imported petroleum products. This supply-chain dependency creates two competitive risks: exposure to global LNG pricing and vulnerability to shipping disruptions.
 
 When LNG prices spike globally, CEPU's operating costs rise. If the regulatory framework allows cost pass-through quickly, CEPU is insulated. If regulatory lag forces CEPU to absorb margin compression, its profitability suffers relative to rivals whose cost structures are not so exposed. Competitors on the mainland with access to cheaper pipeline gas or diversified fuel portfolios enjoy competitive advantages that CEPU cannot overcome through operational skill alone.
 

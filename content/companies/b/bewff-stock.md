@@ -25,7 +25,7 @@ BEWHERE's positioning within this market depends on whether it provides software
 
 ## The Competitive Landscape in Logistics Software
 
-Logistics software is not new. For decades, transportation management systems (TMS), warehouse management systems (WMS), and enterprise resource planning (ERP) systems have included logistics functionality. Large incumbents—3PL companies like XPO, J.B. Hunt, and others; ERP vendors like SAP and Oracle; and specialized logistics software companies like Descartes and JDA—all have entrenched positions and large installed bases.
+Logistics software is not new. For decades, transportation management systems (TMS), warehouse management systems (WMS), and enterprise resource planning (ERP) systems have included logistics functionality. Large incumbents—3PL companies like XPO, J.B. Hunt, and others; ERP vendors like SAP and [Oracle](/orcl-stock/); and specialized logistics software companies like Descartes and JDA—all have entrenched positions and large installed bases.
 
 This creates a crowding problem. A logistics software startup must differentiate on either specialization (focusing on a particular logistics problem, like last-mile optimization or dock-door scheduling) or on superior user experience or cost. BEWHERE's competitive advantage, if it exists, likely lies in specialization—solving a particular logistics pain point that larger vendors either neglect or solve poorly.
 
@@ -49,7 +49,7 @@ A logistics software company can help customers navigate this complexity: optimi
 
 ## The SaaS Model and Customer Acquisition Constraints
 
-Logistics software is increasingly sold as Software-as-a-Service (SaaS)—subscription fees rather than perpetual licenses. This model offers predictable recurring revenue and aligns vendor incentives with customer success. However, it also creates customer acquisition friction. A logistics company must see clear ROI from a new software solution in months, not years. Pilots and proof-of-concept projects are therefore common and necessary, but they are time-consuming and resource-intensive to support.
+Logistics software is increasingly sold as Software-as-a-Service (SaaS)—subscription fees rather than perpetual licenses. This model offers predictable recurring revenue and aligns vendor incentives with customer success. However, it also creates customer [acquisition](/acquisition/) friction. A logistics company must see clear ROI from a new software solution in months, not years. Pilots and proof-of-concept projects are therefore common and necessary, but they are time-consuming and resource-intensive to support.
 
 BEWHERE's ability to scale depends on whether it can acquire customers at acceptable cost and whether it can retain them through upgrades, cross-sells, and expanding use cases. A high churn rate in SaaS indicates that customers do not see sustained value; profitability becomes difficult.
 

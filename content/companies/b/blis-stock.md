@@ -16,7 +16,7 @@ keywords: ["defense contracting", "inspection equipment", "aerospace", "federal 
 
 ## How Defense Contracts Shape Revenue
 
-NAPC Defense's business model is inseparable from government procurement rules. Revenue typically comes from three channels: fixed-price contracts (where the company agrees to deliver equipment or services for a set fee, bearing cost overrun risk); time-and-materials contracts (where the government reimburses for labor and materials plus a markup, shifting risk to the buyer); and development contracts that fund research into new capabilities or process improvements. Each contract type carries different margin and risk profiles. Fixed-price contracts demand tight cost control and predictable scope but offer higher gross margins if executed efficiently. Time-and-materials work provides revenue visibility but subjects margins to labor-cost inflation and scheduling slippage. The company's total margin and cash flow depend heavily on the mix of contract types in its pipeline.
+NAPC Defense's business model is inseparable from government procurement rules. Revenue typically comes from three channels: fixed-price contracts (where the company agrees to deliver equipment or services for a set fee, bearing cost overrun risk); time-and-materials contracts (where the government reimburses for labor and materials plus a markup, shifting risk to the buyer); and development contracts that fund research into new capabilities or process improvements. Each contract type carries different margin and risk profiles. Fixed-price contracts demand tight cost control and predictable scope but offer higher gross margins if executed efficiently. Time-and-materials work provides revenue visibility but subjects margins to labor-cost [inflation](/inflation/) and scheduling slippage. The company's total margin and cash flow depend heavily on the mix of contract types in its pipeline.
 
 ## Qualification and Certification as Barriers
 
@@ -24,7 +24,7 @@ NAPC Defense operates in markets where qualification and security clearance are 
 
 ## The Customer Concentration Problem
 
-NAPC Defense's revenue is likely concentrated among a small number of government agencies and prime contractors who subcontract inspection and testing work. The Department of Defense, NASA, and major aerospace primes (Boeing, Lockheed, others) are likely large customers. This concentration creates revenue lumpiness: a major contract win can significantly boost annual results, while loss of a customer or contract can be devastating. The company has limited pricing power with its largest customers (the government is a monopsonist—it buys in large quantities and can demand competitive prices) but often enjoys preferential terms once qualified. The mix of pricing power depends on the company's position in the supply chain and its criticality to the customer's operations.
+NAPC Defense's revenue is likely concentrated among a small number of government agencies and prime contractors who subcontract inspection and testing work. The Department of Defense, NASA, and major aerospace primes ([Boeing](/ba-stock/), Lockheed, others) are likely large customers. This concentration creates revenue lumpiness: a major contract win can significantly boost annual results, while loss of a customer or contract can be devastating. The company has limited pricing power with its largest customers (the government is a monopsonist—it buys in large quantities and can demand competitive prices) but often enjoys preferential terms once qualified. The mix of pricing power depends on the company's position in the supply chain and its criticality to the customer's operations.
 
 ## Cyclicality and Defense Spending Patterns
 
@@ -40,7 +40,7 @@ NAPC likely derives significant revenue as a subcontractor to larger defense pri
 
 ## Profitability and Capital Structure
 
-Defense contractors are typically more capital-intensive than software or services firms, requiring investment in manufacturing facilities, test equipment, and inventory. NAPC's profitability depends on achieving sufficient volume and pricing to cover these costs while generating acceptable returns. Growth requires either reinvesting profits or accessing capital markets. The company's OTC listing suggests it has limited access to deep capital markets, constraining its ability to fund major capital projects or acquisitions. This creates a cap on scale and strategic flexibility.
+Defense contractors are typically more capital-intensive than software or services firms, requiring investment in manufacturing facilities, test equipment, and inventory. NAPC's profitability depends on achieving sufficient volume and pricing to cover these costs while generating acceptable returns. Growth requires either reinvesting profits or accessing capital markets. The company's OTC listing suggests it has limited access to deep capital markets, constraining its ability to fund major capital projects or [acquisitions](/acquisition/). This creates a cap on scale and strategic flexibility.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -21,7 +21,7 @@ Iridium operates approximately 66 satellites in polar orbits, with spares in res
 
 When reading the capital expenditure discussions, an analyst should focus on the satellite refresh cycle. Satellites degrade over time due to radiation, thermal stress, and fuel depletion. Iridium must replace aging satellites before they fail, or coverage gaps emerge. The company announced a next-generation constellation (Iridium NEXT) and has been methodically replacing the older satellites. The 10-K's capital plan should detail the timeline and cost of completing this transition. A delay or cost overrun in the refresh cycle directly threatens the company's service reliability and, by extension, its customer retention.
 
-Also examine the funding strategy. Iridium undertook a massive refinancing program to fund the constellation replacement. Is the company's debt-to-cash-flow ratio manageable? If not, refinancing risk could force service cuts or capacity reduction.
+Also examine the funding strategy. Iridium undertook a massive refinancing program to fund the constellation replacement. Is the company's debt-to-cash-flow ratio manageable? If not, [refinancing risk](/refinancing-risk/) could force service cuts or capacity reduction.
 
 ## Revenue Model: Subscriptions, IoT, and Government Contracts
 
@@ -47,11 +47,11 @@ Also check whether the company faces export control restrictions. Satellite comm
 
 Satellite operations have extraordinarily high fixed costs (the constellation, ground stations, network operations) but low incremental cost per additional subscriber or data unit. This creates a business with potential for high operating leverage: as the subscriber and IoT device base grow, incremental revenue drops directly to the bottom line. However, the corollary is that the business is fragile at low utilization. If utilization is below break-even, revenue declines are devastating.
 
-Look at the 10-K's [operating-margin](/operating-margin/) and EBITDA margin trends. Is the company moving toward 40%+ EBITDA margins, or is margin compression occurring? If margins are flat or declining, the company may not be capturing the operating leverage available and could be vulnerable to new competition or loss of large contracts.
+Look at the 10-K's [operating-margin](/operating-margin/) and [EBITDA](/ebitda/) margin trends. Is the company moving toward 40%+ [EBITDA margins](/ebitda-margin/), or is margin compression occurring? If margins are flat or declining, the company may not be capturing the operating leverage available and could be vulnerable to new competition or loss of large contracts.
 
 ## Debt and Refinancing Risk
 
-Iridium has taken on substantial debt to fund the constellation refresh. The 10-K should detail the maturity schedule and refinancing obligations. Is the debt at fixed rates or floating? If floating-rate debt, rising interest rates increase cash outflows. What is the debt-to-EBITDA ratio? In the 4- to 5-times range, it is manageable; above 6 times, it becomes worrying, particularly if growth stalls.
+Iridium has taken on substantial debt to fund the constellation refresh. The 10-K should detail the maturity schedule and refinancing obligations. Is the debt at fixed rates or floating? If floating-rate debt, rising [interest rates](/interest-rate/) increase cash outflows. What is the [debt-to-EBITDA ratio](/debt-to-ebitda-ratio/)? In the 4- to 5-times range, it is manageable; above 6 times, it becomes worrying, particularly if growth stalls.
 
 Also check for restrictive covenants. Some satellite operators have minimum liquidity requirements or cannot exceed certain leverage thresholds without triggering technical defaults. These covenants can severely constrain management's flexibility during downturns.
 
@@ -59,7 +59,7 @@ Also check for restrictive covenants. Some satellite operators have minimum liqu
 
 Ultimately, Iridium's long-term narrative rests on a simple premise: some portions of the Earth will never have terrestrial network coverage, and some use cases (maritime, polar, disaster zones) will always value a satellite backup. If that premise holds, Iridium has a durable business. If terrestrial networks become ubiquitous and cheaper, Iridium's addressable market shrinks. The 10-K's forward-looking disclosures should hint at management's confidence in this thesis. Look for how the company is investing in IoT and other growth vectors beyond voice. If the company is purely defending legacy voice revenue, the secular risk is rising.
 
-Finally, assess the quality of earnings. Is Iridium generating positive free [cash-flow](/free-cash-flow/)? Or is it consuming cash to fund capex and debt service? A satellite operator's true financial health is revealed in the cash-flow statement, not the income statement.
+Finally, assess the quality of earnings. Is Iridium generating positive free [cash-flow](/free-cash-flow/)? Or is it consuming cash to fund capex and debt service? A satellite operator's true financial health is revealed in the cash-flow statement, not the [income statement](/income-statement/).
 
 ---
 

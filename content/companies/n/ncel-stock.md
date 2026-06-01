@@ -4,7 +4,7 @@ description: "NewcelX is a cellular network infrastructure operator focused on t
 keywords: ["cellular network", "telecommunications", "infrastructure", "emerging markets", "mobile operator"]
 ---
 
-*NewcelX Ltd. (NCEL) is a telecommunications infrastructure operator whose revenue model hinges on per-minute or per-gigabyte airtime transmission and network-access licensing fees charged to mobile subscribers and resellers. The unit economics of cellular networks in underpenetrated markets depend on cost-per-minute and subscriber acquisition cost (SAC) stacked against lifetime value (LTV); NewcelX operates in geographies where scale and subscriber density determine margin sustainability.*
+*NewcelX Ltd. (NCEL) is a telecommunications infrastructure operator whose revenue model hinges on per-minute or per-gigabyte airtime transmission and network-access licensing fees charged to mobile subscribers and resellers. The unit economics of cellular networks in underpenetrated markets depend on cost-per-minute and subscriber [acquisition](/acquisition/) cost (SAC) stacked against lifetime value (LTV); NewcelX operates in geographies where scale and subscriber density determine margin sustainability.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>NCEL</td></tr>
@@ -17,7 +17,7 @@ keywords: ["cellular network", "telecommunications", "infrastructure", "emerging
 
 ## How Transmission Economics Drive the Business
 
-The cellular operator's unit transaction is the minute of call or the megabyte of data consumed. Revenue per unit depends on tariff (price per minute or per GB, typically lowest in competitive or emerging markets), and cost per unit consists of spectrum licensing fees, backhaul (network backbone) transmission, tower/site lease, and equipment amortization. NewcelX's margins turn on whether its subscriber base and usage density can absorb these fixed costs. In markets where NewcelX competes, per-minute rates often run $0.05 to $0.30, meaning subscriber lifetime value accumulates slowly and SAC must remain low. Every new customer requires upfront marketing spend that takes months of usage to recover; SAC of $10 per subscriber is typical in emerging markets, requiring 100+ hours of usage to break even.
+The cellular operator's unit transaction is the minute of call or the megabyte of data consumed. Revenue per unit depends on tariff (price per minute or per GB, typically lowest in competitive or emerging markets), and cost per unit consists of spectrum licensing fees, backhaul (network backbone) transmission, tower/site lease, and equipment [amortization](/amortization/). NewcelX's margins turn on whether its subscriber base and usage density can absorb these fixed costs. In markets where NewcelX competes, per-minute rates often run $0.05 to $0.30, meaning subscriber lifetime value accumulates slowly and SAC must remain low. Every new customer requires upfront marketing spend that takes months of usage to recover; SAC of $10 per subscriber is typical in emerging markets, requiring 100+ hours of usage to break even.
 
 ## Subscriber Acquisition and Retention as Fixed Costs
 
@@ -45,7 +45,7 @@ NewcelX may sell airtime wholesale to MVNOs (mobile virtual network operators) o
 
 ## Debt Service and Cashflow Sustainability
 
-Capital-intensive build-out (towers, spectrum auctions, backhaul) often requires debt. NewcelX's unit economics must generate enough monthly cashflow to service debt and fund expansion. If EBITDA margin is 30% on revenue, but debt service is 20% of revenue, the company has 10% free cash margin to reinvest or return to shareholders. Markets with deteriorating unit economics (rising SAC, price compression, rising churn) see free cashflow turn negative, forcing refinancing or strategic retreat.
+Capital-intensive build-out (towers, spectrum auctions, backhaul) often requires debt. NewcelX's unit economics must generate enough monthly cashflow to service debt and fund expansion. If [EBITDA margin](/ebitda-margin/) is 30% on revenue, but debt service is 20% of revenue, the company has 10% free cash margin to reinvest or return to shareholders. Markets with deteriorating unit economics (rising SAC, price compression, rising churn) see free cashflow turn negative, forcing refinancing or strategic retreat.
 
 ## Regulatory and License Risk to Unit Margin
 

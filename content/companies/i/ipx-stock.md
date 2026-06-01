@@ -4,7 +4,7 @@ description: "A rare-earth processing specialist developing domestic supply-chai
 keywords: [rare-earth-elements, titanium, critical-minerals, domestic-supply, materials-processing]
 ---
 
-*IPERIONX Ltd (NASDAQ: **IPX**) is a materials-processing company headquartered in Australia but pivoting toward US-based extraction and refining of titanium and rare-earth elements, positioning itself as a domestic alternative to Asian supply chains in critical materials.*
+*IPERIONX Ltd ([NASDAQ](/nasdaq/): **IPX**) is a materials-processing company headquartered in Australia but pivoting toward US-based extraction and refining of titanium and rare-earth elements, positioning itself as a domestic alternative to Asian supply chains in critical materials.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,11 +31,11 @@ Building a new rare-earth processing facility requires enormous capital investme
 
 ## Government Support and Policy Dependency
 
-A unique feature of IPERIONX's opportunity set is the explicit support from US government policy. The Inflation Reduction Act (passed in 2022) included grants and incentives for domestic critical-minerals processing. The US Department of Defense and Department of Energy have strategic interest in domestic rare-earth capacity. These policies create customer demand and subsidies that would not exist in a free market. This policy support is a major asset—it de-risks the business case and guarantees a customer base for IPERIONX's output. However, it is also a risk: if policy priorities shift (a new administration, a budget crisis), the subsidies or strategic demand could evaporate. IPERIONX's business is not independent of political cycle and Congressional budget dynamics. This is a form of regulatory risk specific to companies betting on infrastructure subsidies.
+A unique feature of IPERIONX's opportunity set is the explicit support from US government policy. The [Inflation](/inflation/) Reduction Act (passed in 2022) included grants and incentives for domestic critical-minerals processing. The US Department of Defense and Department of Energy have strategic interest in domestic rare-earth capacity. These policies create customer demand and subsidies that would not exist in a free market. This policy support is a major asset—it de-risks the business case and guarantees a customer base for IPERIONX's output. However, it is also a risk: if policy priorities shift (a new administration, a budget crisis), the subsidies or strategic demand could evaporate. IPERIONX's business is not independent of political cycle and Congressional budget dynamics. This is a form of regulatory risk specific to companies betting on infrastructure subsidies.
 
 ## Comparison to Traditional Mining and Metals Companies
 
-Traditional mining and metals companies (Alcoa, Rio Tinto, Glencore) operate in global commodity markets with low pricing power—they compete on cost reduction and mine-quality. Many have diversified commodity exposure, which gives them scale but also means rare-earth projects compete internally for capital with iron ore, copper, and other commodities. IPERIONX is focused purely on rare-earth and titanium, which means 100% of its capital and strategy are directed toward those materials. This focus is both a strength (alignment and clarity) and a weakness (exposure to a single commodity class and zero diversification). If rare-earth prices collapse due to oversupply or recession-driven demand destruction, IPERIONX has no other business to fall back on.
+Traditional mining and metals companies (Alcoa, [Rio Tinto](/rtntf-stock/), Glencore) operate in global commodity markets with low pricing power—they compete on cost reduction and mine-quality. Many have diversified commodity exposure, which gives them scale but also means rare-earth projects compete internally for capital with [iron ore](/iron-ore/), copper, and other commodities. IPERIONX is focused purely on rare-earth and titanium, which means 100% of its capital and strategy are directed toward those materials. This focus is both a strength (alignment and clarity) and a weakness (exposure to a single commodity class and zero [diversification](/diversification/)). If rare-earth prices collapse due to oversupply or recession-driven demand destruction, IPERIONX has no other business to fall back on.
 
 ## Technology vs. Geography: The Actual Competitive Advantage
 

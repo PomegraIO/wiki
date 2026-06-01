@@ -4,7 +4,7 @@ description: "A clinical-stage biopharmaceutical company financing drug developm
 keywords: ["biotech", "capital structure", "clinical development", "equity financing", "drug development"]
 ---
 
-*[**Dogwood Therapeutics, Inc.**](/stock/) (DWTX) is a biopharmaceutical company operating at the capital-intensive frontier of drug discovery and early clinical development, where the balance sheet is not yet a cash-generation engine but rather a carefully managed burn trajectory toward either clinical proof-of-concept or funding milestone events. The company's financial profile reflects the asymmetric payoff structure endemic to biotech: near-term cash outflows fund long-term, binary clinical trials, and capital strategy dominates business strategy at this stage of the firm's lifecycle.*
+*[**Dogwood Therapeutics, Inc.**](/stock/) (DWTX) is a biopharmaceutical company operating at the capital-intensive frontier of drug discovery and early clinical development, where the [balance sheet](/balance-sheet/) is not yet a cash-generation engine but rather a carefully managed burn trajectory toward either clinical proof-of-concept or funding milestone events. The company's financial profile reflects the asymmetric payoff structure endemic to biotech: near-term cash outflows fund long-term, binary clinical trials, and capital strategy dominates business strategy at this stage of the firm's lifecycle.*
 
 ## How Biotech Startups Fund Themselves
 
@@ -14,7 +14,7 @@ The company faces a dual constraint: it must fund expensive clinical trials and 
 
 ## Equity as Currency
 
-Dogwood's primary funding mechanism is the issuance of [common stock](/common-stock/) to institutional investors, venture capital firms, and strategic partners. Each funding round dilutes existing shareholders while extending the company's cash runway. Unlike mature companies, which manage shareholder returns through dividends and [share buybacks](/share-buyback/), Dogwood issues shares to raise cash for operations.
+Dogwood's primary funding mechanism is the issuance of [common stock](/common-stock/) to institutional investors, venture capital firms, and strategic partners. Each funding round dilutes existing shareholders while extending the company's cash runway. Unlike mature companies, which manage shareholder returns through [dividends](/dividend/) and [share buybacks](/share-buyback/), Dogwood issues shares to raise cash for operations.
 
 The company's capitalization table reflects this pattern: early-stage founders and employees hold equity at low prices, while institutional investors have entered at successive higher prices reflecting reduced risk as clinical data accumulates. This waterfall of valuations—sometimes called the "venture capital stack"—aligns investor incentives: later-round investors fund the trials that generate data justifying earlier valuations.
 
@@ -38,13 +38,13 @@ This creates a strategic question: should Dogwood raise large amounts now (simpl
 
 ## Return of Capital and Exit Optionality
 
-Unlike mature companies that return capital through dividends and buybacks, Dogwood's primary return mechanism for early-stage shareholders is equity appreciation. Investors hope the company either reaches profitability (unlikely in the medium term) or undergoes acquisition by a larger pharma firm seeking to in-license the therapy.
+Unlike mature companies that return capital through dividends and buybacks, Dogwood's primary return mechanism for early-stage shareholders is equity appreciation. Investors hope the company either reaches profitability (unlikely in the medium term) or undergoes [acquisition](/acquisition/) by a larger pharma firm seeking to in-license the therapy.
 
-An acquisition represents the dominant exit for early-stage biotechs. A large pharma acquires Dogwood not for its current earnings—there are none—but for its pipeline of clinical assets. The acquisition price is typically calculated as a multiple of expected peak sales or a sum of payments at each clinical milestone. This makes Dogwood's balance sheet and pipeline narrative the core determinant of enterprise value.
+An acquisition represents the dominant exit for early-stage biotechs. A large pharma acquires Dogwood not for its current earnings—there are none—but for its pipeline of clinical assets. The acquisition price is typically calculated as a multiple of expected peak sales or a sum of payments at each clinical milestone. This makes Dogwood's balance sheet and pipeline narrative the core determinant of [enterprise value](/enterprise-value/).
 
 ## Securities Disclosure and Capitalization Tables
 
-The [Securities and Exchange Commission](/securities-and-exchange-commission/) requires Dogwood to disclose its capitalization, including the number of outstanding shares of [common stock](/common-stock/) and any issued or authorized [preferred stock](/preferred-stock/), which often carries preferential liquidation rights and exists primarily in private-stage companies. The company's [10-K](/10-k/) filing details funding rounds, warrants, and options granted to employees.
+The [Securities and Exchange Commission](/securities-and-exchange-commission/) requires Dogwood to disclose its capitalization, including the number of outstanding shares of [common stock](/common-stock/) and any issued or authorized [preferred stock](/preferred-stock/), which often carries preferential [liquidation](/liquidation/) rights and exists primarily in private-stage companies. The company's [10-K](/10-k/) filing details funding rounds, warrants, and options granted to employees.
 
 Reading Dogwood's capital structure from its filings reveals the company's financing history and current runway. The number of shares outstanding grows with each funding round; a spike in authorized shares often precedes a capital raise. Cash on hand, combined with burn rate, tells investors how long the current capital lasts and thus when the next funding moment approaches.
 

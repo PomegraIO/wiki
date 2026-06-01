@@ -19,7 +19,7 @@ keywords: [MLP, energy, oil and gas, energy sector, commodity producer]
 
 MACH's legal classification as a master limited partnership is fundamental to its identity and investor base. MLPs are partnership structures, not corporations, and pass through income to unit holders without corporate-level taxation. Instead, unitholders receive K-1 tax forms and report their allocable share of partnership income or loss on their individual returns. This structure is advantageous for investors in high-tax states and offers tax deferral benefits, but it requires unitholders to have U.S. tax obligations and creates compliance overhead.
 
-The MLP structure also constrains MACH's strategic optionality. Acquiring a C-corporation would create a "publicly traded partnership" classification that attracts unfavorable tax treatment; thus MACH must be disciplined about acquisition targets and cap structure changes. This discipline is actually a virtue for income-focused investors, who value MLPs specifically for their commitment to distributing cash and their structural resistance to empire-building diversification.
+The MLP structure also constrains MACH's strategic optionality. Acquiring a C-corporation would create a "publicly traded partnership" classification that attracts unfavorable tax treatment; thus MACH must be disciplined about [acquisition](/acquisition/) targets and cap structure changes. This discipline is actually a virtue for income-focused investors, who value MLPs specifically for their commitment to distributing cash and their structural resistance to empire-building [diversification](/diversification/).
 
 ## Core Business: Production, Not Exploration
 
@@ -29,19 +29,19 @@ This production-focused posture reflects MACH's capital structure and investor b
 
 ## Commodity Price Exposure and Hedging
 
-MACH's revenues are directly proportional to oil and natural gas prices and production volumes. A 20% drop in crude oil prices reduces MACH's revenue without any operational change. This exposure is both the appeal and the peril of MLP investment. Investors seeking commodity-price upside buy MLPs; investors fleeing commodity risk avoid them. MACH has little control over the pricing side; hedging programs can reduce price volatility in the short term, but they also cap upside.
+MACH's revenues are directly proportional to oil and [natural gas](/natural-gas/) prices and production volumes. A 20% drop in [crude oil](/crude-oil/) prices reduces MACH's revenue without any operational change. This exposure is both the appeal and the peril of MLP investment. Investors seeking commodity-price upside buy MLPs; investors fleeing commodity risk avoid them. MACH has little control over the pricing side; hedging programs can reduce price volatility in the short term, but they also cap upside.
 
-MACH's competitiveness versus integrated majors like ExxonMobil or Chevron lies partly in cost structure. Smaller, focused operators often extract crude more efficiently than large conglomerates burdened with legacy infrastructure. But this advantage is marginal and erodes if MACH operates aging fields with rising depletion rates. In declining production, MACH must either replace reserves through acquisition or accept shrinking cash flows to unitholders.
+MACH's competitiveness versus integrated majors like ExxonMobil or [Chevron](/cvx-stock/) lies partly in cost structure. Smaller, focused operators often extract crude more efficiently than large conglomerates burdened with legacy infrastructure. But this advantage is marginal and erodes if MACH operates aging fields with rising depletion rates. In declining production, MACH must either replace reserves through acquisition or accept shrinking cash flows to unitholders.
 
 ## Comparison to Integrated Majors and Pure-Play Competitors
 
 ExxonMobil and Chevron are fully integrated: upstream production, midstream transport and processing, downstream refining and marketing. This integration provides margin diversification—if crude prices plummet, refining margins may expand, offsetting upstream losses. MACH has no such buffer. When crude prices fall, MACH's cash flow falls in direct proportion.
 
-Against other pure-play producers, MACH's competitive position depends on asset quality, operating efficiency, and cost of capital. Large pure-plays like EOG Resources have better funding access and can invest in exploration and development; MACH's MLP structure limits its options. Smaller pure-plays operate on similar constraints. MACH's differentiation is primarily in what assets it owns—the depletion rate of its fields, their location relative to infrastructure, and whether they are economic at the prevailing commodity price.
+Against other pure-play producers, MACH's competitive position depends on asset quality, operating efficiency, and cost of capital. Large pure-plays like [EOG Resources](/eog-stock/) have better funding access and can invest in exploration and development; MACH's MLP structure limits its options. Smaller pure-plays operate on similar constraints. MACH's differentiation is primarily in what assets it owns—the depletion rate of its fields, their location relative to infrastructure, and whether they are economic at the prevailing commodity price.
 
 ## Distribution Sustainability and Capital Discipline
 
-MACH's value proposition to unitholders is the distribution yield—the quarterly cash payment as a percentage of the [market-capitalization](/market-capitalization/) (or net asset value). When crude prices are high, distributions are generous and sustainable. When prices fall, MACH faces a choice: maintain distributions despite lower cash flow (borrowing to bridge the gap), or reduce distributions.
+MACH's value proposition to unitholders is the distribution yield—the quarterly cash payment as a percentage of the [market-capitalization](/market-capitalization/) (or [net asset value](/net-asset-value/)). When crude prices are high, distributions are generous and sustainable. When prices fall, MACH faces a choice: maintain distributions despite lower cash flow (borrowing to bridge the gap), or reduce distributions.
 
 Most MLPs choose to reduce distributions if cash flow declines, prioritizing long-term sustainability over short-term distribution support. MACH's track record on this choice is a significant component of its creditworthiness and unit value. An MLP known for slashing distributions during downturns will see unit prices collapse; one known for preserving distributions through prudent capital discipline (or through having high-quality, low-decline assets) maintains investor confidence.
 
@@ -49,7 +49,7 @@ This distribution discipline is why MACH carefully manages capital expenditures.
 
 ## Energy Sector Dynamics and Long-Term Viability
 
-MACH operates in a sector in transition. Long-term commodity demand for oil and gas is subject to structural headwinds from energy transition and demand destruction. MACH's assets are long-life (oil and gas fields produce for decades), but the terminal value of those assets is uncertain. If global oil demand peaks and enters structural decline, even mature, cash-generative fields may face sustained low prices or regulatory pressure.
+MACH operates in a sector in transition. Long-term commodity demand for oil and gas is subject to structural headwinds from energy transition and demand destruction. MACH's assets are long-life (oil and gas fields produce for decades), but the [terminal value](/terminal-value/) of those assets is uncertain. If global oil demand peaks and enters structural decline, even mature, cash-generative fields may face sustained low prices or regulatory pressure.
 
 MACH's competitive position relative to renewables-backed firms or electrification-exposed companies is declining. Unlike an integrated major that diversifies into solar or wind, MACH is structurally committed to fossil fuels. This is acceptable so long as oil and gas are economically produced and consumed; if the transition accelerates, MACH's long-term viability is questioned.
 

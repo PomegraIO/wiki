@@ -17,7 +17,7 @@ The business rests on a straightforward premise: identify regions with substanti
 
 ## Revenue streams and operational segments
 
-SM Energy generates revenue almost entirely from the sale of [crude oil](/crude-oil/) and natural gas. The Permian operations account for the bulk of current production and the majority of future production capacity. South American assets—primarily in conventional fields with longer production histories—provide a smaller but meaningful cash contribution. Revenue volatility is driven principally by commodity prices rather than production volume; even modest changes in oil and gas prices can swing reported earnings substantially, making the company's profitability highly cyclical.
+SM Energy generates revenue almost entirely from the sale of [crude oil](/crude-oil/) and natural gas. The Permian operations account for the bulk of current production and the majority of future production capacity. South [American assets](/aat-stock/)—primarily in conventional fields with longer production histories—provide a smaller but meaningful cash contribution. Revenue volatility is driven principally by commodity prices rather than production volume; even modest changes in oil and gas prices can swing reported earnings substantially, making the company's profitability highly cyclical.
 
 The company's operational model emphasizes long-term cash return to shareholders relative to peers, often through [dividends](/dividend/) and [share buybacks](/share-buyback/) when prices permit, rather than perpetual growth reinvestment. This reflects both the finite lifespan of reserves (a reality all E&P companies face) and the relatively mature market penetration in the unconventional plays where SM operates.
 

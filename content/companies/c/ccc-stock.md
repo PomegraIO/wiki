@@ -47,7 +47,7 @@ Like all software companies, CCC faces the challenge of balancing legacy system 
 
 CCC's pricing flexibility depends on how much value customers perceive in the platform. If CCC can demonstrate that its claims management workflow reduces the time to close a claim from 15 days to 10 days, saving an insurer millions annually, customers will tolerate price increases. If competitors offer feature parity at lower prices, CCC must choose between holding price and losing customers or cutting price and accepting margin compression.
 
-Expansion within the installed base is a lever. Once an insurer uses CCC for commercial auto claims, can CCC upsell homeowners or workers' compensation claims modules? If a repair shop uses CCC for estimates, can it adopt CCC for inventory management or scheduling? These upsell opportunities expand revenue per customer without the customer acquisition cost of landing a new account.
+Expansion within the installed base is a lever. Once an insurer uses CCC for commercial auto claims, can CCC upsell homeowners or workers' compensation claims modules? If a repair shop uses CCC for estimates, can it adopt CCC for inventory management or scheduling? These upsell opportunities expand revenue per customer without the customer [acquisition](/acquisition/) cost of landing a new account.
 
 ## Integration and Data as a Strategic Asset
 
@@ -55,7 +55,7 @@ CCC's competitive advantage extends to the breadth and depth of its integrations
 
 ## Operating Leverage and Path to Profitability
 
-SaaS companies typically have high operating leverage. Once the platform is built and deployed, marginal revenue from additional customers (or claims processed by existing customers) is nearly pure profit. CCC's challenge is to grow customer acquisition and expansion revenue faster than operating expenses grow, compressing the loss or expanding operating margins.
+SaaS companies typically have high operating leverage. Once the platform is built and deployed, marginal revenue from additional customers (or claims processed by existing customers) is nearly pure profit. CCC's challenge is to grow customer acquisition and expansion revenue faster than operating expenses grow, compressing the loss or expanding [operating margins](/operating-margin/).
 
 During growth phases, CCC may spend aggressively on sales, marketing, and R&D, running at a loss or low margins. Once market share stabilizes, the company can decelerate spending and drive earnings growth from existing customers. The timeline and feasibility of this transition depend on market size, competitive intensity, and management's disciplined execution.
 

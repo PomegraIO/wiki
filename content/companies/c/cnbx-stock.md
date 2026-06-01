@@ -31,7 +31,7 @@ Cannabinoids are Schedule I substances in the U.S. under the Controlled Substanc
 
 ## Peer Competitive Set and Differentiation
 
-Other development-stage cannabinoid firms include GW Pharmaceuticals (acquired by Jazz Pharmaceuticals), which pioneered Epidiolex and maintains a broad pipeline, and smaller players like Organigram or Tilray-Aphria (cannabis cultivators entering therapeutics). Against GW, CNBX is younger and smaller, with less proven efficacy and less regulatory precedent. Against pure cannabis companies moving into therapeutics, CNBX offers more disciplined drug development and fewer regulatory complexities around cannabis cultivation.
+Other development-stage cannabinoid firms include GW Pharmaceuticals (acquired by [Jazz Pharmaceuticals](/jazz-stock/)), which pioneered Epidiolex and maintains a broad pipeline, and smaller players like Organigram or Tilray-Aphria (cannabis cultivators entering therapeutics). Against GW, CNBX is younger and smaller, with less proven efficacy and less regulatory precedent. Against pure cannabis companies moving into therapeutics, CNBX offers more disciplined drug development and fewer regulatory complexities around cannabis cultivation.
 
 The broader competitive set includes traditional pain and neuroinflammation programs at major pharma companies and other biotech firms pursuing non-cannabinoid approaches. If CNBX's therapies prove equivalent in efficacy to existing options, the lack of an obvious advantage will limit market opportunity. If superior, the firm has a window to establish market share before larger competitors enter or expand.
 
@@ -41,7 +41,7 @@ A development-stage biotech conducting Phase I, II, and III trials for multiple 
 
 ## Partnership and Out-Licensing Potential
 
-Given the capital intensity and regulatory uncertainty, smaller cannabinoid firms often pursue partnerships with larger pharma companies, licensing deals, or acquisitions. A successful Phase II trial could trigger interest from a major pharmaceutical company seeking to de-risk its own cannabinoid programs or expand its pain/inflammation portfolio. This creates potential exit pathways for shareholders but also dilutes ownership and upside potential.
+Given the capital intensity and regulatory uncertainty, smaller cannabinoid firms often pursue partnerships with larger pharma companies, licensing deals, or [acquisitions](/acquisition/). A successful Phase II trial could trigger interest from a major pharmaceutical company seeking to de-risk its own cannabinoid programs or expand its pain/inflammation portfolio. This creates potential exit pathways for shareholders but also dilutes ownership and upside potential.
 
 ## Risk Profile and Time-to-Value
 

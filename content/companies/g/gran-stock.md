@@ -35,7 +35,7 @@ Market growth in Southeast Asia matters to GRAN's fortunes. More disposable inco
 
 ## The Structure of Southeast Asian Distribution
 
-Retail distribution in Southeast Asia differs from the American model. In the United States, a beverage maker deals with giant chains: Walmart, Target, grocery wholesalers. In Southeast Asia, retail is fragmented. Thousands of small shops, convenience stores, and street-level vendors are the real retail footprint. Reaching them requires a local partner with knowledge of language, customs, and supplier relationships.
+Retail distribution in Southeast Asia differs from the American model. In the United States, a beverage maker deals with giant chains: [Walmart](/wmt-stock/), [Target](/tgt-stock/), grocery wholesalers. In Southeast Asia, retail is fragmented. Thousands of small shops, convenience stores, and street-level vendors are the real retail footprint. Reaching them requires a local partner with knowledge of language, customs, and supplier relationships.
 
 GRAN's value lies in that local knowledge. The company negotiates with shop owners in Thai or Vietnamese, understands seasonal demand, manages credit relationships, and handles logistics in countries where infrastructure can be unpredictable. A multinational brand cannot do this alone at scale.
 
@@ -49,7 +49,7 @@ The competitive pressure is real. As Southeast Asian markets mature, retail cons
 
 Distribution businesses are capital-intensive. GRAN must own or lease warehouse space, maintain truck fleets, and finance inventory. A beverage maker sends goods to GRAN; GRAN pays for them; GRAN holds them until a retailer buys. That inventory financing ties up cash.
 
-The company's returns on capital depend on inventory turns and margins. High inventory turnover—products moving fast through warehouses—is healthy. Slow turnover ties up money and increases the risk of obsolescence or spoilage. Beverages have a shelf life; expired product is waste.
+The company's returns on capital depend on inventory turns and margins. High [inventory turnover](/inventory-turnover/)—products moving fast through warehouses—is healthy. Slow turnover ties up money and increases the risk of obsolescence or spoilage. Beverages have a shelf life; expired product is waste.
 
 For investors, understanding GRAN's [balance sheet](/balance-sheet/) matters. How much inventory is on hand? How much is financed through loans? What is the ratio of current assets to current liabilities? These metrics reveal whether GRAN is efficient or struggling with excess stock.
 
@@ -57,7 +57,7 @@ For investors, understanding GRAN's [balance sheet](/balance-sheet/) matters. Ho
 
 GRAN's performance is tied to Southeast Asian economic growth. Slower growth in Thailand or Vietnam means fewer retail sales, lower distributor orders, and pressure on margins. Currency fluctuations also matter. If the Thai baht weakens relative to the dollar, GRAN's cross-border pricing and profitability shift.
 
-The company is cyclical. During recessions or downturns, consumer spending contracts, and distributors cut orders. During booms, demand surges. GRAN is not immune to regional economic shocks.
+The company is cyclical. During [recessions](/recession/) or downturns, consumer spending contracts, and distributors cut orders. During booms, demand surges. GRAN is not immune to regional economic shocks.
 
 ## The Information Sources
 

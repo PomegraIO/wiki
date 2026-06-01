@@ -47,7 +47,7 @@ Other companies are advancing competing psilocybin programs (Usona, MindMed) and
 
 ## Capital and financing dynamics
 
-COMPASS is clinical-stage, meaning it is not generating revenue. All cash goes to R&D, regulatory, and organizational functions. The company is dependent on equity and debt financing to fund operations until (if) COMP360 is approved and reaches revenue. This creates a dual pressure: deliver compelling clinical results (to support investor confidence and maintain stock price), while managing capital runway prudently.
+COMPASS is clinical-stage, meaning it is not generating revenue. All cash goes to R&D, regulatory, and organizational functions. The company is dependent on equity and [debt financing](/debt-financing/) to fund operations until (if) COMP360 is approved and reaches revenue. This creates a dual pressure: deliver compelling clinical results (to support investor confidence and maintain stock price), while managing capital runway prudently.
 
 COMPASS has raised capital from institutional investors and strategic partners (asset managers, family offices, impact investors interested in mental health). The investment thesis is straightforward: if COMP360 is approved and becomes a standard treatment for TRD, the market opportunity is large (millions of patients), and the company could command significant value. But this is a binary outcome—either COMP360 succeeds or it fails. There are few graceful middle grounds.
 

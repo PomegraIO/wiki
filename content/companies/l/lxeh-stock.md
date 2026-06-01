@@ -4,7 +4,7 @@ description: "A Chinese online education platform navigating cross-border compli
 keywords: ["education technology", "China", "tutoring", "compliance", "SEC filing"]
 ---
 
-*The rise and turbulence of **Lixiang Education (LXEH)** reflects a fundamental tension: a Chinese education-technology platform listing on US exchanges while operating under increasingly hostile regulations in its home market. The firm trades on the Nasdaq under a ticker that signals its outsider status to American investors, filing with the SEC ([10-k](/10-k/)) under CIK 1814067, yet its business depends on surviving—and adapting to—a regulatory landscape that has systematically restricted tutoring services and private education startups. Understanding LXEH requires reading through the fog of cross-border compliance and the shift in how Beijing treats online learning.*
+*The rise and turbulence of **Lixiang Education (LXEH)** reflects a fundamental tension: a Chinese education-technology platform listing on US exchanges while operating under increasingly hostile regulations in its home market. The firm trades on the [Nasdaq](/nasdaq/) under a ticker that signals its outsider status to American investors, filing with the SEC ([10-k](/10-k/)) under CIK 1814067, yet its business depends on surviving—and adapting to—a regulatory landscape that has systematically restricted tutoring services and private education startups. Understanding LXEH requires reading through the fog of cross-border compliance and the shift in how Beijing treats online learning.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>LXEH</td></tr>
@@ -32,7 +32,7 @@ The SEC disclosure requirements place LXEH in an awkward middle ground. It must 
 
 Under the new regulatory regime, Lixiang (like competitors) has had to pivot away from core tutoring in math, English, and science—subjects that are explicitly curtailed. The company has reoriented toward services that fall outside the ban: non-academic enrichment (music, arts, coding, test-prep for university entrance exams), international curriculum content, and corporate/professional training. These niches are narrower and less profitable than the old tutoring mass market.
 
-Navigating this reorientation while maintaining SEC filings adds compliance friction. The company must disclose the portion of revenue from each line of business, report on the regulatory status of each offering, and flag if any service line becomes non-compliant—all while competitors face the same constraints and the overall market for private supplemental education has contracted sharply. Lixiang's reported financials now reflect smaller user bases and lower-margin services, a direct consequence of regulatory foreclosure.
+Navigating this reorientation while maintaining SEC filings adds compliance friction. The company must disclose the portion of revenue from each line of business, report on the regulatory status of each offering, and flag if any service line becomes non-compliant—all while competitors face the same constraints and the overall market for private supplemental education has contracted sharply. Lixiang's reported financials now reflect smaller user bases and lower-margin services, a direct consequence of regulatory [foreclosure](/foreclosure/).
 
 ## Cross-Border Regulatory Tension
 

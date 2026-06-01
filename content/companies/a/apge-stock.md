@@ -32,7 +32,7 @@ Like nearly all clinical-stage biotechs, Apogee generates minimal to no revenue 
 
 ## Why is Apogee positioned the way it is?
 
-The company was formed to compete in large, well-studied disease areas where existing therapies have established safety and efficacy, but opportunity remains for novel mechanisms or improved profiles. Atopic dermatitis, in particular, has become crowded with options, making differentiation essential. Apogee's investors are betting that the science underlying zumilokibart's mechanism is compelling enough to earn market share or command premium pricing, or that the company will prove attractive as an [acquisition](/acquisition/) [target](/tgt-stock/) to a larger pharmaceutical firm seeking to accelerate its immunology portfolio. This dual-outcome model—clinical success + acquisition or IPO exit—is standard in venture-backed biotech.
+The company was formed to compete in large, well-studied disease areas where existing therapies have established safety and efficacy, but opportunity remains for novel mechanisms or improved profiles. Atopic dermatitis, in particular, has become crowded with options, making differentiation essential. Apogee's investors are betting that the science underlying zumilokibart's mechanism is compelling enough to earn market share or command premium pricing, or that the company will prove attractive as an [acquisition](/acquisition/) target to a larger pharmaceutical firm seeking to accelerate its immunology portfolio. This dual-outcome model—clinical success + acquisition or IPO exit—is standard in venture-backed biotech.
 
 ---
 

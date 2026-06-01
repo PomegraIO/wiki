@@ -4,7 +4,7 @@ description: "Digital mapping and location services company providing data and s
 keywords: ["HERE", "mapping", "location data", "autonomous vehicles", "navigation software", "digital maps"]
 ---
 
-*Behind the navigation system in millions of vehicles and delivery trucks worldwide sits **HERE Technologies Group Ltd (HERE)**, a commercial mapping company whose digital geography and location services infrastructure anchors both consumer applications and the emerging autonomous-driving ecosystem. The company occupies a niche between consumer-facing mapping (Google, Apple) and enterprise software, where strategic value derives from precision, licensing terms, and integration depth.*
+*Behind the navigation system in millions of vehicles and delivery trucks worldwide sits **HERE Technologies Group Ltd (HERE)**, a commercial mapping company whose digital geography and location services infrastructure anchors both consumer applications and the emerging autonomous-driving ecosystem. The company occupies a niche between consumer-facing mapping (Google, [Apple](/aapl-stock/)) and enterprise software, where strategic value derives from precision, licensing terms, and integration depth.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HERE</td></tr>
@@ -57,7 +57,7 @@ If geopolitical tensions increase or data localization requirements proliferate,
 
 HERE operates as a profitable, cash-generative business, generating revenue from a diversified base of automotive, logistics, and emerging autonomous-vehicle customers. The company invests in R&D, particularly in autonomous-driving mapping and artificial-intelligence-driven analytics, but maintains positive [free cash flow](/free-cash-flow/).
 
-As a publicly traded company with profitability, HERE can return capital to shareholders through dividends or buybacks, or reinvest in product innovation and market expansion. The company's strategic value lies in its irreplaceability as infrastructure for autonomous vehicles and its defensible position with large automotive OEMs. Yet the timeline for autonomous-vehicle commercialization remains the largest variable shaping HERE's medium-term growth trajectory.
+As a publicly traded company with profitability, HERE can return capital to shareholders through [dividends](/dividend/) or buybacks, or reinvest in product innovation and market expansion. The company's strategic value lies in its irreplaceability as infrastructure for autonomous vehicles and its defensible position with large automotive OEMs. Yet the timeline for autonomous-vehicle commercialization remains the largest variable shaping HERE's medium-term growth trajectory.
 
 <div class="wiki-seealso">
 

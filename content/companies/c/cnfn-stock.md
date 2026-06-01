@@ -35,7 +35,7 @@ The key metric to track in the 10-K is **utilization rate** (percentage of consu
 CFN's cost of goods sold is essentially the loaded wage cost of its consultant workforce. In the MD&A and operating expense section:
 
 - **Headcount and retention**: How many consultants does CFN employ or have on exclusive arrangements? Is headcount growing (demand-side confidence) or shrinking (facing headwinds)?
-- **Average compensation**: What is the loaded cost (salary + benefits + taxes) per consultant? Is this rising year-over-year? Wage inflation directly compresses margin if billing rates cannot rise proportionally.
+- **Average compensation**: What is the loaded cost (salary + benefits + taxes) per consultant? Is this rising year-over-year? Wage [inflation](/inflation/) directly compresses margin if billing rates cannot rise proportionally.
 - **Consultant turnover**: High turnover means constant replacement, retraining, and ramp-up costs. Stable, low-turnover teams are more profitable.
 - **Recruitment and training spend**: Is the company investing heavily to build the bench and develop junior talent, or optimizing for near-term profitability? This choice signals leadership's view of market opportunity.
 
@@ -48,7 +48,7 @@ Staffing and consulting firms depend on client stickiness and ability to sell ad
 - **Top customer exposure**: What percentage of revenue comes from the largest three or five clients? Staffing firms often have high customer concentration because a single large client may account for 20–40 placed consultants.
 - **Customer turnover and contract renewal**: When do major client relationships expire? Is there churn? The notes to revenue or segment disclosures should hint at this.
 - **Cross-sell and scope creep**: Does CFN upsell additional services (managed IT services, project-based work, full-team engagements) to existing clients, or is it mostly reactive staffing placement? Expansion within existing accounts is a high-margin growth driver.
-- **Geographic and vertical diversification**: Does CFN serve only one industry (e.g., finance) or multiple verticals? Single-vertical dependency is risky (recession in that sector hits hard).
+- **Geographic and vertical [diversification](/diversification/)**: Does CFN serve only one industry (e.g., finance) or multiple verticals? Single-vertical dependency is risky ([recession](/recession/) in that sector hits hard).
 
 A staffing firm with high client concentration is vulnerable to customer loss or consolidation. A firm with sticky, long-term relationships and internal expansion opportunities is more defensible.
 
@@ -81,7 +81,7 @@ Staffing and consulting revenue is procyclical—it rises when employers are con
 - **Seasonal patterns**: Is there Q4 holiday hiring, or does demand fluctuate unpredictably?
 - **Client spending cycles**: B2B consulting often correlates with corporate budget cycles and IT spending. When budgets tighten, consulting is often first to be cut.
 
-If CFN's market is in a slow-hiring phase (or entering one), even a well-run firm will see revenue and margin pressure. The 10-K may not predict this directly, but historical volatility hints at sensitivity.
+If CFN's market is in a slow-hiring phase (or entering one), even a well-run firm will see revenue and margin pressure. The 10-K may not predict this directly, but [historical volatility](/historical-volatility/) hints at sensitivity.
 
 ## Key Metrics to Track
 
@@ -99,9 +99,9 @@ Deterioration in utilization, margin compression, and customer concentration are
 
 ## Balance Sheet and Liquidity
 
-Staffing firms typically carry modest balance sheets. Check for:
+Staffing firms typically carry modest [balance sheets](/balance-sheet/). Check for:
 
-- **Accounts receivable aging**: Clients often pay 30–60 days after invoice. If A/R is growing faster than revenue, cash collection is slowing (bad sign).
+- **[Accounts receivable](/accounts-receivable/) aging**: Clients often pay 30–60 days after invoice. If A/R is growing faster than revenue, cash collection is slowing (bad sign).
 - **Deferred revenue**: Does CFN hold any advance client payments? This is a cushion.
 - **Debt**: Is there meaningful debt, and if so, what are covenants?
 - **Working capital**: Staffing is relatively capital-light, so working capital needs are modest. If working capital is tying up cash, investigate.
@@ -113,9 +113,9 @@ Strong cash generation is essential for a staffing firm without hard assets to b
 1. **Item 1 (Business)**: What are the service lines, verticals served, and geographic footprint?
 2. **Item 1A (Risk Factors)**: Customer concentration, wage inflation, and economic sensitivity will be flagged.
 3. **Item 7 (MD&A)**: Look for commentary on utilization, pricing, consultant supply, and major customer relationships.
-4. **Consolidated Statements of Operations**: Gross margin and operating margin trends are critical. Compare across three years.
-5. **Segment reporting**: If available, which service lines or geographies are profitable?
-6. **Cash Flow Statement**: Operating cash flow vs. net income. Is cash tracking earnings?
+4. **[Consolidated Statements](/consolidated-statements/) of Operations**: Gross margin and operating margin trends are critical. Compare across three years.
+5. **[Segment reporting](/segment-reporting/)**: If available, which service lines or geographies are profitable?
+6. **[Cash Flow Statement](/cash-flow-statement/)**: Operating cash flow vs. net income. Is cash tracking earnings?
 
 The central thesis: Is CFN gaining market share and maintaining pricing power, or is it fighting wage inflation and customer concentration in a commoditized market? The 10-K will show you which pressures are most acute.
 

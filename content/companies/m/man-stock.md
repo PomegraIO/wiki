@@ -36,7 +36,7 @@ The temporary staffing business is fundamentally cyclical. When economies slow, 
 
 ## Competitive Position and Challenges
 
-ManpowerGroup is a genuine market leader but operates in a fragmented industry. It competes directly with large multinational rivals like Kforce, On Assignment (now Apex Group), and Kelly Services; with regional and boutique staffing agencies that dominate local markets; and increasingly with technology-driven platforms and direct-placement services that have lower overhead. The company's size, geographic footprint, and brand recognition create a moat—large multinational clients prefer the convenience of a single global provider.
+ManpowerGroup is a genuine market leader but operates in a fragmented industry. It competes directly with large multinational rivals like Kforce, On Assignment (now Apex Group), and [Kelly Services](/kelya-stock/); with regional and boutique staffing agencies that dominate local markets; and increasingly with technology-driven platforms and direct-placement services that have lower overhead. The company's size, geographic footprint, and brand recognition create a moat—large multinational clients prefer the convenience of a single global provider.
 
 However, the staffing industry faces persistent headwinds. Technology, outsourcing, and automation reduce the need for contingent workers in some areas. Gig platforms and freelance marketplaces bypass traditional staffing models. And the business model itself is labor-intensive: the value ManpowerGroup creates is in matching people to jobs, administration, and risk mitigation, not in producing a durable good. That makes it hard to achieve sustained pricing power or to escape margin compression.
 

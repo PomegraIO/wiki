@@ -16,7 +16,7 @@ keywords: ["software", "business services", "technology platform", "market adopt
 
 ## Product-Market Fit Remains Unproven
 
-Cuentas' core offering—whether a software platform, managed service, or software-plus-consulting model—faces the eternal challenge of software vendors: finding a market willing to pay a defensible price for a problem the software actually solves better than alternatives. Many software companies overestimate the uniqueness of their product and underestimate how much customers need to change their workflows to use it. Cuentas must navigate a long, uncertain sales cycle, especially if its target customers are mid-market enterprises or smaller operations with conservative purchasing habits. Each deal takes months to close, and each customer gained is offset by the high acquisition cost. If customer acquisition cost exceeds the lifetime value of the customer, the business model breaks.
+Cuentas' core offering—whether a software platform, managed service, or software-plus-consulting model—faces the eternal challenge of software vendors: finding a market willing to pay a defensible price for a problem the software actually solves better than alternatives. Many software companies overestimate the uniqueness of their product and underestimate how much customers need to change their workflows to use it. Cuentas must navigate a long, uncertain sales cycle, especially if its target customers are mid-market enterprises or smaller operations with conservative purchasing habits. Each deal takes months to close, and each customer gained is offset by the high [acquisition](/acquisition/) cost. If customer acquisition cost exceeds the lifetime value of the customer, the business model breaks.
 
 ## Competitive Pressure from Larger Vendors
 

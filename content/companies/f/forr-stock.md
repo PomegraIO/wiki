@@ -30,7 +30,7 @@ The firm layers on specialized tools. Forrester's proprietary platforms allow cl
 
 Revenue depends on customer retention and growth. Forrester maintains a sales organization that renews subscriptions with incumbents and acquires new clients. The renewal motion is typically straightforward: existing clients see tangible value in updated research and have integrated analyst access into their decision cycles, making churn lower than in pure software. But acquiring net-new clients requires proof of value—free reports, analyst briefings, and conference attendance where client executives can be engaged.
 
-Forrester runs an annual conference (Forrester's Forum, by geography) that serves a dual purpose: it's a revenue event through registration fees and sponsorships, and it functions as a customer acquisition and retention machine. Clients attend to hear new research first, to network with peers, and to interact with analysts face-to-face. This conference cadence drives seasonal revenue and expense patterns, with preparation and execution costs peaking around the events.
+Forrester runs an annual conference (Forrester's Forum, by geography) that serves a dual purpose: it's a revenue event through registration fees and sponsorships, and it functions as a customer [acquisition](/acquisition/) and retention machine. Clients attend to hear new research first, to network with peers, and to interact with analysts face-to-face. This conference cadence drives seasonal revenue and expense patterns, with preparation and execution costs peaking around the events.
 
 ## Geographic and Segment Operations
 
@@ -52,7 +52,7 @@ Forrester's business model yields relatively high gross margins because each rep
 
 ## Cyclical Exposure
 
-Enterprise technology spending contracts during economic downturns, and research budgets, though typically sticky, are not immune. During recessions, CIOs may defer renewal to conserve cash or consolidate analyst vendors. Forrester's capacity to weather downturns depends on its scale and whether core analysts remain fully utilized even when subscription growth slows.
+Enterprise technology spending contracts during economic downturns, and research budgets, though typically sticky, are not immune. During [recessions](/recession/), CIOs may defer renewal to conserve cash or consolidate analyst vendors. Forrester's capacity to weather downturns depends on its scale and whether core analysts remain fully utilized even when subscription growth slows.
 
 The operations ultimately center on one question: Can the firm sustain a pipeline of timely, relevant analyst output that clients consistently renew for? That machine requires disciplined hiring, editorial governance, platform engineering, and a sales organization trained to demonstrate ROI to buyers who view analyst research as a cost center until convinced otherwise.
 

@@ -67,7 +67,7 @@ A customer or investor analyzing LANXESS should review its annual [10-K](/10-k/)
 - [Huntsman Corporation (HUN)](/hun-stock/) — US-listed specialty chemicals competitor in pigments, additives, and polyurethanes
 
 ### Wider context
-- [Public company](/public-company/) — LANXESS is traded as an American depositary receipt
+- [Public company](/public-company/) — LANXESS is traded as an [American depositary receipt](/adr/)
 - [10-K](/10-k/) — review LANXESS's annual SEC filing for segment detail and competitive risks
 - Supply chains — specialty chemicals are critical inputs in automotive, coatings, and industrial manufacturing
 - [Return on equity](/return-on-equity/) — track LANXESS's capital efficiency in managing R&D and manufacturing assets

@@ -25,7 +25,7 @@ The company does not design the factories or mandate the rules; it solves the pr
 
 The demand for CECO's products flows from two sources that often reinforce each other. First, [environmental regulations](/securities-and-exchange-commission/) impose limits on emissions of particulates, sulfur dioxide, nitrogen oxides, and volatile organic compounds. Facilities must comply or shut down. Second, facility operators have economic incentives to recapture materials—dust that can be resold, water that can be recycled, heat that can be recovered. An efficient treatment system pays for itself by reducing waste and reuse costs.
 
-CECO serves power generation, oil refining, chemical manufacturing, steel mills, food processing, and waste management. The composition of demand shifts with regulation and industry health. When coal-fired power plants operate, baghouse and scrubber demand rises. When refinery margins compress, capital spending on new treatment systems falls. The company's revenue therefore rides both the pace of new regulatory mandates and the economic cycles of the industries it serves.
+CECO serves power generation, oil refining, chemical manufacturing, steel mills, food processing, and [waste management](/wm-stock/). The composition of demand shifts with regulation and industry health. When coal-fired power plants operate, baghouse and scrubber demand rises. When refinery margins compress, capital spending on new treatment systems falls. The company's revenue therefore rides both the pace of new regulatory mandates and the economic cycles of the industries it serves.
 
 ## Supplier Relationships and Procurement
 
@@ -41,13 +41,13 @@ This recurring revenue stream reflects a common pattern in industrial equipment 
 
 ## Integration and Market Consolidation
 
-CECO operates in a fragmented market where regional players, specialty firms, and larger industrial conglomerates all compete. The company has pursued acquisitions to broaden its technology portfolio and geographic footprint. When CECO acquires a smaller regional treatment-equipment maker, it typically retains the technology and customer base while consolidating operations, reducing overhead, and cross-selling its own products to the acquired firm's customers.
+CECO operates in a fragmented market where regional players, specialty firms, and larger industrial conglomerates all compete. The company has pursued [acquisitions](/acquisition/) to broaden its technology portfolio and geographic footprint. When CECO acquires a smaller regional treatment-equipment maker, it typically retains the technology and customer base while consolidating operations, reducing overhead, and cross-selling its own products to the acquired firm's customers.
 
 This consolidation strategy reflects CECO's position in the value chain: it sits between standardized commodity suppliers and highly fragmented end customers, so there are economies in rolling up small, dispersed competitors into a larger platform. The company can then compete on scale, engineering breadth, and geographic reach in a way smaller players cannot.
 
 ## Risks and Cyclicality
 
-CECO's fortunes are tied to industrial activity and regulatory enforcement. Recessions reduce customer capex spending on new treatment systems. Shifts in regulation—looser standards, or regulatory reversal—reduce the compliance incentive. Similarly, if industrial facilities close or relocate, demand for replacement filters and spare parts may disappear.
+CECO's fortunes are tied to industrial activity and regulatory enforcement. [Recessions](/recession/) reduce customer capex spending on new treatment systems. Shifts in regulation—looser standards, or regulatory reversal—reduce the compliance incentive. Similarly, if industrial facilities close or relocate, demand for replacement filters and spare parts may disappear.
 
 The company is also dependent on continued enforcement of environmental rules. If regulators deprioritize certain pollutants or if facilities find loopholes, the economic case for investing in CECO's equipment weakens. Conversely, if regulations tighten—lower particulate limits, more frequent compliance audits—demand rises.
 

@@ -23,7 +23,7 @@ ESTA's average selling price per unit (disclosed in the 10-K or 10-Q as net reve
 
 ## Competitive Pricing and Market Share Dynamics
 
-ESTA competes against Allergan Aesthetics (owned by AbbVie), Mentor (a portfolio company of private equity), Sientra, and numerous regional or international competitors. Allergan's scale (billions in annual breast implant and injectable revenue) allows it to invest in surgeon education, marketing, and R&D at a pace ESTA cannot match. Allergan can also absorb pricing pressure that would squeeze smaller competitors.
+ESTA competes against Allergan Aesthetics (owned by [AbbVie](/abbv-stock/)), Mentor (a portfolio company of private equity), Sientra, and numerous regional or international competitors. Allergan's scale (billions in annual breast implant and injectable revenue) allows it to invest in surgeon education, marketing, and R&D at a pace ESTA cannot match. Allergan can also absorb pricing pressure that would squeeze smaller competitors.
 
 ESTA's competitive claim is typically superior gel cohesivity (how firm or soft the implant feels) or longevity (durability or lower rupture rates). If surgeons and patients perceive ESTA's implants as materially better than Allergan's at a modest price premium, ESTA retains pricing power. But if Allergan's implants are "good enough" and priced 10–15% lower, surgeons will switch to Allergan, and ESTA's volume declines. The surgical aesthetics market is also influenced by trends: larger implants, natural feel, safety concerns—all of which can shift surgeon preference and ESTA's unit sales quarter to quarter.
 
@@ -45,9 +45,9 @@ Regulatory setbacks—a failed FDA inspection, a denied PMA, a product recall—
 
 ## Working Capital and Distributor Terms
 
-ESTA does not sell directly to surgeons; it sells to distributors or group purchasing organizations (GPOs) that then resell to surgeons. This two-step distribution model reduces ESTA's direct customer concentration risk but introduces working capital dynamics: ESTA ships implants to distributors on net-30 or net-60 payment terms, while distributors hold inventory and receive surgeon orders at various velocities.
+ESTA does not sell directly to surgeons; it sells to distributors or group purchasing organizations (GPOs) that then resell to surgeons. This two-step distribution model reduces ESTA's direct customer [concentration risk](/concentration-risk/) but introduces working capital dynamics: ESTA ships implants to distributors on net-30 or net-60 payment terms, while distributors hold inventory and receive surgeon orders at various velocities.
 
-If ESTA must extend longer payment terms or grant distributor price concessions to secure shelf space, cash flow can deteriorate even as revenue grows. Conversely, strong brand power and surgeon preference can allow ESTA to tighten terms, improving cash flow. The 10-K will disclose accounts receivable and inventory levels; significant increases may signal slowdown or inventory buildup in the channel.
+If ESTA must extend longer payment terms or grant distributor price concessions to secure shelf space, cash flow can deteriorate even as revenue grows. Conversely, strong brand power and surgeon preference can allow ESTA to tighten terms, improving cash flow. The 10-K will disclose [accounts receivable](/accounts-receivable/) and inventory levels; significant increases may signal slowdown or inventory buildup in the channel.
 
 ## Liability and Product Safety Risk
 
@@ -57,7 +57,7 @@ Additionally, some jurisdictions have implemented regulations on implant usage (
 
 ## Pricing Power and Input Cost Inflation
 
-The cost of silicone and other raw materials follows commodity price cycles. During periods of silicone shortage or inflation, ESTA's unit costs rise. If the company cannot pass through these increases to surgeons (due to competitive pressure), margin compresses. A company with strong brand and customer loyalty can often raise prices ahead of cost increases, maintaining or expanding margin. ESTA's ability to do so is revealed in the trends of gross margin over time in the 10-K.
+The cost of silicone and other raw materials follows commodity price cycles. During periods of silicone shortage or [inflation](/inflation/), ESTA's unit costs rise. If the company cannot pass through these increases to surgeons (due to competitive pressure), margin compresses. A company with strong brand and customer loyalty can often raise prices ahead of cost increases, maintaining or expanding margin. ESTA's ability to do so is revealed in the trends of gross margin over time in the 10-K.
 
 ## Research Path
 

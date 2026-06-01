@@ -20,7 +20,7 @@ keywords: ["online education", "edtech", "distance learning", "professional deve
 
 Coursera's core function is mediation. On the supply side, it recruits and onboards content creators—universities, professors, and other instructors—to publish courses. On the demand side, it attracts learners seeking education, upskilling, or career transition. The platform handles enrollment, payment processing, video delivery, automated quizzing, and credential issuance. It does not itself create course content; instructors do. But Coursera provides the infrastructure that makes sharing content globally cost-effective.
 
-This mirrors other platform businesses: YouTube connects content creators and viewers; Airbnb connects hosts and guests; Uber connects drivers and passengers. The critical asymmetry is that Coursera must maintain both sides simultaneously—courses without learners generate no revenue, and learners without content have no reason to visit. Growth is not purely network-driven; the platform must actively recruit and support course creators, especially prestigious universities, to maintain content credibility.
+This mirrors other platform businesses: YouTube connects content creators and viewers; [Airbnb](/abnb-stock/) connects hosts and guests; Uber connects drivers and passengers. The critical asymmetry is that Coursera must maintain both sides simultaneously—courses without learners generate no revenue, and learners without content have no reason to visit. Growth is not purely network-driven; the platform must actively recruit and support course creators, especially prestigious universities, to maintain content credibility.
 
 ## Revenue Streams and Unit Economics
 
@@ -52,7 +52,7 @@ For universities, Coursera is also a marketing and brand-extension channel. Cour
 
 ## Business Model Sustainability
 
-Coursera's path to profitability has been contested. The company spent heavily on content partnerships and learner acquisition for years before seeing operating profitability. The tension is between pricing (raising prices to improve margins but risking learner defection) and volume (keeping prices low to attract learners, which improves unit economics through engagement and credential conversion but requires high enrollment to cover platform costs).
+Coursera's path to profitability has been contested. The company spent heavily on content partnerships and learner [acquisition](/acquisition/) for years before seeing operating profitability. The tension is between pricing (raising prices to improve margins but risking learner defection) and volume (keeping prices low to attract learners, which improves unit economics through engagement and credential conversion but requires high enrollment to cover platform costs).
 
 The company is also vulnerable to institutional competition. A major university might decide to build its own learning platform and stop sharing content with Coursera. An employer large enough might prefer a custom training platform. These risks are real but seem to be declining as Coursera's enterprise business matures and institutional partnerships deepen.
 

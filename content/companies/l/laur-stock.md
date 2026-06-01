@@ -24,25 +24,25 @@ The company operates through owned and partnered campuses—some directly manage
 
 For-profit higher education is not a global commodity. A business degree in Mexico City carries different market weight, regulatory oversight, and family willingness-to-pay than the same credential in Lima or São Paulo. Laureate's writers emphasized this: the company did not compete on pure enrollment numbers but on being the accessible, recognized private option in each market it claimed. That competitive moat is geographic and cultural, not primarily operational or technological.
 
-This makes Laureate particularly sensitive to regional economic downturns. A recession in Mexico or Brazil directly suppresses both enrollment (families delay university) and tuition revenue (fewer students apply, and institutions may freeze price increases). Currency fluctuations also hit the company asymmetrically—revenue in Mexican pesos or Brazilian reals translates at varying rates to the U.S. dollar, creating foreign-exchange headwinds that pure domestic operators do not face.
+This makes Laureate particularly sensitive to regional economic downturns. A [recession](/recession/) in Mexico or Brazil directly suppresses both enrollment (families delay university) and tuition revenue (fewer students apply, and institutions may freeze price increases). Currency fluctuations also hit the company asymmetrically—revenue in Mexican pesos or Brazilian reals translates at varying rates to the U.S. dollar, creating foreign-exchange headwinds that pure domestic operators do not face.
 
 ## The Regulatory Terrain
 
 Each country in Laureate's footprint has distinct rules for accreditation, student lending, and what fees private institutions may charge. Mexico's approach to for-profit education differs from Chile's, which differs from Peru's or Colombia's. Laureate must navigate a patchwork of regulations rather than a single, predictable system. Government investigations into student lending practices, tuition pricing, or credential quality in one country can affect the company's reputation globally and attract scrutiny in others.
 
-The United States, where Laureate also has operations, presents its own regulatory layer. Federal student-loan policy, state licensing, and regional accreditation bodies all constrain how U.S.-based campuses operate. A federal tightening of student-loan access, or state action against for-profit institutions, directly threatens domestic revenue—a reminder that Laureate's geographic diversification includes the world's most regulated higher-ed market.
+The United States, where Laureate also has operations, presents its own regulatory layer. Federal student-loan policy, state licensing, and regional accreditation bodies all constrain how U.S.-based campuses operate. A federal tightening of student-loan access, or state action against for-profit institutions, directly threatens domestic revenue—a reminder that Laureate's geographic [diversification](/diversification/) includes the world's most regulated higher-ed market.
 
 ## Enrollment Clusters and Market Saturation
 
 Laureate's strength lies in specific cities and regions where it has built brand recognition and student-recruitment infrastructure. But that geographic concentration creates saturation risk. As for-profit higher education grows crowded in Mexico City or Santiago, Laureate must either deepen its penetration (draw enrollment from competing institutions) or expand into new territories where it is less established and must spend to build brand awareness and partnerships.
 
-Expansion into less-developed markets (rural areas, smaller cities) requires different capital and recruitment strategies. Urban campuses—where Laureate has traditionally clustered—are also where rival for-profit and public institutions are densest. This creates a geographic trap: the high-margin markets are increasingly competitive, while lower-margin expansion requires higher acquisition costs.
+Expansion into less-developed markets (rural areas, smaller cities) requires different capital and recruitment strategies. Urban campuses—where Laureate has traditionally clustered—are also where rival for-profit and public institutions are densest. This creates a geographic trap: the high-margin markets are increasingly competitive, while lower-margin expansion requires higher [acquisition](/acquisition/) costs.
 
 ## Capital and Currency Considerations
 
 Laureate's business is fundamentally labor-intensive and capital-light at the margin (incremental students require faculty and facilities, not factories or infrastructure). But maintaining and upgrading campuses across multiple countries requires continuous capital investment, denominated in local currencies and subject to regional economic conditions. A currency crisis in any major operating country reduces the dollar value of cash flows and makes new investment more expensive.
 
-The company's debt structure and refinancing needs are thus geographically contingent. If Latin American growth slows, the company's ability to service debt or invest in new markets is constrained. This is unlike a domestic-only education company, where currency risk is absent and growth is tied to national demographic and economic trends rather than a portfolio of regional conditions.
+The company's debt structure and refinancing needs are thus geographically contingent. If Latin American growth slows, the company's ability to service debt or invest in new markets is constrained. This is unlike a domestic-only education company, where [currency risk](/currency-risk/) is absent and growth is tied to national demographic and economic trends rather than a portfolio of regional conditions.
 
 ## The Enrollment Cycle
 

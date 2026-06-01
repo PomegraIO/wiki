@@ -36,7 +36,7 @@ Founded in 2013 as Credit Ease, the company initially built its reputation on Fe
 
 ## How It Generates Revenue
 
-Lexin's business model sits at the intersection of consumer convenience and institutional [credit risk](/credit-risk/). The company operates on three main revenue streams: installment e-commerce (direct sales of goods with payment plans), technology-empowerment services (licensing credit assessment and platform capabilities to banks and other financial institutions), and financial services (loan facilitation and post-origination offerings).
+Lexin's business model sits at the intersection of consumer convenience and institutional [credit risk](/credit-risk/). The company operates on three main revenue streams: installment e-commerce (direct sales of goods with payment plans), technology-empowerment services (licensing credit assessment and platform capabilities to banks and other [financial institutions](/fisi-stock/)), and financial services (loan facilitation and post-origination offerings).
 
 The shift toward technology-empowerment services has accelerated in recent years. Rather than holding loans on its own [balance sheet](/balance-sheet/)—capital-intensive and operationally complex—Lexin increasingly acts as a marketplace operator and technology provider. Institutional partners (banks, fintech firms, other lenders) use Lexin's platform to source borrowers, assess credit risk using proprietary AI and big data capabilities, and manage collections. Lexin captures a fee for origination, servicing, and technology provision, while the financial institution bears credit loss and funding costs. This model generates high-margin recurring revenue without the weight of loan inventory.
 

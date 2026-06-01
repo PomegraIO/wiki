@@ -23,19 +23,19 @@ Inventory turnover—cost of goods sold divided by average inventory—reveals h
 
 ## Accounts Receivable and Customer Payment Terms
 
-Jewett Cameron extends credit to its customers—contractors, retailers, and other distributors who buy fencing and gate products. The accounts receivable balance on the [balance sheet](/balance-sheet/) represents cash not yet collected, and the aging of that receivables portfolio indicates collection efficiency. A well-managed customer base generates quick payment; loss of key customers or extension of payment terms to retain sales can materially stretch working capital requirements.
+Jewett Cameron extends credit to its customers—contractors, retailers, and other distributors who buy fencing and gate products. The [accounts receivable](/accounts-receivable/) balance on the [balance sheet](/balance-sheet/) represents cash not yet collected, and the aging of that receivables portfolio indicates collection efficiency. A well-managed customer base generates quick payment; loss of key customers or extension of payment terms to retain sales can materially stretch working capital requirements.
 
-The allowance for doubtful accounts—a reserve against receivables that may not be collected—appears as a contra-asset on the balance sheet. An increasing allowance relative to receivables suggests rising credit risk or customer stress.
+The [allowance for doubtful accounts](/allowance-for-doubtful-accounts/)—a reserve against receivables that may not be collected—appears as a contra-asset on the balance sheet. An increasing allowance relative to receivables suggests rising [credit risk](/credit-risk/) or customer stress.
 
 ## Trade Payables and Supplier Terms
 
 On the other side of the working capital equation sit trade payables—amounts owed to suppliers of raw materials, components, and finished products. JCTC's ability to negotiate extended payment terms with suppliers (e.g., net 60 or net 90 days) effectively borrows capital that reduces the cash required to fund operations. A tightening of supplier terms or a shift to more demanding suppliers can squeeze cash flow even if sales remain stable.
 
-The balance between customer payment terms (receivables) and supplier payment terms (payables) determines the cash conversion cycle. A company that receives cash from customers quickly but pays suppliers slowly enjoys a working capital advantage; the reverse creates drag.
+The balance between customer payment terms (receivables) and supplier payment terms (payables) determines the [cash conversion cycle](/cash-conversion-cycle/). A company that receives cash from customers quickly but pays suppliers slowly enjoys a working capital advantage; the reverse creates drag.
 
 ## Fixed Assets and Facility Efficiency
 
-JCTC operates manufacturing and distribution facilities in the Pacific Northwest, and the property, plant, and equipment on the balance sheet reflects those locations and production capacity. The age of that equipment, its depreciation status, and maintenance requirements affect both near-term cash needs and long-term competitiveness. Aging equipment may require replacement capital; modern, efficient facilities support margin expansion.
+JCTC operates manufacturing and distribution facilities in the Pacific Northwest, and the property, plant, and equipment on the balance sheet reflects those locations and production capacity. The age of that equipment, its [depreciation](/depreciation/) status, and maintenance requirements affect both near-term cash needs and long-term competitiveness. Aging equipment may require replacement capital; modern, efficient facilities support margin expansion.
 
 The geographic footprint also shapes logistics costs and responsiveness to regional demand. A facility located near the company's customer base reduces shipping costs and delivery times; an inefficiently located or sized facility becomes a drag on profitability.
 
@@ -43,13 +43,13 @@ The geographic footprint also shapes logistics costs and responsiveness to regio
 
 For a distributor-manufacturer with modest [margins](/operating-margin/), the return generated on the balance-sheet assets deployed is critical. JCTC's [return on equity](/return-on-equity/) depends both on net income and on how much shareholder equity is tied up in inventory, receivables, and facilities. A company that can generate the same profits with fewer assets deployed has a structural advantage.
 
-Improvements in working capital efficiency—reducing inventory days, accelerating collections, or extending payables—free up cash without requiring sales growth. These improvements flow directly to cash available for debt repayment, dividends, or buybacks.
+Improvements in [working capital efficiency](/working-capital-efficiency/)—reducing inventory days, accelerating collections, or extending payables—free up cash without requiring sales growth. These improvements flow directly to cash available for debt repayment, [dividends](/dividend/), or buybacks.
 
 ## Debt and Leverage Position
 
-Like many mid-sized manufacturers and distributors, JCTC likely carries some level of borrowing—whether a bank credit line to fund seasonal inventory buildup or term debt to finance fixed assets or acquisitions. The terms of that debt (maturity, [interest](/interest-rate/) rate, covenants) shape the company's financial flexibility and cash obligations.
+Like many mid-sized manufacturers and distributors, JCTC likely carries some level of borrowing—whether a bank credit line to fund seasonal inventory buildup or term debt to finance fixed assets or [acquisitions](/acquisition/). The terms of that debt (maturity, [interest](/interest-rate/) rate, covenants) shape the company's financial flexibility and cash obligations.
 
-A high leverage ratio (total debt divided by [equity](/common-stock/)) can amplify returns in good times but creates pressure in downturns when margins compress and inventory becomes harder to convert to cash. The company's debt covenants may include minimum current ratios or working capital requirements, constraints that become binding if business deteriorates.
+A high [leverage ratio](/leverage-ratio-forex/) (total debt divided by [equity](/common-stock/)) can amplify returns in good times but creates pressure in downturns when margins compress and inventory becomes harder to convert to cash. The company's debt covenants may include minimum current ratios or working capital requirements, constraints that become binding if business deteriorates.
 
 ## See Also
 

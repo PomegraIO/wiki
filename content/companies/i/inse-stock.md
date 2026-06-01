@@ -4,7 +4,7 @@ description: "Inspired Entertainment develops and supplies gaming software, inte
 keywords: [gaming software, interactive gaming, gambling, iGaming, entertainment technology, gaming platform]
 ---
 
-*[Inspired Entertainment, Inc.](/inse-stock/) is a gaming software and content developer serving land-based casinos, retail gaming venues, and online gambling operators. The company designs, develops, and supplies digital and interactive gaming products, including gaming machines, sports betting platforms, and online casino content. Inspired is a [public company](/public-company/) listed on NASDAQ, with SEC filings under [CIK 1615063](/10-k/).*
+*[Inspired Entertainment, Inc.](/inse-stock/) is a gaming software and content developer serving land-based casinos, retail gaming venues, and online gambling operators. The company designs, develops, and supplies digital and interactive gaming products, including gaming machines, sports betting platforms, and online casino content. Inspired is a [public company](/public-company/) listed on [NASDAQ](/nasdaq/), with SEC filings under [CIK 1615063](/10-k/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INSE</td></tr>
@@ -35,7 +35,7 @@ The company's [income statement](/income-statement/) and SEC filings disclose re
 
 ## Land-Based and Online Segments
 
-Inspired's land-based segment supplies gaming machines, back-end systems, and content to casinos, bars, convenience stores, and other venues. This segment is relatively mature; growth depends on operator expansion, new venue openings, and game replacement cycles. Profitability in land-based is stable, though subject to economic cycles (consumer discretionary spending on gaming rises and falls with consumer confidence and employment).
+Inspired's land-based segment supplies gaming machines, back-end systems, and content to casinos, bars, convenience stores, and other venues. This segment is relatively mature; growth depends on operator expansion, new venue openings, and game replacement cycles. Profitability in land-based is stable, though subject to economic cycles (consumer [discretionary spending](/discretionary-spending/) on gaming rises and falls with consumer confidence and employment).
 
 The online segment has grown as iGaming adoption has expanded globally. Online sports betting and online casino gaming are now regulated in many jurisdictions, creating addressable markets that did not exist or were illegal a decade ago. Inspired has invested in developing online platforms and accumulating game libraries optimized for digital play. Online growth is less geographically constrained than land-based (players in one jurisdiction can access the platform from anywhere the operator has licensing), but is heavily dependent on jurisdictional regulatory approvals.
 
@@ -43,13 +43,13 @@ The online segment has grown as iGaming adoption has expanded globally. Online s
 
 Inspired's revenue streams are complex. Revenue-share arrangements with operators mean that Inspired's earnings depend on actual player gambling activity, not just the number of machines or systems deployed. This creates earnings volatility tied to operator performance and consumer discretionary spending.
 
-Understanding Inspired's [cash flow statement](/free-cash-flow/) is important. The company may have operating agreements where operator payments lag behind the gaming activity that generates revenue. This creates timing differences between revenue recognition and cash receipt. The [balance sheet](/balance-sheet/) should disclose accounts receivable from operators and any deferred revenue obligations.
+Understanding Inspired's [cash flow statement](/free-cash-flow/) is important. The company may have operating agreements where operator payments lag behind the gaming activity that generates revenue. This creates timing differences between [revenue recognition](/revenue-recognition/) and cash receipt. The [balance sheet](/balance-sheet/) should disclose [accounts receivable](/accounts-receivable/) from operators and any deferred revenue obligations.
 
 ## Capital Requirements and Intangible Assets
 
-Inspired's business requires ongoing investment in game development, software infrastructure, and compliance. Developed games and proprietary systems are intangible assets recorded on the [balance sheet](/balance-sheet/) as capitalized software or goodwill (if acquired through acquisitions). These intangible assets must be monitored for impairment; if game libraries decline in commercial value or regulatory changes reduce the addressable market, write-downs may be necessary.
+Inspired's business requires ongoing investment in game development, software infrastructure, and compliance. Developed games and proprietary systems are [intangible assets](/intangible-assets/) recorded on the [balance sheet](/balance-sheet/) as capitalized software or [goodwill](/goodwill/) (if acquired through [acquisitions](/acquisition/)). These intangible assets must be monitored for impairment; if game libraries decline in commercial value or regulatory changes reduce the addressable market, write-downs may be necessary.
 
-The company also acquires gaming software or content companies to expand its product portfolio or enter new markets. Acquisitions add intangible assets and goodwill to the balance sheet, along with integration risk and potential for goodwill impairment if post-acquisition performance disappoints.
+The company also acquires gaming software or content companies to expand its product portfolio or enter new markets. Acquisitions add intangible assets and goodwill to the balance sheet, along with integration risk and potential for [goodwill impairment](/goodwill-impairment/) if post-acquisition performance disappoints.
 
 ## Regulatory and Compliance Challenges
 
@@ -61,7 +61,7 @@ The company's SEC filings discuss regulatory compliance, material regulatory app
 
 Inspired's 10-K and 10-Q filings disclose revenue by segment (land-based, online, sports betting) and geography. The MD&A discusses market trends, competitive positioning, regulatory changes, and operator relationships. For a software and content business, the company should disclose key customers and concentration (if one or two operators generate significant revenue, loss of one operator is a material risk).
 
-The [income statement](/income-statement/) shows cost of revenue (game development, licensing), operating expenses (sales, marketing, G&A), and operating margins. The company's profitability and margin trajectory indicate whether its products are commanding strong pricing and whether the company is operating efficiently.
+The [income statement](/income-statement/) shows cost of revenue (game development, licensing), operating expenses (sales, marketing, G&A), and [operating margins](/operating-margin/). The company's profitability and margin trajectory indicate whether its products are commanding strong pricing and whether the company is operating efficiently.
 
 Quarterly filings are often more revealing than annual reports, as they show sequential trends in customer additions, churn, and revenue per customer. For a B2B software company like Inspired, these metrics provide early signals of market demand and competitive position.
 

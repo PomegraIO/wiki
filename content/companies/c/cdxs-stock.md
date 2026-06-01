@@ -46,7 +46,7 @@ The critical question for investors is whether the company is on a path to profi
 
 ## Intellectual Property and Patent Position
 
-Codexis's competitive advantage rests partly on proprietary enzyme technologies protected by patent. The filings disclose the company's patent portfolio, including the breadth of coverage (how many applications, in how many geographies), expiration dates, and any challenges or litigations concerning patent validity or scope. Enzyme patents can be broad or narrow depending on how they are drafted, and the filings reveal whether the company's patents offer moat-like protection against competitive entry or whether competitors can design around Codexis's intellectual property.
+Codexis's competitive advantage rests partly on proprietary enzyme technologies protected by patent. The filings disclose the company's patent portfolio, including the breadth of coverage (how many applications, in how many geographies), [expiration dates](/expiration-contracts/), and any challenges or litigations concerning patent validity or scope. Enzyme patents can be broad or narrow depending on how they are drafted, and the filings reveal whether the company's patents offer moat-like protection against competitive entry or whether competitors can design around Codexis's intellectual property.
 
 ## Market Opportunity and Growth Constraints
 

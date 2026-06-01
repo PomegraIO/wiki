@@ -23,7 +23,7 @@ The backbone is terminal infrastructure. Forward Air maintains cargo facilities 
 
 ## Customer-Facing Logistics
 
-Who ships via Forward Air? Primarily other logistics providers—freight forwarders, parcel consolidators, and supply-chain companies that bundle small shipments into larger truckloads for air movement. Also direct shippers of perishables, electronics, and documents where guaranteed overnight or same-day delivery justifies the air premium. These customers don't contact Forward Air directly in most cases; they book through brokers or integrate API calls into their own systems. Forward Air's job is to absorb the inventory on one end, move it through hubs with minimal dwell time, and place it on the customer's dock at the promised hour.
+Who ships via Forward Air? Primarily other logistics providers—freight forwarders, parcel consolidators, and supply-chain companies that bundle small shipments into larger truckloads for air movement. Also direct shippers of perishables, electronics, and documents where guaranteed overnight or same-day delivery justifies the air premium. These customers don't contact Forward Air directly in most cases; they book through [brokers](/broker/) or integrate API calls into their own systems. Forward Air's job is to absorb the inventory on one end, move it through hubs with minimal dwell time, and place it on the customer's dock at the promised hour.
 
 Reliability is not optional. If a shipper books a 10 p.m. departure from Atlanta to Dallas because their customer expects goods at 7 a.m., the cargo must be on the plane. Missed pickups or late loadings corrupt the entire network downstream. Forward Air's operations teams monitor this relentlessly: truck arrival times, dock congestion, aircraft availability, and any delay trigger. The company measures itself on percentage of on-time departures and arrivals—metrics that cascade through customer satisfaction and contract renewals.
 
@@ -37,7 +37,7 @@ Seasonal swings are acute. The pre-holiday period (October through December) and
 
 Forward Air operates within a dense web of dependencies. Aircraft availability is paramount—if a contracted carrier grounds aircraft for maintenance or redeploys them, Forward Air's capacity shrinks. Fuel prices affect the per-hour cost the company pays carriers, which can compress margins if not passed to customers quickly. Labor availability in major gateway cities is chronic; dock workers and loaders command steady increases, and turnover forces continuous training. Changes to security protocols, airport access restrictions, or hazmat regulations can force operational redesigns.
 
-The company is also sensitive to broader economic cycles. During recessions, shippers defer purchases or consolidate orders to larger, less frequent shipments, reducing air-freight volume. During strong growth periods, just-in-time manufacturing and e-commerce growth create spikes. Forward Air has limited ability to forecast these turns; it operates in the gap between demand and customer orders, not in manufacturing or retail itself.
+The company is also sensitive to broader economic cycles. During [recessions](/recession/), shippers defer purchases or consolidate orders to larger, less frequent shipments, reducing air-freight volume. During strong growth periods, just-in-time manufacturing and e-commerce growth create spikes. Forward Air has limited ability to forecast these turns; it operates in the gap between demand and customer orders, not in manufacturing or retail itself.
 
 ## Facilities and Physical Footprint
 

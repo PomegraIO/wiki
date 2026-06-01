@@ -23,7 +23,7 @@ Analysts should focus on dollar-based net retention, not customer count alone. A
 
 ## Customer Acquisition Cost and Lifetime Value
 
-GLOO likely operates a sales-driven business model, meaning significant spending on direct sales teams, marketing, and partnership development to land new customers. The payback period on customer acquisition cost (how many months of subscription revenue it takes to recoup the sales and marketing spend to win that customer) is a crucial operational metric not formally disclosed in the [10-K](/10-k/) but often discussed in earnings calls and investor presentations. A 12-month CAC payback is strong; 24+ months suggests the company may be over-investing in customer acquisition or facing longer sales cycles. The lifetime value of a customer—the total profit a customer will generate over their relationship—must exceed the acquisition cost by a healthy margin for the business model to be sustainable.
+GLOO likely operates a sales-driven business model, meaning significant spending on direct sales teams, marketing, and partnership development to land new customers. The payback period on customer [acquisition](/acquisition/) cost (how many months of subscription revenue it takes to recoup the sales and marketing spend to win that customer) is a crucial operational metric not formally disclosed in the [10-K](/10-k/) but often discussed in earnings calls and investor presentations. A 12-month CAC payback is strong; 24+ months suggests the company may be over-investing in customer acquisition or facing longer sales cycles. The lifetime value of a customer—the total profit a customer will generate over their relationship—must exceed the acquisition cost by a healthy margin for the business model to be sustainable.
 
 Analysts reading GLOO's filings should examine sales and marketing expenses as a percentage of revenue (S&M/Revenue) and track it over time. Declining or stable S&M ratios in the face of revenue growth suggests improving unit economics; rising ratios suggest the company must spend more to acquire each customer—often a sign of market saturation or intensifying competition.
 
@@ -49,11 +49,11 @@ Expansion revenue—upsell and cross-sell to existing customers—offsets churn 
 
 Most SaaS companies burn cash in their early growth phase because spending on R&D and S&M exceeds revenue. The [balance-sheet](/balance-sheet/) will show accumulated deficit (cumulative losses since inception) and remaining cash. The [10-K](/10-k/) MD&A should articulate the company's path to profitability: whether it is already profitable, burning cash at a manageable rate with clear unit economics, or hemorrhaging cash without a clear path to breakeven.
 
-[Free-cash-flow](/free-cash-flow/) is often more meaningful than net income in SaaS because subscription revenue is recognized upfront but the related cash may arrive over a multi-year contract period (deferred revenue). Analysts should adjust net income for working capital changes and depreciation/amortization to estimate true cash burn or generation.
+[Free-cash-flow](/free-cash-flow/) is often more meaningful than net income in SaaS because subscription revenue is recognized upfront but the related cash may arrive over a multi-year contract period (deferred revenue). Analysts should adjust net income for working capital changes and [depreciation](/depreciation/)/[amortization](/amortization/) to estimate true cash burn or generation.
 
 ## Customer Mix and Concentration Risk
 
-The [10-K](/10-k/) identifies any customer representing 10% or more of revenue. Concentration risk in SaaS is real: the loss of a single large customer can meaningfully impact quarterly results. GLOO's customer concentration, and trends in the breadth of the customer base, signal whether the company is building a diversified, stable revenue base or relying on a handful of large deals that introduce volatility.
+The [10-K](/10-k/) identifies any customer representing 10% or more of revenue. [Concentration risk](/concentration-risk/) in SaaS is real: the loss of a single large customer can meaningfully impact quarterly results. GLOO's customer concentration, and trends in the breadth of the customer base, signal whether the company is building a diversified, stable revenue base or relying on a handful of large deals that introduce volatility.
 
 ## Product-Market Fit and TAM Expansion
 

@@ -29,7 +29,7 @@ The filings emphasize this model's appeal: fees scale with deployment without pr
 
 ## Interest Rate and Leverage Sensitivity
 
-DBRG's 10-K filings give substantial weight to the company's leverage and its sensitivity to interest rates and refinancing risk. The company funds acquisitions and operations through debt, and the filings detail the company's exposure to floating-rate debt and upcoming debt maturities. The filings note that much of the company's value depends on the refinancing environment—if debt markets tighten or rates rise significantly, refinancing costs surge and profitability contracts.
+DBRG's 10-K filings give substantial weight to the company's leverage and its sensitivity to [interest rates](/interest-rate/) and [refinancing risk](/refinancing-risk/). The company funds [acquisitions](/acquisition/) and operations through debt, and the filings detail the company's exposure to floating-rate debt and upcoming debt maturities. The filings note that much of the company's value depends on the refinancing environment—if debt markets tighten or rates rise significantly, refinancing costs surge and profitability contracts.
 
 This sensitivity is not incidental; it is central to the risk profile disclosed in the regulatory documents. The company has worked to extend debt maturities and secure fixed-rate financing, but a portion of debt remains floating-rate or subject to refinancing risk. The filings include sensitivity analyses showing the impact of interest rate changes on distributable cash flow and equity value.
 
@@ -37,7 +37,7 @@ This sensitivity is not incidental; it is central to the risk profile disclosed 
 
 DBRG's portfolio of data centers and communications infrastructure is leased to a base of operators and tenants. The filings list the largest tenants and note their concentration. While no single tenant constitutes the majority of revenue, the top five or ten tenants collectively generate a material portion of cash flow. This creates a dependency: if a major tenant defaults or relocates, cash flow declines.
 
-However, the filings emphasize the stickiness of these leases. Data center leases often run 5–10 years, with renewal options and escalation clauses tied to inflation or LIBOR-based rates. Long-duration leases provide visibility and protection against sudden revenue loss. The company's disclosures highlight tenant quality (established cloud providers, carriers, enterprises) as a mitigant to credit risk.
+However, the filings emphasize the stickiness of these leases. Data center leases often run 5–10 years, with renewal options and escalation clauses tied to [inflation](/inflation/) or LIBOR-based rates. Long-duration leases provide visibility and protection against sudden revenue loss. The company's disclosures highlight tenant quality (established cloud providers, carriers, enterprises) as a mitigant to [credit risk](/credit-risk/).
 
 ## Capital Expenditure and Facility Expansion
 
@@ -59,7 +59,7 @@ Environmental regulations specific to data center operations (water usage for co
 
 ## International Exposure and Foreign Exchange
 
-A material portion of DBRG's assets and revenues are generated outside the United States. The filings detail the company's geographic footprint (Europe, Asia-Pacific, other regions) and the resulting exposure to foreign exchange fluctuations. Changes in currency values affect reported revenues and the valuation of foreign assets when consolidated into US dollar financials. The company uses hedging in some cases, but the filings indicate not all exposure is hedged, creating earnings volatility.
+A material portion of DBRG's assets and revenues are generated outside the United States. The filings detail the company's geographic footprint (Europe, Asia-Pacific, other regions) and the resulting exposure to foreign exchange fluctuations. Changes in currency values affect reported revenues and the valuation of foreign assets when consolidated into [US dollar](/us-dollar/) financials. The company uses hedging in some cases, but the filings indicate not all exposure is hedged, creating earnings volatility.
 
 ### Closely related
 - [stock](/stock/)

@@ -37,7 +37,7 @@ The purchasing decision comes from the Chief Revenue Officer, VP of Sales, or VP
 
 ## The Competitive Positioning Problem
 
-Banzai operates in a crowded field. Larger platforms like Salesforce offer native intelligence features. Specialized competitors focus on email intelligence, web-visitor identification, or intent data. Data brokers provide raw firmographic and contact data. Banzai's customer must weigh whether a best-of-breed specialist platform delivers value commensurate with the complexity of adding another tool to the stack.
+Banzai operates in a crowded field. Larger platforms like [Salesforce](/crm-stock/) offer native intelligence features. Specialized competitors focus on email intelligence, web-visitor identification, or intent data. Data [brokers](/broker/) provide raw firmographic and contact data. Banzai's customer must weigh whether a best-of-breed specialist platform delivers value commensurate with the complexity of adding another tool to the stack.
 
 This competitive environment means Banzai's customer success with the product is not guaranteed—adoption depends on whether field reps actually use the platform, trust its intelligence, and see it as a productivity gain rather than overhead. A sales team might subscribe but fail to integrate the workflow, using Banzai as a data source only when they remember it exists. For Banzai, this creates a secondary customer problem: ensuring that the platform is intuitive and that intelligence is delivered in the context of how reps actually work (inside their email, their calendar, their CRM).
 

@@ -17,7 +17,7 @@ keywords: [MRI, infusion pump, medical device, hospital equipment, monitoring]
 
 ## The MRI-Safe Product Niche
 
-The core technical challenge IRMD solves is straightforward: an MRI scanner generates a magnetic field of 1.5 to 3 tesla (or higher in research settings), powerful enough to erase magnetic-stripe cards and cause unshielded metal objects to become projectiles. Standard infusion pumps contain motors, solenoids, and sensors that would malfunction, stall, or fail entirely in this environment. IRMD's Veris series of infusion pumps uses non-ferromagnetic materials, non-electronic flow-control mechanisms, and designs that function despite the magnetic field. The pump can be placed outside the MRI room with tubing running into the scanner, or operated in specially shielded enclosures. This eliminates a clinical bottleneck: hospitals and imaging centers no longer need to disconnect patients from IV medication during an MRI scan, reducing procedure delays and improving patient safety.
+The core technical challenge IRMD solves is straightforward: an MRI scanner generates a magnetic field of 1.5 to 3 [tesla](/tsla-stock/) (or higher in research settings), powerful enough to erase magnetic-stripe cards and cause unshielded metal objects to become projectiles. Standard infusion pumps contain motors, solenoids, and sensors that would malfunction, stall, or fail entirely in this environment. IRMD's Veris series of infusion pumps uses non-ferromagnetic materials, non-electronic flow-control mechanisms, and designs that function despite the magnetic field. The pump can be placed outside the MRI room with tubing running into the scanner, or operated in specially shielded enclosures. This eliminates a clinical bottleneck: hospitals and imaging centers no longer need to disconnect patients from IV medication during an MRI scan, reducing procedure delays and improving patient safety.
 
 ## Market Access Through Hospital Capital Budgets
 
@@ -33,7 +33,7 @@ IRMD's revenue model includes a smaller consumables component than some device m
 
 ## Clinical Applications and Scope Creep
 
-IRMD initially focused on infusion during MRI scans. It has expanded to patient-monitoring devices—SpO2, EtCO2, and ECG sensors designed for use inside or near MRI—and to other critical-care environments where MRI-safe equipment is required. Each application requires separate FDA pathways, clinical validation, and market education. The company faces a tension: broader product lines allow revenue diversification, but they dilute focus and multiply engineering overhead.
+IRMD initially focused on infusion during MRI scans. It has expanded to patient-monitoring devices—SpO2, EtCO2, and ECG sensors designed for use inside or near MRI—and to other critical-care environments where MRI-safe equipment is required. Each application requires separate FDA pathways, clinical validation, and market education. The company faces a tension: broader product lines allow revenue [diversification](/diversification/), but they dilute focus and multiply engineering overhead.
 
 ## Competitive Insulation and Market Scale
 

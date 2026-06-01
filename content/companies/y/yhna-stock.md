@@ -14,7 +14,7 @@ YHN [Acquisition](/acquisition/) I Ltd is a [special-purpose acquisition company
 
 ## What is a SPAC?
 
-A SPAC, also called a blank-check company, is a public shell corporation formed with investor capital but no defined operating business. The company's sponsor—typically experienced investors or business operators—identifies a [target](/tgt-stock/) company after going public. Shareholders then vote on whether to approve the [merger](/merger/). If the business combination is approved, the SPAC effectively becomes the public vehicle for the target company. This structure bypasses the traditional [initial public offering](/wiki/initial-public-offering/) process, allowing private companies to access public markets and raise capital more quickly, though with less regulatory scrutiny than an IPO and at the cost of higher capital loss if a deal falls through.
+A SPAC, also called a blank-check company, is a public shell corporation formed with investor capital but no defined operating business. The company's sponsor—typically experienced investors or business operators—identifies a target company after going public. Shareholders then vote on whether to approve the [merger](/merger/). If the business combination is approved, the SPAC effectively becomes the public vehicle for the target company. This structure bypasses the traditional [initial public offering](/wiki/initial-public-offering/) process, allowing private companies to access public markets and raise capital more quickly, though with less regulatory scrutiny than an IPO and at the cost of higher capital loss if a deal falls through.
 
 ## How does YHN Acquisition I function before a merger?
 

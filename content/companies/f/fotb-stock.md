@@ -24,7 +24,7 @@ keywords:
 
 First Ottawa Bancshares operates through one main subsidiary, First Ottawa Bank, with a handful of branches concentrated in LaSalle County and nearby areas of central Illinois. This tight geographic focus is both a strength and a constraint. Strength because the bank's lending officers and loan committees have decades of local knowledge—they understand the business owners in town, the stability of the local employers, the real estate values in their market, and the creditworthiness of applicants based on relationships and community reputation.
 
-The constraint is obvious: a bank with four or five branches in a slowly-aging manufacturing region has limited growth options. Population migration to larger metropolitan areas means the local customer base is not expanding. The bank must retain customers, deepen relationships with existing clients, and manage a loan portfolio that reflects the regional economy—agriculture, small manufacturing, retail, professional services. There is no option to chase growth in adjacent high-growth metros; the bank's franchise is rooted in place.
+The constraint is obvious: a bank with four or five branches in a slowly-aging manufacturing region has limited [growth options](/growth-option/). Population migration to larger metropolitan areas means the local customer base is not expanding. The bank must retain customers, deepen relationships with existing clients, and manage a loan portfolio that reflects the regional economy—agriculture, small manufacturing, retail, professional services. There is no option to chase growth in adjacent high-growth metros; the bank's franchise is rooted in place.
 
 ## Deposit Gathering and Local Relationships
 
@@ -34,15 +34,15 @@ Operationally, gathering deposits means maintaining branches where customers can
 
 ## Loan Portfolio Management and Underwriting
 
-The bank's largest operational focus is underwriting and servicing loans. A loan officer receives applications from local business owners seeking equipment financing, commercial real estate mortgages, working capital lines, and personal loans. The underwriting process—reviewing financial statements, verifying income, assessing business viability, evaluating collateral—is labor-intensive and requires experienced judgment.
+The bank's largest operational focus is underwriting and servicing loans. A loan officer receives applications from local business owners seeking equipment financing, [commercial real estate](/commercial-real-estate/) mortgages, working capital lines, and personal loans. The underwriting process—reviewing financial statements, verifying income, assessing business viability, evaluating collateral—is labor-intensive and requires experienced judgment.
 
-Community banks typically hold their loans to maturity rather than selling them (unlike large banks that often originate and immediately securitize). This means First Ottawa bears the credit risk. If a business loan goes bad, the bank must work with the borrower on a workout, or eventually foreclose on collateral. This creates a strong incentive for careful underwriting but also means the bank must stay attuned to borrowers over the life of the loan.
+Community banks typically hold their loans to maturity rather than selling them (unlike large banks that often originate and immediately securitize). This means First Ottawa bears the [credit risk](/credit-risk/). If a business loan goes bad, the bank must work with the borrower on a workout, or eventually foreclose on collateral. This creates a strong incentive for careful underwriting but also means the bank must stay attuned to borrowers over the life of the loan.
 
 For a commercial real estate loan, the bank verifies tenant leases, evaluates property management, assesses market rates and occupancy in the local commercial real estate market, and monitors the borrower's ability to service debt. If a major tenant leaves a property or local commercial vacancy spikes, the bank must monitor whether borrowers remain solvent.
 
 ## Credit Concentration and Economic Sensitivity
 
-A small community bank with only a handful of major commercial customers faces concentration risk. If one large borrower—say, a local manufacturing company that employs hundreds—deteriorates, the bank's loan loss rate can spike quickly. Conversely, if the local economy thrives, the bank benefits from low defaults and strong demand for credit.
+A small community bank with only a handful of major commercial customers faces [concentration risk](/concentration-risk/). If one large borrower—say, a local manufacturing company that employs hundreds—deteriorates, the bank's loan loss rate can spike quickly. Conversely, if the local economy thrives, the bank benefits from low defaults and strong demand for credit.
 
 The operations depend on active management of problem loans. When a borrower misses a payment or shows signs of financial stress, the bank's relationship managers contact the borrower, understand the issue, and work toward solutions—rate reductions, payment restructuring, or orderly collection. This is time-consuming and requires judgment. A bank with a small loan portfolio cannot afford specialized workout teams; relationship managers handle it along with their other duties.
 
@@ -50,7 +50,7 @@ The operations depend on active management of problem loans. When a borrower mis
 
 Traditional community banks compete against large national banks (which offer online banking, nationwide ATM networks, and brand recognition) and fintech lenders (which offer fast online approval and loan origination). First Ottawa must invest in digital banking capabilities—online account opening, mobile deposit, payment processing—to remain competitive. But these investments require technical expertise the bank must either build or outsource.
 
-Cost of technology and compliance is a constant pressure. The bank must comply with Federal Reserve regulations, FDIC requirements, and state banking rules. This means hiring or contracting for compliance, audit, and risk management expertise. For a small bank, these are overhead costs that large banks can amortize across billions in assets; for First Ottawa, they represent a meaningful percentage of operating expense.
+Cost of technology and compliance is a constant pressure. The bank must comply with [Federal Reserve regulations](/federal-reserve-regulation/), FDIC requirements, and state banking rules. This means hiring or contracting for compliance, audit, and risk management expertise. For a small bank, these are overhead costs that large banks can amortize across billions in assets; for First Ottawa, they represent a meaningful percentage of operating expense.
 
 ## Loan Servicing Operations
 
@@ -58,11 +58,11 @@ The bank must maintain a loan servicing infrastructure: collecting payments, man
 
 ## Interest Rate Risk Management
 
-The bank borrows short (deposits are demand or short-term savings products) and lends long (mortgages are typically fifteen or thirty-year fixed rates). This exposes the bank to interest rate risk. If the Federal Reserve raises rates sharply, the bank's deposit costs rise but loan rates are locked in, squeezing net interest margin. Conversely, falling rates reduce the bank's net income. First Ottawa must manage this mismatch, typically by holding a portfolio of securities that can be sold if needed for liquidity, or by originating adjustable-rate loans to reduce long-term rate risk.
+The bank borrows short (deposits are demand or short-term savings products) and lends long (mortgages are typically fifteen or thirty-year fixed rates). This exposes the bank to [interest rate](/interest-rate/) risk. If the [Federal Reserve](/federal-reserve/) raises rates sharply, the bank's deposit costs rise but loan rates are locked in, squeezing net interest margin. Conversely, falling rates reduce the bank's net income. First Ottawa must manage this mismatch, typically by holding a portfolio of securities that can be sold if needed for liquidity, or by originating adjustable-rate loans to reduce long-term rate risk.
 
 ## Regulatory Capital and Earnings Allocation
 
-Community banks must maintain minimum capital ratios—a percentage of assets held as equity. First Ottawa must ensure it meets these requirements through retained earnings and, if necessary, capital raises. Earnings allocation becomes strategic: how much to retain (to build capital, fund growth, absorb losses) and how much to return to shareholders via dividends. A bank that distributes too much as dividend has no buffer for loan losses; one that retains too much constrains shareholder returns and may face pressure to improve operating efficiency.
+Community banks must maintain minimum capital ratios—a percentage of assets held as equity. First Ottawa must ensure it meets these requirements through [retained earnings](/retained-earnings/) and, if necessary, capital raises. Earnings allocation becomes strategic: how much to retain (to build capital, fund growth, absorb losses) and how much to return to shareholders via [dividends](/dividend/). A bank that distributes too much as dividend has no buffer for loan losses; one that retains too much constrains shareholder returns and may face pressure to improve operating efficiency.
 
 ## Staff Retention and Knowledge Management
 

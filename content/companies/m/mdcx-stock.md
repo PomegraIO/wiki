@@ -35,13 +35,13 @@ Medicus likely operates on a defined runway tied to milestones (first Phase II e
 
 ## Path to Profitability: Approval, Launch, and Scale
 
-If a Medicus drug reaches approval, the cost structure changes fundamentally. Manufacturing, distribution, sales force, and marketing become the dominant expense line. A successful oncology drug might generate $100 million to $500 million in annual peak sales, depending on the indication, competition, and pricing. But that gross revenue must cover cost of goods sold (often 15–35% for pharma), sales and marketing (25–40%), and manufacturing overhead. A profitable biotech drug typically generates operating margins of 50–70% once the company recoups development costs and scales volume.
+If a Medicus drug reaches approval, the cost structure changes fundamentally. Manufacturing, distribution, sales force, and marketing become the dominant expense line. A successful oncology drug might generate $100 million to $500 million in annual peak sales, depending on the indication, competition, and pricing. But that gross revenue must cover cost of goods sold (often 15–35% for pharma), sales and marketing (25–40%), and manufacturing overhead. A profitable biotech drug typically generates [operating margins](/operating-margin/) of 50–70% once the company recoups development costs and scales volume.
 
 For Medicus, the realistic path to that profitability is:
 
 1. **Small Phase II win** — a signal that the drug has activity in humans. This typically unlocks partnerships or licensing deals with larger firms, which take over development and commercialization.
 
-2. **Acquisition or merger** — a larger pharmaceutical company buys Medicus for its pipeline, rolling programs into its own portfolio and manufacturing footprint.
+2. **[Acquisition](/acquisition/) or [merger](/merger/)** — a larger pharmaceutical company buys Medicus for its pipeline, rolling programs into its own portfolio and manufacturing footprint.
 
 3. **Long odds** — Medicus remains independent, funds Phase III trials independently (the most expensive stage), wins approval, and builds its own commercial infrastructure. This requires sustained capital raising and works only if the company finds a very large, underserved market.
 

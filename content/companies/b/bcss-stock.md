@@ -20,7 +20,7 @@ keywords: [bdc, business-development-company, defense-contractor, government-ser
 
 Defense and government services contractors operate in a market fundamentally shaped by federal budget cycles, Congressional appropriations, and geopolitical priorities. Unlike commercial enterprises sensitive to consumer demand or economic cycles, GSS contractors derive revenue from long-term contracts—often multiyear [enterprise value](/enterprise-value/) agreements with the Department of Defense, Department of Homeland Security, or NASA. Revenue visibility is typically superior to commercial peers; a prime contractor with a five-year contract knows its cash flow with reasonable certainty.
 
-This stability attracts lenders willing to extend credit at lower [price-to-earnings-ratio](/price-to-earnings-ratio/) multiples than commercial mid-market companies. A defense contractor with consistent contract backlog can support higher leverage and still service debt reliably. BCSS targets this niche—companies (primes or subcontractors) with stable government revenue, often family-owned or mid-market in structure, that benefit from growth capital and recapitalization at advantageous terms.
+This stability attracts lenders willing to extend credit at lower [price-to-earnings-ratio](/price-to-earnings-ratio/) multiples than commercial mid-market companies. A defense contractor with consistent contract backlog can support higher leverage and still service debt reliably. BCSS targets this niche—companies (primes or subcontractors) with stable government revenue, often family-owned or mid-market in structure, that benefit from growth capital and [recapitalization](/recapitalization/) at advantageous terms.
 
 ## Regulatory and Compliance Burden as Moat
 
@@ -36,7 +36,7 @@ The structure of contracts also affects cash flow. Cost-plus contracts (common i
 
 ## Sponsor Expertise and Network Effects
 
-Bain Capital's involvement in GSS lending is deliberate. The firm has deep relationships with both government and industry; its investment team likely includes former acquisition officers, defense industry executives, and government technology advisers. This network enables Bain to identify acquisition targets, underwrite credit risk accurately, and provide operational support to portfolio companies navigating contract re-competes or regulatory changes.
+Bain Capital's involvement in GSS lending is deliberate. The firm has deep relationships with both government and industry; its investment team likely includes former [acquisition](/acquisition/) officers, defense industry executives, and government technology advisers. This network enables Bain to identify acquisition targets, underwrite [credit risk](/credit-risk/) accurately, and provide operational support to portfolio companies navigating contract re-competes or regulatory changes.
 
 The adviser relationship (Bain Capital acting as investment adviser to BCSS) creates fee revenue for Bain but also potential conflicts—Bain may prioritize exits aligned with its broader portfolio strategy rather than maximizing BCSS distributions. The 10-K discloses the adviser's compensation and any conflicts.
 
@@ -44,7 +44,7 @@ The adviser relationship (Bain Capital acting as investment adviser to BCSS) cre
 
 Like other BDCs, BCSS finances itself through [common stock](/common-stock/), preferential dividends (if any), and debt. Leverage magnifies returns if the portfolio performs well but increases pressure if credit conditions tighten. A GSS portfolio's stability allows slightly higher leverage than a general mid-market BDC, but geopolitical or budget shocks (e.g., a sudden change in defense spending priorities) can cascade through the portfolio.
 
-BCSS's debt maturity schedule, noted in the 10-K, reveals refinancing risk. If a large debt facility matures when credit markets are stressed, BCSS may be forced to refinance at higher rates or sell assets. The 10-K discloses any covenant triggers or borrowing capacity limits.
+BCSS's debt maturity schedule, noted in the 10-K, reveals [refinancing risk](/refinancing-risk/). If a large debt facility matures when credit markets are stressed, BCSS may be forced to refinance at higher rates or sell assets. The 10-K discloses any covenant triggers or borrowing capacity limits.
 
 ## Dividend and Income Distribution
 

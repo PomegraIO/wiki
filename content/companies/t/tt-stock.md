@@ -63,7 +63,7 @@ Trane King faces less direct competition in transport refrigeration. The market 
 
 ## The risks that matter
 
-Trane is not immune to competitive pressure. Daikin Industries, [Lennox International](/lii-stock/), and Mitsubishi Electric all compete in various segments, and in regions outside North America, local competitors often have advantages in service and customization. The company also faces ongoing litigation related to alleged price-fixing, which could result in substantial financial penalties and reputational damage.
+Trane is not immune to competitive pressure. [Daikin Industries](/dkilf-stock/), [Lennox International](/lii-stock/), and Mitsubishi Electric all compete in various segments, and in regions outside North America, local competitors often have advantages in service and customization. The company also faces ongoing litigation related to alleged price-fixing, which could result in substantial financial penalties and reputational damage.
 
 Regulatory risk cuts both ways. While decarbonization mandates create tailwinds for efficient equipment, changes to refrigerant regulations or new safety standards can force expensive product redesigns. The Kigali Amendment and the EU F-Gas Regulation are pushing the industry toward low-GWP refrigerants, but the transition is costly and the timeline is compressed. If Trane fails to develop products that meet these standards on schedule, or if new standards emerge that competitors hit faster, the company could lose share.
 
@@ -79,4 +79,4 @@ A few metrics clarify the business: the ratio of bookings (orders) to current-qu
 
 Geographic exposure matters too. The Americas generate the bulk of revenue and are the most mature market, while EMEA and Asia Pacific offer growth but are smaller and face different competitive and regulatory landscapes. Any assessment should track whether Trane's global expansion is adding margin or diluting it.
 
-Finally, watch the company's own sustainability commitments and whether it meets them. If Trane claims to reduce GWP by 78 percent by a given date and falls short, that signals execution risk and credibility issues just as much as a missed earnings [target](/tgt-stock/) would. Conversely, if the company consistently delivers on decarbonization commitments while meeting financial guidance, it has earned trust in an increasingly volatile and regulated industry.
+Finally, watch the company's own sustainability commitments and whether it meets them. If Trane claims to reduce GWP by 78 percent by a given date and falls short, that signals execution risk and credibility issues just as much as a missed earnings target would. Conversely, if the company consistently delivers on decarbonization commitments while meeting financial guidance, it has earned trust in an increasingly volatile and regulated industry.

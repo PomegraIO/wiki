@@ -24,7 +24,7 @@ For shareholders, this means that the closer a SPAC approaches its deadline with
 
 ## Redemption Pressure and Capital Depletion
 
-As the deadline nears and no deal is signed, shareholders rationally begin redeeming their shares in anticipation of liquidation. This redemption activity drains the trust account, leaving fewer dollars to deploy into the eventual merger. A SPAC that raised $500 million might see $100+ million redeemed before closing a deal, reducing the acquire-able size and potentially causing the sponsor to scale back or restructure the target's financials.
+As the deadline nears and no deal is signed, shareholders rationally begin redeeming their shares in anticipation of [liquidation](/liquidation/). This redemption activity drains the trust account, leaving fewer dollars to deploy into the eventual merger. A SPAC that raised $500 million might see $100+ million redeemed before closing a deal, reducing the acquire-able size and potentially causing the sponsor to scale back or restructure the target's financials.
 
 High redemption rates also signal shareholder skepticism. When the market sees that many shareholders are opting out, it reflects lack of confidence in the sponsor's deal pipeline, which can further pressure the SPAC's trading price and make closing even more challenging.
 
@@ -32,13 +32,13 @@ High redemption rates also signal shareholder skepticism. When the market sees t
 
 The Hennessy Capital Advisors team has completed multiple SPACs. Experience is valuable, but past success is not a guarantee of future returns. SPAC sponsor track records are mixed; some sponsors have produced strong post-merger returns, while others have presided over significant value destruction. A sponsor's past deals may also reflect luck or favorable market conditions rather than superior deal-selection ability.
 
-Additionally, success in one market environment (e.g., a bull market) may not translate to success in another (e.g., a bear market). Sponsors must adapt their target-selection criteria and valuation assumptions as market conditions change; failure to do so can lead to acquisitions that make sense in hindsight as mistakes.
+Additionally, success in one market environment (e.g., a [bull market](/bull-market/)) may not translate to success in another (e.g., a [bear market](/bear-market/)). Sponsors must adapt their target-selection criteria and valuation assumptions as market conditions change; failure to do so can lead to [acquisitions](/acquisition/) that make sense in hindsight as mistakes.
 
 ## Valuation Risk and Overpayment
 
-SPAC mergers are often valued on aggressive pro-forma assumptions about the target's growth rate, margins, and market opportunity. These projections are used to justify high valuations relative to historical earnings or revenue. If the target underperforms relative to projections, the post-merger stock declines sharply.
+SPAC [mergers](/merger/) are often valued on aggressive pro-forma assumptions about the target's growth rate, margins, and market opportunity. These projections are used to justify high valuations relative to historical earnings or revenue. If the target underperforms relative to projections, the post-merger stock declines sharply.
 
-The problem is structural: SPACs need the target to look "big" (high growth, large TAM, impressive margins) to justify an acquisition that makes sense for public shareholders. This creates pressure to be optimistic. Conservative projections look unattractive, so sponsors naturally gravitate toward more aggressive scenarios. This optimism bias is systematic across the SPAC market.
+The problem is structural: SPACs need the target to look "big" (high growth, large TAM, impressive margins) to justify an acquisition that makes sense for public shareholders. This creates pressure to be optimistic. Conservative projections look unattractive, so sponsors naturally gravitate toward more aggressive scenarios. This [optimism bias](/optimism-bias/) is systematic across the SPAC market.
 
 ## Earnout and Warrant Dilution
 
@@ -64,7 +64,7 @@ HCIC's eventual merger partner will be in some sector—healthcare, fintech, cle
 
 ## Sponsor Economics and Alignment
 
-Hennessy Capital Advisors sponsors multiple SPACs and manages funds for investors. The sponsor's economic interests may not align perfectly with HCIC shareholders. Sponsors earn management fees, advisory fees, and promote allocations that may be valuable even if shareholder returns are mediocre. This misalignment is subtle but persistent: the sponsor benefits from completing deals and maintaining assets under management, while shareholders benefit only from strong post-merger returns.
+Hennessy Capital Advisors sponsors multiple SPACs and manages funds for investors. The sponsor's economic interests may not align perfectly with HCIC shareholders. Sponsors earn [management fees](/management-fee/), advisory fees, and promote allocations that may be valuable even if shareholder returns are mediocre. This misalignment is subtle but persistent: the sponsor benefits from completing deals and maintaining assets under management, while shareholders benefit only from strong post-merger returns.
 
 ## Litigation and Regulatory Risk
 
@@ -72,4 +72,4 @@ SPAC IPOs and mergers have faced increased SEC scrutiny and shareholder litigati
 
 ## Path Forward and Irreducible Uncertainty
 
-Until a specific merger partner is identified and a deal is signed, shareholders have no visibility into what HCIC is actually buying. The risks are not quantifiable or hedgeable; they rest on the sponsor's deal-selection skill, market conditions, and the inevitable unknown unknowns about the target company. HCIC shareholders are making a bet on Hennessy Capital Advisors' ability to navigate the SPAC market and identify a value-accretive target before the deadline expires. That bet is reasonable only at a significant discount to estimated intrinsic value, given the structural challenges and incentive misalignments inherent in the model.
+Until a specific merger partner is identified and a deal is signed, shareholders have no visibility into what HCIC is actually buying. The risks are not quantifiable or hedgeable; they rest on the sponsor's deal-selection skill, market conditions, and the inevitable unknown unknowns about the target company. HCIC shareholders are making a bet on Hennessy Capital Advisors' ability to navigate the SPAC market and identify a value-accretive target before the deadline expires. That bet is reasonable only at a significant discount to estimated [intrinsic value](/intrinsic-value/), given the structural challenges and incentive misalignments inherent in the model.

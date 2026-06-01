@@ -31,7 +31,7 @@ The geographic footprint spans predominantly the Southeast and Mid-Atlantic, wit
 
 ## The Restructuring: From Distress to Emergence
 
-CBL filed for Chapter 11 bankruptcy protection in November 2020, caught in the confluence of three long-running structural headwinds: the e-commerce migration of retail shopping, a decade-long period of tenant consolidation and store closures (particularly among anchor tenants like Sears and Bed Bath & Beyond), and acute pandemic-driven occupancy pressures. The company's debt burden at filing exceeded $3 billion, an unsustainable liability for a REIT whose property values had deteriorated under retail sector stress.
+CBL filed for Chapter 11 bankruptcy protection in November 2020, caught in the confluence of three long-running structural headwinds: the e-commerce migration of retail shopping, a decade-long period of tenant consolidation and store closures (particularly among anchor tenants like Sears and [Bed Bath & Beyond](/bbby-stock/)), and acute pandemic-driven occupancy pressures. The company's debt burden at filing exceeded $3 billion, an unsustainable liability for a REIT whose property values had deteriorated under retail sector stress.
 
 The reorganization process, which concluded in March 2022, substantially deleveraged the enterprise. The company shed approximately $2 billion of debt through the restructuring, converting obligations into equity and extending maturities on remaining debt. Equity holders were largely diluted, with pre-bankruptcy shareholders receiving minimal recovery. The emerged entity returned to the public markets with a cleaner [balance sheet](/balance-sheet/) but substantially fewer shares outstanding relative to the pre-bankruptcy capital structure for legacy shareholders.
 
@@ -86,7 +86,7 @@ The fundamental investment thesis is a value-based turnaround: a company with de
 
 ## Research and Due Diligence
 
-Analyzing CBL requires careful attention to the post-emergence financial footprint. Review the [10-K](/wiki/10-k/) annual report filed with the SEC (CIK 910612) for detailed property schedules, tenant concentration, lease maturity profiles, and capex guidance. Track same-property net operating income, occupancy rates, and rental rate change (on renewals and new leases) as forward indicators of value. Monitor tenant credit quality and announce closures by major retailers or bankruptcies in the portfolio.
+Analyzing CBL requires careful attention to the post-emergence financial footprint. Review the [10-K](/wiki/10-k/) annual report filed with the SEC (CIK 910612) for detailed property schedules, tenant concentration, lease maturity profiles, and capex guidance. Track same-property [net operating income](/net-operating-income/), occupancy rates, and rental rate change (on renewals and new leases) as forward indicators of value. Monitor tenant credit quality and announce closures by major retailers or bankruptcies in the portfolio.
 
 The company's [debt maturity schedule](/wiki/debt-maturity-structure/) is critical; watch refinancing announcements and any covenant pressure. Cash flow from operations relative to [debt service](/wiki/debt-maturity-structure/) gives insight into financial flexibility. Given the [REIT](/wiki/equity-reit/) structure, understand the distribution policy and coverage ratio for income investors seeking yield.
 

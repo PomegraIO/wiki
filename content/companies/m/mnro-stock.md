@@ -4,7 +4,7 @@ description: "Multi-store automotive repair and maintenance services company, SE
 keywords: ["automotive-repair", "retail-services", "tire-sales", "northeast-regional", "maintenance-services"]
 ---
 
-*The **MONRO, INC.** ticker (MNRO, CIK 876427) represents a regional automotive services chain that trades on the NASDAQ. Monro operates a network of company-owned and franchised service centers concentrated in the Northeast and Mid-Atlantic, emphasizing tire replacement, brake service, and scheduled maintenance — a niche that sits between national quick-lube chains and full-service dealer networks.*
+*The **MONRO, INC.** ticker (MNRO, CIK 876427) represents a regional automotive services chain that trades on the [NASDAQ](/nasdaq/). Monro operates a network of company-owned and franchised service centers concentrated in the Northeast and Mid-Atlantic, emphasizing tire replacement, brake service, and scheduled maintenance — a niche that sits between national quick-lube chains and full-service dealer networks.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MNRO</td></tr>
@@ -37,11 +37,11 @@ Monro's profitability depends on the availability of trained automotive technici
 
 ## Customer Acquisition and Retention
 
-Unlike a product-focused retailer with one-time purchase events, a service business depends on repeat traffic. Monro's 10-K should reveal metrics on customer acquisition cost, repeat visit rates (if disclosed), and any loyalty or membership programs. The presence of a membership or prepaid service program is a signal that the company has enough customer lifetime value to monetize loyalty. Conversely, if the company relies purely on transaction-by-transaction pricing, customer acquisition cost is high and margins are thin. Look for any shift in the company's marketing spend or promotional activity — increasing promotions can indicate slowing traffic or price competition in key markets.
+Unlike a product-focused retailer with one-time purchase events, a service business depends on repeat traffic. Monro's 10-K should reveal metrics on customer [acquisition](/acquisition/) cost, repeat visit rates (if disclosed), and any loyalty or membership programs. The presence of a membership or prepaid service program is a signal that the company has enough customer lifetime value to monetize loyalty. Conversely, if the company relies purely on transaction-by-transaction pricing, customer acquisition cost is high and margins are thin. Look for any shift in the company's marketing spend or promotional activity — increasing promotions can indicate slowing traffic or price competition in key markets.
 
 ## Inventory and Working Capital Dynamics
 
-A service center must maintain inventory of tires, parts, and consumables — expensive working capital. The 10-K should break out inventory levels, inventory turnover, and any changes in inventory policies. Fast inventory turns reduce financing costs and obsolescence risk. Slow turns tie up cash. Also note accounts payable and whether the company is able to extend supplier terms — strong suppliers and scale can enable more favorable payment terms, effectively lowering the cost of working capital. This working capital efficiency is often invisible but materially impacts cash available for [dividends](/dividend/) or debt reduction.
+A service center must maintain inventory of tires, parts, and consumables — expensive working capital. The 10-K should break out inventory levels, [inventory turnover](/inventory-turnover/), and any changes in inventory policies. Fast inventory turns reduce financing costs and obsolescence risk. Slow turns tie up cash. Also note [accounts payable](/accounts-payable/) and whether the company is able to extend supplier terms — strong suppliers and scale can enable more favorable payment terms, effectively lowering the cost of working capital. This [working capital efficiency](/working-capital-efficiency/) is often invisible but materially impacts cash available for [dividends](/dividend/) or debt reduction.
 
 ## Competitive Positioning
 
@@ -49,7 +49,7 @@ The automotive service market includes national chains (Firestone, Jiffy Lube, P
 
 ## Key Metrics for the 10-K
 
-When you open the filing, target these items: revenue by store count and per-store averages, gross margin trend by product category, labor costs as a percentage of revenue, capital expenditure and depreciation, same-store sales growth, store openings and closures, and any discussion of wage or supply-chain headwinds. These data points tell you whether Monro is a stable, cash-generative regional operator or a company under margin pressure facing structural challenges.
+When you open the filing, target these items: revenue by store count and per-store averages, gross margin trend by product category, labor costs as a percentage of revenue, capital expenditure and [depreciation](/depreciation/), same-store sales growth, store openings and closures, and any discussion of wage or supply-chain headwinds. These data points tell you whether Monro is a stable, cash-generative regional operator or a company under margin pressure facing structural challenges.
 
 <div class="wiki-seealso">
 ### Closely related

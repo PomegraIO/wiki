@@ -25,7 +25,7 @@ State mining permits are similarly rigorous. A state's Department of Natural Res
 
 ## Environmental Compliance and Closure Liability
 
-Mining's environmental footprint is permanent, and regulators have responded with stringent closure requirements. When a mine closes, the company (or a bonding company acting on its behalf, funded by reclamation bonds posted during permitting) must reclaim the site—remove infrastructure, stabilize exposed surfaces, revegetate, and often maintain water-quality treatment in perpetuity. Some mines generate acid mine drainage (chemical weathering of exposed minerals) for decades after closure; if the original operator fails to maintain treatment, the public or a government agency must bear the cost.
+Mining's environmental footprint is permanent, and regulators have responded with stringent closure requirements. When a mine closes, the company (or a bonding company acting on its behalf, funded by reclamation [bonds](/bond/) posted during permitting) must reclaim the site—remove infrastructure, stabilize exposed surfaces, revegetate, and often maintain water-quality treatment in perpetuity. Some mines generate acid mine drainage (chemical weathering of exposed minerals) for decades after closure; if the original operator fails to maintain treatment, the public or a government agency must bear the cost.
 
 Core Natural Resources must account for estimated closure costs on its balance sheet as a liability (Asset Retirement Obligation, or ARO). If a deposit is large or in an environmentally sensitive area, the ARO can be substantial—potentially exceeding the net present value of the mine itself, making the project uneconomic. Regulators and bond rating agencies scrutinize ARO estimates; if a company underestimates closure costs, the [balance-sheet](/balance-sheet/) is overstated and the company faces subsequent write-downs.
 
@@ -43,7 +43,7 @@ Core Natural Resources' permitting strategy must account for tribal interests ea
 
 ## Commodity Market Regulation and Hedging
 
-While site-specific permitting is Core Natural Resources' immediate regulatory burden, commodity prices are set in regulated futures markets. The minerals the company eventually extracts (copper, lithium, rare earths, molybdenum, depending on the deposit) are traded on commodities exchanges subject to Commodity Futures Trading Commission (CFTC) oversight. Volatility in commodity prices is not the company's fault, but it directly determines whether a permitted mine is economically viable.
+While site-specific permitting is Core Natural Resources' immediate regulatory burden, commodity prices are set in regulated futures markets. The minerals the company eventually extracts (copper, lithium, rare earths, molybdenum, depending on the deposit) are traded on commodities exchanges subject to [Commodity Futures Trading Commission](/commodity-futures-trading-commission/) (CFTC) oversight. Volatility in commodity prices is not the company's fault, but it directly determines whether a permitted mine is economically viable.
 
 A mine that pencils out at $2 copper may be uneconomic at $1.50 copper. Because permitting takes years and prices fluctuate, Core Natural Resources faces a timing risk: it might complete permitting when commodity prices are low, forcing a delay before mining economics improve. The company can hedge commodity price risk by forward-selling production, but hedging itself is regulated; large hedges are reported to the CFTC and constrain the company's optionality.
 

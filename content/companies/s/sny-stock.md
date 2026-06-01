@@ -40,7 +40,7 @@ Manufacturing in multiple geographies also exposes Sanofi to labor costs, energy
 
 ## Research and development complexity
 
-Sanofi spends billions annually on R&D, maintaining a large research organization with sites in France, the United States, Germany, and other locations. The company funds both internal discovery programs and partnerships with academic medical centers and biotechnology firms. The hope is that this broad research effort will yield new drugs in [target](/tgt-stock/) areas and that the company's regulatory expertise and commercial reach will allow it to bring those drugs to market effectively.
+Sanofi spends billions annually on R&D, maintaining a large research organization with sites in France, the United States, Germany, and other locations. The company funds both internal discovery programs and partnerships with academic medical centers and biotechnology firms. The hope is that this broad research effort will yield new drugs in target areas and that the company's regulatory expertise and commercial reach will allow it to bring those drugs to market effectively.
 
 However, pharmaceutical R&D is probabilistic and uncertain. The vast majority of drugs in development will fail to reach the market, and even approved drugs may not meet commercial expectations if efficacy is modest, side effects are burdensome, or competitors launch superior alternatives. Sanofi's large R&D spend is an investment in a portfolio of bets, not a guarantee of future blockbusters.
 

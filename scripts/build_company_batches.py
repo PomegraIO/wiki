@@ -27,6 +27,40 @@ ALLOW = "scripts/_company_allowlist.txt"
 BATCH_DIR = "scripts/_company_batches"
 PER_BATCH = 5
 
+# Subagents run with CWD = the parent workspace, not this repo root, so every
+# path a writer agent touches (file to create, guide, exemplar) must be
+# absolute. REPO_ROOT is derived from this file's location, forward-slashed so
+# it reads cleanly inside the generated prompts on any host.
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..")).replace("\\", "/")
+GUIDE_ABS = f"{REPO_ROOT}/WIKI_AUTHORING_GUIDE.md"
+EXEMPLAR_ABS = f"{REPO_ROOT}/content/companies/a/aapl-stock.md"
+
+# A per-batch analytical lens. Combined with the per-company SHAPE, this pushes
+# framing apart so same-class firms (banks, BDCs, biotech, REITs — the overlap
+# trap) don't converge on one template. Assigned round-robin by batch number.
+LENSES = [
+    "Lead with the customer: who buys from this company and what are they really paying for.",
+    "Lead with the unit economics: where a dollar of revenue comes from and what it costs to earn.",
+    "Frame it through competition: who it fights, and why it wins or loses those fights.",
+    "Frame it through history: the decision or pivot that made it what it is today.",
+    "Frame it through risk: the one or two things that could genuinely break this business.",
+    "Frame it through the moat (or absence of one): what, if anything, keeps rivals out.",
+    "Frame it through capital: how it funds itself and what it does with the cash it makes.",
+    "Frame it geographically: where it operates and how place shapes the business.",
+    "Frame it through the product line: what it actually makes or sells, concretely.",
+    "Frame it through the industry it sits in: the sector's economics, then the firm's place in it.",
+    "Frame it through change: what is shifting under this company right now.",
+    "Frame it through the regulator: the rules that define the sandbox it plays in.",
+    "Frame it through scale: what being big (or small) buys it, or denies it.",
+    "Frame it through the supply chain: what it depends on upstream and serves downstream.",
+    "Frame it through the founder/operator culture that still drives it.",
+    "Frame it through cyclicality: how it behaves across boom and bust.",
+]
+
+
+def lens_for(batch_no: int) -> str:
+    return LENSES[batch_no % len(LENSES)]
+
 SHAPES = [
     "Continuous essay — flowing prose, few or no subheadings, carried by narrative.",
     "Q&A — section headings phrased as the real questions a curious reader asks.",
@@ -50,10 +84,22 @@ def first_letter(slug: str) -> str:
 
 
 def tier_for(rank: int) -> tuple[str, str]:
-    """rank is the company's 0-based position in the next-N batch."""
-    if rank < 150:
-        return ("major", "1,500–2,000 words — a major, storied, or complex firm. Go deep.")
-    return ("ordinary", "900–1,300 words — an ordinary operating company. Substantial, not padded.")
+    """rank is the company's 0-based position in the next-N batch.
+
+    This batch sits well past the megacaps (the prominent names are already on
+    disk), so there is NO 'go deep to 2,000 words' tier here — that would only
+    produce padding on mid- and small-caps. Size strictly to substance.
+    """
+    if rank < 120:
+        return ("notable",
+                "~1,100–1,500 words — among the more prominent of the remaining "
+                "companies, with a real business to describe. Go reasonably deep, "
+                "but only as far as there is genuine substance.")
+    return ("sized",
+            "Size to the substance, never to a target: ~900–1,300 words for a "
+            "genuine operating company; ~500–750 words if it is a dormant shell, "
+            "holding company, SPAC, or tiny micro-cap with little real operation. "
+            "A thin business honestly has less to say — do not pad it.")
 
 
 def load_sec() -> list[dict]:
@@ -88,7 +134,7 @@ def build_plan(n: int) -> list[dict]:
         tier, tier_desc = tier_for(rank)
         letter = first_letter(r["slug"])
         plan.append({**r, "rank": rank,
-                     "dir": f"{COMPANIES}/{letter}",
+                     "dir": f"{REPO_ROOT}/content/companies/{letter}",
                      "tier": tier, "tier_desc": tier_desc,
                      "shape": SHAPES[rank % len(SHAPES)]})
         if len(plan) >= n:
@@ -110,11 +156,17 @@ def prompt_for(batch_no: int, rows: list[dict]) -> str:
 Pomegra Wiki (a reader-friendly encyclopedia at https://pomegra.io/wiki/).
 Write {len(rows)} company profiles — one file each, exactly as assigned below.
 
-# Read first
-Open and follow `WIKI_AUTHORING_GUIDE.md` section 9 ("Company entries"). The
-company rules are DIFFERENT from concept entries. The exemplar to match for
-depth and tone is `content/companies/a/aapl-stock.md` (Apple) — read it before
-writing. Match its quality; never copy its headings or sentences.
+# Read first (both files, by absolute path)
+1. `{GUIDE_ABS}` — section 9 ("Company entries"). The company rules are
+   DIFFERENT from concept entries. Read §9 before writing.
+2. `{EXEMPLAR_ABS}` (Apple) — the exemplar to match for depth and tone. Match
+   its quality; never copy its headings or sentences.
+
+# Framing lens for this batch
+{lens_for(batch_no)}
+Apply this lens as your DEFAULT angle of approach, but bend it to each company —
+it is a starting vantage point, not a heading to copy. It exists so your five
+profiles, and this batch versus the others, do not converge on one shape.
 
 # Hard rules (deal-breakers — the work is rejected if violated)
 1. **No template.** Each of your {len(rows)} profiles must read as if a

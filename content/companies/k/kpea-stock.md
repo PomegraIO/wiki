@@ -17,7 +17,7 @@ keywords: ["oil and gas", "China", "commodity risk", "regulatory risk", "capital
 
 ## Oil and Gas Price Volatility
 
-Kun Peng's fortunes are tethered to global oil and gas prices, which are subject to supply shocks, demand cycles, geopolitical events, and longer-term energy transition pressures. When oil prices collapse, revenues shrink and projects become uneconomical, forcing deferral or abandonment. When prices spike, demand for services and capital investment rises, but input costs (steel, labor, equipment) also rise. The company has limited ability to smooth price volatility through hedging or diversification. Long-term, energy prices face secular pressure from climate policy, renewable energy growth, and shifts in transportation and heating toward electrification. A prolonged period of low oil and gas prices or accelerated energy transition could render current reserves uneconomical or reduce demand for new exploration and development.
+Kun Peng's fortunes are tethered to global oil and gas prices, which are subject to supply shocks, demand cycles, geopolitical events, and longer-term energy transition pressures. When oil prices collapse, revenues shrink and projects become uneconomical, forcing deferral or abandonment. When prices spike, demand for services and capital investment rises, but input costs (steel, labor, equipment) also rise. The company has limited ability to smooth price volatility through hedging or [diversification](/diversification/). Long-term, energy prices face secular pressure from climate policy, renewable energy growth, and shifts in transportation and heating toward electrification. A prolonged period of low oil and gas prices or accelerated energy transition could render current reserves uneconomical or reduce demand for new exploration and development.
 
 ## Chinese State Control and Strategic Resources
 
@@ -25,7 +25,7 @@ China controls all major energy development through state-owned companies (CNOOC
 
 ## Capital Intensity and Project Risk
 
-Oil and gas development requires massive upfront capital expenditure over years before cash generation begins. Kun Peng must finance exploration, drilling, production facilities, and infrastructure. These sunk costs are non-recoverable if projects fail, reserves are smaller than expected, or geological or regulatory surprises occur. Cost overruns are endemic in energy megaprojects; a 20-50% cost escalation is not unusual. Schedule delays push back cash flow and increase financing costs. Kun Peng, as a smaller independent, has less financial capacity to absorb these overruns than majors like ExxonMobil or Shell. A single failed or delayed major project could strain the company's balance sheet and financing capacity.
+Oil and gas development requires massive upfront capital expenditure over years before cash generation begins. Kun Peng must finance exploration, drilling, production facilities, and infrastructure. These sunk costs are non-recoverable if projects fail, reserves are smaller than expected, or geological or regulatory surprises occur. Cost overruns are endemic in energy megaprojects; a 20-50% cost escalation is not unusual. Schedule delays push back cash flow and increase financing costs. Kun Peng, as a smaller independent, has less financial capacity to absorb these overruns than majors like ExxonMobil or Shell. A single failed or delayed major project could strain the company's [balance sheet](/balance-sheet/) and financing capacity.
 
 ## Commodity Supercycles and Stranded Assets
 
@@ -45,7 +45,7 @@ Oil and gas are wasting assets; production depletes reserves unless new resource
 
 ## Financing Risk and Debt Burden
 
-Large capital projects are typically financed with debt. Kun Peng may carry significant [debt](/corporate-bond/) obligations tied to project cash flows. If oil prices fall or project cash flows disappoint, the company faces refinancing risk or covenant violations. Lenders may impose stricter terms or demand asset sales. In extreme cases, the company could face distress and creditor-driven restructuring. A sharp downturn in energy markets coinciding with a refinancing cliff could be existential.
+Large capital projects are typically financed with debt. Kun Peng may carry significant [debt](/corporate-bond/) obligations tied to project cash flows. If oil prices fall or project cash flows disappoint, the company faces [refinancing risk](/refinancing-risk/) or covenant violations. Lenders may impose stricter terms or demand asset sales. In extreme cases, the company could face distress and creditor-driven restructuring. A sharp downturn in energy markets coinciding with a refinancing cliff could be existential.
 
 ## Energy Transition and Stranded Assets
 

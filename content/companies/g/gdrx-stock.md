@@ -4,7 +4,7 @@ description: "A US-listed healthcare pricing and prescription-discount platform 
 keywords: ["healthcare", "pharmaceuticals", "prescription discounts", "pricing transparency", "pharmacy"]
 ---
 
-*[**GoodRx Holdings, Inc. (GDRX)**](/gdrx-stock/) discloses a dual-sided marketplace: consumers seeking lower prescription prices on one side, pharmacies and pharmacy-benefits managers seeking patient volume on the other, with the company capturing value as both a publisher (selling price transparency and consumer acquisition to industry players) and a transaction processor.*
+*[**GoodRx Holdings, Inc. (GDRX)**](/gdrx-stock/) discloses a dual-sided marketplace: consumers seeking lower prescription prices on one side, pharmacies and pharmacy-benefits managers seeking patient volume on the other, with the company capturing value as both a publisher (selling price transparency and consumer [acquisition](/acquisition/) to industry players) and a transaction processor.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GDRX</td></tr>
@@ -33,7 +33,7 @@ GoodRx's disclosures reflect the fragmented nature of US prescription pricing: t
 
 The regulatory environment for pharmacy coupons and discounts is complex. The Anti-Kickback Statute and the Prescription Drug Marketing Act restrict how manufacturers can incentivize use of their drugs. GoodRx's filings address whether its model—enabling consumers to use manufacturer coupons alongside GoodRx discounts—complies with these rules. Any regulatory challenge or clarification (such as the FDA or Department of Justice signaling stricter enforcement) would be disclosed as a material risk.
 
-Pharmaceutical price inflation is another disclosure-relevant dynamic. If drug prices rise faster than consumer incomes, demand for discount mechanisms like GoodRx grows; conversely, if price competition or generic penetration accelerates, the average prescription value falls, shrinking per-transaction value and GoodRx's monetization per discount redeemed.
+Pharmaceutical price [inflation](/inflation/) is another disclosure-relevant dynamic. If drug prices rise faster than consumer incomes, demand for discount mechanisms like GoodRx grows; conversely, if price competition or generic penetration accelerates, the average prescription value falls, shrinking per-transaction value and GoodRx's monetization per discount redeemed.
 
 ## Data and network effects
 

@@ -16,11 +16,11 @@ keywords: ["electric-vehicles", "logistics", "emerging-markets", "capital-intens
 
 ## Capital Intensity and Cash Burn
 
-Building and deploying fleets of electric vehicles requires enormous upfront capital. Vehicles must be manufactured or procured, charged, maintained, and insured. Customer acquisition requires proving the vehicles are reliable, cost-effective, and logistically superior to incumbent combustion alternatives. Until Fly-E achieves sufficient scale, the company will likely burn cash on each vehicle deployed or run thin margins to achieve volume. This capital intensity means the company must either generate internal cash flow (unlikely in early scaling) or continuously raise external capital. Equity dilution and debt covenants are structural constraints on the company's freedom of action.
+Building and deploying fleets of electric vehicles requires enormous upfront capital. Vehicles must be manufactured or procured, charged, maintained, and insured. Customer [acquisition](/acquisition/) requires proving the vehicles are reliable, cost-effective, and logistically superior to incumbent combustion alternatives. Until Fly-E achieves sufficient scale, the company will likely burn cash on each vehicle deployed or run thin margins to achieve volume. This capital intensity means the company must either generate internal cash flow (unlikely in early scaling) or continuously raise external capital. Equity dilution and debt covenants are structural constraints on the company's freedom of action.
 
 ## Unproven Unit Economics
 
-The business model depends on the assumption that electric vehicles, over their operational lifetime, deliver lower total cost of ownership than diesel equivalents, accounting for fuel, maintenance, and depreciation. This is theoretically true for many last-mile routes with predictable, modest daily mileage. But the actual unit economics—revenue per vehicle per day, customer acquisition cost, churn rate, maintenance costs—may not support profitability at scale. If customers find cheaper alternatives (including well-capitalized competitors or traditional fleet operators who add a few EVs), Fly-E must either accept thin margins or lose customers. The company's 10-K will disclose unit-level metrics, but they are most valuable when measured across a large, diverse customer base; with limited scale, they may not be predictive.
+The business model depends on the assumption that electric vehicles, over their operational lifetime, deliver lower total cost of ownership than diesel equivalents, accounting for fuel, maintenance, and [depreciation](/depreciation/). This is theoretically true for many last-mile routes with predictable, modest daily mileage. But the actual unit economics—revenue per vehicle per day, customer acquisition cost, churn rate, maintenance costs—may not support profitability at scale. If customers find cheaper alternatives (including well-capitalized competitors or traditional fleet operators who add a few EVs), Fly-E must either accept thin margins or lose customers. The company's 10-K will disclose unit-level metrics, but they are most valuable when measured across a large, diverse customer base; with limited scale, they may not be predictive.
 
 ## Emerging-Market Regulatory Fragmentation
 
@@ -44,7 +44,7 @@ In early scaling, Fly-E likely depends on a small number of large logistics cust
 
 ## Residual Value Risk and Fleet Economics
 
-Electric vehicles are still depreciating rapidly as technology improves and prices fall. A vehicle Fly-E deployed two years ago may be worth 40–50% less now due to cheaper battery packs and longer ranges in new models. If Fly-E or its customers own the vehicles and intend to liquidate used fleets for salvage value, that assumption is fragile. Conversely, if the company operates vehicles as a service and owns them long-term, residual value risk sits directly on the balance sheet.
+Electric vehicles are still depreciating rapidly as technology improves and prices fall. A vehicle Fly-E deployed two years ago may be worth 40–50% less now due to cheaper battery packs and longer ranges in new models. If Fly-E or its customers own the vehicles and intend to liquidate used fleets for salvage value, that assumption is fragile. Conversely, if the company operates vehicles as a service and owns them long-term, residual value risk sits directly on the [balance sheet](/balance-sheet/).
 
 ## The Pre-Profitability Bet
 

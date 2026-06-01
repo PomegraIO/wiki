@@ -17,11 +17,11 @@ keywords: ["mobile apps", "Android", "security software", "mobile advertising", 
 
 ## Emergence in Android's Gold Rush
 
-Cheetah Mobile's founding in 2010 coincided with a moment when the Android ecosystem was exploding but fragmented and chaotic. Chinese smartphone makers—manufacturers like Xiaomi, Oppo, and Vivo—were shipping millions of Android devices with bloatware, little quality control, and no equivalent to Apple's tight hardware-software integration. Phone owners complained constantly of sluggishness, random freezes, and mysterious battery drain.
+Cheetah Mobile's founding in 2010 coincided with a moment when the Android ecosystem was exploding but fragmented and chaotic. Chinese smartphone makers—manufacturers like Xiaomi, Oppo, and Vivo—were shipping millions of Android devices with bloatware, little quality control, and no equivalent to [Apple](/aapl-stock/)'s tight hardware-software integration. Phone owners complained constantly of sluggishness, random freezes, and mysterious battery drain.
 
 Into that gap stepped Cheetah Mobile with a dead-simple proposition: a free app called "Clean Master" that let users clear cache files, kill background processes, and claim back storage space with a single tap. The app was useful, unintrusive, and free. Millions of Chinese users installed it. The company followed with other utilities—antivirus, lock screens, photo galleries—each targeting a specific pain point in the Android experience, each free to download.
 
-This was the era of hyper-growth in app markets. The barrier to distribution was low, user acquisition costs were trivial, and anyone with millions of active users was perceived as potentially valuable. Cheetah Mobile rode this wave, growing its app ecosystem and amassing an installed base that became the company's most valuable asset.
+This was the era of hyper-growth in app markets. The barrier to distribution was low, user [acquisition](/acquisition/) costs were trivial, and anyone with millions of active users was perceived as potentially valuable. Cheetah Mobile rode this wave, growing its app ecosystem and amassing an installed base that became the company's most valuable asset.
 
 ## Discovering the Ad Economy
 
@@ -49,7 +49,7 @@ By the early 2020s, Cheetah Mobile's growth had stalled. Revenue remained substa
 
 Cheetah Mobile's journey from mobile-app utility publisher to ad-network operator to struggling-for-relevance software conglomerate illustrates a broader pattern in Chinese tech: the difficulty of sustaining independent platforms after the giants consolidate market share. The company's early advantage—a large, engaged user base—became less valuable as the largest platforms in China (Tencent, Alibaba, ByteDance) internalized advertising and user acquisition.
 
-The original Clean Master app and other utilities remain installed on many devices globally, still generating some revenue through ads and in-app purchases. But the company now struggles to grow, and investor interest has waned. Its market capitalization has contracted from its 2017 peak to a fraction of that value. The company's SEC [10-K filings](/10-k/) reflect this contraction, with segments being spun off or wound down.
+The original Clean Master app and other utilities remain installed on many devices globally, still generating some revenue through ads and in-app purchases. But the company now struggles to grow, and investor interest has waned. Its [market capitalization](/market-capitalization/) has contracted from its 2017 peak to a fraction of that value. The company's SEC [10-K filings](/10-k/) reflect this contraction, with segments being spun off or wound down.
 
 For researchers studying Cheetah Mobile, the useful frame is not the company's current state but its arc: a well-timed entry into a fast-growing ecosystem, successful monetization of user attention, then a collision with larger platforms that could out-compete on data and scale. It is a cautionary tale about the durability of growth in network-effects businesses once competitors with larger networks and more capital enter the space.
 

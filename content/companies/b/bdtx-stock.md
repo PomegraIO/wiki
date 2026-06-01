@@ -15,7 +15,7 @@ keywords:
 
 Black Diamond emerged during a turning point in oncology. By the mid-2010s, targeted therapies had become the standard for certain cancers—gefitinib and erlotinib for EGFR-mutant lung cancer, imatinib for BCR-ABL in leukemia—but that success revealed a deeper problem. Patients responded initially, then relapsed as tumors acquired new mutations that blocked the drug's binding site, rendering it useless. The company's founding insight was that rather than designing a single drug for the wild-type target, you could design multiple chemical variants optimized for the specific mutations driving resistance.
 
-This required marrying oncology expertise with world-class protein chemistry. Soria brought clinical credibility and a deep network in European cancer research. Hirawat brought years in pharmaceutical development from Novartis and a sharp eye for which targets were worth the bet. Together, they assembled a team steeped in structural biology and medicinal chemistry—the kind of quiet work that rarely draws headlines but determines whether a molecule ever reaches a patient.
+This required marrying oncology expertise with world-class protein chemistry. Soria brought clinical credibility and a deep network in European cancer research. Hirawat brought years in pharmaceutical development from [Novartis](/nvs-stock/) and a sharp eye for which targets were worth the bet. Together, they assembled a team steeped in structural biology and medicinal chemistry—the kind of quiet work that rarely draws headlines but determines whether a molecule ever reaches a patient.
 
 ## Crystallizing a Platform
 

@@ -35,7 +35,7 @@ Once a franchise system is proven, the company can fund expansion from the cash 
 
 European Wax Center likely owns and operates some studios directly while franchising most others. Owned studios generate higher margins for the company (all revenue stays in-house after direct costs) but require the company to employ managers, staff, and take on inventory risk. Franchised studios generate lower margins per dollar of sales (only royalties and fees) but require less direct capital and operating effort.
 
-The mix between owned and franchised studios shapes the capital structure. A company heavy in owned locations must be well-capitalized to absorb operating losses during ramp periods and weather downturns. A company heavy in franchised locations can be more lightly capitalized and transfers much of the downside risk to franchisees.
+The mix between owned and franchised studios shapes the capital structure. A company heavy in owned locations must be well-capitalized to absorb operating losses during [ramp periods](/ramp-period/) and weather downturns. A company heavy in franchised locations can be more lightly capitalized and transfers much of the downside risk to franchisees.
 
 EWCZ's strategy likely emphasizes franchising to minimize capital requirements, with owned locations used strategically in flagship markets or to test new formats. This choice reflects a capital-light growth model designed to maximize [return on equity](/return-on-equity/) and reduce [enterprise value](/enterprise-value/) at risk.
 
@@ -59,11 +59,11 @@ As European Wax Center generates steady cash from its franchisee base, managemen
 
 For a mature franchisor with hundreds of proven locations, [dividend payments](/dividend/) or [share buybacks](/share-buyback/) become possible and common. Each decision shapes shareholder returns. A buyback signals the stock is undervalued and management wants to return cash to holders; a dividend signals stable, predictable cash and a shift from growth focus to income focus. Reinvestment signals management believes growth opportunities at current capital deployment rates remain attractive.
 
-The level of reinvestment relative to free cash flow indicates whether the company is still in growth mode (reinvesting heavily, low or no dividends) or mature-and-harvesting mode (returning most cash to shareholders).
+The level of reinvestment relative to [free cash flow](/free-cash-flow/) indicates whether the company is still in growth mode (reinvesting heavily, low or no dividends) or mature-and-harvesting mode (returning most cash to shareholders).
 
 ## Leverage and Financial Stability
 
-Franchisors can typically carry moderate debt because their cash flows are stable and diverse (spread across many franchisees). A shock that closes one or two locations does not imperil the entire company. However, system-wide shocks (recession, pandemic, brand damage) can cause franchisees to fail and reduce royalty streams. The amount of debt EWCZ carries relative to its cash flow is a measure of financial resilience: higher leverage means larger required debt payments, leaving less cushion if revenue declines.
+Franchisors can typically carry moderate debt because their cash flows are stable and diverse (spread across many franchisees). A shock that closes one or two locations does not imperil the entire company. However, system-wide shocks ([recession](/recession/), pandemic, brand damage) can cause franchisees to fail and reduce royalty streams. The amount of debt EWCZ carries relative to its cash flow is a measure of financial resilience: higher leverage means larger required debt payments, leaving less cushion if revenue declines.
 
 Conservative capital structures—lower debt, higher cash reserves—are more resilient but may leave returns on the table. Aggressive structures maximize returns in good times but create vulnerability in downturns. The right balance depends on the company's competitive position and growth stage.
 

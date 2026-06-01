@@ -4,7 +4,7 @@ description: "Chinese semiconductor design company, SEC CIK 2123346, specializin
 keywords: ["semiconductor-design", "china-based", "video-processing", "adr", "fabless-semiconductor"]
 ---
 
-*The **Montage Technology Co., Ltd.** is a Chinese semiconductor design company trading in the US as American Depositary Receipts under the ticker MNTCF (CIK 2123346). The company designs specialized semiconductor chips focused on video processing, compression, and imaging — chips used in surveillance systems, broadcasting equipment, displays, and professional video hardware — rather than manufacturing the chips itself (a fabless model).*
+*The **Montage Technology Co., Ltd.** is a Chinese semiconductor design company trading in the US as [American Depositary Receipts](/adr/) under the ticker MNTCF (CIK 2123346). The company designs specialized semiconductor chips focused on video processing, compression, and imaging — chips used in surveillance systems, broadcasting equipment, displays, and professional video hardware — rather than manufacturing the chips itself (a fabless model).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MNTCF</td></tr>
@@ -17,7 +17,7 @@ keywords: ["semiconductor-design", "china-based", "video-processing", "adr", "fa
 
 ## The Fabless Semiconductor Model
 
-Montage Technology is a fabless chip designer — it designs semiconductor chips but outsources manufacturing to specialized fabs (foundries) like Taiwan Semiconductor Manufacturing Company (TSMC). This is capital-light compared to integrated device manufacturers (IDMs) that own fabs, but it creates fab dependency and limits scale. When you open the 10-K, understand that Montage's profitability depends on design efficiency (how much R&D it takes to design a chip), unit economics at scale (how much a chip costs to manufacture at a foundry, relative to the selling price), and customer concentration. A fabless company with limited customers faces revenue concentration risk. One with a broad customer base has more stable revenue but less pricing power.
+Montage Technology is a fabless chip designer — it designs semiconductor chips but outsources manufacturing to specialized fabs (foundries) like Taiwan Semiconductor Manufacturing Company (TSMC). This is capital-light compared to integrated device manufacturers (IDMs) that own fabs, but it creates fab dependency and limits scale. When you open the 10-K, understand that Montage's profitability depends on design efficiency (how much R&D it takes to design a chip), unit economics at scale (how much a chip costs to manufacture at a foundry, relative to the selling price), and customer concentration. A fabless company with limited customers faces revenue [concentration risk](/concentration-risk/). One with a broad customer base has more stable revenue but less pricing power.
 
 ## Product Portfolio and Market Application
 
@@ -57,7 +57,7 @@ A fabless company's gross margin (revenue minus manufacturing cost) is directly 
 
 ## Key Metrics for the 10-K
 
-When you open the filing, target these items: revenue by product category and geography, top 10 customers and customer concentration, unit sales and average selling price trends, gross margin and operating margin, R&D spending and headcount, fab concentration and manufacturing costs, new product pipeline and design wins, patent portfolio, geopolitical and regulatory risk disclosures, and [free cash flow](/free-cash-flow/). These metrics reveal whether Montage is a stable, profitable design company or one facing commodity pricing pressure, customer loss, or geopolitical constraints.
+When you open the filing, target these items: revenue by product category and geography, top 10 customers and customer concentration, unit sales and average selling price trends, gross margin and [operating margin](/operating-margin/), R&D spending and headcount, fab concentration and manufacturing costs, new product pipeline and design wins, patent portfolio, geopolitical and regulatory risk disclosures, and [free cash flow](/free-cash-flow/). These metrics reveal whether Montage is a stable, profitable design company or one facing commodity pricing pressure, customer loss, or geopolitical constraints.
 
 <div class="wiki-seealso">
 ### Closely related

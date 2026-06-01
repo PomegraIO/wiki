@@ -48,11 +48,11 @@ LanzaTech operates on two revenue streams. First, it builds and owns facilities 
 
 The customer benefits: they avoid capex for the conversion facility (LanzaTech bears the $50–150 million capex), they lock in a predictable supply of ethanol or jet fuel, and they monetize carbon reduction without running an unfamiliar biotech operation. LanzaTech benefits: it captures recurring ethanol-production revenue and carbon-credit upside, and it builds a recurring revenue base once facilities are operational.
 
-However, this model has inherent challenges. The capex intensity is very high; a single facility requires $50–150 million and takes 3–4 years to build and validate. Customer acquisition is slow; diligence cycles are long, and each customer is large and skeptical. Revenue ramps are gradual: a facility that costs $100 million might take 5–7 years to reach positive ROI, contingent on steady waste-gas feed and favorable carbon pricing.
+However, this model has inherent challenges. The capex intensity is very high; a single facility requires $50–150 million and takes 3–4 years to build and validate. Customer [acquisition](/acquisition/) is slow; diligence cycles are long, and each customer is large and skeptical. Revenue ramps are gradual: a facility that costs $100 million might take 5–7 years to reach positive ROI, contingent on steady waste-gas feed and favorable carbon pricing.
 
 ## Competitive Risks and Buyer Hedging
 
-LanzaTech faces competition from alternative decarbonization pathways. A steel mill can reduce emissions by switching to electric arc furnaces (EAF), which avoids CO₂ from blast-furnace off-gas entirely. A refinery can blend lower-carbon crude, invest in carbon capture and storage (CCS), or shift to renewable chemical feedstocks. For any buyer, LanzaTech is one option among many; the technology only wins if its unit economics and operational risk are better than alternatives.
+LanzaTech faces competition from alternative decarbonization pathways. A steel mill can reduce emissions by switching to electric arc furnaces (EAF), which avoids CO₂ from blast-furnace off-gas entirely. A refinery can blend lower-carbon crude, invest in carbon capture and storage (CCS), or shift to renewable chemical feedstocks. For any buyer, LanzaTech is one option among many; the technology only wins if its unit economics and [operational risk](/operational-risk/) are better than alternatives.
 
 Additionally, LanzaTech's value proposition depends on carbon pricing. If a major carbon tax is repealed or carbon prices collapse, the entire business case evaporates. Buyers are aware of this; they hedge their bets by negotiating price floors and long-term contract floors into off-take agreements, protecting LanzaTech's revenue but capping upside.
 
@@ -61,7 +61,7 @@ Additionally, LanzaTech's value proposition depends on carbon pricing. If a majo
 A customer or investor evaluating LanzaTech should review its [10-K](/10-k/) (SEC CIK 1843724) to understand:
 
 - The pipeline of signed facilities and projected capex investment
-- Revenue recognition policy for facility operations (is revenue recognized at facility start, or post-operational validation?)
+- [Revenue recognition policy](/revenue-recognition-policy/) for facility operations (is revenue recognized at facility start, or post-operational validation?)
 - Customer concentration and contract terms (are multi-year off-take agreements locked, or subject to renegotiation?)
 - Carbon-policy exposure (what percentage of projected cash flow assumes a specific carbon price, tax, or mandate?)
 
@@ -75,8 +75,8 @@ Watch for: Have facilities gone operational on time and at expected cost? Are cu
 - [LanzaTech partnerships with ArcelorMittal and others](/public-company/) — major industrial customers and reference accounts
 
 ### Wider context
-- [Stock](/stock/) — LNZA trades on NASDAQ following 2021 SPAC merger
-- [10-K](/10-k/) — review SEC filings for facility pipeline, capex, and revenue recognition
+- [Stock](/stock/) — LNZA trades on [NASDAQ](/nasdaq/) following 2021 SPAC [merger](/merger/)
+- [10-K](/10-k/) — review SEC filings for facility pipeline, capex, and [revenue recognition](/revenue-recognition/)
 - [Enterprise value](/enterprise-value/) — assess LanzaTech's valuation relative to capex and long-term facility-cash-flow forecasts
 - [Carbon pricing](/public-company/) — understand regulatory regimes and carbon-tax assumptions underlying customer unit economics
 - [Dividend](/dividend/) — LanzaTech is pre-revenue-positive from core operations; no dividend expected near-term

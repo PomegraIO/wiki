@@ -35,13 +35,13 @@ Community bank deposits often include business accounts. A small business deposi
 
 ## Commercial and Small-Business Lending
 
-First National's lending franchise is rooted in small business and commercial real estate. A local contractor needs a $50,000 equipment loan; a restaurant owner seeks $200,000 to open a second location. A retail business needs seasonal working-capital loans to buy inventory before the holidays. These loans are in First National's wheelhouse.
+First National's lending franchise is rooted in small business and [commercial real estate](/commercial-real-estate/). A local contractor needs a $50,000 equipment loan; a restaurant owner seeks $200,000 to open a second location. A retail business needs seasonal working-capital loans to buy inventory before the holidays. These loans are in First National's wheelhouse.
 
 Lending decisions are decentralized. The branch loan officer knows the borrower, has visited the business, and understands the local economy. This allows judgment calls that a distant credit-scoring model cannot make. A farmer with a bad year but a solid track record and valuable land collateral might get a loan renewal despite recent losses. A big bank would decline via algorithm; First National's relationship bank might extend.
 
-Underwriting is rigorous but local. The loan officer pulls financial statements, reviews credit history, assesses collateral, and structures a loan with terms and covenants. First National takes credit risk—the borrower might default. The bank provisions for expected losses based on historical default rates and current credit environment. During economic downturns, provision expenses spike as borrowers struggle and default risk rises.
+Underwriting is rigorous but local. The loan officer pulls financial statements, reviews credit history, assesses collateral, and structures a loan with terms and covenants. First National takes [credit risk](/credit-risk/)—the borrower might default. The bank provisions for expected losses based on historical [default rates](/default-rate/) and current credit environment. During economic downturns, provision expenses spike as borrowers struggle and default risk rises.
 
-Credit risk is concentrated. First National lends primarily to Virginia businesses and residents. If the local economy weakens—say, a major employer closes—loan defaults can spike and collateral values fall. Diversification is limited. Larger banks spread risk across geographies and industries; First National is concentrated.
+Credit risk is concentrated. First National lends primarily to Virginia businesses and residents. If the local economy weakens—say, a major employer closes—loan defaults can spike and collateral values fall. [Diversification](/diversification/) is limited. Larger banks spread risk across geographies and industries; First National is concentrated.
 
 ## Consumer Banking and Retail Products
 
@@ -49,23 +49,23 @@ First National also offers consumer banking: checking accounts, savings accounts
 
 Credit cards are offered by some community banks but are capital-intensive and competition is fierce. First National may or may not offer cards; if it does, they are a relationship product (linked to a checking account, discounted for cardholders) rather than a major profit driver. Card portfolios require sophisticated fraud detection, regulatory compliance, and loss provisioning—operations that favor scale.
 
-Retail banking is increasingly commoditized. A customer shopping for a mortgage can compare rates online across 50 lenders. First National competes on rates (set by federal funds rates and the bank's cost of deposits) and service (convenience, relationship). Rate advantage is short-lived; larger banks can offer lower rates because of scale. Service advantage is durable but varies by branch quality and personnel.
+Retail banking is increasingly commoditized. A customer shopping for a mortgage can compare rates online across 50 lenders. First National competes on rates (set by [federal funds rates](/federal-funds-rate/) and the bank's cost of deposits) and service (convenience, relationship). Rate advantage is short-lived; larger banks can offer lower rates because of scale. Service advantage is durable but varies by branch quality and personnel.
 
 ## Funding and Capital Structure
 
-First National funds its lending through deposits (the primary source) and [borrowing](/bond/) in capital markets. In a normal environment, deposits exceed lending, and the bank invests excess deposits in US Treasury securities and [bonds](/bond/). During loan-demand spikes or if deposits slow, the bank borrows via repurchase agreements or wholesale funding markets.
+First National funds its lending through deposits (the primary source) and [borrowing](/bond/) in capital markets. In a normal environment, deposits exceed lending, and the bank invests excess deposits in US Treasury securities and [bonds](/bond/). During loan-demand spikes or if deposits slow, the bank borrows via [repurchase agreements](/repurchase-agreement/) or wholesale funding markets.
 
-Capital adequacy is regulated. Federal regulators require banks to maintain minimum capital ratios to absorb losses. First National must maintain a Tier 1 capital ratio (core equity relative to risk-weighted assets) above a regulatory minimum. This constrains dividend payouts and share buybacks; the bank cannot return all earnings to shareholders if doing so would fall below capital minimums.
+[Capital adequacy](/capital-adequacy/) is regulated. Federal regulators require banks to maintain minimum capital ratios to absorb losses. First National must maintain a [Tier 1 capital](/tier-1-capital/) ratio (core equity relative to risk-weighted assets) above a regulatory minimum. This constrains dividend payouts and [share buybacks](/share-buyback/); the bank cannot return all earnings to shareholders if doing so would fall below capital minimums.
 
 Loan loss reserves are a balance-sheet item. The bank estimates expected losses based on the loan portfolio's credit quality. If the economy weakens and defaults rise, the bank provisions additional reserves, which reduces reported earnings. Conversely, if credit improves, reserves can be released, boosting earnings. This creates earnings volatility tied to credit cycles.
 
 ## Interest-Rate Sensitivity
 
-First National's profitability is tied to [interest rates](/interest-rate/). When federal interest rates rise, the bank can offer higher rates on deposits to keep them competitive and lend at higher rates to borrowers, potentially widening the net-interest spread. But rising rates also reduce the value of bonds held on the balance sheet (bond prices fall as rates rise) and increase the risk of refinancing pressure on borrowers (a business with a $100,000 loan at 6% will struggle if rates rise and the bank demands refinancing at 8%).
+First National's profitability is tied to [interest rates](/interest-rate/). When federal interest rates rise, the bank can offer higher rates on deposits to keep them competitive and lend at higher rates to borrowers, potentially widening the net-interest spread. But rising rates also reduce the value of bonds held on the [balance sheet](/balance-sheet/) (bond prices fall as rates rise) and increase the risk of refinancing pressure on borrowers (a business with a $100,000 loan at 6% will struggle if rates rise and the bank demands refinancing at 8%).
 
 When interest rates fall, spreads compress. The bank cannot lower deposit rates to near-zero without losing deposits, but loan rates fall with market rates, squeezing margins. The bank's bond portfolio gains value, but net-interest income—the core profit driver—may fall.
 
-First National must manage this rate sensitivity through hedging strategies (interest-rate swaps, futures contracts) and by adjusting the maturity of its loan book. Longer-term loans lock in rates, protecting against future rate declines but exposing the bank to prepayment risk if rates fall dramatically.
+First National must manage this rate sensitivity through hedging strategies (interest-rate swaps, [futures contracts](/futures-contract/)) and by adjusting the maturity of its loan book. Longer-term loans lock in rates, protecting against future rate declines but exposing the bank to [prepayment risk](/prepayment-risk/) if rates fall dramatically.
 
 ## Operating Efficiency and Cost Control
 

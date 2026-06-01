@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Valhi, Inc. is a holding company that sits at the apex of a layered, privately-held family empire. The Delaware corporation serves as a publicly-traded vehicle for assets largely controlled by the Simmons and Contran family groups, with the commanding stake and strategic voting power concentrated among a small number of individuals. The company's main asset is a controlling interest in Kronos Worldwide, one of the world's largest independent producers of titanium-dioxide pigment—a crucial industrial material used to add brightness and opacity to paints, coatings, plastics, and other products. Beyond Kronos, Valhi holds smaller operating businesses in component manufacturing and real estate.
+Valhi, Inc. is a holding company that sits at the apex of a layered, privately-held family empire. The Delaware corporation serves as a publicly-traded vehicle for assets largely controlled by the Simmons and Contran family groups, with the commanding stake and strategic voting power concentrated among a small number of individuals. The company's main asset is a controlling interest in [Kronos Worldwide](/kro-stock/), one of the world's largest independent producers of titanium-dioxide pigment—a crucial industrial material used to add brightness and opacity to paints, coatings, plastics, and other products. Beyond Kronos, Valhi holds smaller operating businesses in component manufacturing and real estate.
 
 ## The Holding Company Structure
 
@@ -44,7 +44,7 @@ For public shareholders, this means influence over major capital decisions—div
 
 Valhi is a [public company](/wiki/public-company/) traded on the [New York Stock Exchange](/new-york-stock-exchange/) under ticker VHI. The company files quarterly and annual reports with the SEC (CIK 59255), including a Form [10-K](/wiki/10-k/) and quarterly 10-Qs. For investors researching the company, the filings reveal the composition of operating units, segment earnings, capital allocation history, and debt levels.
 
-Key metrics to watch include Kronos Worldwide's [EBITDA](/ebitda/) and cash margins, raw material costs (especially ilmenite, a titanium ore feedstock), and global industrial production indices. When painting and coatings demand weakens, Kronos' margins tend to compress. Conversely, strong construction and automotive activity boost pricing and volumes. Valhi's dividend, historically one of its attractions to income investors, rises and falls with Kronos' cash generation.
+Key metrics to watch include Kronos Worldwide's [EBITDA](/ebitda/) and cash margins, raw material costs (especially ilmenite, a titanium ore feedstock), and [global industrial](/gic-stock/) production indices. When painting and coatings demand weakens, Kronos' margins tend to compress. Conversely, strong construction and automotive activity boost pricing and volumes. Valhi's dividend, historically one of its attractions to income investors, rises and falls with Kronos' cash generation.
 
 The company's debt level and refinancing schedule matter to equity holders, especially in a holding-company structure where the parent relies on subsidiary dividends and asset sales for liquidity. A credit downgrade or tighter capital markets could constrain Valhi's ability to maintain or grow its dividend.
 

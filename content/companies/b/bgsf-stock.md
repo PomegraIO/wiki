@@ -22,7 +22,7 @@ The IRS and state labor departments use "ABC" tests or "right of control" analys
 
 ## Payroll Tax and Wage-and-Hour Obligations
 
-For every worker BGSF classifies as an employee, the firm is liable for federal income tax withholding, Social Security and Medicare taxes (payroll taxes), state income tax withholding, and possibly state unemployment insurance contributions. A staffing company operates with thin margins and high volume turnover; the payroll and compliance burden is substantial. BGSF must track hours worked, compute overtime (which federal law mandates at time-and-a-half for hours over 40 per week), deduct taxes, file quarterly payroll returns, and maintain records that survive Department of Labor or IRS inspection.
+For every worker BGSF classifies as an employee, the firm is liable for federal income tax withholding, [Social Security](/social-security-personal/) and Medicare taxes (payroll taxes), state income tax withholding, and possibly state unemployment insurance contributions. A staffing company operates with thin margins and high volume turnover; the payroll and compliance burden is substantial. BGSF must track hours worked, compute overtime (which federal law mandates at time-and-a-half for hours over 40 per week), deduct taxes, file quarterly payroll returns, and maintain records that survive Department of Labor or IRS inspection.
 
 Wage-and-hour violations in staffing firms often center on failure to pay overtime, improper deductions, or misclassification of workers as exempt from overtime protection. A single multi-plaintiff class action claiming unpaid overtime or wrongful misclassification can expose BGSF to millions in liability and legal costs. The company must therefore invest in payroll systems, audit procedures, and legal reviews to minimize exposure.
 
@@ -40,7 +40,7 @@ For many placements, particularly in sensitive roles (childcare, healthcare, eld
 
 ## State Licensing and Bonding
 
-Many states require staffing firms to be licensed and maintain bonds covering payroll and worker protections. These requirements vary widely by state; BGSF operating nationally must navigate a patchwork of licensing, bonding, and fee regimes. Some states require the firm to post bonds protecting workers' unpaid wages if BGSF fails. These licensing and bonding costs are an inescapable compliance overhead.
+Many states require staffing firms to be licensed and maintain [bonds](/bond/) covering payroll and worker protections. These requirements vary widely by state; BGSF operating nationally must navigate a patchwork of licensing, bonding, and fee regimes. Some states require the firm to post bonds protecting workers' unpaid wages if BGSF fails. These licensing and bonding costs are an inescapable compliance overhead.
 
 ## Non-Compete and Intellectual Property Issues
 

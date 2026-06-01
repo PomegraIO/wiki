@@ -17,7 +17,7 @@ keywords: ["electric utility", "regulated utility", "power generation", "transmi
 
 ## Generation, Transmission, and the Integrated Model
 
-Unlike independent power generators (which sell electricity into wholesale markets) or pure transmission companies (which move power on behalf of generators), Entergy Louisiana is vertically integrated. The company owns generation assets—conventional plants fueled by natural gas, coal, or nuclear, as well as renewable capacity—and operates the wires connecting those plants to customers. This integration creates both operational complexity and regulatory value.
+Unlike independent power generators (which sell electricity into wholesale markets) or pure transmission companies (which move power on behalf of generators), Entergy Louisiana is vertically integrated. The company owns generation assets—conventional plants fueled by [natural gas](/natural-gas/), coal, or nuclear, as well as renewable capacity—and operates the wires connecting those plants to customers. This integration creates both operational complexity and regulatory value.
 
 The supply chain begins upstream: fuel suppliers (coal companies, natural gas producers, uranium-enrichment facilities) deliver feedstock to Entergy Louisiana's generating stations. The company converts chemical energy into electrical energy and then transmits that power via high-voltage lines to transmission substations, where voltage is stepped down, and distribution lines carry it to neighborhoods and businesses. Customers—residential, commercial, and industrial—consume the electricity and pay for it through monthly bills.
 
@@ -27,7 +27,7 @@ Between the coal-mine operator and the household sitting down to dinner lies Ent
 
 Entergy Louisiana does not price electricity freely; rates are set by regulatory authority. The Louisiana Public Utilities Commission (PUC) reviews the company's costs, investments, and profit needs, then approves a tariff structure that allows recovery. This regulatory model is utterly different from competitive businesses. A software company's revenue depends on customer willingness to pay; if costs rise, the company absorbs loss or raises price and risks losing customers. Entergy Louisiana's revenue is, in effect, guaranteed—the company is entitled to recover its allowed costs plus a regulated return on capital.
 
-This guarantee comes with strings. The PUC dictates what capital projects are prudent (and thus eligible for cost recovery), what operating costs are reasonable, and what return on equity shareholders can earn. The regulator's goal is to ensure affordability and reliability for consumers while giving the utility enough margin to invest in safety and modernization. Entergy Louisiana must prove through detailed filings that its expenses are justified, its assets are productively deployed, and its rates are fair.
+This guarantee comes with strings. The PUC dictates what capital projects are prudent (and thus eligible for cost recovery), what operating costs are reasonable, and what [return on equity](/return-on-equity/) shareholders can earn. The regulator's goal is to ensure affordability and reliability for consumers while giving the utility enough margin to invest in safety and modernization. Entergy Louisiana must prove through detailed filings that its expenses are justified, its assets are productively deployed, and its rates are fair.
 
 ## Distribution as the Customer Interface
 

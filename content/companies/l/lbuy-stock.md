@@ -21,7 +21,7 @@ LeafBuyer's market—digital services and platforms serving the cannabis retail 
 
 This regulatory uncertainty shapes the company's lifecycle in ways that are unusual among tech platforms. A company like Meta or Uber grew through stages with relatively stable legal frameworks (even if disputed). LeafBuyer cannot assume regulatory stability; it must instead plan for a range of possible futures: federal legalization (which might transform the market but also eliminate regulatory arbitrage); continued state-by-state patchwork (which sustains current dynamics); or federal crackdown (which would be catastrophic).
 
-The company is therefore in a growth phase that is simultaneously high-opportunity and high-risk. It can acquire customers and scale transaction volume while the market is expanding and largely unpoliced. But the company also carries tail risk: a significant federal action could disrupt the entire market, making the platform irrelevant overnight.
+The company is therefore in a growth phase that is simultaneously high-opportunity and high-risk. It can acquire customers and scale transaction volume while the market is expanding and largely unpoliced. But the company also carries [tail risk](/tail-risk/): a significant federal action could disrupt the entire market, making the platform irrelevant overnight.
 
 ## Platform Economics in a Two-Sided Market
 
@@ -29,7 +29,7 @@ LeafBuyer operates a marketplace connecting two distinct groups: consumers seeki
 
 In two-sided markets, the company must balance growth of both sides of the marketplace. Too many consumers without retailers means empty searches and churn; too many retailers without consumer traffic means vendors won't pay for the platform. The inflection from growth to profitability depends on reaching a threshold scale where the platform becomes self-sustaining—where the network effects of having many consumers and retailers reinforce each other.
 
-LeafBuyer's position is likely that the consumer side is growing faster than the retailer side. Cannabis consumers are increasingly comfortable with online discovery and ordering, driven by the broader e-commerce adoption curve. Retailers are more fragmented and have existing customer acquisition channels (in-store traffic, local reputation, word-of-mouth), so they may be slower to adopt online platforms.
+LeafBuyer's position is likely that the consumer side is growing faster than the retailer side. Cannabis consumers are increasingly comfortable with online discovery and ordering, driven by the broader e-commerce adoption curve. Retailers are more fragmented and have existing customer [acquisition](/acquisition/) channels (in-store traffic, local reputation, word-of-mouth), so they may be slower to adopt online platforms.
 
 The company's growth trajectory depends on whether it can close the gap between consumer and retailer growth before cash runs out or investor patience wears thin. This is a classic two-sided platform challenge: growth looks great until suddenly the sides are mismatched, and value evaporates.
 
@@ -39,7 +39,7 @@ At this lifecycle stage, LeafBuyer is likely still in customer acquisition mode,
 
 In cannabis retail, a typical customer might be a retailer buying advertising services or commission-based listings on the platform. The lifetime value of that customer depends on how long they remain active on the platform, how much they spend, and the margin the company retains. These metrics are not yet proved for a platform at LeafBuyer's scale; the company is still learning through scale what kind of unit economics are achievable.
 
-This creates a particular vulnerability at this lifecycle stage: if the company discovers that unit economics are worse than expected (lower retailer spending, higher churn, lower margins), it may find itself with insufficient runway to correct course. By contrast, a more mature platform like Uber or Airbnb had enough scale and data to make informed bets about customer acquisition spend; LeafBuyer is still in the phase where it is learning whether the model is viable at all.
+This creates a particular vulnerability at this lifecycle stage: if the company discovers that unit economics are worse than expected (lower retailer spending, higher churn, lower margins), it may find itself with insufficient runway to correct course. By contrast, a more mature platform like Uber or [Airbnb](/abnb-stock/) had enough scale and data to make informed bets about customer acquisition spend; LeafBuyer is still in the phase where it is learning whether the model is viable at all.
 
 ## Regulatory Risk and Model Resilience
 
@@ -59,7 +59,7 @@ If LeafBuyer can reach that threshold while the market remains favorable, it can
 
 ## Market Expansion Versus Model Proof
 
-A strategic question at this lifecycle stage is whether to expand the platform horizontally (to other verticals or products) or to deepen penetration in cannabis retail. Horizontal expansion offers the possibility of diversification away from cannabis regulatory risk, but it also diffuses management focus and capital allocation. Deepening cannabis penetration offers focus and potentially higher market share, but it concentrates risk in a regulated market.
+A strategic question at this lifecycle stage is whether to expand the platform horizontally (to other verticals or products) or to deepen penetration in cannabis retail. Horizontal expansion offers the possibility of [diversification](/diversification/) away from cannabis regulatory risk, but it also diffuses management focus and capital allocation. Deepening cannabis penetration offers focus and potentially higher market share, but it concentrates risk in a regulated market.
 
 LeafBuyer's decision on this question—which is often made implicitly through capital allocation rather than explicitly—will shape whether the company emerges from this lifecycle phase as a focused cannabis platform or a broader marketplace. Each path has distinct risks and opportunities.
 

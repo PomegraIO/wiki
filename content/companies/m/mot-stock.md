@@ -25,7 +25,7 @@ When a major telecom carrier decides to upgrade its long-haul fiber optic infras
 
 The backdrop is durably favorable: global bandwidth consumption continues its long expansion. Data centers, cloud services, and 5G network buildouts all rely on optical fiber and optical switching technology. This is a secular growth market. Companies that supply the optical pipes for this infrastructure benefit from a multi-decade expansion in connectivity demand. MetaOptics, as a component and system supplier, sits in the value chain between raw materials and end infrastructure, and has exposure to this buildout.
 
-However, secular growth does not shield the company from cyclical downturns. Telecommunications is a capital-intensive industry whose spend is highly sensitive to interest rates, regulatory policy, and investor sentiment. When funding costs rise sharply or macro conditions deteriorate, carriers slash capex plans. This creates sharp drops in new orders for optical equipment, even as the longer-term trend of data growth remains intact. The company must navigate periods when the secular tailwind is temporarily obscured by cyclical headwinds.
+However, secular growth does not shield the company from cyclical downturns. Telecommunications is a capital-intensive industry whose spend is highly sensitive to [interest rates](/interest-rate/), regulatory policy, and investor sentiment. When funding costs rise sharply or macro conditions deteriorate, carriers slash capex plans. This creates sharp drops in new orders for optical equipment, even as the longer-term trend of data growth remains intact. The company must navigate periods when the secular tailwind is temporarily obscured by cyclical headwinds.
 
 ## Customer Concentration and Technology Risk
 
@@ -35,7 +35,7 @@ Additionally, optical technology is subject to displacement risk. If new optical
 
 ## Research Funding as a Revenue Driver
 
-A meaningful portion of MetaOptics' revenue may come from contract research or government-funded projects (via the National Science Foundation, Department of Energy, or defense agencies). These funding streams are themselves subject to political cycles and budget appropriation uncertainty. A shift in research priorities or a broader government budget constraint can dry up this revenue stream. Conversely, a new national initiative in quantum computing or advanced photonics research could open new sales channels. The company's dependence on research funding timelines and appropriation cycles adds another layer of cyclicality beyond commercial telecom capex.
+A meaningful portion of MetaOptics' revenue may come from contract research or government-funded projects (via the National Science Foundation, Department of Energy, or defense agencies). These funding streams are themselves subject to political cycles and budget appropriation uncertainty. A shift in research priorities or a broader government budget constraint can dry up this revenue stream. Conversely, a new national initiative in [quantum computing](/qubt-stock/) or advanced photonics research could open new sales channels. The company's dependence on research funding timelines and appropriation cycles adds another layer of cyclicality beyond commercial telecom capex.
 
 ## Margin Dynamics Under Volume Pressure
 

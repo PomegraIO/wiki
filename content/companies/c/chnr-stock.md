@@ -25,7 +25,7 @@ This accounting treatment creates a tension: shareholders fund years of geologic
 
 Because CHNR has minimal or no revenue, it cannot borrow against cash flow. Instead, it must issue equity to fund exploration. Each new raise dilutes existing shareholders' ownership while providing the firm with cash to deploy in China. Over many years, a string of equity raises can reduce founding shareholders to a tiny percentage of the outstanding share count, even if drilling ultimately succeeds.
 
-The pricing of these raises is crucial. If CHNR raises capital when the stock price is depressed—during market downturns or after disappointing exploration results—the firm must issue far more shares to raise the same dollar amount. Conversely, if it raises during bull markets or after positive drill results, it needs to issue fewer shares. Timing these raises is a perpetual strategic challenge for management.
+The pricing of these raises is crucial. If CHNR raises capital when the stock price is depressed—during market downturns or after disappointing exploration results—the firm must issue far more shares to raise the same dollar amount. Conversely, if it raises during [bull markets](/bull-market/) or after positive drill results, it needs to issue fewer shares. Timing these raises is a perpetual strategic challenge for management.
 
 ## Geopolitical and Regulatory Capital Constraints
 
@@ -37,11 +37,11 @@ A firm operating in neutral jurisdictions—Canada, Peru, Australia—faces only
 
 CHNR's cash burn rate—the dollars expended per period divided by cash on hand—determines how long the firm can fund operations before requiring another equity raise. With minimal revenue, the firm has a finite runway. If CHNR holds $5 million in cash and burns $500,000 per quarter, it has roughly 10 quarters (2.5 years) before cash runs out and another raise is mandatory. A slowdown in exploration spending extends the runway; acceleration shortens it.
 
-Knowing the runway is critical for shareholders because it determines the timing and necessity of future dilution. If the stock price rises sharply, CHNR can conduct a raise at a high price and conserve cash. If the stock price falls while the cash balance depletes, the firm faces a deeply dilutive raise or a forced merger or sale.
+Knowing the runway is critical for shareholders because it determines the timing and necessity of future dilution. If the stock price rises sharply, CHNR can conduct a raise at a high price and conserve cash. If the stock price falls while the cash balance depletes, the firm faces a deeply dilutive raise or a forced [merger](/merger/) or sale.
 
 ## Comparing Success Scenarios: Buyout Versus Public Listing
 
-Exploration firms like CHNR typically have two exit paths. The first is acquisition by a larger miner once initial drilling results prove promising. The larger firm then funds development and production using its own capital and access to debt markets. In this scenario, CHNR shareholders receive a multiple of their investment but do not participate in the upside of a producing mine. The second is that CHNR itself reaches production and continues as a standalone public company, or that it becomes large enough to attract a strategic buyer at a production-stage valuation.
+Exploration firms like CHNR typically have two exit paths. The first is [acquisition](/acquisition/) by a larger miner once initial drilling results prove promising. The larger firm then funds development and production using its own capital and access to debt markets. In this scenario, CHNR shareholders receive a multiple of their investment but do not participate in the upside of a producing mine. The second is that CHNR itself reaches production and continues as a standalone public company, or that it becomes large enough to attract a strategic buyer at a production-stage valuation.
 
 The first outcome—early acquisition—is more likely but also returns less per share than discovering a major deposit and developing it over a decade. The second outcome requires that CHNR not only find ore but also secure Chinese government approval to develop it, obtain financing for a mine (an expensive process), and navigate permitting and environmental requirements. The capital required for development is orders of magnitude larger than exploration capital.
 

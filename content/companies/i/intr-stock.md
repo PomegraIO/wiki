@@ -4,7 +4,7 @@ description: "Brazilian fintech and financial services company; revenue driven b
 keywords: ["fintech", "Brazil", "payments", "lending", "financial services", "digital banking"]
 ---
 
-*A fintech company's ability to grow profitably depends on acquiring users cheaply, extracting revenue from each user through multiple channels, and maintaining cost discipline as scale increases. **Inter & Co, Inc. (INTR)** operates in Brazil's dynamic financial services market, where regulatory environment, currency volatility, and competition among traditional banks and digital-first startups shape the business model.*
+*A fintech company's ability to grow profitably depends on acquiring users cheaply, extracting revenue from each user through multiple channels, and maintaining cost discipline as scale increases. **Inter & Co, Inc. (INTR)** operates in Brazil's dynamic financial services market, where regulatory environment, [currency volatility](/currency-volatility/), and competition among traditional banks and digital-first startups shape the business model.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INTR</td></tr>
@@ -22,9 +22,9 @@ The company generates revenue from multiple sources: transaction fees on payment
 
 ## Building the lending business
 
-Inter's ability to monetize its user base depends critically on lending volume and credit quality. A digital lender has advantages in underwriting: access to transaction data, behavioral signals from app usage, and the ability to run decision engines at scale. However, it also faces higher credit risk if it expands into underbanked customer segments that traditional lenders avoid. Inter's profitability reflects the trade-off between loan volume and default rates. Aggressive growth in lending volume depresses margins if it requires loosening underwriting standards and increasing losses to defaults.
+Inter's ability to monetize its user base depends critically on lending volume and credit quality. A digital lender has advantages in underwriting: access to transaction data, behavioral signals from app usage, and the ability to run decision engines at scale. However, it also faces higher [credit risk](/credit-risk/) if it expands into underbanked customer segments that traditional lenders avoid. Inter's profitability reflects the trade-off between loan volume and [default rates](/default-rate/). Aggressive growth in lending volume depresses margins if it requires loosening underwriting standards and increasing losses to defaults.
 
-The company's cost of funds—what it pays to raise capital to lend out—also shapes lending margins. Inter must fund its loans through deposits, borrowings from the central bank, or capital market funding. In Brazil's interest-rate environment, the spread between what Inter pays for deposits or borrowings and what it charges borrowers determines the profitability of the lending business. Rising rates expand spreads but slow loan demand; falling rates compress spreads but accelerate demand. Inter's margin management requires balancing volume and pricing within whatever interest-rate regime prevails.
+The company's cost of funds—what it pays to raise capital to lend out—also shapes lending margins. Inter must fund its loans through deposits, borrowings from the [central bank](/central-bank/), or capital market funding. In Brazil's interest-rate environment, the spread between what Inter pays for deposits or borrowings and what it charges borrowers determines the profitability of the lending business. Rising rates expand spreads but slow loan demand; falling rates compress spreads but accelerate demand. Inter's margin management requires balancing volume and pricing within whatever interest-rate regime prevails.
 
 ## Payments and transaction processing
 
@@ -34,7 +34,7 @@ However, transaction data from payments activity is valuable. Lenders use transa
 
 ## Scaling and unit economics
 
-Inter's growth trajectory reflects its ability to acquire users, convert them to repeat users, and monetize them across multiple products. User acquisition costs in fintech are typically lowest during the growth phase—when the company has regulatory approval, network effects begin, and word-of-mouth referrals accelerate. As a market matures and reaches saturation, acquisition costs inevitably rise. Inter must demonstrate that the lifetime-value of an acquired user exceeds the cost of acquisition across all products and fee sources.
+Inter's growth trajectory reflects its ability to acquire users, convert them to repeat users, and monetize them across multiple products. User [acquisition](/acquisition/) costs in fintech are typically lowest during the growth phase—when the company has regulatory approval, network effects begin, and word-of-mouth referrals accelerate. As a market matures and reaches saturation, acquisition costs inevitably rise. Inter must demonstrate that the lifetime-value of an acquired user exceeds the cost of acquisition across all products and fee sources.
 
 The company's [free-cash-flow](/free-cash-flow/) generation depends on how quickly it converts operating profits into cash, how much capital it must tie up in lending, and whether it must invest continuously in technology and product to maintain competitive positioning. A fintech that matures into steady-state operations can generate strong cash returns; a fintech that must reinvest aggressively to defend market share or expand into new products may generate minimal cash despite reported profitability.
 
@@ -42,7 +42,7 @@ The company's [free-cash-flow](/free-cash-flow/) generation depends on how quick
 
 Brazil's fintech market includes not only established competitors like Inter but also banks' own digital subsidiaries and global fintech entrants. The competitive dynamics drive continued product innovation, fee compression, and pressure on margins. Inter's value proposition—speed, ease of use, integrated services—must remain credible to retain users and attract deposits. If competitor banks or fintechs offer comparable features at lower cost, Inter's growth stalls.
 
-The company's regulatory relationship with Brazil's central bank, financial regulator, and tax authorities shapes operational costs and profitability. Brazil has been relatively progressive in fintech licensing and open banking rules, but regulatory risk remains. Changes to interchange fees, mandatory interoperability, or reserve requirements could alter the economics significantly.
+The company's regulatory relationship with Brazil's central bank, financial regulator, and tax authorities shapes operational costs and profitability. Brazil has been relatively progressive in fintech licensing and open banking rules, but regulatory risk remains. Changes to interchange fees, mandatory interoperability, or [reserve requirements](/reserve-requirements/) could alter the economics significantly.
 
 ## How to study the company
 

@@ -33,7 +33,7 @@ The company's regulatory filings note that Black Rock operates multiple location
 
 ## Competitive Positioning Within Convenience Beverage
 
-Black Rock's filings characterize the company as competing in a crowded market that includes national chains (Starbucks, Dunkin', Speedway coffee), regional competitors, and private-label offerings from convenience stores. The company emphasizes drive-through convenience and speed of service as differentiators. However, filings note candidly that the company lacks the scale, brand recognition, and capital resources of national competitors, creating pricing pressure and difficulty recruiting franchisees in oversaturated markets. The company discloses that maintaining unit profitability and franchisee satisfaction requires careful market selection and ongoing support—a recognition that scale advantages matter in quick-service beverage retail.
+Black Rock's filings characterize the company as competing in a crowded market that includes national chains ([Starbucks](/sbux-stock/), Dunkin', Speedway coffee), regional competitors, and private-label offerings from convenience stores. The company emphasizes drive-through convenience and speed of service as differentiators. However, filings note candidly that the company lacks the scale, brand recognition, and capital resources of national competitors, creating pricing pressure and difficulty recruiting franchisees in oversaturated markets. The company discloses that maintaining unit profitability and franchisee satisfaction requires careful market selection and ongoing support—a recognition that scale advantages matter in quick-service beverage retail.
 
 ## Franchisee Economics and Unit-Level Profitability
 

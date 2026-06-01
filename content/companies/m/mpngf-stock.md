@@ -4,7 +4,7 @@ description: "Chinese on-demand services platform operating in food delivery, lo
 keywords: [china, e-commerce, platform, delivery, local-services, asia, on-demand]
 ---
 
-*The digital platforms that dominate contemporary consumer life in developed markets—food delivery, ride-hailing, gig-work marketplaces—rest on a deceptively simple unit economics: connecting supply (restaurants, service providers) with demand (customers) and capturing a fee for each transaction. **Meituan Dianping**, the Chinese conglomerate delivering food and services to urban consumers, executes this model across a continental scale, though its ADR listing on U.S. over-the-counter markets makes it opaque to retail Western investors.*
+*The digital platforms that dominate contemporary consumer life in developed markets—food delivery, ride-hailing, gig-work marketplaces—rest on a deceptively simple unit economics: connecting supply (restaurants, service providers) with demand (customers) and capturing a fee for each transaction. **Meituan Dianping**, the Chinese conglomerate delivering food and services to urban consumers, executes this model across a continental scale, though its ADR listing on U.S. [over-the-counter markets](/over-the-counter-market/) makes it opaque to retail Western investors.*
 
 <aside class="wiki-infobox">
 <table>
@@ -48,21 +48,21 @@ Meituan's ability to raise take-rates or delivery fees is tested constantly. If 
 
 Beyond food delivery, Meituan operates local services (cleaning, plumbing, beauty) and tourism (hotels, entertainment). Each category has different unit economics. Entertainment ticketing, for example, may have high take-rates but low delivery costs; hotel booking may have high transaction values but also high customer service complexity. Tourism services in particular face the challenge of offline fulfillment—a customer books a hotel through Meituan, but Meituan does not directly operate the hotel. This creates service-quality risk: poor hotel experience reflects on Meituan's brand even though the company does not control the outcome.
 
-Diversification reduces dependence on any single category but requires the company to maintain expertise across multiple vertical markets. Some categories may be profitable; others may drag down consolidated returns.
+[Diversification](/diversification/) reduces dependence on any single category but requires the company to maintain expertise across multiple vertical markets. Some categories may be profitable; others may drag down consolidated returns.
 
 ## Regulatory and Geopolitical Headwinds
 
-Meituan operates under Chinese regulatory jurisdiction, which has recently intensified scrutiny of technology platforms. Regulators may impose restrictions on delivery fees, gig-worker classification (which affects labor costs), or data usage. A sudden regulatory shift could compress margins or require operational restructuring. Additionally, ADR holders face currency risk (returns must be converted from Chinese yuan to U.S. dollars) and political risk (restrictions on foreign ownership of Chinese assets).
+Meituan operates under Chinese regulatory jurisdiction, which has recently intensified scrutiny of technology platforms. Regulators may impose restrictions on delivery fees, gig-worker classification (which affects labor costs), or data usage. A sudden regulatory shift could compress margins or require operational restructuring. Additionally, ADR holders face [currency risk](/currency-risk/) (returns must be converted from Chinese yuan to U.S. dollars) and political risk (restrictions on foreign ownership of Chinese assets).
 
 The company's value to Western investors is therefore discounted for regulatory and geopolitical uncertainty. This is reflected in the OTC listing rather than a primary exchange—the company's U.S. liquidity is limited.
 
 ## Path to Profitability and Capital Allocation
 
-Meituan has achieved profitability in its core food-delivery business, but the consolidated company likely operates at lower margins due to investments in expansion and less-profitable categories. The company's capital is allocated between reinvestment in growth (new cities, new categories) and returning capital to shareholders (dividends, buybacks).
+Meituan has achieved profitability in its core food-delivery business, but the consolidated company likely operates at lower margins due to investments in expansion and less-profitable categories. The company's capital is allocated between reinvestment in growth (new cities, new categories) and returning capital to shareholders ([dividends](/dividend/), buybacks).
 
 For the company to generate sustainable unit economics, it must eventually achieve a mix of categories and geographies where profitable core operations (food delivery) offset losses or lower margins in growth or exploratory categories. This is the classic trade-off faced by large platform operators: maximize near-term profits by focusing on winning segments, or sacrifice profits to build scale and optionality in adjacent markets.
 
-Meituan's long-term viability depends on sustaining competitive advantages (brand, logistics network, merchant relationships) while navigating regulatory constraints and managing the capital intensity of its delivery operations. The company's unit economics remain healthy in its core business but are under pressure from competition and the rising cost of customer acquisition in saturated markets.
+Meituan's long-term viability depends on sustaining competitive advantages (brand, logistics network, merchant relationships) while navigating regulatory constraints and managing the capital intensity of its delivery operations. The company's unit economics remain healthy in its core business but are under pressure from competition and the rising cost of customer [acquisition](/acquisition/) in saturated markets.
 
 <div class="wiki-seealso">
 

@@ -29,7 +29,7 @@ Smaller platforms that serve niches—finance creators, podcasters, gaming strea
 
 ## Content Ownership and Rights as a False Moat
 
-Some digital media companies attempt to build moats through exclusive or original content. This strategy works for companies with the capital to fund high-production-value series or films and the scale to distribute them profitably (Netflix, Amazon Prime Video). A smaller independent like MiMedia, if it operates as a distributor of user-generated or licensed content, owns neither the content nor the distribution rights in a way that competitors cannot replicate.
+Some digital media companies attempt to build moats through exclusive or original content. This strategy works for companies with the capital to fund high-production-value series or films and the scale to distribute them profitably ([Netflix](/nflx-stock/), Amazon Prime Video). A smaller independent like MiMedia, if it operates as a distributor of user-generated or licensed content, owns neither the content nor the distribution rights in a way that competitors cannot replicate.
 
 If MiMedia produces its own content, it competes against every production company and studio—a vastly larger and more capital-intensive category. Content is not a renewable moat; each piece must be continuously refreshed or acquired, burning capital at a rate that venture and public markets increasingly scrutinize. The moat only holds if the content itself is so distinctly valuable or culturally singular that audiences demand it from MiMedia specifically. This is rare outside franchises and established franchises are built by larger studios, not independent digital media companies.
 

@@ -4,7 +4,7 @@ description: "Exploration and development stage company pursuing uranium and oth
 keywords: ["uranium", "critical minerals", "exploration", "junior mining", "FNUC"]
 ---
 
-***Frontier Nuclear & Minerals Inc. (FNUC)** is an exploration-stage public company with a mandate to acquire, explore, and develop uranium and associated critical mineral properties across North America. Unlike established uranium producers or diversified mining companies with multi-billion-dollar market caps, Frontier remains a junior explorer: it owns or controls exploration rights to various property packages, conducts geological surveys and resource assessment work, and has not yet moved any asset into production. The company competes for investor capital and asset leases against dozens of other junior explorers, each betting that commodity price recovery and energy transition demand will eventually justify production-scale development.*
+***Frontier Nuclear & Minerals Inc. (FNUC)** is an exploration-stage public company with a mandate to acquire, explore, and develop uranium and associated critical mineral properties across North America. Unlike established uranium producers or diversified mining companies with multi-billion-dollar [market caps](/market-capitalization/), Frontier remains a junior explorer: it owns or controls exploration rights to various property packages, conducts geological surveys and resource assessment work, and has not yet moved any asset into production. The company competes for investor capital and asset leases against dozens of other junior explorers, each betting that commodity price recovery and energy transition demand will eventually justify production-scale development.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FNUC</td></tr>
@@ -25,7 +25,7 @@ The pre-revenue structure means Frontier must raise capital regularly to fund ex
 
 Frontier's focus on uranium is contemporaneous with renewed global interest in nuclear power as a low-carbon electricity source. Many governments (U.S., Canada, UK, France, Poland) have signaled commitment to nuclear buildout or life extension of existing reactors. Uranium demand from reactors has been relatively stable, but spot prices fluctuate on sentiment about reactor construction timelines and supply adequacy. A hypothetical surge in uranium demand—from new reactor deployments or enrichment feedstock buying—could shift calculus for development of junior explorers' resources. Conversely, a slowdown in nuclear buildout or a discovery of large new uranium resources by established miners could depress prices and make exploration spending harder to justify.
 
-Frontier's bet is directional: that uranium demand will grow and that current spot prices do not fully price in that growth. This is a macro thesis, not a company-specific operational thesis. Unlike an established uranium producer (which controls known reserves and earns from current and near-term production), Frontier has no production profile and no way to hedge commodity price risk through forward sales. The company's value is essentially a call option on uranium prices and a belief in the quality of its exploration properties.
+Frontier's bet is directional: that uranium demand will grow and that current spot prices do not fully price in that growth. This is a macro thesis, not a company-specific operational thesis. Unlike an established uranium producer (which controls known reserves and earns from current and near-term production), Frontier has no production profile and no way to hedge commodity price risk through forward sales. The company's value is essentially a [call option](/call-option/) on uranium prices and a belief in the quality of its exploration properties.
 
 ## Asset Base and Competitive Position
 
@@ -35,7 +35,7 @@ A prospective investor or acquirer evaluates Frontier by reading its exploration
 
 ## Capital Needs and Dilution Risk
 
-Frontier's ongoing capital requirements mean it will likely offer new shares, convertible debt, or warrants to existing investors or new capital sources. Each such offering dilutes per-share ownership. Over many years, cumulative dilution can be severe. A shareholder who bought 1,000 shares in year one might own 0.1% of the company by year ten if the company has conducted multiple capital raises. However, if the exploration program discovers commercial-scale mineralization, share dilution is offset by an increase in enterprise value. The calculus only works if exploration success justifies the capital burned.
+Frontier's ongoing capital requirements mean it will likely offer new shares, convertible debt, or warrants to existing investors or new capital sources. Each such offering dilutes per-share ownership. Over many years, cumulative dilution can be severe. A shareholder who bought 1,000 shares in year one might own 0.1% of the company by year ten if the company has conducted multiple capital raises. However, if the exploration program discovers commercial-scale mineralization, [share dilution](/share-dilution/) is offset by an increase in [enterprise value](/enterprise-value/). The calculus only works if exploration success justifies the capital burned.
 
 ## Information Sources and Due Diligence
 

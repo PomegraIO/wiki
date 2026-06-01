@@ -24,7 +24,7 @@ Biote, as a clinical-stage firm, is likely burning cash on personnel, contract r
 
 ## Intellectual Property and Patent Estate
 
-Biote's value is in its compounds and compositions. The 10-K should list patent families, expiration dates, and any pending applications. Biotech investors also care about the exclusivity period ahead—if a patent on the lead candidate expires in five years, the company has limited time to reach approval, market the drug, and recoup its investment before generic competition. Conversely, a patent with 15+ years of remaining life provides a longer runway. Also review any licensing agreements: has Biote licensed IP from universities or other companies? On what terms? Upfront fees, milestone payments, and royalties all reduce the profit pool if the drug is approved and commercialized. If the 10-K discloses that Biote licenses its core IP from a third party under an exclusive agreement, understand the terms—can Biote sublicense, or is it locked to a single therapeutic area? Can the licensor terminate early if Biote misses milestones?
+Biote's value is in its compounds and compositions. The 10-K should list patent families, [expiration dates](/expiration-contracts/), and any pending applications. Biotech investors also care about the exclusivity period ahead—if a patent on the lead candidate expires in five years, the company has limited time to reach approval, market the drug, and recoup its investment before generic competition. Conversely, a patent with 15+ years of remaining life provides a longer runway. Also review any licensing agreements: has Biote licensed IP from universities or other companies? On what terms? Upfront fees, milestone payments, and royalties all reduce the profit pool if the drug is approved and commercialized. If the 10-K discloses that Biote licenses its core IP from a third party under an exclusive agreement, understand the terms—can Biote sublicense, or is it locked to a single therapeutic area? Can the licensor terminate early if Biote misses milestones?
 
 ## Target Indication Strategy
 
@@ -32,7 +32,7 @@ The choice of indication—what disease is the candidate designed to treat—is 
 
 ## Regulatory Relationship and FDA Engagement
 
-Biote will have (or should have) regular touchpoints with the FDA, including Type B meetings, pre-IND consultations, and Special Designations (Breakthrough Therapy, Fast Track, Orphan Drug status). The 10-K may disclose whether any candidates have received such designations. These are material advantages—Breakthrough Therapy status, for instance, accelerates the FDA's review and can allow for conditional approval pathways. Conversely, if the FDA has raised questions about efficacy endpoints or study design in pre-IND meetings, that is a red flag not always obvious in the 10-K narrative. Read the Risk Factors section carefully; if Biote mentions regulatory uncertainty, specific trial design issues, or FDA feedback, that signals challenges ahead.
+Biote will have (or should have) regular touchpoints with the FDA, including Type B meetings, pre-IND consultations, and Special Designations (Breakthrough Therapy, [Fast Track](/ftrk-stock/), Orphan Drug status). The 10-K may disclose whether any candidates have received such designations. These are material advantages—Breakthrough Therapy status, for instance, accelerates the FDA's review and can allow for conditional approval pathways. Conversely, if the FDA has raised questions about efficacy endpoints or study design in pre-IND meetings, that is a red flag not always obvious in the 10-K narrative. Read the Risk Factors section carefully; if Biote mentions regulatory uncertainty, specific trial design issues, or FDA feedback, that signals challenges ahead.
 
 ## Manufacturing and Scale-Up Risk
 
@@ -40,7 +40,7 @@ Many biotechs fail not because their compounds don't work, but because they cann
 
 ## Competitive Landscape Within the Niche
 
-Other biotech firms are also pursuing cannabis-derived and psychedelic therapeutics. Tilray, Canopy Growth, and others have larger resources but different regulatory standing (some are cannabis companies, not pure pharma). Smaller players like Compass Pathways (psilocybin) and Mind Medicine (MDMA-assisted therapy) are competitors for capital and FDA attention. The 10-K may not name all competitors, but the Risk Factors section should acknowledge the competitive environment and what differentiates Biote's approach. If the company's only claimed advantage is early-stage IP, that is weaker than a claim of a unique formulation or superior pharmacokinetics.
+Other biotech firms are also pursuing cannabis-derived and psychedelic therapeutics. Tilray, [Canopy Growth](/cgc-stock/), and others have larger resources but different regulatory standing (some are cannabis companies, not pure pharma). Smaller players like [Compass Pathways](/cmps-stock/) (psilocybin) and Mind Medicine (MDMA-assisted therapy) are competitors for capital and FDA attention. The 10-K may not name all competitors, but the Risk Factors section should acknowledge the competitive environment and what differentiates Biote's approach. If the company's only claimed advantage is early-stage IP, that is weaker than a claim of a unique formulation or superior pharmacokinetics.
 
 ## Path to Non-Dilutive Funding
 

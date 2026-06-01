@@ -29,7 +29,7 @@ Optical genome mapping is one approach among several for analyzing DNA structure
 
 ## Manufacturing, Supply Chain, and Scalability
 
-Bionano manufactures or sources components for the Saphyr instrument and packages them into complete systems. The supply chain includes electronic components (cameras, light sources, microfluidic controllers), software, and packaging. As sales scale, Bionano must ensure consistent supply of components, quality control at assembly, and the ability to deliver systems on committed timelines. Component shortages, manufacturing delays, or quality issues directly impact revenue recognition. The company outsources some manufacturing to contract manufacturers, which creates dependency on those partners' capacity and quality standards.
+Bionano manufactures or sources components for the Saphyr instrument and packages them into complete systems. The supply chain includes electronic components (cameras, light sources, microfluidic controllers), software, and packaging. As sales scale, Bionano must ensure consistent supply of components, quality control at assembly, and the ability to deliver systems on committed timelines. Component shortages, manufacturing delays, or quality issues directly impact [revenue recognition](/revenue-recognition/). The company outsources some manufacturing to contract manufacturers, which creates dependency on those partners' capacity and quality standards.
 
 ## Reagent Manufacturing and Consumable Economics
 

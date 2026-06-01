@@ -17,7 +17,7 @@ keywords: ["automotive", "OEM", "luxury vehicles", "electric vehicles", "manufac
 
 ## The Luxury-Automotive Moat
 
-BMW's competitive position rests on brand equity cultivated over a century—a heritage of engineering, performance, and premium positioning that commands price premiums versus mass-market competitors. A BMW 3-Series commands a 30–50% price premium over an equivalent Volkswagen, reflecting brand strength. This moat is durable because luxury-automotive customers value heritage, quality perception, and social signaling; BMW's brand conveys status and engineering excellence. However, the moat is not impregnable: inferior product quality, technology missteps, or price-based competition from Tesla or Chinese OEMs (BYD, Nio) can erode brand value within years. BMW's profitability thus depends on continuous reinvestment in design, manufacturing innovation, and technology to justify premium pricing. Complacency is death in luxury automotive.
+BMW's competitive position rests on brand equity cultivated over a century—a heritage of engineering, performance, and premium positioning that commands price premiums versus mass-market competitors. A BMW 3-Series commands a 30–50% price premium over an equivalent Volkswagen, reflecting brand strength. This moat is durable because luxury-automotive customers value heritage, quality perception, and social signaling; BMW's brand conveys status and engineering excellence. However, the moat is not impregnable: inferior product quality, technology missteps, or price-based competition from [Tesla](/tsla-stock/) or Chinese OEMs (BYD, Nio) can erode brand value within years. BMW's profitability thus depends on continuous reinvestment in design, manufacturing innovation, and technology to justify premium pricing. Complacency is death in luxury automotive.
 
 ## Manufacturing Scale and Cost Leadership
 
@@ -25,7 +25,7 @@ BMW operates a global manufacturing footprint: plants in Germany (Munich, Dingol
 
 ## The Product Portfolio: Segmentation and Margins
 
-BMW's portfolio spans entry-level (Mini, BMW 1/2-Series) to ultra-luxury (Rolls-Royce, BMW 7-Series). Each segment serves distinct customer bases and earns different margins. The Mini brand attracts value-conscious premium buyers and commands lower price points; the flagship 7-Series targets ultra-wealthy individuals and corporate fleets, with gross margins 30–40% higher than Mini. The BMW brand sits in the middle, targeting affluent professionals and executives. Motorcycles (Motorrad) are a smaller, high-margin business targeting enthusiasts. Rolls-Royce is a tiny but extremely high-margin ultra-luxury operation. This diversification allows BMW to capture value across income levels and use scale benefits (shared powertrains, platforms, component suppliers) across brands while maintaining brand positioning. A customer who cannot afford a BMW 7-Series may buy a Mini today and upgrade to a 5-Series later, creating a lifetime relationship.
+BMW's portfolio spans entry-level (Mini, BMW 1/2-Series) to ultra-luxury (Rolls-Royce, BMW 7-Series). Each segment serves distinct customer bases and earns different margins. The Mini brand attracts value-conscious premium buyers and commands lower price points; the flagship 7-Series targets ultra-wealthy individuals and corporate fleets, with gross margins 30–40% higher than Mini. The BMW brand sits in the middle, targeting affluent professionals and executives. Motorcycles (Motorrad) are a smaller, high-margin business targeting enthusiasts. Rolls-Royce is a tiny but extremely high-margin ultra-luxury operation. This [diversification](/diversification/) allows BMW to capture value across income levels and use scale benefits (shared powertrains, platforms, component suppliers) across brands while maintaining brand positioning. A customer who cannot afford a BMW 7-Series may buy a Mini today and upgrade to a 5-Series later, creating a lifetime relationship.
 
 ## Electrification and the Platform Transition
 
@@ -57,6 +57,6 @@ BMW earns substantial revenue in the US and China; currency fluctuations (euro t
 - [Price-to-earnings ratio](/price-to-earnings-ratio/) — automotive valuations reflect margin pressure during transition and cyclical demand
 - [Return on equity](/return-on-equity/) — capital-intensive manufacturing requires strong ROE to justify shareholder investment
 - [Free cash flow](/free-cash-flow/) — EV transition requires massive capex; cash flow to shareholders depends on transition timing
-- [Dividend](/dividend/) — mature auto OEMs historically pay dividends; EV capex may constrain future payout ratios
+- [Dividend](/dividend/) — mature auto OEMs historically pay dividends; EV capex may constrain future [payout ratios](/payout-ratio/)
 
 </div>

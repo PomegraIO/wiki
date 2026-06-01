@@ -25,7 +25,7 @@ iOThree's founding investors are typically venture firms or growth-equity sponso
 
 ## Acquisition Debt: Leverage as a Strategic Tool
 
-To accelerate the consolidation, iOThree uses acquisition debt—borrowed capital specifically raised to fund purchase price. Unlike a stable, dividend-paying company that borrows at low rates against strong collateral, a young roll-up borrows at higher rates and may pledge acquired assets as security. This debt is not unusual or problematic if the acquisitions are accretive to EBITDA (i.e., the acquired business generates sufficient profit to cover interest costs and add to the platform). However, if acquisitions are not accretive or if the roll-up burns cash integrating losses, leverage can become a drag on the platform's financial flexibility.
+To accelerate the consolidation, iOThree uses acquisition debt—borrowed capital specifically raised to fund purchase price. Unlike a stable, dividend-paying company that borrows at low rates against strong collateral, a young roll-up borrows at higher rates and may pledge acquired assets as security. This debt is not unusual or problematic if the acquisitions are accretive to [EBITDA](/ebitda/) (i.e., the acquired business generates sufficient profit to cover interest costs and add to the platform). However, if acquisitions are not accretive or if the roll-up burns cash integrating losses, leverage can become a drag on the platform's financial flexibility.
 
 ## Tuck-In Acquisition Discipline: Size and Leverage Constraints
 
@@ -33,7 +33,7 @@ The best roll-up acquirers impose discipline on deal size. iOThree does not purs
 
 ## Earnout Obligations and Deferred Compensation
 
-Many acquisitions include earnouts: additional payments if the acquired business hits revenue or profit milestones post-acquisition. Earnouts defer part of the purchase price but shift risk. If the acquired team leaves or the business decelerates, the earnout may not be paid, reducing total cost. If the business thrives, earnouts can exceed the initial estimate, raising effective purchase price. iOThree's balance sheet must reflect earnout obligations—both accrued liabilities (known amounts) and contingent liabilities (potential payments). These liabilities affect the company's net leverage ratios and debt-to-equity calculations, potentially constraining future acquisition capacity if earnouts spike.
+Many acquisitions include earnouts: additional payments if the acquired business hits revenue or profit milestones post-acquisition. Earnouts defer part of the purchase price but shift risk. If the acquired team leaves or the business decelerates, the earnout may not be paid, reducing total cost. If the business thrives, earnouts can exceed the initial estimate, raising effective purchase price. iOThree's balance sheet must reflect earnout obligations—both accrued liabilities (known amounts) and [contingent liabilities](/contingent-liabilities-government/) (potential payments). These liabilities affect the company's net [leverage ratios](/leverage-ratio-forex/) and debt-to-equity calculations, potentially constraining future acquisition capacity if earnouts spike.
 
 ## Currency and Cross-Border Deal Risk
 
@@ -49,7 +49,7 @@ A mature roll-up eventually generates sufficient cash flow to self-fund acquisit
 
 ## Exit Optionality and Capital Return
 
-Venture-backed roll-ups eventually face an exit decision: continue as an independent public company, merge with a larger platform, or go private in a leveraged buyout backed by new financial sponsors. The choice depends on available capital, competitive dynamics, and valuation sentiment. iOThree's capital structure—venture equity, acquisition debt, retained earnings—must support any chosen path. A company with too much venture control may face pressure to sell or merge, sacrificing shareholder optionality for founders' proceeds. One with too much debt may find exit options constrained by lender requirements or covenants.
+Venture-backed roll-ups eventually face an exit decision: continue as an independent public company, merge with a larger platform, or go private in a [leveraged buyout](/leveraged-buyout/) backed by new financial sponsors. The choice depends on available capital, competitive dynamics, and valuation sentiment. iOThree's capital structure—venture equity, acquisition debt, [retained earnings](/retained-earnings/)—must support any chosen path. A company with too much venture control may face pressure to sell or merge, sacrificing shareholder optionality for founders' proceeds. One with too much debt may find exit options constrained by lender requirements or covenants.
 
 <div class="wiki-seealso">
 

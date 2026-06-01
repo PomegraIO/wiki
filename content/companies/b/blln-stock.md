@@ -19,7 +19,7 @@ keywords: ["diagnostics", "NIPT", "reproductive health", "genetic testing", "rei
 
 BillionToOne's revenue model depends entirely on payer (insurance company and government program) willingness to reimburse its NIPT services. Unlike a pharmaceutical drug that commands a fixed price once approved, diagnostic tests compete on multiple dimensions—accuracy, cost, physician preference, and insurance coverage—and reimbursement rates can shift downward as competition intensifies or payers demand price concessions.
 
-The company has built its customer acquisition and volume growth on the assumption that major payers will continue to cover NIPT at current or rising rates. However, as the market matures and more competitors enter (LabCorp, Quest, Illumina, and numerous smaller firms all offer NIPT), payers will gain leverage to negotiate lower fees. A significant reduction in Medicare reimbursement, or a denial of coverage by a major commercial payer, could cause customer volume and revenue to decline sharply. BillionToOne is not the market leader in NIPT—it is a challenger competing on innovation and cost—which means it has less pricing power than incumbents if reimbursement becomes a competitive auction.
+The company has built its customer [acquisition](/acquisition/) and volume growth on the assumption that major payers will continue to cover NIPT at current or rising rates. However, as the market matures and more competitors enter (LabCorp, Quest, Illumina, and numerous smaller firms all offer NIPT), payers will gain leverage to negotiate lower fees. A significant reduction in Medicare reimbursement, or a denial of coverage by a major commercial payer, could cause customer volume and revenue to decline sharply. BillionToOne is not the market leader in NIPT—it is a challenger competing on innovation and cost—which means it has less pricing power than incumbents if reimbursement becomes a competitive auction.
 
 ## Clinical Validation and Regulatory Contingency
 
@@ -31,11 +31,11 @@ Moreover, the test must meet Clinical Laboratory Improvement Amendments (CLIA) s
 
 The NIPT market has grown rapidly as awareness among obstetricians and reproductive medicine physicians has spread, but growth is ultimately capped by the size of the pregnant population and the penetration rate of prenatal screening. As the market matures, price competition will intensify and customer acquisition costs will likely rise. BillionToOne entered the market after larger diagnostic firms had already established relationships with hospitals, provider networks, and payer medical-director teams, meaning the company must continuously invest in marketing and relationship-building to maintain share.
 
-Larger competitors (particularly LabCorp and Quest Diagnostics) have superior negotiating power with payers, can bundle NIPT with other tests to increase sticky customer relationships, and can absorb lower margins if necessary. BillionToOne's ability to win market share against these incumbents depends on demonstrating clinical or operational advantages—faster results, lower failure rates, superior customer service—but those advantages can erode quickly if competitors match them.
+Larger competitors (particularly LabCorp and [Quest Diagnostics](/dgx-stock/)) have superior negotiating power with payers, can bundle NIPT with other tests to increase sticky customer relationships, and can absorb lower margins if necessary. BillionToOne's ability to win market share against these incumbents depends on demonstrating clinical or operational advantages—faster results, lower failure rates, superior customer service—but those advantages can erode quickly if competitors match them.
 
 ## The Multi-Test Revenue Vulnerability
 
-NIPT represents the majority of BillionToOne's test revenue, but the company has invested in developing and marketing additional reproductive-health tests (carrier screening, whole genome sequencing, etc.). This diversification is strategically sensible—it reduces dependence on NIPT alone—but it also means capital is being deployed before those tests have achieved meaningful volume or profitability. If new products fail to gain adoption or face reimbursement challenges, capital deployed to develop and market them will be wasted, and the company's growth profile will slow further.
+NIPT represents the majority of BillionToOne's test revenue, but the company has invested in developing and marketing additional reproductive-health tests (carrier screening, whole genome sequencing, etc.). This [diversification](/diversification/) is strategically sensible—it reduces dependence on NIPT alone—but it also means capital is being deployed before those tests have achieved meaningful volume or profitability. If new products fail to gain adoption or face reimbursement challenges, capital deployed to develop and market them will be wasted, and the company's growth profile will slow further.
 
 ## Operational Leverage and Unit Economics at Risk
 
@@ -51,7 +51,7 @@ NIPT adoption has been driven partly by physician enthusiasm and patient demand,
 
 ### Closely related
 - [blkb-stock](/blkb-stock/) — Software vendor also dependent on customer trust and regulatory compliance
-- [blmn-stock](/blmn-stock/) — Consumer-facing company exposed to shifts in discretionary spending behavior
+- [blmn-stock](/blmn-stock/) — Consumer-facing company exposed to shifts in [discretionary spending](/discretionary-spending/) behavior
 
 ### Wider context
 - [securities-and-exchange-commission](/securities-and-exchange-commission/) — Regulatory oversight of diagnostic claims

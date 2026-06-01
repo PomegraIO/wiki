@@ -23,13 +23,13 @@ The competitive advantage lies partly in inherited customer stickiness: Japanese
 
 ## The Japanese-Manufacturer Anchor and Globalization Pressure
 
-Mitsui-Soko has historically derived competitive moat from its entrenched relationship with Japanese multinational corporations (Sony, Toyota, Panasonic suppliers). These customers value stability, quality, and deep cultural alignment—precisely what an incumbent Japanese logistics operator provides. The company operates with high margins on these anchored relationships.
+Mitsui-Soko has historically derived competitive moat from its entrenched relationship with Japanese multinational corporations ([Sony](/sony-stock/), Toyota, Panasonic suppliers). These customers value stability, quality, and deep cultural alignment—precisely what an incumbent Japanese logistics operator provides. The company operates with high margins on these anchored relationships.
 
 However, Japanese manufacturers themselves are globalizing and consolidating their logistics vendor lists. A manufacturer optimizing for cost and global platform integration increasingly prefers a single global 3PL partner (often a European leader like Kuehne+Nagel or DSV) over a patchwork of regional specialists. This commoditizes Mitsui-Soko's advantage—the company is forced to either (1) integrate vertically or horizontally to offer global coverage, (2) accept lower margins as a regional piece of a global contract, or (3) dig deeper into specialized segments (cold-chain, high-security warehousing) where premium pricing is justified.
 
 ## Market Segmentation and Specialization Battles
 
-Within Asia, Mitsui-Soko competes across multiple service lines: standard warehousing, distribution, cold-chain logistics, contract manufacturing support, and specialized handling (hazardous, automotive, pharma). This diversification is both strength and weakness. Strength because it creates cross-selling and customer switching costs; weakness because it spreads resources thin and makes the company vulnerable to specialists who dominate any single segment.
+Within Asia, Mitsui-Soko competes across multiple service lines: standard warehousing, distribution, cold-chain logistics, contract manufacturing support, and specialized handling (hazardous, automotive, pharma). This [diversification](/diversification/) is both strength and weakness. Strength because it creates cross-selling and customer switching costs; weakness because it spreads resources thin and makes the company vulnerable to specialists who dominate any single segment.
 
 In cold-chain logistics (pharmaceuticals, food), competitors include regional cold-chain specialists (SF Express in China, Kerry Group in Southeast Asia) that may operate with higher specialization and lower cost. In automotive logistics, Japanese competitors like Nippon Express and Kintetsu World Express compete directly on the same OEM relationships. In general warehousing, Mitsui-Soko faces price competition from lower-cost operators.
 
@@ -49,7 +49,7 @@ The company does not have a cost-leadership strategy; it cannot out-compete Chin
 
 To compete at scale, Mitsui-Soko faces pressure to integrate globally or partner with global 3PLs. A partnership with a global leader (acquiring Mitsui-Soko or taking a major stake) would provide instant access to global networks and customer relationships but would likely result in loss of independence and consolidation of duplicative functions.
 
-Alternatively, Mitsui-Soko could pursue selective acquisitions to build geographic depth in high-growth Asia-Pacific markets and specialization in higher-margin service lines. This path requires capital discipline and execution excellence—missteps result in integration costs and margin dilution that erode the very advantage the company is trying to preserve.
+Alternatively, Mitsui-Soko could pursue selective [acquisitions](/acquisition/) to build geographic depth in high-growth Asia-Pacific markets and specialization in higher-margin service lines. This path requires capital discipline and execution excellence—missteps result in integration costs and margin dilution that erode the very advantage the company is trying to preserve.
 
 ## Technological and Digital Transformation
 

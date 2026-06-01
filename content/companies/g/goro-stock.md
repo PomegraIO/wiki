@@ -17,7 +17,7 @@ keywords: ["gold-mining", "commodities", "mining-operations", "precious-metals",
 
 ## Revenue Without Customer Acquisition: The Commodity Model
 
-Gold Resource Corp does not negotiate contracts or build brand loyalty. The company sells gold and silver at the spot price set by global commodity markets. An ounce of gold is an ounce; buyers include jewelry makers, central banks, investment funds, and industrial users. GORO has no pricing power. Its sole economic lever is reducing the cost to extract and refine each ounce.
+Gold Resource Corp does not negotiate contracts or build brand loyalty. The company sells gold and silver at the spot price set by global commodity markets. An ounce of gold is an ounce; buyers include jewelry makers, [central banks](/central-bank/), investment funds, and industrial users. GORO has no pricing power. Its sole economic lever is reducing the cost to extract and refine each ounce.
 
 The revenue model is therefore inverted: not "sell volume at a price we choose," but "mine at a cost we can control and hope the spot price stays above it." If the company extracts 100,000 ounces per year and gold is at $2,000/oz, revenue is $200 million (ignoring mining costs and byproduct credits). If gold falls to $1,500/oz, revenue drops to $150 million from the same mining effort. The fixed costs—maintaining the mine, running the mill, paying employees—are unchanged, so the margin swing is severe.
 
@@ -27,7 +27,7 @@ This inverted leverage is why mining companies are cyclical and risky. A petrole
 
 GORO's profitability is determined by all-in cost (AIC)—the total cash cost per ounce of finished gold, including mining, milling, refining, transportation, and applicable royalties to the Mexican government. If AIC is $1,100 per ounce and gold trades at $2,000, the profit per ounce is $900 before tax, corporate overhead, and financing costs. That profit is real but fragile: it depends on holding both the commodity price and the cost line.
 
-Costs rise when labor inflation hits Mexico, when fuel prices spike, when transportation costs climb, or when geological conditions worsen (ore grade declines, mining must go deeper). Each of these is partly manageable—contracts can hedge fuel; grade can decline over time—but ultimately the mine operator faces rising costs in inflationary environments, just as gold prices can diverge from inflation. The historical pattern is boom-bust: when gold is expensive, miners expand, driving up wage and equipment costs; when gold crashes, miners cut capex and labor, creating margin compression during exactly when it hurts most.
+Costs rise when labor [inflation](/inflation/) hits Mexico, when fuel prices spike, when transportation costs climb, or when geological conditions worsen (ore grade declines, mining must go deeper). Each of these is partly manageable—contracts can hedge fuel; grade can decline over time—but ultimately the mine operator faces rising costs in inflationary environments, just as gold prices can diverge from inflation. The historical pattern is boom-bust: when gold is expensive, miners expand, driving up wage and equipment costs; when gold crashes, miners cut capex and labor, creating margin compression during exactly when it hurts most.
 
 ## Mining Economics and the Payback Horizon
 
@@ -51,9 +51,9 @@ GORO extracts both gold and silver. Silver typically accounts for 5–15% of rev
 
 ## Margin Profile and Shareholder Value
 
-Miners rarely generate returns on capital equal to equity investors' cost of capital when viewed over a full cycle. A boom-cycle profit might generate 20% ROE; a bust cycle might generate 0% or negative returns. Over 10–20 years, the average ROIC is often 5–8%, which is roughly the cost of debt but not much above the cost of equity. This is why mining companies trade at discounts to their [book value](/balance-sheet/) and [free cash flow](/free-cash-flow/) yield is often the primary return to shareholders.
+Miners rarely generate returns on capital equal to equity investors' cost of capital when viewed over a full cycle. A boom-cycle profit might generate 20% ROE; a bust cycle might generate 0% or negative returns. Over 10–20 years, the average ROIC is often 5–8%, which is roughly the [cost of debt](/cost-of-debt/) but not much above the [cost of equity](/cost-of-equity/). This is why mining companies trade at discounts to their [book value](/balance-sheet/) and [free cash flow](/free-cash-flow/) yield is often the primary return to shareholders.
 
-GORO's shareholder return depends on gold price. If gold rises, shares likely appreciate (and the company may initiate dividends). If gold crashes, shareholder value deteriorates. There is limited operational leverage in the traditional sense: good management can lower all-in costs by 5–10%, but it cannot overcome a 50% decline in the commodity price.
+GORO's shareholder return depends on gold price. If gold rises, shares likely appreciate (and the company may initiate [dividends](/dividend/)). If gold crashes, shareholder value deteriorates. There is limited operational leverage in the traditional sense: good management can lower all-in costs by 5–10%, but it cannot overcome a 50% decline in the commodity price.
 
 ## Exploration and Reserve Life
 

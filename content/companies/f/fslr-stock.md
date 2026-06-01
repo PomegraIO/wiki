@@ -55,7 +55,7 @@ First Solar's supply chain runs through global sources for key materials and thr
 
 ## Competitive positioning
 
-First Solar competes against Chinese panel giants like JinkoSolar and Canadian Solar, both of which are far larger by volume and have lower costs. It also competes against silicon-based manufacturers in Europe and elsewhere. Its thin-film technology is a point of differentiation, but technology alone does not protect margins forever; competitors develop new solutions and push costs down. First Solar's real competitive advantage is its portfolio of long-term projects — those create barriers and recurring revenue that pure manufacturers cannot match.
+First Solar competes against Chinese panel giants like JinkoSolar and [Canadian Solar](/csiq-stock/), both of which are far larger by volume and have lower costs. It also competes against silicon-based manufacturers in Europe and elsewhere. Its thin-film technology is a point of differentiation, but technology alone does not protect margins forever; competitors develop new solutions and push costs down. First Solar's real competitive advantage is its portfolio of long-term projects — those create barriers and recurring revenue that pure manufacturers cannot match.
 
 ## Capital intensity and growth
 

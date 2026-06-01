@@ -25,7 +25,7 @@ Unlike larger competitors that rely on wholesale funding markets and wire transf
 
 ## Commercial Lending Focus
 
-The bulk of BCB's [**balance sheet**](/balance-sheet/) is dedicated to small-to-medium commercial real estate (office, retail, multifamily), construction lending, [**commercial loans**](/stock/) to family businesses, and personal [**auto loans**](/stock/). Unlike investment banks, which originate loans for securitization, BCB typically holds loans to maturity or sale, assuming the credit risk and interest-rate risk directly. This model incentivizes careful underwriting: a bad loan cannot be easily offloaded to a securities buyer. The bank's ability to assess and price local credit risk—knowing the neighborhood, the borrower's personal history, the market for the collateral—is its core differentiator from automated or remote lenders.
+The bulk of BCB's [**balance sheet**](/balance-sheet/) is dedicated to small-to-medium [commercial real estate](/commercial-real-estate/) (office, retail, multifamily), construction lending, [**commercial loans**](/stock/) to family businesses, and personal [**auto loans**](/stock/). Unlike investment banks, which originate loans for [securitization](/securitization/), BCB typically holds loans to maturity or sale, assuming the [credit risk](/credit-risk/) and [interest-rate risk](/interest-rate-risk/) directly. This model incentivizes careful underwriting: a bad loan cannot be easily offloaded to a securities buyer. The bank's ability to assess and price local credit risk—knowing the neighborhood, the borrower's personal history, the market for the collateral—is its core differentiator from automated or remote lenders.
 
 ## Capital and Regulatory Constraints
 
@@ -33,7 +33,7 @@ As a publicly traded bank, BCB must maintain minimum [**capital ratios**](/balan
 
 ## The Research Path
 
-To understand BCB's competitive position within its market, a reader should start with its most recent [**10-K**](/10-k/) filing (via the SEC's EDGAR system), which details the bank's loan portfolio by geography, industry, and credit quality; deposit trends; [**net interest margin**](/stock/) (the key profitability lever); and non-performing loans. Compare BCB's [**return on equity**](/return-on-equity/) and net [**interest margin**](/stock/) to other New Jersey-based or regional peer banks to assess its operational efficiency. BCB's exposure to New Jersey real estate—especially commercial office space and industrial property—is a critical risk factor to monitor, as regional economic downturns or commercial property deflation can quickly impair the loan book.
+To understand BCB's competitive position within its market, a reader should start with its most recent [**10-K**](/10-k/) filing (via the SEC's EDGAR system), which details the bank's loan portfolio by geography, industry, and credit quality; deposit trends; [**net interest margin**](/stock/) (the key profitability lever); and non-performing loans. Compare BCB's [**return on equity**](/return-on-equity/) and net [**interest margin**](/stock/) to other New Jersey-based or regional peer banks to assess its operational efficiency. BCB's exposure to New Jersey real estate—especially commercial office space and industrial property—is a critical risk factor to monitor, as regional economic downturns or commercial property [deflation](/deflation/) can quickly impair the loan book.
 
 <div class="wiki-seealso">
 ### Closely related

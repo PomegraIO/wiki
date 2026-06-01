@@ -37,7 +37,7 @@ The assembly work is precision engineering in an environment with extremely tigh
 
 Each Momentus mission involves close coordination with the customer and the launch vehicle provider. The customer's satellite must be physically compatible with Momentus' docking mechanism and interface standards. The launch vehicle must deliver the customer payload and Momentus vehicle to a compatible orbit. The mission sequence—separation from the launch rocket, coasting, rendezvous with the customer satellite, docking, propulsive maneuver, deployment—must be planned in detail and validated. Weather and launch delays at the ground site cascade into orbit-timing changes that affect Momentus' mission plan.
 
-Operationally, this means Momentus maintains a mission planning team, satellite engineers who interface with customers, and flight controllers who manage the actual in-space maneuvers. A single mission might involve weeks of coordination with the customer, months of manufacturing and integration, and days of flight operations. Each mission's success or failure affects Momentus' reputation and customer acquisition.
+Operationally, this means Momentus maintains a mission planning team, satellite engineers who interface with customers, and flight controllers who manage the actual in-space maneuvers. A single mission might involve weeks of coordination with the customer, months of manufacturing and integration, and days of flight operations. Each mission's success or failure affects Momentus' reputation and customer [acquisition](/acquisition/).
 
 ## The On-Orbit Refueling and Logistics Vision
 

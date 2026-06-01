@@ -42,7 +42,7 @@ Building relationships with healthcare providers, pharmacy chains, and governmen
 
 KAPA, as an emerging-market focused pharma company, has lower capital requirements than a biotech pursuing FDA approval but higher ongoing working-capital needs than a pure-generics mill. The company must fund product development (which is cheaper than Western biotech but not trivial), regulatory submissions across multiple countries, manufacturing scale-up, and marketing. Revenue grows with each new product launch and market expansion; profitability emerges when multiple products are generating sales and fixed costs are absorbed across a large portfolio.
 
-The company's [balance-sheet](/balance-sheet/) likely reflects debt incurred to fund manufacturing or acquisitions, and equity from investors attracted to the emerging-market pharma opportunity. Margins on products vary widely: new launches in less-competitive markets may have 40–50% gross margins, while mature products in crowded markets may approach 20–30%.
+The company's [balance-sheet](/balance-sheet/) likely reflects debt incurred to fund manufacturing or [acquisitions](/acquisition/), and equity from investors attracted to the emerging-market pharma opportunity. Margins on products vary widely: new launches in less-competitive markets may have 40–50% gross margins, while mature products in crowded markets may approach 20–30%.
 
 ## Competitive Landscape and Sustainability
 

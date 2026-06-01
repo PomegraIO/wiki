@@ -43,11 +43,11 @@ Normandy Homes, for example, focuses on the affordable segment; Comstock targets
 
 ## Cyclicality and Interest-Rate Sensitivity
 
-Homebuilding is cyclical. When interest rates are low and employment is strong, buyers rush to lock in mortgage rates. Developers accelerate building and can raise prices. When recession hits or rates spike, demand collapses. Buyers cannot afford payments; sales stall; builders cut production and offer discounts.
+Homebuilding is cyclical. When [interest rates](/interest-rate/) are low and employment is strong, buyers rush to lock in mortgage rates. Developers accelerate building and can raise prices. When [recession](/recession/) hits or rates spike, demand collapses. Buyers cannot afford payments; sales stall; builders cut production and offer discounts.
 
 Interest rates are the key lever. A home priced at $350,000 with a 3% mortgage carries a monthly payment (principal and interest only) of roughly $1,500. At 7%, the same home costs $2,400 per month. For a first-time buyer with a $5,000 monthly income, the difference between affording a home and being priced out.
 
-GRBK is therefore highly sensitive to Federal Reserve policy and the direction of mortgage rates. Rising rates depress demand; falling rates ignite it. A recession or unemployment spike also kills sales overnight.
+GRBK is therefore highly sensitive to [Federal Reserve](/federal-reserve/) policy and the direction of mortgage rates. Rising rates depress demand; falling rates ignite it. A recession or unemployment spike also kills sales overnight.
 
 ## Financing and Leverage in Building
 
@@ -59,11 +59,11 @@ Understanding GRBK's [balance sheet](/balance-sheet/) and debt levels is crucial
 
 ## Competitive Position and Pricing Power
 
-GRBK is one of many homebuilders. Competitors include larger nationals like D.R. Horton and KB Home, and hundreds of regional builders. In the affordable segment, GRBK has regional scale. It is not a giant, but it is large enough to negotiate material costs and financing terms.
+GRBK is one of many homebuilders. Competitors include larger nationals like D.R. Horton and [KB Home](/kbh-stock/), and hundreds of regional builders. In the affordable segment, GRBK has regional scale. It is not a giant, but it is large enough to negotiate material costs and financing terms.
 
 Pricing power comes from differentiation: location, design, quality, and speed. GRBK's brands are known in their markets. Buyers recognize the names and associate them with reliability. This gives GRBK some power to hold prices or offer fewer discounts in strong markets.
 
-In weak markets, pricing power evaporates. Builders compete on price and incentives. Margins compress. Companies with lower debt and cash reserves survive; others fail or are forced into distressed sales or mergers.
+In weak markets, pricing power evaporates. Builders compete on price and incentives. Margins compress. Companies with lower debt and cash reserves survive; others fail or are forced into distressed sales or [mergers](/merger/).
 
 ## What Moves the Stock
 

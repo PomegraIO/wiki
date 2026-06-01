@@ -37,7 +37,7 @@ Contineum is likely to be dependent on partnerships with larger pharma companies
 
 ## Valuation Risk and the Burn-Rate Cliff
 
-Continuum, as a clinical-stage company, likely operates at a substantial cash burn rate with no revenue from approved drugs offsetting R&D and operational costs. The company's survival depends on maintaining access to capital markets and achieving clinical milestones that justify further funding. In a downturn in biotech investor sentiment or if clinical trial data disappoints, the company could face a severe capital crunch. This is a universal vulnerability for clinical-stage biotech but particularly acute for companies without a diversified portfolio or a strategic moat that makes them acquisition targets. Contineum's survival moat is therefore its pipeline's perceived probability of success, not any durable competitive advantage.
+Continuum, as a clinical-stage company, likely operates at a substantial cash burn rate with no revenue from approved drugs offsetting R&D and operational costs. The company's survival depends on maintaining access to capital markets and achieving clinical milestones that justify further funding. In a downturn in biotech investor sentiment or if clinical trial data disappoints, the company could face a severe capital crunch. This is a universal vulnerability for clinical-stage biotech but particularly acute for companies without a diversified portfolio or a strategic moat that makes them [acquisition](/acquisition/) targets. Contineum's survival moat is therefore its pipeline's perceived probability of success, not any durable competitive advantage.
 
 ## Clinical Validation as the Only Real Moat
 
@@ -45,7 +45,7 @@ For a clinical-stage CNS biotech like Contineum, the primary moat is clinical su
 
 ## Investor Perspective
 
-Readers evaluating Contineum through its 10-K and SEC filings should focus on the stage of advancement of lead candidates, the mechanism of action being pursued (is it novel or a variation of existing targets), and any partnerships or funding announcements. The absence of a partnership often signals weaker confidence from large pharma in the company's approach. The company's cash runway and quarterly burn rate are critical metrics; if cash runway is less than two years from the current period, the company faces refinancing risk and may be forced into unfavorable capital raises or asset sales.
+Readers evaluating Contineum through its 10-K and SEC filings should focus on the stage of advancement of lead candidates, the mechanism of action being pursued (is it novel or a variation of existing targets), and any partnerships or funding announcements. The absence of a partnership often signals weaker confidence from large pharma in the company's approach. The company's cash runway and quarterly burn rate are critical metrics; if cash runway is less than two years from the current period, the company faces [refinancing risk](/refinancing-risk/) and may be forced into unfavorable capital raises or asset sales.
 
 <div class="wiki-seealso">
 ### Closely related

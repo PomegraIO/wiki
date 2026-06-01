@@ -19,7 +19,7 @@ Infleqtion's customers are not commercial enterprises seeking immediate profit. 
 
 A quantum researcher wanting to test a hypothesis about atomic behavior, or a national laboratory seeking to build better sensors for detection, cannot do so with conventional equipment. The customer's pain is not cost, in the traditional sense—it is possibility. They want to do something that current technology does not permit.
 
-Infleqtion's value proposition is access to quantum-enabled atomic systems. The customer buys in order to conduct experiments that yield insight into quantum mechanics, to benchmark quantum computing systems, or to build prototype sensors that classical technology cannot replicate. The customer's willingness to pay depends on the novelty of what becomes possible and the speed with which Infleqtion can deliver the capability.
+Infleqtion's value proposition is access to quantum-enabled atomic systems. The customer buys in order to conduct experiments that yield insight into quantum mechanics, to benchmark [quantum computing](/qubt-stock/) systems, or to build prototype sensors that classical technology cannot replicate. The customer's willingness to pay depends on the novelty of what becomes possible and the speed with which Infleqtion can deliver the capability.
 
 ## Building for an Uncertain Market
 

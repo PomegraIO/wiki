@@ -41,7 +41,7 @@ The company's geographic footprint matters here too. An Australian QSR sourcing 
 
 ## The Franchise Question
 
-Many QSR concepts grow by franchising — selling operating rights to franchisees who put up capital and bear the operational risk while paying royalties and marketing fees to the chain. Franchising is a powerful economic model because it shifts capital requirements away from the corporate entity and accelerates unit growth without proportional increases in corporate labor.
+Many QSR concepts grow by franchising — selling operating rights to franchisees who put up capital and bear the [operational risk](/operational-risk/) while paying royalties and marketing fees to the chain. Franchising is a powerful economic model because it shifts capital requirements away from the corporate entity and accelerates unit growth without proportional increases in corporate labor.
 
 However, franchising introduces a new risk: franchisees have their own economic incentives, which are not always aligned with the brand. A franchisee who builds a single location and must earn a return on that capital may cut corners on food quality, training, or cleanliness if those investments don't immediately boost profit. Over time, brand dilution from poor franchisee operations can erode Guzman y Gomez's value even as unit count grows.
 
@@ -63,6 +63,6 @@ An investor researching Guzman y Gomez should examine the company's [10-K](/10-k
 
 ### Wider context
 - [return on equity](/return-on-equity/) and capital intensity
-- Consumer cyclicality and discretionary spending
+- Consumer cyclicality and [discretionary spending](/discretionary-spending/)
 - International expansion risks and regulatory compliance
 </div>

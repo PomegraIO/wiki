@@ -20,7 +20,7 @@ Healthcare diagnostics exist in a distinctly secular growth environment. Aging p
 
 ## Cyclical Healthcare Spending and Reimbursement
 
-However, healthcare spending is not uniform across economic cycles. During recessions, hospital systems and diagnostic labs face budget pressure. Healthcare providers defer non-urgent testing, renegotiate supplier contracts, and consolidate equipment purchases. Insurance companies tighten reimbursement rates or increase prior-authorization requirements, slowing test ordering. Patient utilization also drops: individuals with reduced income or job loss may forego preventive testing or delay diagnoses. RADNOSTIX's revenue growth can stall or reverse even if underlying disease prevalence and population continue their secular rise.
+However, healthcare spending is not uniform across economic cycles. During [recessions](/recession/), hospital systems and diagnostic labs face budget pressure. Healthcare providers defer non-urgent testing, renegotiate supplier contracts, and consolidate equipment purchases. Insurance companies tighten reimbursement rates or increase prior-authorization requirements, slowing test ordering. Patient utilization also drops: individuals with reduced income or job loss may forego preventive testing or delay diagnoses. RADNOSTIX's revenue growth can stall or reverse even if underlying disease prevalence and population continue their secular rise.
 
 ## Reimbursement as Cyclical Pressure
 
@@ -44,7 +44,7 @@ RADNOSTIX's cyclical exposure also depends on regulatory history. If the company
 
 ## Path Through the Cycle
 
-RADNOSTIX's resilience hinges on whether secular growth in diagnostic utilization (driven by aging, disease prevalence, and precision medicine) can outpace cyclical reimbursement compression and volume deferrals. In mild downturns, secular growth may sustain absolute revenue. In severe recessions, cyclical forces overwhelm secular trends, and the company faces declining revenue and margin compression simultaneously. The company's profitability during the trough depends on cost flexibility: can it reduce R&D or sales expenses rapidly enough to avoid losses? Long-term, the secular opportunity is robust, but business cycles create intermittent margin crises that can be severe for companies with high fixed costs or debt obligations.
+RADNOSTIX's resilience hinges on whether secular growth in diagnostic utilization (driven by aging, disease prevalence, and precision medicine) can outpace cyclical reimbursement compression and volume deferrals. In mild downturns, secular growth may sustain absolute revenue. In severe recessions, cyclical forces overwhelm secular trends, and the company faces declining revenue and margin compression simultaneously. The company's profitability during the trough depends on cost flexibility: can it reduce R&D or sales expenses rapidly enough to avoid losses? Long-term, the secular opportunity is robust, but [business cycles](/business-cycle/) create intermittent margin crises that can be severe for companies with high fixed costs or debt obligations.
 
 <div class="wiki-seealso">
 

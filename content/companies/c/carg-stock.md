@@ -29,7 +29,7 @@ While CarGurus has built a large user base of car shoppers, the lock-in is asymm
 
 ## Competition from Direct Dealer Channels and OEM Initiatives
 
-Large dealer groups and auto franchises are increasingly building proprietary digital retail experiences, allowing customers to browse, configure, and even order vehicles online. This integration reduces their dependence on third-party marketplaces. Similarly, original equipment manufacturers (OEMs)—Ford, General Motors, Toyota—are experimenting with direct-to-consumer sales and digital showrooms, potentially circumventing dealer websites and third-party marketplaces entirely. Each of these trends shrinks CarGurus' addressable market. Dealers lose incentive to advertise on the platform if their own site captures intent and converts browsers into buyers.
+Large dealer groups and auto franchises are increasingly building proprietary digital retail experiences, allowing customers to browse, configure, and even order vehicles online. This integration reduces their dependence on third-party marketplaces. Similarly, original equipment manufacturers (OEMs)—Ford, [General Motors](/gm-stock/), Toyota—are experimenting with direct-to-consumer sales and digital showrooms, potentially circumventing dealer websites and third-party marketplaces entirely. Each of these trends shrinks CarGurus' addressable market. Dealers lose incentive to advertise on the platform if their own site captures intent and converts browsers into buyers.
 
 ## Inventory and Seller Dependency
 
@@ -41,7 +41,7 @@ Automotive demand is cyclical and sensitive to credit availability, employment, 
 
 ## Capital Intensity and Network Effects
 
-While CarGurus generates strong [gross margins](/gross-profit-margin/) on its marketplace model, it must continuously invest in technology, customer acquisition, and seller-support infrastructure to compete. Network effects—the idea that more sellers attract more buyers and vice versa—favor the largest platforms, but they are not absolute. CarGurus must spend to maintain its position; lower investment would cede advantage to competitors. This capital intensity compresses returns and reduces [free cash flow](/free-cash-flow/) available for [shareholders](/common-stock/). If growth slows or competition intensifies, CarGurus may face pressure to cut spending, which would weaken the platform and accelerate decline.
+While CarGurus generates strong [gross margins](/gross-profit-margin/) on its marketplace model, it must continuously invest in technology, customer [acquisition](/acquisition/), and seller-support infrastructure to compete. Network effects—the idea that more sellers attract more buyers and vice versa—favor the largest platforms, but they are not absolute. CarGurus must spend to maintain its position; lower investment would cede advantage to competitors. This capital intensity compresses returns and reduces [free cash flow](/free-cash-flow/) available for [shareholders](/common-stock/). If growth slows or competition intensifies, CarGurus may face pressure to cut spending, which would weaken the platform and accelerate decline.
 
 ---
 

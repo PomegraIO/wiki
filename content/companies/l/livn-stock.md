@@ -66,7 +66,7 @@ Check LivaNova's debt levels and interest expense. Is debt growing faster than r
 
 Start with the 10-K and understand the product portfolio. Which devices generate revenue? What percentage each? Then research the clinical evidence for each device: Do independent studies show efficacy? Have there been adverse events or safety warnings? Physician perception matters immensely; a device with strong clinical evidence and strong physician support is more valuable than a device with weaker evidence.
 
-Next, track the pipeline. Research LivaNova's recent SEC filings for mentions of clinical trials, FDA submissions, or approvals. Compare to competitors: What are Medtronic, Boston Scientific, or St. Jude Medical launching? Is LivaNova keeping pace, or is it falling behind in innovation?
+Next, track the pipeline. Research LivaNova's recent SEC filings for mentions of clinical trials, FDA submissions, or approvals. Compare to competitors: What are Medtronic, [Boston Scientific](/bsx-stock/), or St. Jude Medical launching? Is LivaNova keeping pace, or is it falling behind in innovation?
 
 Then assess reimbursement. Look for announcements of new CPT codes, coverage policies from major insurers, or pricing changes. A company securing new reimbursement for a mature device can extend its lifecycle; loss of reimbursement is a hidden revenue risk.
 

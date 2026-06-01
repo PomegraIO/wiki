@@ -17,7 +17,7 @@ keywords: ["mining", "silver", "exploration", "commodities", "precious metals", 
 
 ## The Commodity Cycle Dominates Near-Term Value
 
-Silver prices are highly cyclical, driven by a mix of macro factors: real interest rates, US dollar strength, industrial demand, investment demand, and speculative positioning. When confidence in financial assets declines, investors seek safety in precious metals, and silver rallies. When growth accelerates and central banks tighten, silver often falls as investors rotate back to equities and higher rates make non-yielding assets less attractive. Over the past twenty years, silver has traced a volatile path: rallying sharply in 2007–2011, declining through 2015, rallying again in 2019–2021, and continuing to fluctuate in response to Fed policy and growth expectations.
+Silver prices are highly cyclical, driven by a mix of macro factors: [real interest rates](/real-interest-rate/), [US dollar](/us-dollar/) strength, industrial demand, investment demand, and speculative positioning. When confidence in financial assets declines, investors seek safety in precious metals, and silver rallies. When growth accelerates and [central banks](/central-bank/) tighten, silver often falls as investors rotate back to equities and higher rates make non-yielding assets less attractive. Over the past twenty years, silver has traced a volatile path: rallying sharply in 2007–2011, declining through 2015, rallying again in 2019–2021, and continuing to fluctuate in response to Fed policy and growth expectations.
 
 This cycle is deeply relevant to Klondike. The company is not yet generating revenue from silver production, so it does not directly benefit from high prices through margin expansion. Instead, high silver prices improve the economics of undeveloped deposits. A project that breaks even at $18 per ounce of silver looks vastly more attractive to investors and potential partners when silver trades at $30 per ounce. The higher the metal price, the lower the break-even cost can be while still justifying large development capex and long mine timelines. Conversely, when prices fall sharply, projects that seemed marginal become uneconomical, financing becomes harder to raise, and exploration budgets shrink across the industry.
 
@@ -39,9 +39,9 @@ Klondike, as an exploration and development company, is responsible for proving 
 
 ## Capital Structure and Funding Needs
 
-A company like Klondike with no production is dependent on equity markets and strategic partners for capital. The company likely has minimal debt (beyond perhaps a small credit facility) because lenders require cash flow collateral. Equity is the primary funding source. This means that Klondike's stock is its currency—management must preserve it for future rounds and for potential acquisitions or partnerships. Every equity raise dilutes existing shareholders, so the company is incentivized to raise only when necessary and to deploy it efficiently.
+A company like Klondike with no production is dependent on equity markets and strategic partners for capital. The company likely has minimal debt (beyond perhaps a small credit facility) because lenders require cash flow collateral. Equity is the primary funding source. This means that Klondike's stock is its currency—management must preserve it for future rounds and for potential [acquisitions](/acquisition/) or partnerships. Every equity raise dilutes existing shareholders, so the company is incentivized to raise only when necessary and to deploy it efficiently.
 
-Klondike's ability to advance its projects depends on accessing public markets or striking partnerships with larger miners. In a bullish metals market with strong investor sentiment, capital is available. In a bear market, especially one driven by a commodity downturn, capital becomes scarce and expensive. The company may be forced to sell assets, merge with a stronger partner, or enter a slow-burn preservation phase.
+Klondike's ability to advance its projects depends on accessing public markets or striking partnerships with larger miners. In a bullish metals market with strong investor sentiment, capital is available. In a [bear market](/bear-market/), especially one driven by a commodity downturn, capital becomes scarce and expensive. The company may be forced to sell assets, merge with a stronger partner, or enter a slow-burn preservation phase.
 
 ## Reading the 10-K: What to Look For
 
@@ -51,7 +51,7 @@ Investors evaluating Klondike should examine the [10-k](/10-k/) filing for: (1) 
 
 ### Closely related
 
-- /commodity-cycle/ — how commodity prices drive business cycles
+- /commodity-cycle/ — how commodity prices drive [business cycles](/business-cycle/)
 - [/stock/](/stock/) — equity analysis for cyclical sectors
 - /precious-metals/ — silver, gold, and industrial metals markets
 

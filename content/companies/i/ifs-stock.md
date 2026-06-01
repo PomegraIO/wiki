@@ -22,7 +22,7 @@ handwritten: true
 **Key Brand:** Interbank  
 </aside>
 
-Intercorp Financial Services is Peru's leading financial-services conglomerate, controlling the country's largest commercial bank (Interbank) and operating a broad portfolio spanning consumer banking, insurance, and asset management. The company serves millions of retail and corporate customers across Peru and into the broader Andean region, making it one of Latin America's significant financial institutions by asset base and market presence.
+Intercorp Financial Services is Peru's leading financial-services conglomerate, controlling the country's largest commercial bank (Interbank) and operating a broad portfolio spanning consumer banking, insurance, and asset management. The company serves millions of retail and corporate customers across Peru and into the broader Andean region, making it one of Latin America's significant [financial institutions](/fisi-stock/) by asset base and market presence.
 
 ## The Peruvian Banking Architecture
 

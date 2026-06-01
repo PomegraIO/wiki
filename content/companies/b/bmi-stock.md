@@ -37,7 +37,7 @@ This software component is new margin. A utility pays not just for the meter but
 
 Badger's core market is water utilities—public agencies that supply cities and suburbs. In the US, thousands of small and mid-sized utilities exist. Badger sells to many of them, but so do competitors. No single utility is large enough to represent most of Badger's business.
 
-International markets—Europe, Asia, Australia—are growing, but metering infrastructure is less developed in emerging nations. Badger's geographic diversification reduces dependence on any one market or regulation.
+International markets—Europe, Asia, Australia—are growing, but metering infrastructure is less developed in emerging nations. Badger's geographic [diversification](/diversification/) reduces dependence on any one market or regulation.
 
 Badger also sells to industrial customers—oil and gas, chemicals, pharmaceuticals, food processing—where flow measurement is critical. These sales are smaller in number but often larger per transaction, since industrial applications require specialized or custom equipment.
 

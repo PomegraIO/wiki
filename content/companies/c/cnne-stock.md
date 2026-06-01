@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Cannae Holdings is a holding company — a parent entity that owns and operates several independent businesses and also holds passive equity stakes in public companies. Unlike a financial investor or [mutual fund](/mutual-fund/) that merely holds securities, Cannae actively operates some of its businesses, making strategic decisions about how they are run. The company generates returns partly from the profits of operating companies (insurance, services) and partly from appreciation or dividends on public equity investments. Its performance depends on the skill of management in running operations and selecting investments, not on market forces or sector trends.*
+*Cannae Holdings is a holding company — a parent entity that owns and operates several independent businesses and also holds passive equity stakes in public companies. Unlike a financial investor or [mutual fund](/mutual-fund/) that merely holds securities, Cannae actively operates some of its businesses, making strategic decisions about how they are run. The company generates returns partly from the profits of operating companies (insurance, services) and partly from appreciation or [dividends](/dividend/) on public equity investments. Its performance depends on the skill of management in running operations and selecting investments, not on market forces or sector trends.*
 
 <aside class="wiki-infobox">
 <table>
@@ -30,9 +30,9 @@ Cannae Holdings operates as a parent company with two distinct types of assets: 
 
 The operating businesses segment includes insurance operations and financial services. These are businesses where Cannae management makes operating decisions, sets strategy, and appoints leadership. Cannae consolidates the revenues, costs, and profits of these operations into its own financial statements.
 
-The investment segment is a portfolio of equity stakes — public company shares and stakes in private companies. These are typically minority positions or large stakes without operational control. Cannae reports these at their current fair value and realizes gains or losses when it sells them.
+The investment segment is a portfolio of equity stakes — public company shares and stakes in private companies. These are typically minority positions or large stakes without operational control. Cannae reports these at their current [fair value](/fair-value/) and realizes gains or losses when it sells them.
 
-This dual-asset structure is common in holding companies (think of Berkshire Hathaway, which owns operating subsidiaries like insurance and utilities, and also maintains a $600+ billion portfolio of public equity). The model allows a holding company to be part-conglomerate (operating multiple businesses) and part-investor (capturing external growth through security appreciation).
+This dual-asset structure is common in holding companies (think of [Berkshire Hathaway](/brk-b-stock/), which owns operating subsidiaries like insurance and utilities, and also maintains a $600+ billion portfolio of public equity). The model allows a holding company to be part-conglomerate (operating multiple businesses) and part-investor (capturing external growth through security appreciation).
 
 ## Operating segment: insurance and related services
 
@@ -76,7 +76,7 @@ This regulatory structure means that Cannae cannot simply extract all profits fr
 
 Cannae occasionally acquires operating businesses or makes large equity investments. These transactions require capital and change the composition of the holding company's assets. The company might acquire a subsidiary that complements its insurance operations, or it might take a large stake in a company it believes is undervalued.
 
-The success of these moves depends on purchase price (paying a good price increases returns) and on subsequent performance (whether the acquired or invested-in company appreciates in value or generates strong returns). Overpaying for acquisitions or making bad investment calls can destroy shareholder value.
+The success of these moves depends on purchase price (paying a good price increases returns) and on subsequent performance (whether the acquired or invested-in company appreciates in value or generates strong returns). Overpaying for [acquisitions](/acquisition/) or making bad investment calls can destroy shareholder value.
 
 ## Taxes and shareholder returns
 
@@ -90,6 +90,6 @@ Cannae's 10-K (CIK 1704720) provides detailed financial statements showing opera
 
 Track the insurance underwriting results separately from investment gains. A company posting large net income from investment gains may be masking weak operating performance; conversely, strong underwriting profits may be obscured by investment losses in a down market.
 
-Key metrics include insurance underwriting profit (premiums less claims and operating costs), operating return on equity, investment portfolio composition and realized/unrealized gains, book value per share (which incorporates both operating assets and investments), and the [price-to-book ratio](/price-to-book-ratio/) (which reveals whether the market values the company's assets above or below carrying value).
+Key metrics include insurance underwriting profit (premiums less claims and operating costs), operating [return on equity](/return-on-equity/), investment portfolio composition and realized/unrealized gains, book value per share (which incorporates both operating assets and investments), and the [price-to-book ratio](/price-to-book-ratio/) (which reveals whether the market values the company's assets above or below carrying value).
 
-Monitor insurance loss reserves and claims development for any signs of reserve inadequacy (claiming too little and later having to pay more). Watch for major additions to or exits from the investment portfolio, and assess whether management is making disciplined investment decisions or trading actively and unpredictably. Track capital allocation — are retained earnings being deployed into operations, investments, or returned to shareholders? And monitor the regulatory capital position of insurance subsidiaries, as capital constraints can limit growth and dividend capacity.
+Monitor insurance loss reserves and claims development for any signs of reserve inadequacy (claiming too little and later having to pay more). Watch for major additions to or exits from the investment portfolio, and assess whether management is making disciplined investment decisions or trading actively and unpredictably. Track capital allocation — are [retained earnings](/retained-earnings/) being deployed into operations, investments, or returned to shareholders? And monitor the regulatory capital position of insurance subsidiaries, as capital constraints can limit growth and dividend capacity.

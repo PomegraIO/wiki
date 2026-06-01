@@ -66,7 +66,7 @@ Third is relationship stickiness. Insurance brokerage and benefits consulting ar
 
 ## Growth and profitability drivers
 
-Marsh & McLennan has grown through a combination of organic revenue growth and [acquisitions](/acquisition/). The organic growth comes from underlying drivers: [inflation](/inflation/) in corporate revenue and asset bases means more to insure and more complex compensation plans to administer. [Mergers](/merger/) and acquisitions in the [target](/tgt-stock/) markets add scale and capability. The company has acquired specialized consulting firms, benefits-administration platforms, and niche brokerages in recent years to expand into adjacent services.
+Marsh & McLennan has grown through a combination of organic revenue growth and [acquisitions](/acquisition/). The organic growth comes from underlying drivers: [inflation](/inflation/) in corporate revenue and asset bases means more to insure and more complex compensation plans to administer. [Mergers](/merger/) and acquisitions in the target markets add scale and capability. The company has acquired specialized consulting firms, benefits-administration platforms, and niche brokerages in recent years to expand into adjacent services.
 
 Profitability is highest in Risk & Insurance, where brokerage commissions flow through with relatively little incremental cost once a client relationship is established. Mercer consulting has lower margins because consulting is more labor-intensive — you must staff projects with experienced people, and those people have significant costs. But Mercer's higher revenue visibility (large, long-term client relationships) and the stickiness of benefits consulting has made it increasingly central to the company's strategy.
 

@@ -17,7 +17,7 @@ keywords: ["autonomous vehicles", "trucking software", "self-driving", "logistic
 
 ## The per-mile cost target
 
-A long-haul trucking operation incurs roughly $0.30 to $0.45 per mile in driver labor cost, depending on wages, benefits, and utilization rates in a given region and time. Fuel, maintenance, and vehicle depreciation add another $0.30 to $0.50 per mile. A fleet operator's profit margin on a loaded mile is the freight rate minus all-in per-mile cost. If a long-haul lane yields $1.50 per mile in revenue and all-in variable cost is $0.80 per mile, the contribution is $0.70 per mile. Driver labor is typically 40–50% of the variable cost, so a 20% reduction in per-mile labor cost—from $0.40 to $0.32—translates directly to $0.08 per mile of additional profit.
+A long-haul trucking operation incurs roughly $0.30 to $0.45 per mile in driver labor cost, depending on wages, benefits, and utilization rates in a given region and time. Fuel, maintenance, and vehicle [depreciation](/depreciation/) add another $0.30 to $0.50 per mile. A fleet operator's profit margin on a loaded mile is the freight rate minus all-in per-mile cost. If a long-haul lane yields $1.50 per mile in revenue and all-in variable cost is $0.80 per mile, the contribution is $0.70 per mile. Driver labor is typically 40–50% of the variable cost, so a 20% reduction in per-mile labor cost—from $0.40 to $0.32—translates directly to $0.08 per mile of additional profit.
 
 Cyngn's technology aims to capture this opportunity by substituting driver labor with autonomous operation or remote monitoring. If the firm can reduce per-mile operating cost by $0.10 through autonomous or enhanced remote operation, and can charge customers a software fee of $0.03–$0.05 per mile to access this savings, the unit economics of adoption become attractive: the fleet operator nets $0.05–$0.07 per mile in new profit, and Cyngn captures a portion of the value.
 
@@ -53,7 +53,7 @@ Cyngn competes with other autonomous-driving startups (Waymo Trucking, Aurora, E
 
 ## Key metrics for investors
 
-Examine the [10-K](/10-K/) for deployed units (number of trucks running Cyngn software), total mileage under operation, per-mile revenue, customer retention, and unit economics of customer acquisition. Growth in deployed miles and stable or improving per-mile revenue are signs of progress. Declining per-mile revenue or customer churn suggest adoption is slowing or the economics are not compelling.
+Examine the [10-K](/10-K/) for deployed units (number of trucks running Cyngn software), total mileage under operation, per-mile revenue, customer retention, and unit economics of customer [acquisition](/acquisition/). Growth in deployed miles and stable or improving per-mile revenue are signs of progress. Declining per-mile revenue or customer churn suggest adoption is slowing or the economics are not compelling.
 
 <div class="wiki-seealso">
 ### Closely related

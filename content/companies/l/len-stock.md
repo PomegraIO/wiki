@@ -54,7 +54,7 @@ Cash flow is lumpy. Homes are sold and handed over at discrete moments. If Lenna
 
 ## Competitive position and industry structure
 
-The U.S. homebuilding industry is dominated by a handful of large public companies. D.R. Horton, [Toll Brothers](/tol-stock/), and Lennar are the big three by volume. Others like PulteGroup, Meritage Homes, and M/I Homes compete heavily in certain regions. Below them is a long tail of regional and local builders.
+The U.S. homebuilding industry is dominated by a handful of large public companies. D.R. Horton, [Toll Brothers](/tol-stock/), and Lennar are the big three by volume. Others like PulteGroup, [Meritage Homes](/mth-stock/), and [M/I Homes](/mho-stock/) compete heavily in certain regions. Below them is a long tail of regional and local builders.
 
 Lennar's scale offers advantages: purchasing power on materials and labor, access to capital, national operational playbooks, and the ability to absorb regional downturns. Scale also creates inertia and complexity, making the company less nimble than smaller builders in adjusting to local preferences.
 

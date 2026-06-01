@@ -11,7 +11,7 @@ handwritten: true
 
 Pershing Square Inc. is the public vehicle through which the activist hedge fund Pershing Square Capital Management deploys capital. Listed on the [New York Stock Exchange](/wiki/new-york-stock-exchange/) under the ticker PS, the company operates as a [closed-end fund](/wiki/closed-end-fund/) — a fixed-pool investment structure that holds stakes in publicly traded and private companies where the firm identifies operational improvement opportunities or mispriced assets.
 
-[Bill Ackman](/bill-ackman/) founded Pershing Square Capital Management in 2004, building a reputation for high-conviction, concentrated bets on company turnarounds and activist campaigns. The publicly traded Pershing Square Inc. itself went public in 2011 as PSH, and later restructured its [share class](/share-class/) in 2022 under the ticker symbol PS. The firm's playbook revolves around acquiring meaningful stakes in [target](/tgt-stock/) companies, then pressing for governance changes, operational refocus, asset sales, or capital restructuring to unlock value.
+[Bill Ackman](/bill-ackman/) founded Pershing Square Capital Management in 2004, building a reputation for high-conviction, concentrated bets on company turnarounds and activist campaigns. The publicly traded Pershing Square Inc. itself went public in 2011 as PSH, and later restructured its [share class](/share-class/) in 2022 under the ticker symbol PS. The firm's playbook revolves around acquiring meaningful stakes in target companies, then pressing for governance changes, operational refocus, asset sales, or capital restructuring to unlock value.
 
 ## The Fund Structure and Capital
 

@@ -74,7 +74,7 @@ Webster faces several structural headwinds:
 
 Webster is best understood as a stable, profitable, but constrained regional franchise. It is not a growth story—the Northeast is mature, construction is cyclical, and deposit markets are competitive. Instead, Webster's value proposition is steady earnings, a defensible deposit base (HSA and relationship-driven), and controlled risk. The [stock](/wiki/stock/) appeals to investors seeking banking exposure with a modest yield and below-market volatility, rather than to those chasing growth.
 
-The company faces a long-term question: whether it remains independent or becomes an [acquisition](/acquisition/) [target](/tgt-stock/). At current valuations, a larger bank could justify acquiring Webster for its deposit franchise and construction lending platform, particularly if consolidation economics improve. Webster's management has navigated this position capably, but the company's future is partly contingent on trends in regional banking consolidation and whether regulatory reform reduces the compliance burden on mid-size banks.
+The company faces a long-term question: whether it remains independent or becomes an [acquisition](/acquisition/) target. At current valuations, a larger bank could justify acquiring Webster for its deposit franchise and construction lending platform, particularly if consolidation economics improve. Webster's management has navigated this position capably, but the company's future is partly contingent on trends in regional banking consolidation and whether regulatory reform reduces the compliance burden on mid-size banks.
 
 ## How to Research It
 

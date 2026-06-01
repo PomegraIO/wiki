@@ -41,7 +41,7 @@ Large agricultural operations require seasonal and permanent labor: tractor oper
 
 ## Cattle Raising and Livestock Operations
 
-BrasilAgro integrates cattle operations, particularly on pasture-based systems where land unsuitable for crops can support grazing herds. Cattle provide diversification and higher per-acre returns than native pasture but require pasture management, veterinary care, and access to buyers (slaughterhouses). Cattle also face commodity price volatility and disease risk. Livestock operations are capital-intensive (breeding herds, veterinary infrastructure) and require specialized expertise. The company may partner with or license its land to other cattle operators, capturing a lease payment rather than operating cattle itself.
+BrasilAgro integrates cattle operations, particularly on pasture-based systems where land unsuitable for crops can support grazing herds. Cattle provide [diversification](/diversification/) and higher per-acre returns than native pasture but require pasture management, veterinary care, and access to buyers (slaughterhouses). Cattle also face commodity price volatility and disease risk. Livestock operations are capital-intensive (breeding herds, veterinary infrastructure) and require specialized expertise. The company may partner with or license its land to other cattle operators, capturing a lease payment rather than operating cattle itself.
 
 ## Environmental Regulation and Native Vegetation Compliance
 
@@ -49,7 +49,7 @@ Brazil's environmental law requires preservation of native cerrado and Amazon ve
 
 ## Commodity Price Exposure and Revenue Timing
 
-BrasilAgro's earnings move with soybean, maize, and cattle prices. A global supply shock (bad harvest in the U.S. or Argentina, disease in major livestock regions) can lift prices and profits; oversupply depresses prices. The company has no control over commodity prices; it can only control costs and timing. Hedging via futures markets or forward contracts reduces downside risk but also caps upside if prices spike. The company's profitability is cyclical, sensitive to global commodity markets, exchange rates, and agricultural policy (tariffs, subsidies, export restrictions).
+BrasilAgro's earnings move with soybean, maize, and cattle prices. A global supply shock (bad harvest in the U.S. or Argentina, disease in major livestock regions) can lift prices and profits; oversupply depresses prices. The company has no control over commodity prices; it can only control costs and timing. Hedging via futures markets or [forward contracts](/forward-contract/) reduces downside risk but also caps upside if prices spike. The company's profitability is cyclical, sensitive to global commodity markets, exchange rates, and agricultural policy (tariffs, subsidies, export restrictions).
 
 ## Scale and Competitive Position
 

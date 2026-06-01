@@ -17,11 +17,11 @@ keywords: [community bank, NASDAQ, capital requirements, bank equity, deposits, 
 
 ## Capital Requirements and Regulatory Leverage
 
-EWSB Bancorp operates as a community bank, which means it is a heavily regulated financial institution. The Federal Reserve and the FDIC mandate that banks maintain minimum capital ratios: the amount of [shareholders' equity](/balance-sheet/) (capital) must exceed a percentage of the bank's total assets (typically 10–12% for well-capitalized institutions). This is not a suggestion; it is a binding constraint enforced through examination and, if violated, through regulatory penalties or forced asset sales.
+EWSB Bancorp operates as a community bank, which means it is a heavily regulated financial institution. The [Federal Reserve](/federal-reserve/) and the FDIC mandate that banks maintain minimum capital ratios: the amount of [shareholders' equity](/balance-sheet/) (capital) must exceed a percentage of the bank's total assets (typically 10–12% for well-capitalized institutions). This is not a suggestion; it is a binding constraint enforced through examination and, if violated, through regulatory penalties or forced asset sales.
 
 This capital requirement fundamentally shapes how much the bank can lend and, therefore, how much it can grow. If EWSB has $100 million in [shareholders' equity](/balance-sheet/), and regulators require 10% capital, the bank can have up to $1 billion in assets on its balance sheet. To grow beyond that, the bank must raise more capital—either by retaining earnings (if profitable) or by issuing new [stock](/common-stock/).
 
-This is the inverse of a non-bank business: a software company can borrow $10 for every dollar of equity if a lender allows it (a 10:1 leverage ratio), because there is no regulator mandating capital minimums. A bank is capped at 10:1 leverage, and often required to be even more conservative. This regulated leverage ratio is why bank returns depend critically on [profitability](/income-statement/) and capital raises: the bank cannot simply borrow its way to growth.
+This is the inverse of a non-bank business: a software company can borrow $10 for every dollar of equity if a lender allows it (a 10:1 [leverage ratio](/leverage-ratio-forex/)), because there is no regulator mandating capital minimums. A bank is capped at 10:1 leverage, and often required to be even more conservative. This regulated leverage ratio is why bank returns depend critically on [profitability](/income-statement/) and capital raises: the bank cannot simply borrow its way to growth.
 
 ## Funding: Deposits as the Primary Liability
 
@@ -31,7 +31,7 @@ This deposit funding model shapes EWSB's capital structure fundamentally. The ba
 
 For a community bank like EWSB, the stability of the deposit base matters greatly. If customers lose confidence in the bank and withdraw deposits en masse, the bank must either sell assets (potentially at fire-sale prices) or borrow from other sources (which is expensive and painful). Banks with stable, customer-relationship-based deposits are more resilient than banks funded by wholesale borrowing.
 
-EWSB's geographic focus—it is Maryland-chartered, implying concentration in Maryland or nearby states—shapes its deposit-gathering potential. A bank deeply rooted in a local community, with relationships with small businesses and individuals, can build a sticky deposit base. A bank in a competitive market must pay higher interest rates to attract and retain deposits.
+EWSB's geographic focus—it is Maryland-chartered, implying concentration in Maryland or nearby states—shapes its deposit-gathering potential. A bank deeply rooted in a local community, with relationships with small businesses and individuals, can build a sticky deposit base. A bank in a competitive market must pay higher [interest rates](/interest-rate/) to attract and retain deposits.
 
 ## Net Interest Margin: The Economic Engine
 
@@ -45,7 +45,7 @@ In a rising-interest-rate environment, banks with variable-rate loans benefit—
 
 Regulators allow banks to return capital to shareholders through [dividends](/dividend/) only if the bank exceeds minimum capital ratios by a comfortable margin. A bank with exactly 10.5% capital ratio (just above minimum) cannot pay dividends; a bank with 13% capital can. This creates a ceiling on shareholder distributions.
 
-EWSB's ability to pay [dividends](/dividend/) depends on its profitability (which generates retained earnings that maintain capital ratios) and its growth rate. A bank that is growing loans slowly can afford higher [dividend payouts](/dividend/); a bank growing at 15% annually requires most of its profits to be retained to support the growth.
+EWSB's ability to pay [dividends](/dividend/) depends on its profitability (which generates [retained earnings](/retained-earnings/) that maintain capital ratios) and its growth rate. A bank that is growing loans slowly can afford higher [dividend payouts](/dividend/); a bank growing at 15% annually requires most of its profits to be retained to support the growth.
 
 When EWSB took steps to go public (via a [stock offering](/initial-public-offering/)), it raised equity capital to meet regulatory minimums and fund growth. Public shareholders now own a stake in that capital. The [dividends](/dividend/) they receive are limited by regulation and the bank's profitability and growth rate—a different calculus than for a non-bank public company.
 
@@ -69,13 +69,13 @@ This is why profitability is existential for community banks in a way it is not 
 
 EWSB faces structural exposure to interest rates. If the Fed raises rates sharply, the bank's loan yields rise, but its deposit costs also rise (competitors offer higher rates for deposits). The lag and mix determine whether margins expand or compress. If the Fed cuts rates, the opposite happens.
 
-Regulators monitor banks' interest-rate risk through stress testing. Would EWSB's capital ratios remain above minimums if rates rose 200 basis points or fell 200 basis points? If not, the bank must restructure its balance sheet. This constraint shapes the bank's funding and lending decisions: a bank worried about falling rates might lock in long-term fixed-rate loans, even at lower current yields, to protect future margins.
+Regulators monitor banks' [interest-rate risk](/interest-rate-risk/) through [stress testing](/stress-testing/). Would EWSB's capital ratios remain above minimums if rates rose 200 basis points or fell 200 basis points? If not, the bank must restructure its balance sheet. This constraint shapes the bank's funding and lending decisions: a bank worried about falling rates might lock in long-term fixed-rate loans, even at lower [current yields](/current-yield/), to protect future margins.
 
 ## Mergers and Capital Raises
 
-Community banks often merge with each other or are acquired by larger regional banks. These transactions involve exchanges of [stock](/stock/) and debt and are evaluated through a capital-structure lens: does the combined entity have excess capital that can be deployed, or is it capital-constrained? Regulators must approve the merger and confirm that the combined entity maintains adequate capital.
+Community banks often merge with each other or are acquired by larger regional banks. These transactions involve exchanges of [stock](/stock/) and debt and are evaluated through a capital-structure lens: does the combined entity have excess capital that can be deployed, or is it capital-constrained? Regulators must approve the [merger](/merger/) and confirm that the combined entity maintains adequate capital.
 
-EWSB might also raise capital through secondary [stock offerings](/initial-public-offering/) to fund acquisition of other banks or to support organic growth. Each raise is an opportunity for existing shareholders to be diluted; underwriting fairness and valuation discipline are critical.
+EWSB might also raise capital through secondary [stock offerings](/initial-public-offering/) to fund [acquisition](/acquisition/) of other banks or to support organic growth. Each raise is an opportunity for existing shareholders to be diluted; underwriting fairness and valuation discipline are critical.
 
 ## The Capital Paradox for Community Banks
 

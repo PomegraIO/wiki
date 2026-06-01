@@ -4,7 +4,7 @@ description: "SPAC shell company with significant sponsor conflicts and capital-
 keywords: ["SPAC", "shell company", "sponsor risk", "capital structure", "equity dilution"]
 ---
 
-*[**BLUM HOLDINGS, INC.**](https://blumholdings.com) (ticker **BLMH**, [CIK 1996210](/10-k/)) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) that raised capital through a blank-check public offering and is seeking to acquire an operating business. As a shell entity, BLUM has no commercial operations, only the interests and incentives of its sponsors and shareholders—which often conflict, creating structural agency problems that predate any actual merger.*
+*[**BLUM HOLDINGS, INC.**](https://blumholdings.com) (ticker **BLMH**, [CIK 1996210](/10-k/)) is a [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC) that raised capital through a blank-check public offering and is seeking to acquire an operating business. As a shell entity, BLUM has no commercial operations, only the interests and incentives of its sponsors and shareholders—which often conflict, creating structural agency problems that predate any actual [merger](/merger/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BLMH</td></tr>
@@ -23,7 +23,7 @@ This asymmetry creates a perverse incentive: sponsors are motivated to complete 
 
 ## The Redemption Overhang and Deal Certainty
 
-BLUM's success—measured by whether it can complete a meaningful acquisition—depends on keeping public shareholders' redemption rate below certain thresholds. If redemptions exceed the target company's required capital, the deal may become uneconomical or impossible to complete. Sponsors and targets then engage in complex negotiations around earnouts, sponsor equity rolls, and additional financing to close the gap. These negotiations often result in deal structures that favor early insiders (sponsors and targets with favorable terms) at the expense of late-arriving public shareholders.
+BLUM's success—measured by whether it can complete a meaningful [acquisition](/acquisition/)—depends on keeping public shareholders' redemption rate below certain thresholds. If redemptions exceed the target company's required capital, the deal may become uneconomical or impossible to complete. Sponsors and targets then engage in complex negotiations around earnouts, sponsor equity rolls, and additional financing to close the gap. These negotiations often result in deal structures that favor early insiders (sponsors and targets with favorable terms) at the expense of late-arriving public shareholders.
 
 Additionally, the more popular SPAC investing becomes (attracting passive investors to SPACs as a asset class), the more likely that redemptions will be elevated—forcing sponsors to pursue deals at lower prices or with higher dilution to existing public shareholders to make the math work.
 

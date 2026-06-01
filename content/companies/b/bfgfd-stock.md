@@ -4,7 +4,7 @@ description: "Mining exploration and development company operating in the United
 keywords: [mining, mineral exploration, resource extraction, OTC markets, mining operations]
 ---
 
-*Mining is a bet on three things: the price of a commodity, the size of the deposit, and the ability to extract it profitably. **Giant Mining Corp.** (ticker **BFGFD**, CIK 1836503) is a small public company trading in the over-the-counter market, focused on exploration and development of mineral properties in the United States. Unlike large mining companies that own operating mines generating revenue, Giant Mining is earlier stage—it owns or controls land and has conducted geological surveys and drilling to estimate mineral resources, but the mines themselves may not yet be in full production or may be in development phases. This makes it a speculative investment; the company makes money only when it discovers something valuable and converts the land into a producing asset.*
+*Mining is a bet on three things: the price of a commodity, the size of the deposit, and the ability to extract it profitably. **[Giant Mining](/bfgff-stock/) Corp.** (ticker **BFGFD**, CIK 1836503) is a small public company trading in the [over-the-counter market](/over-the-counter-market/), focused on exploration and development of mineral properties in the United States. Unlike large mining companies that own operating mines generating revenue, Giant Mining is earlier stage—it owns or controls land and has conducted geological surveys and drilling to estimate mineral resources, but the mines themselves may not yet be in full production or may be in development phases. This makes it a speculative investment; the company makes money only when it discovers something valuable and converts the land into a producing asset.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BFGFD</td></tr>
@@ -49,7 +49,7 @@ Small explorers have no control over commodity prices. They can only control dis
 
 ## Regulatory and environmental risk
 
-Mining is heavily regulated. Environmental permits, mining permits, water rights, reclamation bonds, and community consultation are all mandatory. In the United States, companies must comply with the National Environmental Policy Act, the Clean Water Act, and state-specific mining regulations. Permitting timelines can be years. Public opposition can block projects entirely.
+Mining is heavily regulated. Environmental permits, mining permits, water rights, reclamation [bonds](/bond/), and community consultation are all mandatory. In the United States, companies must comply with the National Environmental Policy Act, the Clean Water Act, and state-specific mining regulations. Permitting timelines can be years. Public opposition can block projects entirely.
 
 For Giant Mining, these risks are real but somewhat deferred—the company does not yet operate a mine, so most environmental compliance costs are downstream. However, public opposition or regulatory changes that restrict mining in an area can invalidate a property. Companies must track regulatory trends and ensure that proposed mining sites do not overlap with protected lands or sensitive ecosystems.
 

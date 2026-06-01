@@ -1,0 +1,25 @@
+---
+title: "Blackstone Senior Floating Rate 2027 Term Fund (BSL)"
+description: "Blackstone Senior Floating Rate 2027 Term Fund is a closed-end investment fund that holds senior secured loans with interest rates that reset periodically, managed by Blackstone's credit arm."
+keywords:
+  - closed-end fund
+  - senior loans
+  - floating rate
+  - credit investing
+  - leverage
+handwritten: true
+---
+
+Blackstone Senior Floating Rate 2027 Term Fund (NYSE: BSL) is a closed-end investment fund focused on a single asset class: senior secured loans issued by private companies. The fund's name encodes its essential mechanics—loans that reset their [interest rates](/interest-rate/) periodically (floating rate), secured by collateral (senior in the capital structure), with a stated maturity in 2027.
+
+A [closed-end fund](/closed-end-fund/) differs fundamentally from the open-ended [mutual funds](/mutual-fund/) most retail investors encounter. With an [open-end fund](/open-end-fund/), shares are created and redeemed daily at [net asset value](/net-asset-value/); the fund's size expands or contracts as money flows in and out. A closed-end fund, by contrast, raises capital once through an initial offering, closes to new subscriptions, and then issues a fixed number of shares that trade on an exchange like a stock. That structural difference affects everything about how it operates. The fund's assets do not shrink when shareholders want to exit—they simply sell their shares to another investor at the prevailing market price, which may be above or below the fund's underlying net asset value.
+
+Blackstone's decision to launch a term fund with a specific 2027 maturity date reflects a particular hypothesis about both the credit environment and investor preferences. A term fund commits to a timeline rather than operating in perpetuity. The managers can build a portfolio with confidence that loans will mature into cash around a target date, reducing the need to constantly manage liquidity or sell assets into market stress. For investors, the maturity date provides a known endpoint—a moment when capital will be returned rather than rolled over indefinitely.
+
+Senior secured loans are issued by private companies, typically as part of the debt that finances a [leveraged buyout](/leveraged-buyout/), a [recapitalization](/recapitalization/), or growth capital. The word "senior" means these loans stand first in the queue if the company fails; secured means they have collateral backing them. In normal times, that priority and collateral reduce risk relative to unsecured [bonds](/bond/). The loans carry floating interest rates—typically reset quarterly or annually—that move with a benchmark like [SOFR](/sofr/) (Secured Overnight Financing Rate). This structure lets the lender capture the benefit if rates rise while protecting against the risk of holding fixed-rate debt during an inflationary cycle.
+
+Closed-end credit funds like BSL often use leverage—borrowing money to amplify returns. If the fund raises 500 million dollars from shareholders and borrows an additional 200 million, it can deploy 700 million into loans that yield, say, 6 percent, while the cost of borrowing is 4 percent. That 2 percent spread on the borrowed capital is magnified return on the equity investors' contribution. Leverage amplifies both gains and losses; in a benign credit environment with stable rates, the math works; in a stress scenario where loan values fall or leverage becomes expensive, returns can deteriorate sharply.
+
+The value of a closed-end fund's shares depends on three moving pieces: the underlying net asset value of the loans held, the supply and demand for the fund's shares on the exchange (which creates a discount or premium to NAV), and the cost and availability of leverage if the fund is using it. During periods when [credit spreads](/credit-spread/) are wide and investor appetite for credit is waning, both NAV and the share price can drift lower. During periods when loan demand is high and rates fall, both can appreciate.
+
+For a shareholder, the core question is whether Blackstone's credit team has assembled a portfolio of loans that will weather the economic cycle until 2027, capture the yield premium offered relative to safer alternatives, and manage leverage prudently. The experience and reputation of the credit managers matter enormously, as does the stability of the underlying borrowers. Investors should understand what industries the borrowed companies operate in, whether the loans are protected by financial covenants that restrict the borrowers' actions, and what the fund's [leverage ratio](/leverage-ratio-forex/) is. The presence of a fixed maturity date is a structural advantage if you believe credit will stabilize before 2027 and a constraint if credit conditions deteriorate. As with any closed-end fund, the discount or premium at which shares trade on the exchange can represent either opportunity or danger depending on investor sentiment relative to the underlying assets.

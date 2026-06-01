@@ -40,7 +40,7 @@ Dilution is inevitable at this stage. Early investors understand this; what they
 
 ## The Consolidation Pivot
 
-For many pre-commercial technology companies at Hyliion's stage, the realistic exit is acquisition or deep partnership rather than independent public-company maturity. An established OEM with distribution, manufacturing, and supply-chain advantages can absorb Hyliion's technology and deploy it at scale in a way Hyliion may never achieve alone. The question for Hyliion's investors and leadership is whether to build toward independence, position for partnership, or accept that the public-company path itself is the goal—that is, to remain public for as long as possible while selling enough of the narrative to hold the valuation.
+For many pre-commercial technology companies at Hyliion's stage, the realistic exit is [acquisition](/acquisition/) or deep partnership rather than independent public-company maturity. An established OEM with distribution, manufacturing, and supply-chain advantages can absorb Hyliion's technology and deploy it at scale in a way Hyliion may never achieve alone. The question for Hyliion's investors and leadership is whether to build toward independence, position for partnership, or accept that the public-company path itself is the goal—that is, to remain public for as long as possible while selling enough of the narrative to hold the valuation.
 
 ---
 

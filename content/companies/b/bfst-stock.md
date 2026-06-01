@@ -23,9 +23,9 @@ Non-interest income—fees from trust services, lending, and payment processing�
 
 ## Credit risk as a proxy for economic health
 
-The provision for credit losses is where BFST's management signals its view of the loan portfolio's riskiness. In strong economic periods, provisions are low; during stress, they rise sharply (sometimes years before loans actually default). The 10-K lists the allowance for credit losses as a percentage of total loans—watch whether this ratio is stable, rising, or shrinking relative to peers and the bank's own history. Look also at nonperforming loans (loans 90+ days past due) as a percentage of the total: a rising trend is a red flag even before defaults spike.
+The [provision for credit losses](/provision-for-credit-losses/) is where BFST's management signals its view of the loan portfolio's riskiness. In strong economic periods, provisions are low; during stress, they rise sharply (sometimes years before loans actually default). The 10-K lists the allowance for credit losses as a percentage of total loans—watch whether this ratio is stable, rising, or shrinking relative to peers and the bank's own history. Look also at nonperforming loans (loans 90+ days past due) as a percentage of the total: a rising trend is a red flag even before defaults spike.
 
-Regional banks often carry more loans to small businesses and real estate developers than national banks; these portfolios are sensitive to local employment, construction cycles, and commercial real estate values. Alabama's economy is tied to manufacturing, automotive, and logistics—industries cyclical but not dramatically so. A 10-K deep dive should map the loan portfolio by industry and geography to understand concentration risk.
+Regional banks often carry more loans to small businesses and real estate developers than national banks; these portfolios are sensitive to local employment, construction cycles, and [commercial real estate](/commercial-real-estate/) values. Alabama's economy is tied to manufacturing, automotive, and logistics—industries cyclical but not dramatically so. A 10-K deep dive should map the loan portfolio by industry and geography to understand [concentration risk](/concentration-risk/).
 
 ## Capital and return calculations
 
@@ -33,7 +33,7 @@ BFST's [balance-sheet](/balance-sheet/) shows the equity base—tangible common 
 
 [Return-on-equity](/return-on-equity/) is the headline metric for bank returns. BFST's ROE tells you whether the bank is deploying its capital efficiently. Community banks typically earn 8–12% ROE in normal years; anything significantly lower suggests operational drag or excessive provisioning.
 
-[Dividend](/dividend/) policy is also revealing. BFST's payout ratio (dividends as a percentage of earnings) shows whether management is returning cash to shareholders or retaining it to build capital. In competitive markets, banks that don't pay dividends are often rebuilding from stress; steady or rising dividend payouts signal confidence.
+[Dividend](/dividend/) policy is also revealing. BFST's [payout ratio](/payout-ratio/) (dividends as a percentage of earnings) shows whether management is returning cash to shareholders or retaining it to build capital. In competitive markets, banks that don't pay dividends are often rebuilding from stress; steady or rising dividend payouts signal confidence.
 
 ## Where to focus in the 10-K for BFST
 
@@ -41,7 +41,7 @@ Start with Item 1 (Business) to understand the footprint—which states, which t
 
 Item 1A (Risk Factors) often reads as boilerplate for large national banks, but for a regional player like BFST, local economic slowdown and competitive deposit pricing are the real risks. Watch for any mention of significant customers or industries concentrating deposits or loans.
 
-The leverage ratio (total assets divided by total equity) shows how much the bank is borrowing relative to its capital. For banks, leverage of 8–11x is typical and well within regulatory bounds. Higher leverage suggests either aggressive growth or thin capital buffers.
+The [leverage ratio](/leverage-ratio-forex/) (total assets divided by total equity) shows how much the bank is borrowing relative to its capital. For banks, leverage of 8–11x is typical and well within regulatory bounds. Higher leverage suggests either aggressive growth or thin capital buffers.
 
 ## Why BFST matters in research context
 

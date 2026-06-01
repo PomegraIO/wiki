@@ -48,7 +48,7 @@ Trial design must account for the rare toxicity signals that cell therapies can 
 
 The cell-therapy cancer space is increasingly crowded. Dozens of biotech firms are developing CAR-T, TCR-engineered T cells, NK cell therapies, and other engineered-cell approaches targeting solid tumors. Many are pursuing overlapping tumor types and antigens. This competition is increasing the likelihood that a therapeutic target will be "solved" by multiple companies simultaneously, eroding first-mover advantage. Candel's differentiation must lie in superior engineering (better CAR design, improved manufacturing, lower toxicity), not exclusive target access.
 
-Large pharmaceutical companies (Novartis, Juno Therapeutics, Bluebird Bio) also have cell-therapy programs and substantially more resources for clinical development, manufacturing scale-up, and commercialization. Candel, as a smaller biotech, is at a disadvantage in head-to-head competition but is not foreclosed from success if it can demonstrate superior efficacy or tolerability in its chosen indication. However, Candel cannot realistically compete at scale with large pharma on manufacturing infrastructure or marketing reach. The company's exit is likely acquisition by a larger firm (if successful) or closure (if unsuccessful).
+Large pharmaceutical companies ([Novartis](/nvs-stock/), Juno Therapeutics, Bluebird Bio) also have cell-therapy programs and substantially more resources for clinical development, manufacturing scale-up, and commercialization. Candel, as a smaller biotech, is at a disadvantage in head-to-head competition but is not foreclosed from success if it can demonstrate superior efficacy or tolerability in its chosen indication. However, Candel cannot realistically compete at scale with large pharma on manufacturing infrastructure or marketing reach. The company's exit is likely [acquisition](/acquisition/) by a larger firm (if successful) or closure (if unsuccessful).
 
 ## Reimbursement and Access Contingency
 
@@ -68,6 +68,6 @@ Candel's business model is entirely capital-dependent and risk-laden. The compan
 ### Wider context
 - [/balance-sheet/](/balance-sheet/) — tracking cash burn in biotech development
 - [/securities-and-exchange-commission/](/securities-and-exchange-commission/) — clinical trial reporting and disclosure
-- [/public-company/](/public-company/) — equity financing and dilution in early-stage biotech
+- [/public-company/](/public-company/) — [equity financing](/equity-financing/) and dilution in early-stage biotech
 
 </div>

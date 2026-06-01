@@ -29,7 +29,7 @@ MSGE's core asset is its venue portfolio, particularly the iconic Madison Square
 
 Capital spending on venue improvements is ongoing. Upgrading technology (video boards, sound systems, lighting), renovating seating areas, enhancing concession facilities, and expanding amenities require steady investment. Unlike a manufacturing business that can upgrade equipment gradually, venue operators must balance guest experience with cost management; allowing a venue to deteriorate degrades its competitive position and event attractiveness.
 
-The geographic location of a major venue is essentially fixed: MSG cannot be relocated if a better site emerges. This creates geographic concentration risk and dependence on the New York City market. Demand for entertainment in New York is generally strong, but economic downturns or shifts in entertainment preferences can affect attendance regardless of venue quality.
+The geographic location of a major venue is essentially fixed: MSG cannot be relocated if a better site emerges. This creates geographic [concentration risk](/concentration-risk/) and dependence on the New York City market. Demand for entertainment in New York is generally strong, but economic downturns or shifts in entertainment preferences can affect attendance regardless of venue quality.
 
 ## Tenant Relationships and Content Dependency
 
@@ -61,11 +61,11 @@ MSG benefits from brand recognition and historic prestige, but must continuously
 
 MSGE must finance venue operations and capital improvements through operating cash flow, debt, or equity. The event-based revenue model creates cash flow that, while generally stable, depends on maintaining a steady calendar of high-quality events. [Operating margins](/operating-margin/) depend on achieving sufficient attendance and ancillary spending to cover fixed costs of venue operation (staff, maintenance, utilities, insurance).
 
-Debt financing for venue operators is viable because event venues generate consistent cash flow, but high leverage can constrain financial flexibility. Capital-intensive improvements may require external financing, affecting [enterprise value](/enterprise-value/) and financial structure.
+[Debt financing](/debt-financing/) for venue operators is viable because event venues generate consistent cash flow, but high leverage can constrain financial flexibility. Capital-intensive improvements may require external financing, affecting [enterprise value](/enterprise-value/) and financial structure.
 
 ## [Dividend](/dividend/) and Shareholder Returns
 
-MSGE's ability to return cash to shareholders depends on whether operating cash flow exceeds capital reinvestment needs and debt service obligations. Venue operators may maintain [dividends](/dividend/) or conduct [share buybacks](/share-buyback/) if cash generation is strong and capital needs are manageable. However, any major venue renovation or acquisition would reduce distributable cash flow.
+MSGE's ability to return cash to shareholders depends on whether operating cash flow exceeds capital reinvestment needs and debt service obligations. Venue operators may maintain [dividends](/dividend/) or conduct [share buybacks](/share-buyback/) if cash generation is strong and capital needs are manageable. However, any major venue renovation or [acquisition](/acquisition/) would reduce distributable cash flow.
 
 ## Investment Research Directions
 

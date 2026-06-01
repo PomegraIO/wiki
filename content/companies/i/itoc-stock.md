@@ -34,7 +34,7 @@ Seasonal demand also shapes capacity strategy. If functional drinks sell more st
 
 In a commodity beverage market, brands are valuable. A private-label juice is a generic product that trades on price; a branded functional drink with a recognized formula, a loyal customer base, and a reputation for quality can sustain premium pricing. iTonic's ability to charge $2.50 wholesale per bottle instead of $1.50 depends on whether its brand or product differentiation justifies that price to consumers.
 
-Pricing power varies by channel. Direct-to-consumer sales (e.g., online or branded retail) carry higher wholesale margins but require customer acquisition and fulfillment investment. Supermarket shelves are commoditized; the retailer extracts maximum margin and drives manufacturers to compete on price. Specialty retailers—gyms, health-food stores, smoothie bars—may accept higher wholesale prices if the product's brand supports retail margins.
+Pricing power varies by channel. Direct-to-consumer sales (e.g., online or branded retail) carry higher wholesale margins but require customer [acquisition](/acquisition/) and fulfillment investment. Supermarket shelves are commoditized; the retailer extracts maximum margin and drives manufacturers to compete on price. Specialty retailers—gyms, health-food stores, smoothie bars—may accept higher wholesale prices if the product's brand supports retail margins.
 
 The company's growth depends on whether it can launch new flavors or formulations that command premium pricing or penetrate new channels that offer higher margins than its existing distribution. A me-too functional drink competes mainly on price; a novel formula or unique positioning might earn an extra 20 cents per bottle wholesale—which doubles profitability if costs remain flat.
 
@@ -50,7 +50,7 @@ Retailers also manage their own inventory and expect consistent product availabi
 
 The beverage industry has thin gross margins relative to branded consumer goods. A 40–60% gross margin (what remains after COGS) is typical; this must cover all other expenses. Any pressure on wholesale pricing—from retailer demands, from competitors undercutting price, from private-label alternatives—directly erodes profitability.
 
-Raw material cost inflation (juice concentrate prices spike in drought years; plastic and aluminum tracking commodity prices) can wipe out margins overnight if wholesale prices don't adjust. Conversely, consolidation among retailers (fewer, larger buyers) increases bargaining power, forcing manufacturers to cut prices or lose distribution.
+Raw material cost [inflation](/inflation/) (juice concentrate prices spike in drought years; plastic and aluminum tracking commodity prices) can wipe out margins overnight if wholesale prices don't adjust. Conversely, consolidation among retailers (fewer, larger buyers) increases bargaining power, forcing manufacturers to cut prices or lose distribution.
 
 iTonic's path to sustainable unit economics rests on whether it can maintain differentiation (brand, formulation, or channel) that justifies above-commodity pricing, or on whether it can achieve cost leadership through scale or operational efficiency. A middling player—not differentiated enough to command premium pricing, not large enough to achieve low-cost status—is vulnerable to margin compression and struggles to fund growth.
 

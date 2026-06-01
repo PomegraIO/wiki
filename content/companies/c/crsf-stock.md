@@ -16,7 +16,7 @@ keywords: ["manufacturing", "aerospace", "defense", "precision engineering", "in
 
 ## The Supply-Chain Tier
 
-Crisp Momentum is what the defense and aerospace industry calls a second- or third-tier supplier. First-tier primes—Lockheed Martin, Boeing, Raytheon—design and assemble major systems. They source subcomponents from suppliers like Crisp Momentum. Those subcomponents might be precision-machined housings, fastener assemblies, avionics brackets, or other metal or composite parts that must meet exacting tolerances and regulatory standards.
+Crisp Momentum is what the defense and aerospace industry calls a second- or third-tier supplier. First-tier primes—[Lockheed Martin](/lmt-stock/), [Boeing](/ba-stock/), Raytheon—design and assemble major systems. They source subcomponents from suppliers like Crisp Momentum. Those subcomponents might be precision-machined housings, fastener assemblies, avionics brackets, or other metal or composite parts that must meet exacting tolerances and regulatory standards.
 
 Being a tier-two supplier is unglamorous but defensible. The margins are moderate—not as fat as a prime contractor, but solid and recurring. The customers are large, creditworthy, and repeat buyers. The switching costs are significant: a defense prime does not casually change its supply base for a component because qualifying a new supplier requires testing, validation, and regulatory approval. Once a supplier is embedded, it tends to remain embedded.
 
@@ -26,7 +26,7 @@ Crisp Momentum's manufacturing footprint likely includes computer numerical cont
 
 The company serves the aerospace and defense sectors, which are themselves defensive and recurring. Airlines need replacement parts throughout an aircraft's 30–50-year service life. Military platforms need upgrades and sustainment spending independent of whether new platforms are being built. Spacecraft, missiles, and rotorcraft all require precise, reliable components. Demand is driven by government budgets and defense spending, which is relatively stable and bipartisan in the US.
 
-However, Crisp Momentum is small—likely in the $50M–$200M annual revenue range—which means it is dependent on a few large customers. If Lockheed or Boeing reduces orders or shifts to a competing supplier, Crisp Momentum feels it acutely. Diversification across multiple primes and multiple platforms is essential to survival.
+However, Crisp Momentum is small—likely in the $50M–$200M annual revenue range—which means it is dependent on a few large customers. If Lockheed or Boeing reduces orders or shifts to a competing supplier, Crisp Momentum feels it acutely. [Diversification](/diversification/) across multiple primes and multiple platforms is essential to survival.
 
 The company may also derive revenue from commercial aerospace (airlines, aircraft manufacturers) and from industrial customers outside defense who have similar precision-component needs.
 
@@ -34,7 +34,7 @@ The company may also derive revenue from commercial aerospace (airlines, aircraf
 
 Precision manufacturing requires capital discipline. A CNC machine tool costs $500K–$5M, and a modern shop may have dozens of them. Tooling and fixturing for a specific part can be expensive, and lead times for machining can be weeks. The company must manage inventory carefully: holding stock of slow-moving parts ties up cash, but stockouts risk customer penalties or lost contracts.
 
-Gross margins in precision machining typically run 35–50%, depending on complexity and volume. Operating margins are lower, maybe 5–15%, after overhead. The business is not capital-intensive relative to a semiconductor fab or a steel mill, but it is labor-intensive and sensitive to input costs (metal prices, wages, energy).
+Gross margins in precision machining typically run 35–50%, depending on complexity and volume. [Operating margins](/operating-margin/) are lower, maybe 5–15%, after overhead. The business is not capital-intensive relative to a semiconductor fab or a steel mill, but it is labor-intensive and sensitive to input costs (metal prices, wages, energy).
 
 ## Why the Market Ignores It
 
@@ -50,7 +50,7 @@ Automation is also a longer-term risk. As CNC machines become more sophisticated
 
 ## Capital Structure
 
-Being small and private, Crisp Momentum likely has minimal debt and is bootstrapped or supported by a private equity firm or a founder. It probably generates positive cash flow from operations, funding growth internally or through modest leverage. An IPO or larger acquisition by a consolidator (a larger industrial company seeking tuck-in acquisitions) is possible but not imminent.
+Being small and private, Crisp Momentum likely has minimal debt and is bootstrapped or supported by a private equity firm or a founder. It probably generates positive cash flow from operations, funding growth internally or through modest leverage. An IPO or larger acquisition by a consolidator (a larger industrial company seeking tuck-in [acquisitions](/acquisition/)) is possible but not imminent.
 
 Shareholders are likely founders, management, employees, and perhaps a small private equity backer. Public shareholders are a minority of total ownership.
 

@@ -45,7 +45,7 @@ Distributors operate on relatively thin margins, typically 15–25% gross margin
 
 ## Strategic Positioning in Consolidating Markets
 
-DSGR's defensibility is fundamentally that of a well-positioned regional distributor: good supplier relationships, local inventory, established customer base, and operational efficiency in its served markets. These are durable moats for regional distributors but are also the very characteristics that make them acquisition targets for larger distributors and private-equity firms. The company's long-term competitive position may ultimately depend not on defending independence but on whether consolidation in its sector occurs and at what valuation.
+DSGR's defensibility is fundamentally that of a well-positioned regional distributor: good supplier relationships, local inventory, established customer base, and operational efficiency in its served markets. These are durable moats for regional distributors but are also the very characteristics that make them [acquisition](/acquisition/) targets for larger distributors and private-equity firms. The company's long-term competitive position may ultimately depend not on defending independence but on whether consolidation in its sector occurs and at what valuation.
 
 ---
 

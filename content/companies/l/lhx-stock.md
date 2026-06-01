@@ -41,7 +41,7 @@ The merger closed in June 2019, and the combined entity adopted the LHX ticker o
 
 **Space and Airborne Systems** encompasses imaging and infrared sensors, space situational awareness platforms, and—critically—the Aerojet Rocketdyne acquisition closed in 2023, which brought solid-rocket-motor and liquid-engine manufacturing into L3Harris's portfolio. This was a watershed moment: L3Harris became one of only two major U.S. firms capable of building rocket engines at scale (the other being Blue Origin). The segment supports intelligence agencies with surveillance platforms and the Department of Defense with strategic launch capability.
 
-**Quantum Science** is newer and smaller—it focuses on quantum computing and quantum-sensing research. As quantum technologies mature from laboratory curiosity to potential military advantage (particularly in sensing and cryptography), L3Harris is positioning itself to participate in that transition.
+**Quantum Science** is newer and smaller—it focuses on [quantum computing](/qubt-stock/) and quantum-sensing research. As quantum technologies mature from laboratory curiosity to potential military advantage (particularly in sensing and cryptography), L3Harris is positioning itself to participate in that transition.
 
 ## The Aerojet Rocketdyne Inflection
 

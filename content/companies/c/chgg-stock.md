@@ -29,7 +29,7 @@ Rather than cede that risk, Chegg pivoted to become an educational services plat
 
 ## The Platform Shift and Margin Expansion
 
-This pivot required a different operating model. Textbook rental was capital-intensive (warehouses, inventory, logistics) but relatively simple at scale. Adding services meant building technology platforms, hiring experts (tutors, educators, content creators), and managing quality and interaction at variable cost. The gross margin profile was different: service-based learning products had higher margins than physical logistics, but also higher customer acquisition costs and more difficulty in predicting lifetime value.
+This pivot required a different operating model. Textbook rental was capital-intensive (warehouses, inventory, logistics) but relatively simple at scale. Adding services meant building technology platforms, hiring experts (tutors, educators, content creators), and managing quality and interaction at variable cost. The gross margin profile was different: service-based learning products had higher margins than physical logistics, but also higher customer [acquisition](/acquisition/) costs and more difficulty in predicting lifetime value.
 
 Chegg invested heavily in this transition through the mid-to-late 2010s. It built Chegg Study into one of the largest online homework-help platforms, offering students instant access to step-by-step solutions, expert explanations, and tutoring on demand. The service found product-market fit: students who were stuck on problem sets were willing to pay a subscription for fast, accessible help. Chegg expanded to offer not just textbook-specific answers but broader academic support — test prep, writing help, interview coaching for jobs.
 

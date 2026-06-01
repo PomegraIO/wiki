@@ -4,7 +4,7 @@ description: "Unitrend Entertainment Group Ltd operates in digital media and ent
 keywords: ["entertainment", "gaming", "digital media", "cyclical", "consumer discretionary"]
 ---
 
-*Unitrend Entertainment Group Ltd (**INHI**) is a digital entertainment and gaming company whose business rides sharply on consumer discretionary spending cycles, particularly sensitive to economic downturns that reduce engagement with premium entertainment products.*
+*Unitrend Entertainment Group Ltd (**INHI**) is a digital entertainment and gaming company whose business rides sharply on consumer [discretionary spending](/discretionary-spending/) cycles, particularly sensitive to economic downturns that reduce engagement with premium entertainment products.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>INHI</td></tr>
@@ -16,7 +16,7 @@ keywords: ["entertainment", "gaming", "digital media", "cyclical", "consumer dis
 
 ## The Consumption-Tied Cycle
 
-Unitrend's fortune swings with consumer discretionary spending in ways that directly amplify broader economic cycles. When households tighten budgets during recessions, spending on digital entertainment—subscriptions, in-game purchases, streaming tokens—contracts sharply, often faster than essential consumption. The company's revenue streams depend on willingness to pay for non-essential digital goods, making it far more vulnerable to credit cycles, job uncertainty, and confidence shifts than utilities or staple retailers. Recovery, conversely, can be swift: as disposable income returns, pent-up demand for entertainment rebounds, and platforms that survive downturns often emerge with stronger user retention and habit formation.
+Unitrend's fortune swings with consumer discretionary spending in ways that directly amplify broader economic cycles. When households tighten budgets during [recessions](/recession/), spending on digital entertainment—subscriptions, in-game purchases, streaming tokens—contracts sharply, often faster than essential consumption. The company's revenue streams depend on willingness to pay for non-essential digital goods, making it far more vulnerable to credit cycles, job uncertainty, and confidence shifts than utilities or staple retailers. Recovery, conversely, can be swift: as disposable income returns, pent-up demand for entertainment rebounds, and platforms that survive downturns often emerge with stronger user retention and habit formation.
 
 ## Revenue Model and Seasonal Sensitivity
 
@@ -28,7 +28,7 @@ Unitrend operates globally across multiple gaming and entertainment platforms, w
 
 ## Competitive Position and Secular Headwinds
 
-Unitrend competes against larger, more diversified entertainment conglomerates and against free-to-play gaming startups that require lower customer spend to thrive. The secular shift toward free-to-play models and advertising-supported content favors competitors with deeper pockets to absorb cyclical downturns without sacrificing product quality. Unitrend's reliance on paid or premium gameplay models leaves it vulnerable both cyclically (spending drops faster) and secularly (the industry is moving toward free-to-play). Over longer time horizons, this secular shift could compress margins and customer acquisition payback periods, even if the business remains solvent through individual economic cycles.
+Unitrend competes against larger, more diversified entertainment conglomerates and against free-to-play gaming startups that require lower customer spend to thrive. The secular shift toward free-to-play models and advertising-supported content favors competitors with deeper pockets to absorb cyclical downturns without sacrificing product quality. Unitrend's reliance on paid or premium gameplay models leaves it vulnerable both cyclically (spending drops faster) and secularly (the industry is moving toward free-to-play). Over longer time horizons, this secular shift could compress margins and customer [acquisition](/acquisition/) payback periods, even if the business remains solvent through individual economic cycles.
 
 ## Historical Volatility and Recovery Patterns
 

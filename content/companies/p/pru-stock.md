@@ -31,7 +31,7 @@ Prudential's heritage business, life insurance, is organized into two main parts
 
 Group Insurance is more dynamic. Employers remain anxious about employee retention and welfare, which keeps demand for group benefits steady. Prudential earns both premiums (the employer and often the employee pay a monthly or quarterly amount) and investment spread (it holds and invests those premiums). The business is less exposed to interest-rate moves than individual life insurance because the investment horizon is shorter, and claims are more predictable because they cover broad populations.
 
-The real challenge for both segments is that traditional life insurance is being displaced by newer forms of financial protection and by the fact that wealthier people (Prudential's [target](/tgt-stock/) market) have many ways to hedge longevity and mortality risk. Prudential has adapted by moving toward more profitable segments (high-net-worth individuals, corporate benefit packages) and by shifting capital away from legacy products and toward annuities and asset management, where the company sees better returns.
+The real challenge for both segments is that traditional life insurance is being displaced by newer forms of financial protection and by the fact that wealthier people (Prudential's target market) have many ways to hedge longevity and mortality risk. Prudential has adapted by moving toward more profitable segments (high-net-worth individuals, corporate benefit packages) and by shifting capital away from legacy products and toward annuities and asset management, where the company sees better returns.
 
 ## Annuities and pension risk transfer: the growth story
 

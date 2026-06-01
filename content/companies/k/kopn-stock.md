@@ -43,7 +43,7 @@ This manufacturing competency is not easily acquired. It combines deep domain ex
 
 KOPIN's revenue is heavily influenced by a small number of large military programs. When a defense program completes development, moves into full-rate production, and then winds down, KOPIN's revenue and margin can swing significantly. A major program win can add 40 percent to revenue; a program delay or cancellation can cut it proportionally. This creates lumpy quarterly results and makes KOPIN's margins volatile from quarter to quarter.
 
-Customer concentration is another exposure. If two or three military programs account for 60 percent of revenue, and one is delayed, the company's profitability is materially impacted. KOPIN's diversification strategy involves pursuing new military customers (allied governments, drone makers, robotics firms) and developing commercial applications, but this diversification is gradual and uncertain.
+Customer concentration is another exposure. If two or three military programs account for 60 percent of revenue, and one is delayed, the company's profitability is materially impacted. KOPIN's [diversification](/diversification/) strategy involves pursuing new military customers (allied governments, drone makers, robotics firms) and developing commercial applications, but this diversification is gradual and uncertain.
 
 ## The Research & Development Trap
 

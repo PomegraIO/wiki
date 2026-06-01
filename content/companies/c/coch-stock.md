@@ -29,7 +29,7 @@ The installed base—the cumulative count of Envoy implants in patients—is the
 
 ## Clinical Evidence and Regulatory Pathways
 
-Envoy's devices are subject to [FDA](/securities-and-exchange-commission/) regulation as Class II or III medical devices, depending on the indication and technology. Market approval requires clinical evidence of safety and efficacy. The clinical bar is high: surgeons and patients need confidence that the device improves hearing, remains stable over years, and carries acceptable surgical risks.
+Envoy's devices are subject to [FDA](/securities-and-exchange-commission/) [regulation as](/regulation-a/) Class II or III medical devices, depending on the indication and technology. Market approval requires clinical evidence of safety and efficacy. The clinical bar is high: surgeons and patients need confidence that the device improves hearing, remains stable over years, and carries acceptable surgical risks.
 
 Clinical trials for auditory implants are smaller and more focused than pharmaceutical trials because the patient population is limited. But each trial result is consequential. A trial showing a 15 dB (decibel) improvement in hearing thresholds is materially different from one showing 25 dB improvement; the larger the benefit, the easier the reimbursement and physician adoption. Conversely, any serious adverse event—infection, device failure, loss of benefit—must be disclosed and investigated, and it can derail market adoption.
 
@@ -47,7 +47,7 @@ The market for implantable auditory devices is large (global hearing-loss popula
 
 ## Manufacturing and Supply-Chain Considerations
 
-Implantable devices are manufactured to exacting quality standards. Component sourcing, assembly, sterilization, and packaging all require rigorous validation. Envoy depends on suppliers for electronics, sensors, magnets, and biocompatible materials. Supply disruptions can stall production and delay revenue recognition. The company maintains inventory of critical components to hedge this risk, but inventory is capital-intensive.
+Implantable devices are manufactured to exacting quality standards. Component sourcing, assembly, sterilization, and packaging all require rigorous validation. Envoy depends on suppliers for electronics, sensors, magnets, and biocompatible materials. Supply disruptions can stall production and delay [revenue recognition](/revenue-recognition/). The company maintains inventory of critical components to hedge this risk, but inventory is capital-intensive.
 
 The manufacturing process—despite the high end-user price—is not particularly high-margin from a cost-of-goods perspective. Envoy's profitability comes from the price premium and the scale of the installed base generating service revenue, not from manufacturing magic.
 
@@ -61,7 +61,7 @@ Because implantable devices are used for decades, post-market surveillance is cr
 
 ## Path to Scale and Exit Options
 
-Envoy, like most medical-device companies, has several strategic options. It can pursue organic growth by building the installed base and expanding the addressable market. It can make acquisitions to combine complementary technologies or distribution networks. Or it can accept acquisition by a larger medical-device company that has distribution, manufacturing scale, and capital to accelerate global expansion. Many implantable-device startups are ultimately acquired by companies like Cochlear, Sonova, or larger diversified medical-device players.
+Envoy, like most medical-device companies, has several strategic options. It can pursue organic growth by building the installed base and expanding the addressable market. It can make [acquisitions](/acquisition/) to combine complementary technologies or distribution networks. Or it can accept acquisition by a larger medical-device company that has distribution, manufacturing scale, and capital to accelerate global expansion. Many implantable-device startups are ultimately acquired by companies like Cochlear, Sonova, or larger diversified medical-device players.
 
 The unit economics of Envoy's business—high price per unit, small patient population, recurring service revenue—are attractive for acquisition. A larger company can fold Envoy's technology into a broader portfolio, leverage existing surgeon relationships, and benefit from scale in manufacturing and distribution. Envoy's shareholder value may be realized not through a decades-long public company journey but through a strategic sale to a well-capitalized acquirer.
 

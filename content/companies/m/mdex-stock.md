@@ -55,7 +55,7 @@ The switching cost for a customer to move to a competitor is non-trivial: techni
 
 ## Cyclicality and Industrial Exposure
 
-Madison's revenue is vulnerable to industrial-production downturns. Recessions reduce utilization and capital spending, deferring both equipment purchases and discretionary service contracts. During booms, Madison can raise prices and commit to lucrative multiyear service contracts. The company's earnings thus tend to be cyclical, with multiyear peaks and troughs tied to manufacturing output.
+Madison's revenue is vulnerable to industrial-production downturns. [Recessions](/recession/) reduce utilization and capital spending, deferring both equipment purchases and discretionary service contracts. During booms, Madison can raise prices and commit to lucrative multiyear service contracts. The company's earnings thus tend to be cyclical, with multiyear peaks and troughs tied to manufacturing output.
 
 A prudent Madison would use booms to build cash reserves and improve balance-sheet strength, and would defend margins even in downturns rather than pursue market-share gains at the cost of profitability.
 
@@ -64,7 +64,7 @@ A prudent Madison would use booms to build cash reserves and improve balance-she
 <div class="wiki-seealso">
 ### Closely related
 - [Gross profit margin](/gross-profit-margin/) (equipment vs. service spreads)
-- [Operating margin](/operating-margin/) (overhead allocation and leverage)
+- [Operating margin](/operating-margin/) ([overhead allocation](/overhead-allocation/) and leverage)
 
 ### Wider context
 - [Cyclical vs. secular industries](/stock/) (industrial exposure and economic sensitivity)

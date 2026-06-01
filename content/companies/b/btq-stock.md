@@ -4,7 +4,7 @@ description: "A quantum-computing hardware and software company developing super
 keywords: ["quantum computing", "quantum hardware", "quantum algorithms", "superconducting qubits", "enterprise technology"]
 ---
 
-*BTQ Technologies Corp. (BTQ) is an early-stage quantum computing company engaged in the design and fabrication of superconducting quantum processors and the development of software platforms to make quantum hardware commercially useful. The company is pre-revenue or minimal-revenue, with value concentrated in its intellectual property, engineering talent, and access to foundational quantum-computing patents and research collaborations.*
+*BTQ Technologies Corp. (BTQ) is an early-stage [quantum computing](/qubt-stock/) company engaged in the design and fabrication of superconducting quantum processors and the development of software platforms to make quantum hardware commercially useful. The company is pre-revenue or minimal-revenue, with value concentrated in its intellectual property, engineering talent, and access to foundational quantum-computing patents and research collaborations.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BTQ</td></tr>
@@ -28,7 +28,7 @@ A quantum processor is useless without algorithms and software that map real-wor
 
 ## Customer Engagements and Use-Case Development
 
-For a pre-commercial quantum company, customer engagements are a key milestone—they signal that enterprises see potential value. The 10-K should disclose: (1) any pilot programs or beta engagements with enterprises, (2) the nature of the problems being explored, and (3) any signed contracts or letters of intent. These are leading indicators of commercial potential. If BTQ has engaged JPMorgan, Goldman Sachs, or pharmaceutical companies on specific quantum-optimization problems, that is substantive. If the company claims customer interest but provides no named partnerships or problem descriptions, that is less credible. Also note: what is the expected timeline for each use case to demonstrate a quantum advantage? If the company is claiming that within 2–3 years it will have a quantum system that solves a meaningful business problem better than classical systems, that is a testable hypothesis. Look for whether BTQ's claims are aligned with independent quantum research consensus or are outliers.
+For a pre-commercial quantum company, customer engagements are a key milestone—they signal that enterprises see potential value. The 10-K should disclose: (1) any pilot programs or beta engagements with enterprises, (2) the nature of the problems being explored, and (3) any signed contracts or letters of intent. These are leading indicators of commercial potential. If BTQ has engaged JPMorgan, [Goldman Sachs](/goldman-sachs/), or pharmaceutical companies on specific quantum-optimization problems, that is substantive. If the company claims customer interest but provides no named partnerships or problem descriptions, that is less credible. Also note: what is the expected timeline for each use case to demonstrate a quantum advantage? If the company is claiming that within 2–3 years it will have a quantum system that solves a meaningful business problem better than classical systems, that is a testable hypothesis. Look for whether BTQ's claims are aligned with independent quantum research consensus or are outliers.
 
 ## Patent Portfolio and IP Moats
 

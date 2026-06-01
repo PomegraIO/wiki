@@ -4,7 +4,7 @@ description: "A biotech firm targeting cancer and autoimmune disease through cov
 keywords: ["biotech", "drug discovery", "oncology", "immuno-oncology", "covalent binders", "clinical trials"]
 ---
 
-*Biomea Fusion focuses on discovering and developing small-molecule drugs that bind covalently to disease targets. The company exploits chemistry where drug molecules form permanent chemical bonds with their protein targets, making them stick longer and work harder. It treats cancer and autoimmune conditions, moving experimental compounds through [clinical trials](/10-k/) with backing from [public equity markets](/stock/).*
+*Biomea Fusion focuses on discovering and developing small-molecule drugs that bind covalently to disease targets. The company exploits chemistry where drug molecules form permanent chemical [bonds](/bond/) with their protein targets, making them stick longer and work harder. It treats cancer and autoimmune conditions, moving experimental compounds through [clinical trials](/10-k/) with backing from [public equity markets](/stock/).*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BMEA</td></tr>

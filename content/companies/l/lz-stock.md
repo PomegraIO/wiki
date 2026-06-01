@@ -56,7 +56,7 @@ The strategy is dual-edged. On one side, owning law firms gives LegalZoom the ab
 
 ## Competitive Position and Pressures
 
-LegalZoom dominates the consumer and small-business legal-services market by volume and brand recognition. Competitors like Rocket Lawyer, Incfile, and LawZone are smaller or more specialized. Rocket Lawyer competes most directly with similar services and a subscription push; Incfile focuses narrowly on business formation; smaller players [target](/tgt-stock/) niche segments or specific geographies.
+LegalZoom dominates the consumer and small-business legal-services market by volume and brand recognition. Competitors like Rocket Lawyer, Incfile, and LawZone are smaller or more specialized. Rocket Lawyer competes most directly with similar services and a subscription push; Incfile focuses narrowly on business formation; smaller players target niche segments or specific geographies.
 
 The company's moats include brand (LegalZoom is synonymous with online legal documents for millions), scale (cost advantages in document production and filing logistics), the attorney network (hard to replicate), and data (years of customer workflows and success patterns baked into its platform). However, these moats are not invincible. The traditional legal market remains enormous and unconsolidated; big law firms do not see LegalZoom as a significant threat to their practices. Prices for DIY document services or legal software (e.g., DIY will kits, document generators from accountant software suites) have fallen, increasing customer churn and reducing willingness to pay.
 

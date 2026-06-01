@@ -45,7 +45,7 @@ Esports audiences are global, but team brands and franchises are geographically 
 
 ## Valuation and the Venture Risk
 
-GAMESQUARE is a young company in a rapidly evolving industry. Its valuation reflects expectations about esports market growth, sponsorship demand, and GAMESQUARE's ability to consolidate teams and infrastructure profitably. If esports sponsorship growth slows, if audiences plateau, or if GAMESQUARE fails to execute operationally, the stock can compress sharply. Conversely, if the company successfully scales franchises and content revenue, and if esports entertainment achieves sustained mainstream acceptance, GAMESQUARE could experience significant appreciation. This is a growth and execution bet with material downside risk.
+GAMESQUARE is a young company in a rapidly evolving industry. Its valuation reflects expectations about esports market growth, sponsorship demand, and GAMESQUARE's ability to consolidate teams and infrastructure profitably. If esports sponsorship growth slows, if audiences plateau, or if GAMESQUARE fails to execute operationally, the stock can compress sharply. Conversely, if the company successfully scales franchises and content revenue, and if [esports entertainment](/gmbl-stock/) achieves sustained mainstream acceptance, GAMESQUARE could experience significant appreciation. This is a growth and execution bet with material downside risk.
 
 <div class="wiki-seealso">
 ### Closely related

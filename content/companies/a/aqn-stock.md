@@ -18,7 +18,7 @@ Algonquin Power operates through distinct segments. Regulated utilities—electr
 
 ## Revenue and Returns
 
-Utility rates are set by regulators to allow cost recovery plus a [target](/tgt-stock/) [return on equity](/wiki/return-on-equity/), making earnings predictable but capped by the allowed rate of return. The renewable division earns fixed fees from power contracts rather than spot market exposure. Capital intensity is high—aging infrastructure demands continuous spending on grid upgrades, pipe replacement, and plant modernization. [Capital expenditure](/wiki/capex-budgeting/) management directly affects dividend sustainability, as utilities leverage debt to fund long-duration assets. Rating agencies monitor [leverage ratios](/wiki/debt-to-equity-ratio/) and interest coverage closely.
+Utility rates are set by regulators to allow cost recovery plus a target [return on equity](/wiki/return-on-equity/), making earnings predictable but capped by the allowed rate of return. The renewable division earns fixed fees from power contracts rather than spot market exposure. Capital intensity is high—aging infrastructure demands continuous spending on grid upgrades, pipe replacement, and plant modernization. [Capital expenditure](/wiki/capex-budgeting/) management directly affects dividend sustainability, as utilities leverage debt to fund long-duration assets. Rating agencies monitor [leverage ratios](/wiki/debt-to-equity-ratio/) and interest coverage closely.
 
 ## Positioning and Challenges
 

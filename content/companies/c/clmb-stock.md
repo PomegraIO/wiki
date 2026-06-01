@@ -4,7 +4,7 @@ description: "Software reseller and value-added distributor providing cloud, ERP
 keywords: ["software resale", "VAR", "cloud solutions", "ERP distribution", "recurring revenue", "managed services"]
 ---
 
-*Climb Global Solutions, Inc. (CLMB) is a software reseller and value-added distributor (VAR) that acquires enterprise software and cloud-platform licenses from publishers (Microsoft, Salesforce, Adobe, Atlassian) and sells them to mid-market businesses, often bundled with consulting, implementation, and managed-services support. The core unit is a single software contract (license sale plus support): the margin between the cost of the software license to CLMB and the price charged to the customer, amplified by recurring annual maintenance and managed services.*
+*Climb Global Solutions, Inc. (CLMB) is a software reseller and value-added distributor (VAR) that acquires enterprise software and cloud-platform licenses from publishers ([Microsoft](/msft-stock/), [Salesforce](/crm-stock/), [Adobe](/adbe-stock/), Atlassian) and sells them to mid-market businesses, often bundled with consulting, implementation, and managed-services support. The core unit is a single software contract (license sale plus support): the margin between the cost of the software license to CLMB and the price charged to the customer, amplified by recurring annual maintenance and managed services.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CLMB</td></tr>
@@ -29,11 +29,11 @@ Publishers—Microsoft, Salesforce, Adobe—increasingly sell direct to customer
 
 ## Multi-Vendor Portfolio and Diversification
 
-Climb sells licenses from dozens of publishers—Microsoft, Salesforce, Adobe, ServiceNow, Atlassian, others. No single publisher represents more than 15–20% of revenue, reducing dependency on any one publisher's discount changes or product strategy. However, this portfolio approach also means Climb's salesforce must be expert in multiple platforms, and implementations require specialized teams for each technology stack. A Climb reseller good at Salesforce implementations may not be skilled at ServiceNow, creating a skill-set fragmentation cost. The trade-off: diversification reduces revenue concentration risk but increases operational complexity.
+Climb sells licenses from dozens of publishers—Microsoft, Salesforce, Adobe, [ServiceNow](/now-stock/), Atlassian, others. No single publisher represents more than 15–20% of revenue, reducing dependency on any one publisher's discount changes or product strategy. However, this portfolio approach also means Climb's salesforce must be expert in multiple platforms, and implementations require specialized teams for each technology stack. A Climb reseller good at Salesforce implementations may not be skilled at ServiceNow, creating a skill-set fragmentation cost. The trade-off: [diversification](/diversification/) reduces revenue [concentration risk](/concentration-risk/) but increases operational complexity.
 
 ## Geographies and Market Saturation
 
-Climb operates primarily across the Americas (US, Canada, Latin America). The US mid-market software market is mature and highly competitive; dozens of regional and national resellers vie for the same customers. Climb's unit economics depend on whether it can defend its customer base and win new logos at acceptable customer-acquisition costs. In maturing markets, price competition increases, margin pressure mounts, and resellers merge or exit. Climb has grown partly through acquisition (buying smaller regional resellers and consolidating their customer bases), which requires capital but can be accretive if Climb integrates the acquired customer base at lower churn and higher cross-sell margins.
+Climb operates primarily across the Americas (US, Canada, Latin America). The US mid-market software market is mature and highly competitive; dozens of regional and national resellers vie for the same customers. Climb's unit economics depend on whether it can defend its customer base and win new logos at acceptable customer-acquisition costs. In maturing markets, price competition increases, margin pressure mounts, and resellers merge or exit. Climb has grown partly through [acquisition](/acquisition/) (buying smaller regional resellers and consolidating their customer bases), which requires capital but can be accretive if Climb integrates the acquired customer base at lower churn and higher cross-sell margins.
 
 ## Managed Services and Sticky Revenue
 

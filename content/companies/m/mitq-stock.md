@@ -21,13 +21,13 @@ The digital media supply chain is a chain of transformations. A video studio sho
 
 MOVING iMAGE's software attempts to solve portions of this pipeline. Its digital asset management (DAM) platform lets media organizations catalog and search video, images, and documents; track usage rights and licenses; and manage workflows from ingest to archive. Its encoding software automates the transcoding of video into multiple formats for different devices. Its cloud infrastructure offerings help customers distribute content with lower latency and cost.
 
-This market is dominated by large, entrenched players. Adobe controls high-end media production (Premiere, After Effects, Media Encoder). Amazon Web Services and other cloud giants offer media processing services as part of broader platforms. Specialized vendors like Harmonic and Telestream are long-established in broadcast encoding. MOVING iMAGE competes as a smaller, sometimes scrappier alternative, often winning deals with cost sensitivity or specific technical requirements where larger vendors overengineer solutions.
+This market is dominated by large, entrenched players. [Adobe](/adbe-stock/) controls high-end media production (Premiere, After Effects, Media Encoder). Amazon Web Services and other cloud giants offer media processing services as part of broader platforms. Specialized vendors like Harmonic and Telestream are long-established in broadcast encoding. MOVING iMAGE competes as a smaller, sometimes scrappier alternative, often winning deals with cost sensitivity or specific technical requirements where larger vendors overengineer solutions.
 
 ## The Economics: Professional Software with Sticky Customers
 
 MOVING iMAGE's revenue typically comes from software licensing (perpetual or subscription), professional services (custom implementations), and cloud infrastructure usage fees. Professional software is inherently sticky—once a media organization integrates a DAM or encoding platform into its workflow, switching costs are high. Training staff, migrating metadata, and rewriting downstream automation create friction.
 
-The challenge is growth. MOVING iMAGE must expand into new customer verticals (healthcare media management, legal discovery, government archives) or land upgrades with existing customers. Enterprise software growth depends on either a large addressable market or a land-and-expand sales motion where initial customers add modules or capacity. A mature software company with limited new-customer acquisition is essentially harvesting its installed base, which is profitable but capped.
+The challenge is growth. MOVING iMAGE must expand into new customer verticals (healthcare media management, legal discovery, government archives) or land upgrades with existing customers. Enterprise software growth depends on either a large addressable market or a land-and-expand sales motion where initial customers add modules or capacity. A mature software company with limited new-customer [acquisition](/acquisition/) is essentially harvesting its installed base, which is profitable but capped.
 
 ## Competitive Pressures: Open Source and Cloud Commoditization
 
@@ -35,7 +35,7 @@ MOVING iMAGE faces structural competitive headwinds. The encoding and transcodin
 
 Digital asset management is less commoditized but still competitive. Smaller organizations often use general-purpose storage (Google Drive, OneDrive, Dropbox) for asset management; they see specialized DAM as overhead. Organizations large enough to justify specialized DAM shop for both point solutions and integrated platform vendors, putting pressure on MOVING iMAGE to compete on feature depth, ease of use, or vertical-specific expertise.
 
-Large technology platforms (Adobe, Microsoft, AWS) can afford to offer media tools as loss leaders to lock customers into broader ecosystems. MOVING iMAGE cannot match their investment breadth, only differentiate on depth for specific segments.
+Large technology platforms (Adobe, [Microsoft](/msft-stock/), AWS) can afford to offer media tools as loss leaders to lock customers into broader ecosystems. MOVING iMAGE cannot match their investment breadth, only differentiate on depth for specific segments.
 
 ## Market Positioning: Niche Depth vs. Platform Breadth
 

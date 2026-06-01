@@ -28,7 +28,7 @@ DiaMedica Therapeutics, like most development-stage biotechs, funds operations p
 
 [Common stockholders](/common-stock/) bear the risk of the firm's drug development program—a portfolio of compounds in preclinical or clinical stages that must clear regulatory hurdles before generating revenue. Dilution is inherent to the biotech model; existing shareholders accept share count increases as the cost of advancing candidates toward potential approval and market launch.
 
-The firm may maintain [preferred stock](/preferred-stock/) from earlier private funding rounds, with senior liquidation preferences and potential [dividend](/dividend/) or conversion rights. As the company progresses toward profitability, preferred holders' claims often resolve through conversion to [common stock](/common-stock/) or redemption as cash permits.
+The firm may maintain [preferred stock](/preferred-stock/) from earlier private funding rounds, with senior [liquidation preferences](/liquidation-preference/) and potential [dividend](/dividend/) or conversion rights. As the company progresses toward profitability, preferred holders' claims often resolve through conversion to [common stock](/common-stock/) or redemption as cash permits.
 
 ## Burn Rate and Cash Management
 
@@ -42,7 +42,7 @@ Clinical trial costs dominate biotech burn: patient recruitment, monitoring, dat
 
 While [equity](/common-stock/) dominates the funding mix, development-stage biotechs increasingly use non-dilutive financing to preserve equity and extend runway. Convertible debt instruments, venture debt facilities, and royalty or revenue-based financing allow the company to raise cash while deferring or avoiding immediate equity dilution.
 
-Convertible [bonds](/bond/) or preferred notes can convert to [common stock](/common-stock/) at specified valuations if the company reaches certain milestones (regulatory approval, clinical success), aligning creditor incentives with development success. Venture debt providers often accept lower interest rates and longer amortization than traditional lenders, betting on equity returns if the company succeeds.
+Convertible [bonds](/bond/) or preferred notes can convert to [common stock](/common-stock/) at specified valuations if the company reaches certain milestones (regulatory approval, clinical success), aligning creditor incentives with development success. Venture debt providers often accept lower [interest rates](/interest-rate/) and longer [amortization](/amortization/) than traditional lenders, betting on equity returns if the company succeeds.
 
 Research, Development and Commercialization (RDC) partnerships with larger pharmaceutical companies can provide non-dilutive upfront payments in exchange for future royalties or milestone payments. Such partnerships extend cash runway while validating the scientific approach and de-risking development.
 

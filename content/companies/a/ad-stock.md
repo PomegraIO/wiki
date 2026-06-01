@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-ARRAY DIGITAL INFRASTRUCTURE is a data center operator and digital infrastructure provider serving the cloud, enterprise, and telecommunications sectors. The company operates multiple data center facilities that provide colocation, managed hosting, interconnection, and cloud access services to a diversified customer base spanning hyperscalers, software firms, financial institutions, and network operators.
+ARRAY DIGITAL INFRASTRUCTURE is a data center operator and digital infrastructure provider serving the cloud, enterprise, and telecommunications sectors. The company operates multiple data center facilities that provide colocation, managed hosting, interconnection, and cloud access services to a diversified customer base spanning hyperscalers, software firms, [financial institutions](/fisi-stock/), and network operators.
 
 ## The Core Business
 
@@ -45,7 +45,7 @@ Customer concentration and churn pose ongoing risks. Large customers—hyperscal
 
 Structural drivers for data center growth remain intact: cloud adoption, video streaming, IoT proliferation, and business data intensity have sustained growth in computing infrastructure demand over two decades. Growth rates vary significantly by region and segment: mature markets (major U.S. metros) see slower expansion; emerging markets and international regions offer higher growth with different regulatory and competitive profiles.
 
-ARRAY DIGITAL's strategy typically focuses on balanced scale and specialization. Some operators have become hyperscaler-focused landlords; others specialize in edge computing (small, distributed facilities near end users); still others [target](/tgt-stock/) specific industries. ARRAY DIGITAL positions itself as a carrier-neutral, multi-tenant provider with geographic reach and operational depth.
+ARRAY DIGITAL's strategy typically focuses on balanced scale and specialization. Some operators have become hyperscaler-focused landlords; others specialize in edge computing (small, distributed facilities near end users); still others target specific industries. ARRAY DIGITAL positions itself as a carrier-neutral, multi-tenant provider with geographic reach and operational depth.
 
 Profitability depends on managing capital intensity through disciplined expansion, maintaining high utilization rates, and leveraging operational expertise to reduce costs per megawatt and per cabinet. Operators that invest in automation, predictive maintenance, and energy efficiency create durable competitive advantages.
 

@@ -17,7 +17,7 @@ keywords: ["marketplace", "local deals", "e-commerce", "small business", "custom
 
 ## The Merchant's Catch-22
 
-Running a small local business—a pizzeria, a massage therapy clinic, a CrossFit box—means competing for customers in a crowded market. Traditional customer acquisition channels are inefficient. Paying for a search ad costs $5 per click, and 95% may not convert. Radio ads are unaccountable. A local Facebook campaign requires in-house expertise the business doesn't have.
+Running a small local business—a pizzeria, a massage therapy clinic, a CrossFit box—means competing for customers in a crowded market. Traditional customer [acquisition](/acquisition/) channels are inefficient. Paying for a search ad costs $5 per click, and 95% may not convert. Radio ads are unaccountable. A local Facebook campaign requires in-house expertise the business doesn't have.
 
 What a merchant wants is simple: a way to fill empty tables or appointment slots at low risk. Ideally, the customer already exists—someone shopping for exactly that service, interested in trying it, and just needs a push. Groupon's pitch to merchants is: pay only for customers acquired. Post a discount offer (say, $50 dinner for $25), and Groupon surfaces it to its subscriber base. When someone buys, Groupon takes a commission (historically 30–50% of the deal value), transfers the remainder to the merchant, and the merchant books the customer.
 
@@ -61,7 +61,7 @@ Investors in Groupon [stock](/stock/) are betting that the company can stabilize
 
 Begin with the [10-K filing](/10-k/) (CIK 1490281). Key metrics:
 
-- **Gross profit margins per deal type**: Which deal categories are most profitable?
+- **[Gross profit margins](/gross-profit-margin/) per deal type**: Which deal categories are most profitable?
 - **Customer acquisition cost and lifetime value**: How much does Groupon spend to acquire a subscriber, and how much does that subscriber spend over time?
 - **Merchant retention**: What percentage of merchants run deals repeatedly versus one-off?
 - **Subscriber counts by geography**: Is the user base growing, shrinking, or stable in North America and international markets?

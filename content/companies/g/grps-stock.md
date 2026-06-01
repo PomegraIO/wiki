@@ -52,7 +52,7 @@ Margins are further compressed by commodity-like pricing. GRPS cannot charge a 5
 
 ## Geographic Exposure and Regulation
 
-Aquaculture is geographically dispersed because water, climate, and labor availability determine viability. GRPS operates farms in specific regions (disclosed in its [10-K](/10-k/)). Regions with favorable temperatures, abundant freshwater or saltwater access, cheap labor, and lenient environmental regulation are attractive. Regions with strict regulation (limiting stocking density, requiring effluent treatment, mandating waste management) impose higher costs.
+Aquaculture is geographically dispersed because water, climate, and labor availability determine viability. GRPS operates farms in specific regions (disclosed in its [10-K](/10-k/)). Regions with favorable temperatures, abundant freshwater or saltwater access, cheap labor, and lenient environmental regulation are attractive. Regions with strict regulation (limiting stocking density, requiring effluent treatment, mandating [waste management](/wm-stock/)) impose higher costs.
 
 A customer might demand that GRPS farms comply with certifications (ASC—Aquaculture Stewardship Council; GAP—Global Aquaculture Practice) proving environmental and labor standards. Certification is an additional cost but justifies price premiums and appeal to environmentally conscious retailers. GRPS's competitive position depends partly on where it operates and what certifications it holds.
 
@@ -68,7 +68,7 @@ GRPS's customer is thus a food-service buyer navigating a complex commodity land
 
 Building a fish farm requires significant upfront capital: land, water infrastructure, facilities, equipment, and working capital for feed and fingerlings. GRPS must invest heavily to expand capacity. New farms take years to reach full productivity. Shareholders fund this through equity or debt; the company must deliver returns over multi-year cycles.
 
-GRPS's [capital structure](/balance-sheet/) (disclosed in its 10-K) reveals how leveraged the company is. High debt limits flexibility during market downturns; conservative balance sheets allow weathering low-price periods.
+GRPS's [capital structure](/balance-sheet/) (disclosed in its 10-K) reveals how leveraged the company is. High [debt limits](/debt-limit/) flexibility during market downturns; conservative balance sheets allow weathering low-price periods.
 
 ## Evaluating GRPS
 
@@ -77,9 +77,9 @@ Review the [10-K filing](/10-k/) (CIK 1990446) for:
 - **Production volume by species**: How many pounds of shrimp, tilapia, or other species does GRPS produce annually? Is volume growing, flat, or declining?
 - **Facility capacity and utilization**: What is the maximum capacity, and what percentage is currently used? Is there room for growth without new capital?
 - **Average selling price and margins**: What price per pound does GRPS realize, and what is gross margin? Compare to prior years and competitors.
-- **Customer concentration**: Do one or two large customers represent >30% of revenue? If so, GRPS has customer concentration risk.
+- **Customer concentration**: Do one or two large customers represent >30% of revenue? If so, GRPS has customer [concentration risk](/concentration-risk/).
 - **Geographic mix**: Which regions are growing, which are declining? Are certain regions facing regulatory headwinds?
-- **Feed costs and supply contracts**: Is GRPS hedged against feed inflation?
+- **Feed costs and supply contracts**: Is GRPS hedged against feed [inflation](/inflation/)?
 
 Also examine quarterly results to track volume trends, pricing power, and profitability. Declining volumes or margin compression signal competitive pressure or operational trouble.
 

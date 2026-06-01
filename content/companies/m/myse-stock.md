@@ -4,7 +4,7 @@ description: "Software and technology company developing artificial intelligence
 keywords: ["AI technology", "museum software", "cultural heritage", "digital exhibitions", "virtual reality", "audience analytics"]
 ---
 
-*Myseum.AI develops software and AI tools that help museums, galleries, and cultural institutions digitize their collections, create immersive virtual experiences, and understand visitor behavior. Trading under the ticker **MYSE** on the NASDAQ and registered with the SEC under CIK 1648960, Myseum operates at the intersection of technology, artificial intelligence, and cultural institutions—a nascent market where digital transformation is accelerating but revenue is unpredictable.*
+*Myseum.AI develops software and AI tools that help museums, galleries, and cultural institutions digitize their collections, create immersive virtual experiences, and understand visitor behavior. Trading under the ticker **MYSE** on the [NASDAQ](/nasdaq/) and registered with the SEC under CIK 1648960, Myseum operates at the intersection of technology, artificial intelligence, and cultural institutions—a nascent market where digital transformation is accelerating but revenue is unpredictable.*
 
 <aside class="wiki-infobox">
 <table>
@@ -36,7 +36,7 @@ Myseum also offers AI-powered audience analytics. When visitors interact with a 
 
 The addressable market includes roughly 35,000 museums worldwide. Most are underfunded. Large, well-capitalized institutions (Metropolitan Museum of Art, British Museum, Louvre) have internal IT teams and can build digital infrastructure themselves. Mid-size and smaller museums lack resources and turn to vendors like Myseum.
 
-Competition in this space is fragmented. Some competitors are large IT consulting firms (Accenture, Deloitte) that treat museum digital transformation as a side business. Others are small agencies or nonprofits. Myseum's advantage is specialization; the company has deep experience in museum workflows and cultural heritage standards.
+Competition in this space is fragmented. Some competitors are large IT consulting firms ([Accenture](/acn-stock/), Deloitte) that treat museum digital transformation as a side business. Others are small agencies or nonprofits. Myseum's advantage is specialization; the company has deep experience in museum workflows and cultural heritage standards.
 
 Adoption has accelerated since 2020. COVID-19 lockdowns forced museums to move online, revealing that digital engagement was viable. Donor funding and government grants increasingly flow to museums that can demonstrate online reach. This tailwind supports Myseum's growth.
 
@@ -56,7 +56,7 @@ This standardization is both a help and a hindrance. It creates industry legitim
 
 ## Funding and Capital Structure
 
-Myseum is a relatively young company with modest scale. It likely raised venture capital early and went public via reverse merger or direct listing. The capital structure may include venture equity, strategic partnerships (with museum networks or technology partners), and debt. The company is dependent on continued growth to justify its public valuation; if growth stalls, the stock will face pressure.
+Myseum is a relatively young company with modest scale. It likely raised venture capital early and went public via [reverse merger](/reverse-merger/) or [direct listing](/direct-listing/). The capital structure may include venture equity, strategic partnerships (with museum networks or technology partners), and debt. The company is dependent on continued growth to justify its public valuation; if growth stalls, the stock will face pressure.
 
 ## Revenue Concentration and Customer Risk
 
@@ -84,7 +84,7 @@ Review industry publications and museum trade journals for mentions of Myseum pr
 <h3>Wider context</h3>
 <ul>
 <li>Artificial intelligence and machine learning applications</li>
-<li><a href="/balance-sheet/">Balance sheet</a> analysis for subscription and project services</li>
+<li><a href="/balance-sheet/">[Balance sheet](/balance-sheet/)</a> analysis for subscription and project services</li>
 <li>Digital transformation in nonprofit and cultural institutions</li>
 </ul>
 </div>

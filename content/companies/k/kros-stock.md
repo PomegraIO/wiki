@@ -21,7 +21,7 @@ keywords: ["biotech", "rare disease", "bone disorder", "clinical trials", "R&D-s
 
 Biotech companies like Keros follow a stylized path: identify a therapeutic target, conduct preclinical research, file an Investigational New Drug (IND) application with the FDA, conduct Phase 1, Phase 2, and Phase 3 clinical trials, file a Biologics License Application (BLA) or New Drug Application (NDA), await FDA review and approval, and finally begin commercial manufacturing and sales. Each stage takes years and costs tens to hundreds of millions of dollars. A Phase 3 trial for a rare disease might enroll hundreds of patients over three to four years, cost $50–150 million, and have a 50–70% probability of success even if Phase 2 data looked promising.
 
-For a small biotech like Keros with no approved products and no revenue, every dollar must be raised externally: initial venture funding, then Series A, B, and C rounds, then an IPO to access public capital markets. Keros has chosen the public route, listing on NASDAQ, which gives it access to public investors and provides access to capital, but also subjects the company to quarterly earnings expectations (even though it has no earnings) and securities regulations.
+For a small biotech like Keros with no approved products and no revenue, every dollar must be raised externally: initial venture funding, then Series A, B, and C rounds, then an IPO to access public capital markets. Keros has chosen the public route, listing on [NASDAQ](/nasdaq/), which gives it access to public investors and provides access to capital, but also subjects the company to quarterly earnings expectations (even though it has no earnings) and securities regulations.
 
 The fundamental math of biotech investing is brutal. Keros must raise enough capital to fund its pipeline through multiple trials, survive the risks of clinical failure, and reach breakeven or profitability before it runs out of cash. Many biotechs fail at this arithmetic: they run out of capital before any drug is approved, are forced to merge or liquidate, or pivot to less promising indications to stay funded. Those that succeed reach approval, commercialize, and eventually deliver returns to shareholders—but only after a decade or more of negative cash flow.
 
@@ -45,7 +45,7 @@ Stock price volatility is extreme. Positive clinical trial data or regulatory fe
 
 ## Partnership and M&A as Exit Routes
 
-Not all successful biotechs reach full commercialization independently. Some form partnerships with larger pharmaceutical companies, which provide co-development funding and agree to share upside if the drug is approved. Others are acquired outright, with a larger company buying the entire company and its pipeline. For Keros shareholders, a successful partnership or acquisition can represent a positive outcome, even if it means the company is no longer independent.
+Not all successful biotechs reach full commercialization independently. Some form partnerships with larger pharmaceutical companies, which provide co-development funding and agree to share upside if the drug is approved. Others are acquired outright, with a larger company buying the entire company and its pipeline. For Keros shareholders, a successful partnership or [acquisition](/acquisition/) can represent a positive outcome, even if it means the company is no longer independent.
 
 The valuation in a partnership or acquisition depends on the strength of the data and the competitive alternatives. A company with a Phase 3-ready asset and encouraging Phase 2 data might command a valuation that implies $1–2 billion in peak sales; an earlier-stage company or one with weaker data might be valued at a discount reflecting the remaining clinical and regulatory risk. Keros's shareholders are implicitly betting that the company will either reach approval and commercialization on its own, or be acquired at a price that justifies their investment.
 
@@ -59,13 +59,13 @@ Regulatory risk, while lower than clinical risk, also exists. The FDA can reques
 
 Keros's patent portfolio—the exclusive rights to its drug candidates and manufacturing processes—is critical to its valuation. Patents provide a period of market exclusivity (typically 17–20 years from filing, but often less due to development time), during which Keros (or a partner/acquirer) can price the drug without generic competition. The strength and breadth of the patent portfolio, and the likelihood of surviving patent challenges, affect the risk-adjusted value of an approved drug.
 
-Keros's 10-K discloses its patents, their expiration dates, and any risks to exclusivity. Sophisticated investors examine this disclosure closely, as a weak or narrow patent portfolio can dramatically reduce the long-term value of an approved drug.
+Keros's 10-K discloses its patents, their [expiration dates](/expiration-contracts/), and any risks to exclusivity. Sophisticated investors examine this disclosure closely, as a weak or narrow patent portfolio can dramatically reduce the long-term value of an approved drug.
 
 ## Burn Rate and Capital Efficiency
 
 As Keros matures and moves programs through clinical development, its annual operating expenses will grow. Phase 3 trials are more expensive than Phase 2, and multiple programs in late-stage development require proportionally more spending. Keros must manage the balance between advancing programs aggressively (high burn, faster milestones) and conserving cash (slow burn, extended runway, but slower progress and risk of falling behind competitors).
 
-The company's cash management is disclosed in its cash flow statement and management guidance in [10-K](/10-k/) filings. Investors can calculate runway and assess whether the company's capital-raising plans align with its expected spending.
+The company's cash management is disclosed in its [cash flow statement](/cash-flow-statement/) and management guidance in [10-K](/10-k/) filings. Investors can calculate runway and assess whether the company's capital-raising plans align with its expected spending.
 
 <div class="wiki-seealso">
 ### Closely related

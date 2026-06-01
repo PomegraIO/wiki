@@ -12,7 +12,7 @@ handwritten: true
 
 ## What is IAC?
 
-IAC Inc. is a publicly traded holding company that owns and operates a diverse portfolio of digital media and commerce properties. Listed on the [Nasdaq](/nasdaq/) under ticker IAC, the company evolved from its roots as a broadcast media company into one of the internet era's most prolific builders and acquirers of digital brands and marketplaces.
+IAC Inc. is a publicly traded holding company that owns and operates a diverse portfolio of digital media and commerce properties. Listed on the [Nasdaq](/nasdaq/) under ticker IAC, the company evolved from its roots as a broadcast media company into one of the internet era's most prolific builders and acquirers of [digital brands](/dbgi-stock/) and marketplaces.
 
 The company operates primarily through four business segments: Dotdash Meredith (digital publishing), Angi Inc. (home services), Search and Monetization (search technology), and Emerging and Other ventures. This portfolio approach allows IAC to maintain exposure to multiple growing digital categories while each segment operates with operational autonomy.
 

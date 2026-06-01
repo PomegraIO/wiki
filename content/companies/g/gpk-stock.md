@@ -16,7 +16,7 @@ keywords: [packaging, containerboard, paper, folding cartons, consumer goods]
 
 ## The Paper Consolidation Era and Foundational Mergers
 
-Graphic Packaging did not exist as a single entity from the industry's founding; rather, it emerged through a series of mergers and consolidations in the late twentieth and early twenty-first centuries. The paper and packaging industry underwent dramatic consolidation as smaller regional mills found they could not compete against larger, more efficient producers or could not justify the capital investment required for modern converting equipment and facilities.
+Graphic Packaging did not exist as a single entity from the industry's founding; rather, it emerged through a series of [mergers](/merger/) and consolidations in the late twentieth and early twenty-first centuries. The paper and packaging industry underwent dramatic consolidation as smaller regional mills found they could not compete against larger, more efficient producers or could not justify the capital investment required for modern converting equipment and facilities.
 
 The company's ancestry includes multiple acquired entities, each bringing a manufacturing footprint, customer relationships, and technical expertise in specific packaging categories. The consolidation logic was straightforward: a combined entity could achieve scale in procurement, manufacturing, and distribution; eliminate duplicate facilities; and cross-sell packaging solutions to customers served by individual legacy companies.
 
@@ -38,7 +38,7 @@ When containerboard prices rise faster than Graphic Packaging can raise prices t
 
 ## Manufacturing Footprint and Capital Requirements
 
-Operating modern paper-converting equipment is capital-intensive. Converting lines must be maintained, regularly upgraded, and periodically replaced. Facilities must meet environmental standards and compete on efficiency. The company manages this through annual capital budgets dedicated to equipment upgrades, facility improvements, and occasional acquisitions of complementary businesses or capacity.
+Operating modern paper-converting equipment is capital-intensive. Converting lines must be maintained, regularly upgraded, and periodically replaced. Facilities must meet environmental standards and compete on efficiency. The company manages this through annual capital budgets dedicated to equipment upgrades, facility improvements, and occasional [acquisitions](/acquisition/) of complementary businesses or capacity.
 
 The geographic footprint matters. Shipping finished cartons is expensive relative to their value, so Graphic Packaging benefits from having converting plants close to customers. The company operates facilities in North America, Europe, and other regions to serve customers across multiple markets. Facility location decisions balance customer proximity against labor costs and manufacturing efficiency.
 
@@ -46,7 +46,7 @@ The geographic footprint matters. Shipping finished cartons is expensive relativ
 
 Graphic Packaging's customers are major consumer-goods and beverage brands—the companies whose products dominate grocery and convenience-store shelves. These are sophisticated customers with leverage. A major beverage company represents enormous volume and can demand volume discounts, supply-chain reliability, and ongoing innovation. The company must balance customer demands against its own margin needs.
 
-Customer concentration is a risk. Loss of a major customer contract would force Graphic Packaging to redeploy capacity, negotiate with other customers, or divest facilities. The company mitigates this through product diversification (serving multiple categories and customer segments) and geographic spread.
+Customer concentration is a risk. Loss of a major customer contract would force Graphic Packaging to redeploy capacity, negotiate with other customers, or divest facilities. The company mitigates this through product [diversification](/diversification/) (serving multiple categories and customer segments) and geographic spread.
 
 ## Sustainability and Recycling Trends
 

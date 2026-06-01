@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Wallbox N.V. designs and manufactures electric-vehicle charging hardware and software for residential and commercial customers across Europe, North America, and other markets. The company is based in Barcelona, Spain, and went public on the [NASDAQ](/nasdaq/) in July 2021 via a [merger](/merger/) with Kandi Technologies' [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC). It sits in a fragmented, rapidly growing corner of the energy transition — the last-mile infrastructure that allows EV owners to charge at home or at work — but the path to profitability remains unproven, and the company continues to burn cash despite revenue growth.
+Wallbox N.V. designs and manufactures electric-vehicle charging hardware and software for residential and commercial customers across Europe, North America, and other markets. The company is based in Barcelona, Spain, and went public on the [NASDAQ](/nasdaq/) in July 2021 via a [merger](/merger/) with [Kandi Technologies](/kndi-stock/)' [special-purpose acquisition company](/special-purpose-acquisition-company/) (SPAC). It sits in a fragmented, rapidly growing corner of the energy transition — the last-mile infrastructure that allows EV owners to charge at home or at work — but the path to profitability remains unproven, and the company continues to burn cash despite revenue growth.
 
 <aside class="wiki-infobox">
 <table>

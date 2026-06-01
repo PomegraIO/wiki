@@ -16,7 +16,7 @@ keywords: ["mobile app", "digital services", "regulation", "consumer protection"
 
 ## App-Store Platform Rules as De Facto Regulation
 
-**Guru App Factory** likely distributes its applications through the Apple App Store or Google Play Store (or both). These platforms are not neutral distribution channels; they are walled gardens with strict rules that function, in effect, as regulatory constraints on Guru's business.
+**Guru App Factory** likely distributes its applications through the [Apple](/aapl-stock/) App Store or Google Play Store (or both). These platforms are not neutral distribution channels; they are walled gardens with strict rules that function, in effect, as regulatory constraints on Guru's business.
 
 Apple and Google impose requirements on app functionality, content, pricing, and payment processing. An app must not crash, must not request excessive permissions, must not include undisclosed advertising, and must handle personal data according to each platform's privacy standards. Apple is particularly aggressive: it reviews apps before approval, rejecting those that violate its guidelines. The review process is opaque—Guru may not know in advance whether its app will be approved, and rejections offer limited explanation. If a key product is rejected or removed from the store, Guru loses access to millions of users and, for that app, loses revenue.
 
@@ -62,7 +62,7 @@ App accessibility is not trivial. It requires design decisions from the outset a
 
 ## Tax Compliance and Nexus
 
-Guru's app likely generates income across the United States and potentially internationally. Each state and local jurisdiction has rules on whether Guru owes sales tax, income tax, or other levies. If Guru is considered to have "nexus" (physical presence, economic presence, or customers) in a jurisdiction, it may owe sales tax on digital products or services. The rules vary: some states tax digital goods like any product; others exempt them. Some states have "economic nexus" thresholds (e.g., if Guru has $100,000 in sales to state residents, the company owes tax). Guru must navigate this complexity, often with outside tax counsel, to avoid audit and penalty exposure.
+Guru's app likely generates income across the United States and potentially internationally. Each state and local jurisdiction has rules on whether Guru owes [sales tax](/sales-tax/), income tax, or other levies. If Guru is considered to have "nexus" (physical presence, economic presence, or customers) in a jurisdiction, it may owe sales tax on digital products or services. The rules vary: some states tax digital goods like any product; others exempt them. Some states have "economic nexus" thresholds (e.g., if Guru has $100,000 in sales to state residents, the company owes tax). Guru must navigate this complexity, often with outside tax counsel, to avoid audit and penalty exposure.
 
 ## Platform Dependencies and Regulatory Risk Aggregation
 

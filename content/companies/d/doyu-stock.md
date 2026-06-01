@@ -61,7 +61,7 @@ Competitive differentiation is fragile. If a streamer with millions of followers
 
 ## Macro Sensitivity and Streamer Dependency
 
-DouYu's revenue is sensitive to Chinese consumer discretionary spending. During economic slowdowns or periods of regulatory uncertainty, viewer spending on virtual gifts contracts sharply. The platform has limited geographic diversification and no material non-China revenue, which means the firm is hostage to China's macro outlook and regulatory environment.
+DouYu's revenue is sensitive to Chinese consumer [discretionary spending](/discretionary-spending/). During economic slowdowns or periods of regulatory uncertainty, viewer spending on virtual gifts contracts sharply. The platform has limited geographic [diversification](/diversification/) and no material non-China revenue, which means the firm is hostage to China's macro outlook and regulatory environment.
 
 Additionally, the platform is vulnerable to concentrated dependency on top streamers. If the top 5% of streamers by viewer count collectively represent 40–50% of revenue (a common pattern on such platforms), the loss of even one major talent to a competitor or to regulatory/behavioral violations can materially depress quarterly results.
 

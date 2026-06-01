@@ -23,7 +23,7 @@ The company operates in a B2B market: its customers are automotive manufacturers
 
 ## Competitive Landscape and Technical Differentiators
 
-The automotive voice and AI market is competitive and increasingly crowded. Apple (Siri), Google (Google Assistant), and Amazon (Alexa) all have automotive variants and voice integrations. These tech giants have vast AI research budgets, large training datasets, and brand recognition. Why would an automaker license from Cerence rather than integrating Apple or Google?
+The automotive voice and AI market is competitive and increasingly crowded. [Apple](/aapl-stock/) (Siri), Google (Google Assistant), and Amazon (Alexa) all have automotive variants and voice integrations. These tech giants have vast AI research budgets, large training datasets, and brand recognition. Why would an automaker license from Cerence rather than integrating Apple or Google?
 
 The answer lies in control, latency, and customization. Automakers are wary of becoming dependent on consumer-tech giants for critical in-car functionality; a change in Apple's API or a degradation of service could disrupt the carmaker's product. Additionally, automotive-specific voice commands (e.g., "turn up the climate control", "find a nearby charging station") benefit from training data and models tuned to driving scenarios. Cerence has decades of data on how drivers actually speak in cars, what commands matter, and how to optimize for the noisy, safety-critical in-vehicle environment. Moreover, automotive deployments demand high reliability and low latency (commands should execute within milliseconds); a carmaker cannot tolerate the cloud-dependency or privacy implications of sending all voice data to Google or Amazon.
 
@@ -49,11 +49,11 @@ The automotive sector is in transition: electric-vehicle adoption is acceleratin
 
 Software licensing businesses, once the initial development and market development investments are made, can achieve high gross margins (70%–80%+) because the marginal cost of delivering an additional software license is near zero. Cerence's gross margins likely reflect this. However, the company must invest heavily in research and development to keep pace with advances in AI/ML, to support multiple languages and automotive markets, and to maintain and enhance its platform.
 
-Operating margins (profit after R&D, sales, and G&A) depend on the company's ability to scale revenue without proportional increases in operating costs—a classic leverage dynamic in software. If Cerence can grow revenue quickly while keeping R&D and sales relatively flat, operating leverage kicks in and profitability improves. If not, the company operates at a loss or thin margins despite high gross margins.
+[Operating margins](/operating-margin/) (profit after R&D, sales, and G&A) depend on the company's ability to scale revenue without proportional increases in operating costs—a classic leverage dynamic in software. If Cerence can grow revenue quickly while keeping R&D and sales relatively flat, operating leverage kicks in and profitability improves. If not, the company operates at a loss or thin margins despite high gross margins.
 
 ## Strategic Dependencies and Risks
 
-Cerence's largest risk is concentration: its revenue is likely concentrated among a handful of large OEM customers. If even one major customer reduces orders or switches to a competitor, revenue could drop sharply. The company likely discloses its top customers in its [10-K](/10-k/) filings; investors should review that disclosure to assess concentration risk.
+Cerence's largest risk is concentration: its revenue is likely concentrated among a handful of large OEM customers. If even one major customer reduces orders or switches to a competitor, revenue could drop sharply. The company likely discloses its top customers in its [10-K](/10-k/) filings; investors should review that disclosure to assess [concentration risk](/concentration-risk/).
 
 Additionally, Cerence is exposed to technology risk: if open-source or proprietary competitors develop equally capable voice and NLU systems at lower cost, the company's pricing power and margins could erode. The pace of AI advancement is rapid, and it is plausible that a well-funded AI company or a larger tech company could displace Cerence within a few years if the company fails to innovate.
 
@@ -61,7 +61,7 @@ Finally, Cerence's success is tied to the success and spending patterns of autom
 
 ## Organizational and Financial Health
 
-As a publicly listed company, Cerence must generate cash flow and manage its balance sheet responsibly. If the company continues to burn cash (operating losses exceed depreciation), it will eventually face a need to raise capital, restructure, or achieve profitability. Understanding whether Cerence is on a path to sustainable profitability is critical for assessing the long-term viability of the business. The company's ability to generate [free cash flow](/free-cash-flow/) and manage its debt burden will determine whether it remains an independent player or becomes a take-private or acquisition target.
+As a publicly listed company, Cerence must generate cash flow and manage its balance sheet responsibly. If the company continues to burn cash (operating losses exceed [depreciation](/depreciation/)), it will eventually face a need to raise capital, restructure, or achieve profitability. Understanding whether Cerence is on a path to sustainable profitability is critical for assessing the long-term viability of the business. The company's ability to generate [free cash flow](/free-cash-flow/) and manage its debt burden will determine whether it remains an independent player or becomes a take-private or [acquisition](/acquisition/) target.
 
 <div class="wiki-seealso">
 

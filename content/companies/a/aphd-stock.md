@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-Verde Bio Holdings traces its origins to the convergence of academic cell therapy research and clinical need. The company emerged from work on engineered T-cell approaches, positioning itself within the growing field of adoptive cell therapies where cells are modified outside the body, then reinfused to [target](/tgt-stock/) disease. This foundation placed Verde squarely in a sector that began attracting serious investment and regulatory attention in the late 2010s.
+Verde Bio Holdings traces its origins to the convergence of academic cell therapy research and clinical need. The company emerged from work on engineered T-cell approaches, positioning itself within the growing field of adoptive cell therapies where cells are modified outside the body, then reinfused to target disease. This foundation placed Verde squarely in a sector that began attracting serious investment and regulatory attention in the late 2010s.
 
 In its early operational phases, Verde assembled a pipeline of programs targeting hematologic malignancies—blood cancers—and inherited genetic disorders. The company's lead candidates involve modified cell populations designed to recognize and attack cancer cells or correct genetic deficiencies. Like many cell and gene therapy developers, Verde has pursued both internal development and partnerships to advance programs through preclinical and early clinical stages. The regulatory pathway for these therapies has become clearer over time, though remains capital-intensive and carries significant technical risk at every phase.
 

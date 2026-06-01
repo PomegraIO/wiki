@@ -33,7 +33,7 @@ As satellite technology improved and launch costs fell, new competitors emerged.
 
 ## Acquisitions and the Consolidation Play
 
-GILAT's response included organic investment in new technology and selective acquisitions of complementary capability. The company acquired stakes in or partnerships with smaller firms focused on constellation-based satellite systems, software-defined networking, and advanced modulation. These moves were defensive in nature—buying optionality on the next wave of satellite technology rather than creating clear new revenue streams. The satellite-communications industry is one of consolidation: equipment makers, service providers, and satellite operators have all faced pressure to combine in order to reach sufficient scale and technical breadth. GILAT's survival has depended on being valuable enough (or large enough) to be a consolidator rather than the consolidated.
+GILAT's response included organic investment in new technology and selective [acquisitions](/acquisition/) of complementary capability. The company acquired stakes in or partnerships with smaller firms focused on constellation-based satellite systems, software-defined networking, and advanced modulation. These moves were defensive in nature—buying optionality on the next wave of satellite technology rather than creating clear new revenue streams. The satellite-communications industry is one of consolidation: equipment makers, service providers, and satellite operators have all faced pressure to combine in order to reach sufficient scale and technical breadth. GILAT's survival has depended on being valuable enough (or large enough) to be a consolidator rather than the consolidated.
 
 ## The Competitive Landscape and Margin Pressure
 

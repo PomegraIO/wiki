@@ -29,7 +29,7 @@ The cost structure includes finding and development capital (drilling new wells)
 
 ## A regional commodity play
 
-What distinguishes Range from some other large energy companies is its focus. Range is primarily a natural gas producer in a specific region, not a diversified energy giant. Competitors like ExxonMobil or [Chevron](/cvx-stock/) have operations in oil and gas across the world, renewable energy investments, and refining businesses. Range has core competency in Appalachian gas development but is much less geographically diversified. This focus is an advantage in operational expertise but a disadvantage in commodity price risk — if natural gas prices fall globally, Range has nowhere else to turn, whereas a diversified company might offset weakness in one commodity or region with strength in another.
+What distinguishes Range from some other large energy companies is its focus. Range is primarily a natural gas producer in a specific region, not a [diversified energy](/dec-stock/) giant. Competitors like ExxonMobil or [Chevron](/cvx-stock/) have operations in oil and gas across the world, renewable energy investments, and refining businesses. Range has core competency in Appalachian gas development but is much less geographically diversified. This focus is an advantage in operational expertise but a disadvantage in commodity price risk — if natural gas prices fall globally, Range has nowhere else to turn, whereas a diversified company might offset weakness in one commodity or region with strength in another.
 
 ## Capital intensity and cash flow
 

@@ -4,7 +4,7 @@ description: "A clinical-stage biopharmaceutical company developing small-molecu
 keywords: ["biotech", "small-molecule drugs", "neurodegeneration", "clinical trials", "drug development"]
 ---
 
-*The pharmaceutical development chain spans from basic research (universities, government institutes) through drug discovery and preclinical testing, into clinical trials spanning Phase 1 through Phase 3, and finally to regulatory approval and commercialization. **Coya Therapeutics, Inc.** (ticker COYA, CIK 1835022) operates in the clinical-stage segment of this chain: it takes compounds that have shown promise in laboratory or preclinical settings, advances them into human clinical trials, manages the regulatory pathway toward FDA approval, and plans for commercial manufacturing and marketing. The company generates no product revenue yet; it funds operations through equity financing and strategic partnerships, betting that its lead candidates will successfully reach and pass clinical milestones.*
+*The pharmaceutical development chain spans from basic research (universities, government institutes) through drug discovery and preclinical testing, into clinical trials spanning Phase 1 through Phase 3, and finally to regulatory approval and commercialization. **Coya Therapeutics, Inc.** (ticker COYA, CIK 1835022) operates in the clinical-stage segment of this chain: it takes compounds that have shown promise in laboratory or preclinical settings, advances them into human clinical trials, manages the regulatory pathway toward FDA approval, and plans for commercial manufacturing and marketing. The company generates no product revenue yet; it funds operations through [equity financing](/equity-financing/) and strategic partnerships, betting that its lead candidates will successfully reach and pass clinical milestones.*
 
 <aside class="wiki-infobox">
 <table>
@@ -43,7 +43,7 @@ Downstream, Coya will eventually (if a drug is approved) need to commercialize: 
 
 ## The Cash Burn and Financing Imperative
 
-Coya is not yet revenue-generating. It funds operations by raising equity capital (issuing shares to venture capital investors, hedge funds, or public shareholders through an IPO or secondary offerings) or through partnerships and milestone payments from strategic partners. This creates a recurring financing need: as cash reserves deplete, the company must raise more capital or face insolvency. The stock price and market sentiment directly affect the company's ability to raise capital. A failed trial or adverse event can trigger a sharp stock decline and make future financing difficult.
+Coya is not yet revenue-generating. It funds operations by raising equity capital (issuing shares to venture capital investors, [hedge funds](/hedge-fund/), or public shareholders through an IPO or [secondary offerings](/secondary-offering/)) or through partnerships and milestone payments from strategic partners. This creates a recurring financing need: as cash reserves deplete, the company must raise more capital or face insolvency. The stock price and market sentiment directly affect the company's ability to raise capital. A failed trial or adverse event can trigger a sharp stock decline and make future financing difficult.
 
 Most clinical-stage biotech companies are capital-constrained; they must carefully prioritize which programs to advance and which to pause or abandon based on financial runway and probability of success.
 
@@ -55,7 +55,7 @@ The scientific insights themselves—understanding which mechanism to target, ho
 
 ## Strategic Alternatives and Endpoints
 
-A clinical-stage biotech's trajectory typically ends one of several ways. Best case: a lead drug is approved, commercialized successfully, and generates strong revenue. Acquisition case: a larger pharma company buys the biotech's pipeline while drugs are still in trials, betting it can advance them to approval and sales. Partial success: one drug is approved, others fail or are abandoned, and the company either shrinks to focus on the approved drug or is wound down. Failure: the lead candidate fails trials and the company cannot raise capital for a pivot.
+A clinical-stage biotech's trajectory typically ends one of several ways. Best case: a lead drug is approved, commercialized successfully, and generates strong revenue. [Acquisition](/acquisition/) case: a larger pharma company buys the biotech's pipeline while drugs are still in trials, betting it can advance them to approval and sales. Partial success: one drug is approved, others fail or are abandoned, and the company either shrinks to focus on the approved drug or is wound down. Failure: the lead candidate fails trials and the company cannot raise capital for a pivot.
 
 Coya's investors are betting that the company's pipeline will yield at least one approved drug and that the commercial opportunity in neurodegenerative disease is large enough to justify the current valuation. This is a high-variance bet with outcomes resolved over years.
 

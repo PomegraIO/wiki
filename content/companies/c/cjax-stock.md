@@ -4,7 +4,7 @@ description: "Oil and gas exploration and production company with operations in 
 keywords: [oil and gas, exploration, production, Gulf of Mexico, petroleum, drilling, CIK 1763925]
 ---
 
-*CoJax Oil & Gas (CJAX) operates in the oil and gas exploration and production business, meaning it spends its operational days managing drilling rigs, maintaining production facilities, handling logistics for moving crude oil and natural gas, managing the relationships with landowners and lessees, and making capital allocation decisions about where to drill next. The company's primary work is extracting hydrocarbons from the ground, processing them, and selling them to refineries and utilities.*
+*CoJax Oil & Gas (CJAX) operates in the oil and gas exploration and production business, meaning it spends its operational days managing drilling rigs, maintaining production facilities, handling logistics for moving [crude oil](/crude-oil/) and [natural gas](/natural-gas/), managing the relationships with landowners and lessees, and making capital allocation decisions about where to drill next. The company's primary work is extracting hydrocarbons from the ground, processing them, and selling them to refineries and utilities.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CJAX</td></tr>
@@ -26,7 +26,7 @@ Once a well is complete and producing, the company's job shifts to operations an
 
 CoJax's assets consist primarily of its producing wells, which are depleting assets. Unlike a manufacturing facility that can operate indefinitely if maintained, a oil well has a finite productive life: it produces at an initial rate and declines over time as the pressure in the reservoir drops and as oil becomes more difficult to extract. A well might be productive for 5 years or 20 years depending on the reservoir's characteristics and the company's decisions about extraction rates.
 
-The company's financial health depends on continuously replacing produced reserves with new discoveries or acquisitions. If CoJax produces 100 barrels of oil equivalent per day but discovers only 50 barrels per day of new reserves, then in a few years its production will decline unless it acquires reserves from competitors or continues exploration. This is the fundamental dynamic of exploration and production companies: they must be explorers or acquirers or face declining production and shrinking value.
+The company's financial health depends on continuously replacing produced reserves with new discoveries or [acquisitions](/acquisition/). If CoJax produces 100 barrels of oil equivalent per day but discovers only 50 barrels per day of new reserves, then in a few years its production will decline unless it acquires reserves from competitors or continues exploration. This is the fundamental dynamic of exploration and production companies: they must be explorers or acquirers or face declining production and shrinking value.
 
 Reserve replacement can be quantified: the company calculates reserves remaining in its producing wells (based on geological estimates) and the rate at which reserves are being produced. A reserve replacement ratio below 100 percent—meaning the company produced more than it replaced—signals that the asset base is declining. This is disclosed in the company's 10-K and is closely tracked by investors.
 
@@ -42,7 +42,7 @@ Drilling costs are semi-discretionary: the company can cut drilling to preserve 
 
 CoJax's revenue depends entirely on commodity prices: the price at which it can sell crude oil and natural gas. These prices are set in global markets and are beyond the company's control. When crude oil prices rise to $100 per barrel, the company's revenue surges and cash flow becomes robust; when prices fall to $40 per barrel, revenue and cash flow collapse despite unchanged production volumes.
 
-This price volatility creates operational challenges. A company might develop a $50 million project assuming $70 per barrel oil; if prices fall to $50, the project no longer generates sufficient return to justify its cost. The company must make long-term development decisions knowing that prices may move against the project before it generates any return. Some companies hedge commodity risk by selling futures contracts or entering commodity hedges; this reduces upside if prices rise but limits downside if prices fall.
+This price volatility creates operational challenges. A company might develop a $50 million project assuming $70 per barrel oil; if prices fall to $50, the project no longer generates sufficient return to justify its cost. The company must make long-term development decisions knowing that prices may move against the project before it generates any return. Some companies hedge commodity risk by selling [futures contracts](/futures-contract/) or entering commodity hedges; this reduces upside if prices rise but limits downside if prices fall.
 
 ## Reserves and resource base
 
@@ -66,9 +66,9 @@ The company must also have access to markets for its production. Oil can be tran
 
 ## Financial structure and cash flow
 
-CoJax's financial health depends on the relationship between cash inflow (from selling oil and gas) and cash outflow (for operations, maintenance, exploration, and interest on debt). When commodity prices are high, cash flow can exceed capital expenditures, allowing the company to pay down debt or return cash to shareholders. When prices are low, cash flow may not cover maintenance capital, requiring the company to reduce its dividend or draw on cash reserves.
+CoJax's financial health depends on the relationship between cash inflow (from selling oil and gas) and cash outflow (for operations, maintenance, exploration, and interest on debt). When commodity prices are high, cash flow can exceed capital expenditures, allowing the company to pay down debt or return cash to shareholders. When prices are low, cash flow may not cover maintenance capital, requiring the company to reduce its [dividend](/dividend/) or draw on cash reserves.
 
-The company's balance sheet reflects its level of debt and cash. Higher debt means higher fixed costs (interest payments), which creates risk if commodity prices fall and cash flow declines. The company must manage its balance sheet knowing that a commodity downturn could eliminate cash flow and threaten its ability to service debt.
+The company's [balance sheet](/balance-sheet/) reflects its level of debt and cash. Higher debt means higher fixed costs (interest payments), which creates risk if commodity prices fall and cash flow declines. The company must manage its balance sheet knowing that a commodity downturn could eliminate cash flow and threaten its ability to service debt.
 
 <div class="wiki-seealso">
 ### Closely related

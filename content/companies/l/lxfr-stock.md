@@ -30,7 +30,7 @@ The certification pathways differ: US cylinders require ASME code compliance and
 
 Luxfer's cylinders serve distinct end markets, each with its own regulatory overlay. Medical-gas cylinders used in hospitals are subject to FDA oversight as medical devices (or components thereof). The firm must comply with FDA's Quality System Regulation (QSR, now referred to under the more recent terminology), which requires design controls, manufacturing controls, supplier management, and complaint tracking. A defective medical-gas cylinder—one that leaks or ruptures in a hospital—could harm patients and trigger FDA warning letters, product recalls, or consent decrees.
 
-Breathing-gas cylinders for diving are regulated under similar standards but with additional safety margins, as failure underwater can be fatal. Cylinders for alternative-fuel vehicles (compressed natural gas) are regulated by the automotive industry and regional standards bodies. Each end market requires product-development and testing investments to ensure cylinder designs meet segment-specific requirements.
+Breathing-gas cylinders for diving are regulated under similar standards but with additional safety margins, as failure underwater can be fatal. Cylinders for alternative-fuel vehicles (compressed [natural gas](/natural-gas/)) are regulated by the automotive industry and regional standards bodies. Each end market requires product-development and testing investments to ensure cylinder designs meet segment-specific requirements.
 
 ## Material Qualification and Supply-Chain Oversight
 

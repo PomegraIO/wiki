@@ -27,7 +27,7 @@ The value added at each stage of this chain is increasing. Raw ore has low value
 
 ## Upstream Mining and Mineral Sources
 
-IBATF holds or operates mining properties producing or exploring for critical metals. The company's model combines organic development (building its own mines or processing facilities) with inorganic growth (acquiring mining operations or forming joint ventures with established miners).
+IBATF holds or operates mining properties producing or exploring for [critical metals](/crml-stock/). The company's model combines organic development (building its own mines or processing facilities) with inorganic growth (acquiring mining operations or forming joint ventures with established miners).
 
 Mining lithium, cobalt, and nickel generates environmental and social challenges. Lithium extraction, primarily from salt flats in South America and hard-rock mines in Australia and Canada, requires large water volumes and generates significant brine or waste rock. These operations face scrutiny from environmental regulators and local communities concerned about water depletion and ecosystem damage.
 
@@ -65,7 +65,7 @@ IBATF's business is exposed to battery material prices. When lithium prices rise
 
 If IBATF is a net buyer of mineral concentrates (purchasing ore and refining it), it is long commodity risk: if lithium prices fall, it incurs losses or is forced to operate at lower margins. If IBATF is a net producer (operating mines), it benefits from price increases.
 
-The company can hedge commodity price risk by entering futures contracts, locking in prices for future sales. However, hedging is imperfect and has costs, and many battery material companies choose not to hedge extensively, accepting price volatility.
+The company can hedge commodity price risk by entering [futures contracts](/futures-contract/), locking in prices for future sales. However, hedging is imperfect and has costs, and many battery material companies choose not to hedge extensively, accepting price volatility.
 
 This volatility affects investor returns. In periods when battery material prices soar—as occurred in 2021–2022—companies like IBATF see earnings surge. In periods of oversupply and price collapse—as occurred in 2023–2024—earnings tank. Investors must evaluate whether they are comfortable with this cyclicality.
 
@@ -75,7 +75,7 @@ Governments increasingly view battery material supply as a matter of national se
 
 This geopolitical backdrop creates both opportunity and risk for IBATF. If the company operates processing facilities in geopolitically favorable regions (Canada, Australia, or the United States), it becomes a potential partner for government-supported supply chains and OEM customers seeking diversified sourcing. Conversely, if the company is exposed to China or geopolitically sensitive regions, regulatory risk and customer hesitation may constrain growth.
 
-Recent U.S. policy (Inflation Reduction Act, critical minerals initiatives) has included subsidies, tax credits, and production incentives for domestic battery material production. IBATF and similar companies can benefit from these incentives if they qualify and can absorb the compliance and administrative requirements.
+Recent U.S. policy ([Inflation](/inflation/) Reduction Act, critical minerals initiatives) has included subsidies, tax credits, and production incentives for domestic battery material production. IBATF and similar companies can benefit from these incentives if they qualify and can absorb the compliance and administrative requirements.
 
 ## Capital Requirements and Financial Stress
 
@@ -87,7 +87,7 @@ The company's financial stability depends on managing cash flows (mining and pro
 
 ## Competition and Market Consolidation
 
-The battery materials business is consolidating. Major mining companies (Rio Tinto, Glencore, Albemarle) are expanding into battery metals processing; large chemical companies are doing the same. These giants have lower capital costs, better access to financing, and existing customer relationships.
+The battery materials business is consolidating. Major mining companies ([Rio Tinto](/rtntf-stock/), Glencore, Albemarle) are expanding into battery metals processing; large chemical companies are doing the same. These giants have lower capital costs, better access to financing, and existing customer relationships.
 
-IBATF competes by focusing on specific materials or technologies where it can build advantage, by maintaining agility and speed of innovation, or by targeting customer segments underserved by giants. However, IBATF also faces risk that it may become a takeover target if a larger company seeks to acquire its assets, technology, or customer relationships. This acquisition risk affects long-term strategic planning and shareholder returns; an acquisition at a premium to standalone value can be highly attractive, while a strategic combination at fair value may not fully reward investors who bore early-stage risk.
+IBATF competes by focusing on specific materials or technologies where it can build advantage, by maintaining agility and speed of innovation, or by targeting customer segments underserved by giants. However, IBATF also faces risk that it may become a takeover target if a larger company seeks to acquire its assets, technology, or customer relationships. This [acquisition](/acquisition/) risk affects long-term strategic planning and shareholder returns; an acquisition at a premium to standalone value can be highly attractive, while a strategic combination at [fair value](/fair-value/) may not fully reward investors who bore early-stage risk.
 

@@ -21,11 +21,11 @@ The largest end-market for MTX's coatings and mineral fillers has historically b
 
 ## Commodity Price Passthrough and Margin Compression
 
-While MTX operates in "specialty" materials, many of its products compete on cost and performance simultaneously. Input costs (mineral ore, energy, freight) fluctuate with global commodity cycles. MTX attempts to pass these costs through to customers via pricing adjustments, but the lag and the completeness of the passthrough vary. In periods of rapid input inflation (as seen in 2021–2022), companies like MTX that operate on lower margins and have long-term contracts may see margin compression before they can renegotiate pricing. Conversely, in deflationary periods, customers negotiate price reductions, and MTX must comply or risk losing the account. This dynamic keeps returns on capital volatile and makes forward guidance uncertain.
+While MTX operates in "specialty" materials, many of its products compete on cost and performance simultaneously. Input costs (mineral ore, energy, freight) fluctuate with global commodity cycles. MTX attempts to pass these costs through to customers via pricing adjustments, but the lag and the completeness of the passthrough vary. In periods of rapid input [inflation](/inflation/) (as seen in 2021–2022), companies like MTX that operate on lower margins and have long-term contracts may see margin compression before they can renegotiate pricing. Conversely, in deflationary periods, customers negotiate price reductions, and MTX must comply or risk losing the account. This dynamic keeps returns on capital volatile and makes [forward guidance](/forward-guidance/) uncertain.
 
 ## Leverage and Refinancing Risk
 
-Like many industrials, MTX has historically carried debt to fund operations, acquisitions, and capital investments. In a rising interest-rate environment, refinancing costs increase. If the company carries floating-rate debt or has significant maturities coming due, a spike in rates or a deterioration in credit conditions could force disadvantageous refinancing. Conversely, if MTX attempts to deleverage during a downturn, it may be forced to sell assets or curtail growth investments, locking in a lower trajectory.
+Like many industrials, MTX has historically carried debt to fund operations, [acquisitions](/acquisition/), and capital investments. In a rising interest-rate environment, refinancing costs increase. If the company carries floating-rate debt or has significant maturities coming due, a spike in rates or a deterioration in credit conditions could force disadvantageous refinancing. Conversely, if MTX attempts to deleverage during a downturn, it may be forced to sell assets or curtail growth investments, locking in a lower trajectory.
 
 ## Geographic Exposure and Currency Volatility
 
@@ -45,7 +45,7 @@ Mining and processing minerals generate dust, water discharge, and waste. MTX mu
 
 ## Acquisition Integration Risk
 
-If MTX pursues growth through acquisition, it assumes integration risk: overpaying for targets, failing to realize synergies, losing key employees, or inheriting environmental or legal liabilities. The specialty chemicals industry has seen multiple high-profile acquisition failures or disappointments when cost synergies failed to materialize or when the acquired business underperformed in a recession.
+If MTX pursues growth through acquisition, it assumes integration risk: overpaying for targets, failing to realize synergies, losing key employees, or inheriting environmental or legal liabilities. The specialty chemicals industry has seen multiple high-profile acquisition failures or disappointments when cost synergies failed to materialize or when the acquired business underperformed in a [recession](/recession/).
 
 ## See Also
 

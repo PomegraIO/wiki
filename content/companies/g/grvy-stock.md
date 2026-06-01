@@ -19,13 +19,13 @@ keywords: ["gaming", "entertainment", "online", "Korea", "digital", "SEC"]
 
 Online gaming is nearly three decades old and shows no signs of stopping. Millions play simultaneously across consoles, PC, and mobile. Monthly active users, engagement time, and monetization have grown steadily for two decades. The secular thesis is uncontroversial: people play games, games require servers and studios, studios like Gravity will exist and profit as long as games are played.
 
-Gravity, a South Korean studio, developed and operates Ragnarok and other franchises that have attracted millions of players across Asia and beyond. The franchise-based model is secular strength: once a game achieves cultural penetration (Ragnarok has roots in Korea reaching back to the late 1990s), it generates reliable revenue from dedicated players, repeat purchases, and new user acquisition. As long as the studio maintains server uptime, releases content updates, and keeps the game playable, a meaningful cohort of players will spend money.
+Gravity, a South Korean studio, developed and operates Ragnarok and other franchises that have attracted millions of players across Asia and beyond. The franchise-based model is secular strength: once a game achieves cultural penetration (Ragnarok has roots in Korea reaching back to the late 1990s), it generates reliable revenue from dedicated players, repeat purchases, and new user [acquisition](/acquisition/). As long as the studio maintains server uptime, releases content updates, and keeps the game playable, a meaningful cohort of players will spend money.
 
 This is not like film or books, where a story ends and audience disperses. A living game can persist indefinitely, generating revenue decades after launch. The secular durability is real.
 
 ## The Cyclical Vulnerabilities: Retention and Launches
 
-Yet quarterly earnings are acutely cyclical. Player bases fluctuate based on content releases, seasonal events, competing games, and macroeconomic sentiment. A major game update can revive a flagging player base and spike revenue. A poor update or a competitor's launch can drain players and revenue in weeks. Player acquisition cost inflation during bull markets is followed by severe compression in downturns as mobile user costs plummet.
+Yet quarterly earnings are acutely cyclical. Player bases fluctuate based on content releases, seasonal events, competing games, and macroeconomic sentiment. A major game update can revive a flagging player base and spike revenue. A poor update or a competitor's launch can drain players and revenue in weeks. Player acquisition cost [inflation](/inflation/) during [bull markets](/bull-market/) is followed by severe compression in downturns as mobile user costs plummet.
 
 For Gravity, two cyclical pressures are fundamental. First, retention cycles: players engage in bursts, driven by new content, and fade during content droughts. Monthly active users and daily active users oscillate seasonally and with content calendars. Revenue moves with these cycles, independent of macroeconomic conditions—a player base churns because game design lagged, not because a recession hit.
 
@@ -35,13 +35,13 @@ Second, competitive launch cycles: when a rival studio releases a major game, it
 
 Gravity operates substantially in China and Southeast Asia, regions where regulatory environments are unstable and political. Chinese regulators have imposed gaming-hour caps on minors, restricted monetization mechanics, and banned certain game mechanics (loot boxes, in some contexts). These regulatory shifts are not economic cycles; they are political cycles that can instantly reshape the economics of a game.
 
-A game that was profitable under one regulatory regime becomes unprofitable under a new one. If China suddenly restricts in-game purchases for a genre Gravity relies on, the company's revenue contracts by a material percentage. These regulatory cycles are harder to predict than business cycles and potentially more disruptive.
+A game that was profitable under one regulatory regime becomes unprofitable under a new one. If China suddenly restricts in-game purchases for a genre Gravity relies on, the company's revenue contracts by a material percentage. These regulatory cycles are harder to predict than [business cycles](/business-cycle/) and potentially more disruptive.
 
 Similarly, Southeast Asian regulators have explored gambling-style game mechanics and sought to regulate or tax them. Gravity's exposure to these regions means exposure to regulatory unpredictability that can swing earnings independent of underlying player demand.
 
 ## Currency Cycles and Earnings Volatility
 
-Gravity reports in US dollars (as a NASDAQ company) but earns revenue in Korean won, Chinese yuan, Philippine pesos, Thai baht, and other Asian currencies. When the US dollar strengthens (as it did in 2022–2023), Gravity's foreign earnings translate into fewer dollars, compressing reported revenue and earnings. When the dollar weakens, translation gains flow to the bottom line.
+Gravity reports in [US dollars](/us-dollar/) (as a [NASDAQ](/nasdaq/) company) but earns revenue in Korean won, Chinese yuan, Philippine pesos, Thai baht, and other Asian currencies. When the US dollar strengthens (as it did in 2022–2023), Gravity's foreign earnings translate into fewer dollars, compressing reported revenue and earnings. When the dollar weakens, translation gains flow to the bottom line.
 
 A 15–20% move in USD/KRW can swing Gravity's annual earnings by a similar magnitude, independent of actual business performance. This is a pure currency cycle, not a business cycle. For an investor analyzing Gravity's long-term trajectory, currency fluctuations are noise; for a trader looking at quarterly earnings, they are material. A quarter of strong local-currency business can report as weak US-dollar earnings if the currency moved.
 
@@ -55,7 +55,7 @@ Gravity's margins and cash flow are therefore beholden to this cycle. In years o
 
 ## Macro Cycles: Discretionary Spending and Recessions
 
-Finally, gaming is a discretionary consumer expense. In severe recessions, spending on in-game purchases falls as people prioritize essentials. Mobile gaming is less impacted than console gaming, and Gravity's portfolio spans both. But the fundamental exposure remains: in downturns, players spend less per session, lower-income players exit, and monetization metrics decline.
+Finally, gaming is a discretionary consumer expense. In severe [recessions](/recession/), spending on in-game purchases falls as people prioritize essentials. Mobile gaming is less impacted than console gaming, and Gravity's portfolio spans both. But the fundamental exposure remains: in downturns, players spend less per session, lower-income players exit, and monetization metrics decline.
 
 This is a genuine macroeconomic cycle, lasting 1–5 years, that Gravity cannot control. The secular demand for games persists through recessions, but the quality of that demand—how much players spend—fluctuates sharply.
 

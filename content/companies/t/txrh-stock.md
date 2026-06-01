@@ -57,7 +57,7 @@ This structure means that Texas Roadhouse's profitability is highly sensitive to
 
 The casual-dining sector has contracted significantly since the financial crisis of 2008–2009, as consumers have shifted to both more casual, off-premise formats (fast-casual chains, delivery) and to fine dining and quick service. Texas Roadhouse has weathered that shift better than many peers because of its unit-level profitability and strong brand loyalty, but the sector remains structurally challenged.
 
-Competition is intense and comes from multiple directions. Fine-casual steakhouse concepts like Ruth's Chris and Fleming's compete directly on product quality. Fast-casual chains like Cava and Shake Shack have captured younger diners and occasion-eaters who might have visited a traditional casual-dining steakhouse. At the same time, quick-service burger and sandwich operators (Wendy's, Chick-fil-A) offer lower price points and faster service.
+Competition is intense and comes from multiple directions. Fine-casual steakhouse concepts like Ruth's Chris and Fleming's compete directly on product quality. Fast-casual chains like Cava and [Shake Shack](/shak-stock/) have captured younger diners and occasion-eaters who might have visited a traditional casual-dining steakhouse. At the same time, quick-service burger and sandwich operators (Wendy's, Chick-fil-A) offer lower price points and faster service.
 
 Labour [inflation](/inflation/) has been a persistent headwind. Minimum wages have risen in many states, and competition for crew is acute. Texas Roadhouse has largely managed this by maintaining higher wage levels to attract and retain staff, but that strategy limits margin expansion even as sales grow.
 

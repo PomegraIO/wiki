@@ -46,7 +46,7 @@ M-tron must manage suppliers carefully and maintain redundancy where possible. T
 
 M-tron's revenue is lumpy and dependent on the programs its customers are running. If a major defense program (a new fighter jet, a satellite constellation, a communications system) ramps, M-tron's revenue grows; when programs are delayed or cancelled, revenue falls. This is unpredictable—it depends on government budgets, congressional appropriations, international conflicts, and customer technical requirements that change over time.
 
-Additionally, aerospace and defense spending cycles tend to move together: industry contractions affect multiple major customers simultaneously. M-tron cannot fully diversify this risk because its customer base is concentrated in a few large primes (Boeing, Lockheed, Northrop Grumman, Raytheon) and their subcontractors.
+Additionally, aerospace and defense spending cycles tend to move together: industry contractions affect multiple major customers simultaneously. M-tron cannot fully diversify this risk because its customer base is concentrated in a few large primes ([Boeing](/ba-stock/), Lockheed, Northrop Grumman, Raytheon) and their subcontractors.
 
 ## Intellectual Property and Long-Term Moat
 

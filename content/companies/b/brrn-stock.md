@@ -4,7 +4,7 @@ description: "Specialty healthcare services provider earning revenue through cli
 keywords: [healthcare-services, clinical-operations, physician-network, healthcare-administration, specialty-care, outsourcing]
 ---
 
-*Bryn operates in healthcare services, generating revenue through two distinct mechanisms: direct clinical delivery (where the company or its network physicians treat patients and bill insurers for services rendered) and administrative or consulting engagements where the company charges healthcare organizations for operational or management expertise. The margin structure depends on the revenue mix—clinical services carry high patient-volume requirements and insurance reimbursement rates; administrative services offer greater predictability but lower volume.*
+*Bryn operates in [healthcare services](/hcsg-stock/), generating revenue through two distinct mechanisms: direct clinical delivery (where the company or its network physicians treat patients and bill insurers for services rendered) and administrative or consulting engagements where the company charges healthcare organizations for operational or management expertise. The margin structure depends on the revenue mix—clinical services carry high patient-volume requirements and insurance reimbursement rates; administrative services offer greater predictability but lower volume.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BRRN</td></tr>
@@ -52,7 +52,7 @@ Some healthcare services companies employ physicians directly (staff model); oth
 
 Bryn can grow by expanding its existing clinical footprint—opening new clinics, adding physicians, or entering new geographies. Each new location requires local credentialing, facility lease, and referral relationships; growth in clinical operations is capital-intensive and operationally complex.
 
-Alternatively, the company can scale through acquisition: buying existing practices or health systems and integrating them into Bryn's operations and billing infrastructure. Acquisition can provide immediate patient volume but carries integration risk and often requires integration of multiple EMR systems, staffing models, and cultures.
+Alternatively, the company can scale through [acquisition](/acquisition/): buying existing practices or health systems and integrating them into Bryn's operations and billing infrastructure. Acquisition can provide immediate patient volume but carries integration risk and often requires integration of multiple EMR systems, staffing models, and cultures.
 
 The highest-margin growth path is scaling the administrative services or consulting practice: leveraging existing expertise and software to serve multiple health systems without proportional increase in headcount. This requires the company to have built truly differentiated IP or to have established a brand strong enough to command premium consulting rates.
 

@@ -25,7 +25,7 @@ Netcapital benefits modestly from network effects, but these effects are weak an
 
 ## Brand and Visibility Challenge
 
-Netcapital's brand is not a strong moat because the crowdfunding space is not dominated by memorable brand leaders. Investors researching equity crowdfunding platforms evaluate them on metrics like deal volume, success rates, platform quality, and company reputation. Netcapital does not have obvious brand dominance in the space; competitors can challenge it through marketing and product improvements. The company must continuously invest in user acquisition to grow, which is a cost burden that erodes margins and makes the business less defensible than platforms with strong organic growth or brand lock-in.
+Netcapital's brand is not a strong moat because the crowdfunding space is not dominated by memorable brand leaders. Investors researching equity crowdfunding platforms evaluate them on metrics like deal volume, success rates, platform quality, and company reputation. Netcapital does not have obvious brand dominance in the space; competitors can challenge it through marketing and product improvements. The company must continuously invest in user [acquisition](/acquisition/) to grow, which is a cost burden that erodes margins and makes the business less defensible than platforms with strong organic growth or brand lock-in.
 
 ## Issuer Switching Costs
 
@@ -41,7 +41,7 @@ Crowdfunding platforms require two resources that create modest competitive adva
 
 ## Regulatory Change Risk
 
-Netcapital's moat is contingent on the regulatory environment. Changes to Regulation A or Regulation Crowdfunding (which govern equity crowdfunding) could strengthen or weaken the company's position. A relaxation of rules might reduce the regulatory complexity that creates Netcapital's moat and enable simpler competitors to enter. Conversely, tighter regulations could strengthen the moat by raising barriers further. The company has limited control over these changes, making regulatory risk material to its defensibility.
+Netcapital's moat is contingent on the regulatory environment. Changes to [Regulation A](/regulation-a/) or [Regulation Crowdfunding](/regulation-cf/) (which govern equity crowdfunding) could strengthen or weaken the company's position. A relaxation of rules might reduce the regulatory complexity that creates Netcapital's moat and enable simpler competitors to enter. Conversely, tighter regulations could strengthen the moat by raising barriers further. The company has limited control over these changes, making regulatory risk material to its defensibility.
 
 ## Market Size and Addressable Opportunity
 
@@ -49,7 +49,7 @@ The equity crowdfunding market is small relative to venture capital markets over
 
 ## How to Research Netcapital
 
-Investors should review Netcapital's [10-K](/10-K/) (SEC CIK 1414767) to understand take-rates, transaction volume trends, customer concentration among issuers, and operating margins. Examine whether the company is profitable on a transaction basis and at what scale. Review SEC filings for regulatory enforcement actions or compliance issues. Compare Netcapital's deal volume and success rate against competitors (AngelList, SeedInvest, Republic) to assess competitive positioning. Analyze the profile of issuers using the platform: are they high-quality, well-informed companies, or marginal ventures? Understand the secondary-market functionality and whether Netcapital is diversifying into ancillary services (portfolio management, data tools) that might strengthen defensibility.
+Investors should review Netcapital's [10-K](/10-K/) (SEC CIK 1414767) to understand take-rates, transaction volume trends, customer concentration among issuers, and [operating margins](/operating-margin/). Examine whether the company is profitable on a transaction basis and at what scale. Review SEC filings for regulatory enforcement actions or compliance issues. Compare Netcapital's deal volume and success rate against competitors (AngelList, SeedInvest, Republic) to assess competitive positioning. Analyze the profile of issuers using the platform: are they high-quality, well-informed companies, or marginal ventures? Understand the secondary-market functionality and whether Netcapital is diversifying into ancillary services (portfolio management, data tools) that might strengthen defensibility.
 
 <div class="wiki-seealso">
 ### Closely related

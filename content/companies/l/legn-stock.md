@@ -51,7 +51,7 @@ Profitability in cell therapy is not straightforward. Early revenues go largely 
 
 ## The science that makes it hard to copy
 
-CAR-T therapy sounds simple in concept: edit the cell, grow it, return it. In practice, the engineering is intricate. How do you minimize the risk that T cells attack healthy tissue as well as cancer? How do you engineer them to persist long-term, multiplying and remembering the [target](/tgt-stock/) for years? How do you manufacture a living product consistently, scaling from dozens of patient doses to thousands without losing efficacy?
+CAR-T therapy sounds simple in concept: edit the cell, grow it, return it. In practice, the engineering is intricate. How do you minimize the risk that T cells attack healthy tissue as well as cancer? How do you engineer them to persist long-term, multiplying and remembering the target for years? How do you manufacture a living product consistently, scaling from dozens of patient doses to thousands without losing efficacy?
 
 Legend's intellectual property—the specific CAR designs, the manufacturing methods, the refinements that make cilta-cel work as well as it does—represents years of R&D and creates genuine barriers to competition. But the field of CAR-T is not a Legend monopoly. Other companies, including [Novartis](/nvs-stock/) and [Bristol Myers Squibb](/bmy-stock/), have their own approved CAR-T therapies. Competition is real, and as the field matures, price pressure is likely. The differentiation comes down to clinical performance, manufacturing reliability, and the breadth of indications a company can reach.
 

@@ -53,7 +53,7 @@ Supply-chain disruptions in the automotive sector are frequent and consequential
 
 ## Customer Concentration and the Competitive Pressure to Reduce Costs
 
-A small number of large automotive OEMs (General Motors, Ford, Volkswagen, Toyota) and a tier of Tier-1 suppliers account for the vast majority of stamping and tooling demand. If HIRU has built a strong relationship with one or two major customers, the company's revenue is concentrated in those relationships. A major customer's decision to source dies from a lower-cost supplier or to insource tooling can result in significant revenue loss.
+A small number of large automotive OEMs ([General Motors](/gm-stock/), Ford, Volkswagen, Toyota) and a tier of Tier-1 suppliers account for the vast majority of stamping and tooling demand. If HIRU has built a strong relationship with one or two major customers, the company's revenue is concentrated in those relationships. A major customer's decision to source dies from a lower-cost supplier or to insource tooling can result in significant revenue loss.
 
 The automotive industry's relentless pressure on suppliers to reduce costs—typically 2–3% annual cost reductions—requires HIRU to continuously improve its manufacturing efficiency, find cheaper material sources, or move labor-intensive processes to lower-cost jurisdictions. This imperative to reduce costs while maintaining quality and on-time delivery is the central operational challenge for companies like HIRU. Failure to achieve cost reductions can result in loss of contracts; aggressive cost reduction can sacrifice quality or profitability.
 

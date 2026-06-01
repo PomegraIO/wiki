@@ -4,7 +4,7 @@ description: "A small-cap data infrastructure company filing with the SEC under 
 keywords: ["data storage", "infrastructure", "small-cap", "technology"]
 ---
 
-*A US-listed company trading under the ticker **DTST** (CIK [1419951](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1419951)), **Data Storage Corp** operates at the intersection of commodity hardware, software integration, and customer acquisition—a position laden with both structural headwinds and competitive pressure. The company's viability hinges on maintaining differentiation in a market where underlying hardware is fungible and where larger rivals command both distribution and economies of scale.*
+*A US-listed company trading under the ticker **DTST** (CIK [1419951](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1419951)), **Data Storage Corp** operates at the intersection of commodity hardware, software integration, and customer [acquisition](/acquisition/)—a position laden with both structural headwinds and competitive pressure. The company's viability hinges on maintaining differentiation in a market where underlying hardware is fungible and where larger rivals command both distribution and economies of scale.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>DTST</td></tr>

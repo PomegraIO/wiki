@@ -31,7 +31,7 @@ Store profitability depends on achieving sufficient daily transaction volume and
 
 Cannabis retailers operate under Health Canada's Cannabis Tracking System (CTS), a government-mandated system that requires real-time tracking of all cannabis products from the grower through retail sale. Every product has a tracking number; every inventory movement is logged; and discrepancies between physical inventory and system records must be investigated and reported. This operational overhead is substantially greater than the inventory management at a typical retail store.
 
-The company must ensure that its point-of-sale systems, inventory management software, and physical inventory counts integrate seamlessly with the CTS, that staff are trained to enter data correctly, and that the company can account for every unit of inventory at any audit. Product quality issues (mold, contamination, spoilage) may require product recalls and disposal, which must be documented and reported to regulators. The operational risk is that a gap between physical inventory and CTS records—which could result from theft, damage, data-entry errors, or system glitches—can trigger regulatory investigation and potential fines.
+The company must ensure that its point-of-sale systems, inventory management software, and physical inventory counts integrate seamlessly with the CTS, that staff are trained to enter data correctly, and that the company can account for every unit of inventory at any audit. Product quality issues (mold, contamination, spoilage) may require product recalls and disposal, which must be documented and reported to regulators. The [operational risk](/operational-risk/) is that a gap between physical inventory and CTS records—which could result from theft, damage, data-entry errors, or system glitches—can trigger regulatory investigation and potential fines.
 
 ## Product Mix: Dried Flower, Extracts, Edibles, and Consumer Preference
 
@@ -39,7 +39,7 @@ High Tide's retail stores stock multiple product categories: dried cannabis flow
 
 The product mix also reflects consumer preference and purchasing patterns. Some customers are repeat buyers of a favorite flower product; others experiment with edibles or extracts. The store's inventory composition—how much shelf space and capital are allocated to each category—must be responsive to local demand. If a store stocks too much of a slow-moving product, capital is tied up in inventory that may deteriorate before sale. If a store stocks too little of a popular product, customers may visit a competitor.
 
-High Tide's ability to forecast demand, optimize shelf space, and manage inventory turnover directly affects store profitability. This requires the company to track sales data by product, location, and customer segment and to use that data to allocate purchasing and shelf space efficiently.
+High Tide's ability to forecast demand, optimize shelf space, and manage [inventory turnover](/inventory-turnover/) directly affects store profitability. This requires the company to track sales data by product, location, and customer segment and to use that data to allocate purchasing and shelf space efficiently.
 
 ## Own-Brand Manufacturing and Supply Chain Integration
 
@@ -57,7 +57,7 @@ The operational process for opening a new store includes site selection and leas
 
 ## Wholesale Distribution and Market Penetration
 
-High Tide also sells products through wholesale channels to independent retailers that are licensed to sell cannabis. This channel extends the company's market reach beyond its own store locations but introduces new operational and relationship management challenges. The company must have a wholesale sales team, manage accounts receivable from wholesale customers, coordinate inventory to serve both retail and wholesale channels, and monitor wholesale customer compliance with regulations.
+High Tide also sells products through wholesale channels to independent retailers that are licensed to sell cannabis. This channel extends the company's market reach beyond its own store locations but introduces new operational and relationship management challenges. The company must have a wholesale sales team, manage [accounts receivable](/accounts-receivable/) from wholesale customers, coordinate inventory to serve both retail and wholesale channels, and monitor wholesale customer compliance with regulations.
 
 The wholesale channel's profitability is typically lower than direct retail sales (because distributors and independent retailers take a margin), but it can increase total volume and market share. The company must balance retail store expansion with wholesale growth and manage the inventory and logistics to support both.
 

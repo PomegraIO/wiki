@@ -41,17 +41,17 @@ The company's 10-K and periodic news releases detail which properties are being 
 
 ## The capital structure of a junior miner
 
-Fury is funded primarily by equity — shares issued to investors who believe in the company's projects. Junior mining companies typically do not generate cash and do not pay dividends. All investor returns come from appreciation in the stock price if the company discovers a viable deposit.
+Fury is funded primarily by equity — shares issued to investors who believe in the company's projects. Junior mining companies typically do not generate cash and do not pay [dividends](/dividend/). All investor returns come from appreciation in the stock price if the company discovers a viable deposit.
 
 Financing junior mining companies is risky and volatile. When commodity prices are high and investor risk appetite is strong, junior miners can raise capital more easily and stock prices are buoyant. When commodity prices fall or markets sour, investors flee and junior miners face severe capital constraints. The resulting financing cycles can be brutal for shareholders.
 
-Some junior miners use debt to finance exploration, though this is less common than equity financing. Debt carries the risk that if a project fails or the company runs out of cash, shareholders lose everything and debt holders may also lose some or all of their claims.
+Some junior miners use debt to finance exploration, though this is less common than [equity financing](/equity-financing/). Debt carries the risk that if a project fails or the company runs out of cash, shareholders lose everything and debt holders may also lose some or all of their claims.
 
 ## Gold price exposure and hedging
 
 Fury's ultimate profitability depends entirely on the price of gold. If Fury successfully develops a mine that can extract ore at a cost of $1,200 per ounce and gold trades at $1,800 per ounce, the company's profit per ounce is $600. If gold falls to $1,400 per ounce, the profit per ounce is only $200 — a 66% reduction.
 
-Most mining companies do not hedge their gold price exposure. They either accept the volatility or bet that gold prices will rise. Some companies hedge a portion of expected future production by selling forward contracts, which locks in a price today for gold to be delivered in the future. Hedging reduces upside if prices rise but also protects against downside if prices fall.
+Most mining companies do not hedge their gold price exposure. They either accept the volatility or bet that gold prices will rise. Some companies hedge a portion of expected future production by selling [forward contracts](/forward-contract/), which locks in a price today for gold to be delivered in the future. Hedging reduces upside if prices rise but also protects against downside if prices fall.
 
 Fury's investors should understand the company's view on gold prices and whether it hedges.
 
@@ -59,7 +59,7 @@ Fury's investors should understand the company's view on gold prices and whether
 
 Fury is a classic high-risk, illiquid investment. The company could discover a world-class ore deposit that makes it worth billions. Or the exploration program could fail, funding could dry up, and the shares could become worthless. There is little middle ground.
 
-Volatility in Fury's stock price will be extreme. Positive drill results can trigger 20% or 30% stock rallies. Disappointing results or bad market conditions can cause steep declines. The stock is illiquid — not heavily traded — so bid-ask spreads may be wide and large sellers may move the price significantly.
+Volatility in Fury's stock price will be extreme. Positive drill results can trigger 20% or 30% stock rallies. Disappointing results or bad market conditions can cause steep declines. The stock is illiquid — not heavily traded — so [bid-ask spreads](/bid-ask-spread/) may be wide and large sellers may move the price significantly.
 
 This is not suitable for investors seeking stability or regular cash returns. It is suitable only for investors with high risk tolerance and a long time horizon who can absorb the possibility of total loss.
 
@@ -69,7 +69,7 @@ Fury's 10-K will detail the company's projects, the acreage under control, the e
 
 Follow the company's news releases and quarterly reports carefully. Drill results are the primary catalyst for stock-price moves. When Fury announces drilling results, the market reprices the stock based on whether the results are better or worse than expected.
 
-Understand the gold market. Watch gold prices on commodity markets. Understand the supply and demand dynamics for gold — whether investment demand is rising, whether central banks are buying or selling, whether jewelry demand is stable. These factors drive the long-term gold price trajectory.
+Understand the gold market. Watch gold prices on commodity markets. Understand the supply and demand dynamics for gold — whether investment demand is rising, whether [central banks](/central-bank/) are buying or selling, whether jewelry demand is stable. These factors drive the long-term gold price trajectory.
 
 Compare Fury's project economics to other mining companies' projects. A deposit with ore grades and costs better than competitors' deposits will be more valuable. Reading mining industry analysis and peer company disclosures helps you calibrate expectations for Fury.
 

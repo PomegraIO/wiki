@@ -20,7 +20,7 @@ Small-cap firms, particularly those trading on over-the-counter (OTC) markets, r
 
 ## Cyclicality via Capital Allocation
 
-For small-cap holding companies or blank-check entities, cyclicality often stems not from business operations but from access to capital and management's willingness to deploy it. During bull markets, when [investor](/stock/) appetite for risk is high and [equity](/stock/) prices are elevated, management can raise [capital](/stock/) cheaply, acquire targets, and fund growth. In downturns, [equity](/stock/) windows slam shut, [debt](/bond/) becomes expensive, and acquisitions freeze. This creates a procyclical dividend of deployed [capital](/stock/)—more aggressive in booms, more cautious in recessions—that amplifies the earnings cycle even if operating business fundamentals are stable.
+For small-cap holding companies or blank-check entities, cyclicality often stems not from business operations but from access to capital and management's willingness to deploy it. During [bull markets](/bull-market/), when [investor](/stock/) appetite for risk is high and [equity](/stock/) prices are elevated, management can raise [capital](/stock/) cheaply, acquire targets, and fund growth. In downturns, [equity](/stock/) windows slam shut, [debt](/bond/) becomes expensive, and [acquisitions](/acquisition/) freeze. This creates a procyclical dividend of deployed [capital](/stock/)—more aggressive in booms, more cautious in [recessions](/recession/)—that amplifies the earnings cycle even if operating business fundamentals are stable.
 
 ## The Research Requirement
 
@@ -28,7 +28,7 @@ Understanding FCCN's place on the cyclical-versus-secular spectrum demands readi
 
 ## The Small-Cap Discount
 
-Investors assign small-cap firms like FCCN higher volatility and lower liquidity premiums than large-cap peers. That pricing reflects not just the intrinsic cyclicality of the business but also the reduced institutional ownership, lower information precision, and wider bid-ask spreads on OTC trades. A secular business with small-cap characteristics will still see its [share price](/stock/) swing more than large competitors during market stress. This pricing dynamic is neither the fault of the company nor permanent—a successful small firm that grows to mid-cap scale may see volatility narrow.
+Investors assign small-cap firms like FCCN higher volatility and lower liquidity premiums than large-cap peers. That pricing reflects not just the intrinsic cyclicality of the business but also the reduced institutional ownership, lower information precision, and wider [bid-ask spreads](/bid-ask-spread/) on OTC trades. A secular business with small-cap characteristics will still see its [share price](/stock/) swing more than large competitors during market stress. This pricing dynamic is neither the fault of the company nor permanent—a successful small firm that grows to mid-cap scale may see volatility narrow.
 
 ## Capital Structure Signals
 

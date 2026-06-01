@@ -9,7 +9,7 @@ keywords:
   - computing-infrastructure
 ---
 
-*HIVE Digital Technologies Ltd., **HIVE**, is a digital infrastructure company engaged in cryptocurrency mining, the process of operating specialized computing equipment to validate blockchain transactions and earn cryptocurrency rewards. The company operates mining facilities and computing infrastructure, primarily focused on Bitcoin mining, with operations in jurisdictions that provide reliable and cost-effective electricity and regulatory clarity.*
+*HIVE Digital Technologies Ltd., **HIVE**, is a digital infrastructure company engaged in cryptocurrency mining, the process of operating specialized computing equipment to validate blockchain transactions and earn cryptocurrency rewards. The company operates mining facilities and computing infrastructure, primarily focused on [Bitcoin](/bitcoin/) mining, with operations in jurisdictions that provide reliable and cost-effective electricity and regulatory clarity.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>HIVE</td></tr>
@@ -29,7 +29,7 @@ The operational cadence is relentless: the miners run 24/7, halting only for sch
 
 ## Electricity Costs and Margin Sensitivity
 
-Mining profitability is tightly coupled to electricity costs. Bitcoin mining is essentially a commodity business: all miners perform the same computational task and earn the same reward per block (with minor variations for transaction fees). The primary variable cost is electricity. A mining operation in a region with cheap electricity (such as areas with hydroelectric power or stranded natural gas) can operate profitably even when Bitcoin prices are moderate; a mining operation in a high-electricity-cost region may be unprofitable if Bitcoin prices fall.
+Mining profitability is tightly coupled to electricity costs. Bitcoin mining is essentially a commodity business: all miners perform the same computational task and earn the same reward per block (with minor variations for transaction fees). The primary variable cost is electricity. A mining operation in a region with cheap electricity (such as areas with hydroelectric power or stranded [natural gas](/natural-gas/)) can operate profitably even when Bitcoin prices are moderate; a mining operation in a high-electricity-cost region may be unprofitable if Bitcoin prices fall.
 
 HIVE's operational strategy is therefore strongly influenced by electricity cost. The company may sign long-term power purchase agreements with utilities or power producers that provide stable, discounted electricity rates. If such agreements are available at attractive rates, the company may expand mining capacity in that region. If electricity costs rise or the company is unable to secure long-term contracts at favorable rates, the company may reduce mining capacity or relocate operations to lower-cost jurisdictions.
 
@@ -37,11 +37,11 @@ The margin sensitivity to electricity cost creates a strategic imperative: the c
 
 ## Hardware Procurement, Obsolescence, and the Refresh Cycle
 
-ASIC mining hardware improves in efficiency over time—newer generations consume less electricity to perform the same computational work. A mining machine deployed today may become obsolete or unprofitable within 12–24 months if more efficient hardware enters the market. HIVE must therefore continuously purchase new hardware to replace aging equipment and to expand capacity. This creates a capital expenditure cycle: the company must balance the need to invest in new hardware to maintain competitiveness against the financial drain of capital spending.
+[ASIC mining](/asic-mining/) hardware improves in efficiency over time—newer generations consume less electricity to perform the same computational work. A mining machine deployed today may become obsolete or unprofitable within 12–24 months if more efficient hardware enters the market. HIVE must therefore continuously purchase new hardware to replace aging equipment and to expand capacity. This creates a capital expenditure cycle: the company must balance the need to invest in new hardware to maintain competitiveness against the financial drain of capital spending.
 
 The hardware procurement market is competitive and sometimes constrained. When Bitcoin prices are high, demand for mining hardware surges, and manufacturers may be unable to keep up, leading to allocation of supplies to the largest customers and extended lead times for smaller buyers. When Bitcoin prices fall, demand for new hardware may collapse, and manufacturers may reduce production or exit the market. HIVE's ability to procure hardware efficiently—securing allocations at reasonable prices and lead times—is an important operational competency.
 
-The used hardware market also matters. As HIVE replaces older machines, it may sell the used equipment to secondary markets, recovering some of the capital investment. The operational coordination required to time the sale of used equipment, transport it to buyers, and manage logistics adds complexity.
+The used hardware market also matters. As HIVE replaces older machines, it may sell the used equipment to [secondary markets](/secondary-market/), recovering some of the capital investment. The operational coordination required to time the sale of used equipment, transport it to buyers, and manage logistics adds complexity.
 
 ## Network Connectivity and Uptime
 

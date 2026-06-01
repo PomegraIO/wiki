@@ -67,7 +67,7 @@ Alternatively, Eledon may partner with or sell rights to a larger pharmaceutical
 
 ## Capital Requirements and Financing
 
-Clinical development and regulatory approval require sustained capital investment for 5–10 years before the first dollar of revenue is earned. Small biotech companies like Eledon must finance this by raising venture capital (equity financing), issuing convertible debt, licensing portions of their pipeline, or, once public, issuing equity and debt in capital markets.
+Clinical development and regulatory approval require sustained capital investment for 5–10 years before the first dollar of revenue is earned. Small biotech companies like Eledon must finance this by raising venture capital ([equity financing](/equity-financing/)), issuing convertible debt, licensing portions of their pipeline, or, once public, issuing equity and debt in capital markets.
 
 This dependence on external financing means Eledon's survival is contingent on investor confidence. A failed trial can destroy market confidence and make additional financing impossible. Conversely, unexpected success in a trial can trigger valuation spikes and enable fundraising.
 

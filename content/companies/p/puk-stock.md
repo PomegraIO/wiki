@@ -43,7 +43,7 @@ Longevity risk is another big one. Insurers calculate premiums based on life-exp
 
 Regulatory risk in Asia is high. Regulators in China, India, Vietnam, and other markets have at various times imposed restrictions on insurance companies, changed rules about what insurers can invest in, or limited the rates insurers can charge. Political risk is also present — some countries restrict the amount of capital foreign insurers can deploy or the profit they can repatriate. Prudential's exposure to these risks is substantial given how much of its business is in Asia.
 
-Competition in insurance is intense. Competitors include other global insurers such as AIA, local insurers in each market, and increasingly, direct digital competitors selling insurance online without traditional agency networks. Prudential has advantages in scale and brand but no way to avoid price competition as competitors fight for customers.
+Competition in insurance is intense. Competitors include other global insurers such as AIA, local insurers in each market, and increasingly, [direct digital](/drct-stock/) competitors selling insurance online without traditional agency networks. Prudential has advantages in scale and brand but no way to avoid price competition as competitors fight for customers.
 
 How should someone understand Prudential's financial performance and what metrics matter?
 

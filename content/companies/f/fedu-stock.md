@@ -34,7 +34,7 @@ Education is heavily regulated everywhere, and the specifics of regulation vary 
 
 This regulatory geography has been catastrophic for China-focused education companies. FEDU, if it operates substantially in China, has faced or faces direct regulatory risk from the Chinese government changing the rules under which tutoring companies operate. Such regulatory shifts are geographically specific: they affect every tutoring company operating in that jurisdiction simultaneously and can make an entire business model illegal or unprofitable overnight.
 
-For investors, this represents a material geographic risk. Unlike market risk (demand shifting as preferences change) or competitive risk (better tutoring companies capturing market share), regulatory risk in education is a jurisdictional fact. Operating in a geography with historically unstable education regulation—even if that geography has been a rich market—carries the structural risk of sudden policy reversal.
+For investors, this represents a material geographic risk. Unlike [market risk](/market-risk/) (demand shifting as preferences change) or competitive risk (better tutoring companies capturing market share), regulatory risk in education is a jurisdictional fact. Operating in a geography with historically unstable education regulation—even if that geography has been a rich market—carries the structural risk of sudden policy reversal.
 
 ## Wealth Geography and Market Depth
 
@@ -58,7 +58,7 @@ FEDU's response to this geographic disruption—whether through developing onlin
 
 ## The Investment Challenge
 
-Understanding FEDU requires granular geographic data that the company's disclosures may or may not provide. Key questions include: In which specific cities and regions does the company operate, and how much of revenue does each contribute? What is the trend in student enrollment and pricing by geography? How has the regulatory environment in the company's primary markets (likely China and possibly other Asian jurisdictions) affected operations and growth? What percentage of revenue comes from the online channel versus physical tutoring centers?
+Understanding FEDU requires granular geographic data that the company's disclosures may or may not provide. Key questions include: In which specific cities and regions does the company operate, and how much of revenue does each contribute? What is the trend in student enrollment and pricing by geography? How has the regulatory environment in the company's [primary markets](/primary-market/) (likely China and possibly other Asian jurisdictions) affected operations and growth? What percentage of revenue comes from the online channel versus physical tutoring centers?
 
 The OTC listing and Cayman Islands incorporation structure suggest FEDU is a smaller player or a company navigating regulatory headwinds. For investors, the geographic concentration of the business—whether it is viable across diverse Asian geographies or dependent on specific wealthy cities in specific countries—is the fundamental investment question.
 

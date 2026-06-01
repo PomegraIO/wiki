@@ -4,7 +4,7 @@ description: "Oil and natural gas exploration and production company operating a
 keywords: ["oil and gas", "exploration and production", "Permian Basin", "natural gas", "hydrocarbon extraction"]
 ---
 
-*Oil and gas exploration and production is a brutal funnel: only a tiny fraction of prospects become commercial fields, capital requirements are enormous, and returns depend entirely on whether underground hydrocarbons can be extracted profitably before commodity prices collapse. **Camber Energy, Inc. (CEIN)** sits in the upstream segment of this value chain, holding and developing leasehold positions in producing regions, then selling the crude oil and natural gas it extracts to traders, refiners, and utility purchasers.*
+*Oil and gas exploration and production is a brutal funnel: only a tiny fraction of prospects become commercial fields, capital requirements are enormous, and returns depend entirely on whether underground hydrocarbons can be extracted profitably before commodity prices collapse. **Camber Energy, Inc. (CEIN)** sits in the upstream segment of this value chain, holding and developing leasehold positions in producing regions, then selling the [crude oil](/crude-oil/) and [natural gas](/natural-gas/) it extracts to traders, refiners, and utility purchasers.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CEIN</td></tr>
@@ -23,7 +23,7 @@ The company owns or operates producing wells in the Permian Basin (in Texas and 
 
 ## Asset Ownership and Lease Economics
 
-Camber's fundamental assets are mineral leases—the rights to drill for and produce oil and gas on specific acreage. These leases are acquired either through open-market purchases, trades with other E&P companies, or farm-outs where larger operators assign non-core acreage. The economics are deceptively simple: Camber pays a lease acquisition cost (often hundreds of thousands to millions of dollars per lease or package) and an annual lease-extension cost if the property is not producing. Then it drills wells.
+Camber's fundamental assets are mineral leases—the rights to drill for and produce oil and gas on specific acreage. These leases are acquired either through open-market purchases, trades with other E&P companies, or farm-outs where larger operators assign non-core acreage. The economics are deceptively simple: Camber pays a lease [acquisition](/acquisition/) cost (often hundreds of thousands to millions of dollars per lease or package) and an annual lease-extension cost if the property is not producing. Then it drills wells.
 
 Drilling costs vary enormously by location, depth, and geology. A Permian well might cost several million dollars to drill, complete, and bring online. The well then produces oil and gas at a declining rate over its commercial life—often 20 to 40 years. The income from that well must exceed not only the drilling cost but also operating expenses (pumping, maintenance, water handling, personnel) and lease extension and administrative costs.
 
@@ -53,7 +53,7 @@ This dynamic means Camber must continually replace declining production with new
 
 ## Regulatory and Environmental Context
 
-Oil and gas production in the United States operates within federal and state frameworks that govern leasing, permitting, operating practices, and environmental liability. Camber must comply with regulations around well construction, emissions, water management, and site restoration. Environmental liabilities—such as plugging and abandoning wells at end-of-life, and remediating surface impacts—are accrued and sometimes contested in [SEC disclosures](/securities-and-exchange-commission/).
+Oil and gas production in the United States operates within federal and state frameworks that govern leasing, permitting, operating practices, and [environmental liability](/environmental-liability/). Camber must comply with regulations around well construction, emissions, water management, and site restoration. Environmental liabilities—such as plugging and abandoning wells at end-of-life, and remediating surface impacts—are accrued and sometimes contested in [SEC disclosures](/securities-and-exchange-commission/).
 
 Recent regulatory trends (tightening methane emissions rules, reduced federal lease acreage availability, state-level net-zero commitments) create structural headwinds for small E&P producers. Camber's long-term sustainability depends partly on its ability to operate profitably in a regulatory environment that may become progressively less favorable to new oil and gas development.
 

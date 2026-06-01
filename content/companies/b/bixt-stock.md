@@ -66,13 +66,13 @@ BioXytran's survival depends on demonstrating enough progress to stay fundable. 
 
 ## Lifecycle Bifurcation: Independence or Acquisition
 
-Early-stage biotech companies often follow one of two paths. Some grow into independent companies, reaching profitability and remaining publicly listed or remaining private but profitable. More commonly, successful early-stage biotech companies are acquired by larger players before reaching full independence. Acquisition typically occurs when the company has validated its technology and shown enough promise that a larger firm can complete development and commercialization more efficiently than the startup could alone.
+Early-stage biotech companies often follow one of two paths. Some grow into independent companies, reaching profitability and remaining publicly listed or remaining private but profitable. More commonly, successful early-stage biotech companies are acquired by larger players before reaching full independence. [Acquisition](/acquisition/) typically occurs when the company has validated its technology and shown enough promise that a larger firm can complete development and commercialization more efficiently than the startup could alone.
 
-BioXytran's lifecycle trajectory—whether toward independence or toward acquisition—is still being written. The company is at a stage where success in early validation studies could unlock strategic partnerships or acquisition interest from larger biotech or pharma companies. Failure or stagnation could lead to dilution, merger on unfavorable terms, or insolvency.
+BioXytran's lifecycle trajectory—whether toward independence or toward acquisition—is still being written. The company is at a stage where success in early validation studies could unlock strategic partnerships or acquisition interest from larger biotech or pharma companies. Failure or stagnation could lead to dilution, [merger](/merger/) on unfavorable terms, or insolvency.
 
 ## The Founder Bet and the Investor's Role
 
-For investors in BioXytran, the bet is on the founders and the technology. At this stage, there is limited operating history, no proven market acceptance, and high execution risk. The company's value is speculative: a probability-weighted estimate of future commercialization success, not an earning stream or dividend.
+For investors in BioXytran, the bet is on the founders and the technology. At this stage, there is limited operating history, no proven market acceptance, and high execution risk. The company's value is speculative: a probability-weighted estimate of future commercialization success, not an earning stream or [dividend](/dividend/).
 
 This is why early-stage biotech trades at extreme valuations relative to any current or projected revenue. Investors are betting on the founders to navigate the valley of death, hit key milestones, and ultimately bring a therapy to market. The risk is commensurate: many early-stage biotech investments result in total loss.
 

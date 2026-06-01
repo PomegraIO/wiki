@@ -17,7 +17,7 @@ keywords: [biotech, regenerative-medicine, equity-financing, burn-rate, clinical
 
 ## Equity Financing and Massive Dilution
 
-Bone Biologics is focused on biological bone-grafting solutions—regenerative-medicine products intended to accelerate bone healing in orthopedic and reconstructive applications. The company has no meaningful revenue. Its balance sheet is simple: cash (raised from equity investors), accumulated losses (from research and development and clinical trials), and intellectual property (patents, clinical data, regulatory filings). There is no debt because banks do not lend to pre-revenue biotech companies. Instead, BBLG is funded entirely through [equity offerings](/initial-public-offering/)—public [stock](/stock/) raises and private placements.
+Bone Biologics is focused on biological bone-grafting solutions—regenerative-medicine products intended to accelerate bone healing in orthopedic and reconstructive applications. The company has no meaningful revenue. Its balance sheet is simple: cash (raised from equity investors), accumulated losses (from research and development and clinical trials), and intellectual property (patents, clinical data, regulatory filings). There is no debt because banks do not lend to pre-revenue biotech companies. Instead, BBLG is funded entirely through [equity offerings](/initial-public-offering/)—public [stock](/stock/) raises and [private placements](/private-placement/).
 
 Each funding round is a negotiation: How much cash does the company need until the next clinical or regulatory milestone? At what price per share are investors willing to fund it? The answer is usually less friendly than the previous round. A company that raised money at $10 per share 18 months ago, spent the capital on failed trial designs or setbacks, and now needs more cash will raise the next round at $5 per share. This dilution compounds: early shareholders see their ownership stakes shrink with each new round. The company must achieve clinical progress and restore investor confidence, or subsequent rounds will be even cheaper, further diluting equity.
 
@@ -25,7 +25,7 @@ Each funding round is a negotiation: How much cash does the company need until t
 
 BBLG's financial life is defined by one metric: monthly cash burn. If the company burns $2 million per month and has $10 million in cash, it has a 5-month runway until cash is exhausted. That deadline creates urgency to raise capital or achieve a clinical milestone that justifies a more favorable capital raise. A company in late-stage clinical trials might burn $5–10 million per month. A smaller company in early development might burn $200,000 per month. The burn rate determines how frequently the company must return to capital markets, and each capital raise dilutes shareholders.
 
-This capital structure creates perverse incentives. BBLG needs to announce positive clinical trial results or regulatory progress to attract capital at reasonable prices. There is pressure to optimize trial designs for near-term milestones, not necessarily long-term patient outcomes. Companies that disappoint investors (slow trial enrollment, safety signals, manufacturing challenges) see their stock price collapse and face difficulty raising capital on any terms. This can force company failure or a low-valuation acquisition, erasing shareholder value.
+This capital structure creates perverse incentives. BBLG needs to announce positive clinical trial results or regulatory progress to attract capital at reasonable prices. There is pressure to optimize trial designs for near-term milestones, not necessarily long-term patient outcomes. Companies that disappoint investors (slow trial enrollment, safety signals, manufacturing challenges) see their stock price collapse and face difficulty raising capital on any terms. This can force company failure or a low-valuation [acquisition](/acquisition/), erasing shareholder value.
 
 ## Intellectual Property as Collateral (Informally)
 
@@ -51,7 +51,7 @@ The critical question is whether BBLG can reach the next clinical or regulatory 
 
 ## Market Context: Orthopedic Devices and Reimbursement
 
-BBLG's commercial potential depends on whether orthopedic surgeons adopt its bone-graft products and whether insurance companies will reimburse them at prices that allow profitability. The orthopedic device market is competitive; established companies like DePuy Synthes (part of Johnson & Johnson), Zimmer Biomet, and Stryker have entrenched relationships with surgeons and hospital systems. BBLG must demonstrate that its biological approach is superior (faster healing, fewer complications) and offers better economics (lower cost or better reimbursement) to gain market share.
+BBLG's commercial potential depends on whether orthopedic surgeons adopt its bone-graft products and whether insurance companies will reimburse them at prices that allow profitability. The orthopedic device market is competitive; established companies like DePuy Synthes (part of [Johnson & Johnson](/jnj-stock/)), [Zimmer Biomet](/zbh-stock/), and Stryker have entrenched relationships with surgeons and hospital systems. BBLG must demonstrate that its biological approach is superior (faster healing, fewer complications) and offers better economics (lower cost or better reimbursement) to gain market share.
 
 This commercialization risk is baked into the equity valuation but often invisible to casual investors. A company with promising trial data might still fail commercially if reimbursement is inadequate or surgeon adoption is slow. Examining reimbursement pathways and competitive positioning reveals the back-half risk in BBLG's story—the risk that even if clinical development succeeds, commercial success is not assured.
 
@@ -59,7 +59,7 @@ This commercialization risk is baked into the equity valuation but often invisib
 ### Closely related
 - [Balance Sheet](/balance-sheet/)
 - Cash Burn
-- Equity Financing
+- [Equity Financing](/equity-financing/)
 - Patent
 - [10-K](/10-k/)
 

@@ -4,7 +4,7 @@ description: "A materials-science venture targeting industrial carbon conversion
 keywords: ["carbon", "materials science", "industrial chemistry", "OTC markets", "venture", "energy technology"]
 ---
 
-*[Karbon-X Corp.](/karx-stock/) (KARX) is a small-cap publicly traded company pursuing research and development in carbon-based materials, with a focus on industrial applications where lightweight and strong composites solve real manufacturing problems. Trading on over-the-counter markets, the firm sits at the intersection of academic innovation and commercialization—a risky but potentially high-return position that attracts investors who believe carbon science will reshape industrial production.*
+*[Karbon-X Corp.](/karx-stock/) (KARX) is a small-cap publicly traded company pursuing research and development in carbon-based materials, with a focus on industrial applications where lightweight and strong composites solve real manufacturing problems. Trading on [over-the-counter markets](/over-the-counter-market/), the firm sits at the intersection of academic innovation and commercialization—a risky but potentially high-return position that attracts investors who believe carbon science will reshape industrial production.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>KARX</td></tr>

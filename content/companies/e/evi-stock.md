@@ -38,11 +38,11 @@ EVI operates in a consolidated industry. Larger, national distributors such as H
 
 ## Leverage and Capital Structure
 
-Like many industrial distributors, EVI has used leverage to fund acquisitions and working-capital growth. High leverage amplifies returns in growth phases but creates acute distress in downturns. If revenues decline steeply and commodity-price pressure or inventory write-downs compress margins, the company's debt-service capacity shrinks rapidly. Covenants tied to EBITDA or leverage ratios can trigger defaults or forced asset sales at inopportune moments.
+Like many industrial distributors, EVI has used leverage to fund [acquisitions](/acquisition/) and working-capital growth. High leverage amplifies returns in growth phases but creates acute distress in downturns. If revenues decline steeply and commodity-price pressure or inventory write-downs compress margins, the company's debt-service capacity shrinks rapidly. Covenants tied to [EBITDA](/ebitda/) or [leverage ratios](/leverage-ratio-forex/) can trigger defaults or forced asset sales at inopportune moments.
 
 ## What Matters for Investors
 
-Track quarterly gross margins carefully; a sustained decline signals that input-cost inflation is outpacing pricing power. Monitor inventory levels relative to revenue; growing inventory on flat or declining sales is a warning sign of weakening demand or over-purchasing. Watch for changes in customer mix and concentration; a loss of a single large utility contract can compress annual revenues. Review leverage ratios and covenant headroom; if debt-to-EBITDA rises above historical levels or approaches covenant thresholds, financial flexibility disappears. Finally, track capital spending by state and federal water agencies; reductions in appropriations for infrastructure often precede EVI revenue weakness.
+Track quarterly gross margins carefully; a sustained decline signals that input-cost [inflation](/inflation/) is outpacing pricing power. Monitor inventory levels relative to revenue; growing inventory on flat or declining sales is a warning sign of weakening demand or over-purchasing. Watch for changes in customer mix and concentration; a loss of a single large utility contract can compress annual revenues. Review leverage ratios and covenant headroom; if debt-to-EBITDA rises above historical levels or approaches covenant thresholds, financial flexibility disappears. Finally, track capital spending by state and federal water agencies; reductions in appropriations for infrastructure often precede EVI revenue weakness.
 
 <div class="wiki-seealso">
 ### Closely related

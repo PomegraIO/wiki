@@ -4,7 +4,7 @@ description: "A specialty chemical manufacturer with a capital structure balanci
 keywords: ["specialty chemicals", "acquisition-driven growth", "industrial debt", "chemical leverage", "margin compression"]
 ---
 
-*Innospec has climbed from a minor petroleum additive supplier to a diversified specialty chemical business through two decades of disciplined acquisitions, each funded through a mix of [debt](/corporate-bond/) and equity. Its capital structure remains tilted toward growth: reinvestment in acquisitions and organic capex takes priority over shareholder distributions.*
+*Innospec has climbed from a minor petroleum additive supplier to a diversified specialty chemical business through two decades of disciplined [acquisitions](/acquisition/), each funded through a mix of [debt](/corporate-bond/) and equity. Its capital structure remains tilted toward growth: reinvestment in acquisitions and organic capex takes priority over shareholder distributions.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>IOSP</td></tr>
@@ -21,7 +21,7 @@ Innospec's modern history is one of serial acquisition. The company has acquired
 
 ## Leverage in the Specialty Chemical Trade
 
-Unlike REITs, which operate within statutory distribution limits, specialty chemical companies like Innospec have flexibility: they retain earnings to fund organic capex and acquisitions. However, Innospec's acquisition strategy has pushed leverage upward. The company typically maintains net debt levels—total debt less cash—of 2–3 times adjusted EBITDA, a moderate level for an industrial company with stable end-markets. When commodity prices spike (Innospec is downstream of petroleum and commodity chemicals, so it benefits from lower input costs during industry downturns), EBITDA expands and leverage temporarily declines. When end-user demand softens, margins compress and leverage can rise above comfortable levels.
+Unlike REITs, which operate within statutory distribution limits, specialty chemical companies like Innospec have flexibility: they retain earnings to fund organic capex and acquisitions. However, Innospec's acquisition strategy has pushed leverage upward. The company typically maintains [net debt](/net-debt/) levels—total debt less cash—of 2–3 times adjusted [EBITDA](/ebitda/), a moderate level for an industrial company with stable end-markets. When commodity prices spike (Innospec is downstream of petroleum and commodity chemicals, so it benefits from lower input costs during industry downturns), EBITDA expands and leverage temporarily declines. When end-user demand softens, margins compress and leverage can rise above comfortable levels.
 
 ## Integration Risk and Debt Service Discipline
 
@@ -33,7 +33,7 @@ Innospec generates free cash flow—operating cash minus capex—from its acquir
 
 ## Currency and Commodity Hedging Decisions
 
-As a specialty chemical maker serving global industrial end-markets, Innospec faces commodity price exposure (especially petroleum and petrochemical feedstocks) and foreign exchange risk on overseas sales and acquisitions. The company must decide what portion of these risks to hedge and at what cost. Hedging commodity prices protects margins from volatility but is expensive; not hedging preserves flexibility but introduces earnings swings. Innospec's balance sheet disclosures detail hedging positions, allowing investors to assess how much earnings variability the company is willing to absorb versus how much it locks in through contracts.
+As a specialty chemical maker serving [global industrial](/gic-stock/) end-markets, Innospec faces commodity price exposure (especially petroleum and petrochemical feedstocks) and foreign exchange risk on overseas sales and acquisitions. The company must decide what portion of these risks to hedge and at what cost. Hedging commodity prices protects margins from volatility but is expensive; not hedging preserves flexibility but introduces earnings swings. Innospec's balance sheet disclosures detail hedging positions, allowing investors to assess how much earnings variability the company is willing to absorb versus how much it locks in through contracts.
 
 ## Inorganic Growth Constraints: When Debt Becomes Limiting
 

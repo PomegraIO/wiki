@@ -44,13 +44,13 @@ On the other hand, the end market is global and growing. Regulatory environments
 
 Mesa invests in expanding service capacity (technicians, equipment, regional centers), which generates negative near-term cash flow but scales the recurring base. The company also invests in software and data systems that make calibration workflows more efficient and attract customers who value integrated quality documentation. These investments are less glamorous than venture-style product innovation but are essential to maintaining competitive position and customer stickiness.
 
-The company's return on invested capital—derived by comparing operating profit to the capital required to support that profit—reflects whether new investments are generating acceptable returns. A company reinvesting heavily but achieving high ROIC is expanding in attractive segments; one investing heavily with flat or declining ROIC may be defending market share against commoditization.
+The company's [return on invested capital](/return-on-invested-capital/)—derived by comparing operating profit to the capital required to support that profit—reflects whether new investments are generating acceptable returns. A company reinvesting heavily but achieving high ROIC is expanding in attractive segments; one investing heavily with flat or declining ROIC may be defending market share against commoditization.
 
 ## Reading the 10-K for Stability and Growth
 
 Mesa's [10-K](/10-k/) filing breaks out revenue by business segment and geography, allowing readers to assess exposure to specific end markets and regions. It also discloses customer concentration (how much revenue comes from the top five customers), which directly informs earnings stability. High concentration means large upside from landing a major new contract but also means a single customer loss is material. The filing also reveals backlog—orders received but not yet fulfilled—which indicates forward visibility into revenue.
 
-Understanding how much of Mesa's earnings growth comes from existing-customer-service scaling versus new-customer equipment acquisition versus price increases helps predict how durable the growth is. If service contracts represent 70 percent of revenue and are growing steadily while equipment sales fluctuate, the company's [earnings-per-share](/earnings-per-share/) should be less volatile than a pure product company.
+Understanding how much of Mesa's earnings growth comes from existing-customer-service scaling versus new-customer equipment [acquisition](/acquisition/) versus price increases helps predict how durable the growth is. If service contracts represent 70 percent of revenue and are growing steadily while equipment sales fluctuate, the company's [earnings-per-share](/earnings-per-share/) should be less volatile than a pure product company.
 
 <div class="wiki-seealso">
 

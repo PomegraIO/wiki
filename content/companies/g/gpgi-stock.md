@@ -4,7 +4,7 @@ description: "A financial and technology services firm specializing in niche ent
 keywords: [fintech, enterprise software, regulatory compliance, financial technology, software-as-a-service]
 ---
 
-*GPGI, Inc. (NASDAQ: GPGI) operates at the intersection of financial services and specialized software, building technology platforms and service offerings for enterprises in heavily regulated or niche market segments where off-the-shelf solutions fall short. Founded to address gaps in how certain industries manage compliance, data, and operational workflows, the company has evolved from its founding vision into a provider of integrated technology and consulting services tailored to firms that cannot rely on mass-market tooling.*
+*GPGI, Inc. ([NASDAQ](/nasdaq/): GPGI) operates at the intersection of financial services and specialized software, building technology platforms and service offerings for enterprises in heavily regulated or niche market segments where off-the-shelf solutions fall short. Founded to address gaps in how certain industries manage compliance, data, and operational workflows, the company has evolved from its founding vision into a provider of integrated technology and consulting services tailored to firms that cannot rely on mass-market tooling.*
 
 <aside class="wiki-infobox"><table>
   <tr><td>Ticker</td><td>GPGI</td></tr>
@@ -22,7 +22,7 @@ This origin shaped everything about how the firm grew. Rather than aspire to be 
 
 ## Market Position and Customer Base
 
-The company serves financial institutions, insurance firms, investment advisors, and other enterprises whose business models or regulatory obligations demand bespoke technology. Customers are often mid-market firms that have outgrown homegrown spreadsheet-and-manual-process operations but lack the scale to justify building proprietary systems in-house, and lack the stomach to jam themselves into a one-size-fits-most SaaS product.
+The company serves [financial institutions](/fisi-stock/), insurance firms, investment advisors, and other enterprises whose business models or regulatory obligations demand bespoke technology. Customers are often mid-market firms that have outgrown homegrown spreadsheet-and-manual-process operations but lack the scale to justify building proprietary systems in-house, and lack the stomach to jam themselves into a one-size-fits-most SaaS product.
 
 GPGI's value proposition hinges on three foundations: first, embedded understanding of the regulatory and compliance frameworks that constrain its customers' operations; second, technology that encodes that domain logic directly into workflows rather than treating it as a bolt-on; and third, the ability to evolve the platform as regulations and customer needs change. This is not a product you shop on feature checklists. It is the system your operations team uses because abandoning it would mean rearchitecting a core workflow.
 
@@ -40,7 +40,7 @@ Additionally, the regulatory expertise embedded in the platform is not trivial t
 
 ## Financing and Capital Model
 
-As a public company, GPGI has access to capital for product development and targeted acquisitions within its verticals. The company's financial model depends on recurring revenue from existing customers—maintenance, subscriptions, support—and expansion from upsells and adding new customers within similar segments. Unlike pure software giants that live on CAC efficiency and growth at all costs, GPGI's math is more conservative: the goal is steady cash generation from sticky, long-lived customer relationships.
+As a public company, GPGI has access to capital for product development and targeted [acquisitions](/acquisition/) within its verticals. The company's financial model depends on recurring revenue from existing customers—maintenance, subscriptions, support—and expansion from upsells and adding new customers within similar segments. Unlike pure software giants that live on CAC efficiency and growth at all costs, GPGI's math is more conservative: the goal is steady cash generation from sticky, long-lived customer relationships.
 
 ## Operational and Staffing Challenges
 

@@ -4,7 +4,7 @@ description: "Gene-editing biotech company using CRISPR; subject to FDA drug app
 keywords: [gene-editing, CRISPR, biotech, FDA, clinical-trials, patents]
 ---
 
-*Editas Medicine, Inc., trading as EDIT on the Nasdaq, develops therapeutic treatments using CRISPR gene-editing technology, primarily targeting rare genetic diseases. The company's path to commercialization is entirely gated by FDA approval timelines, complex patent licensing agreements with foundational CRISPR institutions, and institutional biosafety committees overseeing laboratory work—each layer represents potential delay, licensing cost, or complete blockage of a therapeutic program.*
+*Editas Medicine, Inc., trading as EDIT on the [Nasdaq](/nasdaq/), develops therapeutic treatments using CRISPR gene-editing technology, primarily targeting rare genetic diseases. The company's path to commercialization is entirely gated by FDA approval timelines, complex patent licensing agreements with foundational CRISPR institutions, and institutional biosafety committees overseeing laboratory work—each layer represents potential delay, licensing cost, or complete blockage of a therapeutic program.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EDIT</td></tr>

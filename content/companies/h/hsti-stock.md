@@ -17,15 +17,15 @@ keywords: ["HSTI", "technology", "manufacturing", "electronics", "industrial equ
 
 ## What to Look for in HSTI's 10-K
 
-When opening the annual report, direct your eye first to the segment disclosure and revenue breakdown by customer and geography. HSTI's income statement will likely show modest top-line figures concentrated in a handful of industrial verticals—likely including aerospace or defense contractors, semiconductor manufacturing equipment suppliers, medical device integrators, or telecom infrastructure firms. This concentration matters; a 10-K that lists two or three customers representing more than 30% of revenue signals both stability (lock-in from engineering integration) and risk (customer loss would crater earnings). Pay close attention to gross margins by business line, if disclosed. Contract manufacturers often sit on 15–35% margins depending on whether they are handling simple assembly or complex integration and testing.
+When opening the annual report, direct your eye first to the segment disclosure and revenue breakdown by customer and geography. HSTI's [income statement](/income-statement/) will likely show modest top-line figures concentrated in a handful of industrial verticals—likely including aerospace or defense contractors, semiconductor manufacturing equipment suppliers, medical device integrators, or telecom infrastructure firms. This concentration matters; a 10-K that lists two or three customers representing more than 30% of revenue signals both stability (lock-in from engineering integration) and risk (customer loss would crater earnings). Pay close attention to gross margins by business line, if disclosed. Contract manufacturers often sit on 15–35% margins depending on whether they are handling simple assembly or complex integration and testing.
 
-Look to the capital-expenditure discussion and manufacturing footprint description. High Sierra's competitive position depends partly on its facility investments, automation level, and supply-chain relationships. The 10-K's management discussion section should explain whether they are capital-light (outsourcing fab to others) or capital-intensive (owning equipment and tooling). If they own inventory of components or raw materials, check the balance sheet—rising inventory relative to revenue signals either buildup for expected demand or slow-moving obsolete stock, both of which consume cash.
+Look to the capital-expenditure discussion and manufacturing footprint description. High Sierra's competitive position depends partly on its facility investments, automation level, and supply-chain relationships. The 10-K's management discussion section should explain whether they are capital-light (outsourcing fab to others) or capital-intensive (owning equipment and tooling). If they own inventory of components or raw materials, check the [balance sheet](/balance-sheet/)—rising inventory relative to revenue signals either buildup for expected demand or slow-moving obsolete stock, both of which consume cash.
 
 ## Business Model: Custom Integration in Constrained Niches
 
 High Sierra operates in a business model that is less "mass production" and more "engineered solutions." The company likely builds complex assemblies to customer specification rather than manufacturing commodity components. This means each customer order involves engineering time, custom tooling, and often validation testing. Revenue is episodic rather than recurring; you will see lumpiness quarter-to-quarter. The advantage: high switching costs once a product is integrated into a customer's supply chain. The disadvantage: margin pressure from larger contract manufacturers, difficulty scaling without large capital investments, and vulnerability to customer inventory reductions or production slowdowns.
 
-Check the accounts receivable aging in the financial statements. Industrial customers often pay on 60- or 90-day terms; if receivables are growing faster than revenue, the company is financing its customers' working capital, tying up cash.
+Check the [accounts receivable](/accounts-receivable/) aging in the financial statements. Industrial customers often pay on 60- or 90-day terms; if receivables are growing faster than revenue, the company is financing its customers' working capital, tying up cash.
 
 ## Revenue and Scale Reality
 
@@ -37,13 +37,13 @@ If High Sierra's customers are defense contractors, aerospace firms, or medical 
 
 ## Financial Structure and Cash Generation
 
-Small industrial manufacturers often carry modest debt and rely on operating cash flow to fund growth. Check the statement of cash flows: is the company generating positive free cash flow or burning it? If capex is high and cash generation is low, the company may be investing in a turnaround that has not yet paid off. If the company holds idle cash, ask why—is it reserved for an acquisition, a debt repayment, or management caution?
+Small industrial manufacturers often carry modest debt and rely on operating cash flow to fund growth. Check the statement of cash flows: is the company generating positive [free cash flow](/free-cash-flow/) or burning it? If capex is high and cash generation is low, the company may be investing in a turnaround that has not yet paid off. If the company holds idle cash, ask why—is it reserved for an [acquisition](/acquisition/), a debt repayment, or management caution?
 
 ## What Analysts Miss
 
 The temptation with a small manufacturer like HSTI is to treat it as a data point in a broader sector thesis. Resist that. Instead, trace the actual customer list (often disclosed in the 10-K if top customers exceed a threshold). Map their end markets. Understand whether HSTI is a critical supplier or a fungible subcontractor. Call their customer-support number or check LinkedIn for how long employees stay. Long tenure suggests operational stability; rapid turnover signals dysfunction.
 
-The stock may be illiquid and rarely followed, which means prices can drift far from intrinsic value. The 10-K is your primary document; use it to build a bottoms-up model of unit economics, customer concentration, and capital needs, then compare the implied value to the market price.
+The stock may be illiquid and rarely followed, which means prices can drift far from [intrinsic value](/intrinsic-value/). The 10-K is your primary document; use it to build a bottoms-up model of unit economics, customer concentration, and capital needs, then compare the implied value to the market price.
 
 ## See Also
 

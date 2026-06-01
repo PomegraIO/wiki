@@ -32,7 +32,7 @@ Many drilling-equipment suppliers borrow heavily to fund manufacturing facilitie
 
 ## Geographic and Sector Concentration Risk
 
-DTI's business is concentrated in oil and gas drilling, a sector vulnerable to commodity-price cycles, regulatory changes, and capital discipline by major operators. The company has no diversification into other industries; if oil prices collapse and exploration budgets freeze, there is no alternate revenue stream. Geographic concentration also matters: if DTI serves primarily North American drilling operators, it is insulated from some global shocks but exposed to North American energy policy and shale-drilling trends. Its customer base may be dominated by a handful of large operators; loss of a major customer contract could be material.
+DTI's business is concentrated in oil and gas drilling, a sector vulnerable to commodity-price cycles, regulatory changes, and capital discipline by major operators. The company has no [diversification](/diversification/) into other industries; if oil prices collapse and exploration budgets freeze, there is no alternate revenue stream. Geographic concentration also matters: if DTI serves primarily North American drilling operators, it is insulated from some global shocks but exposed to North American energy policy and shale-drilling trends. Its customer base may be dominated by a handful of large operators; loss of a major customer contract could be material.
 
 ## Historical Sensitivity and Secular Headwinds
 

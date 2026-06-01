@@ -4,7 +4,7 @@ description: "A precious and base metals producer and trader with mining interes
 keywords: ["metals mining", "precious metals", "commodities", "mining operations", "base metals", "extraction"]
 ---
 
-*Blue Moon Metals is a metals producer. It mines or trades in precious metals (gold, silver) and base metals (copper, zinc, lead). The company's profits rise and fall with commodity prices, which swing based on global demand, inflation, and currency movements.*
+*Blue Moon Metals is a metals producer. It mines or trades in precious metals (gold, silver) and base metals (copper, zinc, lead). The company's profits rise and fall with commodity prices, which swing based on global demand, [inflation](/inflation/), and currency movements.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>BMM</td></tr>
@@ -40,7 +40,7 @@ A change in any of these shifts profitability. A discovery of higher-grade ore n
 
 Metals prices follow global cycles. In boom times—rapid industrialization, infrastructure spending, construction—demand for copper, zinc, and other building materials surges. Prices spike. Mining companies print cash.
 
-In downturns—recessions, credit freezes, reduced construction—demand crashes. Prices plummet. Miners bleed cash and cut production or lay off workers.
+In downturns—[recessions](/recession/), credit freezes, reduced construction—demand crashes. Prices plummet. Miners bleed cash and cut production or lay off workers.
 
 Blue Moon's shareholders face timing risk. Buy the stock into an expansion and ride it to a peak, then watch it crater in the downturn. Or buy in a downturn after prices have bottomed and ride the recovery. Or buy at the peak and suffer for years.
 
@@ -58,9 +58,9 @@ Reading the [10-K](/10-k/) for cost trends is key. If per-unit costs are rising 
 
 Mining happens where ore is. Blue Moon's mines might be in stable developed nations (Canada, Australia) or unstable emerging ones (Peru, Indonesia, Russia). Geopolitical risk matters.
 
-A hostile government can nationalize mines, impose new taxes, or restrict exports. Currency volatility in emerging markets can swing returns. Labor unrest can halt production.
+A hostile government can nationalize mines, impose new taxes, or restrict exports. [Currency volatility](/currency-volatility/) in emerging markets can swing returns. Labor unrest can halt production.
 
-Diversification across geographies hedges some risk. If one country becomes hostile, production continues elsewhere. But any emerging-market exposure carries geopolitical tail risk.
+[Diversification](/diversification/) across geographies hedges some risk. If one country becomes hostile, production continues elsewhere. But any emerging-market exposure carries geopolitical [tail risk](/tail-risk/).
 
 ## Capital Allocation and Dividends
 

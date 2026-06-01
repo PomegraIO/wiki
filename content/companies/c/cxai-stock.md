@@ -54,13 +54,13 @@ If CXApp's software includes encryption, or if the software is used for data sec
 
 Encryption is considered "dual-use" technology—it has legitimate commercial purposes but can also be used for military or intelligence purposes. The U.S. government tightly controls encryption exports to certain countries (Iran, North Korea, Syria, Cuba). A company selling encryption software to customers in sanctioned countries violates export law and faces criminal liability.
 
-If CXApp's software is hosted in the cloud (Amazon AWS, Google Cloud, Microsoft Azure), the company must ensure its infrastructure does not inadvertently serve customers in sanctioned countries. A customer access from an IP address traced to Iran or North Korea, even if the customer is not a sanctioned entity, can trigger compliance violations.
+If CXApp's software is hosted in the cloud (Amazon AWS, Google Cloud, [Microsoft](/msft-stock/) Azure), the company must ensure its infrastructure does not inadvertently serve customers in sanctioned countries. A customer access from an IP address traced to Iran or North Korea, even if the customer is not a sanctioned entity, can trigger compliance violations.
 
 The export-control landscape is technical and changes frequently as the government updates regulations. CXApp must maintain an export-control compliance program, including training, compliance reviews, and customer screening.
 
 ## Sector-Specific Regulations
 
-If CXApp sells software to specific industries, it faces additional regulations. If the software is sold to financial institutions (banks, insurance companies, investment firms), CXApp is subject to financial-services regulations. The software must meet security standards (like the Gramm-Leach-Bliley Act's safeguards requirements), and financial institutions must conduct vendor risk assessments. The company faces audits and must demonstrate security compliance.
+If CXApp sells software to specific industries, it faces additional regulations. If the software is sold to [financial institutions](/fisi-stock/) (banks, insurance companies, investment firms), CXApp is subject to financial-services regulations. The software must meet security standards (like the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/)'s safeguards requirements), and financial institutions must conduct vendor risk assessments. The company faces audits and must demonstrate security compliance.
 
 If the software is sold to healthcare providers, it may handle Protected Health Information (PHI) under the Health Insurance Portability and Accountability Act (HIPAA). The company must implement technical and administrative safeguards, provide business associate agreements, and maintain audit trails. HIPAA violations trigger fines and litigation.
 

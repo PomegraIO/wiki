@@ -28,13 +28,13 @@ The [income-statement](/income-statement/) for a multi-sector holding company wi
 - **Are some segments profitable and others loss-making?** Holding companies sometimes carry unprofitable subsidiaries for strategic reasons (market position, R&D, or founder preference). The 10-K should clarify whether loss-making segments are temporary or structural.
 - **Year-over-year segment trends**: Are profitable segments growing? Are loss-making segments shrinking or stable? Stable losses suggest stalled turnaround efforts; shrinking operations may indicate planned divestiture.
 
-The consolidated operating margin (operating profit as a percentage of revenue) should be compared to the segment margins. If consolidated margin is lower than the largest segment margin, overhead at the holding company level is consuming profits. This is common and not necessarily bad, but it should be quantified.
+The consolidated [operating margin](/operating-margin/) (operating profit as a percentage of revenue) should be compared to the segment margins. If consolidated margin is lower than the largest segment margin, overhead at the holding company level is consuming profits. This is common and not necessarily bad, but it should be quantified.
 
 ## Balance sheet: asset composition and debt
 
 A holding company's balance sheet reflects its portfolio. Examine:
 
-- **Goodwill and intangible assets**: These arise when BGHL paid more for a subsidiary than the subsidiary's underlying net asset value. Goodwill is an accounting placeholder for the premium paid. If goodwill is substantial (e.g., 40% of total assets), the company has overpaid for acquisitions or carried long-term goodwill impairment risk. Any write-down of goodwill signals that acquisitions did not perform as expected.
+- **[Goodwill](/goodwill/) and [intangible assets](/intangible-assets/)**: These arise when BGHL paid more for a subsidiary than the subsidiary's underlying [net asset value](/net-asset-value/). Goodwill is an accounting placeholder for the premium paid. If goodwill is substantial (e.g., 40% of total assets), the company has overpaid for [acquisitions](/acquisition/) or carried long-term [goodwill impairment](/goodwill-impairment/) risk. Any write-down of goodwill signals that acquisitions did not perform as expected.
 - **Investment in subsidiaries**: If BGHL carries equity investments in subsidiaries that are not consolidated, these appear as "investment in affiliates" or similar lines. The amount paid may be far above the reported equity of the subsidiary, indicating either that the subsidiary is more valuable than its book value suggests or that BGHL overpaid.
 - **Debt structure**: Is the debt held at the holding company level or at subsidiaries? If subsidiary debt is large and subsidiary earnings are weakening, BGHL may have limited flexibility to dividend cash to shareholders. Holding-company-level debt is more flexible but signals leverage at the top of the capital structure.
 
@@ -60,13 +60,13 @@ If BGHL operates subsidiaries across multiple countries, each faces different re
 
 ## Acquisitions and divestitures: signals of strategy
 
-The MD&A discusses material acquisitions and divestitures in the past year. Large acquisitions represent bets by management on the acquired company's future performance; watch whether past acquisitions have met their targets. Divestitures may signal underperformance or a pivot in strategic direction.
+The MD&A discusses material acquisitions and [divestitures](/divestiture/) in the past year. Large acquisitions represent bets by management on the acquired company's future performance; watch whether past acquisitions have met their targets. Divestitures may signal underperformance or a pivot in strategic direction.
 
 The purchase price allocation (detailed in the notes to the financial statements) shows how much BGHL paid for acquired companies and how that purchase price was allocated to identified assets, intangibles, and goodwill. A disproportionate allocation to goodwill suggests overpayment or inflated expectations.
 
 ## Cash conversion: operating to free cash flow
 
-The cash flow statement distinguishes operating cash flow (cash earned from the business) from investing cash flow (cash spent on acquisitions, capex) and financing cash flow (dividends, debt, equity). For a holding company:
+The [cash flow statement](/cash-flow-statement/) distinguishes operating cash flow (cash earned from the business) from investing cash flow (cash spent on acquisitions, capex) and financing cash flow (dividends, debt, equity). For a holding company:
 
 - **Operating cash flow relative to net income**: If net income is $100 million but operating cash flow is only $30 million, the company is earning accrual profits but not converting them to cash. This is a warning sign—either the company is accruing uncollected revenues, building unsold inventory, or using aggressive accounting.
 - **Capital expenditure intensity**: Some holding companies own capital-light businesses (services, IP); others own capital-intensive subsidiaries (manufacturing, real estate). The capex as a percentage of revenue should align with the business mix.
@@ -79,9 +79,9 @@ A holding company is only as strong as its subsidiaries. The consolidated 10-K p
 1. Identify the 3–5 material subsidiaries by revenue and profit.
 2. Read the segment disclosure to understand each subsidiary's performance trajectory.
 3. Assess whether the holding company's cost structure is justified by the value it adds (capital allocation, corporate governance, tax optimization).
-4. Compare BGHL's conglomerate discount or premium—the market cap relative to the sum of what comparable standalone subsidiaries would be worth.
+4. Compare BGHL's conglomerate discount or premium—the [market cap](/market-capitalization/) relative to the sum of what comparable standalone subsidiaries would be worth.
 
-Conglomerate discounts (market cap below the sum of subsidiary values) are common and reflect investor skepticism about management's capital allocation or concerns about complexity and opacity.
+[Conglomerate discounts](/conglomerate-discount/) (market cap below the sum of subsidiary values) are common and reflect investor skepticism about management's capital allocation or concerns about complexity and opacity.
 
 ## What to focus on in BGHL's 10-K
 

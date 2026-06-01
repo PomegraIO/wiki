@@ -22,7 +22,7 @@ The choice to incorporate in BC rather than federally (which would allow operati
 
 ## OTC Markets and the Geography of Liquidity
 
-Trading on the OTC Pink Sheets (rather than NASDAQ, TSX Venture, or TSX) places Prostar in a highly fragmented, low-liquidity corner of North American equity markets. OTC markets are geographically distributed (quotes come from dealers across the continent) but have no central exchange, lower trading volume per security, and wider bid-ask spreads than exchange-listed stocks. This affects Prostar's ability to raise capital: institutional investors often have mandates that exclude OTC stocks; retail investors face execution friction and price uncertainty.
+Trading on the [OTC Pink](/otc-pink/) Sheets (rather than [NASDAQ](/nasdaq/), TSX Venture, or TSX) places Prostar in a highly fragmented, low-liquidity corner of North American equity markets. OTC markets are geographically distributed (quotes come from dealers across the continent) but have no central exchange, lower trading volume per security, and wider [bid-ask spreads](/bid-ask-spread/) than exchange-listed stocks. This affects Prostar's ability to raise capital: institutional investors often have mandates that exclude OTC stocks; retail investors face execution friction and price uncertainty.
 
 The OTC ecosystem has geographic pockets of strength and weakness. Major broker-dealers are concentrated in New York, Toronto, and a handful of US financial centers. An OTC company's ability to maintain trading activity depends on maintaining relationships with these broker-dealers. A company with BC roots but trading OTC must work harder to build dealer relationships than one listed on a major exchange in a financial capital.
 
@@ -30,7 +30,7 @@ The OTC ecosystem has geographic pockets of strength and weakness. Major broker-
 
 Small Canadian companies traditionally raise capital through provincial venture-capital offices (BC's Connecting Capital Initiative, for example) or from US venture funds, angel networks, and private-equity groups. Prostar's position in BC offers some local venture and private-equity access (Vancouver has a modest venture ecosystem) but is far from major US venture hubs (Silicon Valley, Boston, New York) or Toronto's institutional-capital concentration. This geographic distance from capital centers increases fundraising costs and limits the pool of sophisticated investors familiar with the company's sector.
 
-For Prostar, capital raises likely come through broker-dealers, private placements to existing shareholders, or founder/management reinvestment. Geography makes each harder: retail placements are difficult without exchange liquidity; institutional placements require seller relationships in Toronto or New York; and the company cannot easily tap major venture-capital funds.
+For Prostar, capital raises likely come through broker-dealers, [private placements](/private-placement/) to existing shareholders, or founder/management reinvestment. Geography makes each harder: retail placements are difficult without exchange liquidity; institutional placements require seller relationships in Toronto or New York; and the company cannot easily tap major venture-capital funds.
 
 ## Regulatory Compliance Across Jurisdictions
 
@@ -48,7 +48,7 @@ BC's geography also affects supply chain and customer reach. Companies in BC ser
 
 A small-cap company based in BC competes for talent, supplier relationships, and customer attention in a smaller regional market than one in Ontario or Quebec. BC's economy is resource-driven (forestry, mining, oil and gas), technology-growing (Vancouver is an emerging tech hub, though far smaller than Toronto or Calgary), and tourism-based. Prostar's competitive context depends on its sector: if it serves the BC natural-resource or forestry sector, geographic proximity is an advantage; if it targets national or continental markets, geographic distance from major population centers is a friction.
 
-Customer acquisition is geographically constrained: relationships built locally in BC may not extend easily to Ontario or the US. A company in Toronto can reach major corporate customers and government institutions across the Canadian core and northeast; a company in BC must invest in national sales infrastructure to achieve equivalent reach.
+Customer [acquisition](/acquisition/) is geographically constrained: relationships built locally in BC may not extend easily to Ontario or the US. A company in Toronto can reach major corporate customers and government institutions across the Canadian core and northeast; a company in BC must invest in national sales infrastructure to achieve equivalent reach.
 
 ## Time Zone and Business Operations
 

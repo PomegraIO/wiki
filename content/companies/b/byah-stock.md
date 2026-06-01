@@ -41,7 +41,7 @@ A key vulnerability in biopharmaceutical moats is cash burn. Companies must cont
 
 ## International Regulatory Navigation
 
-Park Ha, as a South Korean company, must navigate not only its home regulatory environment (the Korea Ministry of Food and Drug Safety) but also the regulatory frameworks of markets where it sells or seeks to sell drugs. The US FDA is the gold standard; European Medicines Agency approval is also valuable. Companies with experience navigating multiple regulatory regimes and demonstrating that their drugs meet high international standards enjoy a defensibility advantage over companies that operate only domestically. However, this advantage requires capital and organizational capacity to support international clinical development, which smaller biopharmaceutical companies sometimes lack.
+Park Ha, as a South Korean company, must navigate not only its home regulatory environment (the Korea Ministry of Food and Drug Safety) but also the regulatory frameworks of markets where it sells or seeks to sell drugs. The US FDA is the [gold standard](/gold-standard/); European Medicines Agency approval is also valuable. Companies with experience navigating multiple regulatory regimes and demonstrating that their drugs meet high international standards enjoy a defensibility advantage over companies that operate only domestically. However, this advantage requires capital and organizational capacity to support international clinical development, which smaller biopharmaceutical companies sometimes lack.
 
 ## Market Position and Contingent Defensibility
 

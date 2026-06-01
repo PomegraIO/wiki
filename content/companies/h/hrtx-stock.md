@@ -28,7 +28,7 @@ Perioperative drugs are not sold through retail pharmacies; they are purchased b
 
 ## Sector Dynamics: Large Pharma Inattention and Specialist Opportunity
 
-Large pharmaceutical companies (Merck, J&J, Pfizer) typically avoid the perioperative segment because the patient population is episodic (you have surgery once or a few times in a lifetime) and the duration of treatment is measured in days, not months or years. The annual revenue potential for any one perioperative product is capped by surgical volume and hospital adoption. A cancer drug or a chronic-disease therapy, by contrast, can generate billions in annual revenue if adopted broadly. This structural disinterest by big pharma creates white space for specialists. Heron and similar focused biotech firms can build sustainable businesses in perioperative care without competing directly against multinational drug companies' blockbuster portfolios.
+Large pharmaceutical companies (Merck, J&J, [Pfizer](/pfe-stock/)) typically avoid the perioperative segment because the patient population is episodic (you have surgery once or a few times in a lifetime) and the duration of treatment is measured in days, not months or years. The annual revenue potential for any one perioperative product is capped by surgical volume and hospital adoption. A cancer drug or a chronic-disease therapy, by contrast, can generate billions in annual revenue if adopted broadly. This structural disinterest by big pharma creates white space for specialists. Heron and similar focused biotech firms can build sustainable businesses in perioperative care without competing directly against multinational drug companies' blockbuster portfolios.
 
 ## Clinical Evidence and Differentiation
 

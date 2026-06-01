@@ -59,7 +59,7 @@ If lithium becomes scarce or expensive, CATL's margins get squeezed — it canno
 
 CATL makes different types of batteries for different purposes. Lithium iron phosphate (LFP) batteries are cheaper and safer but have slightly lower energy density (meaning they store less energy per pound). Nickel-cobalt batteries are more expensive but pack more energy per pound, which is useful for cars that need long range or high performance. There are also sodium-ion batteries, which are emerging as a lower-cost alternative for certain applications.
 
-Car makers choose the chemistry based on their [target](/tgt-stock/) price and performance. A luxury car maker that wants 400-mile range and $100,000 prices will choose nickel-based chemistry. A maker of affordable commuter cars priced at $30,000 might choose LFP. CATL produces all of these, allowing it to serve the entire market.
+Car makers choose the chemistry based on their target price and performance. A luxury car maker that wants 400-mile range and $100,000 prices will choose nickel-based chemistry. A maker of affordable commuter cars priced at $30,000 might choose LFP. CATL produces all of these, allowing it to serve the entire market.
 
 ## The global push and the tariff wall
 

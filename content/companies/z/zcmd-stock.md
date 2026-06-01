@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-Zhongchao Inc. is a China-based provider of medical information, professional education, and digital healthcare services. The company operates primarily through online and digital channels, delivering clinical knowledge, continuing education, and health-related content to physicians and patients across China.
+Zhongchao Inc. is a China-based provider of medical information, professional education, and digital [healthcare services](/hcsg-stock/). The company operates primarily through online and digital channels, delivering clinical knowledge, continuing education, and health-related content to physicians and patients across China.
 
 The core business model centers on aggregating and disseminating medical information through digital platforms. Zhongchao develops and maintains software, websites, and mobile applications that serve physicians seeking continuing professional development and patients seeking health information. The company monetizes through a combination of subscription services, advertising partnerships with pharmaceutical and medical device companies, and transactions with healthcare providers.
 
@@ -18,7 +18,7 @@ The core business model centers on aggregating and disseminating medical informa
 
 Zhongchao's primary audience is the licensed physician community in China. The company provides a platform where doctors can access clinical guidelines, research abstracts, educational materials, and peer knowledge. This appeals to physicians who need to stay current with medical advances and meet continuing education requirements set by regulatory bodies. Patients and their families also use the platform for general health information and disease awareness content.
 
-Revenue streams include professional subscriptions for advanced content access, sponsored educational programs and advertising from pharmaceutical firms, partnerships with hospitals and clinics, and branded health information services. The proportion of these revenue sources varies, but advertising and sponsorship traditionally represent the largest portion, reflecting the pharmaceutical and healthcare industry's reliance on physician engagement channels.
+Revenue streams include professional subscriptions for advanced content access, sponsored educational programs and advertising from pharmaceutical firms, partnerships with hospitals and clinics, and branded health [information services](/iii-stock/). The proportion of these revenue sources varies, but advertising and sponsorship traditionally represent the largest portion, reflecting the pharmaceutical and healthcare industry's reliance on physician engagement channels.
 
 ## Competitive Position
 

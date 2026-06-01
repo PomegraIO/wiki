@@ -37,7 +37,7 @@ Quality control is essential in the vaping market. Poor product performance, bat
 
 Kaival sells through vape shops, convenience stores, and online channels. Brick-and-mortar retail requires relationships with distributors and retailers, many of whom have limited shelf space and stock dozens of competing brands. Online sales are more direct but face age-verification complexity, shipping restrictions in some states, and payment-processor reluctance (some processors avoid nicotine merchants to sidestep regulatory and reputational risk). The company's ability to secure shelf space and maintain distribution is a silent but critical operational function.
 
-Customer acquisition costs are another hidden metric. How much does Kaival spend on marketing (social media, influencers, sponsorships) per new customer? At what price point and repeat-purchase rate does that customer become profitable? These unit economics determine whether growth is profitable or merely costly expansion. An OTC-listed consumer-goods company rarely discloses this level of detail, but it is the engine of the business.
+Customer [acquisition](/acquisition/) costs are another hidden metric. How much does Kaival spend on marketing (social media, influencers, sponsorships) per new customer? At what price point and repeat-purchase rate does that customer become profitable? These unit economics determine whether growth is profitable or merely costly expansion. An OTC-listed consumer-goods company rarely discloses this level of detail, but it is the engine of the business.
 
 ## Competitive Pressure from Incumbents
 

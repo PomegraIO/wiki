@@ -35,7 +35,7 @@ Once an FDA approval is granted, responsibility does not end. The company must c
 
 ## Manufacturing and Quality Control Regulation
 
-FBIO's drug candidates, once approved, must be manufactured under Current Good Manufacturing Practice (CGMP) standards, which dictate facility design, equipment qualification, production procedures, and testing protocols. The FDA conducts facility inspections (Form 483 observations and warning letters are common), and any significant deviation from CGMP can trigger warning letters, consent decrees, or injunctions against manufacturing. Fortress must therefore maintain substantial quality-control infrastructure and documentation, often outsourcing manufacturing to contract manufacturers while remaining liable for compliance. This regulatory dependency on manufacturing partners adds operational risk: a partner's CGMP failure is Fortress's supply problem.
+FBIO's drug candidates, once approved, must be manufactured under Current Good Manufacturing Practice (CGMP) standards, which dictate facility design, equipment qualification, production procedures, and testing protocols. The FDA conducts facility inspections (Form 483 observations and warning letters are common), and any significant deviation from CGMP can trigger warning letters, consent decrees, or injunctions against manufacturing. Fortress must therefore maintain substantial quality-control infrastructure and documentation, often outsourcing manufacturing to contract manufacturers while remaining liable for compliance. This regulatory dependency on manufacturing partners adds [operational risk](/operational-risk/): a partner's CGMP failure is Fortress's supply problem.
 
 ## Pricing Regulation and Reimbursement Pressure
 

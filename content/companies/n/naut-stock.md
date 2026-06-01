@@ -27,7 +27,7 @@ The company must also demonstrate analytical validity (does the test accurately 
 
 Once validated, Nautilus' tests must be run in a laboratory certified under CLIA, a federal program that sets standards for clinical laboratory quality. The company can operate its own CLIA-certified lab or partner with an existing certified lab; either way, the lab must meet proficiency-testing standards, quality-control procedures, personnel qualifications, and safety protocols. CLIA certification is renewed biennially through inspections conducted by the Centers for Medicare and Medicaid Services (CMS) or delegated state agencies.
 
-A failed CLIA inspection or loss of certification immediately halts the company's ability to report results on patient samples. This creates operational risk: if the company's lab fails an inspection due to procedural lapses or inadequate documentation, patient results may have to be transferred to another lab, disrupting customer relationships and revenue. The company must invest in compliance infrastructure—personnel training, quality-assurance systems, proficiency testing—that adds overhead before any revenue flows.
+A failed CLIA inspection or loss of certification immediately halts the company's ability to report results on patient samples. This creates [operational risk](/operational-risk/): if the company's lab fails an inspection due to procedural lapses or inadequate documentation, patient results may have to be transferred to another lab, disrupting customer relationships and revenue. The company must invest in compliance infrastructure—personnel training, quality-assurance systems, proficiency testing—that adds overhead before any revenue flows.
 
 ## Evidence Generation and Clinical Trials
 

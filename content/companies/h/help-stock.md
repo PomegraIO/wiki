@@ -29,7 +29,7 @@ The company has pursued licensing and partnership deals with academic institutio
 
 ## Intellectual Property and Market Position
 
-CYBIN's competitive position rests on formulation patents, delivery mechanisms, and method-of-use claims around psilocybin and related compounds. Because the parent molecule itself cannot be patented (it exists in nature), the defensibility of IP depends on novel synthetic routes, combination therapies, or use cases. The psychedelics field remains young enough that patent landscapes are still forming—first-mover advantages in certain indications or delivery systems may create durable moats, but many such advantages are uncertain until clinical and regulatory outcomes resolve.
+CYBIN's competitive position rests on formulation patents, [delivery mechanisms](/delivery-mechanisms/), and method-of-use claims around psilocybin and related compounds. Because the parent molecule itself cannot be patented (it exists in nature), the defensibility of IP depends on novel synthetic routes, combination therapies, or use cases. The psychedelics field remains young enough that patent landscapes are still forming—first-mover advantages in certain indications or delivery systems may create durable moats, but many such advantages are uncertain until clinical and regulatory outcomes resolve.
 
 Competitors in the psychedelics space include other clinical-stage companies, larger pharmaceutical firms running dedicated psychedelics research arms, and academic institutions advancing their own candidates. CYBIN's differentiation lies in its clinical slate and geographic partnerships rather than a breakthrough molecule inaccessible to rivals.
 

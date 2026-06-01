@@ -19,7 +19,7 @@ keywords: ["battery materials", "lithium", "nickel", "critical minerals", "suppl
 
 The company's upstream supply chain begins with producers of raw or partially processed battery metals. Lithium carbonate and hydroxide, nickel sulphate, cobalt metal, and other precursors flow into ELBM from mines, processing plants, and recyclers. The company's skill—and margin—lies in negotiations with these suppliers: locking in volume, price, and quality commitments at a rate low enough to allow profitable resale downstream.
 
-Raw battery materials markets are volatile. Lithium prices have gyrated based on supply shocks and demand surges from the EV boom. ELBM must manage this volatility either through long-term supply contracts (which lock in price but add counterparty risk) or through spot-market purchasing (which exposes margins to commodity swings). Larger suppliers achieve leverage by aggregating demand from multiple battery makers; ELBM's leverage derives from its role as an intermediary aggregating supply for customers.
+Raw battery materials markets are volatile. Lithium prices have gyrated based on supply shocks and demand surges from the EV boom. ELBM must manage this volatility either through long-term supply contracts (which lock in price but add [counterparty risk](/counterparty-risk/)) or through spot-market purchasing (which exposes margins to commodity swings). Larger suppliers achieve leverage by aggregating demand from multiple battery makers; ELBM's leverage derives from its role as an intermediary aggregating supply for customers.
 
 ## Refining, Blending, and Specification Work
 
@@ -29,7 +29,7 @@ This transformation step is labor-intensive, capital-intensive, and technically 
 
 ## Customers and End-Market Dependency
 
-ELBM's customers are battery cell manufacturers—the companies operating large lithium-ion factories that produce cells for vehicles, stationary storage, and consumer electronics. Tesla, LG Energy Solution, CATL, Northvolt, and others represent the largest buyers. These customers are themselves highly cyclical; they invest in massive factories only when they perceive stable long-term demand for EV batteries.
+ELBM's customers are battery cell manufacturers—the companies operating large lithium-ion factories that produce cells for vehicles, stationary storage, and consumer electronics. [Tesla](/tsla-stock/), LG Energy Solution, CATL, Northvolt, and others represent the largest buyers. These customers are themselves highly cyclical; they invest in massive factories only when they perceive stable long-term demand for EV batteries.
 
 The customer-to-ELBM relationship is typically long-term and contract-based. A battery maker will qualify ELBM as an approved supplier, conduct on-site audits, and commit to purchasing certain minimum volumes at specified prices and terms. In return, ELBM achieves visibility into future revenue and an incentive to maintain quality and reliability. Losing a major customer—because a competitor undercuts price, quality slips, or the customer integrates vertically backward—is catastrophic.
 
@@ -37,7 +37,7 @@ The customer-to-ELBM relationship is typically long-term and contract-based. A b
 
 As EV adoption accelerates, end-of-life battery recycling becomes a complementary supply source for materials like nickel and cobalt. ELBM may partner with battery recyclers or invest in recycling capacity itself, sourcing recovered materials at rates lower than virgin mining. Recycled battery materials are typically lower grade than virgin inputs and require different processing, but they improve margin if costs can be controlled.
 
-This diversification matters strategically: ELBM is less dependent on any single ore supplier and can moderate price exposure by blending virgin and recycled inputs. It also positions the company to benefit from circular-economy tailwinds; as battery recycling volumes grow, recyclers will need qualified material processors to convert black mass into battery-ready precursors.
+This [diversification](/diversification/) matters strategically: ELBM is less dependent on any single ore supplier and can moderate price exposure by blending virgin and recycled inputs. It also positions the company to benefit from circular-economy tailwinds; as battery recycling volumes grow, recyclers will need qualified material processors to convert black mass into battery-ready precursors.
 
 ## Logistics and Geographic Positioning
 

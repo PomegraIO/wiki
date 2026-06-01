@@ -40,7 +40,7 @@ For entertainment events, there can be weak network effects: a larger audience m
 
 ## Economic Model: Revenue Volatility and Cost Exposure
 
-Event promotion is also an inherently volatile business. Revenue depends on event attendance, viewership, and sponsorship, all of which fluctuate based on economic conditions, consumer interest, and competition. If a recession occurs, sponsorships dry up and attendance drops. Costs for venues, athlete compensation, insurance, and production are often fixed or semi-fixed, making profitability highly sensitive to revenue swings.
+Event promotion is also an inherently volatile business. Revenue depends on event attendance, viewership, and sponsorship, all of which fluctuate based on economic conditions, consumer interest, and competition. If a [recession](/recession/) occurs, sponsorships dry up and attendance drops. Costs for venues, athlete compensation, insurance, and production are often fixed or semi-fixed, making profitability highly sensitive to revenue swings.
 
 Lingerie Fighting Championships is a smaller player in the broader event promotion market, which means it has less pricing power and more exposure to economic shocks than a larger, diversified entertainment company. The moat is therefore heavily dependent on the company's ability to manage costs and maintain profitable events even during slow periods.
 

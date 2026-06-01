@@ -4,7 +4,7 @@ description: "Commercial real estate advisory and brokerage firm specializing in
 keywords: ["commercial real estate", "brokerage", "investment properties", "real estate advisory", "commercial property sales"]
 ---
 
-*The commercial real estate brokerage market has fractured dramatically since the 2008 crisis. While institutional operators moved toward integrated capital—combining debt, equity, and asset management—independent brokers have either consolidated into tier-one networks or retreated to niches. **Marcus & Millichap (MMI)** navigates that tension by bundling transactional expertise with a distributed agent network, holding the middle ground between Wall Street mega-firms and local specialists.*
+*The [commercial real estate](/commercial-real-estate/) brokerage market has fractured dramatically since the 2008 crisis. While institutional operators moved toward integrated capital—combining debt, equity, and asset management—independent [brokers](/broker/) have either consolidated into tier-one networks or retreated to niches. **Marcus & Millichap (MMI)** navigates that tension by bundling transactional expertise with a distributed agent network, holding the middle ground between Wall Street mega-firms and local specialists.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>MMI</td></tr>
@@ -21,7 +21,7 @@ Commercial real estate suffered a structural contraction after 2008. Capital bec
 
 Marcus & Millichap entered this environment with a different bet: that a nationwide network of agents, loosely coordinated but sharing brand, deal flow, and systems, could move mid-market properties faster and at higher velocity than traditional office brokers. The firm does not originate debt (unlike a [bank](/stock-exchange/) or lender); it does not hold equity (unlike a [real estate investment trust](/real-estate-investment-trust/)). Instead, it acts as a market-maker for [properties](/public-company/) that sit between owner-occupant sales and institutional portfolio trades—small multifamily buildings, single-tenant net-lease deals, industrial warehouses, self-storage facilities.
 
-That focused positioning has allowed MMI to grow as a brokerage when the industry as a whole fragmented. Revenue scales with transaction count and deal volume, not with interest rates or capital availability. The firm's economics rely on consistent deal flow and closing rates, not financing margins or asset appreciation.
+That focused positioning has allowed MMI to grow as a brokerage when the industry as a whole fragmented. Revenue scales with transaction count and deal volume, not with [interest rates](/interest-rate/) or capital availability. The firm's economics rely on consistent deal flow and closing rates, not financing margins or asset appreciation.
 
 ## Where MMI Sits in the Real Estate Value Chain
 
@@ -31,7 +31,7 @@ The firm's strength is speed and density of distribution. Rather than staffing a
 
 This model reduces fixed costs compared to traditional full-service firms. It also sidesteps the pressure from larger institutions that combine brokerage with lending or asset management. Those relationships can create conflicts of interest or push toward exclusive financing arrangements; MMI stays asset-neutral and transaction-focused.
 
-However, the model is not insulated from industry cycles. A tightening of credit, a rise in cap rates, or a collapse in investor appetite for rental properties directly reduces deal volume. MMI generates revenue only when deals close, not from assets under management or interest income. In periods of market stress, commission-based revenue can contract sharply.
+However, the model is not insulated from industry cycles. A tightening of credit, a rise in [cap rates](/cap-rate/), or a collapse in investor appetite for rental properties directly reduces deal volume. MMI generates revenue only when deals close, not from assets under management or interest income. In periods of market stress, commission-based revenue can contract sharply.
 
 ## Capital Requirements and Competitive Positioning
 
@@ -51,7 +51,7 @@ The firm's long-term challenge is whether it can scale the model without losing 
 
 ## Researching MMI
 
-Annual [10-K filings](/10-k/) disclose transaction volume, average commission rates, and geographic revenue splits. Investor calls provide color on deal-flow trends and agent productivity. Comparing MMI's commission rates and closing timelines to larger competitors (like CBRE or Jones Lang LaSalle) illuminates its niche and cost structure. Market data on commercial property sales velocity and investor sentiment toward cap rates and rental multiples will shape MMI's near-term trajectory.
+Annual [10-K filings](/10-k/) disclose transaction volume, average commission rates, and geographic revenue splits. Investor calls provide color on deal-flow trends and agent productivity. Comparing MMI's commission rates and closing timelines to larger competitors (like CBRE or [Jones Lang LaSalle](/jll-stock/)) illuminates its niche and cost structure. Market data on commercial property sales velocity and investor sentiment toward cap rates and rental multiples will shape MMI's near-term trajectory.
 
 <div class="wiki-seealso">
 

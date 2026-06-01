@@ -16,12 +16,12 @@ keywords: ["mining", "gold", "exploration", "commodities", "development", "junio
 
 ## The balance sheet of an exploration play
 
-Bravada's balance sheet looks fundamentally different from that of a producer. Instead of inventory (ore stockpiles and crushed ore) and property-plant-equipment (mills, trucks, processing facilities), the bulk of the assets are capitalized exploration costs—amounts spent to drill, survey, and delineate ore bodies on properties Bravada holds through leases or claims. This is the core asset. When reading the 10-K, search for:
+Bravada's [balance sheet](/balance-sheet/) looks fundamentally different from that of a producer. Instead of inventory (ore stockpiles and crushed ore) and property-plant-equipment (mills, trucks, processing facilities), the bulk of the assets are capitalized exploration costs—amounts spent to drill, survey, and delineate ore bodies on properties Bravada holds through leases or claims. This is the core asset. When reading the 10-K, search for:
 
 - **Capitalized exploration and development costs by property**: Bravada's assets are geographic. The 10-K should itemize properties (often named for their location—a creek, a mining district, a claim block) and the amount spent on each. A property with years of drilling and many millions in capitalized costs is more advanced than a recently acquired grassroots prospect.
 - **Impairment write-downs**: If management decides a property is no longer prospective, or if market conditions force a capital raise that dilutes shareholders severely, the company may write down exploration assets to zero. These are red flags revealing either geological disappointment or financial distress.
 
-The liabilities side often shows modest debt (cash is precious for exploration companies) and significant accounts payable—vendors waiting to be paid. Cash burn rate is paramount. An exploration company with 18 months of cash at its current spending rate can afford deliberate exploration. One with 6 months faces financing pressure.
+The liabilities side often shows modest debt (cash is precious for exploration companies) and significant [accounts payable](/accounts-payable/)—vendors waiting to be paid. Cash burn rate is paramount. An exploration company with 18 months of cash at its current spending rate can afford deliberate exploration. One with 6 months faces financing pressure.
 
 ## Tracking capital deployment: the exploration program
 
@@ -33,7 +33,7 @@ In Item 7 (MD&A), Bravada describes its exploration work—which properties it i
 
 ## Cash burn and financing dependency
 
-Exploration companies do not generate operating cash flow. They burn cash. The cash flow statement shows uses: drilling, assaying, salaries, property rentals, and general overhead. Positive cash flow would indicate that Bravada has either begun producing (unlikely for a junior) or has sold a property or entered a joint venture (possible).
+Exploration companies do not generate operating cash flow. They burn cash. The [cash flow statement](/cash-flow-statement/) shows uses: drilling, assaying, salaries, property rentals, and general overhead. Positive cash flow would indicate that Bravada has either begun producing (unlikely for a junior) or has sold a property or entered a joint venture (possible).
 
 More likely, the company finances its program through equity raises. The 10-K shows any capital raises in recent years—the number of shares issued, the price per share, and the cash raised. If a company raises capital at $0.05 per share after previously trading at $0.20, that is dilutive evidence of financial distress. Analysts should calculate the implied fully-diluted share count after considering options, warrants, and any pending convertibles.
 

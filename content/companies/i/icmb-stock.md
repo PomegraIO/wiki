@@ -16,15 +16,15 @@ keywords: ["BDC", "credit management", "leverage", "net asset value", "dividend"
 
 ## The Leverage Mandate
 
-ICMB exists because of balance-sheet mechanics that BDCs are uniquely positioned to exploit. The firm issues equity, then borrows against that equity base—typically at a ratio of 1.5x to 2.0x equity-to-debt—to deploy capital into credit assets earning higher yields. A simplified example: if ICMB raises $500 million in equity and borrows $750 million, it has $1.25 billion to lend. If that portfolio earns 8% while the cost of debt averages 5%, the margin of 3% accrues to equity holders, amplifying returns. This is the core of the BDC model: equity holders receive the economic benefit of leverage without needing to own a traditional bank [balance-sheet](/balance-sheet/).
+ICMB exists because of balance-sheet mechanics that BDCs are uniquely positioned to exploit. The firm issues equity, then borrows against that equity base—typically at a ratio of 1.5x to 2.0x equity-to-debt—to deploy capital into credit assets earning higher yields. A simplified example: if ICMB raises $500 million in equity and borrows $750 million, it has $1.25 billion to lend. If that portfolio earns 8% while the [cost of debt](/cost-of-debt/) averages 5%, the margin of 3% accrues to equity holders, amplifying returns. This is the core of the BDC model: equity holders receive the economic benefit of leverage without needing to own a traditional bank [balance-sheet](/balance-sheet/).
 
-The leverage constraint is the centerpiece of BDC regulation. Federal law caps debt-to-equity at 1.5x for most BDCs, but ICMB operates within that boundary. The company's leverage ratio directly determines how much capital it can deploy, which determines assets under management, which determines total interest income. A lower-leveraged BDC generates lower absolute returns; a fully leveraged BDC maximizes spread income but increases vulnerability to credit losses and funding stress.
+The leverage constraint is the centerpiece of BDC regulation. Federal law caps debt-to-equity at 1.5x for most BDCs, but ICMB operates within that boundary. The company's [leverage ratio](/leverage-ratio-forex/) directly determines how much capital it can deploy, which determines assets under management, which determines total interest income. A lower-leveraged BDC generates lower absolute returns; a fully leveraged BDC maximizes spread income but increases vulnerability to credit losses and funding stress.
 
-ICMB's debt structure matters enormously. The company funds operations through senior secured credit facilities, unsecured debt, and structures borrowed from the shadow-banking playbook. Senior debt gets priority in defaults; subordinated debt takes equity-like risk. The pricing of each layer reflects markets' current perception of credit risk and demand for yield. In periods of abundant capital and low rates, ICMB can fund cheaply and amplify returns. In stress periods, when funding markets freeze, a BDC with heavy debt maturities faces refinancing risk or forced asset sales.
+ICMB's debt structure matters enormously. The company funds operations through senior secured credit facilities, unsecured debt, and structures borrowed from the shadow-banking playbook. Senior debt gets priority in defaults; subordinated debt takes equity-like risk. The pricing of each layer reflects markets' current perception of [credit risk](/credit-risk/) and demand for yield. In periods of abundant capital and low rates, ICMB can fund cheaply and amplify returns. In stress periods, when funding markets freeze, a BDC with heavy debt maturities faces [refinancing risk](/refinancing-risk/) or forced asset sales.
 
 ## Net Asset Value and the Equity Story
 
-The defining metric for any BDC is net asset value (NAV)—equity value per share. Unlike operating companies measured by earnings growth, BDCs are valued principally on NAV expansion or contraction. NAV grows when credit investments appreciate, when interest income exceeds operating costs, and when mark-to-market gains on held securities accrue. It shrinks when credit losses, valuation write-downs, or operating expenses exceed investment gains.
+The defining metric for any BDC is [net asset value](/net-asset-value/) (NAV)—equity value per share. Unlike operating companies measured by earnings growth, BDCs are valued principally on NAV expansion or contraction. NAV grows when credit investments appreciate, when interest income exceeds operating costs, and when mark-to-market gains on held securities accrue. It shrinks when credit losses, valuation write-downs, or operating expenses exceed investment gains.
 
 ICMB's share price often trades at a discount to or premium to NAV depending on market demand for BDC exposure and confidence in management's credit picks. A trading discount reflects either skepticism about credit quality or general BDC risk aversion. Conversely, premium valuations signal confidence. ICMB management's job is to grow NAV per share while maintaining funding discipline and credit performance.
 
@@ -32,11 +32,11 @@ Asset quality is paramount. ICMB's portfolio of middle-market loans and investme
 
 ## The Cost of Funds Versus Yield Spread
 
-ICMB's profitability is transparently a spread business. The company must continually refinance its debt at prevailing market rates. When credit spreads widen—a sign of market stress—ICMB's cost of new borrowing rises, compressing the margin between portfolio yield and funding cost. Conversely, when spreads narrow and liquidity is abundant, ICMB can borrow cheaply and book attractive margins.
+ICMB's profitability is transparently a spread business. The company must continually refinance its debt at prevailing market rates. When [credit spreads](/credit-spread/) widen—a sign of market stress—ICMB's cost of new borrowing rises, compressing the margin between portfolio yield and funding cost. Conversely, when spreads narrow and liquidity is abundant, ICMB can borrow cheaply and book attractive margins.
 
-The company's quarterly earnings are highly sensitive to interest rates. If ICMB has floated-rate debt and floated-rate assets, rate movements may offset. But mismatches create vulnerability: if assets are fixed-rate while debt is floating, rising rates compress profitability. Conversely, in a falling-rate environment, floated-rate borrowing becomes cheaper, expanding spreads.
+The company's quarterly earnings are highly sensitive to [interest rates](/interest-rate/). If ICMB has floated-rate debt and floated-rate assets, rate movements may offset. But mismatches create vulnerability: if assets are fixed-rate while debt is floating, rising rates compress profitability. Conversely, in a falling-rate environment, floated-rate borrowing becomes cheaper, expanding spreads.
 
-Duration risk is a hidden balance-sheet concern. ICMB's debt has maturity schedules; if much of it matures in the same year, the company faces refinancing risk during that window. A staggered maturity schedule, with debt expiring gradually across years, provides more flexibility and reduces rollover risk in a stressed funding environment.
+Duration risk is a hidden balance-sheet concern. ICMB's debt has maturity schedules; if much of it matures in the same year, the company faces refinancing risk during that window. A staggered maturity schedule, with debt expiring gradually across years, provides more flexibility and reduces [rollover risk](/rollover-risk/) in a stressed funding environment.
 
 ## Provision for Losses and Credit Quality
 
@@ -48,7 +48,7 @@ The company's allowance for credit losses is not a true reserve fund; it is an o
 
 ICMB's portfolio may include debt, preferred equity, common equity stakes, and warrants in underlying portfolio companies. Debt is senior and typically fixed-yield. Equity stakes and warrants are junior and high-risk but potentially high-reward if a portfolio company exits at premium valuations. The balance sheet separates investment costs from fair-value estimates, but valuation of illiquid middle-market stakes is inherently subjective. Management applies industry-standard valuation methodologies, but disagreement over valuations is a source of NAV uncertainty.
 
-Liquidity mismatches compound the illiquidity issue. ICMB's liabilities—debt and equity—are liquid or semi-liquid. The assets—middle-market loans, illiquid equity, and long-dated credit—are fundamentally illiquid. This gap is bridged through continuous refinancing and disciplined capital deployment, but stress events can create forced liquidations if funding dries up.
+Liquidity mismatches compound the illiquidity issue. ICMB's liabilities—debt and equity—are liquid or semi-liquid. The assets—middle-market loans, illiquid equity, and long-dated credit—are fundamentally illiquid. This gap is bridged through continuous refinancing and disciplined capital deployment, but stress events can create forced [liquidations](/liquidation/) if funding dries up.
 
 ## The Dividend and Capital Return
 
@@ -66,7 +66,7 @@ ICMB's leverage covenant is not merely a accounting ratio; it is a binding const
 - [ICRL (InPoint Commercial Real Estate)](/icrl-stock/)
 
 ### Wider context
-- Business Development Company
+- [Business Development Company](/business-development-company/)
 - Net Asset Value
 - [Dividend](/dividend/)
 - Leverage

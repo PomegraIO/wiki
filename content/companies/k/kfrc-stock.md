@@ -28,7 +28,7 @@ KFORCE's clients are primarily mid-to-large companies in finance, healthcare, te
 
 KFORCE maintains account management and recruiting teams focused on specific sectors and geographies. A recruiter might specialize in cloud infrastructure engineers in the New York market; they maintain relationships with both potential contractors (building a source of available talent) and client hiring managers (understanding what the client needs, when, and at what rate). The depth of these relationships determines KFORCE's ability to fill orders quickly and maintain high utilization.
 
-Client concentration risk is significant. If a large financial services client reduces IT spending or brings work in-house, KFORCE loses revenue. The company mitigates this through geographic diversification (presence in multiple major metros: Tampa, New York, Los Angeles, San Francisco, Dallas) and sector diversification (finance, healthcare, technology, not just one sector). However, all these sectors are cyclical; in a recession, client IT spending is often first to be cut.
+Client [concentration risk](/concentration-risk/) is significant. If a large financial services client reduces IT spending or brings work in-house, KFORCE loses revenue. The company mitigates this through geographic [diversification](/diversification/) (presence in multiple major metros: Tampa, New York, Los Angeles, San Francisco, Dallas) and sector diversification (finance, healthcare, technology, not just one sector). However, all these sectors are cyclical; in a recession, client IT spending is often first to be cut.
 
 ## Recruiting, Assessment, and Placement Operations
 
@@ -52,9 +52,9 @@ The company is exposed to sector cycles. In the 2008 financial crisis, financial
 
 ## Operational Constraints and Leverage
 
-KFORCE's growth is constrained by recruiter productivity and market demand. A recruiter can only fill so many placements; to grow, KFORCE must hire more recruiters, which increases overhead and dilutes margins if utilization doesn't keep pace. The company is also constrained by the supply of available, skilled labor. During periods of full employment, finding available contractors is difficult; rates must rise to attract them, reducing the spread. During downturns, candidates are more available, but client demand falls, reducing order flow.
+KFORCE's growth is constrained by recruiter productivity and market demand. A recruiter can only fill so many placements; to grow, KFORCE must hire more recruiters, which increases overhead and dilutes margins if utilization doesn't keep pace. The company is also constrained by the supply of available, skilled labor. During periods of [full employment](/full-employment/), finding available contractors is difficult; rates must rise to attract them, reducing the spread. During downturns, candidates are more available, but client demand falls, reducing order flow.
 
-The leverage in the model is utilization. If KFORCE maintains 85% utilization across a large contractor base, the fixed cost of recruiting and operations is spread over many billable hours, generating strong operating leverage. Conversely, if utilization drops to 70%, the same fixed cost base supports lower revenue, and margins compress. This is why KFORCE and competitors are defensive during recessions: demand evaporates faster than companies can reduce costs.
+The leverage in the model is utilization. If KFORCE maintains 85% utilization across a large contractor base, the fixed cost of recruiting and operations is spread over many billable hours, generating strong operating leverage. Conversely, if utilization drops to 70%, the same fixed cost base supports lower revenue, and margins compress. This is why KFORCE and competitors are defensive during [recessions](/recession/): demand evaporates faster than companies can reduce costs.
 
 ## Technology and Process
 

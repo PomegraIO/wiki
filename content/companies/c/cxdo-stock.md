@@ -23,7 +23,7 @@ The appeal lies in the absence of hardware. A sales rep closing a deal from home
 
 ## Market Positioning and Competitive Profile
 
-Crexendo sits in the shadow of far larger competitors such as Zoom and Microsoft Teams, which bundle communications into broader productivity suites. Crexendo avoids competing on brand or bundling; instead, it pursues industries and company sizes where its simplicity and focused feature set outweigh the ecosystem appeal of larger players. Legal offices, accounting firms, real estate brokerages, and vertical-specific service companies form its natural territory — sectors where communication is mission-critical but where the company doesn't run on the same technology backbone as enterprise giants.
+Crexendo sits in the shadow of far larger competitors such as Zoom and [Microsoft](/msft-stock/) Teams, which bundle communications into broader productivity suites. Crexendo avoids competing on brand or bundling; instead, it pursues industries and company sizes where its simplicity and focused feature set outweigh the ecosystem appeal of larger players. Legal offices, accounting firms, real estate brokerages, and vertical-specific service companies form its natural territory — sectors where communication is mission-critical but where the company doesn't run on the same technology backbone as enterprise giants.
 
 The company competes partly on pricing: its per-user, per-month model targets firms that need a clear cost structure without surprises. Customers can add lines, conferencing participants, or users without renegotiating contracts. This granularity attracts budget-conscious IT buyers who avoid the bundled complexity and minimum commitments of enterprise-grade suites.
 

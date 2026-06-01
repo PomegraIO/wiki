@@ -25,7 +25,7 @@ TCM products occupy an ambiguous regulatory space in many markets. In China and 
 
 ## Distribution Channels and Customer Base
 
-TCM products are sold through diverse channels: pharmaceutical wholesalers, hospital and clinic supply chains, direct-to-consumer retail (online and brick-and-mortar), and health practitioners (herbalists, acupuncturists, naturopaths). Each channel has different order patterns, margins, payment terms, and customer relationships. Hospital sales are reliable but require maintaining medical product certification and navigating hospital procurement processes. Direct-to-consumer channels offer higher margins but require ongoing marketing, customer acquisition, and handling of returns and complaints. Practitioners who recommend TCM products to patients create a trusted endorsement effect but are also dependent on a small number of influencers.
+TCM products are sold through diverse channels: pharmaceutical wholesalers, hospital and clinic supply chains, direct-to-consumer retail (online and brick-and-mortar), and health practitioners (herbalists, acupuncturists, naturopaths). Each channel has different order patterns, margins, payment terms, and customer relationships. Hospital sales are reliable but require maintaining medical product certification and navigating hospital procurement processes. Direct-to-consumer channels offer higher margins but require ongoing marketing, customer [acquisition](/acquisition/), and handling of returns and complaints. Practitioners who recommend TCM products to patients create a trusted endorsement effect but are also dependent on a small number of influencers.
 
 ## Real Estate Development Operations
 
@@ -37,11 +37,11 @@ As a diversified company, Beroni must allocate capital across TCM manufacturing,
 
 ## Geographic and Currency Exposure
 
-Beroni's multi-country operations create exposure to foreign exchange fluctuations. If the company manufactures TCM in China (in yuan) but sells in multiple currency zones (Singapore dollars, Thai baht, U.S. dollars), currency movements affect reported earnings and competitiveness. A strengthening dollar relative to the yuan makes Beroni's products more expensive in international markets; a weakening dollar improves export competitiveness but reduces the dollar value of earnings from yuan-denominated operations.
+Beroni's multi-country operations create exposure to foreign exchange fluctuations. If the company manufactures TCM in China (in yuan) but sells in multiple currency zones ([Singapore dollars](/singapore-dollar/), Thai baht, U.S. dollars), currency movements affect reported earnings and competitiveness. A strengthening dollar relative to the yuan makes Beroni's products more expensive in international markets; a weakening dollar improves export competitiveness but reduces the dollar value of earnings from yuan-denominated operations.
 
 ## Working Capital Management in Seasonal and Cyclical Businesses
 
-TCM demand follows some seasonal patterns (increased health-supplement consumption in winter or around health-conscious seasons). Real estate development is highly cyclical, tied to interest rates, economic growth, and property market sentiment. Managing working capital across these different cycles requires forecasting demand accurately, maintaining inventory appropriate to seasonal demand, and funding operations through slower periods. If TCM demand is strong but real estate projects face delays, the company's cash position can become strained.
+TCM demand follows some seasonal patterns (increased health-supplement consumption in winter or around health-conscious seasons). Real estate development is highly cyclical, tied to [interest rates](/interest-rate/), economic growth, and property market sentiment. Managing working capital across these different cycles requires forecasting demand accurately, maintaining inventory appropriate to seasonal demand, and funding operations through slower periods. If TCM demand is strong but real estate projects face delays, the company's cash position can become strained.
 
 ## Competitive Positioning and Brand
 

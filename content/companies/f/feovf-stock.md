@@ -4,7 +4,7 @@ description: "Exploration and mineral development company focused on iron ore as
 keywords: ["Oceanic Iron Ore", "FEOVF", "iron ore exploration", "mining development", "junior miner"]
 ---
 
-*[**Oceanic Iron Ore Corp**](/feovf-stock/) (OTC: FEOVF) is a mineral exploration and development company engaged in evaluating iron ore properties and assets. As a junior miner operating in the early-to-mid exploration phase, the company focuses on identifying and assessing ore bodies with commercial potential rather than conducting large-scale production.*
+*[**Oceanic Iron Ore Corp**](/feovf-stock/) (OTC: FEOVF) is a mineral exploration and development company engaged in evaluating [iron ore](/iron-ore/) properties and assets. As a junior miner operating in the early-to-mid exploration phase, the company focuses on identifying and assessing ore bodies with commercial potential rather than conducting large-scale production.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FEOVF</td></tr>
@@ -55,7 +55,7 @@ Oceanic operates in a commodity sector; iron ore prices are set globally, indepe
 
 ## Path to Value Creation
 
-The company's SEC filings make explicit that value creation occurs through discovery — finding ore bodies large and high-grade enough to justify development and production. The path from current exploration stage to production mining may require years of work, significant additional capital, successful permitting, and favorable commodity prices. The company is transparent that this pathway carries multiple execution and market risks.
+The company's SEC filings make explicit that value creation occurs through discovery — finding ore bodies large and high-grade enough to justify development and production. The path from current exploration stage to production mining may require years of work, significant additional capital, successful permitting, and favorable commodity prices. The company is transparent that this pathway carries multiple execution and [market risks](/market-risk/).
 
 ---
 

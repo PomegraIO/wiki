@@ -47,7 +47,7 @@ Inventiva lacks integrated manufacturing capacity; this is typical for small bio
 
 ## Funding Sources and Investor Geography
 
-Inventiva is listed on NASDAQ and has accessed US capital markets for growth funding, but its early funding relied on French and European grant programs and strategic investments by European pharma. This geographic pattern of capital—French government support early on, US equity markets and partnerships as the company matured—is typical for European biotech but shapes decision-making. The company must satisfy both US equity analysts (quarterly earnings expectations, cash-runway planning) and European partnership stakeholders (government agencies, European pharma) with different temporal horizons and performance metrics.
+Inventiva is listed on [NASDAQ](/nasdaq/) and has accessed US capital markets for growth funding, but its early funding relied on French and European grant programs and strategic investments by European pharma. This geographic pattern of capital—French government support early on, US equity markets and partnerships as the company matured—is typical for European biotech but shapes decision-making. The company must satisfy both US equity analysts (quarterly earnings expectations, cash-runway planning) and European partnership stakeholders (government agencies, European pharma) with different temporal horizons and performance metrics.
 
 ## Language, Regulatory Documentation, and Global Operations
 

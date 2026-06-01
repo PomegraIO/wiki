@@ -17,7 +17,7 @@ keywords: [clinical research, CRO, pharmaceutical trials, drug development, clin
 
 ## Origins in Industry Fragmentation and Reconsolidation
 
-Fortrea's founding was unconventional: it was created not by founders building a startup but by private-equity sponsors acquiring and merging mature contract-research organizations (CROs) that had become available. The strategic thesis was straightforward: the CRO industry had become fragmented after years of consolidation and divestiture. Some large CROs (PAREXEL, Syneos Health) had grown unwieldy and were divesting therapeutic-area or geographic units; others had been broken apart by financial sponsors looking to extract value through carve-outs.
+Fortrea's founding was unconventional: it was created not by founders building a startup but by private-equity sponsors acquiring and merging mature contract-research organizations (CROs) that had become available. The strategic thesis was straightforward: the CRO industry had become fragmented after years of consolidation and [divestiture](/divestiture/). Some large CROs (PAREXEL, Syneos Health) had grown unwieldy and were divesting therapeutic-area or geographic units; others had been broken apart by financial sponsors looking to extract value through carve-outs.
 
 Fortrea's founding purpose was to acquire these mid-market pieces, recombine them, and build a scaled operator that could compete with the largest, most-diversified CROs. This is a classic financial-sponsor thesis: acquire undervalued or mismanaged assets, integrate them, and create operational synergies (shared overhead, cross-selling, elimination of redundancy) that increase [enterprise value](/enterprise-value/) and justify an [exit](/stock/).
 
@@ -53,7 +53,7 @@ This differs from founders building a startup around a new clinical-research cap
 
 ## Analyzing Fortrea
 
-Investors and analysts should examine Fortrea's [10-K](/10-k/) (CIK 1965040) with attention to contract backlog and pipeline: a strong backlog signals sustainable [revenue](/public-company/) visibility; a weak pipeline signals trouble. Monitor the company's synergy realization against its stated targets—early failures to achieve cost synergies signal execution risk. Track the company's margins by business unit; if certain acquired units remain unprofitable after integration, that signals acquisition quality or integration challenges. Finally, monitor pharmaceutical-industry dynamics around trial conduct: accelerating adoption of real-world evidence, virtual trials, or artificial intelligence in trial management could disadvantage traditional CROs and require costly R&D investment to remain competitive.
+Investors and analysts should examine Fortrea's [10-K](/10-k/) (CIK 1965040) with attention to contract backlog and pipeline: a strong backlog signals sustainable [revenue](/public-company/) visibility; a weak pipeline signals trouble. Monitor the company's synergy realization against its stated targets—early failures to achieve cost synergies signal execution risk. Track the company's margins by business unit; if certain acquired units remain unprofitable after integration, that signals [acquisition](/acquisition/) quality or integration challenges. Finally, monitor pharmaceutical-industry dynamics around trial conduct: accelerating adoption of real-world evidence, virtual trials, or artificial intelligence in trial management could disadvantage traditional CROs and require costly R&D investment to remain competitive.
 
 <div class="wiki-seealso">
 ### Closely related

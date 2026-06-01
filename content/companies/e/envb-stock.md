@@ -21,7 +21,7 @@ For decades after the introduction of fluoxetine (Prozac) and other selective se
 
 ## Portfolio Focus: Plant-Derived and Psychoactive Leads
 
-Enveric's research pipeline centers on psilocybin and related indole compounds for depression and other psychiatric disorders, mescaline (the active compound in certain cacti) for anxiety and cognitive dysfunction, and cannabinoid-derived therapies for pain and neuroinflammation. The company may also pursue synthetic analogs designed to capture the therapeutic benefit of these molecules while potentially reducing side effects or improving tolerability. This is fundamentally different from conventional pharmaceutical development: the active compounds often come from natural sources with centuries of ethnobotanical use, creating a unique regulatory and intellectual-property landscape. Patents on naturally occurring compounds are difficult to secure; the firm must rely on synthesis methods, dosing regimens, delivery mechanisms, and diagnostic pairing (determining which patients are most likely to respond) to create defensible intellectual property.
+Enveric's research pipeline centers on psilocybin and related indole compounds for depression and other psychiatric disorders, mescaline (the active compound in certain cacti) for anxiety and cognitive dysfunction, and cannabinoid-derived therapies for pain and neuroinflammation. The company may also pursue synthetic analogs designed to capture the therapeutic benefit of these molecules while potentially reducing side effects or improving tolerability. This is fundamentally different from conventional pharmaceutical development: the active compounds often come from natural sources with centuries of ethnobotanical use, creating a unique regulatory and intellectual-property landscape. Patents on naturally occurring compounds are difficult to secure; the firm must rely on synthesis methods, dosing regimens, [delivery mechanisms](/delivery-mechanisms/), and diagnostic pairing (determining which patients are most likely to respond) to create defensible intellectual property.
 
 ## Regulatory Landscape: Opportunity and Constraint
 
@@ -56,7 +56,7 @@ Enveric's success also depends on a broader social shift: destigmatization of ps
 ### Wider context
 - [Stock](/stock/)
 - [Public Company](/public-company/)
-- Over-the-Counter Markets (if available; otherwise omit)
+- [Over-the-Counter Markets](/over-the-counter-market/) (if available; otherwise omit)
 - Clinical Trials (if available; otherwise omit)
 
 </div>

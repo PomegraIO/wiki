@@ -55,7 +55,7 @@ Additionally, the assumption that biotech innovation is limited by computational
 
 ## Path to Profitability
 
-Lantern's business model requires either a successful drug approval and commercialization (yielding royalties or product sales) or in-licensing or partnership agreements with larger pharma that provide funding and revenue shares. The company is unlikely to reach profitability on its own cash flows within the next decade. Shareholders are funding research and development in hopes of either a breakout approval or an acquisition by a larger pharmaceutical company.
+Lantern's business model requires either a successful drug approval and commercialization (yielding royalties or product sales) or in-licensing or partnership agreements with larger pharma that provide funding and revenue shares. The company is unlikely to reach profitability on its own cash flows within the next decade. Shareholders are funding research and development in hopes of either a breakout approval or an [acquisition](/acquisition/) by a larger pharmaceutical company.
 
 ## The Computational Oncology Bet
 

@@ -35,7 +35,7 @@ The company's ability to raise equity and debt is hostage to commodity prices an
 
 ## Processing economics and purity
 
-Beyond extraction, the challenge is chemistry. Raw lithium ore must be refined to battery-grade purity, which requires chemical processing, quality control, and waste management. Each step of this pipeline consumes capital and energy. The firm's engineers are racing to design a process flow that minimizes chemical cost, water consumption, and tailings management expense per unit of pure lithium produced. Even a 5% improvement in conversion efficiency or a 10% cut in energy consumption per ton scales to millions in annual savings once production begins.
+Beyond extraction, the challenge is chemistry. Raw lithium ore must be refined to battery-grade purity, which requires chemical processing, quality control, and [waste management](/wm-stock/). Each step of this pipeline consumes capital and energy. The firm's engineers are racing to design a process flow that minimizes chemical cost, water consumption, and tailings management expense per unit of pure lithium produced. Even a 5% improvement in conversion efficiency or a 10% cut in energy consumption per ton scales to millions in annual savings once production begins.
 
 ## The investor calculus
 

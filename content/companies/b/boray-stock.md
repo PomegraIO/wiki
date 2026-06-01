@@ -45,7 +45,7 @@ For a small company like Bora, cash burn is the critical metric. How much cash d
 
 Smaller pharmaceutical companies like Bora often reduce cash burn and accelerate development by partnering with larger pharmaceutical companies or licensing drugs to specialized developers. A larger pharma company might license a Bora oncology candidate for development and commercialization in the U.S. and Europe, paying upfront fees and future royalties. This generates cash flow for Bora without requiring Bora to fund the full cost of U.S. clinical trials or market entry.
 
-Alternatively, a larger company might acquire Bora or its specific drug program, providing liquidity to shareholders. Acquisition is often the intended endpoint for a company like Bora: develop promising candidates to the point where a larger player is willing to pay a premium for the opportunity to take them to market.
+Alternatively, a larger company might acquire Bora or its specific drug program, providing liquidity to shareholders. [Acquisition](/acquisition/) is often the intended endpoint for a company like Bora: develop promising candidates to the point where a larger player is willing to pay a premium for the opportunity to take them to market.
 
 ## Understanding Bora's Unit Economics Over Time
 

@@ -19,23 +19,23 @@ keywords: ["community bank", "regional bank", "commercial real estate", "small b
 
 ## Deposit Gathering and Capital Sourcing
 
-CoastalSouth's first value-chain function is deposit aggregation. The bank operates branch networks (or subsidiary community banks under the parent holding company) across its footprint, accepting checking, savings, and money-market deposits from individuals, small business owners, and local nonprofits. These deposits form the low-cost funding base that the bank then recycles as loans. Regional banks like CoastalSouth compete on convenience (branch proximity, ATM networks), service quality (relationship managers who know borrowers personally), and interest rates. In the current environment, deposit gathering is increasingly competitive, as larger banks offer higher rates on savings and money-market accounts, and smaller community banks may offer even more localized decision-making.
+CoastalSouth's first value-chain function is deposit aggregation. The bank operates branch networks (or subsidiary community banks under the parent holding company) across its footprint, accepting checking, savings, and money-market deposits from individuals, small business owners, and local nonprofits. These deposits form the low-cost funding base that the bank then recycles as loans. Regional banks like CoastalSouth compete on convenience (branch proximity, ATM networks), service quality (relationship managers who know borrowers personally), and [interest rates](/interest-rate/). In the current environment, deposit gathering is increasingly competitive, as larger banks offer higher rates on savings and money-market accounts, and smaller community banks may offer even more localized decision-making.
 
 CoastalSouth's deposit base is fundamentally constrained by geography; the bank cannot gather deposits from customers far from its physical footprint without entering new markets (which requires building branch networks or acquiring existing banks). This geographic moat is also a constraint on growth.
 
 ## Loan Origination and the Commercial Real Estate Bet
 
-CoastalSouth generates revenue by originating loans and earning the spread between the cost of deposits and the rate charged to borrowers. Like most regional banks, it concentrates in commercial real estate—construction loans, permanent mortgages on office, retail, and hospitality properties, and land acquisition financing. This sector was a reliable source of spreads for decades, with real estate values generally appreciating and commercial tenants generating stable rental income.
+CoastalSouth generates revenue by originating loans and earning the spread between the cost of deposits and the rate charged to borrowers. Like most regional banks, it concentrates in [commercial real estate](/commercial-real-estate/)—construction loans, permanent mortgages on office, retail, and hospitality properties, and land [acquisition](/acquisition/) financing. This sector was a reliable source of spreads for decades, with real estate values generally appreciating and commercial tenants generating stable rental income.
 
 The firm also extends credit to small businesses: working-capital lines of credit, equipment financing, and seasonal lending to retail and service businesses. These loans require more underwriting judgment than standardized consumer products, but they generate higher yields and create customer stickiness—a small-business owner whose payroll line or equipment loan is managed by CoastalSouth is more likely to deposit business cash there as well.
 
-Underwriting authority is often decentralized; branch loan officers in Charlotte, Wilmington, or Savannah have discretion to approve loans up to certain thresholds, a hallmark of relationship banking. This allows faster decisions than centralized underwriting would, but it also concentrates credit risk in the hands of individual officers' judgment.
+Underwriting authority is often decentralized; branch loan officers in Charlotte, Wilmington, or Savannah have discretion to approve loans up to certain thresholds, a hallmark of relationship banking. This allows faster decisions than centralized underwriting would, but it also concentrates [credit risk](/credit-risk/) in the hands of individual officers' judgment.
 
 ## Asset-Liability and Interest-Rate Management
 
 CoastalSouth's profitability depends critically on its net interest margin (the difference between what it earns on loans and what it pays on deposits). In a rising-rate environment, margin expands if the bank has more floating-rate loans than floating-rate deposits; in a falling-rate environment, it compresses. Regional banks became vulnerable in the 2023 banking stress period precisely because many held large portfolios of long-duration fixed-rate securities (issued in the low-rate years of 2010–2021) and faced depositor run risk if interest rates remained elevated.
 
-CoastalSouth's balance sheet reflects its deposit franchise and loan portfolio. Asset quality—the fraction of loans that are current versus delinquent or impaired—is a key metric. In a healthy economy, regional banks' credit losses are low; in a recession, especially one affecting real estate values or small-business revenues, losses accelerate.
+CoastalSouth's balance sheet reflects its deposit franchise and loan portfolio. Asset quality—the fraction of loans that are current versus delinquent or impaired—is a key metric. In a healthy economy, regional banks' credit losses are low; in a [recession](/recession/), especially one affecting real estate values or small-business revenues, losses accelerate.
 
 ## Competitive Pressure and the Consolidation Trend
 
@@ -43,7 +43,7 @@ The U.S. regional banking sector has shrunk through consolidation. Larger region
 
 ## Regulatory Environment
 
-Community and regional banks are subject to federal and state banking regulation, including [/securities-and-exchange-commission/](/securities-and-exchange-commission/) filing requirements, capital adequacy ratios (minimum levels of equity relative to assets), and regular examination by the Federal Reserve or OCC. During periods of regulatory tightening (especially around lending standards, executive compensation, or mortgage practices), compliance costs rise. During periods of relaxation, competitive pressure eases but also shifts down the risk curve—smaller, less-capitalized banks may take on more leverage.
+Community and regional banks are subject to federal and state banking regulation, including [/securities-and-exchange-commission/](/securities-and-exchange-commission/) filing requirements, [capital adequacy](/capital-adequacy/) ratios (minimum levels of equity relative to assets), and regular examination by the [Federal Reserve](/federal-reserve/) or OCC. During periods of regulatory tightening (especially around lending standards, executive compensation, or mortgage practices), compliance costs rise. During periods of relaxation, competitive pressure eases but also shifts down the risk curve—smaller, less-capitalized banks may take on more leverage.
 
 ## Long-Term Value Chain Position
 

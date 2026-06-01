@@ -4,7 +4,7 @@ description: "A Chinese online education platform connecting students with tutor
 keywords: ["online-education", "edtech", "platform-economics", "customer-acquisition", "china-tech"]
 ---
 
-*__Gaotu Techedu Inc.__ (GOTU), a Shanghai-based online education platform traded on the [NASDAQ](/nasdaq/), operates a two-sided marketplace where students enroll in courses and tutors provide instruction via video. Revenue per course enrollment is high—students or their families pay hundreds to thousands of dollars per course—and cost of goods sold is low (platform hosting, payment processing, instructor sharing arrangement), yielding [gross margins](/gross-profit-margin/) of 70%+ per transaction. The tension in the model is customer acquisition cost (CAC): attracting a new student to the platform costs money, and only if that student completes courses and returns for more does CAC payback occur.*
+*__Gaotu Techedu Inc.__ (GOTU), a Shanghai-based online education platform traded on the [NASDAQ](/nasdaq/), operates a two-sided marketplace where students enroll in courses and tutors provide instruction via video. Revenue per course enrollment is high—students or their families pay hundreds to thousands of dollars per course—and cost of goods sold is low (platform hosting, payment processing, instructor sharing arrangement), yielding [gross margins](/gross-profit-margin/) of 70%+ per transaction. The tension in the model is customer [acquisition](/acquisition/) cost (CAC): attracting a new student to the platform costs money, and only if that student completes courses and returns for more does CAC payback occur.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GOTU</td></tr>
@@ -29,7 +29,7 @@ The financial health of Gaotu therefore turns on unit economics of customer acqu
 
 Chinese edtech platforms have historically spent aggressively on marketing to capture market share, the assumption being that scale and retention would eventually pay back CAC and generate profit. In the early-to-mid 2020s, regulatory intervention (the Chinese government restricted private tutoring, caps on course prices, restrictions on profitability in education) sharply curtailed growth and pushed platforms toward efficiency.
 
-Gaotu, like competitors New Oriental (NYSE: EDU) and TAL Education (NASDAQ: TAL), faced a sharp contraction in addressable market when tutoring restrictions took effect. The regulatory environment is not favorable to high-margin, high-growth online education businesses in China. Platforms must balance customer acquisition against regulatory scrutiny and shifting government policy. Too aggressive marketing signals a business dependent on unsustainable customer growth, inviting regulatory attention.
+Gaotu, like competitors New Oriental (NYSE: EDU) and [TAL Education](/tal-stock/) (NASDAQ: TAL), faced a sharp contraction in addressable market when tutoring restrictions took effect. The regulatory environment is not favorable to high-margin, high-growth online education businesses in China. Platforms must balance customer acquisition against regulatory scrutiny and shifting government policy. Too aggressive marketing signals a business dependent on unsustainable customer growth, inviting regulatory attention.
 
 This makes near-term margins and [cash flow](/free-cash-flow/) guidance uncertain. A company might lower CAC to comply with implicit regulatory pressure or to improve near-term profitability, but this sacrifices growth. A company might increase CAC to expand, but face regulatory or policy backlash. Gaotu's margin and growth profile are hostage to government policy in ways a US-based edtech platform is not.
 
@@ -59,7 +59,7 @@ If the average student takes only 1.2 courses before churning, lifetime value dr
 
 High gross margin does not guarantee [free cash flow](/free-cash-flow/) if spending on sales and marketing (CAC) and administrative overhead is heavy. Gaotu's operating margin (gross margin minus SG&A) might be 20–40% when the company is disciplined about CAC, and 5–20% when it is investing aggressively. In recent years, post-regulation, Gaotu and peers have shifted toward profitability and cash generation, partly due to regulatory pressure and partly due to market maturation.
 
-If Gaotu achieves 30% operating margins and generates positive [cash flow](/free-cash-flow/), it is a profitable technology business with moderate growth. [Return on equity](/return-on-equity/) would depend on how much the company has spent on buybacks or raised in equity financing during growth phases. A company that raised at high valuations in boom times may have lower ROE than one that grew more conservatively.
+If Gaotu achieves 30% operating margins and generates positive [cash flow](/free-cash-flow/), it is a profitable technology business with moderate growth. [Return on equity](/return-on-equity/) would depend on how much the company has spent on buybacks or raised in [equity financing](/equity-financing/) during growth phases. A company that raised at high valuations in boom times may have lower ROE than one that grew more conservatively.
 
 ## Competitive Dynamics and Moat
 

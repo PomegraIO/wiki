@@ -21,13 +21,13 @@ Criteo's core business is retargeting: showing a potential customer an ad for a 
 
 The moat is data. Over decades, Criteo has accumulated a transaction history covering hundreds of millions of online shoppers and billions of product impressions. This archive is proprietary and difficult to replicate; it captures patterns in consumer behavior (what converts, what triggers abandonment, what seasonal trends exist) that are valuable precisely because they are measured, not inferred. A retailer using Criteo's platform can expect higher conversion rates on its ad spend than an advertiser using a generic programmatic platform with less commerce-specific data.
 
-This advantage is being eroded. Apple and Firefox have reduced third-party cookie availability; Google has delayed but not abandoned plans to phase them out entirely. This creates existential pressure on any company relying on persistent user tracking across sites. Criteo's response has been to pivot toward first-party data (data retailers collect directly) and to invest in privacy-respecting identification methods. The company has also diversified beyond retargeting into broader performance advertising and audience segments, but the data advantage in retargeting is harder to replicate and therefore more defensible.
+This advantage is being eroded. [Apple](/aapl-stock/) and Firefox have reduced third-party cookie availability; Google has delayed but not abandoned plans to phase them out entirely. This creates existential pressure on any company relying on persistent user tracking across sites. Criteo's response has been to pivot toward first-party data (data retailers collect directly) and to invest in privacy-respecting identification methods. The company has also diversified beyond retargeting into broader performance advertising and audience segments, but the data advantage in retargeting is harder to replicate and therefore more defensible.
 
 ## Business Model and Revenue Concentration
 
 Criteo earns revenue by taking a percentage of advertising spend on its platform, similar to other ad networks. A retailer allocates budget to Criteo; Criteo bids for ad inventory on the open web and publishers, and keeps a percentage (typically 20–30%). Revenue is therefore directly tied to (a) how much advertisers are willing to spend on performance advertising, and (b) how much inventory is available at prices Criteo can profitably bid.
 
-Revenue concentration risk is non-trivial. Criteo's top customers are large retailers (Amazon, Walmart, eBay, Shopify-powered merchants) who could theoretically build their own retargeting capabilities or consolidate with competing platforms. These customers have leverage over pricing; if Criteo's margins become too high, migration to alternatives becomes attractive. The platform must continuously improve its targeting accuracy and conversion rates to justify its commission.
+Revenue [concentration risk](/concentration-risk/) is non-trivial. Criteo's top customers are large retailers (Amazon, [Walmart](/wmt-stock/), eBay, Shopify-powered merchants) who could theoretically build their own retargeting capabilities or consolidate with competing platforms. These customers have leverage over pricing; if Criteo's margins become too high, migration to alternatives becomes attractive. The platform must continuously improve its targeting accuracy and conversion rates to justify its commission.
 
 ## The Open Web as Structural Disadvantage
 
@@ -47,7 +47,7 @@ However, this advantage is also being commoditized. Competing platforms are buil
 
 ## Product Expansion and Portfolio Diversification
 
-Retargeting alone is no longer enough growth; Criteo has expanded into lookalike audiences (finding users similar to customers), intent-based targeting (finding users actively shopping), and vertical-specific solutions (hotel ads, travel, luxury goods). This diversification reduces concentration risk but also dilutes focus and increases complexity.
+Retargeting alone is no longer enough growth; Criteo has expanded into lookalike audiences (finding users similar to customers), intent-based targeting (finding users actively shopping), and vertical-specific solutions (hotel ads, travel, luxury goods). This [diversification](/diversification/) reduces concentration risk but also dilutes focus and increases complexity.
 
 The company also operates a Criteo Commerce Network, which monetizes traffic from publishers' e-commerce sites by inserting product recommendations and ads. This generates additional revenue streams beyond performance advertising and potentially deepens data integration across the ecosystem.
 

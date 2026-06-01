@@ -35,13 +35,13 @@ Capital expenditure is another critical line item. Maintaining a fleet of aging 
 
 ## Debt and Capital Returns
 
-Shipping companies are highly leveraged. Tankers cost $100–200 million to build or acquire, and ship owners rarely fund them entirely with equity. DHT's balance sheet, disclosed in the 10-K, shows significant debt. The company's cash flow from operations fluctuates with shipping rates, which creates refinancing risk if rates collapse and the company struggles to service debt.
+Shipping companies are highly leveraged. Tankers cost $100–200 million to build or acquire, and ship owners rarely fund them entirely with equity. DHT's [balance sheet](/balance-sheet/), disclosed in the 10-K, shows significant debt. The company's cash flow from operations fluctuates with shipping rates, which creates [refinancing risk](/refinancing-risk/) if rates collapse and the company struggles to service debt.
 
-When rates are strong, DHT generates substantial free cash flow. The company's 10-K and 10-Q filings disclose how management uses that cash: debt repayment, [share buybacks](/share-buyback/), vessel acquisitions, or special dividends. These decisions reveal management's confidence in the sustainability of high rates and their view of capital allocation.
+When rates are strong, DHT generates substantial [free cash flow](/free-cash-flow/). The company's 10-K and 10-Q filings disclose how management uses that cash: debt repayment, [share buybacks](/share-buyback/), vessel [acquisitions](/acquisition/), or [special dividends](/special-dividend/). These decisions reveal management's confidence in the sustainability of high rates and their view of capital allocation.
 
 ## The Cyclical Commodity Industry
 
-The 10-K's "Industry Overview" section frames crude-oil shipping as dependent on macro factors beyond DHT's control: global petroleum demand, refinery utilization, geopolitical disruptions to supply, and competing shipping alternatives (pipelines). A recession reduces crude demand and crushes shipping rates. A supply disruption (sanctions, conflict, production outages) boosts seaborne trade and rates. DHT cannot predict these cycles but must navigate them.
+The 10-K's "Industry Overview" section frames crude-oil shipping as dependent on macro factors beyond DHT's control: global petroleum demand, refinery utilization, geopolitical disruptions to supply, and competing shipping alternatives (pipelines). A [recession](/recession/) reduces crude demand and crushes shipping rates. A supply disruption (sanctions, conflict, production outages) boosts seaborne trade and rates. DHT cannot predict these cycles but must navigate them.
 
 The company's strategic positioning affects how it weathers cycles. DHT owns a relatively modern, high-capacity fleet, which commands premium rates in strong markets but means higher idle costs in weak ones. Competitors with older, smaller vessels may be more profitable in weak markets but earn less when rates surge.
 

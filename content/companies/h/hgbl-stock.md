@@ -22,7 +22,7 @@ Heritage Global's competitive distinction is that it bridges multiple customer s
 
 ## The Auction-House Model Without the Prestige
 
-Large auction houses like Sotheby's and Christie's operate in fine art, rare goods, and high-net-worth liquidation, where brand and provenance drive six- or seven-figure hammer prices. Liquidation companies like Liquidity Services operate at scale, moving volume through standardized channels (warehouse auctions, government surplus). Heritage Global occupies a narrower band: specialty assets—industrial machinery, medical equipment, technology hardware, vehicles—that require some expertise to appraise but lack the prestige premium of art or the volume commoditization of standard wholesale goods.
+Large auction houses like Sotheby's and Christie's operate in fine art, rare goods, and high-net-worth [liquidation](/liquidation/), where brand and provenance drive six- or seven-figure hammer prices. Liquidation companies like [Liquidity Services](/lqdt-stock/) operate at scale, moving volume through standardized channels (warehouse auctions, government surplus). Heritage Global occupies a narrower band: specialty assets—industrial machinery, medical equipment, technology hardware, vehicles—that require some expertise to appraise but lack the prestige premium of art or the volume commoditization of standard wholesale goods.
 
 The economics are asset-specific. For a manufacturing company auctioning a $500,000 CNC machine, Heritage Global's appraisal and sale process might command a 10–15% fee (the buyer and seller may each pay a portion). For a smaller lot of office furniture or IT equipment being liquidated from a failed branch, the margin is tighter. The revenue model is transactional and highly episodic: lumpy quarterly results depending on which clients engaged the firm and what assets came to auction.
 
@@ -40,7 +40,7 @@ For high-value, specialized assets (industrial equipment, commercial vehicles), 
 
 ## Market Drivers: Bankruptcy and Restructuring
 
-The demand for Heritage Global's services correlates with restructuring, insolvency, and business exit—not daily economic growth. When companies undergo bankruptcy, divest divisions, settle insurance claims, or close branch operations, liquidation activity spikes. In benign economic conditions, demand is baseline (estate liquidation, surplus asset sales). The business is therefore defensible but not growth-oriented and carries economic sensitivity to recession and credit stress.
+The demand for Heritage Global's services correlates with restructuring, insolvency, and business exit—not daily economic growth. When companies undergo bankruptcy, divest divisions, settle insurance claims, or close branch operations, liquidation activity spikes. In benign economic conditions, demand is baseline (estate liquidation, surplus asset sales). The business is therefore defensible but not growth-oriented and carries economic sensitivity to [recession](/recession/) and credit stress.
 
 A significant shift in bankruptcy law (raising the threshold for chapter 7 liquidation, for instance) or a secular decline in manufacturing (reducing the volume of industrial equipment auctions) could compress the market. Conversely, consolidation of competitors or a wave of corporate restructuring could expand Heritage Global's volumes.
 
@@ -52,7 +52,7 @@ The tension in the model is that true scale (millions of transactions) requires 
 
 ## The Micro-Cap Positioning Risk
 
-As a micro-cap [public company](/public-company/), Heritage Global faces structural disadvantages: limited analyst coverage, restricted institutional capital access, and vulnerability to dilution if capital is needed for acquisition or technology investment. The upside is that the firm can pursue focused, profitable growth without pressure for hypergrowth. The downside is that a single large loss (a major client bankruptcy that triggers write-downs, or litigation over asset valuation disputes) can materially impact earnings.
+As a micro-cap [public company](/public-company/), Heritage Global faces structural disadvantages: limited analyst coverage, restricted institutional capital access, and vulnerability to dilution if capital is needed for [acquisition](/acquisition/) or technology investment. The upside is that the firm can pursue focused, profitable growth without pressure for hypergrowth. The downside is that a single large loss (a major client bankruptcy that triggers write-downs, or litigation over asset valuation disputes) can materially impact earnings.
 
 Equity holders in HGBL are betting on the durability of the niche and the management team's ability to sustain customer relationships and operational discipline in a fragmented industry where scale is not a given advantage.
 

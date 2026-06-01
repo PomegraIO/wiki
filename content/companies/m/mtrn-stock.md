@@ -30,7 +30,7 @@ Similarly, Materion has invested in alloy formulation and proprietary processes 
 
 ## Customer Base and Procurement Patterns
 
-Materion's primary customers are aerospace and defense primes (Boeing, Lockheed Martin, Raytheon, others) and second-tier suppliers to those primes. These customers operate on multi-year procurement cycles driven by government contracts and production schedules. This creates both stability and constraint: sales are somewhat predictable (once a platform is in production), but they are also capped by existing production rates and future platform uncertainty.
+Materion's primary customers are aerospace and defense primes ([Boeing](/ba-stock/), [Lockheed Martin](/lmt-stock/), Raytheon, others) and second-tier suppliers to those primes. These customers operate on multi-year procurement cycles driven by government contracts and production schedules. This creates both stability and constraint: sales are somewhat predictable (once a platform is in production), but they are also capped by existing production rates and future platform uncertainty.
 
 Economic cycles also matter. Aerospace and defense spending rises and falls with government budgets and geopolitical conditions. A defense spending increase boosts demand for Materion's materials across multiple programs simultaneously. A contraction hits hard.
 
@@ -60,7 +60,7 @@ The company also faces longer-term technology transitions. If next-generation ai
 
 ## How to Assess Materion
 
-Review the [10-K](/10-k/) (CIK 1104657) for revenue by customer (concentration risk), segment (aerospace/defense vs. other), and geographic region. Examine gross margins and operating margins to understand pricing power and operational efficiency. Pay attention to capital expenditure plans—if Materion is investing in new capacity, it signals confidence in future demand.
+Review the [10-K](/10-k/) (CIK 1104657) for revenue by customer ([concentration risk](/concentration-risk/)), segment (aerospace/defense vs. other), and geographic region. Examine gross margins and operating margins to understand pricing power and operational efficiency. Pay attention to capital expenditure plans—if Materion is investing in new capacity, it signals confidence in future demand.
 
 Look at order backlogs and pipeline commentary in earnings calls. Understand which aerospace platforms (Boeing 787, Airbus A350, military helicopters) Materion supplies materials to and what the production rates and procurement cycles are. Cross-reference defense spending forecasts to gauge forward visibility.
 

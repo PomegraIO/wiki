@@ -31,7 +31,7 @@ Third, the state-owned structure meant that throughout its history, China Southe
 
 ## Fleet and Technology Evolution
 
-China Southern, like other major carriers, has invested heavily in modern aircraft fleets. The company operates Boeing 777s and 787s for long-haul international routes, Airbus A380s (in the past), A350s, and A320 family jets for medium and short-haul flights. The mix reflects both commercial preferences and geopolitical factors — there have been periods where Chinese airlines favored domestic suppliers (Comac) for nationalist or strategic reasons, though operational performance has often led back to Boeing and Airbus.
+China Southern, like other major carriers, has invested heavily in modern aircraft fleets. The company operates [Boeing](/ba-stock/) 777s and 787s for long-haul international routes, Airbus A380s (in the past), A350s, and A320 family jets for medium and short-haul flights. The mix reflects both commercial preferences and geopolitical factors — there have been periods where Chinese airlines favored domestic suppliers (Comac) for nationalist or strategic reasons, though operational performance has often led back to Boeing and Airbus.
 
 The company's competitive position against other large Asian carriers (Singapore Airlines, Cathay Pacific, Thailand Airways, ANA) depends partly on fleet age, reliability, and passenger comfort. China Southern has generally been disciplined about retiring old aircraft and maintaining relatively modern equipment, though it operates in a competitive market where every carrier is modernizing simultaneously.
 
@@ -43,7 +43,7 @@ International routes, especially long-haul, have higher yields (revenue per pass
 
 ## Economic Cycles and Fuel Exposure
 
-Like all airlines, China Southern is highly exposed to fuel costs (jet fuel is typically 20–35 percent of airline operating costs) and to economic cycles that drive leisure and business travel. A recession reduces business travel and discretionary leisure trips, hitting [revenue](/free-cash-flow/) quickly. Rising oil prices increase costs immediately, with limited ability to pass the increases to customers in the near term (pricing is typically set weeks or months in advance). The company's historical exposure to these cycles is severe — airline bankruptcies and consolidations globally have been driven by the combination of recession and high fuel costs.
+Like all airlines, China Southern is highly exposed to fuel costs (jet fuel is typically 20–35 percent of airline operating costs) and to economic cycles that drive leisure and business travel. A [recession](/recession/) reduces business travel and discretionary leisure trips, hitting [revenue](/free-cash-flow/) quickly. Rising oil prices increase costs immediately, with limited ability to pass the increases to customers in the near term (pricing is typically set weeks or months in advance). The company's historical exposure to these cycles is severe — airline bankruptcies and consolidations globally have been driven by the combination of recession and high fuel costs.
 
 China Southern's state ownership provided a buffer during some of these cycles (the Chinese government could support pricing or provide capital injections), but it also meant the company could not use market mechanisms (aggressive cost reduction, exit from unprofitable routes) as nimbly as private competitors.
 

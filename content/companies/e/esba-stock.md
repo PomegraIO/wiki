@@ -4,7 +4,7 @@ description: "Real estate operating partnership holding office and commercial pr
 keywords: ["REIT", "real estate", "office properties", "lease regulation", "tax status"]
 ---
 
-*Empire State Realty OP is a real estate operating partnership holding significant commercial real estate assets, including the iconic Empire State Building. The company's regulatory environment is layered: tax law governing [REIT](/real-estate-investment-trust/) status and partnership structure; real property law and building code compliance; lease agreements that create statutory and contractual obligations; and local and state real estate regulations that govern ownership, use, and operations of large commercial properties in New York City.*
+*[Empire State Realty](/esrt-stock/) OP is a real estate operating partnership holding significant [commercial real estate](/commercial-real-estate/) assets, including the iconic Empire State Building. The company's regulatory environment is layered: tax law governing [REIT](/real-estate-investment-trust/) status and partnership structure; real property law and building code compliance; lease agreements that create statutory and contractual obligations; and local and state real estate regulations that govern ownership, use, and operations of large commercial properties in New York City.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ESBA</td></tr>
@@ -19,7 +19,7 @@ keywords: ["REIT", "real estate", "office properties", "lease regulation", "tax 
 
 Empire State Realty's corporate structure and taxation are intimately tied to its status as a real estate investment trust. To qualify as a REIT under Section 856 of the Internal Revenue Code, the company must meet specific tests: at least 90% of taxable income must be distributed to shareholders; at least 75% of gross income must come from real estate sources; at least 100 shareholders must own its equity (with restrictions on concentration); and specific asset tests must be satisfied continuously.
 
-These are not one-time requirements. Empire State Realty must maintain REIT status by satisfying these tests every quarter and every year. Failure to maintain status triggers immediate corporate-level taxation at federal level and possible state taxation, a dramatic financial penalty. The company must monitor tenant income carefully (is it real estate income or other income?), structure its financing to ensure debt-to-equity ratios comply with REIT rules, and ensure that its revenue streams qualify as rents under REIT regulations.
+These are not one-time requirements. Empire State Realty must maintain REIT status by satisfying these tests every quarter and every year. Failure to maintain status triggers immediate corporate-level taxation at federal level and possible state taxation, a dramatic financial penalty. The company must monitor tenant income carefully (is it real estate income or other income?), structure its financing to ensure [debt-to-equity ratios](/debt-to-equity-ratio/) comply with REIT rules, and ensure that its revenue streams qualify as rents under REIT regulations.
 
 REIT rules also limit the company's operational flexibility. A REIT cannot operate its real estate as a hotel with maid service or a building with operator-managed functions that might disqualify the revenue as rent. Empire State Realty must be careful that its amenities, services, and management structure do not blur the line into operating the properties themselves rather than renting them. These determinations require careful legal and tax analysis; missteps can trigger REIT disqualification.
 
@@ -55,7 +55,7 @@ As a large commercial building owner, Empire State Realty must comply with the A
 
 ## Property Tax and Assessment
 
-Real property taxation in New York City is substantial and subject to periodic reassessment. The company must file property tax returns annually, comply with assessment appeals procedures, and respond to tax audits. Tax assessments can be contested, but the process is adversarial and requires dedicated tax expertise. Assessment disputes for large commercial properties can result in millions of dollars in back taxes if the company loses.
+Real property taxation in New York City is substantial and subject to periodic reassessment. The company must file [property tax](/property-tax/) returns annually, comply with assessment appeals procedures, and respond to tax audits. Tax assessments can be contested, but the process is adversarial and requires dedicated tax expertise. Assessment disputes for large commercial properties can result in millions of dollars in back taxes if the company loses.
 
 ## Conclusion
 

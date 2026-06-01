@@ -25,7 +25,7 @@ This business model aligned Flotek's interests with its customers' interests: Fl
 
 In the early 2000s, Flotek's business remained primarily a technology licensing and chemical-supply operation. The company held patents on drilling-related formulations and licensed these to operators in exchange for royalties or upfront fees. This allowed Flotek to operate with relatively light capital requirements: develop the chemistry, patent it, license it, collect revenue. The profit margins on chemistry licensing could be substantial if the company owned defensible intellectual property.
 
-However, the company gradually shifted from pure licensing into asset ownership. Rather than remaining a chemistry-only supplier, Flotek began acquiring oil and gas properties, drilling interests, and midstream infrastructure stakes. These acquisitions reflected either strategic investments in companies that used Flotek chemistry, or attempts to capture more of the value chain—instead of licensing chemistry to other operators, Flotek would own the reserves and operate the wells itself.
+However, the company gradually shifted from pure licensing into asset ownership. Rather than remaining a chemistry-only supplier, Flotek began acquiring oil and gas properties, drilling interests, and midstream infrastructure stakes. These [acquisitions](/acquisition/) reflected either strategic investments in companies that used Flotek chemistry, or attempts to capture more of the value chain—instead of licensing chemistry to other operators, Flotek would own the reserves and operate the wells itself.
 
 ## Capital-Intensive Pivot and Business-Model Strain
 

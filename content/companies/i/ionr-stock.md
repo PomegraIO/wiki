@@ -33,11 +33,11 @@ Unlike a capital-structure-stable business backed by contracts, ioneer's ultimat
 
 ## Project Finance and Debt Structure Ahead
 
-While ioneer has historically raised equity, mining development projects typically shift toward debt financing once a bankable feasibility study and environmental permits are in place. The company will likely pursue project-level debt—loans secured by long-term offtake contracts and the asset itself—to fund construction. This debt would be non-recourse or limited-recourse to the parent company, meaning lenders rely on project cash flow rather than ioneer's corporate balance sheet. The transition from equity-funded exploration to debt-funded construction is a critical moment in mining capital structures.
+While ioneer has historically raised equity, mining development projects typically shift toward [debt financing](/debt-financing/) once a bankable feasibility study and environmental permits are in place. The company will likely pursue project-level debt—loans secured by long-term offtake contracts and the asset itself—to fund construction. This debt would be non-recourse or limited-recourse to the parent company, meaning lenders rely on project cash flow rather than ioneer's corporate balance sheet. The transition from equity-funded exploration to debt-funded construction is a critical moment in mining capital structures.
 
 ## Shareholder Returns and Capital Allocation Philosophy
 
-As a pre-revenue developer, ioneer does not pay dividends and does not conduct share buybacks. All capital returned from equity raises is deployed into the Rhyolite Ridge project. This single-minded capital allocation—every dollar toward development—is typical for early-stage miners and reflects the reality that returning cash to shareholders would abandon the project's funding timeline. Once mining begins and cash flows positive, capital allocation strategy will change entirely: the company will then choose between reinvestment, debt repayment, dividends, or buybacks.
+As a pre-revenue developer, ioneer does not pay [dividends](/dividend/) and does not conduct [share buybacks](/share-buyback/). All capital returned from equity raises is deployed into the Rhyolite Ridge project. This single-minded capital allocation—every dollar toward development—is typical for early-stage miners and reflects the reality that returning cash to shareholders would abandon the project's funding timeline. Once mining begins and cash flows positive, capital allocation strategy will change entirely: the company will then choose between reinvestment, debt repayment, dividends, or buybacks.
 
 ## Regulatory and Permitting Capital Demands
 
@@ -45,7 +45,7 @@ Mining development in the United States, particularly in Nevada, requires sustai
 
 ## Comparison to Mature Mining Capital Structures
 
-Unlike large, operating mines that generate substantial free cash flow and maintain investment-grade balance sheets with modest leverage, ioneer operates in a capital-deficit mode. The company burns cash each quarter to pay exploration, development, and corporate overhead costs. The path to positive cash flow requires not just a completed mine but commodity prices sufficient to cover operating costs and debt service. This is why ioneer's shareholders must be long-term capital providers: returns depend on a multi-year development horizon and commodity markets cooperating.
+Unlike large, operating mines that generate substantial [free cash flow](/free-cash-flow/) and maintain investment-grade [balance sheets](/balance-sheet/) with modest leverage, ioneer operates in a capital-deficit mode. The company burns cash each quarter to pay exploration, development, and corporate overhead costs. The path to positive cash flow requires not just a completed mine but commodity prices sufficient to cover operating costs and debt service. This is why ioneer's shareholders must be long-term capital providers: returns depend on a multi-year development horizon and commodity markets cooperating.
 
 <div class="wiki-seealso">
 

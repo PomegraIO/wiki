@@ -31,7 +31,7 @@ Profitability depends on maintaining high occupancy (empty beds are pure cost) a
 
 CoreCivic's business model is threatened by any significant decline in incarceration rates. In the past decade, incarceration rates in some states have stabilized or declined, reducing the inmate population and thus reducing the demand for beds. Contracts can also be terminated by the government, leaving CoreCivic holding a facility with no revenue stream and significant debt.
 
-Diversification into other government custody services — immigration detention, civil commitment facilities — has become a strategic necessity. Immigration detention grew substantially in the 2010s and 2020s as federal enforcement expanded, becoming a material portion of CoreCivic's revenues. However, immigration detention is also politically contentious and subject to policy reversals, introducing its own revenue risk.
+[Diversification](/diversification/) into other government custody services — immigration detention, civil commitment facilities — has become a strategic necessity. Immigration detention grew substantially in the 2010s and 2020s as federal enforcement expanded, becoming a material portion of CoreCivic's revenues. However, immigration detention is also politically contentious and subject to policy reversals, introducing its own revenue risk.
 
 ## Operating Challenges and Public Scrutiny
 
@@ -61,7 +61,7 @@ New entrants face high barriers: the need for significant capital, operational e
 
 ## Shareholder Dynamics and Dividend Policy
 
-CoreCivic has historically paid a substantial dividend to shareholders, returning cash to investors while the company operates. This dividend policy appeals to income-focused investors and signals management's confidence in the stability of contracted revenue. However, it also limits the company's financial flexibility to invest in new facilities or weather a sustained decline in demand.
+CoreCivic has historically paid a substantial [dividend](/dividend/) to shareholders, returning cash to investors while the company operates. This dividend policy appeals to income-focused investors and signals management's confidence in the stability of contracted revenue. However, it also limits the company's financial flexibility to invest in new facilities or weather a sustained decline in demand.
 
 The tension between dividend and growth is acute: if incarceration rates continue to decline, CoreCivic will eventually face a choice between maintaining the dividend and preserving capital to service debt, a decision that could pressure the stock.
 

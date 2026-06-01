@@ -37,11 +37,11 @@ Beyond software licensing, HAMA often generates revenue from professional servic
 
 ## Cloud Infrastructure and Hosting Costs
 
-If HAMA operates a cloud-based SaaS platform, it incurs cloud infrastructure costs (typically Amazon Web Services, Microsoft Azure, or Google Cloud) at scale. The 10-K may not separately break out cloud costs, but these are embedded in cost of revenue. Margin pressure from rising cloud computing costs is a risk disclosed in the MD&A. A company dependent on third-party cloud providers faces pricing pressure if vendors increase rates; some large software companies have shifted to building their own data centers or optimizing cloud usage to reduce per-customer infrastructure costs.
+If HAMA operates a cloud-based SaaS platform, it incurs cloud infrastructure costs (typically Amazon Web Services, [Microsoft](/msft-stock/) Azure, or Google Cloud) at scale. The 10-K may not separately break out cloud costs, but these are embedded in cost of revenue. Margin pressure from rising cloud computing costs is a risk disclosed in the MD&A. A company dependent on third-party cloud providers faces pricing pressure if vendors increase rates; some large software companies have shifted to building their own data centers or optimizing cloud usage to reduce per-customer infrastructure costs.
 
 ## Customer Acquisition Cost (CAC) and Lifetime Value (LTV)
 
-SaaS companies live or die by the ratio of customer lifetime value to customer acquisition cost. The 10-K may disclose CAC (how much the company spends in sales and marketing to acquire one new customer) and LTV (the total profit extracted from a customer over the relationship). If CAC is high relative to LTV, the unit economics are broken. HAMA's ability to acquire customers cost-effectively while maintaining high LTV determines whether the business is scaling sustainably or burning through capital on unprofitable customer acquisition.
+SaaS companies live or die by the ratio of customer lifetime value to customer [acquisition](/acquisition/) cost. The 10-K may disclose CAC (how much the company spends in sales and marketing to acquire one new customer) and LTV (the total profit extracted from a customer over the relationship). If CAC is high relative to LTV, the unit economics are broken. HAMA's ability to acquire customers cost-effectively while maintaining high LTV determines whether the business is scaling sustainably or burning through capital on unprofitable customer acquisition.
 
 ## Competitive Positioning and Incumbent Threats
 
@@ -57,6 +57,6 @@ Depending on HAMA's use cases and customers, the software may face increasing re
 
 ## Margin Profile and Path to Profitability
 
-HAMA's gross margin (revenue minus direct software/service delivery costs) and operating margin (gross profit minus operating expenses) are disclosed in the 10-K. Software companies can achieve high gross margins (70–90%+) once development is amortized. However, achieving profitability requires controlling operating expense growth (R&D, sales, marketing, G&A). A company with strong revenue growth but declining or barely positive operating margins may be investing heavily in market expansion, or it may be spending inefficiently. HAMA's historical path to profitability and current margin trend reveal management's discipline and the business's underlying unit economics.
+HAMA's gross margin (revenue minus direct software/service delivery costs) and operating margin (gross profit minus operating expenses) are disclosed in the 10-K. Software companies can achieve high gross margins (70–90%+) once development is amortized. However, achieving profitability requires controlling operating expense growth (R&D, sales, marketing, G&A). A company with strong revenue growth but declining or barely positive [operating margins](/operating-margin/) may be investing heavily in market expansion, or it may be spending inefficiently. HAMA's historical path to profitability and current margin trend reveal management's discipline and the business's underlying unit economics.
 
 5 written: hafc-stock, hafg-stock, hafn-stock, hain-stock, hama-stock

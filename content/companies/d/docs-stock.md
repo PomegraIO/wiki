@@ -39,7 +39,7 @@ Operating in healthcare means compliance with HIPAA, state medical board rules, 
 
 ## Advertising as a Concentrated Business Risk
 
-Doximity's reliance on healthcare vendor advertising creates concentration risk: if pharmaceutical marketing budgets shrink, or if regulators constrain direct-to-physician marketing, Doximity's advertising revenue could contract sharply. The company does not disclose the concentration of its top advertisers, but in healthcare, a handful of large pharmaceutical companies and medical device makers are typically the largest spenders. A shift in their marketing strategy would flow directly to Doximity's bottom line. Subscription revenue provides diversification, but it is growing from a smaller base.
+Doximity's reliance on healthcare vendor advertising creates [concentration risk](/concentration-risk/): if pharmaceutical marketing budgets shrink, or if regulators constrain direct-to-physician marketing, Doximity's advertising revenue could contract sharply. The company does not disclose the concentration of its top advertisers, but in healthcare, a handful of large pharmaceutical companies and medical device makers are typically the largest spenders. A shift in their marketing strategy would flow directly to Doximity's bottom line. Subscription revenue provides [diversification](/diversification/), but it is growing from a smaller base.
 
 ## Secular Drivers and Headwinds
 

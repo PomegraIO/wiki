@@ -70,7 +70,7 @@ This entire pipeline, from target selection to Phase 2 data, typically spans 5â€
 
 <div class="wiki-seealso">
 ### Closely related
-- Initial public offering
+- [Initial public offering](/initial-public-offering/)
 - [Earnings per share](/earnings-per-share/)
 - [Common stock](/common-stock/)
 

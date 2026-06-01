@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Exelixis is a pharmaceutical company that discovers, develops, and commercialises small-molecule drugs designed to [target](/tgt-stock/) specific cancer pathways—the kind of precision oncology play that operates in one of the largest and highest-margin drug markets on Earth.*
+*Exelixis is a pharmaceutical company that discovers, develops, and commercialises small-molecule drugs designed to target specific cancer pathways—the kind of precision oncology play that operates in one of the largest and highest-margin drug markets on Earth.*
 
 <aside class="wiki-infobox">
 <table>

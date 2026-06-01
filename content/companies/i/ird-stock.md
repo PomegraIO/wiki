@@ -45,7 +45,7 @@ Also look for intellectual property filings or publications led by company scien
 
 ## Cash Burn and Pathway to Profitability
 
-Many genetic testing companies operated at losses for years while building scale and brand. The 10-K's cash-flow statement is critical: what is the annual burn rate? Has the company reached profitability or turned cash-flow-positive operations? If not, how many years of cash runway remain? For a diagnostics company to justify high valuations, investors expect a clear pathway to EBITDA profitability—either through volume growth, margin expansion, or cost discipline.
+Many genetic testing companies operated at losses for years while building scale and brand. The 10-K's cash-flow statement is critical: what is the annual burn rate? Has the company reached profitability or turned cash-flow-positive operations? If not, how many years of cash runway remain? For a diagnostics company to justify high valuations, investors expect a clear pathway to [EBITDA](/ebitda/) profitability—either through volume growth, margin expansion, or cost discipline.
 
 Examine whether the company has raised capital recently and at what valuation. If **IRD** had to raise at a lower valuation than previous rounds, it signals waning investor confidence and a tightening of the funding window. This urgency often forces management to pursue M&A (selling to a larger lab network or hospital system) rather than building to an independent public company future.
 

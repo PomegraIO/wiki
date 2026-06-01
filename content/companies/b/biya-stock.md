@@ -40,23 +40,23 @@ This dynamic creates a strategic tension. The company must invest aggressively i
 
 Baiya's name and structure suggest international operations—possibly manufacturing in lower-cost jurisdictions, with sales in multiple markets. This international footprint creates both opportunity and complexity. Manufacturing in lower-cost geographies can improve unit economics. Selling globally expands addressable market.
 
-But international operations introduce complexity: currency exposure, supply chain coordination across borders, regulatory compliance in multiple jurisdictions, and operational management of far-flung facilities. A depreciation in the currency where Baiya manufactures, relative to currencies where it sells, can improve margins. An appreciation can destroy them. Currency hedging is available but adds cost and complexity.
+But international operations introduce complexity: currency exposure, supply chain coordination across borders, regulatory compliance in multiple jurisdictions, and operational management of far-flung facilities. A [depreciation](/depreciation/) in the currency where Baiya manufactures, relative to currencies where it sells, can improve margins. An appreciation can destroy them. [Currency hedging](/currency-hedging/) is available but adds cost and complexity.
 
-International companies are also exposed to geopolitical risk: tariffs, trade restrictions, sanctions, or political instability can disrupt supply chains or market access. Baiya must manage this risk—through geographic diversification, hedging, or simply accepting and pricing in exposure.
+International companies are also exposed to geopolitical risk: tariffs, trade restrictions, sanctions, or political instability can disrupt supply chains or market access. Baiya must manage this risk—through geographic [diversification](/diversification/), hedging, or simply accepting and pricing in exposure.
 
 ## Revenue Quality and Customer Concentration
 
 At the growth stage, companies are focused on revenue expansion, but the composition of revenue matters deeply. Revenue from long-term contracts with creditworthy customers is higher quality than revenue from spot transactions with new or untested customers. Revenue from diversified customer bases is less risky than revenue concentrated in one or two large accounts.
 
-Baiya's customer base at this stage is likely developing. The company may have a handful of large customers driving significant revenue, with additional smaller or newer customers providing growth. As the company matures, it should be broadening its customer base to reduce concentration risk and to build sticky relationships.
+Baiya's customer base at this stage is likely developing. The company may have a handful of large customers driving significant revenue, with additional smaller or newer customers providing growth. As the company matures, it should be broadening its customer base to reduce [concentration risk](/concentration-risk/) and to build sticky relationships.
 
 High customer concentration at the growth stage is common and manageable, but it limits the company's strategic flexibility. A large customer can negotiate price reductions, demand extended payment terms, or threaten to switch suppliers, forcing Baiya to accommodate or risk losing the business. Baiya must be systematically expanding its customer base to reduce this leverage.
 
 ## Capital Intensity and Funding Needs
 
-Manufacturing at scale is capital-intensive. Factories, equipment, warehousing, and working capital (inventory and receivables needed to support operations) consume cash. Baiya must finance these capital needs either through retained earnings (if operations are profitable) or through external capital (debt or equity).
+Manufacturing at scale is capital-intensive. Factories, equipment, warehousing, and working capital (inventory and receivables needed to support operations) consume cash. Baiya must finance these capital needs either through [retained earnings](/retained-earnings/) (if operations are profitable) or through external capital (debt or equity).
 
-At the growth stage, most companies are still not fully self-funding and require external capital. The company must be building relationships with lenders and equity investors, demonstrating credible financial planning and consistent execution. Companies that can show stable operations, predictable cash generation, and strong growth prospects attract better financing terms (lower interest rates on debt, higher valuations on equity raises).
+At the growth stage, most companies are still not fully self-funding and require external capital. The company must be building relationships with lenders and equity investors, demonstrating credible financial planning and consistent execution. Companies that can show stable operations, predictable cash generation, and strong growth prospects attract better financing terms (lower [interest rates](/interest-rate/) on debt, higher valuations on equity raises).
 
 Baiya's capital structure—the mix of debt and equity—shapes its financial flexibility and cost of capital. Conservative companies with low debt can weather downturns; leveraged companies can amplify returns in upturns but face distress risk in downturns. At the growth stage, some leverage is typical and often beneficial, but the company must not over-lever and risk financial fragility.
 

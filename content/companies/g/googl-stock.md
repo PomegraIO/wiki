@@ -32,7 +32,7 @@ Alphabet is a holding company whose largest subsidiary is Google. Google itself 
 
 Google Search remains the heartbeat. Every month, billions of users submit queries through Google's search engine, and the company displays ads alongside the results—text ads from businesses bidding for position, visual ads from advertisers targeting the searcher's inferred interests. The bidding is automated through an auction system; the more valuable an ad placement, the higher the bid. Google's position as the default search engine on Android devices and its deal with [Apple](/aapl-stock/) to be the default search engine in Safari means it captures a disproportionate share of search traffic, which means it captures a disproportionate share of the advertising revenue that comes with that traffic.
 
-YouTube, acquired in 2006 for $1.65 billion, has become a second pillar of extraordinary size. Over two billion people log into YouTube monthly. The platform generates revenue through video ads (both ads placed before and alongside videos) and through YouTube Premium (a subscription service). Like Google Search, YouTube's value to advertisers lies in its ability to [target](/tgt-stock/) ads to specific audiences based on watch history and inferred intent.
+YouTube, acquired in 2006 for $1.65 billion, has become a second pillar of extraordinary size. Over two billion people log into YouTube monthly. The platform generates revenue through video ads (both ads placed before and alongside videos) and through YouTube Premium (a subscription service). Like Google Search, YouTube's value to advertisers lies in its ability to target ads to specific audiences based on watch history and inferred intent.
 
 ## How does Alphabet make money?
 

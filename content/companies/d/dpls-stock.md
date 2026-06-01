@@ -38,7 +38,7 @@ DarkPulse does not own or operate infrastructure. Instead, it licenses its sensi
 - **Installation and integration services**: consulting and engineering to design sensing systems for specific applications.
 - **Data analytics and monitoring services**: ongoing fee-based access to cloud platforms that process and interpret sensor data.
 
-This licensing model generates recurring revenue and scales with customer adoption without requiring DarkPulse to own infrastructure or take on operational risk. However, it requires customers to perceive sufficient value in continuous monitoring to justify upfront and ongoing expenditure.
+This licensing model generates recurring revenue and scales with customer adoption without requiring DarkPulse to own infrastructure or take on [operational risk](/operational-risk/). However, it requires customers to perceive sufficient value in continuous monitoring to justify upfront and ongoing expenditure.
 
 ## Market Adoption and Barriers to Scale
 

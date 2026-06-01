@@ -16,7 +16,7 @@ keywords: [biotech, oncology, immunotherapy, drug-development, clinical-trial, v
 
 ## The Secular Shift Toward Precision Medicine
 
-TuHURA operates in an environment defined by longer structural trends rather than economic cycles. The drift toward genetically targeted therapies, immunologic checkpoint modulation, and real-time tumor profiling represents a decades-long reallocation of oncology research and capital away from broad-based cytotoxics toward narrower, higher-efficacy drugs. This trend is secular—it does not reverse in recession; it actually accelerates when pharmaceutical majors and venture investors gain conviction about the science and seek to de-risk their pipelines.
+TuHURA operates in an environment defined by longer structural trends rather than economic cycles. The drift toward genetically targeted therapies, immunologic checkpoint modulation, and real-time tumor profiling represents a decades-long reallocation of oncology research and capital away from broad-based cytotoxics toward narrower, higher-efficacy drugs. This trend is secular—it does not reverse in [recession](/recession/); it actually accelerates when pharmaceutical majors and venture investors gain conviction about the science and seek to de-risk their pipelines.
 
 Early-stage biotech companies like HURA exist not to ride cycles but to exploit this shift. If its scientific thesis proves correct, the firm can move from zero revenue to blockbuster valuations independent of whether the broader economy is in expansion or contraction. If the thesis fails—whether the drug doesn't work, or competitors capture the indication first—the firm becomes worthless, recession or not.
 
@@ -38,7 +38,7 @@ The secular tailwind toward precision oncology benefits the sector broadly but d
 
 ## The Investment Wager
 
-Backing HURA is not a cyclical stock-market bet; it is a venture-capital wager on a scientific and commercial proposition. The [stock price](/stock/) will swing on clinical news, competitive announcements, and capital-market sentiment. The company's ability to raise capital, the rigor of its trial design, and the specificity of its therapeutic hypothesis matter far more than the state of the macroeconomy. That said, the wider biotech sector's access to venture and public capital does cycle, and in extended bear markets, even good biotech firms can struggle to fund operations if public investors sour on pre-revenue stories.
+Backing HURA is not a cyclical stock-market bet; it is a venture-capital wager on a scientific and commercial proposition. The [stock price](/stock/) will swing on clinical news, competitive announcements, and capital-market sentiment. The company's ability to raise capital, the rigor of its trial design, and the specificity of its therapeutic hypothesis matter far more than the state of the macroeconomy. That said, the wider biotech sector's access to venture and public capital does cycle, and in extended [bear markets](/bear-market/), even good biotech firms can struggle to fund operations if public investors sour on pre-revenue stories.
 
 ## See Also
 

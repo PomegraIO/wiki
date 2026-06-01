@@ -25,7 +25,7 @@ These customers value cost control, speed, and reduced execution risk. They want
 
 HUHUTECH's core economics are labor arbitrage and operational efficiency. The company sells service hours (development, testing, architecture, project management) at prices that reflect its cost structure. A software developer in China costs significantly less to employ than one in Silicon Valley, yet HUHUTECH can sell development services to global or domestic customers at rates that are higher than its internal costs. A customer might pay $10,000 per month for a dedicated developer; HUHUTECH's cost to employ, train, and support that developer (salary, benefits, facilities, overhead) might be $3,000 to $4,000 per month. That $6,000 to $7,000 per-person monthly margin funds sales, delivery management, executive overhead, and profit.
 
-The business scales through two levers: increase the utilization rate of engineers (keep more developers billable to customers, reduce bench time between projects) and expand the client base (grow from 20 customers to 100 customers, each of whom might engage 2–10 engineers). Growth is achievable because the market for outsourced software development in China is large, and HUHUTECH's competitors include global firms (Accenture, Cognizant) and local rivals. HUHUTECH competes by offering faster engagement, lower cost, local presence, and specialized domain expertise.
+The business scales through two levers: increase the utilization rate of engineers (keep more developers billable to customers, reduce bench time between projects) and expand the client base (grow from 20 customers to 100 customers, each of whom might engage 2–10 engineers). Growth is achievable because the market for outsourced software development in China is large, and HUHUTECH's competitors include global firms ([Accenture](/acn-stock/), Cognizant) and local rivals. HUHUTECH competes by offering faster engagement, lower cost, local presence, and specialized domain expertise.
 
 ## Project Delivery and Customer Relationships
 
@@ -43,11 +43,11 @@ Software development outsourcing is a commoditized service. Hundreds of software
 
 ## Margin Vulnerability to Labor Costs and Utilization
 
-HUHUTECH's profitability is sensitive to two factors: engineer utilization (% of time billed to customers vs. unbilled) and labor cost inflation. If the company's engineers spend 60% of their time on billable work and 40% on internal projects, administration, and bench time, margins compress. If Chinese software engineers' salaries rise faster than HUHUTECH can raise customer prices, margins squeeze further. In boom times, when demand is high and HUHUTECH can keep 80% or more of its engineers fully utilized, margins are healthy. In downturns, when customer projects slow and headcount reductions lag, the model deteriorates quickly.
+HUHUTECH's profitability is sensitive to two factors: engineer utilization (% of time billed to customers vs. unbilled) and labor cost [inflation](/inflation/). If the company's engineers spend 60% of their time on billable work and 40% on internal projects, administration, and bench time, margins compress. If Chinese software engineers' salaries rise faster than HUHUTECH can raise customer prices, margins squeeze further. In boom times, when demand is high and HUHUTECH can keep 80% or more of its engineers fully utilized, margins are healthy. In downturns, when customer projects slow and headcount reductions lag, the model deteriorates quickly.
 
 ## Customer Concentration Risk
 
-If HUHUTECH has a small number of large customers (say, three customers representing 50% of revenue), the loss of one major contract is catastrophic. Professional-services firms often face customer concentration risk because they scale through large contracts, not through many small customers. This concentration means that HUHUTECH's financial health and growth are highly dependent on the renewal and expansion of a few key customer relationships.
+If HUHUTECH has a small number of large customers (say, three customers representing 50% of revenue), the loss of one major contract is catastrophic. Professional-services firms often face customer [concentration risk](/concentration-risk/) because they scale through large contracts, not through many small customers. This concentration means that HUHUTECH's financial health and growth are highly dependent on the renewal and expansion of a few key customer relationships.
 
 ## Why Customer Demand Determines Viability
 
@@ -58,13 +58,13 @@ HUHUTECH's competitive position is fundamentally driven by customer demand for o
 <ul>
 <li><a href="/huiz-stock/">Huize Holding Ltd</a></li>
 <li><a href="/hubg-stock/">Hub Group, Inc.</a></li>
-<li><a href="/software/">Software</a></li>
+<li>Software</li>
 </ul>
 
 <h3>Wider context</h3>
 <ul>
-<li><a href="/10-k/">10-K Annual Report</a></li>
+<li><a href="/10-k/">10-K [Annual Report](/10-k/)</a></li>
 <li><a href="/public-company/">Public Company</a></li>
-<li><a href="/services/">Services</a></li>
+<li>Services</li>
 </ul>
 </div>

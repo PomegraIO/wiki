@@ -22,7 +22,7 @@ Greek sports betting historically operated under a state-sanctioned monopoly mod
 - **Exclusivity or competition**: Does the company hold a monopoly (higher margins, lower customer-acquisition costs) or compete against other licensed operators (margin compression, higher marketing spend)?
 - **Regulatory oversight**: Which bodies regulate the company (Greek gambling commission, tax authorities, financial regulator)? Are there outstanding compliance issues, fines, or threatened sanctions?
 
-Monopoly licensing models yield fat operating margins but are vulnerable to legislative change or market liberalization. The 10-K disclosures under "Regulatory Environment" or "Legal Proceedings" will hint at political pressure to open markets or tighten rules.
+Monopoly licensing models yield fat [operating margins](/operating-margin/) but are vulnerable to legislative change or market liberalization. The 10-K disclosures under "Regulatory Environment" or "Legal Proceedings" will hint at political pressure to open markets or tighten rules.
 
 ## Revenue streams and product mix
 
@@ -42,7 +42,7 @@ Gaming operators live and die by customer metrics:
 - **Customer lifetime value (LTV)**: How much does an average customer wager and win/lose over their lifetime?
 - **Churn rate**: What % of customers lapse or migrate to competitors annually?
 
-These metrics are rarely disclosed numerically in the 10-K but can be inferred from customer-acquisition spending (marketing and sales expenses) and revenue per active user. A company with high churn (>50% annually) is on a treadmill of expensive acquisition and constant replacement. A company with low churn (<20%) and high LTV:CAC ratios has durability.
+These metrics are rarely disclosed numerically in the 10-K but can be inferred from customer-acquisition spending (marketing and sales expenses) and revenue per active user. A company with high churn (>50% annually) is on a treadmill of expensive [acquisition](/acquisition/) and constant replacement. A company with low churn (<20%) and high LTV:CAC ratios has durability.
 
 ## Regulatory and jurisdictional risk
 

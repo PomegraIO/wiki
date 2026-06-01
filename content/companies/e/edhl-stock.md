@@ -4,7 +4,7 @@ description: "Digital services and fintech holding company; operates under overs
 keywords: [fintech, digital-services, regulatory-compliance, financial-regulation, data-protection]
 ---
 
-*Everbright Digital Holding Ltd., trading as EDHL on the Nasdaq, conducts digital financial services and software operations across multiple jurisdictions. The company's business model and market access hinge on compliance with fragmented and sometimes contradictory regulatory regimes—banking rules where it touches financial intermediation, data-protection laws in Europe and Asia, anti-money-laundering statutes, and national digital-commerce restrictions that vary radically by country.*
+*Everbright Digital Holding Ltd., trading as EDHL on the [Nasdaq](/nasdaq/), conducts digital financial services and software operations across multiple jurisdictions. The company's business model and market access hinge on compliance with fragmented and sometimes contradictory regulatory regimes—banking rules where it touches financial intermediation, data-protection laws in Europe and Asia, anti-money-laundering statutes, and national digital-commerce restrictions that vary radically by country.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EDHL</td></tr>
@@ -24,15 +24,15 @@ If Everbright Digital offers credit, payment processing, or investment services,
 
 ## Anti-Money Laundering (AML) and Know-Your-Customer (KYC) Obligations
 
-Everbright Digital must implement AML/KYC programs to prevent its services from being used for money laundering or terrorist financing. The company must collect customer identity information, verify it against sanction lists (OFAC, UN, EU designations), and file Suspicious Activity Reports (SARs) with regulators when transactions appear suspicious. AML compliance is operationally expensive—requiring compliance staff, transaction monitoring software, and customer-risk rating systems. Failure to implement adequate AML/KYC exposes the company to criminal liability for its officers and civil penalties for the entity. In high-profile cases, regulators have shut down fintech companies for AML deficiencies, and the reputational damage extends beyond legal penalties.
+Everbright Digital must implement AML/KYC programs to prevent its services from being used for money laundering or terrorist financing. The company must collect customer identity information, verify it against sanction lists (OFAC, UN, EU designations), and file Suspicious Activity Reports (SARs) with regulators when transactions appear suspicious. [AML compliance](/aml-compliance/) is operationally expensive—requiring compliance staff, transaction monitoring software, and customer-risk rating systems. Failure to implement adequate AML/KYC exposes the company to criminal liability for its officers and civil penalties for the entity. In high-profile cases, regulators have shut down fintech companies for AML deficiencies, and the reputational damage extends beyond legal penalties.
 
 ## China's Regulatory Framework and State Control Risk
 
-If Everbright Digital has significant operations or user base in mainland China, it faces the Chinese government's sweeping regulatory authority over internet companies, fintech, and data. The Cyberspace Administration enforces strict data localization, prohibiting transfer of user data outside China without approval. Financial services in China are tightly controlled by the People's Bank of China (PBOC) and the China Banking Regulatory Commission (CBIRC); fintech platforms face constant regulatory pressure and policy reversals. Ownership restrictions cap foreign investment in Chinese financial entities. The regulatory environment is opaque and subject to sudden policy shifts; companies have faced overnight shutdowns or forced business restructuring. This geopolitical and regulatory risk is non-trivial for any fintech company with Chinese exposure.
+If Everbright Digital has significant operations or user base in mainland China, it faces the Chinese government's sweeping regulatory authority over internet companies, fintech, and data. The Cyberspace Administration enforces strict data localization, prohibiting transfer of user data outside China without approval. Financial services in China are tightly controlled by the [People's Bank of China](/peoples-bank-of-china/) (PBOC) and the China Banking Regulatory Commission (CBIRC); fintech platforms face constant regulatory pressure and policy reversals. Ownership restrictions cap foreign investment in Chinese financial entities. The regulatory environment is opaque and subject to sudden policy shifts; companies have faced overnight shutdowns or forced business restructuring. This geopolitical and regulatory risk is non-trivial for any fintech company with Chinese exposure.
 
 ## Payment Card Industry Data Security Standard (PCI DSS)
 
-If Everbright Digital processes credit or debit card payments, it must comply with PCI DSS, a standard issued by the payment card networks (Visa, Mastercard, Amex, Discover). PCI DSS mandates encryption, access controls, vulnerability scanning, and annual security audits. Non-compliance triggers fines from acquiring banks and card networks, and repeated failures can result in loss of payment-processing privileges. Compliance requires continuous investment in security infrastructure and is a prerequisite for operating any payment platform.
+If Everbright Digital processes credit or debit card payments, it must comply with PCI DSS, a standard issued by the payment card networks ([Visa](/v-stock/), [Mastercard](/ma-stock/), Amex, Discover). PCI DSS mandates encryption, access controls, vulnerability scanning, and annual security audits. Non-compliance triggers fines from acquiring banks and card networks, and repeated failures can result in loss of payment-processing privileges. Compliance requires continuous investment in security infrastructure and is a prerequisite for operating any payment platform.
 
 ## Cybersecurity and Breach Notification Laws
 
@@ -52,7 +52,7 @@ If Everbright Digital services involve technology (software, algorithms, encrypt
 
 ## Mergers and Foreign Investment Screening
 
-If Everbright Digital is acquired by or invests in acquiring competitors, foreign direct investment (FDI) reviews apply. CFIUS (Committee on Foreign Investment in the U.S.) reviews acquisitions of U.S. technology and data companies by foreign entities. EU and other countries conduct similar FDI screening for national-security concerns. Reviews can block a deal, impose conditions, or delay closing indefinitely. Fintech and digital-services companies are increasingly subject to scrutiny because of data assets and network effects.
+If Everbright Digital is acquired by or invests in acquiring competitors, [foreign direct investment](/foreign-direct-investment/) (FDI) reviews apply. CFIUS (Committee on Foreign Investment in the U.S.) reviews [acquisitions](/acquisition/) of U.S. technology and data companies by foreign entities. EU and other countries conduct similar FDI screening for national-security concerns. Reviews can block a deal, impose conditions, or delay closing indefinitely. Fintech and digital-services companies are increasingly subject to scrutiny because of data assets and network effects.
 
 ## Consumer Protection and Privacy Laws Fragmentation
 

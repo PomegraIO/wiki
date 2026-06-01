@@ -33,7 +33,7 @@ The challenge is that this transition has no end state that returns the company 
 
 ## Asset Rationalization and Portfolio Management
 
-Liberty Global's structure comprises multiple operating subsidiaries and affiliated entities across different geographies, each with distinct competitive positions, regulatory environments, and capital requirements. This complexity exists partly for tax and regulatory reasons, partly as a legacy of historical acquisitions and builds.
+Liberty Global's structure comprises multiple operating subsidiaries and affiliated entities across different geographies, each with distinct competitive positions, regulatory environments, and capital requirements. This complexity exists partly for tax and regulatory reasons, partly as a legacy of historical [acquisitions](/acquisition/) and builds.
 
 Over the past decade, the company has periodically divested underperforming or non-core assets. These sales serve multiple purposes: they raise capital to reduce debt, they exit markets where competitive position is weak or regulatory burden is high, and they allow management to focus resources on higher-return or more defensible markets.
 
@@ -41,7 +41,7 @@ This portfolio approach requires constant evaluation: which markets are structur
 
 ## The Debt Burden of Legacy Infrastructure
 
-An incumbent operator like LBTYA carries legacy debt incurred during periods of expansion and acquisitions. The company's balance sheet reflects the cost of building and acquiring the network and customer base that it now operates. That debt is structured to be manageable from current cash flow, but it represents a constraint: management cannot make aggressive bets on new technologies or markets without first reducing leverage.
+An incumbent operator like LBTYA carries legacy debt incurred during periods of expansion and acquisitions. The company's [balance sheet](/balance-sheet/) reflects the cost of building and acquiring the network and customer base that it now operates. That debt is structured to be manageable from current cash flow, but it represents a constraint: management cannot make aggressive bets on new technologies or markets without first reducing leverage.
 
 This debt burden also creates a ceiling on returns to shareholders. The company must prioritize debt service and debt reduction over reinvestment or dividends, limiting the company's ability to reward shareholders or pursue growth-oriented capital allocation.
 

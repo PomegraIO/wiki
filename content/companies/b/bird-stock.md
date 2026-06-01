@@ -19,13 +19,13 @@ keywords: [footwear, apparel, direct-to-consumer, sustainability, e-commerce]
 
 Allbirds launched with a focus on US coastal cities—San Francisco, Los Angeles, New York—and college towns with concentrations of affluent, environmentally aware consumers. These geographies were strategic. San Francisco and coastal California have high customer density for sustainable products; New York attracts wealthy, design-conscious consumers; college towns (Berkeley, Cambridge, Austin) host populations predisposed to environmental values. In these markets, Allbirds could charge a premium price for a well-made sustainable shoe without needing to compete on cost alone.
 
-This geographic anchoring was a form of risk management. Rather than trying to sell sustainably positioned footwear at scale across the entire US (where most consumers are price-sensitive and less concerned with environmental impact), Allbirds could build brand loyalty and word-of-mouth in high-affinity markets first. Once the brand achieved critical mass and cultural cachet in coastal cities, expansion to secondary markets became easier.
+This geographic anchoring was a form of risk management. Rather than trying to sell sustainably positioned footwear at scale across the entire US (where most consumers are price-sensitive and less concerned with environmental impact), Allbirds could build brand loyalty and word-of-mouth in high-affinity markets first. Once the brand achieved critical mass and cultural cachet in coastal cities, expansion to [secondary markets](/secondary-market/) became easier.
 
 ## The direct-to-consumer distribution model
 
 Allbirds pioneered a direct-to-consumer (DTC) model: selling primarily through its own website and branded stores, not through traditional department stores or shoe retailers. This model requires geographic concentration initially. Online sales work globally, but physical stores need to be in markets where foot traffic justifies rent and staffing. Allbirds opened flagship and key stores in major urban markets where brand awareness was high and customer density was sufficient to sustain retail economics.
 
-The implication is that Allbirds' profitability and customer acquisition cost (CAC) depend on which geographies it chooses for retail expansion. A store in San Francisco or Manhattan commands high foot traffic and prestige; a store in a secondary mid-market city faces lower foot traffic and higher relative costs. The company's retail expansion strategy—which cities to enter, how many stores, and store format—directly affects [gross-profit-margin](/gross-profit-margin/) and return on capital.
+The implication is that Allbirds' profitability and customer [acquisition](/acquisition/) cost (CAC) depend on which geographies it chooses for retail expansion. A store in San Francisco or Manhattan commands high foot traffic and prestige; a store in a secondary mid-market city faces lower foot traffic and higher relative costs. The company's retail expansion strategy—which cities to enter, how many stores, and store format—directly affects [gross-profit-margin](/gross-profit-margin/) and return on capital.
 
 ## International expansion and cultural resonance
 
@@ -37,7 +37,7 @@ UK and European expansion offers Allbirds a chance to scale the DTC model in geo
 
 Allbirds sources materials (wool, eucalyptus fiber, sugar cane-based foam, natural rubber) and manufactures footwear. Material sourcing is global: merino wool from New Zealand, renewable synthetics from suppliers across Asia and elsewhere. Manufacturing is typically outsourced to contract manufacturers in countries like Vietnam, China, and others with established footwear production infrastructure. These geographic choices affect cost, quality consistency, and supply-chain resilience.
 
-A shift in manufacturing geography—say, from Vietnam to a higher-cost country for labor, political, or supply-chain diversification reasons—directly impacts per-unit production cost and [gross profit](/gross-profit-margin/). Similarly, material sourcing geography exposes Allbirds to commodity prices and supply disruptions. A shortage of natural rubber or a spike in wool prices affects product cost and margin.
+A shift in manufacturing geography—say, from Vietnam to a higher-cost country for labor, political, or supply-chain [diversification](/diversification/) reasons—directly impacts per-unit production cost and [gross profit](/gross-profit-margin/). Similarly, material sourcing geography exposes Allbirds to commodity prices and supply disruptions. A shortage of natural rubber or a spike in wool prices affects product cost and margin.
 
 ## Market saturation and growth geography
 

@@ -76,7 +76,7 @@ As residencies age, capital needs increase. Renovations to modernize facilities,
 
 ## Labor Availability and Wage Pressures
 
-Staffing is the operational bottleneck in senior care. Roles like care workers, housekeeping, and food service face labor shortages in many markets, requiring competitive wages to attract and retain staff. Wage inflation in healthcare labor markets pressures margins. Additionally, the work is physically and emotionally demanding, contributing to burnout and turnover.
+Staffing is the operational bottleneck in senior care. Roles like care workers, housekeeping, and food service face labor shortages in many markets, requiring competitive wages to attract and retain staff. Wage [inflation](/inflation/) in healthcare labor markets pressures margins. Additionally, the work is physically and emotionally demanding, contributing to burnout and turnover.
 
 Sienna must invest in recruitment, training, and employee retention to maintain quality care and operational stability. Staff shortages lead to overwork, burnout, and care quality degradation—a downward spiral that damages reputation and occupancy.
 
@@ -86,7 +86,7 @@ Senior living demand is relatively stable year-round but may vary by season (som
 
 ## Growth and Portfolio Strategy
 
-Sienna grows through acquiring existing senior living communities, developing new properties, and expanding within existing facilities. Acquisitions involve due diligence on property condition, revenue stability, regulatory compliance, and staff. Integration of acquired operations requires aligning management, systems, and culture.
+Sienna grows through acquiring existing senior living communities, developing new properties, and expanding within existing facilities. [Acquisitions](/acquisition/) involve due diligence on property condition, revenue stability, regulatory compliance, and staff. Integration of acquired operations requires aligning management, systems, and culture.
 
 New development is capital-intensive: land acquisition, construction, licensing, and pre-opening operations before revenue starts. Expansion within existing properties (adding beds or upgrading) requires capital and temporary disruption.
 

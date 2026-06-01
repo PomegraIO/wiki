@@ -21,7 +21,7 @@ Haverty Furniture's core unit economics revolve around the furniture showroom as
 
 The variable transaction is the individual furniture sale. A customer enters a Haverty showroom, browses display pieces, negotiates price with a salesperson, and either purchases on the spot or places a special order for a custom configuration—a sofa with specific upholstery, a dining set in a chosen wood stain, a bedroom suite. The company delivers or coordinates delivery via third-party carriers. The unit economics of that single transaction are the sale price minus the cost of goods sold (the wholesale cost of the furniture from the manufacturer or wholesaler), less sales commission and delivery cost, divided by the labor and occupancy cost allocated to that sale.
 
-This unit transaction is highly dependent on inventory turns. Furniture is bulky and expensive to store. If a showroom has capital tied up in unsold inventory, that capital is not earning a return; it is absorbing interest on any debt financing the inventory, plus storage cost. A well-run furniture retailer maximizes the velocity of inventory—turning stock quickly—and minimizes the days-sales-outstanding (the time between a sale and collection of cash, especially relevant if Haverty finances customer purchases or extends in-house credit).
+This unit transaction is highly dependent on inventory turns. Furniture is bulky and expensive to store. If a showroom has capital tied up in unsold inventory, that capital is not earning a return; it is absorbing interest on any [debt financing](/debt-financing/) the inventory, plus storage cost. A well-run furniture retailer maximizes the velocity of inventory—turning stock quickly—and minimizes the days-sales-outstanding (the time between a sale and collection of cash, especially relevant if Haverty finances customer purchases or extends in-house credit).
 
 ## Showroom Economics and Operating Leverage
 
@@ -33,11 +33,11 @@ Haverty's geographic footprint—the number of showrooms and their distribution 
 
 ## Inventory Financing and Working Capital
 
-Furniture companies typically carry significant inventory balances on the [balance-sheet](/balance-sheet/). Haverty finances this either through internal cash flow or through inventory credit lines. The unit cost of carrying inventory is the interest rate on any borrowing, plus the opportunity cost of capital, plus the risk of obsolescence or markdown.
+Furniture companies typically carry significant inventory balances on the [balance-sheet](/balance-sheet/). Haverty finances this either through internal cash flow or through inventory credit lines. The unit cost of carrying inventory is the [interest rate](/interest-rate/) on any borrowing, plus the opportunity cost of capital, plus the risk of obsolescence or markdown.
 
 If Haverty borrows at 5 percent to finance $50 million in inventory, the annual interest is $2.5 million. That $2.5 million is paid regardless of sales velocity. A sales decline that reduces turns (say, from 4 turns per year to 3) increases the average inventory balance, which increases interest expense. Conversely, efficiency improvements—faster delivery, better demand forecasting, or clearance of slow-moving styles—reduce required inventory levels and free cash.
 
-The company's [income-statement](/income-statement/) captures this as interest expense. The company's cash flow statement captures it in the working capital line; an increase in inventory is a use of cash, a decrease in inventory is a source. For investors analyzing Haverty, the ratio of inventory to trailing sales is a key metric—it indicates whether management is efficiently deploying capital or letting inventory languish.
+The company's [income-statement](/income-statement/) captures this as interest expense. The company's [cash flow statement](/cash-flow-statement/) captures it in the working capital line; an increase in inventory is a use of cash, a decrease in inventory is a source. For investors analyzing Haverty, the ratio of inventory to trailing sales is a key metric—it indicates whether management is efficiently deploying capital or letting inventory languish.
 
 ## Delivery and Logistics: The Hidden Unit Cost
 
@@ -53,7 +53,7 @@ The unit economics of a custom order differ from a floor-sale. Margin is often h
 
 ## Market Cycles and Traffic Volatility
 
-Furniture retail is acutely cyclical. Furniture purchases are discretionary; they spike when consumer confidence is high, mortgage rates are low, and home equity is accessible. They decline when recessions threaten, when mortgage rates spike, or when household balance sheets are stressed. A single showroom's sales can swing 20–30 percent year-to-year based purely on macro conditions beyond Haverty's control.
+Furniture retail is acutely cyclical. Furniture purchases are discretionary; they spike when consumer confidence is high, mortgage rates are low, and home equity is accessible. They decline when [recessions](/recession/) threaten, when mortgage rates spike, or when household balance sheets are stressed. A single showroom's sales can swing 20–30 percent year-to-year based purely on macro conditions beyond Haverty's control.
 
 The unit challenge is therefore maintaining occupancy and labor costs through sales declines. A showroom built for 200 pieces per month cannot easily shed fixed costs when sales drop to 120. Haverty has periodically closed underperforming stores to right-size the footprint, but the decision to shutter a location is economically fraught—the lease commitment may require severance, and the company incurs facility-closing costs that depress [earnings](/earnings-per-share/).
 

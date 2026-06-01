@@ -16,7 +16,7 @@ keywords: ["trading company", "commodity trading", "transaction margins", "diver
 
 ## The Transaction Margin Framework
 
-ITOCHU's core business is the spread between buy and sell prices. A division acquires natural gas from suppliers, sells it to utilities or industrial customers, and pockets the margin—typically a few percent of transaction value. On a $1 million cargo of steel coils, a 3% margin yields $30,000. Multiply this across thousands of transactions annually, and the mathematics become substantial.
+ITOCHU's core business is the spread between buy and sell prices. A division acquires [natural gas](/natural-gas/) from suppliers, sells it to utilities or industrial customers, and pockets the margin—typically a few percent of transaction value. On a $1 million cargo of steel coils, a 3% margin yields $30,000. Multiply this across thousands of transactions annually, and the mathematics become substantial.
 
 The transaction margin depends on the depth of the company's market knowledge, its supply-chain efficiency, and its bargaining power with suppliers and customers. A trader with superior information about future demand, supply constraints, or price trends can execute transactions at wider margins. A company with entrenched relationships on both ends of a supply chain—long-term contracts with suppliers, preferred-vendor status with large customers—can sustain margins that competitors cannot match.
 
@@ -40,17 +40,17 @@ Diversification also creates a portfolio-level margin. When the company is net-l
 
 ## Projects, Equity Investments, and Long-Term Value Creation
 
-Beyond transaction trading, ITOCHU invests equity capital in long-term projects: power plants, mining operations, agricultural estates, telecommunications networks, retail chains. These investments yield dividends, capital gains, and optionality. A coal mine investment might generate modest dividend but appreciate if fossil fuel prices surge; it also ensures reliable supply of coal for the trading business.
+Beyond transaction trading, ITOCHU invests equity capital in long-term projects: power plants, mining operations, agricultural estates, telecommunications networks, retail chains. These investments yield [dividends](/dividend/), capital gains, and optionality. A coal mine investment might generate modest dividend but appreciate if fossil fuel prices surge; it also ensures reliable supply of coal for the trading business.
 
-The unit economics of equity investments differ from trading margins. A $100 million investment in a mining company that generates 10% annual returns yields $10 million per year—a 10% return on capital employed. This compares to trading margins of 1–2% on high volumes. If ITOCHU can identify undervalued assets or develop projects more efficiently than market prices, its equity investments can be highly profitable.
+The unit economics of equity investments differ from trading margins. A $100 million investment in a mining company that generates 10% annual returns yields $10 million per year—a 10% [return on capital employed](/return-on-capital-employed/). This compares to trading margins of 1–2% on high volumes. If ITOCHU can identify undervalued assets or develop projects more efficiently than market prices, its equity investments can be highly profitable.
 
 However, equity investments lock up capital for years and expose ITOCHU to downside if the project or company underperforms. The company must balance the stability and upside of long-term investments against the liquidity and modest returns of transactions. An optimal portfolio might be 60–70% trading, 30–40% equity investments and projects.
 
 ## Geographic and Currency Exposure
 
-ITOCHU operates globally and deals in multiple currencies. Revenue in euros and costs in dollars create currency exposure. A weakening dollar increases the yen value of dollar-denominated assets, boosting reported earnings; a strengthening dollar erodes them. ITOCHU hedges some currency risk but not all; some exposure remains as a de facto bet on currency trends.
+ITOCHU operates globally and deals in multiple currencies. Revenue in euros and costs in dollars create currency exposure. A weakening dollar increases the yen value of dollar-denominated assets, boosting reported earnings; a strengthening dollar erodes them. ITOCHU hedges some [currency risk](/currency-risk/) but not all; some exposure remains as a de facto bet on currency trends.
 
-Geographic diversification is valuable but also creates complexity. The company must navigate different regulatory regimes, tax regimes, and supply-chain risks across countries. A trade war that blocks raw materials from one region creates winners (ITOCHU can source from alternative suppliers at premiums) and losers (customers in blocked regions may reduce purchases). The company's profitability depends partly on its ability to navigate these shifts faster than competitors.
+Geographic diversification is valuable but also creates complexity. The company must navigate different regulatory regimes, tax regimes, and supply-chain risks across countries. A [trade war](/trade-war/) that blocks raw materials from one region creates winners (ITOCHU can source from alternative suppliers at premiums) and losers (customers in blocked regions may reduce purchases). The company's profitability depends partly on its ability to navigate these shifts faster than competitors.
 
 ## Scalability and Efficiency Gains
 

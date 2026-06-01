@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Eastman Chemical Company manufactures specialty chemicals and advanced materials used in coatings, plastics, textiles, and dozens of industrial processes across the world. The company is a descendant of Eastman Kodak's chemical operations and has evolved into an independent producer of polymers, adhesives, and performance materials that customers rely on to make everything from automotive coatings to film and fibre.
+Eastman Chemical Company manufactures specialty chemicals and advanced materials used in coatings, plastics, textiles, and dozens of industrial processes across the world. The company is a descendant of [Eastman Kodak](/kodk-stock/)'s chemical operations and has evolved into an independent producer of polymers, adhesives, and performance materials that customers rely on to make everything from automotive coatings to film and fibre.
 
 <aside class="wiki-infobox">
 <table>

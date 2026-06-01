@@ -32,7 +32,7 @@ A customer buys a ceramic component from KYOCERA not because it is the only opti
 
 KYOCERA serves multiple industries with variations on its core ceramic competency. In automotive, the company supplies sensors, catalytic converter components, and insulation materials. In telecommunications, KYOCERA manufactures passive components (capacitors, filters) and connector housings. In consumer electronics, KYOCERA produces LCD display components, crystal oscillators, and precision parts for smartphones and laptops. In industrial and environmental sectors, KYOCERA makes kiln furniture (materials that support other objects in high-temperature ovens), cutting tools, and water-treatment components.
 
-This diversification is both strength and risk. Strength because downturns in one industry (e.g., automotive sales collapse) are offset by growth elsewhere (e.g., data center demand for passive components). Risk because each vertical requires deep specialization, customer relationships, and sales infrastructure. KYOCERA must compete in automotive precision components (against suppliers like Bosch, Continental), in passive components (against TDK, Murata), and in industrial ceramics (against smaller Japanese and international specialists). The company is good at several things but must excel in each to remain competitive.
+This [diversification](/diversification/) is both strength and risk. Strength because downturns in one industry (e.g., automotive sales collapse) are offset by growth elsewhere (e.g., data center demand for passive components). Risk because each vertical requires deep specialization, customer relationships, and sales infrastructure. KYOCERA must compete in automotive precision components (against suppliers like Bosch, Continental), in passive components (against TDK, Murata), and in industrial ceramics (against smaller Japanese and international specialists). The company is good at several things but must excel in each to remain competitive.
 
 ## Capital Intensity and Operational Excellence
 
@@ -48,7 +48,7 @@ However, this same stickiness is vulnerable to disruption. An OEM designing a ne
 
 ## Geographic and Cyclical Exposures
 
-KYOCERA manufactures globally and sells globally, but a substantial portion of revenue depends on automotive production, which is cyclical. Automotive downturn (recession, reduced consumer demand, supply-chain disruption) directly reduces demand for KYOCERA's components. Telecommunications is less cyclical but subject to carrier investment cycles. Consumer electronics demand is tied to smartphone and laptop sales, which are mature and competitive.
+KYOCERA manufactures globally and sells globally, but a substantial portion of revenue depends on automotive production, which is cyclical. Automotive downturn ([recession](/recession/), reduced consumer demand, supply-chain disruption) directly reduces demand for KYOCERA's components. Telecommunications is less cyclical but subject to carrier investment cycles. Consumer electronics demand is tied to smartphone and laptop sales, which are mature and competitive.
 
 Additionally, KYOCERA's manufacturing footprint spans Japan, Asia, Europe, and North America. Regulatory changes, trade tariffs, and exchange-rate fluctuations affect profitability. The company must manage currency exposure and optimize manufacturing location based on cost, proximity to customers, and regulatory environment.
 

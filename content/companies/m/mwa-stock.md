@@ -35,7 +35,7 @@ Mueller's revenue model is driven by capital replacement cycles and system expan
 
 The company operates through multiple distribution channels: direct sales to large utilities, relationships with municipal engineers and procurement departments, and sales through wholesalers and supply houses that stock components for smaller systems and repair operations. This multi-channel approach provides resilience—if one customer class or region faces budget cuts, others continue to generate revenue. However, it also creates complexity in managing inventory, pricing consistency, and channel relationships.
 
-Profitability depends on manufacturing efficiency and supply-chain management. Water infrastructure components are engineered products, not commodity items, but they are manufactured in high volume once designed. Mueller benefits from optimizing production processes, negotiating raw-material costs, and managing labor productivity. The company's acquisition strategy has historically focused on acquiring regional competitors and consolidating their manufacturing operations into fewer, larger plants, reducing overhead and improving margins.
+Profitability depends on manufacturing efficiency and supply-chain management. Water infrastructure components are engineered products, not commodity items, but they are manufactured in high volume once designed. Mueller benefits from optimizing production processes, negotiating raw-material costs, and managing [labor productivity](/labor-productivity/). The company's [acquisition](/acquisition/) strategy has historically focused on acquiring regional competitors and consolidating their manufacturing operations into fewer, larger plants, reducing overhead and improving margins.
 
 ## Market Characteristics and Competitive Position
 
@@ -49,13 +49,13 @@ The market is also influenced by macro trends: aging water infrastructure in dev
 
 As a capital-intensive manufacturing business, Mueller requires continuous investment in plant, equipment, and working capital. The company finances this through [operating cash flow](/free-cash-flow/) (from selling products to customers), borrowing against its asset base, and equity capital. Municipal customers typically pay on net 30 to 60-day terms, creating working-capital requirements that must be financed.
 
-Mueller's cash generation profile reflects the steady, essential nature of its business: moderate but predictable operating cash flows that support [dividends](/dividend/), debt service, and reinvestment. The company is unlikely to experience hyper-growth (which would require order-of-magnitude market expansion), but it is also unlikely to face existential cash-flow crises if executed with reasonable operational discipline. Shareholder returns are likely structured around dividends and modest share buybacks rather than capital appreciation.
+Mueller's cash generation profile reflects the steady, essential nature of its business: moderate but predictable operating cash flows that support [dividends](/dividend/), debt service, and reinvestment. The company is unlikely to experience hyper-growth (which would require order-of-magnitude market expansion), but it is also unlikely to face existential cash-flow crises if executed with reasonable operational discipline. Shareholder returns are likely structured around dividends and modest [share buybacks](/share-buyback/) rather than capital appreciation.
 
 ## Regulatory Environment and Infrastructure Policy
 
 Water utilities and municipalities operate under strict regulatory oversight. The Environmental Protection Agency (EPA) sets water-quality standards that utilities must meet. States impose design standards for pipes and components. Local procurement regulations often require competitive bidding. Mueller must navigate this regulatory landscape: ensuring products meet safety and quality standards, maintaining certifications, and positioning itself competitively in municipal procurement processes.
 
-Public infrastructure spending is also subject to economic and political cycles. During recessions, municipalities defer capital spending. Legislatively mandated infrastructure programs (such as the Infrastructure Investment and Jobs Act) can accelerate capital replacement cycles. MVST's revenue is thus partially dependent on macro conditions and political commitment to water infrastructure investment.
+Public infrastructure spending is also subject to economic and political cycles. During [recessions](/recession/), municipalities defer capital spending. Legislatively mandated infrastructure programs (such as the Infrastructure Investment and [Jobs Act](/jobs-act/)) can accelerate capital replacement cycles. MVST's revenue is thus partially dependent on macro conditions and political commitment to water infrastructure investment.
 
 ## The Origin Story's Enduring Model
 

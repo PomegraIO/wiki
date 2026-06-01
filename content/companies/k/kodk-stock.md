@@ -41,7 +41,7 @@ In advanced materials, Kodak competes against specialized materials manufacturer
 
 ## Capital Intensity and Return on Invested Capital
 
-Kodak's post-bankruptcy strategy trades scale for profitability—operating smaller revenue bases but with disciplined capital deployment and focus on higher-margin, specialized products rather than scale-driven commodity markets. Manufacturing digital printing systems, specialty chemicals, and advanced materials is capital-intensive; returns on invested capital depend on achieving strong utilization of manufacturing assets, managing operating margins through operational excellence, and investing selectively in product innovation that maintains competitive advantage.
+Kodak's post-bankruptcy strategy trades scale for profitability—operating smaller revenue bases but with disciplined capital deployment and focus on higher-margin, specialized products rather than scale-driven commodity markets. Manufacturing digital printing systems, specialty chemicals, and advanced materials is capital-intensive; returns on invested capital depend on achieving strong utilization of manufacturing assets, managing [operating margins](/operating-margin/) through operational excellence, and investing selectively in product innovation that maintains competitive advantage.
 
 The firm's historical profitability in film derived partly from scale (billions of rolls sold annually) and partly from the limited competition—Fujifilm was the main rival. Post-bankruptcy Kodak operates in more competitive markets with lower absolute profitability, requiring disciplined cost management and strategic focus to achieve acceptable returns.
 
@@ -53,7 +53,7 @@ However, the market for Kodak's core competencies—specialized imaging, materia
 
 ## Strategic Options and Long-Term Viability
 
-Kodak faces persistent strategic questions. The firm could pursue organic growth through innovation in emerging imaging applications, Internet-of-Things sensors, medical imaging, or other domains where imaging or materials science create value. It could pursue acquisition to diversify or expand scale in adjacent markets. Or it could continue as a modest, profitable, dividend-paying company serving niche markets where its competencies remain relevant.
+Kodak faces persistent strategic questions. The firm could pursue organic growth through innovation in emerging imaging applications, Internet-of-Things sensors, medical imaging, or other domains where imaging or materials science create value. It could pursue [acquisition](/acquisition/) to diversify or expand scale in adjacent markets. Or it could continue as a modest, profitable, dividend-paying company serving niche markets where its competencies remain relevant.
 
 The firm's financial strategy has reflected the latter approach: maintaining positive operating cash flow, returning capital to shareholders through buybacks and modest dividends, and reinvesting selectively in product innovation. This is a stable equilibrium for a firm of Kodak's size and market position, but does not constitute a growth story.
 

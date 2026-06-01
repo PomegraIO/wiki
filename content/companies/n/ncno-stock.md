@@ -25,7 +25,7 @@ nCino accumulates years of lending data and borrower information within its syst
 
 ## Regulatory and Compliance Lock-In
 
-Banks operate under intense regulatory scrutiny. nCino's platform is built with compliance features—anti-money laundering (AML) checks, fraud detection, regulatory reporting, and lending practice adherence—that meet evolving banking rules. When regulations change, nCino updates the platform; banks receive the updates automatically. Moving to a competitor would require reassessing whether the new system meets all regulatory requirements, involving legal and compliance reviews that slow any migration. Regulators themselves may have audited the bank's use of nCino and documented it in examination records, making a switch visible to regulatory bodies and thus subject to additional scrutiny. This creates regulatory friction that protects nCino's installed base.
+Banks operate under intense regulatory scrutiny. nCino's platform is built with compliance features—[anti-money laundering](/anti-money-laundering/) (AML) checks, fraud detection, regulatory reporting, and lending practice adherence—that meet evolving banking rules. When regulations change, nCino updates the platform; banks receive the updates automatically. Moving to a competitor would require reassessing whether the new system meets all regulatory requirements, involving legal and compliance reviews that slow any migration. Regulators themselves may have audited the bank's use of nCino and documented it in examination records, making a switch visible to regulatory bodies and thus subject to additional scrutiny. This creates regulatory friction that protects nCino's installed base.
 
 ## Customization Depth and Stickiness
 
@@ -41,7 +41,7 @@ nCino faces several categories of competition. Large financial software incumben
 
 ## Market Concentration and Customer Leverage
 
-nCino's customer base includes large regional and community banks but also larger institutions. Concentration risk is meaningful: a single large bank account represents material revenue, and if that customer consolidates vendor relationships or replaces nCino as part of a broader technology overhaul, the impact is severe. The company's moat is strongest with smaller, less sophisticated institutions that lack the internal resources to build competing systems or leverage point solutions independently.
+nCino's customer base includes large regional and community banks but also larger institutions. [Concentration risk](/concentration-risk/) is meaningful: a single large bank account represents material revenue, and if that customer consolidates vendor relationships or replaces nCino as part of a broader technology overhaul, the impact is severe. The company's moat is strongest with smaller, less sophisticated institutions that lack the internal resources to build competing systems or leverage point solutions independently.
 
 ## How to Research nCino
 

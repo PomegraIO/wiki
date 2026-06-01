@@ -18,7 +18,7 @@ The company's origins trace to the 1880s when inventor J.P. Leggett and entrepre
 
 The company operates across four major business segments, each substantial in its own right but collectively dependent on the shared infrastructure and management discipline that the parent company provides.
 
-**Bedding** remains a foundation. The segment supplies innersprings, bases, and mechanical components to mattress makers. As consumers replaced traditional spring mattresses with foam and hybrid designs, Leggett & Platt adapted by offering components for those products as well—adjustable bases, foam, and mechanical features that add functionality to modern beds. Customers include major mattress brands, as well as retailers like Bed Bath & Beyond who source components for private-label products.
+**Bedding** remains a foundation. The segment supplies innersprings, bases, and mechanical components to mattress makers. As consumers replaced traditional spring mattresses with foam and hybrid designs, Leggett & Platt adapted by offering components for those products as well—adjustable bases, foam, and mechanical features that add functionality to modern beds. Customers include major mattress brands, as well as retailers like [Bed Bath & Beyond](/bbby-stock/) who source components for private-label products.
 
 **Furniture** encompasses mechanisms and components for upholstered and case goods furniture. The company produces recliner mechanisms, sofa frames, lumbar support systems, and other functional elements that furniture makers assemble into finished pieces. This business serves both branded manufacturers and large retailers operating on low margins that depend on cost-efficient supply chains.
 

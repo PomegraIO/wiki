@@ -16,7 +16,7 @@ keywords: ["consulting", "IT services", "advisory", "business services", "CIK 13
 
 ## The Billable Hour and Utilization: Consulting's Core Economics
 
-Information Services Group operates on the professional services model: the company deploys skilled people—consultants, architects, subject-matter experts—to client sites or engagements and bills for their time. Revenue is essentially headcount multiplied by hourly or daily rate. A senior consultant billed at $250/hour, working 40 hours per week, 50 weeks per year, generates $500,000 in annual revenue to the firm. If the fully loaded cost (salary, benefits, overhead allocation) is $300,000, the gross margin is 40%.
+Information Services Group operates on the professional services model: the company deploys skilled people—consultants, architects, subject-matter experts—to client sites or engagements and bills for their time. Revenue is essentially headcount multiplied by hourly or daily rate. A senior consultant billed at $250/hour, working 40 hours per week, 50 weeks per year, generates $500,000 in annual revenue to the firm. If the fully loaded cost (salary, benefits, [overhead allocation](/overhead-allocation/)) is $300,000, the gross margin is 40%.
 
 That margin structure is the foundation of III's business. [Gross margin](/gross-profit-margin/) in professional services is mathematically determined by the average bill rate and the average cost per consultant. III can improve margin by either raising bill rates or lowering cost per consultant. Raising rates requires having consultants in high-demand specialties (cloud architects, AI engineers, cybersecurity experts); lowering costs means optimizing staffing ratios, reducing overhead, or shifting work to lower-cost geographies (offshore, nearshore, or smaller US metros).
 
@@ -34,13 +34,13 @@ III breaks revenue into three consulting categories, each with different margin 
 
 ## The Competitive Landscape and Pricing Pressure
 
-III competes in a crowded market: Deloitte, Accenture, McKinsey, IBM, and dozens of smaller boutique firms all offer similar services. The market is bifurcated. Accenture and Deloitte have such scale and brand that they command premium bill rates and win massive transformation contracts. Boutiques with deep expertise in narrow domains (security, SAP, cloud migration) compete on specialization. Mid-market firms like III live in the middle, competing on combination of scale (enough resources to field large teams), specialization (pockets of deep expertise in high-value areas), and agility (faster than the giants, cheaper than boutiques).
+III competes in a crowded market: Deloitte, [Accenture](/acn-stock/), McKinsey, IBM, and dozens of smaller boutique firms all offer similar services. The market is bifurcated. Accenture and Deloitte have such scale and brand that they command premium bill rates and win massive transformation contracts. Boutiques with deep expertise in narrow domains (security, SAP, cloud migration) compete on specialization. Mid-market firms like III live in the middle, competing on combination of scale (enough resources to field large teams), specialization (pockets of deep expertise in high-value areas), and agility (faster than the giants, cheaper than boutiques).
 
 Pricing pressure is constant. Clients benchmark consulting costs and demand discounts; offshore alternatives (Infosys, TCS, Cognizant) undercut rates on labor-heavy work. III responds by emphasizing outcomes (cost reduction, faster time-to-market) rather than hours delivered, moving toward fixed-fee and outcome-based pricing, and sharpening specialization.
 
 ## The Utilization Trap and Recurring Revenue
 
-The biggest structural risk to III's margins is utilization collapse. If client demand weakens and billable utilization drops 5–10 percentage points industry-wide, III's margins contract sharply because headcount costs are sticky. The company cannot instantly cut people; it must carry bench (unallocated consultants) and hope demand rebounds. During the 2020 COVID recession, consulting demand fell sharply, utilization dropped, and many consulting firms posted negative earning surprises.
+The biggest structural risk to III's margins is utilization collapse. If client demand weakens and billable utilization drops 5–10 percentage points industry-wide, III's margins contract sharply because headcount costs are sticky. The company cannot instantly cut people; it must carry bench (unallocated consultants) and hope demand rebounds. During the 2020 COVID [recession](/recession/), consulting demand fell sharply, utilization dropped, and many consulting firms posted negative earning surprises.
 
 To hedge utilization risk, III has invested in managed services and retainer-based advisory, which generate revenue less dependent on billable hours. But these segments are slower-growing and lower-margin, so the strategic tradeoff is real.
 

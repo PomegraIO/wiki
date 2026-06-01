@@ -33,7 +33,7 @@ But patent moats are weaker than they appear. Competitors can develop follow-on 
 
 Patent expirations also create vulnerability. Once Jade's patents expire, competitors can develop generic or biosimilar versions of the drug, driving prices down and eroding revenues. Large pharmaceutical companies manage this by developing a pipeline of succeeding molecules; small biotech companies like Jade must do the same or face declining businesses.
 
-The competitive landscape for IP is also shaped by licensing and acquisition. Jade might license IP from universities or research institutions, giving it options to develop certain molecules. But competitors are licensing from the same institutions. Jade might acquire IP by buying smaller biotech companies or licensing rights from larger firms. But this is expensive and puts Jade in debt or dilutes shareholders through equity issuance.
+The competitive landscape for IP is also shaped by licensing and [acquisition](/acquisition/). Jade might license IP from universities or research institutions, giving it options to develop certain molecules. But competitors are licensing from the same institutions. Jade might acquire IP by buying smaller biotech companies or licensing rights from larger firms. But this is expensive and puts Jade in debt or dilutes shareholders through equity issuance.
 
 ## Clinical Trial Competition and Risk
 

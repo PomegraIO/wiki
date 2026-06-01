@@ -12,7 +12,7 @@ keywords:
 handwritten: true
 ---
 
-*"The GPCR [target](/tgt-stock/) space has barely been scratched" — the wager behind Protagonist is that engineered peptides and small molecules targeting a well-understood protein family can unlock treatments in inflammation and metabolism that conventional drugs have missed.*
+*"The GPCR target space has barely been scratched" — the wager behind Protagonist is that engineered peptides and small molecules targeting a well-understood protein family can unlock treatments in inflammation and metabolism that conventional drugs have missed.*
 
 Protagonist Therapeutics is a clinical-stage biopharmaceutical firm founded in 2006 with a narrow and defensible focus: molecules that modulate G-protein-coupled receptors (GPCRs), among the most extensively studied protein targets in pharmacology. The firm's pipeline includes candidates for inflammatory bowel disease, fibrocystic breast disease, and metabolic conditions. It has advanced two lead programs through Phase 2 clinical trials, a stage where Phase 3 cost and risk begin to mount sharply.
 

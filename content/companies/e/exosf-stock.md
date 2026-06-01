@@ -33,7 +33,7 @@ France invests in its own space agency (CNES), which buys sensors for satellites
 
 ## Why ADRs?
 
-Exosens is organized under French law. Its shares trade on French and European exchanges. To make those shares accessible to U.S. investors and brokers, an intermediary—usually a U.S. bank—holds the underlying shares and issues American Depositary Receipts (ADRs) that trade in the U.S. The ADR represents a claim on the underlying share. If an ADR holder wants French shares, they can convert; if a French shareholder wants U.S. liquidity, they can do the reverse.
+Exosens is organized under French law. Its shares trade on French and European exchanges. To make those shares accessible to U.S. investors and [brokers](/broker/), an intermediary—usually a U.S. bank—holds the underlying shares and issues [American Depositary Receipts](/adr/) (ADRs) that trade in the U.S. The ADR represents a claim on the underlying share. If an ADR holder wants French shares, they can convert; if a French shareholder wants U.S. liquidity, they can do the reverse.
 
 This structure means EXOSF trades in smaller volumes than the French listing. U.S. investors often don't know the stock exists. The SEC filing requirement (via CIK 2109666) means financial information is publicly available in English, but the company doesn't file quarterly 10-Q reports the way U.S. firms do—it reports under French and IFRS standards. A researcher needs to find the official filings on the company website or French regulatory databases.
 

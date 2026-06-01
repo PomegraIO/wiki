@@ -39,7 +39,7 @@ A patient investor does not follow daily news or guess about insider sentiment. 
 
 ## Biotech sector patterns
 
-Compass is one of hundreds of biotech companies trading publicly. Some are pre-revenue, some are profitable from a single approved drug, and some are cash burners with abandoned pipelines. The sector as a whole is not uniformly exposed to economic cycles; drug development does not pause in recessions. But biotech [valuations](/price-to-earnings-ratio/) swing sharply on trial outcomes, FDA approvals, and capital availability. In tight credit markets, biotech companies with limited cash runway feel pressure first. Compass's fortunes depend on its own pipeline and fundraising, not on GDP growth. That makes it a bet on execution and scientific merit, not on the broad economy.
+Compass is one of hundreds of biotech companies trading publicly. Some are pre-revenue, some are profitable from a single approved drug, and some are cash burners with abandoned pipelines. The sector as a whole is not uniformly exposed to economic cycles; drug development does not pause in [recessions](/recession/). But biotech [valuations](/price-to-earnings-ratio/) swing sharply on trial outcomes, FDA approvals, and capital availability. In tight credit markets, biotech companies with limited cash runway feel pressure first. Compass's fortunes depend on its own pipeline and fundraising, not on GDP growth. That makes it a bet on execution and scientific merit, not on the broad economy.
 
 ## Moat, or lack thereof
 

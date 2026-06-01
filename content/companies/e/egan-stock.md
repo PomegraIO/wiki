@@ -27,7 +27,7 @@ EGAIN's secondary moat depends on data accumulated from interactions processed t
 
 ## Technology velocity as erosion factor
 
-EGAIN's moat is eroded, not protected, by rapid technology change. Generative language models, real-time sentiment analysis, and automation capabilities shift so quickly that a two-year-old deployment may lag state-of-the-art significantly. That acceleration forces EGAIN to innovate continuously, spending heavily on R&D just to maintain parity. Competitors backed by larger cloud infrastructure companies—Amazon Connect, Microsoft Teams integration, Google Cloud Contact Center—can bundle customer-engagement tools as loss leaders and absorb R&D costs across a broader platform. EGAIN, by contrast, must justify its entire cost base through its own revenue.
+EGAIN's moat is eroded, not protected, by rapid technology change. Generative language models, real-time sentiment analysis, and automation capabilities shift so quickly that a two-year-old deployment may lag state-of-the-art significantly. That acceleration forces EGAIN to innovate continuously, spending heavily on R&D just to maintain parity. Competitors backed by larger cloud infrastructure companies—Amazon Connect, [Microsoft](/msft-stock/) Teams integration, Google Cloud Contact Center—can bundle customer-engagement tools as loss leaders and absorb R&D costs across a broader platform. EGAIN, by contrast, must justify its entire cost base through its own revenue.
 
 ## Distribution and relationship dependence
 

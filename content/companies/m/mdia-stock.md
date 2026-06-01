@@ -19,7 +19,7 @@ keywords: ["broadcast media", "television", "radio", "advertising revenue", "con
 
 Mediaco's core revenue comes from selling advertising time in programs broadcast to its local market. A 30-second spot during prime-time news or a popular game show commands a higher rate than 3 a.m. infomercial time. Rates scale with audience size, demographics (advertisers pay premiums for audiences in high-income markets), and seasonality (automotive and retail advertising spike in Q4).
 
-The second revenue leg is carriage fees: cable and satellite distributors (Comcast, Charter, DirecTV) must carry Mediaco's signals by law or competitive necessity, and they pay per-subscriber fees to do so. In markets where Mediaco owns the primary local broadcast station, carriage fees are mandatory and significant; in markets with less dominant positioning, fees may be lower or subject to renegotiation.
+The second revenue leg is carriage fees: cable and satellite distributors ([Comcast](/cmcsa-stock/), Charter, DirecTV) must carry Mediaco's signals by law or competitive necessity, and they pay per-subscriber fees to do so. In markets where Mediaco owns the primary local broadcast station, carriage fees are mandatory and significant; in markets with less dominant positioning, fees may be lower or subject to renegotiation.
 
 These two legs have opposing trends. Advertising revenue has declined for decades as viewership fragments and consumers shift to streaming and digital media; audiences for traditional broadcast are older and smaller than they were a generation ago. Carriage fees, conversely, have grown as Mediaco and other broadcasters have leveraged scarcity—local broadcast is still a must-have service bundle for many cable subscribers—but growth has slowed as cord-cutting accelerates.
 
@@ -35,18 +35,18 @@ General entertainment programming (game shows, talk shows, reruns) is cheaper to
 
 Broadcast operations have high fixed costs and low variable costs. Once the news studio is built, the transmitter is installed, and the technical staff is hired, adding an extra newscast or commercial block requires minimal incremental spending. This means that small swings in audience (and thus advertising volume) can create large swings in profit.
 
-If advertising revenue falls 10% but content and transmission costs are 80% fixed, operating income might fall 30–40%, creating acute earnings volatility. This dynamic makes broadcast companies sensitive to economic cycles; in recessions, advertising budgets are among the first to be cut, and Mediaco's earnings can compress rapidly.
+If advertising revenue falls 10% but content and transmission costs are 80% fixed, operating income might fall 30–40%, creating acute earnings volatility. This dynamic makes broadcast companies sensitive to economic cycles; in [recessions](/recession/), advertising budgets are among the first to be cut, and Mediaco's earnings can compress rapidly.
 
 ## Audience Fragmentation and Secular Decline
 
-Over the past two decades, broadcast television audience has shrunk as viewers migrate to streaming (Netflix, Disney+, YouTube) and digital platforms. This secular trend is structural and not easily reversed. Younger audiences rarely watch traditional broadcast; older demographics still represent most viewing, but that cohort ages and eventually leaves the audience base.
+Over the past two decades, broadcast television audience has shrunk as viewers migrate to streaming ([Netflix](/nflx-stock/), Disney+, YouTube) and digital platforms. This secular trend is structural and not easily reversed. Younger audiences rarely watch traditional broadcast; older demographics still represent most viewing, but that cohort ages and eventually leaves the audience base.
 
 Mediaco must manage declining audience by:
 1. **Reducing content costs** — cutting news hours, eliminating underperforming programs
 2. **Raising advertising rates** — attempting to offset volume loss with higher rates to remaining viewers, though this risks further viewership loss if rates become uncompetitive
 3. **Diversifying revenue** — expanding digital offerings, building subscription platforms, licensing content
 
-Many broadcasters have attempted digital and streaming strategies with mixed success. A streaming service requires entirely different economics—subscriber acquisition cost, platform hosting, content licensing—and typically operates at a loss while building a base. Mediaco faces the dual challenge of defending legacy broadcast revenues while investing in uncertain digital futures.
+Many broadcasters have attempted digital and streaming strategies with mixed success. A streaming service requires entirely different economics—subscriber [acquisition](/acquisition/) cost, platform hosting, content licensing—and typically operates at a loss while building a base. Mediaco faces the dual challenge of defending legacy broadcast revenues while investing in uncertain digital futures.
 
 ## Carriage Fee Renegotiations and Industry Leverage
 
@@ -56,7 +56,7 @@ A renegotiation might see carriage fees hold flat or grow modestly, but increasi
 
 ## Cost Structure and Margin Defense
 
-Mediaco's gross margin (revenue minus direct content and transmission costs) is likely 60–75%, but operating margin (after corporate overhead, selling costs, and depreciation) is much tighter—often 15–25%, depending on scale and cost discipline. The company's profitability is thus highly sensitive to the revenue mix and pricing power of both advertising and carriage.
+Mediaco's gross margin (revenue minus direct content and transmission costs) is likely 60–75%, but [operating margin](/operating-margin/) (after corporate overhead, selling costs, and [depreciation](/depreciation/)) is much tighter—often 15–25%, depending on scale and cost discipline. The company's profitability is thus highly sensitive to the revenue mix and pricing power of both advertising and carriage.
 
 In strong markets with dominant positions, Mediaco can defend margins; in weak markets or consolidated regions where corporate parent has many stations and overhead is allocated across them, margins are thinner.
 
@@ -64,7 +64,7 @@ In strong markets with dominant positions, Mediaco can defend margins; in weak m
 
 <div class="wiki-seealso">
 ### Closely related
-- [Dividend yield](/dividend-yield/) (traditional media has used dividend as shareholder return)
+- [Dividend yield](/dividend-yield/) (traditional media has used [dividend](/dividend/) as shareholder return)
 - [Enterprise value](/enterprise-value/) (valuation of declining revenue bases)
 
 ### Wider context

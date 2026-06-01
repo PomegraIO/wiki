@@ -42,13 +42,13 @@ This author relationship portfolio required constant curation. Successful author
 
 Hachette's dominance in French publishing did not automatically extend to English-language markets. The company's acquisition strategy included acquiring or founding imprints in Britain and other English-speaking markets, but these remained secondary to its French base. This created a persistent strategic question: how does a French company operate competitively in English-language publishing against British and American publishers with home-market advantages?
 
-Hachette addressed this through acquisitions of established English-language publishers, creating Hachette Book Group as a U.S. and UK-focused subsidiary. But managing a multinational publishing company with distinct regional markets, separate distribution systems, and separate author and retail relationships required substantial coordination and capitalization. Translation rights, simultaneous publication windows, and author relationship management across regions added complexity.
+Hachette addressed this through [acquisitions](/acquisition/) of established English-language publishers, creating Hachette Book Group as a U.S. and UK-focused subsidiary. But managing a multinational publishing company with distinct regional markets, separate distribution systems, and separate author and retail relationships required substantial coordination and capitalization. Translation rights, simultaneous publication windows, and author relationship management across regions added complexity.
 
 ## The Digital Transition and Format Contestation
 
 Like traditional publishers globally, Hachette faced fundamental disruption from digital reading and self-publishing platforms beginning in the 2000s. E-books, audiobooks, and digital distribution channels threatened the role of traditional publishers in bringing authors to readers. Hachette's response involved simultaneous investment in digital formats, aggressive defense of author relationships against self-publishing disruption, and pricing strategies to protect the value of backlist content as formats shifted.
 
-The company invested in digital publishing capabilities, audiobook production, and direct digital distribution. But these investments required new skills distinct from traditional print publishing, and they imposed margin pressure as consumers and retailers expected lower prices for digital editions than print books. Hachette had to maintain profitability in a traditional print business still generating substantial revenue while investing in digital formats with uncertain unit economics.
+The company invested in digital publishing capabilities, audiobook production, and [direct digital](/drct-stock/) distribution. But these investments required new skills distinct from traditional print publishing, and they imposed margin pressure as consumers and retailers expected lower prices for digital editions than print books. Hachette had to maintain profitability in a traditional print business still generating substantial revenue while investing in digital formats with uncertain unit economics.
 
 ## The Distribution Moat
 

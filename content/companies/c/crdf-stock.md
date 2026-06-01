@@ -37,7 +37,7 @@ Biotechs depend on patent protections to justify valuations and create market ex
 
 ## Liquidity and Market Awareness
 
-As a smaller-cap [Nasdaq](/nasdaq/) name, Cardiff faces liquidity constraints relative to large-cap peer firms. Trading volume may be light, widening bid-ask spreads; large shareholders or insiders may face illiquidity when seeking to exit. The broader investor base aware of Cardiff is narrower than for mega-cap pharma, meaning news or trial results can trigger sharp price swings as sentiment shifts among a smaller pool of active traders. Volatility inherent to smaller equity markets affects both upside and downside.
+As a smaller-cap [Nasdaq](/nasdaq/) name, Cardiff faces liquidity constraints relative to large-cap peer firms. Trading volume may be light, widening [bid-ask spreads](/bid-ask-spread/); large shareholders or insiders may face illiquidity when seeking to exit. The broader investor base aware of Cardiff is narrower than for mega-cap pharma, meaning news or trial results can trigger sharp price swings as sentiment shifts among a smaller pool of active traders. Volatility inherent to smaller equity markets affects both upside and downside.
 
 ## Strategic Dependency and Partnerships
 

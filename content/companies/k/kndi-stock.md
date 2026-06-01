@@ -10,7 +10,7 @@ keywords:
   - market-timing
 ---
 
-*[Kandi Technologies Group, Inc.](/kndi-stock/) is a Chinese electric vehicle manufacturer that files with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1720250 and trades on the NASDAQ under ticker KNDI. Like many Chinese automotive startups seeking US market presence, Kandi operates in a capital-intensive industry characterized by rapid technological obsolescence and intense competition, where sustainable competitive moats are difficult to establish.*
+*[Kandi Technologies Group, Inc.](/kndi-stock/) is a Chinese electric vehicle manufacturer that files with the [Securities and Exchange Commission](/securities-and-exchange-commission/) under CIK 1720250 and trades on the [NASDAQ](/nasdaq/) under ticker KNDI. Like many Chinese automotive startups seeking US market presence, Kandi operates in a capital-intensive industry characterized by rapid technological obsolescence and intense competition, where sustainable competitive moats are difficult to establish.*
 
 <aside class="wiki-infobox">
 <table>
@@ -69,7 +69,7 @@ Kandi's business model may be overly dependent on subsidies that reduce the effe
 
 ## Lack of Horizontal Integration or Adjacent Offerings
 
-Unlike larger automotive groups that produce ICE and EV vehicles across multiple brands and price points, Kandi appears focused on a narrower product range. This specialization means the company lacks the profit diversification and customer relationships that come from offering a full portfolio. A consumer buying a luxury EV may overlook Kandi because the company doesn't offer vehicles at that price point; conversely, a consumer who loves a Kandi compact EV may not have higher-end options from Kandi when they want to upgrade.
+Unlike larger automotive groups that produce ICE and EV vehicles across multiple brands and price points, Kandi appears focused on a narrower product range. This specialization means the company lacks the profit [diversification](/diversification/) and customer relationships that come from offering a full portfolio. A consumer buying a luxury EV may overlook Kandi because the company doesn't offer vehicles at that price point; conversely, a consumer who loves a Kandi compact EV may not have higher-end options from Kandi when they want to upgrade.
 
 A moat based on horizontal integration—the ability to cross-sell customers across product lines and price points—requires the kind of portfolio breadth that Kandi currently lacks. Building that breadth requires additional capital investment and strategic focus that may be beyond the company's current capacity.
 

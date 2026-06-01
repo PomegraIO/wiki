@@ -4,7 +4,7 @@ description: "Specialty pharmaceutical company; US-listed developer and commerci
 keywords: ["pharmaceuticals", "specialty drugs", "drug development", "niche markets", "US public company"]
 ---
 
-*Reading **ELITE PHARMACEUTICALS INC** (ELTP) as a balance-sheet investor means grasping the paradox of a pharmaceutical company: significant intangible assets in drug approvals and intellectual property, offset by long-term uncertainty about revenue realization and the risk of pipeline failures that wipe out balance sheet value.*
+*Reading **ELITE PHARMACEUTICALS INC** (ELTP) as a balance-sheet investor means grasping the paradox of a pharmaceutical company: significant [intangible assets](/intangible-assets/) in drug approvals and intellectual property, offset by long-term uncertainty about revenue realization and the risk of pipeline failures that wipe out balance sheet value.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>ELTP</td></tr>
@@ -31,17 +31,17 @@ Specialty pharmaceuticals—products for rare diseases, pediatric conditions, or
 
 Pharmaceutical development is extremely capital-intensive. Bringing a new drug from discovery to FDA approval costs hundreds of millions of dollars and takes 10–15 years. Most of this cost is expensed immediately; it does not appear on the balance sheet as an asset. Only successfully approved drugs, or drugs acquired from other companies, appear as capitalized intangible assets.
 
-Elite's balance sheet shows R&D expense on the income statement (reducing reported profit) but not usually as a capitalized asset. This creates an accounting disconnect: a company spending 30 million dollar annually on R&D may show only modest intangible assets on the balance sheet if most development fails or is still in progress. Conversely, a company that acquires approved products from other companies will show those acquisitions as balance sheet assets (goodwill and intangibles).
+Elite's balance sheet shows R&D expense on the [income statement](/income-statement/) (reducing reported profit) but not usually as a capitalized asset. This creates an accounting disconnect: a company spending 30 million dollar annually on R&D may show only modest intangible assets on the balance sheet if most development fails or is still in progress. Conversely, a company that acquires approved products from other companies will show those [acquisitions](/acquisition/) as balance sheet assets (goodwill and intangibles).
 
 ## Inventory and Manufacturing Assets
 
 Unlike a large pharmaceutical manufacturer that owns factories, Elite Pharmaceuticals likely contracts manufacturing to specialized drug producers (contract manufacturers or CMOs). The balance sheet carries inventory of finished products and raw materials, but limited property, plant, and equipment.
 
-Specialty pharmaceutical inventory can be problematic. If a product is discontinued or fails to sell as expected, inventory becomes obsolete. Elite must write down the value, reducing reported earnings and equity. For older or unpopular products, inventory may be stated at a markdown to fair value or fully reserved.
+Specialty pharmaceutical inventory can be problematic. If a product is discontinued or fails to sell as expected, inventory becomes obsolete. Elite must write down the value, reducing reported earnings and equity. For older or unpopular products, inventory may be stated at a markdown to [fair value](/fair-value/) or fully reserved.
 
 ## Accounts Receivable and Customer Concentration
 
-Elite's customers are pharmacies, hospitals, and specialty pharmacy distributors. Major pharmaceutical wholesalers (pharmacies have consolidation pressures) can represent large percentages of revenue. This creates accounts receivable concentration: a single large customer invoice outstanding might be 10–20% of total accounts receivable.
+Elite's customers are pharmacies, hospitals, and specialty pharmacy distributors. Major pharmaceutical wholesalers (pharmacies have consolidation pressures) can represent large percentages of revenue. This creates [accounts receivable](/accounts-receivable/) concentration: a single large customer invoice outstanding might be 10–20% of total accounts receivable.
 
 Pharmaceutical customers generally pay reliably, but they also demand pricing incentives and rebates. The balance sheet's revenue line is often stated net of rebates and discounts, but the accrual for future rebates is a liability that must be estimated. If rebate estimates are too low, Elite faces a catch-up charge in a subsequent quarter.
 
@@ -53,7 +53,7 @@ A balance-sheet reader checks whether goodwill is growing (a sign of acquisition
 
 ## Patent Portfolios and Exclusivity Periods
 
-Elite's 10-K discloses its product portfolio and patent expiration dates. This is critical information. A drug losing patent protection faces a sharp margin decline as generics enter. Elite must quantify how much revenue each major product generates and when its patent protection expires. A company with a major drug facing generic entry in 18 months and no approved successor faces a significant balance sheet challenge.
+Elite's 10-K discloses its product portfolio and patent [expiration dates](/expiration-contracts/). This is critical information. A drug losing patent protection faces a sharp margin decline as generics enter. Elite must quantify how much revenue each major product generates and when its patent protection expires. A company with a major drug facing generic entry in 18 months and no approved successor faces a significant balance sheet challenge.
 
 Patent extensions—regulatory periods of exclusivity for pediatric testing or rare disease indications—can add years to market protection. Elite's balance sheet reader must identify whether the company has these extensions and how they extend the runway for current products.
 
@@ -61,11 +61,11 @@ Patent extensions—regulatory periods of exclusivity for pediatric testing or r
 
 A pharmaceutical company may carry debt from acquisitions or to fund R&D. Elite's balance sheet shows the debt structure and maturity profile. For a specialty pharma company with modest revenue, high debt can be dangerous: if a key product is pulled from the market due to safety issues, revenue collapses and the company cannot service its debt.
 
-Pharmaceutical companies typically target investment-grade debt ratings or accept higher-cost equity financing if debt is unavailable. Elite's balance sheet reader assesses whether leverage is conservative (leaving room for adverse events) or aggressive (risky if product performance deteriorates).
+Pharmaceutical companies typically target investment-grade debt ratings or accept higher-cost [equity financing](/equity-financing/) if debt is unavailable. Elite's balance sheet reader assesses whether leverage is conservative (leaving room for adverse events) or aggressive (risky if product performance deteriorates).
 
 ## Cash Flows and Profitability
 
-A pharmaceutical company with positive operating cash flows and modest profitability has a sustainable balance sheet. One with negative operating cash flows—burning cash faster than it generates it—faces a maturity date: it must either become cash-positive or raise new capital. The 10-K's cash flow statement shows whether Elite is self-funding or relying on equity raises.
+A pharmaceutical company with positive operating cash flows and modest profitability has a sustainable balance sheet. One with negative operating cash flows—burning cash faster than it generates it—faces a maturity date: it must either become cash-positive or raise new capital. The 10-K's [cash flow statement](/cash-flow-statement/) shows whether Elite is self-funding or relying on equity raises.
 
 For a micro-cap specialty pharma company like Elite, sustained cash burns raise questions about viability. If the company has fewer than three years of cash runway and no major product approvals expected, the balance sheet is a ticking clock.
 
@@ -75,9 +75,9 @@ The FDA can require label changes, additional clinical trials, or product withdr
 
 ## Shareholder Equity and Dilution
 
-Elite's equity section shows the number of shares outstanding and accumulated retained earnings or accumulated deficit. A company with cumulative losses and a thin equity cushion is vulnerable. Any adverse news—a failed clinical trial, lost customer, competitive price pressure—can wipe out book value per share.
+Elite's equity section shows the number of shares outstanding and accumulated [retained earnings](/retained-earnings/) or accumulated deficit. A company with cumulative losses and a thin equity cushion is vulnerable. Any adverse news—a failed clinical trial, lost customer, competitive price pressure—can wipe out book value per share.
 
-Share dilution is also relevant. If Elite has issued many stock options to employees and investors, future option exercises will dilute existing shareholders. The 10-K discloses diluted share count and the effect of in-the-money options.
+[Share dilution](/share-dilution/) is also relevant. If Elite has issued many stock options to employees and investors, future option exercises will dilute existing shareholders. The 10-K discloses diluted share count and the effect of in-the-money options.
 
 ## The Durability Question
 

@@ -4,7 +4,7 @@ description: "A hydroponics and indoor-farming equipment supplier carved into th
 keywords: [hydroponics, indoor-farming, cannabis-adjacent, agricultural-equipment, e-commerce]
 ---
 
-*iPower Inc. (NASDAQ: **IPW**) is a hardware supplier focused on hydroponics, grow lights, ventilation, and nutrients for indoor agriculture, with its revenue concentrated in cannabis cultivation facilities and advanced hobby horticulture rather than traditional field crops or food-services distribution.*
+*iPower Inc. ([NASDAQ](/nasdaq/): **IPW**) is a hardware supplier focused on hydroponics, grow lights, ventilation, and nutrients for indoor agriculture, with its revenue concentrated in cannabis cultivation facilities and advanced hobby horticulture rather than traditional field crops or food-services distribution.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ The primary competitive set for iPower includes other hydroponic-focused distrib
 
 ## Revenue Concentration and Market Volatility
 
-iPower's customer base is geographically skewed and policy-sensitive. The legality and profitability of cannabis cultivation varies wildly by state regulation, enforcement climate, and wholesale-price movements. A state that legalizes home cultivation overnight can flood iPower's market with consumer demand; conversely, overproduction or price collapse in a state's cannabis market can dry up its cultivation customers' capex budgets for new equipment. This concentration risk is acute and unique to iPower's model. A diversified agricultural-equipment company spreads risk across geographies, crops, and farm sizes. iPower's revenue swings with the legalization calendar and commodity-cannabis prices.
+iPower's customer base is geographically skewed and policy-sensitive. The legality and profitability of cannabis cultivation varies wildly by state regulation, enforcement climate, and wholesale-price movements. A state that legalizes home cultivation overnight can flood iPower's market with consumer demand; conversely, overproduction or price collapse in a state's cannabis market can dry up its cultivation customers' capex budgets for new equipment. This [concentration risk](/concentration-risk/) is acute and unique to iPower's model. A diversified agricultural-equipment company spreads risk across geographies, crops, and farm sizes. iPower's revenue swings with the legalization calendar and commodity-cannabis prices.
 
 ## Product Sourcing and Margin Structure
 

@@ -16,13 +16,13 @@ keywords: [electric utility, regulated utility, power generation, public utility
 
 ## The Regulated Utility Model and Its History
 
-Georgia Power was born into the regulated utility paradigm that emerged in the early 1900s as a political settlement between private companies seeking capital for large infrastructure and cities and states seeking reliable, universal electric service at fair prices. The deal was straightforward: the utility operated as a legal monopoly in a defined geographic territory, guaranteed the right to charge customers enough to cover costs plus a modest, state-approved return on invested capital. In exchange, the utility accepted regulatory oversight, rate caps, service reliability mandates, and the obligation to serve all customers willing to pay.
+Georgia Power was born into the regulated utility paradigm that emerged in the early 1900s as a political settlement between private companies seeking capital for large infrastructure and cities and states seeking reliable, universal electric service at fair prices. The deal was straightforward: the utility operated as a legal monopoly in a defined geographic territory, guaranteed the right to charge customers enough to cover costs plus a modest, state-approved [return on invested capital](/return-on-invested-capital/). In exchange, the utility accepted regulatory oversight, rate caps, service reliability mandates, and the obligation to serve all customers willing to pay.
 
 This arrangement shaped everything about the company's formation and subsequent development. Georgia Power consolidated smaller regional utilities to achieve geographic coverage and economies of scale. The company built generation plants—coal, hydroelectric, nuclear—with the knowledge that its invested capital would be recovered through rates over decades. It built transmission and distribution networks to reach customers across the state. This is not a business optimized for rapid growth or returns-on-capital. It is a business optimized for stability, capital intensity, and long-term planning.
 
 ## Generation Portfolio and Capital Intensity
 
-Georgia Power operates a diverse generation fleet including coal plants, natural gas facilities, nuclear stations, and renewable sources. Each generation category involves different capital requirements, operating lives, and regulatory treatment. Coal plants require decades of depreciation and face regulatory pressure toward retirement. Nuclear plants demand extraordinary capital upfront and extremely long operating lives. Renewables increasingly dominate new capacity additions and reflect both regulatory mandates and shifts in generation economics.
+Georgia Power operates a diverse generation fleet including coal plants, [natural gas](/natural-gas/) facilities, nuclear stations, and renewable sources. Each generation category involves different capital requirements, operating lives, and regulatory treatment. Coal plants require decades of [depreciation](/depreciation/) and face regulatory pressure toward retirement. Nuclear plants demand extraordinary capital upfront and extremely long operating lives. Renewables increasingly dominate new capacity additions and reflect both regulatory mandates and shifts in generation economics.
 
 The company's capital plan spans years. Approving and building a major power plant—or decommissioning an aging one—involves regulatory proceedings that can stretch for years. Customers pay for these investments through rates. Georgia Power does not borrow money to build plants and then hope to sell power above cost; rather, it proposes rate increases to the Georgia Public Service Commission, argues that the investment is necessary and prudent, and if approved, adds the investment to its rate base—the asset value on which it earns its regulated return.
 
@@ -30,13 +30,13 @@ The company's capital plan spans years. Approving and building a major power pla
 
 Georgia Power's service territory encompasses a large portion of Georgia and nearby areas, reaching millions of customers. The customer base is diverse: individual residential customers (the largest group by count but not by revenue), commercial businesses, and large industrial users. Industrial customers, while fewer in number, consume enormous amounts of power and drive utilization of the company's generation and transmission infrastructure.
 
-Revenue varies with weather (hot summers drive air-conditioning load) and economic conditions (industrial demand falls in recessions). The company has limited ability to raise prices absent regulatory approval and cannot easily exit unprofitable customer segments. Instead, it pursues rate designs that balance cost recovery, fairness, and political sustainability.
+Revenue varies with weather (hot summers drive air-conditioning load) and economic conditions (industrial demand falls in [recessions](/recession/)). The company has limited ability to raise prices absent regulatory approval and cannot easily exit unprofitable customer segments. Instead, it pursues rate designs that balance cost recovery, fairness, and political sustainability.
 
 ## The Regulatory Framework and Its Constraints
 
 Georgia Power's entire business model operates within regulatory permission structures. The Georgia Public Service Commission sets rates, approves major capital investments, and oversees service reliability and customer protections. This is not merely a constraint; it is the foundation of the company's investment case.
 
-A regulated utility's profit comes not from innovation, efficiency, or competitive victory, but from regulatory permission to recover costs plus an allowed return percentage. If Georgia Power builds a power plant prudently and the PSC approves it as a rate-base addition, the company earns that return regardless of whether it could run that plant more cheaply than competitors (it has no competitors—that is the point). This framework attracts capital for large, long-lived infrastructure precisely because it removes market risk.
+A regulated utility's profit comes not from innovation, efficiency, or competitive victory, but from regulatory permission to recover costs plus an allowed return percentage. If Georgia Power builds a power plant prudently and the PSC approves it as a rate-base addition, the company earns that return regardless of whether it could run that plant more cheaply than competitors (it has no competitors—that is the point). This framework attracts capital for large, long-lived infrastructure precisely because it removes [market risk](/market-risk/).
 
 ## Transition and Energy Evolution
 
@@ -46,7 +46,7 @@ The transition is capital-intensive and politically complex. Closing a coal plan
 
 ## Dividends and Return on Capital
 
-Regulated utilities typically pay substantial dividends. Investors accept lower growth prospects in exchange for stable, predictable distributions. Georgia Power's dividend reflects the steady-state returns the utility earns on its large asset base. The company does not reinvest most of its earnings; instead, it returns them to shareholders while funding growth and reinvestment through a combination of retained earnings and debt.
+Regulated utilities typically pay substantial dividends. Investors accept lower growth prospects in exchange for stable, predictable distributions. Georgia Power's dividend reflects the steady-state returns the utility earns on its large asset base. The company does not reinvest most of its earnings; instead, it returns them to shareholders while funding growth and reinvestment through a combination of [retained earnings](/retained-earnings/) and debt.
 
 ## Understanding Georgia Power Through SEC Filings
 

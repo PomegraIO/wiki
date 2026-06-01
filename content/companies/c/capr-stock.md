@@ -4,7 +4,7 @@ description: "A clinical-stage biotech focused on regenerative medicine for dege
 keywords: ["biotech", "regenerative medicine", "clinical trials", "cardiovascular", "cell therapy", "development risk"]
 ---
 
-*Publicly traded on Nasdaq, **Capricor Therapeutics (CAPR)** pursues cell-therapy treatments for chronic heart disease and cardiomyopathy, with no approved products generating revenue. The company's survival hinges entirely on clinical trial success and the ability to secure funding for years of development ahead; any setback in efficacy or safety data could render its pipeline worthless, and funding constraints could force termination of programs mid-trial.*
+*Publicly traded on [Nasdaq](/nasdaq/), **Capricor Therapeutics (CAPR)** pursues cell-therapy treatments for chronic heart disease and cardiomyopathy, with no approved products generating revenue. The company's survival hinges entirely on clinical trial success and the ability to secure funding for years of development ahead; any setback in efficacy or safety data could render its pipeline worthless, and funding constraints could force termination of programs mid-trial.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CAPR</td></tr>
@@ -37,7 +37,7 @@ Regenerative medicine and cell therapy are fast-moving fields. Larger [public co
 
 ## Intellectual Property and Patent Expiration
 
-Capricor's competitive position depends on patent protection of its cell-therapy formulations and methods. Patent strength varies, and some key patents may not extend far beyond potential approval, limiting the exclusivity window. If critical patents are invalidated or narrowed in litigation, or if generics or biosimilars emerge, Capricor's marketing exclusivity evaporates. The company's current market cap reflects expectations of many years of protected revenue; early patent expirations or narrow protection would reprogram valuations downward.
+Capricor's competitive position depends on patent protection of its cell-therapy formulations and methods. Patent strength varies, and some key patents may not extend far beyond potential approval, limiting the exclusivity window. If critical patents are invalidated or narrowed in litigation, or if generics or biosimilars emerge, Capricor's marketing exclusivity evaporates. The company's current [market cap](/market-capitalization/) reflects expectations of many years of protected revenue; early patent expirations or narrow protection would reprogram valuations downward.
 
 ---
 

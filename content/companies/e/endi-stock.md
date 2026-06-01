@@ -16,7 +16,7 @@ keywords: ["micro-cap", "liquidity", "emerging company", "execution risk", "smal
 
 ## Illiquidity and Trading Friction
 
-ENDI is a low-volume OTC stock. Bid-ask spreads are often wide, and the number of shares trading daily may be measured in thousands. An investor who owns a meaningful position faces a hard choice: sell slowly (accepting a drawn-out exit and potential price drift) or attempt a large block sale and accept a significant discount. This illiquidity is not a temporary condition—it reflects weak retail interest, no institutional ownership, and minimal analyst attention. In a market stress or liquidity crisis, OTC micro-caps often freeze; even small positions become difficult to exit at any price.
+ENDI is a low-volume OTC stock. [Bid-ask spreads](/bid-ask-spread/) are often wide, and the number of shares trading daily may be measured in thousands. An investor who owns a meaningful position faces a hard choice: sell slowly (accepting a drawn-out exit and potential price drift) or attempt a large block sale and accept a significant discount. This illiquidity is not a temporary condition—it reflects weak retail interest, no institutional ownership, and minimal analyst attention. In a market stress or [liquidity crisis](/liquidity-crisis/), OTC micro-caps often freeze; even small positions become difficult to exit at any price.
 
 For a company, illiquidity in its stock is also a fundraising liability. If ENDI needs capital for operations or growth, issuing stock in a low-volume market requires either major dilution (many new shares at a depressed price) or a strategic investor, both of which entail control considerations and messy dynamics.
 
@@ -36,7 +36,7 @@ Some micro-caps raise capital regularly at depressed valuations, each round dilu
 
 If ENDI is an operating company (not a shell), it has products or services and customers. The risk is that demand for what ENDI sells is unproven or niche. A technology micro-cap may have built an interesting tool but failed to find a scalable customer base. A services firm may operate profitably but at a tiny scale, unable to grow without capital it cannot raise. The firm's unit economics—what each customer or transaction earns the company minus direct costs—may be sound but insufficient to generate a large, sustainable business.
 
-Alternatively, the firm may be in a hyper-competitive or rapidly consolidating sector where a small, under-capitalized competitor is at structural disadvantage. Mega-cap tech firms can out-spend ENDI on R&D and customer acquisition. If ENDI is in a winner-take-most market, it may be slowly losing share or becoming obsolete without obvious symptoms in near-term earnings.
+Alternatively, the firm may be in a hyper-competitive or rapidly consolidating sector where a small, under-capitalized competitor is at structural disadvantage. Mega-cap tech firms can out-spend ENDI on R&D and customer [acquisition](/acquisition/). If ENDI is in a winner-take-most market, it may be slowly losing share or becoming obsolete without obvious symptoms in near-term earnings.
 
 ## Management and Execution Risk
 

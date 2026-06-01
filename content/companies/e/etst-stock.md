@@ -39,7 +39,7 @@ The fourth pressure is **agricultural commoditization and margin compression**. 
 
 ## The Moat's Dependence on Sustained Farmer Adoption
 
-ETST's competitive advantages are **real but contingent**. The data moat and lab infrastructure are valuable only if ETST can maintain and grow its farmer customer base. If adoption plateaus or declines due to economic headwinds (recession reducing farmer spending on discretionary services) or competitive pressure (lower prices from Corteva's competing platform), ETST's fixed costs (lab facilities, staff) create operational drag that narrows margins and threatens sustainability.
+ETST's competitive advantages are **real but contingent**. The data moat and lab infrastructure are valuable only if ETST can maintain and grow its farmer customer base. If adoption plateaus or declines due to economic headwinds ([recession](/recession/) reducing farmer spending on discretionary services) or competitive pressure (lower prices from Corteva's competing platform), ETST's fixed costs (lab facilities, staff) create operational drag that narrows margins and threatens sustainability.
 
 Moreover, ETST operates in a **cyclical industry**. Commodity prices directly influence farmer profitability and spending on technology services. In a period of rising crop prices and farmer confidence, ETST can grow adoption and realize higher prices. In a downturn, farmers cut spending on non-essential services, and ETST faces revenue pressure and churn.
 

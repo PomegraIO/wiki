@@ -4,7 +4,7 @@ description: "An Israeli digital printing and technology firm specializing in ga
 keywords: ["digital printing", "textile technology", "Israel", "growth capital", "industrial equipment", "CIK 1625791"]
 ---
 
-*[Kornit Digital Ltd.](/krnt-stock/) (**KRNT**), a US-listed Israeli company (SEC CIK 1625791), designs and manufactures digital printing systems for the apparel and textile industry. The company's capital structure reflects a mid-scale tech-enabled manufacturer: significant research and development to stay competitive in printing innovation, manufacturing and inventory to support global customers, a mix of [equity](/common-stock/) and [debt](/corporate-bond/) to fund growth, and periodic strategic capital allocation decisions (acquisitions, repurchases) that signal management's confidence in the business. Kornit's financial architecture is a case study in how an industrial-technology company outside the US manufactures and finances sustainable competitive advantage.*
+*[Kornit Digital Ltd.](/krnt-stock/) (**KRNT**), a US-listed Israeli company (SEC CIK 1625791), designs and manufactures digital printing systems for the apparel and textile industry. The company's capital structure reflects a mid-scale tech-enabled manufacturer: significant research and development to stay competitive in printing innovation, manufacturing and inventory to support global customers, a mix of [equity](/common-stock/) and [debt](/corporate-bond/) to fund growth, and periodic strategic capital allocation decisions ([acquisitions](/acquisition/), repurchases) that signal management's confidence in the business. Kornit's financial architecture is a case study in how an industrial-technology company outside the US manufactures and finances sustainable competitive advantage.*
 
 <aside class="wiki-infobox">
 <table>
@@ -27,7 +27,7 @@ This hardware-plus-recurring-revenue model is capital-intensive on the asset sid
 
 Unlike pure software companies, Kornit must source components, assemble machines, and manage supply-chain complexity. This is a capital and operational burden but also a moat: competitors must match not just Kornit's technology but its production efficiency and supply relationships. Kornit likely operates or contracts with manufacturers in Israel and possibly Asia to serve global demand cost-effectively.
 
-This manufacturing footprint affects [working capital](/balance-sheet/). Kornit must carry inventory of components and finished machines, manage supplier payment terms, and forecast demand accurately to avoid excess stock or stockouts. The cash conversion cycle—time from paying suppliers to collecting from customers—is longer than pure software but shorter than capital-intensive industries like oil and gas.
+This manufacturing footprint affects [working capital](/balance-sheet/). Kornit must carry inventory of components and finished machines, manage supplier payment terms, and forecast demand accurately to avoid excess stock or stockouts. The [cash conversion cycle](/cash-conversion-cycle/)—time from paying suppliers to collecting from customers—is longer than pure software but shorter than capital-intensive industries like oil and gas.
 
 ## Customer Financing and Sales Channels
 
@@ -41,7 +41,7 @@ Lenders evaluating KRNT look at cash-conversion metrics, [margins](/operating-ma
 
 ## [Equity](/common-stock/) Raises and Dilution
 
-Kornit's historical share count, visible through SEC filings, reveals its reliance on [equity](/common-stock/) versus [debt](/corporate-bond/) for growth. Israeli tech and industrial companies often go public in the US to access deeper equity markets than available at home. KRNT's [initial public offering](/initial-public-offering/) and any subsequent secondary offerings raised capital for operations and growth. Each issuance dilutes existing [shareholders](/common-stock/), but provides balance-sheet capacity without the debt-service obligations of [corporate bonds](/corporate-bond/).
+Kornit's historical share count, visible through SEC filings, reveals its reliance on [equity](/common-stock/) versus [debt](/corporate-bond/) for growth. Israeli tech and industrial companies often go public in the US to access deeper equity markets than available at home. KRNT's [initial public offering](/initial-public-offering/) and any subsequent [secondary offerings](/secondary-offering/) raised capital for operations and growth. Each issuance dilutes existing [shareholders](/common-stock/), but provides balance-sheet capacity without the debt-service obligations of [corporate bonds](/corporate-bond/).
 
 ## Margin Expansion and Profitability
 
@@ -53,11 +53,11 @@ Kornit has periodically acquired smaller companies to expand product lines or ge
 
 ## Currency and Geographic Diversification
 
-As an Israeli company with significant customers in North America, Europe, and Asia, Kornit carries [exchange-rate](/stock-exchange/) exposure. Sales in euros, pounds, or yen must be converted to the reporting currency (likely USD), and expense exposure varies by region. A depreciation of the Israeli shekel vis-à-vis the dollar helps Kornit's competitiveness internationally but doesn't directly affect reported results (unless earnings are earned in shekels and must be retranslated). Management typically hedges major currency exposures through [derivatives](/enterprise-value/), the costs and effectiveness of which are disclosed in 10-K filings.
+As an Israeli company with significant customers in North America, Europe, and Asia, Kornit carries [exchange-rate](/stock-exchange/) exposure. Sales in euros, pounds, or yen must be converted to the reporting currency (likely USD), and expense exposure varies by region. A [depreciation](/depreciation/) of the Israeli shekel vis-à-vis the dollar helps Kornit's competitiveness internationally but doesn't directly affect reported results (unless earnings are earned in shekels and must be retranslated). Management typically hedges major currency exposures through [derivatives](/enterprise-value/), the costs and effectiveness of which are disclosed in 10-K filings.
 
 ## Capital Allocation: Buybacks and Dividends
 
-As KRNT matures and cash generation strengthens, management may initiate [share buybacks](/share-buyback/) or [dividend](/dividend/) payments to return capital. Buybacks are particularly attractive if the company believes its [shares](/common-stock/) are trading below intrinsic value—the repurchase accrets [earnings per share](/earnings-per-share/) for remaining [shareholders](/common-stock/). Dividends signal confidence in sustainable cash flow and appeal to income-oriented investors. Kornit's 10-K disclosures and investor relations communications reveal the company's capital-return priorities.
+As KRNT matures and cash generation strengthens, management may initiate [share buybacks](/share-buyback/) or [dividend](/dividend/) payments to return capital. Buybacks are particularly attractive if the company believes its [shares](/common-stock/) are trading below [intrinsic value](/intrinsic-value/)—the repurchase accrets [earnings per share](/earnings-per-share/) for remaining [shareholders](/common-stock/). Dividends signal confidence in sustainable cash flow and appeal to income-oriented investors. Kornit's 10-K disclosures and investor relations communications reveal the company's capital-return priorities.
 
 ## Competitive Dynamics and Moat
 

@@ -25,7 +25,7 @@ FIS is one of the largest and most critical financial technology companies in th
 
 ## The Business
 
-At its core, FIS operates three interlocking lines of business. The largest is its Banking & Payments segment, which includes core processing systems that run customer accounts at thousands of banks, credit unions, and financial institutions. These systems handle deposits, loans, transactions, and compliance reporting—the essential daily operations of a bank. FIS also owns and operates major payment networks and processing platforms, including the Integrated Financial Solutions (IFS) suite that many regional and mid-sized banks depend on entirely.
+At its core, FIS operates three interlocking lines of business. The largest is its Banking & Payments segment, which includes core processing systems that run customer accounts at thousands of banks, credit unions, and [financial institutions](/fisi-stock/). These systems handle deposits, loans, transactions, and compliance reporting—the essential daily operations of a bank. FIS also owns and operates major payment networks and processing platforms, including the Integrated Financial Solutions (IFS) suite that many regional and mid-sized banks depend on entirely.
 
 The second major segment is Capital Markets, which serves brokerage firms, investment advisors, and exchanges with trading platforms, data services, post-trade processing, and risk analytics. This business touches institutional investors, asset managers, and the trading infrastructure that powers securities markets.
 

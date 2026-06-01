@@ -25,7 +25,7 @@ The founding logic—that point-of-use generation and storage would eventually b
 
 ## Reinvention in the EV Acceleration
 
-By the 2010s, these conditions began to align. Tesla's mass-market vehicles and others' EV launches created genuine demand for charging. Battery prices fell by half or more over the decade. Solar costs plummeted. Governments worldwide committed to phasing out internal-combustion vehicles, which meant the grid infrastructure would need to expand or be circumvented. Suddenly, Beam Global's vision looked less like science fiction and more like a pragmatic solution to a real problem.
+By the 2010s, these conditions began to align. [Tesla](/tsla-stock/)'s mass-market vehicles and others' EV launches created genuine demand for charging. Battery prices fell by half or more over the decade. Solar costs plummeted. Governments worldwide committed to phasing out internal-combustion vehicles, which meant the grid infrastructure would need to expand or be circumvented. Suddenly, Beam Global's vision looked less like science fiction and more like a pragmatic solution to a real problem.
 
 The company pivoted and scaled. Its mobile charging units—trailers or self-contained pods that could park near construction sites, logistics hubs, airports, or parking lots—became attractive to companies trying to electrify their fleets without waiting for grid infrastructure. The units could charge a vehicle to partial capacity in an hour or two, enough for daily operations, and the solar or battery storage features meant lower operating costs than traditional grid-tied charging.
 
@@ -39,7 +39,7 @@ As the company scaled and eventually went public (SEC CIK 1398805), it began exp
 
 Beam Global's founding insight was about logistics and energy independence more than it was about individual consumer EV adoption. The company thrived in verticals where fleets needed to charge multiple vehicles on a budget and where grid infrastructure was unreliable or unavailable. Delivery companies, transit agencies, rental-car operations, and international markets (especially those with weaker grids) became core markets.
 
-This meant Beam Global avoided direct competition with Tesla's Supercharger network or traditional charging networks run by utilities. Instead, the company owned a different segment: mobile, decentralized, solar-integrated charging for operations and logistics. The founder's original vision—bypass the grid dependency—had found its market not in individual consumer charging, but in the specialized needs of commercial vehicle fleets.
+This meant Beam Global avoided direct competition with Tesla's Supercharger network or traditional charging networks run by utilities. Instead, the company owned a different segment: mobile, decentralized, solar-integrated charging for operations and logistics. The founder's original vision—bypass the grid dependency—had found its market not in individual consumer charging, but in the specialized needs of [commercial vehicle](/cvgi-stock/) fleets.
 
 ## Persistence Through Market Cycles
 

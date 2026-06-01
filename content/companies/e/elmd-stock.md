@@ -59,7 +59,7 @@ Price competition is present but moderated by clinical efficacy claims and regul
 
 ## Financial Model and Profitability Drivers
 
-Medical-device companies typically operate at moderate margins—gross margins in the 40–60% range, operating margins lower due to R&D and sales expenses. Profitability depends on manufacturing efficiency, volume, and pricing power. Electromed's size relative to larger competitors means it likely operates at a cost disadvantage on manufacturing; success requires either specialized focus on a high-margin niche or superior operational efficiency.
+Medical-device companies typically operate at moderate margins—gross margins in the 40–60% range, [operating margins](/operating-margin/) lower due to R&D and sales expenses. Profitability depends on manufacturing efficiency, volume, and pricing power. Electromed's size relative to larger competitors means it likely operates at a cost disadvantage on manufacturing; success requires either specialized focus on a high-margin niche or superior operational efficiency.
 
 The company's R&D intensity is important. Under-investing in product development risks competitive obsolescence; over-investing reduces near-term profitability. Balancing clinical leadership with financial discipline is critical for sustained success in the medical-device industry.
 

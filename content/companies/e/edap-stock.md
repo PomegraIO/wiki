@@ -4,7 +4,7 @@ description: "French medical-device maker of urology ultrasound systems; navigat
 keywords: [ultrasound, urology, medical-device, FDA, CE-mark, european-regulation]
 ---
 
-*EDAP TMS SA—listed on the Nasdaq under ticker [EDAP](/edap-stock/)—operates as a specialized manufacturer and distributor of therapeutic and diagnostic ultrasound systems for urology, with deep regulatory entanglement in both U.S. and European frameworks. The company's continued market access depends entirely on navigating and maintaining FDA clearances and CE conformity marks that gate its ability to sell into hospitals and clinics on both continents.*
+*EDAP TMS SA—listed on the [Nasdaq](/nasdaq/) under ticker [EDAP](/edap-stock/)—operates as a specialized manufacturer and distributor of therapeutic and diagnostic ultrasound systems for urology, with deep regulatory entanglement in both U.S. and European frameworks. The company's continued market access depends entirely on navigating and maintaining FDA clearances and CE conformity marks that gate its ability to sell into hospitals and clinics on both continents.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EDAP</td></tr>

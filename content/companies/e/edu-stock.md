@@ -60,7 +60,7 @@ The company gradually returned to profitability and positive [free cash flow](/f
 
 The company is no longer a scale-focused tutoring machine but a diversified education and lifestyle platform. This is smaller and messier than before but potentially more durable because it is spread across multiple verticals and less dependent on any single regulatory domain.
 
-Risk remains. Chinese policy toward education companies is volatile and may [target](/tgt-stock/) online education, e-commerce, or new domains without notice. New Oriental's dependence on China for revenue and regulatory approval—and its public listing in the United States—creates ongoing exposure to U.S.-China tensions and changing rules around Chinese companies' access to U.S. capital markets.
+Risk remains. Chinese policy toward education companies is volatile and may target online education, e-commerce, or new domains without notice. New Oriental's dependence on China for revenue and regulatory approval—and its public listing in the United States—creates ongoing exposure to U.S.-China tensions and changing rules around Chinese companies' access to U.S. capital markets.
 
 The company trades on the hope that nonacademic education and e-commerce can eventually deliver profitability approaching the pre-2021 peak. Most analysts and investors see this as unlikely in the near term but possible over five or more years as the business stabilizes and margins improve through scale and operational efficiency. Meanwhile, New Oriental remains a vivid reminder of the power and peril of regulatory change in high-growth, politically sensitive sectors.
 

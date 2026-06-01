@@ -29,19 +29,19 @@ Inventory is a major liability-side concern: capital is tied up in boats sitting
 
 ## Debt and Leverage in Cyclical Industries
 
-MasterCraft's debt financing is critical. Boats are capital-intensive to produce; the company borrows to finance working capital and facility upgrades. Its leverage—debt divided by earnings—is typically moderate to high compared to non-discretionary manufacturers (like food or utilities), reflecting the cyclical nature of demand. When consumer confidence and lake/ocean recreation spending are robust, earnings grow and leverage is comfortable. When discretionary spending contracts, earnings collapse faster than debt can be paid down, and leverage spikes uncomfortably.
+MasterCraft's [debt financing](/debt-financing/) is critical. Boats are capital-intensive to produce; the company borrows to finance working capital and facility upgrades. Its leverage—debt divided by earnings—is typically moderate to high compared to non-discretionary manufacturers (like food or utilities), reflecting the cyclical nature of demand. When consumer confidence and lake/ocean recreation spending are robust, earnings grow and leverage is comfortable. When [discretionary spending](/discretionary-spending/) contracts, earnings collapse faster than debt can be paid down, and leverage spikes uncomfortably.
 
-MasterCraft's 10-K discloses debt covenants—agreements with lenders that the company maintain certain financial ratios (leverage caps, interest coverage minimums). Covenant violations can trigger acceleration clauses, requiring immediate debt repayment, or force renegotiation at worse terms.
+MasterCraft's 10-K discloses debt covenants—agreements with lenders that the company maintain certain financial ratios (leverage caps, interest coverage minimums). Covenant violations can trigger [acceleration clauses](/acceleration-clause/), requiring immediate debt repayment, or force renegotiation at worse terms.
 
 ## Working Capital Dynamics
 
-The cash conversion cycle for MasterCraft is lengthy. The company pays suppliers (fiberglass resin, engines, electronics, labor) weeks or months before dealers convert inventory to end-customer sales, which themselves might be financed over seven years. If a dealer holds inventory for three months before sale, and the customer finances over seven years, MasterCraft has converted raw materials to cash only after months of float.
+The [cash conversion cycle](/cash-conversion-cycle/) for MasterCraft is lengthy. The company pays suppliers (fiberglass resin, engines, electronics, labor) weeks or months before dealers convert inventory to end-customer sales, which themselves might be financed over seven years. If a dealer holds inventory for three months before sale, and the customer finances over seven years, MasterCraft has converted raw materials to cash only after months of float.
 
 A sudden downturn in orders—consumers delaying purchases—can trap MasterCraft with elevated inventory, compressed margins (dealers demand discounts to move stock), and cash flow strain. This working capital pressure is why cyclical manufacturers often maintain credit lines; they provide liquidity during the months when production outpaces sell-through.
 
 ## Engine Supply and Component Sourcing
 
-MasterCraft does not manufacture boat engines; it sources them from suppliers like Mercury, Yamaha, or Volvo. Engine availability, cost, and lead times are critical inputs to production scheduling. Supply disruptions (semiconductor shortages affected boat electronics in recent years) can halt production even when customer demand is strong, forcing production delays and dealer inventory shortages. MasterCraft's ability to source components reliably and at stable costs directly affects both revenue recognition and [gross profit margins](/gross-profit-margin/).
+MasterCraft does not manufacture boat engines; it sources them from suppliers like Mercury, Yamaha, or Volvo. Engine availability, cost, and lead times are critical inputs to production scheduling. Supply disruptions (semiconductor shortages affected boat electronics in recent years) can halt production even when customer demand is strong, forcing production delays and dealer inventory shortages. MasterCraft's ability to source components reliably and at stable costs directly affects both [revenue recognition](/revenue-recognition/) and [gross profit margins](/gross-profit-margin/).
 
 ## Seasonality and Quarterly Earnings Volatility
 
@@ -49,7 +49,7 @@ MasterCraft's earnings are highly seasonal. Quarterly results typically show wea
 
 ## Consumer Financing and Interest Rates
 
-Boat purchases are typically financed; buyers obtain seven-to-ten-year marine loans from banks, credit unions, or captive finance arms. When interest rates rise, boat affordability declines (higher monthly payments), and demand contracts. MasterCraft is thus sensitive to the interest-rate environment and consumer credit availability—a rising-rate environment headwind that can turn to a tailwind once rates stabilize.
+Boat purchases are typically financed; buyers obtain seven-to-ten-year marine loans from banks, credit unions, or captive finance arms. When [interest rates](/interest-rate/) rise, boat affordability declines (higher monthly payments), and demand contracts. MasterCraft is thus sensitive to the interest-rate environment and consumer credit availability—a rising-rate environment headwind that can turn to a tailwind once rates stabilize.
 
 ## Retail Pricing Power and Dealer Economics
 
@@ -57,7 +57,7 @@ MasterCraft's pricing to dealers depends on mix (higher-end models command highe
 
 ## Financial Reporting and Key Metrics
 
-MasterCraft's [10-K](/10-k/) provides detailed gross margin (revenue minus cost of goods sold, which includes manufacturing labor and materials), operating income, and segments the business by geographic market and dealer channel. Working capital schedules show inventory turns, accounts payable days, and days-sales-outstanding (how long it takes to collect cash from dealers). These metrics reveal operational efficiency and cash generation.
+MasterCraft's [10-K](/10-k/) provides detailed gross margin (revenue minus cost of goods sold, which includes manufacturing labor and materials), operating income, and segments the business by geographic market and dealer channel. Working capital schedules show inventory turns, [accounts payable](/accounts-payable/) days, and days-sales-outstanding (how long it takes to collect cash from dealers). These metrics reveal operational efficiency and cash generation.
 
 <div class="wiki-seealso">
 ### Closely related

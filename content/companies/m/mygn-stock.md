@@ -30,7 +30,7 @@ The revenue model is straightforward. Insurance companies pay per test. Myriad n
 
 Myriad holds a dominant market position in hereditary cancer testing in the United States. It was the first mover in commercial BRCA testing, launched its own branded test in the 1990s, and built clinical relationships that persist. This first-mover position was reinforced by regulatory gatekeeping: genetic testing labs must meet Clinical Laboratory Improvement Amendments (CLIA) standards, and Myriad's long track record made it trusted by physicians and payers.
 
-The competitive landscape has shifted. Other laboratories—Quest Diagnostics, LabCorp, Invitae (now owned by Labcorp)—now offer similar tests. But Myriad remains the incumbent with the broadest test menu and the deepest integration into oncology and cardiology practices. Myriad also owns RiskScore, a software platform that helps health systems manage genetic risk at the population level, creating stickiness beyond single tests.
+The competitive landscape has shifted. Other laboratories—[Quest Diagnostics](/dgx-stock/), LabCorp, Invitae (now owned by Labcorp)—now offer similar tests. But Myriad remains the incumbent with the broadest test menu and the deepest integration into oncology and cardiology practices. Myriad also owns RiskScore, a software platform that helps health systems manage genetic risk at the population level, creating stickiness beyond single tests.
 
 ## Reimbursement Risk and Regulation
 
@@ -40,7 +40,7 @@ Genetic testing itself is regulated by the FDA as a Laboratory Developed Test (L
 
 ## Revenue Diversification
 
-Myriad began as a cancer-testing company but has expanded into mental health (psychiatry panel) and cardiology (familial hypercholesterolemia, arrhythmia risk). This diversification spreads risk across conditions and patient populations. The mental health arm, in particular, taps a large addressable market—millions of patients with depression, anxiety, and bipolar disorder might benefit from pharmacogenomic insight into which medications are likely to work.
+Myriad began as a cancer-testing company but has expanded into mental health (psychiatry panel) and cardiology (familial hypercholesterolemia, arrhythmia risk). This [diversification](/diversification/) spreads risk across conditions and patient populations. The mental health arm, in particular, taps a large addressable market—millions of patients with depression, anxiety, and bipolar disorder might benefit from pharmacogenomic insight into which medications are likely to work.
 
 The company also acquired MyRisk, a risk-assessment technology that helps women understand their cumulative breast cancer risk beyond genetics, incorporating family history and other factors.
 
@@ -57,12 +57,12 @@ Genetic testing is a field in which the published medical literature matters. Pe
 <ul>
 <li><a href="/securities-and-exchange-commission/">/SEC</a> filings and CLIA regulation</li>
 <li><a href="/public-company/">Public company</a> models in healthcare diagnostics</li>
-<li><a href="/stock/">Stock market</a> listing and trading</li>
+<li><a href="/stock/">[Stock market](/stock-market/)</a> listing and trading</li>
 </ul>
 <h3>Wider context</h3>
 <ul>
 <li>Precision medicine and genomic risk assessment</li>
-<li><a href="/balance-sheet/">Balance sheet</a> strength in capital-intensive diagnostics</li>
+<li><a href="/balance-sheet/">[Balance sheet](/balance-sheet/)</a> strength in capital-intensive diagnostics</li>
 <li>Payer coverage and reimbursement policy</li>
 </ul>
 </div>

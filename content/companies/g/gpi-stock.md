@@ -4,7 +4,7 @@ description: "A large automotive retail and used-vehicle dealer network operatin
 keywords: [automotive retail, dealership, used cars, franchised dealer, vehicle sales]
 ---
 
-*Group 1 Automotive Inc. (NYSE: GPI) is one of the largest automotive retail networks in the United States, operating both new-vehicle franchises under major manufacturers and a sprawling used-car business. Founded and built through the acquisition and operation of regional dealership groups across Texas and the broader South and Midwest, Group 1 has grown from a single founder's vision into a vertically integrated network that generates revenue from vehicle sales, financing, service, and parts—a business model shaped by the structure of American automotive retail and the consolidation of dealer networks over the past three decades.*
+*Group 1 Automotive Inc. (NYSE: GPI) is one of the largest automotive retail networks in the United States, operating both new-vehicle franchises under major manufacturers and a sprawling used-car business. Founded and built through the [acquisition](/acquisition/) and operation of regional dealership groups across Texas and the broader South and Midwest, Group 1 has grown from a single founder's vision into a vertically integrated network that generates revenue from vehicle sales, financing, service, and parts—a business model shaped by the structure of American automotive retail and the consolidation of dealer networks over the past three decades.*
 
 <aside class="wiki-infobox"><table>
   <tr><td>Ticker</td><td>GPI</td></tr>
@@ -34,7 +34,7 @@ The used-car segment is critical to Group 1's model. Every new-car buyer in a tr
 
 ## Capital Structure and Leverage
 
-As a public company, Group 1 carries debt to finance inventory and operations. Dealership networks are capital-intensive—they must maintain showrooms, service bays, parts inventory, and working capital for vehicle purchases. The company borrows seasonally to build inventory ahead of peak selling periods. This leverage makes Group 1 sensitive to economic cycles; when consumers reduce discretionary spending, both new and used vehicle sales contract, squeezing margins and putting pressure on the company's ability to service debt.
+As a public company, Group 1 carries debt to finance inventory and operations. Dealership networks are capital-intensive—they must maintain showrooms, service bays, parts inventory, and working capital for vehicle purchases. The company borrows seasonally to build inventory ahead of peak selling periods. This leverage makes Group 1 sensitive to economic cycles; when consumers reduce [discretionary spending](/discretionary-spending/), both new and used vehicle sales contract, squeezing margins and putting pressure on the company's ability to service debt.
 
 ## Market Positioning and Geographic Constraints
 

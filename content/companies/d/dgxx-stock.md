@@ -34,7 +34,7 @@ The company's filing language around competitive advantage is instructive. If Di
 
 ## Operational Scale and Deployment Challenges
 
-The balance sheet and operating-expense sections of the 10-K reveal that Digi Power X is a small, likely pre-revenue or early-revenue company. R&D spending is material relative to revenue, reflecting the need to develop and refine technology. Sales and marketing expenses may be high as the company seeks initial customer wins, which in the energy sector often require lengthy sales cycles and regulatory navigation.
+The [balance sheet](/balance-sheet/) and operating-expense sections of the 10-K reveal that Digi Power X is a small, likely pre-revenue or early-revenue company. R&D spending is material relative to revenue, reflecting the need to develop and refine technology. Sales and marketing expenses may be high as the company seeks initial customer wins, which in the energy sector often require lengthy sales cycles and regulatory navigation.
 
 The company's disclosures about pilots and deployments are telling. Has Digi Power X shipped meaningful volumes to customers? Are there reference customers or case studies mentioned in filings? Or is the company still in proof-of-concept phases? The 10-K should clarify whether revenue is growing or whether the company is still in the investment phase.
 
@@ -52,6 +52,6 @@ The 10-K often frames the company's market opportunity in the context of broader
 
 ## Key Sections to Review
 
-For researching Digi Power X, start with the "Business Overview" section of the 10-K to understand what the company actually does. Move to "Risk Factors" to understand the company's own view of obstacles. Then examine "Management Discussion and Analysis" (MD&A) to see revenue, costs, and operational performance. Finally, review the balance sheet and cash-flow statement to assess capital adequacy and burn rate.
+For researching Digi Power X, start with the "Business Overview" section of the 10-K to understand what the company actually does. Move to "Risk Factors" to understand the company's own view of obstacles. Then examine "Management Discussion and Analysis" (MD&A) to see revenue, costs, and operational performance. Finally, review the balance sheet and cash-flow statement to assess [capital adequacy](/capital-adequacy/) and burn rate.
 
 The company is attempting to position itself at the intersection of renewable energy and digital infrastructure—a structurally important market. Whether Digi Power X will capture meaningful share or whether larger incumbents will dominate is a question the 10-K can help frame but not definitively answer.

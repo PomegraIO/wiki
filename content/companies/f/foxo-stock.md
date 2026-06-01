@@ -33,7 +33,7 @@ The FTC regulates advertising claims, including health-related claims on FOXO's 
 
 ## Privacy and Genetic Data Security
 
-Genetic information is considered highly sensitive under privacy laws. HIPAA (the Health Insurance Portability and Accountability Act) applies if FOXO operates as a covered entity or business associate handling protected health information. Additionally, many states have enacted genetic privacy laws that impose special restrictions on how genetic data is stored, used, and shared. Some states prohibit genetic testing companies from selling genetic data to third parties without explicit consent. Others require special security measures to protect genetic data from breach. The FTC also brings actions under the Gramm-Leach-Bliley Act (if FOXO handles financial information) and the Health Breach Notification Rule (if a breach occurs). A data breach involving genetic information can trigger notification obligations, regulatory investigation, and reputational damage. FOXO must maintain cybersecurity infrastructure, access controls, encryption, and breach-response procedures. The regulatory cost of holding genetic data is significant: FOXO cannot simply treat customer DNA data as a traditional database asset.
+Genetic information is considered highly sensitive under privacy laws. HIPAA (the Health Insurance Portability and Accountability Act) applies if FOXO operates as a covered entity or business associate handling protected health information. Additionally, many states have enacted genetic privacy laws that impose special restrictions on how genetic data is stored, used, and shared. Some states prohibit genetic testing companies from selling genetic data to third parties without explicit consent. Others require special security measures to protect genetic data from breach. The FTC also brings actions under the [Gramm-Leach-Bliley Act](/gramm-leach-bliley-act/) (if FOXO handles financial information) and the Health Breach Notification Rule (if a breach occurs). A data breach involving genetic information can trigger notification obligations, regulatory investigation, and reputational damage. FOXO must maintain cybersecurity infrastructure, access controls, encryption, and breach-response procedures. The regulatory cost of holding genetic data is significant: FOXO cannot simply treat customer DNA data as a traditional database asset.
 
 ## Clinical Evidence and Regulatory Evolution
 
@@ -45,6 +45,6 @@ The regulatory landscape for genetic testing is evolving. The FDA has signaled i
 - [/public-company/] — FOXO as publicly traded healthcare enterprise
 
 ### Wider context
-- [/nasdaq/] — Exchange listing for FOXO shares
+- [/[nasdaq](/nasdaq/)/] — Exchange listing for FOXO shares
 - [/stock/] — Equity structure of the genomics company
 </div>

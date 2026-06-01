@@ -4,7 +4,7 @@ description: "A home-services platform operator offering memberships and connect
 keywords: ["home services", "membership model", "service marketplace", "customer acquisition", "contractor network"]
 ---
 
-*Frontdoor, Inc., trading under ticker **FTDR** and filing under CIK 1727263, operates home-services brands (including the eponymous Frontdoor) that sell memberships to homeowners and connect them to technicians for repairs and maintenance. The company's model rests on a two-sided marketplace: it must acquire customers (homeowners paying membership fees), retain them (through reliable service and customer satisfaction), and maintain a network of independent contractors willing to perform work at Frontdoor-negotiated rates. Each side of this market carries distinct risks: customer acquisition costs are high and growing, retention is competitive, and contractor recruitment and retention depend on Frontdoor offering attractive economics in a tight labor market.*
+*Frontdoor, Inc., trading under ticker **FTDR** and filing under CIK 1727263, operates home-services brands (including the eponymous Frontdoor) that sell memberships to homeowners and connect them to technicians for repairs and maintenance. The company's model rests on a two-sided marketplace: it must acquire customers (homeowners paying membership fees), retain them (through reliable service and customer satisfaction), and maintain a network of independent contractors willing to perform work at Frontdoor-negotiated rates. Each side of this market carries distinct risks: customer [acquisition](/acquisition/) costs are high and growing, retention is competitive, and contractor recruitment and retention depend on Frontdoor offering attractive economics in a tight labor market.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>FTDR</td></tr>
@@ -33,7 +33,7 @@ Homeowners are price-sensitive to membership fees. If a membership costs $15/mon
 
 ## Seasonality and Service Demand Volatility
 
-Home-services demand is seasonal. In winter, heating and emergency repairs spike; in summer, preventive maintenance and optional upgrades are more common. Frontdoor's revenue and profitability swing seasonally. The company must staff and manage capacity for peak seasons, meaning fixed costs are incurred year-round even when demand is soft. Economic recessions compress overall home-services demand; homeowners defer repairs and cancellations rise. Frontdoor's earnings are correlated with homebuilding, home-price levels, and homeowner confidence.
+Home-services demand is seasonal. In winter, heating and emergency repairs spike; in summer, preventive maintenance and optional upgrades are more common. Frontdoor's revenue and profitability swing seasonally. The company must staff and manage capacity for peak seasons, meaning fixed costs are incurred year-round even when demand is soft. Economic [recessions](/recession/) compress overall home-services demand; homeowners defer repairs and cancellations rise. Frontdoor's earnings are correlated with homebuilding, home-price levels, and homeowner confidence.
 
 ## Data Security and Liability Risk
 

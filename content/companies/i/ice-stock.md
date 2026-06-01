@@ -41,9 +41,9 @@ These advantages translate to pricing power. ICE can raise transaction fees mode
 
 The business is not immune to economic swings. Equities trading volumes fall when markets are quiet; volatility spikes generate trading surges that lift revenue. Commodity futures volumes respond to geopolitical tension, supply shocks, and energy transitions. The mortgage technology business contracts sharply when mortgage origination volumes drop, as they did during the early-2020s rate hikes.
 
-Regulatory risk is material. Exchanges and clearinghouses operate under close Securities and Exchange Commission and international supervision. New margin rules, transaction taxes, or changes to clearing requirements could pressure margins. Political pressure to split clearing from exchange operations—a common regulatory anxiety—could force structural changes.
+Regulatory risk is material. Exchanges and clearinghouses operate under close [Securities and Exchange Commission](/securities-and-exchange-commission/) and international supervision. New margin rules, transaction taxes, or changes to clearing requirements could pressure margins. Political pressure to split clearing from exchange operations—a common regulatory anxiety—could force structural changes.
 
-Market [concentration risk](/concentration-risk/) exists for both ICE and its customers. The company operates a dominant share of U.S. equities trading and clearing. Any operational failure—a system outage, a cyberattack, a clearing-member default—could ripple through the broader financial system. This has made ICE a [target](/tgt-stock/) for regulatory scrutiny around resilience and cybersecurity.
+Market [concentration risk](/concentration-risk/) exists for both ICE and its customers. The company operates a dominant share of U.S. equities trading and clearing. Any operational failure—a system outage, a cyberattack, a clearing-member default—could ripple through the broader financial system. This has made ICE a target for regulatory scrutiny around resilience and cybersecurity.
 
 ## Historical Arc
 

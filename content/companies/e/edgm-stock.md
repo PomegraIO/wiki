@@ -45,7 +45,7 @@ Regulations increasingly impose data localization—health data must reside in s
 
 ## Labor and Tax Incentive Compliance
 
-Data center development often triggers tax incentive agreements with state and local governments (sales-tax abatement, property-tax breaks, or job-creation credits). These incentives carry clawback provisions: if Edgemode fails to meet job creation or investment milestones, the company must repay abatements. Labor and environmental regulations also apply; prevailing-wage laws in unionized areas can inflate construction costs.
+Data center development often triggers tax incentive agreements with state and local governments (sales-tax abatement, property-tax breaks, or job-creation credits). These incentives carry [clawback](/clawback/) provisions: if Edgemode fails to meet job creation or investment milestones, the company must repay abatements. Labor and environmental regulations also apply; prevailing-wage laws in unionized areas can inflate construction costs.
 
 ## Carrier Status and Net Neutrality Exposure
 

@@ -34,7 +34,7 @@ The company's filing with the SEC under a US ticker suggests a deliberate choice
 
 ## Where Cyclical and Structural Collide
 
-LZ Technology's financial health over the next three to five years will likely hinge on whether it can demonstrate that its revenue base is shifting toward recurring, durability-based models even as the absolute dollar value of sales fluctuates with Chinese economic cycles. A firm that can show 70% of revenue from multi-year cloud contracts or subscription renewals—independent of new customer acquisition—has largely escaped the cyclical trap. A firm still deriving 60% of revenue from one-time license sales or professional services tied to project budgets remains hostage to when customers decide to spend.
+LZ Technology's financial health over the next three to five years will likely hinge on whether it can demonstrate that its revenue base is shifting toward recurring, durability-based models even as the absolute dollar value of sales fluctuates with Chinese economic cycles. A firm that can show 70% of revenue from multi-year cloud contracts or subscription renewals—independent of new customer [acquisition](/acquisition/)—has largely escaped the cyclical trap. A firm still deriving 60% of revenue from one-time license sales or professional services tied to project budgets remains hostage to when customers decide to spend.
 
 The research signal to watch is the company's gross margin trend and its customer retention rate. If gross margins are expanding and customer retention exceeds 90%, the business is durably shifting. If both are stagnant or declining, the company is being pressured by a combination of cyclical softness and secular disruption.
 

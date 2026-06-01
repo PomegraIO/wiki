@@ -25,7 +25,7 @@ Hawthorn operates in Missouri, a market where national banks and fintech lenders
 
 ## Niche Lending and Relationship Banking
 
-Unlike national banks that operate on transaction-based, commoditized lending, Hawthorn can compete in segments where relationship depth matters. A construction lender or a commercial real estate specialist who understands local building cycles, local contractors, and the quality of local projects can structure loans and manage risk in ways that pure credit scoring cannot. These niches are not infinitely defensible—larger banks can hire specialists and enter markets—but they do reward deep local presence and judgment.
+Unlike national banks that operate on transaction-based, commoditized lending, Hawthorn can compete in segments where relationship depth matters. A construction lender or a [commercial real estate](/commercial-real-estate/) specialist who understands local building cycles, local contractors, and the quality of local projects can structure loans and manage risk in ways that pure credit scoring cannot. These niches are not infinitely defensible—larger banks can hire specialists and enter markets—but they do reward deep local presence and judgment.
 
 ## The Compression of Community Bank Economics
 
@@ -37,7 +37,7 @@ Community banks' historical moat rested on geographic and information advantages
 
 ## The Lending Portfolio as Competitive Test
 
-Hawthorn's true competitive position reveals itself in its loan portfolio and underwriting decisions. Banks with high loan loss rates lose their competitive footing; those with disciplined underwriting and a diversified portfolio of quality credits prove their competence and build reputation. Over cycles, the banks that maintain low impairment rates and stable [earnings-per-share](/earnings-per-share/) are those that bet right on borrowers and industries and managed credit risk effectively. This is where community banks can earn their position: through judgment, not through scale.
+Hawthorn's true competitive position reveals itself in its loan portfolio and underwriting decisions. Banks with high loan loss rates lose their competitive footing; those with disciplined underwriting and a diversified portfolio of quality credits prove their competence and build reputation. Over cycles, the banks that maintain low impairment rates and stable [earnings-per-share](/earnings-per-share/) are those that bet right on borrowers and industries and managed [credit risk](/credit-risk/) effectively. This is where community banks can earn their position: through judgment, not through scale.
 
 <div class="wiki-seealso">
 ### Closely related

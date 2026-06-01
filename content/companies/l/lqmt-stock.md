@@ -43,7 +43,7 @@ LiquidMetal's relative weakness is manufacturing scale. The company has not buil
 
 LiquidMetal operates in a development-intensive business model more typical of specialty-materials or biotech companies than established manufacturers. Year-to-year revenue can fluctuate based on whether a major customer project ramps or stalls. The company needs sustained capital investment in R&D, regulatory approvals, and pilot manufacturing to move promising applications toward commercialization. This means the path to consistent profitability is longer than for mature industrial companies.
 
-Liquidity and capital access are therefore central to the company's survival and growth prospects. Funding can come through equity raises, debt financing, customer advances or deposits (if major customers finance development), or strategic partnerships with larger industrial companies that see metallic glass as a key-platform material. Partners like 3M, Apple, or aerospace primes might fund technology development in exchange for exclusive or preferential access, which would accelerate both LiquidMetal's revenue and capital constraints.
+Liquidity and capital access are therefore central to the company's survival and growth prospects. Funding can come through equity raises, [debt financing](/debt-financing/), customer advances or deposits (if major customers finance development), or strategic partnerships with larger industrial companies that see metallic glass as a key-platform material. Partners like 3M, [Apple](/aapl-stock/), or aerospace primes might fund technology development in exchange for exclusive or preferential access, which would accelerate both LiquidMetal's revenue and capital constraints.
 
 ## Strategic Inflection Points
 

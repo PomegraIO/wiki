@@ -22,9 +22,9 @@ The liability side tells the funding story. Cannabis operators face structural c
 
 ## Equity and Retained Earnings
 
-The equity section—common stock, additional paid-in capital, accumulated deficit or earnings—shows whether the business is generating profit or burning cash. Many cannabis operators have accumulated operating losses despite top-line revenue, because the cost structure (real estate, security, compliance, skilled labor) is steep and early-stage operations are typically underwater. Look at CANNAPHARMARX's retained earnings line. If it shows a large deficit, the firm has historically burned more than it earned; if it shows positive accumulation, scale or margin improvement is occurring.
+The equity section—common stock, additional paid-in capital, accumulated deficit or earnings—shows whether the business is generating profit or burning cash. Many cannabis operators have accumulated operating losses despite top-line revenue, because the cost structure (real estate, security, compliance, skilled labor) is steep and early-stage operations are typically underwater. Look at CANNAPHARMARX's [retained earnings](/retained-earnings/) line. If it shows a large deficit, the firm has historically burned more than it earned; if it shows positive accumulation, scale or margin improvement is occurring.
 
-The capital structure also reveals dilution history. How many shares are outstanding? Have there been secondary offerings or equity raises that watered down early holders? Cannabis cultivators often rely on equity financing because debt is scarce and expensive. This shows up as a large paid-in capital account relative to retained earnings, indicating a firm that has funded itself by issuing stock rather than by reinvesting profits.
+The capital structure also reveals dilution history. How many shares are outstanding? Have there been [secondary offerings](/secondary-offering/) or equity raises that watered down early holders? Cannabis cultivators often rely on [equity financing](/equity-financing/) because debt is scarce and expensive. This shows up as a large paid-in capital account relative to retained earnings, indicating a firm that has funded itself by issuing stock rather than by reinvesting profits.
 
 ## Asset Quality and Conversion Cycle
 
@@ -34,23 +34,23 @@ The conversion cycle—from cash invested in seeds and inputs, through growing t
 
 ## Regulatory and Compliance Burden
 
-State cannabis regulators often require specific facility designs, testing procedures, and traceability. Compliance infrastructure is a real cost that flows through operations and deposits itself as property or license assets. Some cannabis firms carry "licenses" on the balance sheet—the cost of securing regulatory approval. These are intangible assets, harder to value and more subject to regulatory revocation than physical equipment.
+State cannabis regulators often require specific facility designs, testing procedures, and traceability. Compliance infrastructure is a real cost that flows through operations and deposits itself as property or license assets. Some cannabis firms carry "licenses" on the balance sheet—the cost of securing regulatory approval. These are [intangible assets](/intangible-assets/), harder to value and more subject to regulatory revocation than physical equipment.
 
-CANNAPHARMARX operates under state rules that shape its balance sheet. Federal prohibition is a contingency that could appear in footnotes: "if federal law changes, this license becomes valueless" or conversely "could gain value." Take the liability section seriously: compliance reserves, legal accruals, or contingent liabilities related to regulatory disputes.
+CANNAPHARMARX operates under state rules that shape its balance sheet. Federal prohibition is a contingency that could appear in footnotes: "if federal law changes, this license becomes valueless" or conversely "could gain value." Take the liability section seriously: compliance reserves, legal accruals, or [contingent liabilities](/contingent-liabilities-government/) related to regulatory disputes.
 
 ## Debt Covenant Reality
 
-Most secured debt against cannabis operations carries covenants: minimum cash balances, maximum debt-to-equity ratios, minimum interest coverage, or quarterly reporting thresholds. If CANNAPHARMARX breaches a covenant—crops fail and revenue drops below debt-service expectations—lenders can force asset sales or even take control. The balance sheet footnotes should detail these covenants. A firm with tight covenant cushion is one regulatory surprise or weather event away from distress.
+Most secured debt against cannabis operations carries covenants: minimum cash balances, maximum [debt-to-equity ratios](/debt-to-equity-ratio/), minimum interest coverage, or quarterly reporting thresholds. If CANNAPHARMARX breaches a covenant—crops fail and revenue drops below debt-service expectations—lenders can force asset sales or even take control. The balance sheet footnotes should detail these covenants. A firm with tight covenant cushion is one regulatory surprise or weather event away from distress.
 
 ## Asset Turnover and Return on Assets
 
-Balance-sheet investors ask: how much revenue does this firm generate per dollar of assets? Cannabis cultivators with high-quality real estate, efficient operations, and strong margins turn assets quickly. A struggling cultivator with idle or underutilized capacity has the same asset base but lower sales and earnings—a return on assets near zero or negative.
+Balance-sheet investors ask: how much revenue does this firm generate per dollar of assets? Cannabis cultivators with high-quality real estate, efficient operations, and strong margins turn assets quickly. A struggling cultivator with idle or underutilized capacity has the same asset base but lower sales and earnings—a [return on assets](/return-on-assets/) near zero or negative.
 
 Study the trend: is the asset base growing (expansion) or stable (mature)? Are earnings growing faster than assets (improving efficiency) or lagging (worsening returns)? This reveals whether management is deploying capital well.
 
 ## The Regulatory Wildcard
 
-Cannabis business risk is fundamentally regulatory. Federal legalization or a change in state enforcement could improve balance sheets overnight (refinancing debt at lower rates, accessing mainstream capital) or wreck them (market flooding, price collapse). The balance sheet does not capture this tail risk cleanly. Expect a balance sheet of a cannabis cultivator to be more volatile than indicated by its financial ratios alone.
+Cannabis business risk is fundamentally regulatory. Federal legalization or a change in state enforcement could improve balance sheets overnight (refinancing debt at lower rates, accessing mainstream capital) or wreck them (market flooding, price collapse). The balance sheet does not capture this [tail risk](/tail-risk/) cleanly. Expect a balance sheet of a cannabis cultivator to be more volatile than indicated by its financial ratios alone.
 
 For CANNAPHARMARX, read the equity section as a measure of management's confidence. If insiders are buying shares, retained earnings are positive, and assets are growing faster than liabilities, the business is advancing. If the reverse—dilution, losses, and stagnant assets—caution is warranted.
 

@@ -57,7 +57,7 @@ The company generates a meaningful portion of revenue outside the United States,
 
 Start with the [10-k](/wiki/10-k/), which breaks down revenue by segment (TAVR, critical care, aortic, other) and geography, and discusses competitive positioning, regulatory environment, and risk factors in detail. Earnings calls also reveal management's view on market adoption rates, competitive dynamics, and R&D pipeline progress.
 
-Look at clinical literature on TAVR outcomes and adoption trends in [target](/tgt-stock/) geographies—publications in journals like Circulation or The Lancet often signal where the company's market is heading. Pricing trends and payer coverage decisions are also public information worth monitoring.
+Look at clinical literature on TAVR outcomes and adoption trends in target geographies—publications in journals like Circulation or The Lancet often signal where the company's market is heading. Pricing trends and payer coverage decisions are also public information worth monitoring.
 
 Monitor regulatory developments: FDA approvals for new indications or competing devices, international regulatory clearances, and reimbursement policy changes all affect the growth story. Industry conferences often feature presentations on adoption and clinical outcomes.
 

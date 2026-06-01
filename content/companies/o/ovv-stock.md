@@ -51,7 +51,7 @@ Ovintiv publishes proved reserves and production estimates in its regulatory fil
 
 Independent producers face a perpetual strategic choice: reinvest all [free cash flow](/free-cash-flow/) into drilling new wells to grow production, or return cash to shareholders through [dividends](/dividend/) or buybacks. In the 2010s, many independents chose aggressive reinvestment and growth, which led to negative free cash flow and rising debt when commodity prices fell. A shift in the industry philosophy—partly driven by investor pressure—has favored capital discipline and shareholder returns.
 
-Ovintiv has signaled a commitment to a "business plan" approach: setting a realistic annual capital budget, targeting robust free cash flow generation, and returning cash above that [target](/tgt-stock/) to shareholders through dividends and buybacks. The appeal of this stance is that it does not require assuming perpetually high commodity prices; instead, the company operates conservatively within its capital budget and returns the upside to shareholders when prices are strong.
+Ovintiv has signaled a commitment to a "business plan" approach: setting a realistic annual capital budget, targeting robust free cash flow generation, and returning cash above that target to shareholders through dividends and buybacks. The appeal of this stance is that it does not require assuming perpetually high commodity prices; instead, the company operates conservatively within its capital budget and returns the upside to shareholders when prices are strong.
 
 That said, capital discipline is tested whenever commodity prices surge. The temptation to drill more and chase growth is always present, and shareholders sometimes welcome that aggression when returns are assured.
 

@@ -4,7 +4,7 @@ description: "Mobile gaming publisher creating free-to-play casino and card game
 keywords: ["mobile gaming", "free-to-play games", "casino games", "social gaming", "in-app monetization", "digital entertainment"]
 ---
 
-*PlayStudios develops and publishes mobile games centered on casino and card gameplay, with integrated social features and loyalty rewards. Trading under the ticker **MYPS** on the NASDAQ and registered with the SEC under CIK 1823878, PlayStudios operates in the highly competitive mobile gaming market, where the barrier to entry is low but the cost of user acquisition and retention is high.*
+*PlayStudios develops and publishes mobile games centered on casino and card gameplay, with integrated social features and loyalty rewards. Trading under the ticker **MYPS** on the [NASDAQ](/nasdaq/) and registered with the SEC under CIK 1823878, PlayStudios operates in the highly competitive mobile gaming market, where the barrier to entry is low but the cost of user acquisition and retention is high.*
 
 <aside class="wiki-infobox">
 <table>
@@ -54,13 +54,13 @@ PlayStudios must ensure that its games are not marketed to minors and comply wit
 
 ## Capital and Cash Flow
 
-PlayStudios is typically cash-generative at the operating level, meaning the games produce more cash than they consume. However, the company must continually invest in user acquisition to maintain growth. If acquisition spending falls, revenue falls. Shareholders face pressure to fund aggressive growth or to return capital through dividends or buybacks.
+PlayStudios is typically cash-generative at the operating level, meaning the games produce more cash than they consume. However, the company must continually invest in user acquisition to maintain growth. If acquisition spending falls, revenue falls. Shareholders face pressure to fund aggressive growth or to return capital through [dividends](/dividend/) or buybacks.
 
-The balance sheet usually includes intangible assets (goodwill from acquisitions of other gaming studios) and may include debt. The company's ability to service debt depends on games continuing to monetize well; if a major franchise declines, profitability suffers.
+The [balance sheet](/balance-sheet/) usually includes [intangible assets](/intangible-assets/) ([goodwill](/goodwill/) from [acquisitions](/acquisition/) of other gaming studios) and may include debt. The company's ability to service debt depends on games continuing to monetize well; if a major franchise declines, profitability suffers.
 
 ## How to Research PlayStudios
 
-Start with the 10-K. The "Business" section describes each game, its target audience, and its monetization model. The segment reporting shows revenue contribution from each major game; if one game produces 60 percent of revenue and begins to decline, that is a red flag.
+Start with the 10-K. The "Business" section describes each game, its target audience, and its monetization model. The [segment reporting](/segment-reporting/) shows revenue contribution from each major game; if one game produces 60 percent of revenue and begins to decline, that is a red flag.
 
 Quarterly earnings reports disclose key metrics: monthly active users (MAU), daily active users (DAU), and average revenue per user (ARPU). Trends in these metrics tell you whether the company is growing, stalling, or declining. If MAU is flat and ARPU is declining, the business is in trouble.
 
@@ -76,7 +76,7 @@ Look for data from third-party analytics firms like Sensor Tower or App Annie th
 <h3>Wider context</h3>
 <ul>
 <li>Mobile app distribution and user acquisition economics</li>
-<li><a href="/free-cash-flow/">Free cash flow</a> from operating games</li>
+<li><a href="/free-cash-flow/">[Free cash flow](/free-cash-flow/)</a> from operating games</li>
 <li>Regulatory risk in gaming and digital entertainment</li>
 </ul>
 </div>

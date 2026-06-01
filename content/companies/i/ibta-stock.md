@@ -25,7 +25,7 @@ The competitive strength lies not in rewarding shoppers—dozens of apps do that
 
 ## Competitive Positioning Against Loyalty and Syndicated Data
 
-Ibotta operates in a space crowded with partial solutions. Traditional retailers already run first-party [loyalty programs](/stock/)—Kroger's loyalty program, Target Circle, Whole Foods Prime membership—and they guarded that data as a competitive moat. But those programs capture data only within each retailer's estate. A CPG brand selling across 50,000 stores cannot rely on a single retailer's view.
+Ibotta operates in a space crowded with partial solutions. Traditional retailers already run first-party [loyalty programs](/stock/)—[Kroger](/kr-stock/)'s loyalty program, [Target](/tgt-stock/) Circle, Whole Foods Prime membership—and they guarded that data as a competitive moat. But those programs capture data only within each retailer's estate. A CPG brand selling across 50,000 stores cannot rely on a single retailer's view.
 
 Syndicated data vendors (Nielsen, IRI) have sold CPG manufacturers aggregated store sales and syndication data for decades, but they sample stores and report with a lag. Ibotta competes on speed (near real-time) and breadth (receipt-level detail rather than sampled aggregates). Its receipt data is volunteered by individual shoppers acting with knowledge and consent, side-stepping privacy friction that prevents retailers from sharing individual-level data with competitors.
 
@@ -41,9 +41,9 @@ The leverage comes from the breadth of receipt data. As Ibotta enrolls more shop
 
 ## Competitive Threats and Market Dynamics
 
-Ibotta's stickiness is real but not unassailable. Large retailers could invest in their own receipt-aggregation networks, licensing the data to brands directly and removing Ibotta as middleman. Amazon's acquisition of Whole Foods and its parallel expansion into grocery provide one model: a retailer collecting first-party transaction data and controlling its sale. Legacy syndicated vendors (Nielsen after its 2021 delisting and reformation) also have scale and relationships with large CPG companies and could invest in receipt-level data capture.
+Ibotta's stickiness is real but not unassailable. Large retailers could invest in their own receipt-aggregation networks, licensing the data to brands directly and removing Ibotta as middleman. Amazon's [acquisition](/acquisition/) of Whole Foods and its parallel expansion into grocery provide one model: a retailer collecting first-party transaction data and controlling its sale. Legacy syndicated vendors (Nielsen after its 2021 delisting and reformation) also have scale and relationships with large CPG companies and could invest in receipt-level data capture.
 
-Technology firms with consumer reach—Google, Apple, Microsoft—could theoretically build receipt aggregation on top of their existing digital ecosystems, though consumer privacy concerns and platform incentives have not yet motivated such entry.
+Technology firms with consumer reach—Google, [Apple](/aapl-stock/), [Microsoft](/msft-stock/)—could theoretically build receipt aggregation on top of their existing digital ecosystems, though consumer privacy concerns and platform incentives have not yet motivated such entry.
 
 Ibotta's defensibility depends on continuing to grow its shopper base and retailer reach faster than competitors can replicate it. The company has expanded internationally into the UK and Australia, testing whether the domestic CPG-retailer relationship model translates across borders. The core dynamic—brands needing real-time promotional ROI data, retailers valuing CPG cooperation—is durable. But the customer lists of large CPG marketers remain valuable enough that a well-capitalized entrant or incumbent could poach share by building a better interface or faster analytics engine.
 

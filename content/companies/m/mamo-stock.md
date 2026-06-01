@@ -53,7 +53,7 @@ Some specialty retailers operate through both owned stores and wholesale relatio
 
 ## Vulnerability to Consolidation
 
-The specialty-retail landscape has consolidated significantly over the past decade. Larger retail groups (LVMH, Kering, Ralph Lauren) have absorbed independent specialty retailers, integrating them into larger portfolios and benefiting from shared services, supply-chain economies, and marketing investments. An independent specialty retailer like Massimo Group faces the risk of being acquired and integrated into a larger group—which may strengthen the brand and financial performance, or may result in loss of autonomy and brand focus.
+The specialty-retail landscape has consolidated significantly over the past decade. Larger retail groups (LVMH, Kering, [Ralph Lauren](/rl-stock/)) have absorbed independent specialty retailers, integrating them into larger portfolios and benefiting from shared services, supply-chain economies, and marketing investments. An independent specialty retailer like Massimo Group faces the risk of being acquired and integrated into a larger group—which may strengthen the brand and financial performance, or may result in loss of autonomy and brand focus.
 
 ## Demographic Specificity and Market Saturation
 

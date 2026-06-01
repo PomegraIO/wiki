@@ -45,7 +45,7 @@ The logistics of delivering home-based services requires dense patient populatio
 
 ## Acquisition and Consolidation Strategy
 
-Enhabit has grown partly through acquiring independent therapy practices and regional providers. This geographic consolidation strategy allows the company to build scale in specific markets, achieve negotiating power with local payers, and realize back-office efficiencies. However, it also means the company must integrate therapists, office staff, and billing systems across previously independent organizations. The success of these acquisitions depends on maintaining the local reputation and referral relationships that made the acquired practice valuable while realizing corporate-level efficiencies. This is difficult and time-consuming, making geographic expansion through acquisition a long-term strategy rather than a quick scaling mechanism.
+Enhabit has grown partly through acquiring independent therapy practices and regional providers. This geographic consolidation strategy allows the company to build scale in specific markets, achieve negotiating power with local payers, and realize back-office efficiencies. However, it also means the company must integrate therapists, office staff, and billing systems across previously independent organizations. The success of these [acquisitions](/acquisition/) depends on maintaining the local reputation and referral relationships that made the acquired practice valuable while realizing corporate-level efficiencies. This is difficult and time-consuming, making geographic expansion through acquisition a long-term strategy rather than a quick scaling mechanism.
 
 ## Vulnerability to Payer Consolidation and Policy Change
 

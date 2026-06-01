@@ -25,7 +25,7 @@ Diagens' competitive distinction is that it is not a global diagnostics company 
 
 Hangzhou Diagens operates around proprietary molecular diagnostic platforms—likely qPCR (quantitative polymerase chain reaction) and next-generation sequencing technologies used to detect tumor mutations, copy-number variations, and fusion genes. These technologies are not novel in a global sense; the real IP is in the specific assays and clinical evidence supporting them: which mutations does Diagens test for, how much clinical validation backs each panel, what is the turnaround time and accuracy.
 
-The company's assay portfolio likely focuses on oncology (lung cancer, gastric cancer, breast cancer—common in Asia) and infectious disease (where China has specific epidemiological and public-health needs). The revenue model is transactional: hospitals or reference laboratories send patient samples, Diagens runs the assay, generates a report, and bills the laboratory or patient (or a government health program). Margins depend on the cost of reagents, labor, equipment amortization, and the price the market will bear for each test.
+The company's assay portfolio likely focuses on oncology (lung cancer, gastric cancer, breast cancer—common in Asia) and infectious disease (where China has specific epidemiological and public-health needs). The revenue model is transactional: hospitals or reference laboratories send patient samples, Diagens runs the assay, generates a report, and bills the laboratory or patient (or a government health program). Margins depend on the cost of reagents, labor, equipment [amortization](/amortization/), and the price the market will bear for each test.
 
 ## Regulatory and Reimbursement Fragmentation
 
@@ -51,13 +51,13 @@ These are secular growth drivers with 5–10 year visibility, not cyclical to ec
 
 ## Currency, ADR, and Repatriation Structures
 
-Like other Chinese biotech firms listed as ADRs, HGZDY faces currency risk: earnings in yuan must be converted to dollars for dividend or capital repatriation. Additionally, China's government restricts certain outbound transfers; a cash-generative diagnostic company may face delays or complications in returning capital to US shareholders.
+Like other Chinese biotech firms listed as ADRs, HGZDY faces [currency risk](/currency-risk/): earnings in yuan must be converted to dollars for [dividend](/dividend/) or capital repatriation. Additionally, China's government restricts certain outbound transfers; a cash-generative diagnostic company may face delays or complications in returning capital to US shareholders.
 
-The firm is listed on OTC markets (not NASDAQ), which is typical for smaller Chinese companies and signals lower liquidity and analyst coverage than major exchanges.
+The firm is listed on OTC markets (not [NASDAQ](/nasdaq/)), which is typical for smaller Chinese companies and signals lower liquidity and analyst coverage than major exchanges.
 
 ## Why HGZDY is Not a "China Play" but a "China-Diagnostics Play"
 
-An investor in HGZDY is not betting broadly on Chinese biotech growth (where firms like BeiGene and Zai Lab have broader innovation pipelines) but on whether Hangzhou Diagens can build a defensible niche in oncology diagnostics within China and expand into Southeast Asia (where similar regulatory and language barriers apply). The success criteria are:
+An investor in HGZDY is not betting broadly on Chinese biotech growth (where firms like BeiGene and [Zai Lab](/zlab-stock/) have broader innovation pipelines) but on whether Hangzhou Diagens can build a defensible niche in oncology diagnostics within China and expand into Southeast Asia (where similar regulatory and language barriers apply). The success criteria are:
 1. Market share and volume growth in core oncology indications.
 2. Ability to expand into new provinces and cities.
 3. Clinical evidence supporting pricing power and adoption.
@@ -69,7 +69,7 @@ Small diagnostic companies are valued on [free-cash-flow](/free-cash-flow/) gene
 1. Government reimbursement cuts or delisting of specific assays.
 2. Competition from larger, better-capitalized diagnostic companies.
 3. Failure to secure approvals or clinical adoption in new markets.
-4. Currency weakness (yuan depreciation reduces dollar-equivalent earnings).
+4. Currency weakness (yuan [depreciation](/depreciation/) reduces dollar-equivalent earnings).
 
 For equity holders, HGZDY is a bet on the modernization and consolidation of China's diagnostics market, with returns dependent on the firm's ability to gain share without destructive price competition.
 
@@ -80,8 +80,8 @@ For equity holders, HGZDY is a bet on the modernization and consolidation of Chi
 - Chinese biotech and pharmaceutical companies
 
 ### Wider context
-- American Depositary Receipts
+- [American Depositary Receipts](/adr/)
 - [Securities and Exchange Commission](/securities-and-exchange-commission/)
 - Healthcare sector
-- Over-the-counter markets
+- [Over-the-counter markets](/over-the-counter-market/)
 </div>

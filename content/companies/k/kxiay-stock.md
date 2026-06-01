@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Kioxia Holdings Corporation is one of the world's leading manufacturers of memory semiconductors, producing NAND flash storage chips that power the data storage needs of billions of devices — from smartphone cameras to cloud-computing data centres. The company was spun out from Toshiba in 2019, though Toshiba and a consortium of investors remain major shareholders, and it trades on the [NASDAQ](/nasdaq/) under the ticker KXIAY as an [American depositary receipt](/adr/). Memory semiconductor manufacturing is capital-intensive, technically unforgiving, and highly cyclical, and Kioxia competes directly with a small number of other global players whose fortunes rise and fall together.
+Kioxia Holdings Corporation is one of the world's leading manufacturers of memory semiconductors, producing NAND flash storage chips that power the [data storage](/dtst-stock/) needs of billions of devices — from smartphone cameras to cloud-computing data centres. The company was spun out from Toshiba in 2019, though Toshiba and a consortium of investors remain major shareholders, and it trades on the [NASDAQ](/nasdaq/) under the ticker KXIAY as an [American depositary receipt](/adr/). Memory semiconductor manufacturing is capital-intensive, technically unforgiving, and highly cyclical, and Kioxia competes directly with a small number of other global players whose fortunes rise and fall together.
 
 <aside class="wiki-infobox">
 <table>

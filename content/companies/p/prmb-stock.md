@@ -15,7 +15,7 @@ Primo Brands manufactures and distributes bottled water and flavored water bever
 
 ## From National Presto Industries spin-out to water-focused operator
 
-Primo Brands was spun out of National Presto Industries, a diversified manufacturer, in 2009 as a separate public company. At the time of the spin, Primo was primarily a water-cooler and bottled-water business serving the North American market. The strategy has been to consolidate and grow the water-cooler and water-delivery channels, acquire complementary brands and distribution networks, and expand into adjacent categories like premium and flavored waters as the consumer hydration market has evolved.
+Primo Brands was spun out of [National Presto Industries](/npk-stock/), a diversified manufacturer, in 2009 as a separate public company. At the time of the spin, Primo was primarily a water-cooler and bottled-water business serving the North American market. The strategy has been to consolidate and grow the water-cooler and water-delivery channels, acquire complementary brands and distribution networks, and expand into adjacent categories like premium and flavored waters as the consumer hydration market has evolved.
 
 The company began with legacy water-cooler operations in the United States and Canada, which represented the core of Primo's installed base — a network of customers with water coolers in homes and offices receiving regular deliveries of bottled water. That recurring-delivery model creates a certain amount of predictability: an installed cooler is a switching cost, because a customer must take active steps to cancel service. The company has used that base as a platform to sell higher-margin water products, water-cooler equipment, and complementary beverages.
 

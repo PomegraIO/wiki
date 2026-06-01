@@ -25,7 +25,7 @@ Butterfly's path has been to position itself in care settings that conventional 
 
 ## Revenue model and customer variety
 
-Unlike the hospital-centric sales model of Philips or GE—where a ultrasound purchase is a years-long capital project negotiated between radiology departments and procurement—Butterfly sells to individual clinicians, departments, and health systems via direct channels. A cardiologist in an outpatient clinic, an emergency medicine group, a rural hospital, or even a private veterinary practice can purchase a device with no need for infrastructure or special cabinetry. This diversity of buyer types (clinician, institution, government, international) creates both breadth and fragmentation in Butterfly's revenue. A single hospital might deploy dozens of units across departments, or a clinic might buy one. Revenue recognition depends on which segment is driving growth in any given quarter.
+Unlike the hospital-centric sales model of Philips or GE—where a ultrasound purchase is a years-long capital project negotiated between radiology departments and procurement—Butterfly sells to individual clinicians, departments, and health systems via direct channels. A cardiologist in an outpatient clinic, an emergency medicine group, a rural hospital, or even a private veterinary practice can purchase a device with no need for infrastructure or special cabinetry. This diversity of buyer types (clinician, institution, government, international) creates both breadth and fragmentation in Butterfly's revenue. A single hospital might deploy dozens of units across departments, or a clinic might buy one. [Revenue recognition](/revenue-recognition/) depends on which segment is driving growth in any given quarter.
 
 ## Competition and margin pressure
 

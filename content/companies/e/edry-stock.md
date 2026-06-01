@@ -4,7 +4,7 @@ description: "Dry-bulk shipping company serving commodity traders and industrial
 keywords: [shipping, maritime, dry-bulk, commodities, fleet ownership]
 ---
 
-*Bulk shipping depends on a network of traders, charterers, and commodity suppliers who need reliable tonnage to move grain, coal, iron ore, and agricultural products across oceans. **EuroDry Ltd. (EDRY)** exists because those customers need a dependable carrier with owned vessels rather than one-off spot charters—a company that can commit to routes and build relationships with the shippers who make seaborne trade work.*
+*Bulk shipping depends on a network of traders, charterers, and commodity suppliers who need reliable tonnage to move grain, coal, [iron ore](/iron-ore/), and agricultural products across oceans. **EuroDry Ltd. (EDRY)** exists because those customers need a dependable carrier with owned vessels rather than one-off spot charters—a company that can commit to routes and build relationships with the shippers who make seaborne trade work.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>EDRY</td></tr>
@@ -19,7 +19,7 @@ keywords: [shipping, maritime, dry-bulk, commodities, fleet ownership]
 
 EuroDry operates a fleet of dry-bulk vessels—ships engineered to carry non-containerized, non-liquid cargo. From the customer's vantage point, the company offers a service: if you need 50,000 tons of grain moved from Argentina to Japan, or coal from Australia to South Korea, you contact carriers like EuroDry to lock in capacity at a negotiated rate. The company earns revenue by owning and operating these ships, charging freight rates per ton or per voyage. Unlike tramp operators that hop from cargo to cargo, EuroDry maintains a fixed fleet, which shapes both its business model and its vulnerability.
 
-The appeal to customers is straightforward. Commodity shippers and trading companies need predictable access to tonnage. When iron ore prices spike or grain harvests surge, the spot market for ships becomes volatile and expensive. A company with long-standing relationships to a carrier can secure berths, negotiate timely schedules, and rely on consistent vessel quality. EuroDry, as an owner rather than a broker, can offer that stability—though only as long as the fleet is well-maintained and utilization is high.
+The appeal to customers is straightforward. Commodity shippers and trading companies need predictable access to tonnage. When iron ore prices spike or grain harvests surge, the spot market for ships becomes volatile and expensive. A company with long-standing relationships to a carrier can secure berths, negotiate timely schedules, and rely on consistent vessel quality. EuroDry, as an owner rather than a [broker](/broker/), can offer that stability—though only as long as the fleet is well-maintained and utilization is high.
 
 ## Fleet Composition and Capital Intensity
 

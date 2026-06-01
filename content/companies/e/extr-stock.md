@@ -31,7 +31,7 @@ Revenue comes from equipment sales and from software and support contracts. Equi
 
 ## Competition
 
-Extreme is not the biggest player. Cisco, headquartered in San Jose, dominates enterprise networking. Cisco has more engineers, more customers, more brands, and vastly more resources. Arista, a newer competitor, focuses on high-speed data center networks and has grown quickly. Other rivals include Juniper, Mellanox (now part of Nvidia), and dozens of smaller players.
+Extreme is not the biggest player. Cisco, headquartered in San Jose, dominates enterprise networking. Cisco has more engineers, more customers, more brands, and vastly more resources. Arista, a newer competitor, focuses on high-speed data center networks and has grown quickly. Other rivals include Juniper, Mellanox (now part of [Nvidia](/nvda-stock/)), and dozens of smaller players.
 
 Extreme's strategy is to compete on price and agility. It positions itself as faster to innovate and cheaper than Cisco. It targets the mid-market—companies too small to need Cisco's massive sales force, but too large to buy consumer-grade equipment. It also focuses on specific segments, like campus networks for universities, or wireless networks for enterprises.
 
@@ -45,7 +45,7 @@ The cloud software business is higher margin. If Extreme can shift customers tow
 
 ## The Balance Sheet Reality
 
-Extreme has been profitable some years and unprofitable others. The company carries [debt](/corporate-bond/) from acquisitions. Its stock has been volatile, sometimes trading well above cash flow value, sometimes well below. This is typical for midsize tech companies facing larger, better-capitalized competitors.
+Extreme has been profitable some years and unprofitable others. The company carries [debt](/corporate-bond/) from [acquisitions](/acquisition/). Its stock has been volatile, sometimes trading well above cash flow value, sometimes well below. This is typical for midsize tech companies facing larger, better-capitalized competitors.
 
 The company has made acquisitions to buy software, technology, and customer bases. These acquisitions are bets that Extreme can integrate a new unit and cross-sell its products. Not all acquisitions succeed. Some are written down as impairments, which reduces reported earnings.
 
@@ -69,7 +69,7 @@ The company files a 10-K with the [SEC](/securities-and-exchange-commission/) vi
 - Gross margin trends.
 - R&D spending as a percentage of revenue.
 - Customer concentration (is revenue from a few large customers?).
-- Debt levels and debt-to-equity ratio.
+- Debt levels and [debt-to-equity ratio](/debt-to-equity-ratio/).
 - Free cash flow.
 
 If R&D is declining as a percentage of revenue, the company is cutting innovation. That's a warning. If customer concentration is high (top 5 customers = 40% of revenue), the company is at risk if one customer leaves. If debt is rising and cash flow is flat, the company is under financial stress.

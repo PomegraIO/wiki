@@ -35,7 +35,7 @@ The company's disclosure of general-and-administrative (G&A) costs reveals both 
 
 ## Capital Structure and Debt Load
 
-Brookdale's balance sheet is material to its credit story. Filings disclose significant debt tied to acquisition of properties and construction of new communities. Interest expense is substantial enough to meaningfully impact earnings; filings track debt-to-EBITDA ratios and covenant compliance closely, particularly covenants around occupancy, REVPOR, and adjusted EBITDA calculations. The company has periodically restructured debt or negotiated waivers when operating pressures emerged—events disclosed in 8-K filings and detailed in quarterly earnings calls.
+Brookdale's [balance sheet](/balance-sheet/) is material to its credit story. Filings disclose significant debt tied to acquisition of properties and construction of new communities. Interest expense is substantial enough to meaningfully impact earnings; filings track [debt-to-EBITDA ratios](/debt-to-ebitda-ratio/) and covenant compliance closely, particularly covenants around occupancy, REVPOR, and adjusted [EBITDA](/ebitda/) calculations. The company has periodically restructured debt or negotiated waivers when operating pressures emerged—events disclosed in 8-K filings and detailed in quarterly earnings calls.
 
 Property financing often involves sale-leaseback arrangements: Brookdale owns the underlying real estate or an existing community, then enters into lease arrangements where a third-party lessor receives priority cash flow, and Brookdale retains operational upside. These structures are detailed in filings' lease obligation disclosures and create fixed rent burdens similar to franchisees. During downturns, rent obligations remain fixed while revenue declines, creating leverage in the opposite direction.
 
@@ -45,7 +45,7 @@ Senior-living communities are licensed by state health departments. Each communi
 
 ## Occupancy Cycles and Macro Sensitivity
 
-Though positioned as defensive (aging population continues regardless of economy), Brookdale's filings reveal that occupancy is economically sensitive. Marketing and leasing costs rise when occupancy falls below historical rates; families delay transitions to senior living during recessions, extending the occupancy ramp at newly acquired communities. Filings disclose long occupancy-ramp periods (months-to-quarters to reach stabilized occupancy) for acquisitions, and note that communities acquired during downturns required longer ramp periods and deeper discounting to achieve occupancy targets.
+Though positioned as defensive (aging population continues regardless of economy), Brookdale's filings reveal that occupancy is economically sensitive. Marketing and leasing costs rise when occupancy falls below historical rates; families delay transitions to senior living during [recessions](/recession/), extending the occupancy ramp at newly acquired communities. Filings disclose long occupancy-ramp periods (months-to-quarters to reach stabilized occupancy) for [acquisitions](/acquisition/), and note that communities acquired during downturns required longer [ramp periods](/ramp-period/) and deeper discounting to achieve occupancy targets.
 
 ## See Also
 

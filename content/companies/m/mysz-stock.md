@@ -24,7 +24,7 @@ The company's competitive position rests on two technical capabilities. First, 3
 
 My Size's revenue model centers on per-transaction fees or subscription licensing to apparel retailers and marketplaces. The company must convince often-conservative fashion and mass-market retailers to embed a new technology into their user journey. Adoption requires API integration, training on how to use the system, and internal buy-in from merchandising teams. This makes My Size's sales process enterprise-oriented despite its consumer-facing product: deals move slowly, implementation takes months, and volume scales gradually as partners roll out the feature to more SKUs or user segments.
 
-The company's geographic exposure is global—US e-commerce giants represent the largest opportunity, but European and Asian apparel and logistics companies also license the technology. This geographic breadth provides revenue diversification but also exposes My Size to currency fluctuation and varying regulatory approaches to biometric data (body measurements, though not facial or fingerprint data, sit in regulatory gray zones in some markets).
+The company's geographic exposure is global—US e-commerce giants represent the largest opportunity, but European and Asian apparel and logistics companies also license the technology. This geographic breadth provides revenue [diversification](/diversification/) but also exposes My Size to currency fluctuation and varying regulatory approaches to biometric data (body measurements, though not facial or fingerprint data, sit in regulatory gray zones in some markets).
 
 ## Data Moat and Competitive Friction
 

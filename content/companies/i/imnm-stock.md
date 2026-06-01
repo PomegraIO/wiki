@@ -67,7 +67,7 @@ Immunome's differentiation lies in its specific antigen targets, its engineering
 
 Immunome's value will materialize through clinical success: positive Phase II data dramatically increases the perceived probability of regulatory approval and revenue. A Phase III success is transformative. At that point, larger pharma will likely seek to acquire the company or partner on commercialization.
 
-Alternatively, Immunome might commercialize approved therapies itself, building a commercial organization and manufacturing infrastructure. This requires capital but preserves upside. Most early-stage biotech companies, however, exit through acquisition once clinical proof is established; operating a commercial organization is capital-intensive and expertise-intensive.
+Alternatively, Immunome might commercialize approved therapies itself, building a commercial organization and manufacturing infrastructure. This requires capital but preserves upside. Most early-stage biotech companies, however, exit through [acquisition](/acquisition/) once clinical proof is established; operating a commercial organization is capital-intensive and expertise-intensive.
 
 <div class="wiki-seealso">
 ### Closely related

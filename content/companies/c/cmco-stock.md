@@ -35,7 +35,7 @@ After the war, as American manufacturers rebuilt and industrial construction res
 
 ## Mid-20th Century Consolidation and Market Maturity
 
-By the 1960s and 1970s, Columbus McKinnon operated as a mature, profitable industrial manufacturer. Growth came from incremental gains in market share, new products addressing specific customer pain points, and geographic expansion into emerging markets. The company went public in 1960, allowing it to access capital markets for acquisitions and facility investments.
+By the 1960s and 1970s, Columbus McKinnon operated as a mature, profitable industrial manufacturer. Growth came from incremental gains in market share, new products addressing specific customer pain points, and geographic expansion into emerging markets. The company went public in 1960, allowing it to access capital markets for [acquisitions](/acquisition/) and facility investments.
 
 The core business model was straightforward: engineers designed equipment to safely lift and move loads; manufacturing facilities produced them at reasonable cost; sales teams sold to contractors, factories, and utilities; service networks provided spare parts and maintenance. Margins were healthy because Columbus McKinnon's products were essential to customer operations—a factory could not function without hoists and rigging equipment—and switching costs were high once a customer integrated Columbus McKinnon products into their infrastructure.
 
@@ -55,7 +55,7 @@ Columbus McKinnon's SEC [10-K filings](/10-k/) typically show steady revenues fr
 
 ## Legacy and Continuity
 
-What distinguishes Columbus McKinnon over its long history is constancy of purpose. The company was founded to solve a specific, durable industrial problem, and it has remained focused on that problem for nearly 150 years. It has not attempted to become a conglomerate, a technology company, or a financial services firm. It has not abandoned its core markets for fashion or novelty. This continuity reflects both the stability of the material-handling market and the patient, engineering-oriented culture that has long defined Columbus McKinnon. For investors researching the company, that stability—paired with incremental innovation, customer intimacy, and international diversification—remains the core investment case.
+What distinguishes Columbus McKinnon over its long history is constancy of purpose. The company was founded to solve a specific, durable industrial problem, and it has remained focused on that problem for nearly 150 years. It has not attempted to become a conglomerate, a technology company, or a financial services firm. It has not abandoned its core markets for fashion or novelty. This continuity reflects both the stability of the material-handling market and the patient, engineering-oriented culture that has long defined Columbus McKinnon. For investors researching the company, that stability—paired with incremental innovation, customer intimacy, and international [diversification](/diversification/)—remains the core investment case.
 
 <div class="wiki-seealso">
 

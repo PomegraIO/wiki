@@ -22,7 +22,7 @@ Diploma's operational position lies in the middle of the pharmaceutical and medi
 - **Volume aggregation**: Buying in bulk from manufacturers at wholesale prices and reselling to smaller customers at higher per-unit margins.
 - **Availability and convenience**: Customers can order diverse products (oral medications, injectables, diagnostic kits, surgical supplies) in a single transaction rather than contacting multiple manufacturers.
 - **Time-critical delivery**: Healthcare facilities often require medications and supplies within hours, not days; Diploma's local warehouses and fleet enable this.
-- **Regulatory compliance and logistics**: Diploma manages the distribution of controlled substances, maintains proper documentation, ensures cold-chain integrity for temperature-sensitive products, and tracks expiration dates—complex obligations that customers prefer to outsource.
+- **Regulatory compliance and logistics**: Diploma manages the distribution of controlled substances, maintains proper documentation, ensures cold-chain integrity for temperature-sensitive products, and tracks [expiration dates](/expiration-contracts/)—complex obligations that customers prefer to outsource.
 
 Margins in pharmaceutical distribution are typically 5–12%, varying by product category, customer volume, and competitive intensity. Generic medications have lower margins than specialty or branded pharmaceuticals; high-volume customers (large hospital systems, pharmacy chains) negotiate lower margins than smaller independent pharmacies.
 
@@ -67,11 +67,11 @@ Building this specialized infrastructure requires capital investment and talent,
 
 Diploma operates internationally, which diversifies geographic risk but requires navigation of different regulatory and reimbursement environments. In some countries, government price controls or mandatory generic substitution directly limit margins; in others, competition from local distributors or direct-to-pharmacy sales by manufacturers constrains market access.
 
-The UK and select European markets represent established, regulated markets with stable reimbursement. Emerging markets offer growth potential but carry regulatory, credit, and operational risks that reduce attractiveness relative to core operations.
+The UK and select European markets represent established, regulated markets with stable reimbursement. Emerging markets offer growth potential but carry regulatory, credit, and [operational risks](/operational-risk/) that reduce attractiveness relative to core operations.
 
 ## Technology and Customer Integration
 
-Moderna distributor operations depend on integration with customer ordering systems. Large health systems use electronic data interchange (EDI) to automate order placement, invoice processing, and payment; Diploma must invest in systems that support this. Real-time inventory visibility, order tracking, and supply chain analytics become customer expectations, particularly for large accounts.
+[Moderna](/mrna-stock/) distributor operations depend on integration with customer ordering systems. Large health systems use electronic data interchange (EDI) to automate order placement, invoice processing, and payment; Diploma must invest in systems that support this. Real-time inventory visibility, order tracking, and supply chain analytics become customer expectations, particularly for large accounts.
 
 Technology investments in demand forecasting, warehouse automation, and route optimization reduce operational costs and improve service levels. However, these investments also increase fixed costs and are difficult to fully recoup if customer relationships are lost.
 

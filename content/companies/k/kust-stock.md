@@ -18,7 +18,7 @@ keywords: ["entertainment", "music production", "touring", "independent media", 
 
 Kustom's core operations center on managing independent music artists and coordinating the release and promotion of their recorded content. The company functions as a label, management company, and booking agent rolled into a single entity—a model that economizes on overhead but creates operational complexity.
 
-The touring logistics are concrete and time-sensitive. An artist is scheduled to play 40 shows across a fiscal year. Each show requires venue confirmation, contract negotiation (guarantees, ticket splits, technical specifications), promotion, crew coordination (sound engineer, stage manager, lighting technician), transportation, and lodging. The company maintains relationships with independent venues, clubs, and mid-size theaters in secondary and tertiary markets where ticket prices are lower but audiences are often more engaged than in major urban markets.
+The touring logistics are concrete and time-sensitive. An artist is scheduled to play 40 shows across a fiscal year. Each show requires venue confirmation, contract negotiation (guarantees, ticket splits, technical specifications), promotion, crew coordination (sound engineer, stage manager, lighting technician), transportation, and lodging. The company maintains relationships with independent venues, clubs, and mid-size theaters in secondary and [tertiary markets](/tertiary-market/) where ticket prices are lower but audiences are often more engaged than in major urban markets.
 
 Revenue from touring comes in multiple forms: guaranteed fees from venues (less common), ticket splits after venue expenses (more typical), merchandise sales, and meet-and-greet premiums. The company's touring operations team must reconcile payment from hundreds of venues annually, track which artists are profitable on the road, and manage the inherent variability in attendance.
 
@@ -32,7 +32,7 @@ Manufacturing exists for physical media where there is still demand. Vinyl recor
 
 ## Distribution and Monetization Channels
 
-Kustom operates through multiple distribution channels, each with different mechanics and timelines. Digital distribution—to Spotify, Apple Music, Amazon Music—is centralized through aggregators or distributors like DistroKid or CD Baby. The company delivers a master file and metadata; the aggregator handles the technical formatting, delivery, and payment processing. Royalties flow to Kustom monthly or quarterly, with a lag of several months.
+Kustom operates through multiple distribution channels, each with different mechanics and timelines. Digital distribution—to Spotify, [Apple](/aapl-stock/) Music, Amazon Music—is centralized through aggregators or distributors like DistroKid or CD Baby. The company delivers a master file and metadata; the aggregator handles the technical formatting, delivery, and payment processing. Royalties flow to Kustom monthly or quarterly, with a lag of several months.
 
 Direct-to-consumer sales happen through the company's own website or artist Bandcamp pages. These channels offer the highest margin (no intermediary taking a cut) but require handling fulfillment, customer service, refunds, and platform maintenance. Kustom likely uses a fulfillment partner for physical media rather than managing inventory in-house.
 
@@ -42,7 +42,7 @@ Licensing revenue comes from use of Kustom-controlled music in film, television,
 
 Kustom's operations depend on maintaining stable relationships with multiple artists. Each artist is operationally distinct: different audiences, different release schedules, different promotional needs. Some artists release frequently (every 2-3 months); others release once or twice per year. Kustom must coordinate timelines to ensure that label resources (promotion, playlist pitching, booking coordination) are distributed efficiently.
 
-Artist attrition is a continuous operational risk. If a successful artist leaves Kustom to sign with a major label or go independent, the company loses that revenue stream and the associated operational workload drops, freeing capacity but also reducing scale. Artist development—investing time and money in emerging talent that may not generate revenue for years—requires a different budget and risk tolerance than working with already-successful artists.
+Artist attrition is a continuous [operational risk](/operational-risk/). If a successful artist leaves Kustom to sign with a major label or go independent, the company loses that revenue stream and the associated operational workload drops, freeing capacity but also reducing scale. Artist development—investing time and money in emerging talent that may not generate revenue for years—requires a different budget and risk tolerance than working with already-successful artists.
 
 ## The Operational Economics of Independent Music
 

@@ -34,7 +34,7 @@ Clinical trial execution is operationally intensive and expensive. CERO's compet
 
 ## Regulatory Pathway and Approval Strategy
 
-CERO's strategy in navigating the FDA determines how quickly it can reach patients. A biotech that designs trials aligned with FDA guidance, engages regulators early through pre-submission meetings, and proposes an accelerated pathway (Breakthrough Designation, Fast Track) can shorten time-to-approval relative to rivals using standard pathways.
+CERO's strategy in navigating the FDA determines how quickly it can reach patients. A biotech that designs trials aligned with FDA guidance, engages regulators early through pre-submission meetings, and proposes an accelerated pathway (Breakthrough Designation, [Fast Track](/ftrk-stock/)) can shorten time-to-approval relative to rivals using standard pathways.
 
 This is a knowledge-based competitive advantage. CERO must employ regulatory experts who understand the agency's evolving standards for metabolic-disease drugs. Regulators in this space have become more skeptical of proxy endpoints and demand long-term safety data. A competitor that understands this nuance and designs trials accordingly may progress faster than rivals that must redesign trials after negative pre-submission feedback.
 

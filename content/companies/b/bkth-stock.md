@@ -14,23 +14,23 @@ Without access to MEGOLA's specific business description, the fundamental insigh
 
 ## Balance Sheet and Capital Deployment
 
-MEGOLA's balance sheet, disclosed in its 10-K filing, shows how much capital shareholders have invested in the business, what assets the company controls, what liabilities it has incurred, and what cash is available for growth or shareholder returns. Assets may include tangible items (property, equipment, inventory) if MEGOLA is a manufacturer or distributor, or intangible items (patents, goodwill, customer relationships) if it is a technology or services business.
+MEGOLA's balance sheet, disclosed in its 10-K filing, shows how much capital shareholders have invested in the business, what assets the company controls, what liabilities it has incurred, and what cash is available for growth or shareholder returns. Assets may include tangible items (property, equipment, inventory) if MEGOLA is a manufacturer or distributor, or intangible items (patents, [goodwill](/goodwill/), customer relationships) if it is a technology or services business.
 
-The company's capital structure—the mix of debt and equity—reflects its business model and cost of capital. A mature, stable business with predictable cash flows can support debt; a volatile or growth-stage business typically cannot. MEGOLA's leverage ratio, disclosed in its filings, indicates how much financial risk the company has assumed and how much room it has to borrow if needed.
+The company's capital structure—the mix of debt and equity—reflects its business model and cost of capital. A mature, stable business with predictable cash flows can support debt; a volatile or growth-stage business typically cannot. MEGOLA's [leverage ratio](/leverage-ratio-forex/), disclosed in its filings, indicates how much financial risk the company has assumed and how much room it has to borrow if needed.
 
 ## Earnings Generation and Profitability Model
 
-MEGOLA's income statement shows how much revenue the company generates, what costs it incurs, and what profit (or loss) remains. The structure of those costs—whether dominated by cost of goods sold (suggesting a manufacturer), operating expenses (suggesting a services or technology firm), or interest and taxes (suggesting high leverage)—shapes the business model.
+MEGOLA's [income statement](/income-statement/) shows how much revenue the company generates, what costs it incurs, and what profit (or loss) remains. The structure of those costs—whether dominated by cost of goods sold (suggesting a manufacturer), operating expenses (suggesting a services or technology firm), or interest and taxes (suggesting high leverage)—shapes the business model.
 
-The gross profit margin—what fraction of revenue remains after direct costs—varies enormously by industry. Commoditized manufacturers may operate at 10–20% gross margins; software and high-IP businesses may achieve 70–90%. MEGOLA's gross margin, tracked over time, indicates whether the company has pricing power, whether its costs are under control, and whether its competitive position is strengthening or weakening.
+The [gross profit margin](/gross-profit-margin/)—what fraction of revenue remains after direct costs—varies enormously by industry. Commoditized manufacturers may operate at 10–20% gross margins; software and high-IP businesses may achieve 70–90%. MEGOLA's gross margin, tracked over time, indicates whether the company has pricing power, whether its costs are under control, and whether its competitive position is strengthening or weakening.
 
-Operating margin—earnings before interest and taxes as a fraction of revenue—shows how much profit the company generates after all operating expenses. A company that is growing revenue but losing money, or shrinking operating margins, is likely in a deteriorating competitive position or must spend heavily to maintain market share.
+Operating margin—earnings before interest and taxes as a fraction of revenue—shows how much profit the company generates after all operating expenses. A company that is growing revenue but losing money, or shrinking [operating margins](/operating-margin/), is likely in a deteriorating competitive position or must spend heavily to maintain market share.
 
 ## Growth, Profitability, and the Life Cycle
 
 Companies pass through life cycles: early-stage growth (high investment, no profit), rapid expansion (rapid revenue growth, improving margins), maturity (stable revenue and margins, cash generation), and decline (shrinking revenue and margins). MEGOLA's position on this spectrum affects its valuation, capital needs, and strategic options.
 
-A high-growth company may be valued based on future earnings power even if it currently operates at a loss. A mature company is valued based on current cash generation and the sustainability of that cash flow. A declining company's valuation reflects terminal value and the size of the remaining market.
+A high-growth company may be valued based on future earnings power even if it currently operates at a loss. A mature company is valued based on current cash generation and the sustainability of that cash flow. A declining company's valuation reflects [terminal value](/terminal-value/) and the size of the remaining market.
 
 MEGOLA's investor presentation and management commentary in the 10-K provide clues about which stage the company believes it is in and what management expects for the next few years. Investors should assess whether those claims are realistic given the industry dynamics and competitive environment.
 
@@ -42,7 +42,7 @@ Companies without moats operate in commoditized segments where competition erode
 
 ## Liquidity and Dividend Policy
 
-If MEGOLA generates more cash than it needs for operations and growth, management can either reinvest that cash, return it to shareholders via dividends, or use it to acquire other companies. The company's dividend policy—if a dividend exists—indicates whether management views the business as mature and stable or as needing capital for growth.
+If MEGOLA generates more cash than it needs for operations and growth, management can either reinvest that cash, return it to shareholders via [dividends](/dividend/), or use it to acquire other companies. The company's dividend policy—if a dividend exists—indicates whether management views the business as mature and stable or as needing capital for growth.
 
 A company that initiates or increases a dividend is signaling confidence in future cash generation. A company that cuts a dividend is signaling financial stress or a shift toward reinvestment in the business.
 

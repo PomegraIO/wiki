@@ -27,7 +27,7 @@ Medicare Advantage is different. It is a federal program for seniors age 65 and 
 
 Medicaid beneficiaries are financially vulnerable, meaning they have lower healthcare costs on average than the general population — more preventable disease, fewer expensive elective procedures. That creates an opportunity for an insurer that can deliver efficient, coordinated care. Centene earns significant margins on Medicaid because it has built capabilities in primary-care coordination, disease management, and utilization review that reduce unnecessary spending.
 
-The downside is political. Medicaid is a program for the poor, which makes it a persistent [target](/tgt-stock/) for budget cuts and regulatory restrictions. States may reduce payment rates during fiscal stress. Congress may change eligibility rules or benefit design. Centene has minimal pricing power — it accepts what the government offers or loses the contract. That means Centene must operate with real efficiency and with the ability to adjust its cost base quickly if payment rates fall.
+The downside is political. Medicaid is a program for the poor, which makes it a persistent target for budget cuts and regulatory restrictions. States may reduce payment rates during fiscal stress. Congress may change eligibility rules or benefit design. Centene has minimal pricing power — it accepts what the government offers or loses the contract. That means Centene must operate with real efficiency and with the ability to adjust its cost base quickly if payment rates fall.
 
 ## What about the broader business?
 

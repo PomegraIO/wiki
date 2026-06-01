@@ -21,7 +21,7 @@ Turkey's retail landscape is bifurcated: traditional, family-run stores and open
 
 D-MARKET's flagship property, Getir, operates a ultra-fast grocery delivery model: customers order via app and receive groceries within 10–20 minutes from strategically positioned micro-fulfillment centers. This business model differs radically from traditional supermarket shopping and from logistics-dependent online grocery services in developed markets. Getir targets the urban, mobile-first consumer who values convenience over bulk purchasing, a consumer segment that is rapidly expanding in Turkish cities.
 
-The regional market—Turkey, the Levant, North Africa, and Central Asia—is substantially underpenetrated by e-commerce compared to developed markets, but also undersatured by organized retail. D-MARKET positions itself to capture e-commerce growth across multiple categories: grocery (Getir), general retail (Trendyol, a marketplace acquired by parent company Alibaba), and adjacent services (Fintech, logistics). This diversification allows the company to build multi-category relationships with consumers while leveraging shared infrastructure.
+The regional market—Turkey, the Levant, North Africa, and Central Asia—is substantially underpenetrated by e-commerce compared to developed markets, but also undersatured by organized retail. D-MARKET positions itself to capture e-commerce growth across multiple categories: grocery (Getir), general retail (Trendyol, a marketplace acquired by parent company Alibaba), and adjacent services (Fintech, logistics). This [diversification](/diversification/) allows the company to build multi-category relationships with consumers while leveraging shared infrastructure.
 
 ## The Unit Economics of Ultra-Fast Delivery
 
@@ -39,7 +39,7 @@ The competitive moat for ultra-fast delivery derives from local density and bran
 
 D-MARKET expanded Getir into Europe and the United States in the early 2020s, aiming to replicate Turkish success in developed markets. These expansions have proven more challenging: developed-market grocery is consolidated under large retailers with efficient logistics, delivery costs are higher due to lower density, and consumer habits are more entrenched.
 
-The company operates in multiple currencies, creating exposure to foreign exchange fluctuations. Turkish inflation and lira weakness affect D-MARKET's ability to fund operations and compete internationally. The company relies on continued capital inflows from investors and strategic backers (Alibaba holds a stake) to fund expansion and absorb losses in nascent markets.
+The company operates in multiple currencies, creating exposure to foreign exchange fluctuations. Turkish [inflation](/inflation/) and lira weakness affect D-MARKET's ability to fund operations and compete internationally. The company relies on continued capital inflows from investors and strategic backers (Alibaba holds a stake) to fund expansion and absorb losses in nascent markets.
 
 ## Business Model Segmentation and Profitability
 

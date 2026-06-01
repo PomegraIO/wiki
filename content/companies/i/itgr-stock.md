@@ -4,7 +4,7 @@ description: "A medical device contract manufacturer whose fortunes follow hospi
 keywords: ["medical devices", "contract manufacturing", "orthopedics", "cardiovascular", "outsourcing", "healthcare"]
 ---
 
-*Decoupled from recessions but tethered to healthcare cycles, **Integer Holdings Corp.** (ticker: ITGR) manufactures implantable medical devices and components for orthopedic, cardiac, and vascular markets. Its business wins during medical-procedure booms (aging demographics, rising elective surgery rates) and stumbles when hospital capital budgets freeze or procedure volumes drop—dynamics that correlate imperfectly with the broad economy.*
+*Decoupled from [recessions](/recession/) but tethered to healthcare cycles, **Integer Holdings Corp.** (ticker: ITGR) manufactures implantable medical devices and components for orthopedic, cardiac, and vascular markets. Its business wins during medical-procedure booms (aging demographics, rising elective surgery rates) and stumbles when hospital capital budgets freeze or procedure volumes drop—dynamics that correlate imperfectly with the broad economy.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>ITGR</td></tr>
@@ -17,7 +17,7 @@ keywords: ["medical devices", "contract manufacturing", "orthopedics", "cardiova
 
 ## Contract Manufacturing in Medical: The Outsourcing Cycle
 
-Integer does not invent devices; it manufactures them for larger med-tech OEMs under contract. Its customers — Boston Scientific, Medtronic, Abbott, Zimmer Biomet, and tier-two suppliers — outsource fabrication of implants, catheters, pacemakers, and orthopedic components because Integer operates specialized cleanrooms, injection-molding, machining, and assembly lines more cost-effectively than the OEMs can in-house. The relationship is sticky: changing manufacturers means re-validating equipment, re-certifying with the FDA, and disrupting supply chains. Integer's customers face switching costs measured in months and regulatory dollars.
+Integer does not invent devices; it manufactures them for larger med-tech OEMs under contract. Its customers — [Boston Scientific](/bsx-stock/), Medtronic, Abbott, [Zimmer Biomet](/zbh-stock/), and tier-two suppliers — outsource fabrication of implants, catheters, pacemakers, and orthopedic components because Integer operates specialized cleanrooms, injection-molding, machining, and assembly lines more cost-effectively than the OEMs can in-house. The relationship is sticky: changing manufacturers means re-validating equipment, re-certifying with the FDA, and disrupting supply chains. Integer's customers face switching costs measured in months and regulatory dollars.
 
 But that stickiness is cyclical, not structural. When an OEM's volume declines, it pressures Integer's utilization and margins. When an OEM shifts sourcing to lower-cost regions (Mexico, Asia), Integer loses contracts. And when procedure volumes collapse — as they did in 2020 when hospitals canceled elective surgeries — Integer's backlog emptied and utilization crashed.
 
@@ -45,7 +45,7 @@ Integer operates manufacturing facilities across North America and Asia. This re
 
 ## The Secular Question: Can Medical Outsourcing Sustain?
 
-Separately from procedure cycles, the question is whether OEMs will continue outsourcing at scale. Large device makers have capital and scale to repatriate manufacturing if economics or supply-chain risks merit it. Integer's defensibility rests on maintaining lower unit costs than OEMs can achieve in-house — a relative advantage that erodes as wage inflation and automation even out global cost differentials. For now, Integer wins procedure-volume upswings and loses during downturns, with secular headwinds from consolidation and margin pressure.
+Separately from procedure cycles, the question is whether OEMs will continue outsourcing at scale. Large device makers have capital and scale to repatriate manufacturing if economics or supply-chain risks merit it. Integer's defensibility rests on maintaining lower unit costs than OEMs can achieve in-house — a relative advantage that erodes as wage [inflation](/inflation/) and automation even out global cost differentials. For now, Integer wins procedure-volume upswings and loses during downturns, with secular headwinds from consolidation and margin pressure.
 
 <div class="wiki-seealso">
 ### Closely related

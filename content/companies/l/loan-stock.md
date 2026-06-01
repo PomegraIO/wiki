@@ -4,7 +4,7 @@ description: "Small-balance commercial lender to real-estate developers and prop
 keywords: [commercial-lending, real-estate-finance, bridge-loans, small-lender, New-York, specialized-financing]
 ---
 
-*The neighborhood lender: **Manhattan Bridge Capital, Inc. (LOAN)** is a non-bank lender to real-estate developers and property owners in New York City and the surrounding metro area who cannot or do not qualify for traditional bank loans. The customer is a developer assembling a mixed-use project, closing a land acquisition, or bridging a short-term capital need—situations where a major bank lender's underwriting is slow, requirements rigid, or appetite non-existent. Manhattan Bridge fills that gap, taking higher credit risk and charging 10–15% interest rates, betting on the borrower's ability to repay from project sale, permanent financing, or operating cash flow.*
+*The neighborhood lender: **Manhattan Bridge Capital, Inc. (LOAN)** is a non-bank lender to real-estate developers and property owners in New York City and the surrounding metro area who cannot or do not qualify for traditional bank loans. The customer is a developer assembling a mixed-use project, closing a land [acquisition](/acquisition/), or bridging a short-term capital need—situations where a major bank lender's underwriting is slow, requirements rigid, or appetite non-existent. Manhattan Bridge fills that gap, taking higher [credit risk](/credit-risk/) and charging 10–15% [interest rates](/interest-rate/), betting on the borrower's ability to repay from project sale, permanent financing, or operating cash flow.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>LOAN</td></tr>
@@ -23,7 +23,7 @@ This is the customer problem Manhattan Bridge solves. The borrower is not broke 
 
 ## How Borrowers Find and Use Manhattan Bridge Capital
 
-A real-estate developer or property owner in New York discovers Manhattan Bridge through referrals from brokers, attorneys, and other lenders. The lender has built relationships in the New York commercial real-estate community over decades. When a borrower needs capital on a non-standard timeline—too fast for a bank, but too cheap to justify a second mortgage or a hard-money lender—Manhattan Bridge is a middle path.
+A real-estate developer or property owner in New York discovers Manhattan Bridge through referrals from [brokers](/broker/), attorneys, and other lenders. The lender has built relationships in the New York commercial real-estate community over decades. When a borrower needs capital on a non-standard timeline—too fast for a bank, but too cheap to justify a second mortgage or a hard-money lender—Manhattan Bridge is a middle path.
 
 The customer evaluation is straightforward. A borrower (usually a real-estate company or developer with track record) proposes a deal: property location, purchase price, source of repayment (sale, refinance, operations), and timeline. Manhattan Bridge underwrites: location, comparable comps, borrower experience, equity cushion, and exit strategy. If the property is in an appreciating market (Manhattan, Brooklyn, Queens), if the borrower has done similar deals, and if equity is at least 20–30%, the loan is likely. If the property is in a declining area, the borrower is inexperienced, or equity is thin, the lender will decline or offer a smaller loan at higher rates.
 
@@ -43,7 +43,7 @@ The borrower is NOT a speculative homeowner, a credit-impaired individual, or a 
 
 ## The Business Model: Interest Income and Credit Risk
 
-Manhattan Bridge's model is simple: lend money at high rates, collect interest, and exit (customer refinances or sells property) before the loan matures. The lender does not foreclose on properties; foreclosure is expensive and time-consuming. Instead, Manhattan Bridge prices credit risk into the interest rate: a borrower with lower equity or weaker exit strategy pays 14–15%; a borrower with strong equity, strong market, and clear exit pays 10–11%. The lender bakes expected losses into the rate.
+Manhattan Bridge's model is simple: lend money at high rates, collect interest, and exit (customer refinances or sells property) before the loan matures. The lender does not foreclose on properties; [foreclosure](/foreclosure/) is expensive and time-consuming. Instead, Manhattan Bridge prices credit risk into the interest rate: a borrower with lower equity or weaker exit strategy pays 14–15%; a borrower with strong equity, strong market, and clear exit pays 10–11%. The lender bakes expected losses into the rate.
 
 Revenue comes almost entirely from interest income and origination fees. Costs include underwriting salaries, office overhead, funding costs (Manhattan Bridge borrows from banks or uses depositor funds if it has a banking license, which it may not), and credit losses. The key margin driver is the spread between the cost of funding (say 4–5% on borrowed funds) and the lending rate (12%). The 7–8% spread covers overhead and expected credit losses.
 
@@ -57,7 +57,7 @@ This geographic focus also limits scale. Manhattan Bridge can never be a large l
 
 ## Risks and Borrower Hedging
 
-Real-estate lending is cyclical. When property markets boom (rising rents, strong sales comps), borrowers exit loans as planned and losses are minimal. When property markets slide, borrowers extend hold periods, refinances fail, and defaults spike. Manhattan Bridge faces this cycle risk directly. A recession or property-market crash in New York would compress the lender's margins (borrowers demand lower rates) and spike losses.
+Real-estate lending is cyclical. When property markets boom (rising rents, strong sales comps), borrowers exit loans as planned and losses are minimal. When property markets slide, borrowers extend hold periods, refinances fail, and defaults spike. Manhattan Bridge faces this cycle risk directly. A [recession](/recession/) or property-market crash in New York would compress the lender's margins (borrowers demand lower rates) and spike losses.
 
 Additionally, the lender faces competition from hard-money lenders (10–18% rates, 2–5 points), mezzanine funds, and increasingly, from banks offering faster underwriting and lower rates. If a borrower can get bank financing at 7% in 30 days instead of 12% in 10 days with Manhattan Bridge, some borrowers will wait for the bank. Manhattan Bridge's value proposition erodes as bank underwriting speeds up.
 
@@ -81,9 +81,9 @@ Watch for: Are loan losses tracking historical averages, or spiking? Are borrowe
 - [Community banking](/public-company/) — non-bank lenders operate in a similar niche to smaller banks with relationship-driven models
 
 ### Wider context
-- [Stock](/stock/) — LOAN trades on NASDAQ OTC; liquidity may be limited
+- [Stock](/stock/) — LOAN trades on [NASDAQ](/nasdaq/) OTC; liquidity may be limited
 - [10-K](/10-K/) — review SEC filings for loan portfolio, loss reserves, and funding model
-- [Balance sheet](/balance-sheet/) — assess Manhattan Bridge's capital adequacy and funding structure
+- [Balance sheet](/balance-sheet/) — assess Manhattan Bridge's [capital adequacy](/capital-adequacy/) and funding structure
 - [Real-estate cycles](/public-company/) — understand property-market correlation to lender profitability
 - [Return on equity](/return-on-equity/) — track lender's ROE relative to credit losses and cost of capital
 

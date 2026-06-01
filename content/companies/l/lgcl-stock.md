@@ -23,7 +23,7 @@ The consolidated statement of operations in the [10-K](/10-k/) shows whether Luc
 
 ## Asset Base and Capital Intensity
 
-Industrial and specialty services companies vary widely in their capital requirements. Some are asset-light (primarily labor and intellectual property), while others carry significant inventory, property, plant, and equipment on their balance sheets. Lucas GC's balance sheet, presented in the [10-K](/10-k/), will show the composition of its assets: How much of its capital is tied up in fixed facilities or equipment? How much in working capital (accounts receivable, inventory)? What is the depreciation and amortization expense relative to capital expenditures? A company with high fixed-cost infrastructure requires stable revenue to be profitable; one that is asset-light can adjust spending more flexibly as demand shifts. The cash flow statement reveals whether the company generates cash internally or consumes it, a fundamental measure of business health independent of accounting earnings.
+Industrial and specialty services companies vary widely in their capital requirements. Some are asset-light (primarily labor and intellectual property), while others carry significant inventory, property, plant, and equipment on their [balance sheets](/balance-sheet/). Lucas GC's balance sheet, presented in the [10-K](/10-k/), will show the composition of its assets: How much of its capital is tied up in fixed facilities or equipment? How much in working capital ([accounts receivable](/accounts-receivable/), inventory)? What is the [depreciation](/depreciation/) and [amortization](/amortization/) expense relative to capital expenditures? A company with high fixed-cost infrastructure requires stable revenue to be profitable; one that is asset-light can adjust spending more flexibly as demand shifts. The [cash flow statement](/cash-flow-statement/) reveals whether the company generates cash internally or consumes it, a fundamental measure of business health independent of accounting earnings.
 
 ## The Competitive Landscape and Differentiation
 
@@ -31,7 +31,7 @@ Industrial services sectors often feature competition on price, quality, custome
 
 ## Debt, Leverage, and Solvency
 
-The liabilities section of the balance sheet and the debt schedule in the footnotes show Lucas GC's funding structure. What is the company's debt-to-equity ratio? What is the maturity profile of its borrowings? Are debt covenants (financial ratios that must be maintained) restrictive and at risk of being breached if the business weakens? Is the company generating enough operating cash flow to service its debt comfortably? A small-cap company with high leverage and deteriorating cash flows faces refinancing risk; one with modest debt and improving cash generation has strategic flexibility. The interest expense and effective interest rate also signal the cost of the company's capital and its creditworthiness in the eyes of lenders.
+The liabilities section of the balance sheet and the debt schedule in the footnotes show Lucas GC's funding structure. What is the company's [debt-to-equity ratio](/debt-to-equity-ratio/)? What is the maturity profile of its borrowings? Are debt covenants (financial ratios that must be maintained) restrictive and at risk of being breached if the business weakens? Is the company generating enough operating cash flow to service its debt comfortably? A small-cap company with high leverage and deteriorating cash flows faces [refinancing risk](/refinancing-risk/); one with modest debt and improving cash generation has strategic flexibility. The interest expense and effective [interest rate](/interest-rate/) also signal the cost of the company's capital and its creditworthiness in the eyes of lenders.
 
 ## Management Tenure and Organizational Continuity
 
@@ -39,11 +39,11 @@ The proxy statement (DEF 14A filing) lists the company's officers and board, inc
 
 ## Operational Metrics and Margin Trends
 
-Beyond traditional financial statements, the [10-K](/10-k/) MD&A often includes operational metrics specific to the company's industry: utilization rates for equipment-intensive businesses, order backlogs, customer acquisition costs, project margins, or volumes shipped. These metrics can be more revealing than GAAP earnings, especially for cyclical industrial companies where reported profit swings widely due to project timing or seasonal variation. By comparing operational metrics year-to-year and industry-to-industry, a reader can assess whether Lucas GC is gaining or losing competitive position and whether profitability is structural or dependent on favorable near-term conditions.
+Beyond traditional financial statements, the [10-K](/10-k/) MD&A often includes operational metrics specific to the company's industry: utilization rates for equipment-intensive businesses, order backlogs, customer [acquisition](/acquisition/) costs, project margins, or volumes shipped. These metrics can be more revealing than GAAP earnings, especially for cyclical industrial companies where reported profit swings widely due to project timing or seasonal variation. By comparing operational metrics year-to-year and industry-to-industry, a reader can assess whether Lucas GC is gaining or losing competitive position and whether profitability is structural or dependent on favorable near-term conditions.
 
 ## Strategic Initiatives and Capital Allocation
 
-The MD&A also discusses management's strategic plans, including acquisition targets, facility expansions, R&D investments, or divestitures under consideration. The balance sheet and cash flow statement show whether the company is deploying retained earnings to grow the business or returning capital to shareholders via dividends or buybacks. A company investing heavily in growth (as evidenced by rising capital expenditures and research and development) may be sacrificing near-term profitability but positioning for competitive advantage. One harvesting cash and returning it to shareholders is likely mature and facing limited growth or margin improvement. The choice reflects management's assessment of the industry's long-term prospects and the company's competitive position within it.
+The MD&A also discusses management's strategic plans, including acquisition targets, facility expansions, R&D investments, or [divestitures](/divestiture/) under consideration. The balance sheet and cash flow statement show whether the company is deploying [retained earnings](/retained-earnings/) to grow the business or returning capital to shareholders via dividends or buybacks. A company investing heavily in growth (as evidenced by rising capital expenditures and research and development) may be sacrificing near-term profitability but positioning for competitive advantage. One harvesting cash and returning it to shareholders is likely mature and facing limited growth or margin improvement. The choice reflects management's assessment of the industry's long-term prospects and the company's competitive position within it.
 
 ---
 
@@ -55,5 +55,5 @@ The MD&A also discusses management's strategic plans, including acquisition targ
 
 ### Wider context
 - [Securities and Exchange Commission](/securities-and-exchange-commission/) guidance on business disclosure
-- Capital intensity and return on invested capital in industrial businesses
+- Capital intensity and [return on invested capital](/return-on-invested-capital/) in industrial businesses
 </div>

@@ -23,31 +23,31 @@ Life insurance, a core business line for many Asia-Pacific insurers like Great E
 
 ## Geographic Focus and Market Dynamics
 
-Great Eastern Holdings' footprint across Southeast Asia and the broader Asia-Pacific places it in markets experiencing rapid middle-class growth and rising demand for insurance and retirement savings products. These regions have lower insurance penetration than developed markets, creating decades of potential expansion. However, they also carry risks: regulatory changes, currency volatility, and competition from larger global insurers or homegrown rivals.
+Great Eastern Holdings' footprint across Southeast Asia and the broader Asia-Pacific places it in markets experiencing rapid middle-class growth and rising demand for insurance and retirement savings products. These regions have lower insurance penetration than developed markets, creating decades of potential expansion. However, they also carry risks: regulatory changes, [currency volatility](/currency-volatility/), and competition from larger global insurers or homegrown rivals.
 
-Singapore, where Great Eastern Holdings is headquartered, is a major financial hub and seat of strong regulatory oversight. Regulatory standards in Singapore are rigorous, which constrains operational flexibility but also generates investor confidence and stable market conditions. The company's multi-country presence creates both diversification (not all markets move in tandem) and complexity (managing multiple currencies, regulations, and distribution channels).
+Singapore, where Great Eastern Holdings is headquartered, is a major financial hub and seat of strong regulatory oversight. Regulatory standards in Singapore are rigorous, which constrains operational flexibility but also generates investor confidence and stable market conditions. The company's multi-country presence creates both [diversification](/diversification/) (not all markets move in tandem) and complexity (managing multiple currencies, regulations, and distribution channels).
 
 ## Capital and Solvency Requirements
 
-Insurance companies operate under capital requirements set by regulators. These rules mandate that an insurer maintain sufficient capital to absorb losses and cover obligations to policyholders. Great Eastern Holdings must meet solvency standards in each jurisdiction where it operates. The ratio of capital to liabilities (and to risk-weighted assets) determines how much growth the company can fund without raising additional equity—a key constraint on profitability and return on equity.
+Insurance companies operate under capital requirements set by regulators. These rules mandate that an insurer maintain sufficient capital to absorb losses and cover obligations to policyholders. Great Eastern Holdings must meet solvency standards in each jurisdiction where it operates. The ratio of capital to liabilities (and to risk-weighted assets) determines how much growth the company can fund without raising additional equity—a key constraint on profitability and [return on equity](/return-on-equity/).
 
-Insurance companies regularly raise capital through [share issuances](/common-stock/), retained earnings, or debt to maintain solvency ratios above regulatory minimums. During periods of growth or when losses are elevated, capital becomes a binding constraint. During periods of strong profitability and moderate growth, excess capital can be returned to shareholders via [dividends](/dividend/) or [share buybacks](/share-buyback/).
+Insurance companies regularly raise capital through [share issuances](/common-stock/), [retained earnings](/retained-earnings/), or debt to maintain [solvency ratios](/solvency-ratio/) above regulatory minimums. During periods of growth or when losses are elevated, capital becomes a binding constraint. During periods of strong profitability and moderate growth, excess capital can be returned to shareholders via [dividends](/dividend/) or [share buybacks](/share-buyback/).
 
 ## Investment Portfolio Management
 
-Great Eastern Holdings invests its float—the pool of customer premiums awaiting claim payout—in [bonds](/bond/), equities, real estate, and other assets. The composition and duration of this portfolio determine the company's sensitivity to interest rates and stock-market movements. A portfolio heavy in long-dated bonds performs well in declining interest-rate environments but suffers when rates rise and bond valuations fall. A portfolio tilted toward equities generates higher returns over long periods but increases volatility.
+Great Eastern Holdings invests its float—the pool of customer premiums awaiting claim payout—in [bonds](/bond/), equities, real estate, and other assets. The composition and duration of this portfolio determine the company's sensitivity to [interest rates](/interest-rate/) and stock-market movements. A portfolio heavy in long-dated bonds performs well in declining interest-rate environments but suffers when rates rise and bond valuations fall. A portfolio tilted toward equities generates higher returns over long periods but increases volatility.
 
 The company's investment income typically comprises a meaningful portion of total earnings. In a low interest-rate environment, bond yields compress and investment returns suffer. In a rising-rate environment, existing bond holdings decline in value (until maturity), but new investments can be made at higher yields. These dynamics are material to assessing Great Eastern Holdings' earnings stability and forward earnings power.
 
 ## Competitive Landscape and Product Mix
 
-Great Eastern Holdings competes against regional and global insurance players. Regional competitors offer local expertise and distribution relationships; global competitors often bring greater capital and pricing scale. The company's competitive position depends on brand strength, distribution reach (direct sales, agents, brokers, banks), product innovation, and cost efficiency.
+Great Eastern Holdings competes against regional and global insurance players. Regional competitors offer local expertise and distribution relationships; global competitors often bring greater capital and pricing scale. The company's competitive position depends on brand strength, distribution reach (direct sales, agents, [brokers](/broker/), banks), product innovation, and cost efficiency.
 
 Life insurance products range from simple term policies to complex universal life and investment-linked products. Product mix shapes both premium growth and profit margins. Higher-margin products (like certain investment-linked policies) attract customers but carry higher complexity and regulation. Lower-margin products (like term insurance) drive volume but compete heavily on price.
 
 ## Regulatory and Policy Risk
 
-Insurance companies operate in a highly regulated environment. Changes in capital requirements, solvency rules, product regulations, or tax treatment can significantly alter profitability. For example, moves toward stricter mortality assumptions, higher discount rates for reserve calculations, or stricter investment restrictions all compress margins or raise capital needs. Great Eastern Holdings' exposure to regulatory change in its home market and each of its operating jurisdictions is a material risk factor outlined in its SEC filings.
+Insurance companies operate in a highly regulated environment. Changes in capital requirements, solvency rules, product regulations, or tax treatment can significantly alter profitability. For example, moves toward stricter mortality assumptions, higher [discount rates](/discount-rate/) for reserve calculations, or stricter investment restrictions all compress margins or raise capital needs. Great Eastern Holdings' exposure to regulatory change in its home market and each of its operating jurisdictions is a material risk factor outlined in its SEC filings.
 
 ## Equity Sensitivity and Economic Cycles
 
@@ -55,7 +55,7 @@ Great Eastern Holdings' investment portfolio and earnings are sensitive to [equi
 
 ## Research Framework
 
-An investor analyzing Great Eastern Holdings would start with its 10-K annual report, examining the [balance sheet](/balance-sheet/) for capital adequacy, asset mix, and debt structure. The [income statement](/income-statement/) breaks down premiums earned, claims incurred, and investment income. MD&A sections discuss market conditions, regulatory changes, and forward outlook. Key ratios include loss ratio (claims divided by premiums), combined ratio (underwriting costs plus claims divided by premiums), and return on equity.
+An investor analyzing Great Eastern Holdings would start with its 10-K annual report, examining the [balance sheet](/balance-sheet/) for [capital adequacy](/capital-adequacy/), asset mix, and debt structure. The [income statement](/income-statement/) breaks down premiums earned, claims incurred, and investment income. MD&A sections discuss market conditions, regulatory changes, and forward outlook. Key ratios include loss ratio (claims divided by premiums), combined ratio (underwriting costs plus claims divided by premiums), and return on equity.
 
 <div class="wiki-seealso">
 ### Closely related

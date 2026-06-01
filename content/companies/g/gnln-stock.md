@@ -4,7 +4,7 @@ description: "A distributor of cannabis accessories, pipes, and consumer goods t
 keywords: ["cannabis distribution", "accessories", "B2B", "pipe distribution", "retail fulfillment"]
 ---
 
-*The economic core of **Greenlane Holdings, Inc. (GNLN)** is the wholesale unit sold to a retailer — a pack of glass pipes, rolling papers, vape hardware, or ancillary cannabis products distributed from Greenlane's warehouses to thousands of brick-and-mortar retailers. Revenue is the price per unit multiplied by units shipped; cost is wholesale purchase cost, distribution logistics, labor, and customer acquisition. Profitability scales when Greenlane can negotiate favorable terms with suppliers, operate efficient fulfillment, and retain customers on repeat orders.*
+*The economic core of **Greenlane Holdings, Inc. (GNLN)** is the wholesale unit sold to a retailer — a pack of glass pipes, rolling papers, vape hardware, or ancillary cannabis products distributed from Greenlane's warehouses to thousands of brick-and-mortar retailers. Revenue is the price per unit multiplied by units shipped; cost is wholesale purchase cost, distribution logistics, labor, and customer [acquisition](/acquisition/). Profitability scales when Greenlane can negotiate favorable terms with suppliers, operate efficient fulfillment, and retain customers on repeat orders.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>GNLN</td></tr>
@@ -66,7 +66,7 @@ Greenlane has diversified beyond pure smoking accessories into cannabis-adjacent
 
 ## The Path to Profitability
 
-Greenlane's path to sustainable profitability depends on maintaining strong customer relationships, negotiating favorable supplier terms, and operating warehouses efficiently. The business is asset-light relative to manufacturing but requires working capital discipline and scale. A mature, profitable distributor in this space might operate on 6–12% EBITDA margins — respectable but not exceptional. Growth capital is needed to expand geographically and into new product categories; each expansion carries execution and inventory risk.
+Greenlane's path to sustainable profitability depends on maintaining strong customer relationships, negotiating favorable supplier terms, and operating warehouses efficiently. The business is asset-light relative to manufacturing but requires working capital discipline and scale. A mature, profitable distributor in this space might operate on 6–12% [EBITDA margins](/ebitda-margin/) — respectable but not exceptional. Growth capital is needed to expand geographically and into new product categories; each expansion carries execution and inventory risk.
 
 <div class="wiki-seealso">
 ### Closely related

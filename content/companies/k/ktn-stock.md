@@ -11,7 +11,7 @@ keywords:
   - capital-appreciation
 ---
 
-*KTN (Structured Products Corp Cred Enhance Corts Tr for Aon Cap A) wraps an insurance-industry credit bet inside a trust structure. The underlying instrument is a capital appreciation right tied to Aon, the multinational insurance brokerage and risk-management firm. KTN shareholders do not own Aon stock; they own a highly conditional claim that grows in value only if Aon's enterprise value exceeds a contracted strike. To assess KTN, a reader must understand both the Aon credit risk and the mechanics of capital appreciation rights.*
+*KTN (Structured Products Corp Cred Enhance Corts Tr for Aon Cap A) wraps an insurance-industry credit bet inside a trust structure. The underlying instrument is a capital appreciation right tied to Aon, the multinational insurance brokerage and risk-management firm. KTN shareholders do not own Aon stock; they own a highly conditional claim that grows in value only if Aon's enterprise value exceeds a contracted strike. To assess KTN, a reader must understand both the Aon [credit risk](/credit-risk/) and the mechanics of capital appreciation rights.*
 
 <aside class="wiki-infobox">
 <table>
@@ -31,21 +31,21 @@ This structure allows Aon to access capital markets while isolating the credit r
 
 ## Understanding the Aon Counterparty
 
-Aon plc is a major, publicly traded insurance intermediary and risk adviser. Unlike a startup or shell company, Aon has transparent financial disclosure and an investment-grade credit rating. However, the insurance brokerage sector faces structural headwinds: pressure on advisory fees, regulatory scrutiny, and consolidation. Aon's own 10-K and quarterly filings (filed under ticker AON) are essential reference points for anyone holding KTN.
+Aon plc is a major, publicly traded insurance intermediary and risk adviser. Unlike a startup or shell company, Aon has transparent financial disclosure and an investment-grade [credit rating](/credit-rating/). However, the insurance brokerage sector faces structural headwinds: pressure on advisory fees, regulatory scrutiny, and consolidation. Aon's own 10-K and quarterly filings (filed under ticker AON) are essential reference points for anyone holding KTN.
 
 An analyst should ask: Is Aon's enterprise value growing or shrinking? What do credit default swap spreads on Aon debt tell us about market-implied default risk? A sharp deterioration in Aon's business would destroy KTN's value long before any formal default, because the capital appreciation right would move underwater (Aon's value would fall below the strike).
 
 ## Valuation of the Capital Appreciation Right
 
-The trust's 10-K should disclose the strike price and valuation metric. For Aon, the metric might be enterprise value as of a reference date, adjusted for inflation or fixed. If the strike is, say, $60 billion and Aon's current enterprise value is $50 billion, the capital appreciation right has no intrinsic value—it is out of the money. As Aon's value approaches and exceeds $60 billion, the right gains value.
+The trust's 10-K should disclose the [strike price](/strike-price/) and valuation metric. For Aon, the metric might be enterprise value as of a reference date, adjusted for [inflation](/inflation/) or fixed. If the strike is, say, $60 billion and Aon's current enterprise value is $50 billion, the capital appreciation right has no [intrinsic value](/intrinsic-value/)—it is out of the money. As Aon's value approaches and exceeds $60 billion, the right gains value.
 
-However, because KTN trades on OTC markets with minimal volume, its market price may diverge sharply from the calculated theoretical value. A position in KTN carries both valuation risk (what if the strike is too high or too low relative to reality?) and liquidity risk (inability to exit at a fair price).
+However, because KTN trades on OTC markets with minimal volume, its market price may diverge sharply from the calculated theoretical value. A position in KTN carries both valuation risk (what if the strike is too high or too low relative to reality?) and [liquidity risk](/liquidity-risk/) (inability to exit at a fair price).
 
 ## The Aon Insurance Industry Context
 
-Aon's fortunes are tied to the insurance intermediary sector and broader economic conditions. In strong growth environments, corporates and insureds demand more risk advice and placement services, driving fee growth. In downturns or rising interest-rate environments (which pressure bond portfolios that Aon's clients hold), fee pressure increases. Regulatory changes—such as antitrust scrutiny on large brokers or changes to insurance licensing—affect Aon's ability to operate.
+Aon's fortunes are tied to the insurance intermediary sector and broader economic conditions. In strong growth environments, corporates and insureds demand more risk advice and placement services, driving fee growth. In downturns or rising interest-rate environments (which pressure bond portfolios that Aon's clients hold), fee pressure increases. Regulatory changes—such as antitrust scrutiny on large [brokers](/broker/) or changes to insurance licensing—affect Aon's ability to operate.
 
-A KTN holder should monitor Aon's latest earnings announcements, management guidance, and regulatory developments. If Aon announces a major acquisition (likely to raise debt and pressure near-term profitability), or faces an antitrust challenge, KTN's underlying economics shift. These events signal whether the capital appreciation right is likely to move in or out of the money.
+A KTN holder should monitor Aon's latest earnings announcements, management guidance, and regulatory developments. If Aon announces a major [acquisition](/acquisition/) (likely to raise debt and pressure near-term profitability), or faces an antitrust challenge, KTN's underlying economics shift. These events signal whether the capital appreciation right is likely to move in or out of the money.
 
 ## Trust Termination and Payoff
 
@@ -55,21 +55,21 @@ Reading the trust agreement (filed as an exhibit) is essential to understand the
 
 ## Accounting and Mark-to-Market
 
-KTN's quarterly and annual financial statements will show the capital appreciation right as an asset on the balance sheet. The trustee must mark this asset to market each reporting period, meaning the asset value rises or falls based on estimates of Aon's enterprise value and the remaining time until the right matures.
+KTN's quarterly and annual financial statements will show the capital appreciation right as an asset on the [balance sheet](/balance-sheet/). The trustee must mark this asset to market each reporting period, meaning the asset value rises or falls based on estimates of Aon's enterprise value and the remaining time until the right matures.
 
 This mark-to-market accounting creates volatility in KTN's reported book value per share, even if no trading occurs. If Aon's stock price falls, the implied enterprise value declines, and the capital appreciation right is worth less. A KTN investor watching the quarterly filings will see these value swings reflected in the trust's balance sheet.
 
 ## Risks Specific to Credit-Linked Structures
 
-Because KTN's value is a conditional claim on Aon's credit health, KTN is illiquid, illiquidity-sensitive, and concentrated. An investor cannot easily diversify away from Aon risk by holding KTN. If insurance-sector credit spreads widen (signaling rising credit risk across the industry), KTN may fall even if Aon's fundamentals are stable. Conversely, if Aon is acquired or merges, the capital appreciation right may terminate early under change-of-control clauses, disrupting the expected payoff timeline.
+Because KTN's value is a conditional claim on Aon's credit health, KTN is illiquid, illiquidity-sensitive, and concentrated. An investor cannot easily diversify away from Aon risk by holding KTN. If insurance-sector [credit spreads](/credit-spread/) widen (signaling rising credit risk across the industry), KTN may fall even if Aon's fundamentals are stable. Conversely, if Aon is acquired or merges, the capital appreciation right may terminate early under change-of-control clauses, disrupting the expected payoff timeline.
 
-The 10-K should disclose all material risks: counterparty risk (does Aon guarantee the capital appreciation right, or is it just a contractual claim?), termination triggers, and any credit enhancements (guarantees from other parties that reduce Aon default risk).
+The 10-K should disclose all material risks: [counterparty risk](/counterparty-risk/) (does Aon guarantee the capital appreciation right, or is it just a contractual claim?), termination triggers, and any credit enhancements (guarantees from other parties that reduce Aon default risk).
 
 <div class="wiki-seealso">
 <h3>Closely related</h3>
 
 - Credit-linked securities and synthetic derivatives
-- Bankruptcy-remote trusts and securitization
+- Bankruptcy-remote trusts and [securitization](/securitization/)
 - Capital appreciation agreements and contingent payoffs
 
 <h3>Wider context</h3>

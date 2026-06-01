@@ -29,7 +29,7 @@ BLTH has likely funded its development and early commercialization phases throug
 
 ## Strategic Partnerships as a Capital Alternative
 
-Materials and battery companies often secure strategic partnerships with larger industrial or automotive firms seeking to secure supply or early adoption of new technologies. Such partnerships can provide non-dilutive funding in the form of upfront cash, minority equity investments, or offtake agreements. For example, an automotive OEM might commit to purchasing a certain volume of advanced battery materials at a set price, effectively providing revenue certainty that can support debt financing for capacity.
+Materials and battery companies often secure strategic partnerships with larger industrial or automotive firms seeking to secure supply or early adoption of new technologies. Such partnerships can provide non-dilutive funding in the form of upfront cash, minority equity investments, or offtake agreements. For example, an automotive OEM might commit to purchasing a certain volume of advanced battery materials at a set price, effectively providing revenue certainty that can support [debt financing](/debt-financing/) for capacity.
 
 BLTH may have structured one or more such partnerships, trading some future upside or pricing concessions for capital and customer validation. A major automotive customer willing to fund or pre-purchase from BLTH's new facility dramatically improves the company's financing position: lenders and subsequent equity investors see committed revenue, reducing the risk premium.
 

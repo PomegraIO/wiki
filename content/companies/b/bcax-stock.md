@@ -45,7 +45,7 @@ Bicara's trial results—disclosed in press releases, SEC filings, and scientifi
 
 Cell therapy development is expensive. Manufacturing, clinical trials, and regulatory efforts require sustained investment. Bicara's [balance sheet](/balance-sheet/) reveals its cash position and quarterly burn rate. Most clinical-stage biotechs have a finite runway—the company will run out of cash in X months unless it raises additional capital or achieves a significant milestone that triggers financing from a strategic partner.
 
-Bicara's ability to raise capital depends on investor sentiment, stock price performance, and perceived progress in clinical development. A failed trial can make raising capital difficult, potentially forcing the company to dilute existing shareholders heavily or seek a merger. Conversely, positive trial results often unlock investor appetite for fresh capital. Tracking Bicara's financing activities in SEC filings reveals whether the company is well-capitalized or approaching a crunch.
+Bicara's ability to raise capital depends on investor sentiment, stock price performance, and perceived progress in clinical development. A failed trial can make raising capital difficult, potentially forcing the company to dilute existing shareholders heavily or seek a [merger](/merger/). Conversely, positive trial results often unlock investor appetite for fresh capital. Tracking Bicara's financing activities in SEC filings reveals whether the company is well-capitalized or approaching a crunch.
 
 ## Partnership and Licensing Strategy
 
@@ -55,7 +55,7 @@ Licensing-in of technology (acquiring rights to another company's patents or kno
 
 ## Competitive Landscape and Market Potential
 
-Cell therapy is a crowded field. Juno Therapeutics (acquired by Celgene, now part of Bristol Myers Squibb), Kite Pharma (acquired by Gilead), Bluebird Bio, and dozens of other companies develop cell therapies. Market size estimates for specific indications (say, relapsed refractory lymphoma) inform the potential value of a successful program. If a therapy can capture even 10% of a multi-billion-dollar market, the company's value can be substantial. If the market is niche or smaller than expected, returns will be limited.
+Cell therapy is a crowded field. Juno Therapeutics (acquired by Celgene, now part of [Bristol Myers Squibb](/bmy-stock/)), Kite Pharma (acquired by Gilead), Bluebird Bio, and dozens of other companies develop cell therapies. Market size estimates for specific indications (say, relapsed refractory lymphoma) inform the potential value of a successful program. If a therapy can capture even 10% of a multi-billion-dollar market, the company's value can be substantial. If the market is niche or smaller than expected, returns will be limited.
 
 Reading analyst reports and market research from firms that cover biotech can provide benchmarks for cell therapy adoption, pricing, and market size. However, analysts' projections can be overly optimistic, so healthy skepticism is warranted.
 

@@ -16,7 +16,7 @@ The company went public on the [New York Stock Exchange](/new-york-stock-exchang
 
 ## The Core Business
 
-Lufax's marketplace connects three constituencies: borrowers seeking personal or small-business loans, individual investors looking for returns on their capital, and a network of financial institutions that participate in loan funding and risk allocation. The platform does not retain most credit risk itself—instead, it acts as a technology and servicing layer, earning fees for loan origination, processing, and ongoing servicing. Funding partners, primarily banks and other regulated lenders, provide capital and absorb the lending risk.
+Lufax's marketplace connects three constituencies: borrowers seeking personal or small-business loans, individual investors looking for returns on their capital, and a network of [financial institutions](/fisi-stock/) that participate in loan funding and risk allocation. The platform does not retain most credit risk itself—instead, it acts as a technology and servicing layer, earning fees for loan origination, processing, and ongoing servicing. Funding partners, primarily banks and other regulated lenders, provide capital and absorb the lending risk.
 
 Loan products address demand gaps in China's retail credit market. Small business owners and individual merchants often struggle to access bank loans at reasonable rates; salaried workers may find credit difficult to obtain quickly. Lufax's platform automates the underwriting and approval process, using proprietary data and behavioral analytics to assess credit quality, allowing real-time decisions where traditional banks might take weeks or decline outright.
 

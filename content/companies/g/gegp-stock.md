@@ -19,7 +19,7 @@ keywords: ["GEGP", "gold", "mining", "precious metals", "stock", "commodity"]
 
 Gold Enterprise Group's profitability is tethered to the global price of gold—a fact that decouples the company's fortunes from the operational competence alone that governs most businesses. When the spot price of gold rises, mining operations become more profitable at existing cost structures, and the company's earnings expand. When prices fall, even a well-run mine may become uneconomical to operate. This cyclical dynamic means investors must assess both the company's operational efficiency and their own view on gold prices going forward.
 
-Gold trades 24 hours a day across global markets, and its price reflects a complex interplay of currency movements, interest rates, central bank policy, inflation expectations, and geopolitical risk appetite. A company like Gold Enterprise Group cannot control these macro factors—it can only optimize production costs and capital allocation around them. This externality creates a structural disadvantage versus businesses with greater pricing power over their own outputs.
+Gold trades 24 hours a day across global markets, and its price reflects a complex interplay of currency movements, [interest rates](/interest-rate/), [central bank](/central-bank/) policy, [inflation](/inflation/) expectations, and geopolitical risk appetite. A company like Gold Enterprise Group cannot control these macro factors—it can only optimize production costs and capital allocation around them. This externality creates a structural disadvantage versus businesses with greater pricing power over their own outputs.
 
 ## Mining Operations and Cost Structure
 
@@ -33,21 +33,21 @@ Major gold mining regions—Canada, Australia, Peru, Russia, West Africa—have 
 
 ## Trading Versus Mining
 
-Some gold companies operate as miners (extracting ore from the ground); others function primarily as traders (buying and selling gold or gold derivatives in spot and futures markets). Gold Enterprise Group's specific business model—whether it emphasizes mining production, trading operations, or a blend—critically shapes its risk and return profile. A trading operation faces margin compression if bid-ask spreads narrow; a mining operation faces margin compression if production costs rise. The company's 10-K typically clarifies this operational mix.
+Some gold companies operate as miners (extracting ore from the ground); others function primarily as traders (buying and selling gold or gold derivatives in spot and futures markets). Gold Enterprise Group's specific business model—whether it emphasizes mining production, trading operations, or a blend—critically shapes its risk and return profile. A trading operation faces margin compression if [bid-ask spreads](/bid-ask-spread/) narrow; a mining operation faces margin compression if production costs rise. The company's 10-K typically clarifies this operational mix.
 
 ## Financing and Capital Allocation
 
 Mining companies often employ debt to finance large capital projects (opening new mines, expanding existing operations). When gold prices are high, debt service is easily manageable. When prices collapse, debt becomes a drag on profitability. Gold Enterprise Group's [balance sheet](/balance-sheet/) structure—its [leverage](/enterprise-value/) ratio—directly affects equity holders' returns and financial stability. A heavily leveraged miner in a price downturn can face covenant violations and forced asset sales.
 
-Capital allocation in mining is high-stakes: a company betting on future gold prices must decide whether to reinvest free cash flow into exploration and development, distribute it as [dividends](/dividend/), or repurchase [shares](/common-stock/). A miner that over-invests in new projects at peak gold prices can lock in high development costs right before a price collapse. One that under-invests may lack reserves to maintain production in later years.
+Capital allocation in mining is high-stakes: a company betting on future gold prices must decide whether to reinvest [free cash flow](/free-cash-flow/) into exploration and development, distribute it as [dividends](/dividend/), or repurchase [shares](/common-stock/). A miner that over-invests in new projects at peak gold prices can lock in high development costs right before a price collapse. One that under-invests may lack reserves to maintain production in later years.
 
 ## Commodity Hedging
 
-Some gold companies use [derivatives](/bond/) to hedge future price exposure—selling forward a portion of expected future production at a locked-in price to reduce earnings volatility. Hedging trades price upside for stability. Heavy hedging can prevent catastrophic losses but caps gains during bull markets. Light hedging leaves the company exposed to price swings. Gold Enterprise Group's hedging policy (if any) appears in its 10-K risk disclosures.
+Some gold companies use [derivatives](/bond/) to hedge future price exposure—selling forward a portion of expected future production at a locked-in price to reduce earnings volatility. Hedging trades price upside for stability. Heavy hedging can prevent catastrophic losses but caps gains during [bull markets](/bull-market/). Light hedging leaves the company exposed to price swings. Gold Enterprise Group's hedging policy (if any) appears in its 10-K risk disclosures.
 
 ## Access to Capital Markets
 
-Small and mid-sized gold companies like GEGP often depend on equity [issuances](/initial-public-offering/) to finance growth, since the cash generation of mining is both lumpy and volatile. When equity markets reward commodity stocks, capital is readily available. During commodity bear markets or equity-market stress, raising equity becomes expensive or impossible. This creates a procyclical dynamic: companies issue shares when valuations are hot and capital is cheap, and avoid issuance when valuations are depressed, leading to contrarian timing errors.
+Small and mid-sized gold companies like GEGP often depend on equity [issuances](/initial-public-offering/) to finance growth, since the cash generation of mining is both lumpy and volatile. When equity markets reward commodity stocks, capital is readily available. During commodity [bear markets](/bear-market/) or equity-market stress, raising equity becomes expensive or impossible. This creates a procyclical dynamic: companies issue shares when valuations are hot and capital is cheap, and avoid issuance when valuations are depressed, leading to contrarian timing errors.
 
 ## Researching Gold Enterprise Group
 

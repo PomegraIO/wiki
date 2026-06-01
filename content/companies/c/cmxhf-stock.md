@@ -17,7 +17,7 @@ keywords: ["biopharmaceutical", "plasma derivatives", "immunoglobulins", "vaccin
 
 ## The Plasma Franchise and Economic Moat
 
-Plasma is the liquid portion of blood, rich in proteins, antibodies, and clotting factors. A small percentage of the global population donates plasma regularly; the United States accounts for roughly 60% of the global supply, with Europe and other developed markets contributing much of the remainder. CSL operates hundreds of plasma donation centers (many acquired through subsidiary Vivoxx and other acquisitions) in North America and Europe, collecting plasma and shipping it to specialized manufacturing facilities where it is fractionated into specific proteins.
+Plasma is the liquid portion of blood, rich in proteins, antibodies, and clotting factors. A small percentage of the global population donates plasma regularly; the United States accounts for roughly 60% of the global supply, with Europe and other developed markets contributing much of the remainder. CSL operates hundreds of plasma donation centers (many acquired through subsidiary Vivoxx and other [acquisitions](/acquisition/)) in North America and Europe, collecting plasma and shipping it to specialized manufacturing facilities where it is fractionated into specific proteins.
 
 The therapeutic uses are stable and essential: immunoglobulin replacement for patients with primary immunodeficiency (roughly 1 in 1,200–1 in 2,500 people globally), albumin for hypoproteinemia and burn treatment, factor VIII and IX for hemophilia, fibrinogen for acquired coagulation disorders. These are not markets where patient demand fluctuates wildly or where tomorrow's innovation renders today's therapy obsolete. A patient with X-linked agammaglobulinemia needs immunoglobulin IV infusions every 3–4 weeks for life. This creates a durable, predictable revenue base that is rare in healthcare.
 
@@ -43,7 +43,7 @@ CSL navigates a complex patchwork of plasma-collection regulations, donor-screen
 
 ## Investment Framework and Data Sources
 
-An investor evaluating CSL should focus on plasma-donation trends (available through industry reports and CSL's own filings), manufacturing capacity utilization, and the gross margin on specific therapeutic classes. CSL's 10-K and annual reports (filed with the SEC as a foreign private issuer) detail revenue by geography and therapy class; the notes disclose major customer concentration and supply-chain risks. Industry groups like the American Association of Blood Banks and the International Society on Thrombosis and Haemostasis publish epidemiological data that inform long-term demand for CSL's core therapies.
+An investor evaluating CSL should focus on plasma-donation trends (available through industry reports and CSL's own filings), manufacturing capacity utilization, and the gross margin on specific therapeutic classes. CSL's 10-K and [annual reports](/10-k/) (filed with the SEC as a foreign private issuer) detail revenue by geography and therapy class; the notes disclose major customer concentration and supply-chain risks. Industry groups like the American Association of Blood Banks and the International Society on Thrombosis and Haemostasis publish epidemiological data that inform long-term demand for CSL's core therapies.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -17,13 +17,13 @@ keywords: [semiconductor, memory, chip design, embedded systems, nvram]
 
 ## The Specialty Memory Niche: Differentiated Away from Commodity Pricing
 
-The memory chip market is dominated by a handful of behemoths—Samsung, SK Hynix, Micron, Intel—that manufacture gigabytes of DRAM and NAND flash at the lowest possible cost. These commodity producers compete on nanometer process node, yield, and manufacturing capacity. GSI does not compete in this arena. Instead, it serves customers who need memory with specific, non-standard properties: radiation hardness for satellites and space equipment, extreme temperature tolerance for deep-sea or downhole drilling, ultra-low power consumption for battery-limited IoT devices, or specialized parallel-processing architectures for embedded signal processing.
+The memory chip market is dominated by a handful of behemoths—Samsung, SK Hynix, Micron, [Intel](/intc-stock/)—that manufacture gigabytes of DRAM and NAND flash at the lowest possible cost. These commodity producers compete on nanometer process node, yield, and manufacturing capacity. GSI does not compete in this arena. Instead, it serves customers who need memory with specific, non-standard properties: radiation hardness for satellites and space equipment, extreme temperature tolerance for deep-sea or downhole drilling, ultra-low power consumption for battery-limited IoT devices, or specialized parallel-processing architectures for embedded signal processing.
 
 This niche positioning is the foundation of GSI's moat. A customer designing a military aircraft avionics system cannot simply swap in a commodity DRAM from Micron; the system's design may depend on GSI's specialized memory's electrical properties, power envelope, or form factor. Requalifying a new memory source requires months of testing, recertification, and customer approval—a cost borne by the buyer, not the supplier. This creates a mild lock-in: once a design win is secured, the customer is reluctant to revisit the choice unless GSI fails to deliver.
 
 ## Defense and Aerospace Procurement: Regulatory and Contractual Moats
 
-GSI's largest end markets are defense, aerospace, and other government-regulated sectors where procurement is governed by stringent qualification, security, and traceability requirements. A memory chip in a Boeing defense system or a missile guidance computer must meet military specifications (MIL-SPEC), undergo extensive testing, and be manufactured under strict supply-chain controls. Switching suppliers is not a commercial decision; it is a bureaucratic and technical one, overseen by government auditors.
+GSI's largest end markets are defense, aerospace, and other government-regulated sectors where procurement is governed by stringent qualification, security, and traceability requirements. A memory chip in a [Boeing](/ba-stock/) defense system or a missile guidance computer must meet military specifications (MIL-SPEC), undergo extensive testing, and be manufactured under strict supply-chain controls. Switching suppliers is not a commercial decision; it is a bureaucratic and technical one, overseen by government auditors.
 
 These regulatory requirements are a genuine moat. A competitor cannot undercut GSI on price alone—the buyer must re-qualify the new part, which is expensive and risky. The government customer has already validated GSI's quality and reliability; switching introduces uncertainty. GSI's long tenure in defense applications (decades, in many cases) creates institutional inertia. Program managers prefer not to risk a design change for marginal cost savings.
 
@@ -43,9 +43,9 @@ This creates a vicious cycle: low volume means high per-unit costs; high per-uni
 
 ## Customer Concentration and Revenue Risk
 
-GSI's customer base is concentrated. Defense and aerospace programs are multi-year but discrete. A major customer win (e.g., a new fighter aircraft program) might supply revenue for years, but when the program winds down or a competitor wins the next contract, revenue evaporates. GSI lacks the diversification of consumer-electronics memory suppliers, which sell to thousands of device makers and benefit from secular growth in computing.
+GSI's customer base is concentrated. Defense and aerospace programs are multi-year but discrete. A major customer win (e.g., a new fighter aircraft program) might supply revenue for years, but when the program winds down or a competitor wins the next contract, revenue evaporates. GSI lacks the [diversification](/diversification/) of consumer-electronics memory suppliers, which sell to thousands of device makers and benefit from secular growth in computing.
 
-This concentration risk actually strengthens individual customer relationships—GSI cannot afford to neglect any major account—but it also means the company is perpetually vulnerable to customer loss and program cancellations outside its control.
+This [concentration risk](/concentration-risk/) actually strengthens individual customer relationships—GSI cannot afford to neglect any major account—but it also means the company is perpetually vulnerable to customer loss and program cancellations outside its control.
 
 ## The Moat in Decline
 

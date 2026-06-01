@@ -4,7 +4,7 @@ description: "Special purpose acquisition company (SPAC) focused on identifying 
 keywords: ["SPAC", "special purpose acquisition company", "acquisition vehicle", "capital pool", "blank-check company", "Iron Horse"]
 ---
 
-*When investors encounter **Iron Horse Acquisition II Corp. (IRHO)**, they are looking at a special-purpose acquisition company—a shell capitalized with investor funds and tasked with finding and acquiring a private operating business. The 10-K for a SPAC before its merger announcement is lean: the company has minimal operations and exists as a capital pool held in trust, awaiting deployment. For the analyst evaluating IRHO, the frame is not "what does this company do?" but rather "what was promised to the shareholders who funded this pool, and what is the management team's track record of executing acquisitions that create value?"*
+*When investors encounter **Iron Horse Acquisition II Corp. (IRHO)**, they are looking at a special-purpose acquisition company—a shell capitalized with investor funds and tasked with finding and acquiring a private operating business. The 10-K for a SPAC before its merger announcement is lean: the company has minimal operations and exists as a capital pool held in trust, awaiting deployment. For the analyst evaluating IRHO, the frame is not "what does this company do?" but rather "what was promised to the shareholders who funded this pool, and what is the management team's track record of executing [acquisitions](/acquisition/) that create value?"*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IRHO</td></tr>
@@ -39,11 +39,11 @@ Also check whether the company has incurred expenses related to acquisition-sear
 
 The critical moment comes when IRHO announces a merger. At that point, the 10-K and proxy statement will contain detailed financials for the target company. The analyst's job is to interrogate those numbers: Are the seller's historical financials audited by a reputable firm? Do the revenue and earnings trends make sense relative to the target's stated market? Are there one-time events or accounting choices that inflate reported profitability? SPACs often acquire businesses at peak earnings, right before a downturn, so skepticism is warranted.
 
-The merger agreement itself will contain representations and warranties from the seller. The 10-K should flag any disclosed breaches or disputes; these are red flags that the target company may not be what IRHO thought it was buying.
+The merger agreement itself will contain [representations and warranties](/representations-and-warranties/) from the seller. The 10-K should flag any disclosed breaches or disputes; these are red flags that the target company may not be what IRHO thought it was buying.
 
 ## The Earnout and Sponsor Alignment Post-Merger
 
-Many SPAC merger agreements include an earnout: the sponsor or seller receives additional shares or cash if the combined company hits certain [earnings-per-share](/earnings-per-share/) or revenue targets post-merger. Earnouts can align incentives, but they can also distort short-term behavior. If the seller knows they will earn a bonus if EBITDA hits $50 million in year two, they might defer expenses or accelerate revenue in ways that look good on paper but create problems later.
+Many SPAC merger agreements include an earnout: the sponsor or seller receives additional shares or cash if the combined company hits certain [earnings-per-share](/earnings-per-share/) or revenue targets post-merger. Earnouts can align incentives, but they can also distort short-term behavior. If the seller knows they will earn a bonus if [EBITDA](/ebitda/) hits $50 million in year two, they might defer expenses or accelerate revenue in ways that look good on paper but create problems later.
 
 For any earnout, the analyst should calculate the dilution. If the earnout results in issuing millions of additional shares, the EPS accretion from the acquisition may be illusory—the shares outstanding grew so much that per-share earnings are unchanged or worse.
 
@@ -72,7 +72,7 @@ Also assess whether the sponsor has already made money or is betting on post-mer
 
 ## The Secular SPAC Narrative
 
-The SPAC market has cooled dramatically from its 2020–2021 peak. As more SPAC mergers have underperformed, investor appetite for new offerings has waned, and regulatory scrutiny has increased. IRHO, depending on when it was formed, may be operating in a more skeptical environment than earlier SPACs. The 10-K should hint at the confidence level in IRHO's ability to complete a merger on attractive terms. If the company has been searching for years without announcing a target, it may be reaching its deadline and facing pressure to announce a mediocre deal.
+The SPAC market has cooled dramatically from its 2020–2021 peak. As more SPAC [mergers](/merger/) have underperformed, investor appetite for new offerings has waned, and regulatory scrutiny has increased. IRHO, depending on when it was formed, may be operating in a more skeptical environment than earlier SPACs. The 10-K should hint at the confidence level in IRHO's ability to complete a merger on attractive terms. If the company has been searching for years without announcing a target, it may be reaching its deadline and facing pressure to announce a mediocre deal.
 
 ---
 

@@ -59,11 +59,11 @@ A key regulatory question is carbohydrate immunotherapy's safety profile. If the
 
 ## Competitive Positioning
 
-Cancer immunotherapy is densely competitive: large pharma (Roche, Merck, Bristol Myers Squibb, Gilead) and successful biotech firms (Juno, Nektar, Arcus) have deep expertise, cash, and approved therapies. Imunon's niche—carbohydrate-based immunotherapy—is smaller and less crowded than checkpoint inhibitors or CAR-T, but it is also less proven. The company's advantage is focus and clarity of hypothesis; its disadvantage is unproven modality and limited resources relative to larger competitors.
+Cancer immunotherapy is densely competitive: large pharma (Roche, Merck, [Bristol Myers Squibb](/bmy-stock/), Gilead) and successful biotech firms (Juno, Nektar, Arcus) have deep expertise, cash, and approved therapies. Imunon's niche—carbohydrate-based immunotherapy—is smaller and less crowded than checkpoint inhibitors or CAR-T, but it is also less proven. The company's advantage is focus and clarity of hypothesis; its disadvantage is unproven modality and limited resources relative to larger competitors.
 
 ## Business Model and Exit
 
-Imunon's exit path, like most early-stage biotech, likely leads to acquisition once clinical data matures. A larger pharma with oncology capabilities might acquire the company for its platform and programs, integrating them into a larger pipeline. Alternatively, Imunon might outlicense individual programs or partner on development and commercialization, sharing revenues and risks.
+Imunon's exit path, like most early-stage biotech, likely leads to [acquisition](/acquisition/) once clinical data matures. A larger pharma with oncology capabilities might acquire the company for its platform and programs, integrating them into a larger pipeline. Alternatively, Imunon might outlicense individual programs or partner on development and commercialization, sharing revenues and risks.
 
 Independent commercialization—building a sales force and manufacturing infrastructure—requires capital and expertise Imunon does not yet possess. Most biotech companies at this stage pursue partnerships or acquisition before attempting that undertaking.
 

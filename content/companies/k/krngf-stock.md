@@ -31,11 +31,11 @@ The terms of joint ventures—carried interests, cost-sharing ratios, decision-m
 
 ## Currency Exposure and Foreign Domicile
 
-Karoon is domiciled in Australia but files with the SEC through ADRs, creating a three-currency dynamic: earnings are in Australian dollars (and often physically in the Timor Sea, where payment may be in USD), corporate expenses are in AUD, but [shares](/common-stock/) trade and are valued in US dollars. [Exchange-rate](/stock-exchange/) fluctuations between the AUD and USD directly affect reported financial results and shareholder returns.
+Karoon is domiciled in Australia but files with the SEC through ADRs, creating a three-currency dynamic: earnings are in [Australian dollars](/australian-dollar/) (and often physically in the Timor Sea, where payment may be in USD), corporate expenses are in AUD, but [shares](/common-stock/) trade and are valued in [US dollars](/us-dollar/). [Exchange-rate](/stock-exchange/) fluctuations between the AUD and USD directly affect reported financial results and shareholder returns.
 
 Furthermore, a capital raise (debt or [equity](/common-stock/)) to fund a new exploration program might be raised in USD (easier in US markets) but must be hedged or converted to AUD to pay suppliers and staff. Alternatively, USD-denominated debt creates a liability that must be repaid in dollars—if oil revenue falls short, the company must cover shortfalls through other means or restructure.
 
-Karoon's approach to currency hedging—typically disclosed in derivative positions in the 10-K—is a window into management's confidence in commodity prices and willingness to bear exchange risk.
+Karoon's approach to [currency hedging](/currency-hedging/)—typically disclosed in derivative positions in the 10-K—is a window into management's confidence in commodity prices and willingness to bear exchange risk.
 
 ## Proved Reserve Base as Collateral
 
@@ -45,13 +45,13 @@ The company's financial disclosures include proved reserve estimates, often upda
 
 ## Project Financing and Development Debt
 
-Once Karoon makes a significant discovery, it often pursues project financing—debt secured by the future cash flows of the specific development. Project debt allows the company to isolate one asset's financing from its corporate credit rating, and it scales with the cash flow that asset will generate. KRNGF's debt schedule in the 10-K may show both corporate [debt](/corporate-bond/) and project-level facilities, each tied to different revenue streams and maturity dates.
+Once Karoon makes a significant discovery, it often pursues project financing—debt secured by the future cash flows of the specific development. Project debt allows the company to isolate one asset's financing from its corporate [credit rating](/credit-rating/), and it scales with the cash flow that asset will generate. KRNGF's debt schedule in the 10-K may show both corporate [debt](/corporate-bond/) and project-level facilities, each tied to different revenue streams and maturity dates.
 
 Project financing in offshore oil and gas often includes construction risk, political risk (Australian regulatory changes, for instance), and commodity-price collars (lenders insist on hedging below certain prices to ensure repayment). These structures are complex but allow capital-intensive projects to proceed.
 
 ## Regulatory and Environmental Costs
 
-Australian offshore operations are subject to environmental and regulatory oversight from the National Offshore Petroleum Regulator and other bodies. Compliance costs—environmental bonds, community benefits agreements, decommissioning reserves—affect capital allocation. Australian regulations may require Karoon to set aside provisions for future well decommissioning, creating a long-term liability on the balance sheet that doesn't generate cash but constrains retained earnings.
+Australian offshore operations are subject to environmental and regulatory oversight from the National Offshore Petroleum Regulator and other bodies. Compliance costs—environmental [bonds](/bond/), community benefits agreements, decommissioning reserves—affect capital allocation. Australian regulations may require Karoon to set aside provisions for future well decommissioning, creating a long-term liability on the balance sheet that doesn't generate cash but constrains [retained earnings](/retained-earnings/).
 
 ## [Equity](/common-stock/) Issuance and Dilution
 

@@ -16,7 +16,7 @@ keywords: ["geospatial data", "digital elevation models", "satellite imagery", "
 
 ## Data Collection Cost and Scale Economics
 
-Intermap's core operation is airborne data acquisition. Equipped with synthetic aperture radar (SAR) sensors mounted on aircraft, the company flies over target regions to collect elevation data with meter-scale or sub-meter accuracy. The cost per square kilometer depends on survey altitude, aircraft utilization rates, and sensor technology. A single acquisition pass over a region might cost $5 to $50 per square kilometer, depending on the terrain difficulty and desired precision.
+Intermap's core operation is airborne data [acquisition](/acquisition/). Equipped with synthetic aperture radar (SAR) sensors mounted on aircraft, the company flies over target regions to collect elevation data with meter-scale or sub-meter accuracy. The cost per square kilometer depends on survey altitude, aircraft utilization rates, and sensor technology. A single acquisition pass over a region might cost $5 to $50 per square kilometer, depending on the terrain difficulty and desired precision.
 
 This is a capital-intensive endeavor. Aircraft, sensors, and ground-processing infrastructure represent substantial fixed costs. Once the data is collected and processed into finished datasets—digital elevation models (DEMs), orthorectified imagery, or terrain derivatives—the marginal cost of serving a new customer is near zero. This creates a lumpy cash-flow profile: initial collection efforts burn cash; subsequent licensing generates high-margin revenue.
 

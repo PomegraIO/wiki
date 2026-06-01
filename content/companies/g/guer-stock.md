@@ -23,13 +23,13 @@ This specialization creates both focus and vulnerability. Focus: the company can
 
 ## The Defense-Industrial Customer Base
 
-A significant portion of Guerrilla RF's revenue derives from customers in the U.S. defense-industrial complex: prime contractors (Lockheed Martin, Raytheon, Boeing) and their suppliers. These customers demand RF components for military radar systems, electronic warfare equipment, and satellite command-and-control systems. Defense contracts are characterized by long sales cycles (18+ months from initial design-in to production), extensive qualification and testing requirements, and high switching costs once a supplier is approved for a given platform.
+A significant portion of Guerrilla RF's revenue derives from customers in the U.S. defense-industrial complex: prime contractors ([Lockheed Martin](/lmt-stock/), Raytheon, [Boeing](/ba-stock/)) and their suppliers. These customers demand RF components for military radar systems, electronic warfare equipment, and satellite command-and-control systems. Defense contracts are characterized by long sales cycles (18+ months from initial design-in to production), extensive qualification and testing requirements, and high switching costs once a supplier is approved for a given platform.
 
 This customer concentration in defense brings both stability and regulatory exposure. Stability, because once qualified on a platform, the supplier becomes sticky and revenues are predictable. Exposure, because defense spending is subject to congressional appropriations, geopolitical tensions, and program cancellations. A major contract cancellation or a delay in appropriations can significantly impact revenue. Additionally, defense suppliers must comply with International Traffic in Arms Regulations (ITAR) and other export controls, which constrain the company's ability to sell to non-U.S. customers and require continuous regulatory compliance.
 
 ## The Challenge of Competing Against Integrated Majors
 
-Guerrilla RF competes against much larger semiconductor companies—Broadcom, Skyworks Solutions, Analog Devices—that have decades of RF design experience, broader product portfolios, and the ability to invest heavily in R&D. These larger competitors often have relationships with the same defense and aerospace customers, and their scale allows them to negotiate better terms and absorb the costs of long qualification cycles.
+Guerrilla RF competes against much larger semiconductor companies—[Broadcom](/avgo-stock/), [Skyworks Solutions](/swks-stock/), [Analog Devices](/adi-stock/)—that have decades of RF design experience, broader product portfolios, and the ability to invest heavily in R&D. These larger competitors often have relationships with the same defense and aerospace customers, and their scale allows them to negotiate better terms and absorb the costs of long qualification cycles.
 
 Guerrilla RF's competitive advantage lies in agility and specialization: the company can custom-design RF solutions for niche applications faster than larger, more process-driven organizations. For specialized applications (such as RF components for next-generation military systems), this differentiation can justify premium pricing. For commodity RF applications (such as general-purpose RF switches or filters), the company is likely to lose to larger players on cost and availability.
 
@@ -37,7 +37,7 @@ Guerrilla RF's competitive advantage lies in agility and specialization: the com
 
 RF IC design is capital-intensive and time-intensive. Designing a new RF chip requires months of simulation, layout, fabrication, and testing. Most RF companies do not own their own foundries (fabrication plants); instead, they license design from foundries like TSMC or Samsung. This outsourced manufacturing model reduces capital intensity but also introduces dependency on foundry capacity and process technology maturity. If a foundry is capacity-constrained or struggles with process yields, the RF designer's ability to deliver products is impaired.
 
-Revenue recognition in RF is also lumpy: a customer may place a large order following successful qualification, resulting in a significant revenue jump in a particular quarter. The timing of these orders is difficult to forecast, creating earnings volatility. This volatility makes it harder for the company to achieve the smooth, predictable growth trajectory that investors prefer.
+[Revenue recognition](/revenue-recognition/) in RF is also lumpy: a customer may place a large order following successful qualification, resulting in a significant revenue jump in a particular quarter. The timing of these orders is difficult to forecast, creating earnings volatility. This volatility makes it harder for the company to achieve the smooth, predictable growth trajectory that investors prefer.
 
 ## Commercial and Emerging Wireless Applications
 

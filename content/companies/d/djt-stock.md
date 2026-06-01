@@ -35,7 +35,7 @@ Profitability requires reaching a user base and engagement level where advertisi
 
 ## The Capital Requirements Problem
 
-Building a global-scale social platform requires billions in investment over years—hardware, software, content moderation systems, mobile app development, and sales/marketing. TMTG has raised capital through a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC) merger, but the total capital available is likely far below what would be required to compete with incumbents at scale. This constraint forces the company to be selective about geographic markets (focus on U.S. first) and features (limit to what core users demand rather than matching incumbents feature-for-feature).
+Building a global-scale social platform requires billions in investment over years—hardware, software, content moderation systems, mobile app development, and sales/marketing. TMTG has raised capital through a [special-purpose-acquisition-company](/special-purpose-acquisition-company/) (SPAC) [merger](/merger/), but the total capital available is likely far below what would be required to compete with incumbents at scale. This constraint forces the company to be selective about geographic markets (focus on U.S. first) and features (limit to what core users demand rather than matching incumbents feature-for-feature).
 
 Limited capital also means that if the company runs out of cash, it cannot raise new rounds easily—venture capitalists are skeptical of social media startups, and the public markets have been skeptical of social platforms without proven profitability. The [balance-sheet](/balance-sheet/) is therefore a critical constraint.
 
@@ -49,7 +49,7 @@ TMTG has no enduring competitive advantage beyond its user base (if one forms) a
 
 ## Realistic Scenarios
 
-The business model works only if: (1) Truth Social achieves genuine scale (tens of millions of engaged users) despite network effects, which is statistically unlikely; (2) the company achieves breakeven or profitability before cash runs out, which requires growth and monetization to accelerate dramatically; (3) strategic investors or acquirers value the user base or brand above liquidation value, which is uncertain.
+The business model works only if: (1) Truth Social achieves genuine scale (tens of millions of engaged users) despite network effects, which is statistically unlikely; (2) the company achieves breakeven or profitability before cash runs out, which requires growth and monetization to accelerate dramatically; (3) strategic investors or acquirers value the user base or brand above [liquidation value](/liquidation-value/), which is uncertain.
 
 The most likely outcome is either a slow decline as capital runs low and growth stalls, or a strategic pivot to a niche or vertical social network (finance, politics) where smaller scale is viable.
 

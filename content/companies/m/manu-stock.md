@@ -47,7 +47,7 @@ The geography of broadcast markets affects season-by-season revenue. Rights nego
 
 Manchester United recruits from the global player pool, but primarily from Europe and South America, with some North American players. The geographic distribution of elite player development (La Masia in Spain, Ajax in the Netherlands, the Italian academies, French academies, Portuguese academies) shapes recruitment pipelines. The club's scouting and development apparatus must track talent across these geographies. Players from South America or East Africa require visa logistics, longer adaptation periods, and higher recruitment costs. European players offer easier integration into the Premier League ecosystem.
 
-The club's payroll is therefore subject to geographic labor arbitrage: recruiting cheaper talent from less wealthy markets (Eastern Europe, South America) and selling established talent to wealthier leagues (Spain, Italy, France, Saudi Arabia). Manchester United's geography (UK, stable currency, English-speaking culture, large sports market) makes it an attractive destination for global talent, supporting payroll inflation competitive with the largest clubs worldwide.
+The club's payroll is therefore subject to geographic labor arbitrage: recruiting cheaper talent from less wealthy markets (Eastern Europe, South America) and selling established talent to wealthier leagues (Spain, Italy, France, Saudi Arabia). Manchester United's geography (UK, stable currency, English-speaking culture, large sports market) makes it an attractive destination for global talent, supporting payroll [inflation](/inflation/) competitive with the largest clubs worldwide.
 
 ## Training Facilities and Youth Development
 
@@ -59,6 +59,6 @@ Manchester United is listed on the NYSE but its operational headquarters remains
 
 ## Risk: Geographic Concentration and Reliance on English Market
 
-Ultimately, Manchester United's profitability and competitive viability depend on the health of the English Premier League, the UK economy (ticket prices, sponsorship), and global broadcasting demand for English football. The club has minimal geographic diversification of its core operation (the team plays in Manchester; it cannot relocate). A severe recession in the UK or decline in the Premier League's global appeal would constrain revenue across all three segments: matchday, sponsorship, and broadcasting.
+Ultimately, Manchester United's profitability and competitive viability depend on the health of the English Premier League, the UK economy (ticket prices, sponsorship), and global broadcasting demand for English football. The club has minimal geographic [diversification](/diversification/) of its core operation (the team plays in Manchester; it cannot relocate). A severe [recession](/recession/) in the UK or decline in the Premier League's global appeal would constrain revenue across all three segments: matchday, sponsorship, and broadcasting.
 
 The club's geographic anchoring in Manchester is both its greatest asset (a historic, iconic location with irreplaceable brand equity) and its primary constraint (a fixed stadium, limited population base, reliance on global broadcast and sponsorship to offset geographic limitations).

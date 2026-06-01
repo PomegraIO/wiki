@@ -17,7 +17,7 @@ keywords: ["biotech", "immunotherapy", "gastrointestinal", "oral delivery", "pha
 
 ## A Niche Approach in a Crowded Drug-Development Landscape
 
-Biotech investing revolves around pipeline risk: does a drug candidate clear clinical trials? Will it gain regulatory approval? Can the company commercialize at scale? Immuron faces the same binary outcomes, but its identity is defined by its chosen battleground—oral immunotherapy. This focus contrasts sharply with the diversification strategies of competitors. A firm like Gilead or Regeneron may pursue dozens of programs across oncology, virology, immunology, and rare disease. A focused play like Immuron has deliberately staked its reputation and capital on whether oral immune-based therapies can solve specific gastrointestinal and systemic conditions. That constraint is both its weakness (lack of diversification) and potentially its strength (deep expertise in a narrow domain).
+Biotech investing revolves around pipeline risk: does a drug candidate clear clinical trials? Will it gain regulatory approval? Can the company commercialize at scale? Immuron faces the same binary outcomes, but its identity is defined by its chosen battleground—oral immunotherapy. This focus contrasts sharply with the [diversification](/diversification/) strategies of competitors. A firm like Gilead or Regeneron may pursue dozens of programs across oncology, virology, immunology, and rare disease. A focused play like Immuron has deliberately staked its reputation and capital on whether oral immune-based therapies can solve specific gastrointestinal and systemic conditions. That constraint is both its weakness (lack of diversification) and potentially its strength (deep expertise in a narrow domain).
 
 ## The Oral Immunology Bet
 
@@ -41,7 +41,7 @@ Even if a drug gains approval, commercial success is not assured. Immuron must c
 
 ## Capital Raising and Dilution
 
-Biotech companies early in development typically burn cash. Operating expenses—salaries, research, clinical trials—exceed revenue until and unless a product reaches the market and generates sales. Immuron must raise capital through [equity offerings](/stock/), debt, or partnerships to fund operations. Equity raises dilute existing shareholders; debt creates interest obligations and refinancing risk. The frequency and size of Immuron's capital raises are visible in its SEC filings and serve as a proxy for how aggressively the company is advancing its pipeline and burning cash. Multiple large equity raises in short succession often signal either aggressive expansion or resource strain—a distinction investors must discern.
+Biotech companies early in development typically burn cash. Operating expenses—salaries, research, clinical trials—exceed revenue until and unless a product reaches the market and generates sales. Immuron must raise capital through [equity offerings](/stock/), debt, or partnerships to fund operations. Equity raises dilute existing shareholders; debt creates interest obligations and [refinancing risk](/refinancing-risk/). The frequency and size of Immuron's capital raises are visible in its SEC filings and serve as a proxy for how aggressively the company is advancing its pipeline and burning cash. Multiple large equity raises in short succession often signal either aggressive expansion or resource strain—a distinction investors must discern.
 
 ## Competitive Positioning Within Immunology
 

@@ -21,7 +21,7 @@ Fuel Tech's fortunes are tied directly to environmental regulations. When the En
 
 ## Coal Plant Retirement and Secular Decline
 
-Fuel Tech's largest customer base historically has been coal-fired power plants. Coal generation is in structural decline across the developed world. Utilities are retiring coal plants and replacing them with natural gas, renewables, and nuclear. The pipeline of coal plant retirements is years-long and accelerating. As coal plants close, Fuel Tech loses not just equipment orders (retrofits for running plants) but also long-term service contracts and aftermarket parts sales. No amount of pollution-control innovation can reverse this secular shift. A power plant that closes is gone; Fuel Tech cannot sell equipment to a non-existent facility.
+Fuel Tech's largest customer base historically has been coal-fired power plants. Coal generation is in structural decline across the developed world. Utilities are retiring coal plants and replacing them with [natural gas](/natural-gas/), renewables, and nuclear. The pipeline of coal plant retirements is years-long and accelerating. As coal plants close, Fuel Tech loses not just equipment orders (retrofits for running plants) but also long-term service contracts and aftermarket parts sales. No amount of pollution-control innovation can reverse this secular shift. A power plant that closes is gone; Fuel Tech cannot sell equipment to a non-existent facility.
 
 ## Customer Concentration and Large-Project Dependency
 

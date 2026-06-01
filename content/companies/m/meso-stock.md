@@ -35,7 +35,7 @@ Regulatory approval for a new therapy requires convincing the FDA (in the US) or
 
 ## The Manufacturing Bottleneck
 
-Unlike a traditional pharmaceutical company, which can outsource manufacturing to contract manufacturers at relatively low cost per unit, Mesoblast is still building the infrastructure to scale cell production. This requires significant capital investment in facilities, automation, quality control, and personnel training. A single FDA inspection of a manufacturing site can shut down production if deviations are found. The company is partnering with contract manufacturers in some cases, but maintaining the proprietary cell line, process know-how, and quality standards across partners introduces operational risk.
+Unlike a traditional pharmaceutical company, which can outsource manufacturing to contract manufacturers at relatively low cost per unit, Mesoblast is still building the infrastructure to scale cell production. This requires significant capital investment in facilities, automation, quality control, and personnel training. A single FDA inspection of a manufacturing site can shut down production if deviations are found. The company is partnering with contract manufacturers in some cases, but maintaining the proprietary cell line, process know-how, and quality standards across partners introduces [operational risk](/operational-risk/).
 
 If Mesoblast receives an approval and demand exceeds capacity, the company cannot simply ramp production in weeks. Scaling a cell-manufacturing facility takes months or years. This creates a window of opportunity for competitors to enter with their own approved therapies, and supply constraints can limit revenue even if the product works well.
 

@@ -32,11 +32,11 @@ GTLL's downstream customers are typically large OEMs in telecommunications, indu
 
 ## Specialization and Product-Line Management
 
-GTLL's product portfolio likely spans telecommunications assemblies, industrial control modules, and electronics subsystems. Each product line has distinct supply chains, manufacturing processes, quality requirements, and customer bases. The company must decide how deeply to specialize (becoming the best in a narrow category) versus how broadly to diversify (offering multiple product lines to multiple customer segments). Deep specialization reduces the company's resilience to industry downturns or customer loss, but allows the company to become very good at what it does. Broad diversification spreads risk but can dilute focus and manufacturing expertise. GTLL's business strategy, as revealed in its [10-K](/10-k/), will indicate which approach the company is taking.
+GTLL's product portfolio likely spans telecommunications assemblies, industrial control modules, and electronics subsystems. Each product line has distinct supply chains, manufacturing processes, quality requirements, and customer bases. The company must decide how deeply to specialize (becoming the best in a narrow category) versus how broadly to diversify (offering multiple product lines to multiple customer segments). Deep specialization reduces the company's resilience to industry downturns or customer loss, but allows the company to become very good at what it does. Broad [diversification](/diversification/) spreads risk but can dilute focus and manufacturing expertise. GTLL's business strategy, as revealed in its [10-K](/10-k/), will indicate which approach the company is taking.
 
 ## Margin Drivers and Operational Efficiency
 
-GTLL's profitability hinges on a few critical metrics. First, the company must achieve volume: fixed manufacturing costs (depreciation on equipment, facility overhead, management salaries) are spread across units produced, so higher volume improves [operating-margin](/operating-margin/). Second, GTLL must minimize material cost through supplier negotiations and inventory management. Third, the company must keep labor and conversion costs low through automation, training, and continuous process improvement. Fourth, GTLL must minimize defects and warranty costs through quality management. Any one of these areas—if mismanaged—can compress margin. A competitor that automates more aggressively, sources more efficiently, or maintains tighter quality will capture market share by offering lower prices or more reliable delivery.
+GTLL's profitability hinges on a few critical metrics. First, the company must achieve volume: fixed manufacturing costs ([depreciation](/depreciation/) on equipment, facility overhead, management salaries) are spread across units produced, so higher volume improves [operating-margin](/operating-margin/). Second, GTLL must minimize material cost through supplier negotiations and inventory management. Third, the company must keep labor and conversion costs low through automation, training, and continuous process improvement. Fourth, GTLL must minimize defects and warranty costs through quality management. Any one of these areas—if mismanaged—can compress margin. A competitor that automates more aggressively, sources more efficiently, or maintains tighter quality will capture market share by offering lower prices or more reliable delivery.
 
 ## Technology Disruption and Product Lifecycle
 
@@ -44,12 +44,12 @@ GTLL operates in technology-dependent sectors. Telecommunications, industrial au
 
 ## Capital Intensity and Return on Investment
 
-GTLL requires capital investment in manufacturing facilities, equipment, and tooling. These are long-lived assets that the company must amortize over years. The company's return on invested capital—a key metric of efficiency—depends on its ability to generate high margins and high [free-cash-flow](/free-cash-flow/) from its capital assets. If GTLL invests heavily in a new facility that fails to reach expected volume, the capital is trapped in unproductive assets. Conversely, if GTLL is too cautious and underinvests in capacity, the company cannot win new customer contracts when they become available. Capital allocation is therefore critical to GTLL's long-term success.
+GTLL requires capital investment in manufacturing facilities, equipment, and tooling. These are long-lived assets that the company must amortize over years. The company's [return on invested capital](/return-on-invested-capital/)—a key metric of efficiency—depends on its ability to generate high margins and high [free-cash-flow](/free-cash-flow/) from its capital assets. If GTLL invests heavily in a new facility that fails to reach expected volume, the capital is trapped in unproductive assets. Conversely, if GTLL is too cautious and underinvests in capacity, the company cannot win new customer contracts when they become available. Capital allocation is therefore critical to GTLL's long-term success.
 
 <div class="wiki-seealso">
 
 ### Closely related
-- [/gtic-stock/](/gtic-stock/) — another specialized manufacturer with customer concentration risk
+- [/gtic-stock/](/gtic-stock/) — another specialized manufacturer with customer [concentration risk](/concentration-risk/)
 - [/gtim-stock/](/gtim-stock/) — contrasts capital-intensive manufacturing with consumer-facing operations
 
 ### Wider context

@@ -4,7 +4,7 @@ description: "Biotech firm developing women's health products, primarily contrac
 keywords: ["biotechnology", "women's health", "contraceptive", "reproductive health", "pharmaceutical"]
 ---
 
-*Evofem Biosciences, Inc. (EVFM), a [stock](/stock/) traded on NASDAQ under ticker EVFM and filing with the [SEC](/securities-and-exchange-commission/) under CIK 1618835, operates as a women's health-focused biotech company developing pharmaceutical and contraceptive products. The company's revenue model depends on regulatory approval of its products, manufacturing and distribution arrangements, and physician and patient adoption, making it vulnerable to regulatory delays, competitive pricing pressure, and adoption risk.*
+*Evofem Biosciences, Inc. (EVFM), a [stock](/stock/) traded on [NASDAQ](/nasdaq/) under ticker EVFM and filing with the [SEC](/securities-and-exchange-commission/) under CIK 1618835, operates as a women's health-focused biotech company developing pharmaceutical and contraceptive products. The company's revenue model depends on regulatory approval of its products, manufacturing and distribution arrangements, and physician and patient adoption, making it vulnerable to regulatory delays, competitive pricing pressure, and adoption risk.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>EVFM</td></tr>
@@ -25,7 +25,7 @@ The product has faced adoption headwinds. Contraceptive adoption is driven by ph
 
 Beyond its approved products, Evofem has a pipeline of products in clinical development. These are long-dated: a product in Phase 2 testing today may not reach the market for 5–10 years, if ever. Development-stage revenue is negligible. The company's financial structure depends critically on its approved-product revenue and its cash position. Until additional products are approved, near-term financial performance is driven entirely by the success or failure of currently marketed products.
 
-R&D spending for biotech companies is substantial, often 20–40% of revenue for early-stage firms. Evofem spends on clinical trials (expensive), regulatory interactions, manufacturing support, and product development. For a specialty-focused biotech, R&D is often the largest line item in the income statement, and achieving positive operating income requires either very high product revenue or dramatic cost reduction. Most smaller biotechs do not achieve operating profitability; instead, they rely on capital raises or licensing partnerships to fund development until a product succeeds.
+R&D spending for biotech companies is substantial, often 20–40% of revenue for early-stage firms. Evofem spends on clinical trials (expensive), regulatory interactions, manufacturing support, and product development. For a specialty-focused biotech, R&D is often the largest line item in the [income statement](/income-statement/), and achieving positive operating income requires either very high product revenue or dramatic cost reduction. Most smaller biotechs do not achieve operating profitability; instead, they rely on capital raises or licensing partnerships to fund development until a product succeeds.
 
 ## Manufacturing and Supply Chain
 

@@ -17,11 +17,11 @@ keywords: [hydro one, utility, canada, regulated, debt, capital structure, infra
 
 ## Regulation and Allowed Return on Capital
 
-Hydro One operates under a regulatory framework administered by Ontario's Independent Electricity System Operator and the Ontario Energy Board. These agencies set the rates that Hydro One may charge customers for transmission and distribution services. Critically, the regulators establish the allowed return on equity (ROE)—typically 8–10%—that the utility is permitted to earn. This means Hydro One's capital structure is not dictated by market competition or free capital allocation but by regulation. The utility must finance an asset base and is allowed to earn a specified return; debt is used to keep the weighted average cost of capital—and thus the rates charged to customers—at a level that regulators deem just and reasonable.
+Hydro One operates under a regulatory framework administered by Ontario's Independent Electricity System Operator and the Ontario Energy Board. These agencies set the rates that Hydro One may charge customers for transmission and distribution services. Critically, the regulators establish the allowed return on equity (ROE)—typically 8–10%—that the utility is permitted to earn. This means Hydro One's capital structure is not dictated by market competition or free capital allocation but by regulation. The utility must finance an asset base and is allowed to earn a specified return; debt is used to keep the [weighted average cost of capital](/weighted-average-cost-of-capital/)—and thus the rates charged to customers—at a level that regulators deem just and reasonable.
 
 ## Debt-Financed Asset Base
 
-Hydro One owns thousands of kilometers of transmission lines, distribution poles, substations, and associated infrastructure. This fixed-asset base is enormous and depreciates slowly over decades. To finance the purchase and maintenance of these assets, Hydro One issues bonds and takes on debt. Because cash flows are predictable (customers must pay for electricity transmission) and the utility is regulated to recover its costs, lenders are comfortable providing substantial debt at relatively low interest rates. Hydro One's debt-to-equity ratio is typically in the range of 60–70% debt and 30–40% equity, a leverage profile that would be unsustainable for an unregulated company but is standard for utilities.
+Hydro One owns thousands of kilometers of transmission lines, distribution poles, substations, and associated infrastructure. This fixed-asset base is enormous and depreciates slowly over decades. To finance the purchase and maintenance of these assets, Hydro One issues [bonds](/bond/) and takes on debt. Because cash flows are predictable (customers must pay for electricity transmission) and the utility is regulated to recover its costs, lenders are comfortable providing substantial debt at relatively low [interest rates](/interest-rate/). Hydro One's [debt-to-equity ratio](/debt-to-equity-ratio/) is typically in the range of 60–70% debt and 30–40% equity, a leverage profile that would be unsustainable for an unregulated company but is standard for utilities.
 
 ## Rate Base and Cost Recovery
 
@@ -33,7 +33,7 @@ Hydro One (and utilities generally) structure their capital ratios to minimize t
 
 ## Dividend and Utility Yields
 
-Hydro One pays a dividend that is designed to attract income-focused investors and balance the tax treatment of returns (debt interest is tax-deductible to the company but not to investors; dividends are not deductible to the company but are preferred by many investors for tax reasons). The dividend is set as a percentage of earnings and grows modestly in line with inflation and earnings growth. Utility investors expect stable, growing dividends; Hydro One's dividend growth has typically matched or slightly exceeded inflation over the long term, making it attractive to retirees and conservative portfolios seeking yield.
+Hydro One pays a dividend that is designed to attract income-focused investors and balance the tax treatment of returns (debt interest is tax-deductible to the company but not to investors; dividends are not deductible to the company but are preferred by many investors for tax reasons). The dividend is set as a percentage of earnings and grows modestly in line with [inflation](/inflation/) and earnings growth. Utility investors expect stable, growing dividends; Hydro One's dividend growth has typically matched or slightly exceeded inflation over the long term, making it attractive to retirees and conservative portfolios seeking yield.
 
 ## Capital Expenditure Requirements and Financing
 
@@ -45,11 +45,11 @@ Hydro One was partially privatized by the Ontario government in the 2000s. The g
 
 ## Refinancing Risk and Interest Rates
 
-Hydro One's debt must be refinanced periodically. Rising interest rates increase the cost of new borrowing and push up the weighted average cost of capital, which in turn justifies higher customer rates. Conversely, in declining-rate environments, Hydro One can refinance at lower costs, potentially supporting rate reductions. The company's debt maturity is staggered to avoid refinancing all at once in unfavorable markets. With proper capital structure management, Hydro One can manage long-term interest-rate risk, but a sharp, unexpected rise in rates could temporarily pressure the company until regulators adjust rates upward to allow cost recovery.
+Hydro One's debt must be refinanced periodically. Rising interest rates increase the cost of new borrowing and push up the weighted average cost of capital, which in turn justifies higher customer rates. Conversely, in declining-rate environments, Hydro One can refinance at lower costs, potentially supporting rate reductions. The company's debt maturity is staggered to avoid refinancing all at once in unfavorable markets. With proper capital structure management, Hydro One can manage long-term [interest-rate risk](/interest-rate-risk/), but a sharp, unexpected rise in rates could temporarily pressure the company until regulators adjust rates upward to allow cost recovery.
 
 ## Credit Quality and Rating
 
-Hydro One maintains an investment-grade credit rating (typically A or BBB+ range) because of its monopoly position, regulated returns, and predictable cash flows. This strong credit quality keeps borrowing costs low and supports the dividend. A regulatory or operational shock—such as major grid failure or dramatic political pressure to freeze rates—could threaten the rating, but such scenarios are structurally unlikely given the essential nature of electricity transmission.
+Hydro One maintains an investment-grade [credit rating](/credit-rating/) (typically A or BBB+ range) because of its monopoly position, regulated returns, and predictable cash flows. This strong credit quality keeps borrowing costs low and supports the dividend. A regulatory or operational shock—such as major grid failure or dramatic political pressure to freeze rates—could threaten the rating, but such scenarios are structurally unlikely given the essential nature of electricity transmission.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -47,9 +47,9 @@ Food-service workers and maintenance staff are increasingly represented by union
 
 ## Debt load and refinancing risk
 
-Six Flags has used debt aggressively to finance growth and shareholder returns in the past. High leverage is a structural feature of the business model. The risk: if the company falls into a period of weak attendance — say, a recession that cuts discretionary spending on family outings — the debt burden becomes onerous. The company may struggle to refinance maturing debt at reasonable rates, or refinance at much higher rates, crushing profitability.
+Six Flags has used debt aggressively to finance growth and shareholder returns in the past. High leverage is a structural feature of the business model. The risk: if the company falls into a period of weak attendance — say, a [recession](/recession/) that cuts [discretionary spending](/discretionary-spending/) on family outings — the debt burden becomes onerous. The company may struggle to refinance maturing debt at reasonable rates, or refinance at much higher rates, crushing profitability.
 
-This is not a hypothetical. Six Flags has gone through distressed periods in the past where refinancing risk spiked and shareholders suffered. The company's debt/EBITDA ratio and refinancing schedule are worth monitoring closely.
+This is not a hypothetical. Six Flags has gone through distressed periods in the past where [refinancing risk](/refinancing-risk/) spiked and shareholders suffered. The company's debt/[EBITDA](/ebitda/) ratio and refinancing schedule are worth monitoring closely.
 
 ## How to understand the business
 

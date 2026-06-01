@@ -23,13 +23,13 @@ All SEC filings for Birchtech Corp. are accessible through the SEC's EDGAR datab
 
 When reviewing Birchtech's [**10-K**](/10-k/), focus on the following dimensions:
 
-**Revenue and Profitability**: Examine revenue trends over three to five years, gross and operating margins, and [**net income**](/stock/). Growing revenue with expanding margins suggests operational efficiency and pricing power; shrinking margins may indicate competitive pressure or rising input costs.
+**Revenue and Profitability**: Examine revenue trends over three to five years, gross and [operating margins](/operating-margin/), and [**net income**](/stock/). Growing revenue with expanding margins suggests operational efficiency and pricing power; shrinking margins may indicate competitive pressure or rising input costs.
 
 **Segment Breakdown**: Many companies operate multiple business lines or serve distinct customer categories. The 10-K typically breaks out revenue by segment, allowing you to assess which parts of the business are growing and which may be in decline.
 
-**Balance Sheet Health**: Review total [**assets**](/balance-sheet/), [**liabilities**](/stock/), and [**shareholders' equity**](/stock/). Calculate key ratios such as the [**debt-to-equity ratio**](/balance-sheet/) (total debt divided by equity) and the current ratio (current assets divided by current liabilities). High leverage amplifies both returns and risk; excessive short-term liabilities may signal liquidity challenges.
+**Balance Sheet Health**: Review total [**assets**](/balance-sheet/), [**liabilities**](/stock/), and [**shareholders' equity**](/stock/). Calculate key ratios such as the [**debt-to-equity ratio**](/balance-sheet/) (total debt divided by equity) and the [current ratio](/current-ratio/) (current assets divided by current liabilities). High leverage amplifies both returns and risk; excessive short-term liabilities may signal liquidity challenges.
 
-**Cash Flow**: Distinguish between [**operating cash flow**](/stock/) (cash generated from running the business), investing activities (capital expenditures, acquisitions), and financing activities (borrowing, equity issuance, dividends). A company with declining operating cash flow but rising debt is a yellow flag.
+**Cash Flow**: Distinguish between [**operating cash flow**](/stock/) (cash generated from running the business), investing activities (capital expenditures, [acquisitions](/acquisition/)), and financing activities (borrowing, equity issuance, [dividends](/dividend/)). A company with declining operating cash flow but rising debt is a yellow flag.
 
 ## Competitive Positioning and Industry Trends
 

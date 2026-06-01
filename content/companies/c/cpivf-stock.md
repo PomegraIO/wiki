@@ -29,7 +29,7 @@ But regulatory fragmentation cuts both ways. A shipment that is legal in one sta
 
 ## Product Mix and Customer Acquisition
 
-CPIVF's wellness product portfolio likely includes CBD oils, topicals, edibles, and other hemp-derived formulations. The company competes on formulation innovation, packaging appeal, and customer retention—but so does every competitor. Without brand scale or distribution scale, the firm relies on direct-to-consumer sales channels (e-commerce, subscription boxes, influencer partnerships) and selective retail placement. Acquisition cost per customer in the wellness CBD market is high, repeat purchase rates are unpredictable, and customer lifetime value depends entirely on brand loyalty and product performance.
+CPIVF's wellness product portfolio likely includes CBD oils, topicals, edibles, and other hemp-derived formulations. The company competes on formulation innovation, packaging appeal, and customer retention—but so does every competitor. Without brand scale or distribution scale, the firm relies on direct-to-consumer sales channels (e-commerce, subscription boxes, influencer partnerships) and selective retail placement. [Acquisition](/acquisition/) cost per customer in the wellness CBD market is high, repeat purchase rates are unpredictable, and customer lifetime value depends entirely on brand loyalty and product performance.
 
 The company's competitive position is determined by how efficiently it can source hemp biomass, extract and formulate cannabinoids, and reach end customers before they try a cheaper competitor. Economies of scale matter enormously—larger competitors can buy hemp in bulk, negotiate better extraction contracts, and spread marketing spend across larger customer bases. CPIVF is small enough that each product launch or customer cohort requires meaningful capital allocation and carries meaningful downside risk.
 
@@ -41,9 +41,9 @@ Extraction and processing contracts are similarly competitive. CPIVF likely part
 
 ## Capital Constraints in a Capital-Intensive Market
 
-Cannabis companies across the legal spectrum require significant working capital: inventory (raw biomass, finished products), logistics, quality-assurance testing, and compliance infrastructure. Retail-facing cannabis firms typically operate on tight margins (30–50% gross margins are common, compared to 70%+ for pharma), so leverage is necessary to fund growth. Yet CPIVF likely faces constraints on traditional lending—federal prohibition still makes conventional bank lending risky for companies touching cannabis directly. Equity financing is dilutive, and venture capital is increasingly concentrated in larger, late-stage players with clearer paths to profitability.
+Cannabis companies across the legal spectrum require significant working capital: inventory (raw biomass, finished products), logistics, quality-assurance testing, and compliance infrastructure. Retail-facing cannabis firms typically operate on tight margins (30–50% gross margins are common, compared to 70%+ for pharma), so leverage is necessary to fund growth. Yet CPIVF likely faces constraints on traditional lending—federal prohibition still makes conventional bank lending risky for companies touching cannabis directly. [Equity financing](/equity-financing/) is dilutive, and venture capital is increasingly concentrated in larger, late-stage players with clearer paths to profitability.
 
-This capital constraint forces smaller cannabis companies to be extremely disciplined on customer acquisition cost, inventory turnover, and cash conversion. Any misstep in inventory management or customer retention can starve the business of liquidity quickly.
+This capital constraint forces smaller cannabis companies to be extremely disciplined on customer acquisition cost, [inventory turnover](/inventory-turnover/), and cash conversion. Any misstep in inventory management or customer retention can starve the business of liquidity quickly.
 
 ## See Also: Market Structure and Competitive Alternatives
 

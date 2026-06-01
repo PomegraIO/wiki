@@ -43,7 +43,7 @@ These regulatory requirements are a moat of sorts: they raise the cost and time 
 
 ## Structural Headwinds and Moat Erosion
 
-The dominant threat to Coronado's moat is not competition from other coal miners but the long-term decline of coal demand. Global energy policies increasingly discourage coal: carbon taxes, renewable-energy subsidies, and regulations limiting coal-fired power plants all reduce demand for thermal coal. Utilities are retiring coal plants and replacing them with natural gas, renewables, and nuclear. This secular decline affects all coal miners, but it particularly threatens those with decades of reserve life (like Coronado) because they face the possibility of reserves becoming stranded before they are fully extracted.
+The dominant threat to Coronado's moat is not competition from other coal miners but the long-term decline of coal demand. Global energy policies increasingly discourage coal: carbon taxes, renewable-energy subsidies, and regulations limiting coal-fired power plants all reduce demand for thermal coal. Utilities are retiring coal plants and replacing them with [natural gas](/natural-gas/), renewables, and nuclear. This secular decline affects all coal miners, but it particularly threatens those with decades of reserve life (like Coronado) because they face the possibility of reserves becoming stranded before they are fully extracted.
 
 A competitor with a smaller reserve base might exit the coal business before reserves become liabilities. Coronado, with large reserves, faces a tougher problem: either it finds new markets (e.g., switching to coking coal, though its reserves are thermal coal), or it manages a slow decline in production as global demand falls.
 

@@ -4,7 +4,7 @@ description: "Biopharmaceutical firm focused on oncology treatments in China and
 keywords: ["biotech", "oncology", "China", "drug development", "capital structure"]
 ---
 
-*The capital structure of **CASI Pharmaceuticals, Inc. (CASIF)** reflects a biopharmaceutical enterprise oriented toward Asian oncology markets, with its funding drawn from equity financing rather than operational cash flow—a signature trait of pre-commercialization and early-stage commercial stage biotech.*
+*The capital structure of **CASI Pharmaceuticals, Inc. (CASIF)** reflects a biopharmaceutical enterprise oriented toward Asian oncology markets, with its funding drawn from [equity financing](/equity-financing/) rather than operational cash flow—a signature trait of pre-commercialization and early-stage commercial stage biotech.*
 
 <aside class="wiki-infobox"><table>
 <tr><td><strong>Ticker</strong></td><td>CASIF</td></tr>
@@ -17,9 +17,9 @@ keywords: ["biotech", "oncology", "China", "drug development", "capital structur
 
 ## Equity-Dependent Development Model
 
-CASI Pharmaceuticals' capital strategy is fundamentally one of equity dependence. The company does not generate meaningful operating cash flow; instead, it survives on proceeds from share issuances and must manage burn rates carefully to extend its runway between funding events. This is typical for drug developers pre-profitability, but it exposes equity holders to dilution at each new capital raise. CASI has navigated multiple offerings to sustain clinical and commercial operations, meaning shareholders acquired in later rounds face downside from prior dilution while the company's own equity base becomes increasingly fractional.
+CASI Pharmaceuticals' capital strategy is fundamentally one of equity dependence. The company does not generate meaningful operating cash flow; instead, it survives on proceeds from [share issuances](/share-issuance/) and must manage burn rates carefully to extend its runway between funding events. This is typical for drug developers pre-profitability, but it exposes equity holders to dilution at each new capital raise. CASI has navigated multiple offerings to sustain clinical and commercial operations, meaning shareholders acquired in later rounds face downside from prior dilution while the company's own equity base becomes increasingly fractional.
 
-The absence of revenue or a debt-funded balance sheet reflects where the company sits on the biotech lifecycle. It is not a mature pharmaceutical with diversified marketed products and recurring revenue streams. Instead, it is a clinical-stage or early commercialization firm betting on specific therapeutic candidates. This positioning forces aggressive capital management: cash burn must be monitored against cash on hand, and each drug program's advancement depends on securing funding to complete development milestones.
+The absence of revenue or a debt-funded [balance sheet](/balance-sheet/) reflects where the company sits on the biotech lifecycle. It is not a mature pharmaceutical with diversified marketed products and recurring revenue streams. Instead, it is a clinical-stage or early commercialization firm betting on specific therapeutic candidates. This positioning forces aggressive capital management: cash burn must be monitored against cash on hand, and each drug program's advancement depends on securing funding to complete development milestones.
 
 ## Development Financing and Partnership Capital
 
@@ -29,7 +29,7 @@ This dependency on partnership capital creates a leverage of a different sort—
 
 ## Minimal Debt Footprint
 
-CASI Pharmaceuticals carries little to no meaningful [corporate-bond](/corporate-bond/) or conventional bank debt, which is rational for a pre-revenue biotech. Lenders require cash flow or hard assets to secure lending, and CASI has neither in abundance. Equipment, leases on lab and clinical-trial infrastructure, and intellectual property (patents on drug candidates) form the balance sheet, but intangible assets are difficult to collateralize and provide little lender comfort. The company's only liabilities are typically operational payables and accruals rather than funded debt.
+CASI Pharmaceuticals carries little to no meaningful [corporate-bond](/corporate-bond/) or conventional bank debt, which is rational for a pre-revenue biotech. Lenders require cash flow or hard assets to secure lending, and CASI has neither in abundance. Equipment, leases on lab and clinical-trial infrastructure, and intellectual property (patents on drug candidates) form the balance sheet, but [intangible assets](/intangible-assets/) are difficult to collateralize and provide little lender comfort. The company's only liabilities are typically operational payables and accruals rather than funded debt.
 
 This debt-light structure is both a strength and a vulnerability. It avoids fixed interest obligations that would drain cash, but it also means the company cannot use low-cost leverage to stretch its runway. Every dollar of growth capital must come from equity or partnership deals, both of which impose real costs—dilution for equity, and loss of upside or control for partnerships. A pharmaceutical with marketed products and steady cash flow can borrow to fund R&D; CASI cannot.
 
@@ -43,7 +43,7 @@ Capital efficiency—the revenue or clinical progress generated per dollar of ca
 
 For shareholders, the return profile is binary: either a drug candidate succeeds, the company reaches profitability, and equity values increase, or development fails and the stock deteriorates. There is little middle ground with pre-revenue biotech. An investor in CASI is purchasing an option on future drug approvals and commercialization, not a stake in a mature cash-generating business.
 
-The company's shareholder base likely includes founders, early-stage investors who hold preferred shares converted to common at [initial-public-offering](/initial-public-offering/), and public-market investors. Founders and early investors often hold a majority, which can create alignment but also means public shareholders own a minority stake. Dilution from each new round reduces the public float and the percentage ownership of each existing shareholder.
+The company's shareholder base likely includes founders, early-stage investors who hold preferred shares converted to common at [initial-public-offering](/initial-public-offering/), and public-market investors. Founders and early investors often hold a majority, which can create alignment but also means public shareholders own a minority stake. Dilution from each new round reduces the [public float](/float/) and the percentage ownership of each existing shareholder.
 
 ## Path to Capital Independence
 

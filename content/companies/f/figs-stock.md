@@ -25,7 +25,7 @@ Inventory quality directly impacts [gross-profit-margin](/gross-profit-margin/).
 
 ## Direct-to-Consumer Economics
 
-FIGS' DTC model—selling primarily through its own website and app—eliminates wholesale discounting and intermediaries. The company retains full gross-margin from each sale, typically 60–75% for apparel depending on product mix and promotional intensity. This is substantially higher than wholesale or department-store economics. However, DTC requires customer acquisition costs (digital marketing, brand building) and fulfillment infrastructure (warehousing, shipping). These costs are substantial but are operating expenses, not balance-sheet assets.
+FIGS' DTC model—selling primarily through its own website and app—eliminates wholesale discounting and intermediaries. The company retains full gross-margin from each sale, typically 60–75% for apparel depending on product mix and promotional intensity. This is substantially higher than wholesale or department-store economics. However, DTC requires customer [acquisition](/acquisition/) costs (digital marketing, brand building) and fulfillment infrastructure (warehousing, shipping). These costs are substantial but are operating expenses, not balance-sheet assets.
 
 Cash from DTC sales flows to the company quickly, reducing the need to finance working capital. A customer buys today; shipping costs money, but the margin covers it. This gives FIGS positive working-capital dynamics uncommon in apparel.
 
@@ -49,15 +49,15 @@ The customer base is skewed toward women (healthcare workers are predominantly f
 
 ## Working Capital and Cash Conversion
 
-A DTC apparel business is working-capital-positive. FIGS collects cash from customers (via credit card or PayPal) immediately; payment to manufacturers occurs 30–90 days later. This float is a source of free financing—the company can use cash from today's sales to pay yesterday's suppliers. As long as sales growth continues, working capital becomes a growing asset, but it is not a capital drain.
+A DTC apparel business is working-capital-positive. FIGS collects cash from customers (via credit card or [PayPal](/pypl-stock/)) immediately; payment to manufacturers occurs 30–90 days later. This float is a source of free financing—the company can use cash from today's sales to pay yesterday's suppliers. As long as sales growth continues, working capital becomes a growing asset, but it is not a capital drain.
 
 The cash conversion cycle (days from paying suppliers to collecting from customers) is measured and managed carefully. A longer cycle increases the amount of cash tied up in inventory and receivables; a shorter cycle frees cash. FIGS has worked to optimize this through inventory management and direct-to-consumer sales (which convert to cash faster than wholesale channels).
 
 ## Competitive Positioning and Switching Costs
 
-FIGS faces competition from large activewear brands (Lululemon, Nike, Athleta) and traditional medical-apparel suppliers (Dickies, Cherokee, Landau). But the company has built brand equity among healthcare workers through style, fit, mission alignment (healthcare workers value quality and durability), and community building. This brand loyalty creates mild switching costs—a nurse who finds her perfect scrubs fit and style with FIGS is reluctant to try another brand.
+FIGS faces competition from large activewear brands (Lululemon, [Nike](/nke-stock/), Athleta) and traditional medical-apparel suppliers (Dickies, Cherokee, Landau). But the company has built brand equity among healthcare workers through style, fit, mission alignment (healthcare workers value quality and durability), and community building. This brand loyalty creates mild switching costs—a nurse who finds her perfect scrubs fit and style with FIGS is reluctant to try another brand.
 
-The balance sheet does not reflect brand value directly (though it appears on the income statement as brand-related intangible assets if FIGS acquired other companies). But the strength of FIGS' brand is evident in customer retention metrics and pricing power—the ability to command higher prices because customers perceive superior value.
+The balance sheet does not reflect brand value directly (though it appears on the [income statement](/income-statement/) as brand-related [intangible assets](/intangible-assets/) if FIGS acquired other companies). But the strength of FIGS' brand is evident in customer retention metrics and pricing power—the ability to command higher prices because customers perceive superior value.
 
 ## Inventory Risk and Fashion Cycle
 

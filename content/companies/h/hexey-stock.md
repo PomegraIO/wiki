@@ -17,7 +17,7 @@ keywords: ["stock exchange", "capital markets", "Greece", "trading venue", "mark
 
 ## How Athens Runs Its Market
 
-A stock exchange is infrastructure. Euronext Athens owns the computer systems, matching engine, clearing mechanisms, and rulebooks that allow buyers and sellers to transact Greek equities. The exchange processes orders, calculates prices, settles trades, and publishes market data. It charges listing fees to companies that want their shares tradable, transaction fees to brokers and traders, and subscriptions to market-data consumers—banks, fund managers, news services. These fees are the exchange's core revenue streams.
+A stock exchange is infrastructure. Euronext Athens owns the computer systems, matching engine, clearing mechanisms, and rulebooks that allow buyers and sellers to transact Greek equities. The exchange processes orders, calculates prices, settles trades, and publishes market data. It charges listing fees to companies that want their shares tradable, transaction fees to [brokers](/broker/) and traders, and subscriptions to market-data consumers—banks, fund managers, news services. These fees are the exchange's core revenue streams.
 
 The Athens exchange serves a concentrated economy. Greece's largest listed companies span banking, shipping, utilities, and retail. The market is deep in some sectors—Greek banks, for instance—and thin in others. The exchange's fortunes depend on the health and size of its listed base and on the level of trading activity. A declining economy, corporate delistings, or a shift toward trading on other European venues all pressure volumes and fees. Conversely, any expansion of the Greek corporate base or increased investor participation lifts the exchange's throughput.
 
@@ -29,7 +29,7 @@ Euronext Athens operates in a distinct geographic and regulatory niche. Greece s
 
 Exchange operators have three main revenue levers: listing fees, trading fees, and data licensing. Euronext Athens faces structural competition from electronic trading platforms in other European cities—particularly Athens-traded stocks can also be traded on pan-European venues—and from the growing role of private equity and direct investment. The company's ability to grow depends on convincing new companies to list (rather than remaining private or listing elsewhere) and on maintaining trading volumes in existing stocks.
 
-The exchange also derives ancillary revenues from clearing and settlement operations, index management, and market surveillance services. These are lower-margin but less volatile than trading fees.
+The exchange also derives ancillary revenues from clearing and settlement operations, index management, and [market surveillance](/market-surveillance/) services. These are lower-margin but less volatile than trading fees.
 
 ## Regulation and Oversight
 
@@ -43,13 +43,13 @@ The introduction of electronic trading and faster settlement has made exchange o
 
 ## Capital and Ownership
 
-Euronext Athens trades as an American Depositary Receipt (ADR), giving it access to U.S. equity markets. The company files with the [Securities and Exchange Commission](/securities-and-exchange-commission/) and provides [10-K](/10-k/) annual reports detailing its business, risks, and financials. Its ownership structure may include domestic Greek institutions, international institutional investors, and possibly a parent holding company; the ADR structure is common for exchanges to improve their access to international capital and investor recognition.
+Euronext Athens trades as an [American Depositary Receipt](/adr/) (ADR), giving it access to U.S. equity markets. The company files with the [Securities and Exchange Commission](/securities-and-exchange-commission/) and provides [10-K](/10-k/) annual reports detailing its business, risks, and financials. Its ownership structure may include domestic Greek institutions, international institutional investors, and possibly a parent holding company; the ADR structure is common for exchanges to improve their access to international capital and investor recognition.
 
 ## Risks and Long-Term Trends
 
 The exchange's core risk is a contraction in Greek economic activity, which would shrink the corporate base and discourage trading. A prolonged equity-market downturn in Europe also pressures volumes. On the positive side, any economic recovery in Greece or the Balkans, or a consolidation wave that encourages new listings, would expand the company's addressable market.
 
-The company also faces secular risks: a shift toward private equity and off-exchange trading (dark pools, alternative trading systems) reduces the role of public exchanges. Euronext Athens must invest continuously in technology, marketing, and regulatory compliance to remain relevant, especially if it aspires to capture non-Greek trading. Its ability to grow organically is constrained by the size of its home market.
+The company also faces secular risks: a shift toward private equity and off-exchange trading ([dark pools](/dark-pool-detail/), [alternative trading systems](/alternative-trading-system/)) reduces the role of public exchanges. Euronext Athens must invest continuously in technology, marketing, and regulatory compliance to remain relevant, especially if it aspires to capture non-Greek trading. Its ability to grow organically is constrained by the size of its home market.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -51,7 +51,7 @@ The balance between these end-markets—aerospace (high margin, low volume, cycl
 
 ## Competition from Large Integrated Producers
 
-IBC competes against much larger, vertically integrated metals companies (e.g., Allegheny Technologies, Carpenter Technology) that mine raw materials, smelt primary metals, and sell finished products. These giants have lower raw-material costs and integrated supply chains but also face regulatory oversight as primary producers.
+IBC competes against much larger, vertically integrated metals companies (e.g., Allegheny Technologies, [Carpenter Technology](/crs-stock/)) that mine raw materials, smelt primary metals, and sell finished products. These giants have lower raw-material costs and integrated supply chains but also face regulatory oversight as primary producers.
 
 IBC's niche is agility and specialization. The company produces smaller volumes of higher-specification materials more efficiently than integrated giants. It can pivot product mix quickly without disrupting massive commodity-mining operations. It can serve niche customers that are too small to warrant engagement from large suppliers.
 

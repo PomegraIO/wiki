@@ -31,7 +31,7 @@ Patent protection has a time limit. Once patents expire, competitors freely ente
 
 Industrial customers make capital-intensive decisions around energy and emissions. Installing a decarbonization system—whether it is carbon capture equipment, energy efficiency software, or process redesign—creates integration and switching cost. The customer's operations are dependent on GCDT's system functioning, data being accurate, and support remaining available. If GCDT proves reliable and improves the customer's bottom line (through lower energy costs, tax credits for emissions reduction, or higher valuations from ESG improvements), the customer has incentive to deepen the relationship and resist switching.
 
-This customer lock-in is genuine but time-limited. Industrial companies will defect if a competitor offers significantly better functionality, lower cost, or superior support. And large customers often insist on competing bids and vendor diversification to avoid single-supplier risk. A utility or industrial giant using GCDT's technology will maintain relationships with competing vendors to retain negotiating power.
+This customer lock-in is genuine but time-limited. Industrial companies will defect if a competitor offers significantly better functionality, lower cost, or superior support. And large customers often insist on competing bids and vendor [diversification](/diversification/) to avoid single-supplier risk. A utility or industrial giant using GCDT's technology will maintain relationships with competing vendors to retain negotiating power.
 
 ## Supply Chain and Implementation Risk
 

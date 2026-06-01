@@ -17,7 +17,7 @@ keywords: ["robotics", "automation", "industrial technology", "robotic systems",
 
 ## The Industrial Customer and the Automation Impulse
 
-A manufacturer deciding to invest in industrial robotics is making a capital allocation decision with long payback periods. They are typically motivated by one of three factors: labor scarcity (they cannot hire enough workers at competitive wages), labor cost inflation (wages are rising faster than productivity), or competitive pressure (a rival manufacturer has automated and is undercutting on price). For small to mid-sized manufacturers, this decision is risky because the upfront capital cost is substantial, and if the automation fails or the business downturn occurs, they lose both the investment and the flexibility of a human workforce.
+A manufacturer deciding to invest in industrial robotics is making a capital allocation decision with long payback periods. They are typically motivated by one of three factors: labor scarcity (they cannot hire enough workers at competitive wages), labor cost [inflation](/inflation/) (wages are rising faster than productivity), or competitive pressure (a rival manufacturer has automated and is undercutting on price). For small to mid-sized manufacturers, this decision is risky because the upfront capital cost is substantial, and if the automation fails or the business downturn occurs, they lose both the investment and the flexibility of a human workforce.
 
 GMEX's customer profile is therefore skewed toward companies facing acute labor pressure or those in industries where automation is already standard (automotive supply, electronics assembly, certain food processing). These customers are willing to accept the risks of automation because the alternative—continuing to operate with increasingly scarce or expensive labor—is economically unviable.
 
@@ -25,7 +25,7 @@ GMEX's customer profile is therefore skewed toward companies facing acute labor 
 
 The customer's willingness to buy depends on the payback period of the robot. If a machine costs $500,000 and saves $200,000 per year in labor, the customer expects to recover the investment in roughly 2.5 years—assuming the machine runs reliably and the labor cost savings materialize. The decision threshold varies by industry. Automotive manufacturers, accustomed to high-capital operations, may accept 5-year paybacks. A small electronics assembler may require a 2-year payback to justify the risk.
 
-This means GMEX's pricing power is constrained by the customer's cost of labor in their region and industry. A robot priced to make sense for a manufacturer in a high-wage country (Germany, Sweden, the United States) may be too expensive for a customer in a lower-wage country, where labor is still cheaper than capital depreciation. GMEX's customer base is therefore concentrated in developed economies, which limits total addressable market.
+This means GMEX's pricing power is constrained by the customer's cost of labor in their region and industry. A robot priced to make sense for a manufacturer in a high-wage country (Germany, Sweden, the United States) may be too expensive for a customer in a lower-wage country, where labor is still cheaper than capital [depreciation](/depreciation/). GMEX's customer base is therefore concentrated in developed economies, which limits total addressable market.
 
 ## Integration and Customization Burden
 
@@ -37,13 +37,13 @@ This is where many small robotics companies run into trouble. The customer signs
 
 Large automation and robotics firms (ABB, KUKA, Fanuc) dominate the market with strong customer relationships, global support networks, and decades of operational experience. They can offer bundled solutions—robot, integration, maintenance contracts, software updates—at scales that a microcap cannot match. A customer considering GMEX against a major established player must weigh the risk of betting on a smaller company against the cost premium and bureaucracy of working with a giant.
 
-GMEX's competitive position therefore rests on serving niches or smaller customers that the major players do not prioritize. This might include specialized applications (medical device assembly, precision optics, food packaging), geographic markets underserved by major players, or customized solutions for customers with atypical production needs. These niches are defensible only if GMEX can execute faster and more flexibly than incumbents, which is a high bar.
+GMEX's competitive position therefore rests on serving niches or smaller customers that the major players do not prioritize. This might include specialized applications (medical device assembly, [precision optics](/poci-stock/), food packaging), geographic markets underserved by major players, or customized solutions for customers with atypical production needs. These niches are defensible only if GMEX can execute faster and more flexibly than incumbents, which is a high bar.
 
 ## Customer Concentration and Cyclicality
 
 A small robotics company's customer base is likely concentrated among a few large clients. If one major customer reduces capital spending (because of a business downturn or a strategic pivot to different manufacturing), GMEX faces an immediate revenue cliff. The company cannot instantly replace a large customer loss through rapid sales cycles.
 
-Robotics sales are also cyclical. During economic expansions, manufacturers invest in capacity and automation. During recessions, capital spending evaporates. GMEX's revenue and profitability will swing with macroeconomic cycles, and the company must manage cash to survive periods when customers freeze spending.
+Robotics sales are also cyclical. During economic expansions, manufacturers invest in capacity and automation. During [recessions](/recession/), capital spending evaporates. GMEX's revenue and profitability will swing with macroeconomic cycles, and the company must manage cash to survive periods when customers freeze spending.
 
 ## Technical Risk and Customer Adoption
 

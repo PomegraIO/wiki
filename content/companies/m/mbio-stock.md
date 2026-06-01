@@ -27,7 +27,7 @@ MUSTANG BIO is pursuing CAR-T and TCR (T-cell receptor) approaches for both bloo
 
 MUSTANG's technology centers on cell engineering: inserting genes that encode cancer-targeting receptors into patient T cells, expanding those cells, and delivering them back to the patient. The company does not manufacture cells in-house at scale; instead, it partners with contract manufacturing organizations (CMOs) and hospitals with cell-therapy capabilities to produce and deliver therapies.
 
-This outsourced manufacturing model reduces capital requirements compared to building a full GMP cell-manufacturing facility. However, it creates dependence on partners and limits control over manufacturing costs and timelines. Competitors like Juno (backed by Celgene/Bristol Myers Squibb) operate large in-house facilities, giving them economies of scale and faster production. MUSTANG's smaller scale and reliance on partners may limit its ability to compete on manufacturing cost once multiple therapies are commercialized.
+This outsourced manufacturing model reduces capital requirements compared to building a full GMP cell-manufacturing facility. However, it creates dependence on partners and limits control over manufacturing costs and timelines. Competitors like Juno (backed by Celgene/[Bristol Myers Squibb](/bmy-stock/)) operate large in-house facilities, giving them economies of scale and faster production. MUSTANG's smaller scale and reliance on partners may limit its ability to compete on manufacturing cost once multiple therapies are commercialized.
 
 MUSTANG also licenses technology from academic institutions and other biotech companies, adding to its portfolio without bearing full development costs. This approach diversifies pipeline risk: if one program fails, others remain. However, MUSTANG has to pay royalties on downstream sales, reducing margins compared to fully proprietary discoveries.
 
@@ -35,7 +35,7 @@ MUSTANG also licenses technology from academic institutions and other biotech co
 
 MUSTANG's programs are at various stages of clinical development. Some therapies are in early Phase 1 or Phase 2 trials, establishing safety and preliminary efficacy. None have yet achieved the large Phase 3 trials necessary for FDA approval. This means MUSTANG has years of development, regulatory review, and manufacturing scale-up ahead before any therapy could generate significant revenue.
 
-For a clinical-stage biotech, capital efficiency is existential. MUSTANG must fund ongoing trials, manage manufacturing partnerships, and maintain a research team—all with limited revenue and a finite cash balance. The company has had to raise capital repeatedly (through secondary offerings, debt, or partnerships) to stay funded. Each capital raise dilutes existing shareholders; if the company must raise capital at a lower share price, dilution accelerates.
+For a clinical-stage biotech, capital efficiency is existential. MUSTANG must fund ongoing trials, manage manufacturing partnerships, and maintain a research team—all with limited revenue and a finite cash balance. The company has had to raise capital repeatedly (through [secondary offerings](/secondary-offering/), debt, or partnerships) to stay funded. Each capital raise dilutes existing shareholders; if the company must raise capital at a lower share price, dilution accelerates.
 
 The regulatory path for CAR-T therapies for blood cancers is now relatively well-established: FDA has approved multiple products, providing a template for trials and labeling. Solid-tumor CAR-T programs face a murkier regulatory landscape, with uncertain trial designs and efficacy endpoints. A clinical failure in a late-stage solid-tumor trial could set the program back years or terminate it entirely.
 
@@ -47,7 +47,7 @@ Manufacturing partnerships introduce similar risks. If a CMO faces capacity cons
 
 ## Intellectual Property and Competitive Landscape
 
-MUSTANG's competitive advantage rests on its patent portfolio, know-how, and partnerships. If a key patent is invalidated in litigation or if competitors develop superior cell-engineering approaches, MUSTANG's market position could evaporate. The cell-therapy field has attracted major players: Gilead's Kite, Juno (Bristol Myers), Novartis' CAR-T franchise, and numerous private companies. Competition for clinical talent, manufacturing capacity, and patient recruitment is intense.
+MUSTANG's competitive advantage rests on its patent portfolio, know-how, and partnerships. If a key patent is invalidated in litigation or if competitors develop superior cell-engineering approaches, MUSTANG's market position could evaporate. The cell-therapy field has attracted major players: Gilead's Kite, Juno (Bristol Myers), [Novartis](/nvs-stock/)' CAR-T franchise, and numerous private companies. Competition for clinical talent, manufacturing capacity, and patient recruitment is intense.
 
 ## Researching MUSTANG BIO
 

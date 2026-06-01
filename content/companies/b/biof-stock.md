@@ -31,7 +31,7 @@ Additionally, state-level fuel quality and carbon-intensity standards—such as 
 
 The agricultural commodities that feed biofuel production are geographically dispersed. Corn and soybeans are harvested seasonally; supply contracts and spot-market prices vary by region and by year. A biofuel producer in the heart of the corn belt has more flexible, lower-cost access to feedstock than one on the periphery. BLUE BIOFUELS' ability to secure long-term feedstock at stable prices—or conversely, its exposure to feedstock-price spikes—is primarily a function of its location relative to major production zones.
 
-Climate, weather, and crop disease also vary geographically. A facility dependent on one agricultural region faces concentration risk if that region experiences drought, floods, or agronomic disease. A company with multiple facilities across different geographies can diversify this risk, though it incurs higher operational complexity.
+Climate, weather, and crop disease also vary geographically. A facility dependent on one agricultural region faces [concentration risk](/concentration-risk/) if that region experiences drought, floods, or agronomic disease. A company with multiple facilities across different geographies can diversify this risk, though it incurs higher operational complexity.
 
 ## Distribution network and market access
 

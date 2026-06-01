@@ -41,7 +41,7 @@ As a [public company](/public-company/), Elevra files regular financial statemen
 
 ## The Exploration Company as a Vehicle for Optionality
 
-Elevra exists to convert geological potential into economic certainty. It is neither a producing mine nor a stable dividend payer; it is a bet on the management team's ability to acquire quality assets, fund efficient exploration, navigate permitting processes, and either bring projects to production or sell them to larger operators at a value accretive to shareholders. This optionality attracts a specific class of investor—those willing to accept near-term volatility and zero earnings in exchange for exposure to the upside of successful exploration and development in a sector essential to the global energy transition.
+Elevra exists to convert geological potential into economic certainty. It is neither a producing mine nor a stable [dividend](/dividend/) payer; it is a bet on the management team's ability to acquire quality assets, fund efficient exploration, navigate permitting processes, and either bring projects to production or sell them to larger operators at a value accretive to shareholders. This optionality attracts a specific class of investor—those willing to accept near-term volatility and zero earnings in exchange for exposure to the upside of successful exploration and development in a sector essential to the global energy transition.
 
 <div class="wiki-seealso">
 ### Closely related

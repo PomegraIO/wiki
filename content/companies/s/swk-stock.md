@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-Stanley Black & Decker makes tools. Hammers, drills, screwdrivers, saws, batteries, hinges, nails, chains. The company also owns big outdoor-equipment brands (like MTD and Emerson Radio) and sells industrial fasteners. It sells to homeowners doing repair work, to professional contractors, to big industrial companies, and to retailers. The company is one of the oldest toolmakers in America and one of the largest.
+Stanley Black & Decker makes tools. Hammers, drills, screwdrivers, saws, batteries, hinges, nails, chains. The company also owns big outdoor-equipment brands (like MTD and [Emerson Radio](/msn-stock/)) and sells industrial fasteners. It sells to homeowners doing repair work, to professional contractors, to big industrial companies, and to retailers. The company is one of the oldest toolmakers in America and one of the largest.
 
 <aside class="wiki-infobox">
 <table>

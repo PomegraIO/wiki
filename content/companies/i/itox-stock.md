@@ -16,7 +16,7 @@ keywords: ["specialty chemicals", "manufacturing", "cost of production", "custom
 
 ## Per-Ton and Per-Kilogram Economics
 
-Specialty chemicals are typically priced and sold by weight or volume. A manufacturer might sell industrial adhesive at $8 to $12 per kilogram, depending on formulation complexity, purity, and customer volume. The cost to manufacture that kilogram includes raw materials (resins, solvents, additives, catalysts), energy to heat or mix reactors, labor for operators and technicians, and allocated overhead (facility, equipment depreciation, utilities).
+Specialty chemicals are typically priced and sold by weight or volume. A manufacturer might sell industrial adhesive at $8 to $12 per kilogram, depending on formulation complexity, purity, and customer volume. The cost to manufacture that kilogram includes raw materials (resins, solvents, additives, catalysts), energy to heat or mix reactors, labor for operators and technicians, and allocated overhead (facility, equipment [depreciation](/depreciation/), utilities).
 
 A simple adhesive with commodity ingredients might cost $2 to $4 per kilogram to produce; a high-performance aerospace adhesive with rare compounds and stringent purity requirements might cost $6 to $10. The margin per unit—selling price minus production cost—directly determines profitability. A product with a $10 cost and a $12 selling price generates $2 per kilogram gross margin (before sales, distribution, and R&D), a 20% gross margin. A competitor producing the same product at $8 costs earns a $4 margin, 33% gross, and can undercut on price or pocket the profit difference.
 
@@ -24,7 +24,7 @@ Scale amplifies these differences. Producing 100,000 tons annually allows negoti
 
 ## Raw Material Sourcing and Price Volatility
 
-Specialty chemicals rely on sourcing base materials—petrochemical feedstocks, mineral salts, specialty polymers—from suppliers who themselves face commodity price fluctuations. When oil prices spike, feedstock costs rise; when natural gas prices climb, energy-intensive production costs rise. A manufacturer facing a 20% increase in raw material costs must choose: absorb the cost hit (margin compression), or pass it to customers (price increase).
+Specialty chemicals rely on sourcing base materials—petrochemical feedstocks, mineral salts, specialty polymers—from suppliers who themselves face commodity price fluctuations. When oil prices spike, feedstock costs rise; when [natural gas](/natural-gas/) prices climb, energy-intensive production costs rise. A manufacturer facing a 20% increase in raw material costs must choose: absorb the cost hit (margin compression), or pass it to customers (price increase).
 
 The ability to pass costs through depends on the competitive environment and customer contracts. A manufacturer with long-term fixed-price contracts is trapped; a 20% cost increase directly erodes margin until contract renegotiation. A manufacturer selling into spot markets or with annual repricing clauses can adjust faster. IIOT-OXYS's pricing power and supply-chain resilience thus determine whether it can sustain margins through commodity cycles.
 
@@ -34,7 +34,7 @@ Vertical integration also matters. Some specialty chemical producers own or part
 
 IIOT-OXYS likely manufactures multiple products serving different end markets. A high-volume, low-margin product (e.g., industrial water treatment coagulants sold in bulk at 15% gross margin) funds the company alongside specialty products (e.g., adhesives for aerospace sold in smaller volumes at 40% gross margin). The product mix determines overall company margin.
 
-A shift toward higher-margin products improves profitability but typically requires more sales and technical effort. Selling 1,000 tons of a commodity coagulant to a large water utility is simpler than selling 100 tons of a specialty adhesive across 50 smaller aerospace customers. The company's growth strategy often reflects a choice: scale commodity products (high volume, low margin, lower risk) or pursue specialty products (lower volume, higher margin, higher customer acquisition cost and technical risk).
+A shift toward higher-margin products improves profitability but typically requires more sales and technical effort. Selling 1,000 tons of a commodity coagulant to a large water utility is simpler than selling 100 tons of a specialty adhesive across 50 smaller aerospace customers. The company's growth strategy often reflects a choice: scale commodity products (high volume, low margin, lower risk) or pursue specialty products (lower volume, higher margin, higher customer [acquisition](/acquisition/) cost and technical risk).
 
 IIOT-OXYS's path to improving unit economics is partly dependent on product development—launching new formulations with better performance or lower production costs—and partly on execution: reducing waste in manufacturing, improving yield (the percentage of raw materials that become sellable product), and negotiating better supplier prices.
 

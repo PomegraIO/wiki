@@ -29,7 +29,7 @@ Subscription revenue is recurring and predictable, which investors like. But it 
 
 ## The competitive landscape
 
-IMPACT competes against entrenched giants and specialized startups. Large enterprise software vendors (SAP, Oracle, Microsoft) bundle analytics into their broader platforms. They have deeper customer relationships and larger engineering teams. Specialized analytics firms (companies offering demand forecasting, pricing optimization, or labor scheduling) focus narrowly on one business problem and often have higher unit expertise.
+IMPACT competes against entrenched giants and specialized startups. Large enterprise software vendors (SAP, [Oracle](/orcl-stock/), [Microsoft](/msft-stock/)) bundle analytics into their broader platforms. They have deeper customer relationships and larger engineering teams. Specialized analytics firms (companies offering demand forecasting, pricing optimization, or labor scheduling) focus narrowly on one business problem and often have higher unit expertise.
 
 IMPACT's advantage, if it has one, is breadth and simplicity. Rather than buying forecasting from Company A, pricing from Company B, and labor optimization from Company C, a customer might license IMPACT for all three, with a single integrated data model. The question is whether that breadth is deep enough—whether IMPACT's demand forecasting, for example, is as good as specialists' tools.
 
@@ -47,7 +47,7 @@ However, most analytics problems are not proprietary. Demand forecasting, invent
 
 Subscription software companies succeed if the lifetime value of a customer (total revenue expected over the relationship) exceeds the cost to acquire and serve that customer. For IMPACT:
 
-Customer acquisition cost (CAC) includes sales salaries, marketing, and travel. Assume a deal takes 6 months to close and costs $100,000 to win—a realistic figure for enterprise software. Annual subscription fee might be $80,000. Over a 3-year customer lifetime, total revenue is $240,000. Subtracting CAC, the company nets $140,000. That looks profitable on paper.
+Customer [acquisition](/acquisition/) cost (CAC) includes sales salaries, marketing, and travel. Assume a deal takes 6 months to close and costs $100,000 to win—a realistic figure for enterprise software. Annual subscription fee might be $80,000. Over a 3-year customer lifetime, total revenue is $240,000. Subtracting CAC, the company nets $140,000. That looks profitable on paper.
 
 But the company also bears delivery costs: hosting infrastructure, customer support, training, and account management. For every dollar of subscription revenue, the company might spend $0.20–$0.40 on delivery and support. If subscription margin (revenue minus direct costs) is only 60%, the net after CAC is less attractive.
 

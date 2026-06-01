@@ -30,7 +30,7 @@ This creates a durable but threatened moat. Kyivstar's revenue is underpinned by
 
 ## The Ukrainian Telecom Market
 
-Ukraine's telecom market is mature and duopolistic in practice, though technically triopolistic. Kyivstar and Vodafone are the two major players, with lifecell as a smaller but viable third option. The market grew during the 2000s and 2010s as internet and smartphone penetration expanded, but it has now matured. Incremental growth comes from data consumption (video streaming, social media, mobile apps) rather than new customer acquisitions. Pricing pressure is constant; customers have switched habits and comparison-shop across providers.
+Ukraine's telecom market is mature and duopolistic in practice, though technically triopolistic. Kyivstar and Vodafone are the two major players, with lifecell as a smaller but viable third option. The market grew during the 2000s and 2010s as internet and smartphone penetration expanded, but it has now matured. Incremental growth comes from data consumption (video streaming, social media, mobile apps) rather than new customer [acquisitions](/acquisition/). Pricing pressure is constant; customers have switched habits and comparison-shop across providers.
 
 All three operators invest heavily in 4G/LTE infrastructure and are beginning deployments of 5G. These capital investments are expensive and essential for competitive relevance. A network that lags in 4G coverage or 5G availability will steadily lose enterprise and data-heavy consumer customers.
 

@@ -62,7 +62,7 @@ Climate change presents both risk and opportunity. Longer growing seasons in som
 
 Timber markets are cyclical. A strong global economy drives demand for packaging (corrugated cardboard), tissue, and other forest products, boosting pulpwood prices. Robust construction demand boosts saw timber prices. Weak demand reverses this. Rayonier's earnings and dividends rise and fall with timber prices, which can make the stock volatile in the short term.
 
-However, the long-term return profile is appealing to some investors: growing a sustainable asset (trees) that generates cash (timber sales) and eventually returns that cash as dividends, while the underlying land asset may appreciate. The combination of [current yield](/current-yield/) (dividend) and long-term growth (land and timber value appreciation) is the [target](/tgt-stock/) return.
+However, the long-term return profile is appealing to some investors: growing a sustainable asset (trees) that generates cash (timber sales) and eventually returns that cash as dividends, while the underlying land asset may appreciate. The combination of [current yield](/current-yield/) (dividend) and long-term growth (land and timber value appreciation) is the target return.
 
 ## Researching Rayonier
 

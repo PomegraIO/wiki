@@ -69,7 +69,7 @@ Within categories, the company has sought to diversify beyond the flagships. Hea
 
 Kimberly-Clark has historically been a steady, if unspectacular, generator of cash flow and shareholder returns. The company invests in capital-intensive manufacturing facilities, efficiency projects, and brand building, but not so much capital as to prevent high [free cash flow](/wiki/free-cash-flow/) generation. That cash flow has supported a rising [dividend](/wiki/dividend/) for decades — Kimberly-Clark is a "Dividend Aristocrat," having increased its dividend for over 50 years running. The company also returns capital through share repurchases, though the scale of buybacks fluctuates with capital-allocation priorities and financial conditions.
 
-The return on invested capital is solid but not exceptional. Kimberly-Clark earns a reasonable [return on equity](/wiki/return-on-equity/) relative to its cost of capital, meaning capital is deployed productively. However, the business is not a high-return-on-capital compounder in the mode of a software company or a very high-margin branded consumer good. It is a steady, mature business that generates cash reliably and returns much of it to shareholders.
+The [return on invested capital](/return-on-invested-capital/) is solid but not exceptional. Kimberly-Clark earns a reasonable [return on equity](/wiki/return-on-equity/) relative to its cost of capital, meaning capital is deployed productively. However, the business is not a high-return-on-capital compounder in the mode of a software company or a very high-margin branded consumer good. It is a steady, mature business that generates cash reliably and returns much of it to shareholders.
 
 ## Headwinds and the sustainability question
 

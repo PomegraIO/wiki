@@ -35,7 +35,7 @@ The platform's content is not uniform. Educational arrangements differ from comm
 
 This requires dedicated IP compliance operations. The company's systems log every access to track whether usage stays within license scope. Revenue per school also depends on concurrent users and seat counts—larger institutions pay more. Metering this accurately, auditing it, and ensuring fair compensation to rights holders is operational baseline work that runs continuously in the background.
 
-Rights acquisition is ongoing. As the platform grows and teachers request new titles, the company must source rights or negotiate new agreements. Some pieces are still under copyright and require permission from estates or publishers; others are in the public domain but still need digitization and metadata entry. Building the catalog is not a one-time task—it's a perpetual pipeline.
+Rights [acquisition](/acquisition/) is ongoing. As the platform grows and teachers request new titles, the company must source rights or negotiate new agreements. Some pieces are still under copyright and require permission from estates or publishers; others are in the public domain but still need digitization and metadata entry. Building the catalog is not a one-time task—it's a perpetual pipeline.
 
 ## Supply and Adaptation
 
@@ -49,7 +49,7 @@ Scaling from regional to national reach requires scaling support proportionally.
 
 Technical scaling is also non-trivial. Concurrent user loads during peak study periods must not degrade performance. The company runs on cloud infrastructure (likely Alibaba Cloud given market position), but provisioning and cost management require continuous monitoring.
 
-Rights disputes represent a tail risk. If a rights holder claims the platform exceeded license scope or failed to pay agreed royalties, resolution can be lengthy and expensive. The company's operational teams must maintain careful documentation of all usage and payment to defend against such claims.
+Rights disputes represent a [tail risk](/tail-risk/). If a rights holder claims the platform exceeded license scope or failed to pay agreed royalties, resolution can be lengthy and expensive. The company's operational teams must maintain careful documentation of all usage and payment to defend against such claims.
 
 The regulatory environment in China around educational technology and digital licensing is evolving. The company must stay aligned with any shifts in rules around foreign capital ownership in digital media, education content distribution, or music licensing in the mainland—regulatory risk that affects operational planning but is not directly managed by the company's own operations.
 

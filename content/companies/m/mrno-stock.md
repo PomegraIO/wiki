@@ -18,7 +18,7 @@ keywords: ["investment company", "fund management", "global capital", "asset man
 
 ## The Fund Lifecycle in Brief
 
-An investment company's existence is cyclical. In the launch phase, managers raise a pool of capital from limited partners (institutional investors, family offices, high-net-worth individuals) or from the public markets if it is a listed fund. They take a management fee (typically 1–2% of assets annually) and, in some cases, performance fees (a percentage of profits above a hurdle rate). The managers then invest the capital according to their mandate: long-term equity, fixed income, alternatives, or some combination. As investments appreciate or earn returns, the fund's net asset value (NAV) grows. Investors are happy, and the manager's reputation attracts additional capital.
+An investment company's existence is cyclical. In the launch phase, managers raise a pool of capital from limited partners (institutional investors, family offices, high-net-worth individuals) or from the public markets if it is a listed fund. They take a [management fee](/management-fee/) (typically 1–2% of assets annually) and, in some cases, [performance fees](/performance-fee/) (a percentage of profits above a hurdle rate). The managers then invest the capital according to their mandate: long-term equity, fixed income, alternatives, or some combination. As investments appreciate or earn returns, the fund's [net asset value](/net-asset-value/) (NAV) grows. Investors are happy, and the manager's reputation attracts additional capital.
 
 But funds age. Investments mature or decline. Some positions are exited, returns are realized, and the pool of deployed capital shrinks unless new money comes in. Managers then face a choice: return capital to investors, redeploy into new positions, or wind down the fund. The most successful managers raise new funds on the back of track records, effectively creating a perpetual capital machine. Others struggle with net outflows as older funds mature without attracting fresh capital.
 
@@ -26,7 +26,7 @@ But funds age. Investments mature or decline. Some positions are exited, returns
 
 Murano operates at a stage where this tension is material. The company either is managing an established fund or portfolio with a track record of performance or it is navigating the tougher challenge of converting early-stage returns into investor confidence for the next cycle. A seasoned investment manager with strong historical returns can typically raise capital on brand and performance alone. A newer manager or one with mediocre track records must differentiate through niche expertise, lower fees, or access to deal flow unavailable to competitors.
 
-Investment companies' [earnings-per-share](/earnings-per-share/) and dividend capacity depend on the composition of returns. If the fund realizes significant capital gains from exiting positions, earnings spike but become lumpy and unrepeatable. If the fund derives steady fees from managed assets and stable income from yield-producing securities, earnings are more predictable but often lower in absolute terms. Mature funds tend to show the latter pattern, while growth-stage managers show the former.
+Investment companies' [earnings-per-share](/earnings-per-share/) and [dividend](/dividend/) capacity depend on the composition of returns. If the fund realizes significant capital gains from exiting positions, earnings spike but become lumpy and unrepeatable. If the fund derives steady fees from managed assets and stable income from yield-producing securities, earnings are more predictable but often lower in absolute terms. Mature funds tend to show the latter pattern, while growth-stage managers show the former.
 
 ## Fee Compression and Scale Dynamics
 
@@ -36,13 +36,13 @@ Murano's maturity is partly a story of how it navigates this pressure. A company
 
 ## Investor Redemptions and Capital Stability
 
-In the mature phase, a fund manager becomes acutely aware of investor behavior. During bull markets, capital flows in freely and the manager's fee base grows effortlessly. During downturns, investors panic, redeem shares, and the manager must either meet redemptions from cash (which depresses returns) or negotiate with investors to accept delayed redemptions—a path that breeds resentment and future outflows.
+In the mature phase, a fund manager becomes acutely aware of investor behavior. During [bull markets](/bull-market/), [capital flows](/capital-flows/) in freely and the manager's fee base grows effortlessly. During downturns, investors panic, redeem shares, and the manager must either meet redemptions from cash (which depresses returns) or negotiate with investors to accept delayed redemptions—a path that breeds resentment and future outflows.
 
 A well-managed mature fund maintains liquidity discipline: keeping enough cash to meet expected redemptions, structuring the portfolio to be defensible in downturns, and communicating transparently with investors about risks and returns. A poorly managed one faces cycles of forced selling, deteriorating returns, and cascading outflows that become self-reinforcing.
 
 ## The Multi-Fund Universe
 
-Some investment managers graduate to operating multiple funds: a flagship vehicle for core strategy, satellite funds targeting specific niches or geographies, and specialized vehicles for institutional or retail clients. This diversification is sustainable only if the manager has built systems to run multiple teams and strategies without degrading returns across the board. The complexity is real: a manager excellent at long-term equity investment may be poor at real estate or credit. Multi-fund operators must hire talent in each domain and instill a culture of accountability and risk management.
+Some investment managers graduate to operating multiple funds: a flagship vehicle for core strategy, satellite funds targeting specific niches or geographies, and specialized vehicles for institutional or retail clients. This [diversification](/diversification/) is sustainable only if the manager has built systems to run multiple teams and strategies without degrading returns across the board. The complexity is real: a manager excellent at long-term equity investment may be poor at real estate or credit. Multi-fund operators must hire talent in each domain and instill a culture of accountability and risk management.
 
 Murano's structure—whether it operates a single fund or a family of funds—hints at its ambition and risk profile. A single-fund manager is simpler and more transparent but less resilient to market shifts that disadvantage its strategy. A multi-fund manager is more complex but can weather market cycles and diversify returns across strategies.
 

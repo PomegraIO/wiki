@@ -30,7 +30,7 @@ The company was founded in 1978 and spent decades publishing research and licens
 
 ## How does the science actually work?
 
-A typical disease is caused by a gene that either produces too much of a harmful protein or produces a mutated, nonfunctional version of a needed protein. Traditional drugs try to fix the problem at the protein level — blocking the harmful protein or replacing the missing one. This works for many conditions, but it fails for others where the protein is hard to reach or where the disease mechanism is so fundamental that there is no good protein-level [target](/tgt-stock/).
+A typical disease is caused by a gene that either produces too much of a harmful protein or produces a mutated, nonfunctional version of a needed protein. Traditional drugs try to fix the problem at the protein level — blocking the harmful protein or replacing the missing one. This works for many conditions, but it fails for others where the protein is hard to reach or where the disease mechanism is so fundamental that there is no good protein-level target.
 
 Ionis's approach targets the gene itself. The company designs a short synthetic DNA or RNA strand that matches the genetic code of a disease-causing gene. When this strand is injected into the body, it finds the disease gene's messenger RNA and binds to it like a lock and key. This binding either degrades the messenger RNA or blocks it from being translated into protein, which shuts down the production of the harmful protein without needing to design a traditional drug. For conditions caused by a dominant-negative mutation (one broken copy of a gene causes disease), this is elegantly effective: shut down the broken gene's output and the disease stops.
 

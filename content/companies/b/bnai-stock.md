@@ -4,7 +4,7 @@ description: "Digital marketing and brand-engagement platform company operating 
 keywords: [digital-marketing, brand-engagement, advertising-technology, consumer-engagement, adtech, analytics-platform, saas]
 ---
 
-*Brand Engagement Network Inc. (ticker **BNAI**, CIK 1838163) positions itself as a platform company connecting brands with consumers through digital engagement tools, content distribution, and consumer data analytics. The company operates in the competitive landscape of advertising technology and marketing software, where success depends on customer acquisition, retention, and product differentiation. An analyst preparing to study the 10-K must understand the company's revenue streams, customer concentration, product roadmap, and competitive moat — or lack thereof. Unlike asset-heavy businesses, software and platform companies live or die on customer satisfaction and retention metrics that often tell a story before profitability does.*
+*Brand Engagement Network Inc. (ticker **BNAI**, CIK 1838163) positions itself as a platform company connecting brands with consumers through digital engagement tools, content distribution, and consumer data analytics. The company operates in the competitive landscape of advertising technology and marketing software, where success depends on customer [acquisition](/acquisition/), retention, and product differentiation. An analyst preparing to study the 10-K must understand the company's revenue streams, customer concentration, product roadmap, and competitive moat — or lack thereof. Unlike asset-heavy businesses, software and platform companies live or die on customer satisfaction and retention metrics that often tell a story before profitability does.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>BNAI</td></tr>
@@ -17,9 +17,9 @@ keywords: [digital-marketing, brand-engagement, advertising-technology, consumer
 
 ## Revenue Model and Customer Economics
 
-Start by mapping BNAI's revenue sources in the consolidated statements of earnings and MD&A. Does the company generate revenue from subscription/SaaS fees, transaction fees, advertising revenue, or a blend? The revenue model determines unit economics and customer lifetime value. Subscription software typically has high gross margins (70–85%) but requires paying customer acquisition costs upfront. Advertising-revenue models depend on inventory and pricing power, which fluctuate with demand.
+Start by mapping BNAI's revenue sources in the [consolidated statements](/consolidated-statements/) of earnings and MD&A. Does the company generate revenue from subscription/SaaS fees, transaction fees, advertising revenue, or a blend? The revenue model determines unit economics and customer lifetime value. Subscription software typically has high gross margins (70–85%) but requires paying customer acquisition costs upfront. Advertising-revenue models depend on inventory and pricing power, which fluctuate with demand.
 
-Identify the primary customer segment: are they brand marketing departments, agencies, e-commerce merchants, or media companies? Different segments have different willingness-to-pay and churn risk. Direct-to-brand customers often have higher switching costs; agency customers may shop on price and may be more promiscuous in their tool selection. The 10-K should disclose how revenue is split by customer segment, and ideally by customer size (SMBs vs. enterprise). A company heavily dependent on a handful of large customers faces concentration risk.
+Identify the primary customer segment: are they brand marketing departments, agencies, e-commerce merchants, or media companies? Different segments have different willingness-to-pay and churn risk. Direct-to-brand customers often have higher switching costs; agency customers may shop on price and may be more promiscuous in their tool selection. The 10-K should disclose how revenue is split by customer segment, and ideally by customer size (SMBs vs. enterprise). A company heavily dependent on a handful of large customers faces [concentration risk](/concentration-risk/).
 
 ## Customer Acquisition and Retention Metrics
 
@@ -29,7 +29,7 @@ Calculate customer acquisition cost (CAC) by dividing sales and marketing expens
 
 ## Product and Competitive Positioning
 
-BNAI operates in a crowded adtech and marketing-software space alongside Salesforce, Adobe, HubSpot, and dozens of smaller competitors. The 10-K should explain what BNAI does that competitors don't: Is it a specialized tool for a specific function (brand safety, audience analytics, social-media management)? Is it a vertical-focused platform (e.g., for e-commerce only)? Or is it a horizontal platform attempting to compete on breadth?
+BNAI operates in a crowded adtech and marketing-software space alongside [Salesforce](/crm-stock/), [Adobe](/adbe-stock/), HubSpot, and dozens of smaller competitors. The 10-K should explain what BNAI does that competitors don't: Is it a specialized tool for a specific function (brand safety, audience analytics, social-media management)? Is it a vertical-focused platform (e.g., for e-commerce only)? Or is it a horizontal platform attempting to compete on breadth?
 
 Specialized tools often have stronger moats but smaller total addressable markets. Horizontal platforms have larger upside but face more competition and customer churn (because customers can unbundle and move pieces). Read the product roadmap disclosures for signs of innovation velocity or stagnation. If the company is adding meaningful new features quarterly and expanding its platform, that's a positive signal. If features are incremental or behind competitors' roadmaps, product risk is rising.
 
@@ -47,11 +47,11 @@ Operating leverage emerges when revenue grows and operating expenses (R&D, G&A) 
 
 ## Cash Burn and Runway
 
-Many fast-growing software companies are not yet profitable. The 10-K cash flow statement shows cash used in operating activities. If the company is cash-flow negative, it must raise capital or reach breakeven soon. Calculate runway: if monthly burn is $1 million and cash on hand is $10 million, the runway is 10 months. If the company is not on a path to profitability within its cash runway, it faces dilutive financing or failure.
+Many fast-growing software companies are not yet profitable. The 10-K [cash flow statement](/cash-flow-statement/) shows cash used in operating activities. If the company is cash-flow negative, it must raise capital or reach breakeven soon. Calculate runway: if monthly burn is $1 million and cash on hand is $10 million, the runway is 10 months. If the company is not on a path to profitability within its cash runway, it faces dilutive financing or failure.
 
 ## Debt and Equity Capital Structure
 
-Check whether BNAI has taken on debt to fund growth, or whether it has raised equity capital. Venture-backed or growth-equity-backed companies often have preferred stock with liquidation preferences — read the footnotes. If a company has $50 million in revenue but $100 million in Series C preferred stock with a 1× liquidation preference, equity holders must generate significant exit value to see a return.
+Check whether BNAI has taken on debt to fund growth, or whether it has raised equity capital. Venture-backed or growth-equity-backed companies often have [preferred stock](/preferred-stock/) with [liquidation preferences](/liquidation-preference/) — read the footnotes. If a company has $50 million in revenue but $100 million in Series C preferred stock with a 1× [liquidation](/liquidation/) preference, equity holders must generate significant exit value to see a return.
 
 ## Market Concentration and Buyer Consolidation
 

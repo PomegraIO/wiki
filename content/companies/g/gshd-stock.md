@@ -29,9 +29,9 @@ The company attempts to deepen stickiness through customer service and policy ma
 
 ## Scale and Carrier Leverage: Real but Not Durable
 
-Goosehead's size relative to smaller brokers does confer a negotiating advantage with carriers. A platform generating $100 million in annual commission volume is more valuable to a carrier than one producing $10 million. Goosehead can negotiate lower-loss ratios, better commission tiering, or exclusive product bundles. This is a genuine operational advantage.
+Goosehead's size relative to smaller [brokers](/broker/) does confer a negotiating advantage with carriers. A platform generating $100 million in annual commission volume is more valuable to a carrier than one producing $10 million. Goosehead can negotiate lower-loss ratios, better commission tiering, or exclusive product bundles. This is a genuine operational advantage.
 
-Yet it applies only relative to tiny brokers. Against state-farm chains, online startups with venture backing, or carriers' own distribution channels, the leverage is neutral to negative. Carriers can and do pressure margin-focused platforms like Goosehead to improve conversion or accept lower commissions. If Goosehead's customer acquisition cost rises or conversion falls, margins compress, and the scale advantage shrinks.
+Yet it applies only relative to tiny brokers. Against state-farm chains, online startups with venture backing, or carriers' own distribution channels, the leverage is neutral to negative. Carriers can and do pressure margin-focused platforms like Goosehead to improve conversion or accept lower commissions. If Goosehead's customer [acquisition](/acquisition/) cost rises or conversion falls, margins compress, and the scale advantage shrinks.
 
 ## Brand Recognition: Narrow Geographic and Demographic Scope
 

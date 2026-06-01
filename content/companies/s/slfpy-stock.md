@@ -41,7 +41,7 @@ What Standard Life has is scale, a trusted brand, and deep customer relationship
 
 ## Regulatory environment and capital
 
-Life insurance companies are among the most heavily regulated financial institutions. They must hold sufficient capital to pay claims under adverse scenarios — scenarios where the stock market crashes, interest rates fall, or claims spike all at once. The regulatory framework is complex and keeps changing: Solvency II rules in Europe set minimum capital levels, and any change to those rules affects how much capital Standard Life must hold and therefore how much it can return to shareholders.
+Life insurance companies are among the most heavily regulated [financial institutions](/fisi-stock/). They must hold sufficient capital to pay claims under adverse scenarios — scenarios where the stock market crashes, interest rates fall, or claims spike all at once. The regulatory framework is complex and keeps changing: Solvency II rules in Europe set minimum capital levels, and any change to those rules affects how much capital Standard Life must hold and therefore how much it can return to shareholders.
 
 Capital management is central to the investment thesis. A profitable insurance company with excess capital typically returns money to shareholders through [dividends](/dividend/) or buybacks. Standard Life historically paid meaningful dividends, but capital requirements and economic conditions have constrained this at times.
 

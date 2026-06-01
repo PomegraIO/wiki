@@ -49,6 +49,6 @@ The regulatory relationship between sponsor, clinical research organizations (CR
 
 ## The Regulatory Runway Problem
 
-KHEOBA's fundamental financial constraint is regulatory timing. The company must raise capital to fund trials; trials must complete on the FDA's timeline (often 1–3 years per phase); and approval itself can extend several additional years. During this entire window, the company is likely unprofitable, burning cash, and dependent on secondary offerings or partnerships to remain solvent. A trial failure or a regulatory setback forces the company back to the capital markets under duress, often at dilutive valuations.
+KHEOBA's fundamental financial constraint is regulatory timing. The company must raise capital to fund trials; trials must complete on the FDA's timeline (often 1–3 years per phase); and approval itself can extend several additional years. During this entire window, the company is likely unprofitable, burning cash, and dependent on [secondary offerings](/secondary-offering/) or partnerships to remain solvent. A trial failure or a regulatory setback forces the company back to the capital markets under duress, often at dilutive valuations.
 
 The 10-K is essential for understanding KHEOBA's regulatory pipeline: which programs are in trials, what endpoints are being measured, what regulatory pathway (standard review vs. accelerated) is expected, and what the company's capital runway is given the timelines. Any program reaching NDA stage dramatically increases the company's probability of eventual profitability and survival.

@@ -23,7 +23,7 @@ This model is brutally margin-sensitive. Revenue per artist is constrained by gl
 
 ## The Competitive Landscape and Scale Pressures
 
-The VFX industry has consolidated over the past decade. Major studios (Disney, Sony) now own in-house capabilities; mid-tier players (Weta, MPC, Framestore, ILM) operate at scale spanning hundreds of artists; smaller boutiques (like Digital Domain) compete on reputation and specialized talent. Streaming has expanded demand for VFX content, but it has also compressed budgets: Netflix and other platforms expect more visual spectacle per dollar spent.
+The VFX industry has consolidated over the past decade. Major studios (Disney, [Sony](/sony-stock/)) now own in-house capabilities; mid-tier players (Weta, MPC, Framestore, ILM) operate at scale spanning hundreds of artists; smaller boutiques (like Digital Domain) compete on reputation and specialized talent. Streaming has expanded demand for VFX content, but it has also compressed budgets: [Netflix](/nflx-stock/) and other platforms expect more visual spectacle per dollar spent.
 
 Digital Domain's competitive position rests on three factors: its portfolio of award-winning work (which attracts top talent and high-profile clients), its technical infrastructure (render farms, proprietary tools, pipelines), and its ability to staff projects with specialists. These are durable but not impenetrable. Artists move between studios; pipelines can be reverse-engineered; and new tools lower barriers to entry. International competition, particularly from studios with lower labor costs, exerts constant downward pressure on pricing.
 

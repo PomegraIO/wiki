@@ -27,7 +27,7 @@ Koppers operates at the intersection of commodity and contract manufacturing. Th
 
 A treated railroad tie retails to a customer for roughly $10 to $15 per unit (illustrative; actual prices vary by market and product). Koppers' raw timber costs perhaps $3 to $5 per tie, and preservative chemicals add another $1 to $2. Processing labor, facility overhead, and transport bring the total cost of goods sold to perhaps $6 to $9. This leaves a gross margin of roughly 25 to 40 percent—respectable for a commodity-adjacent business, but fragile if timber prices spike or if competitors undercut on price.
 
-The critical insight is that Koppers is not primarily a timber company, nor is it primarily a chemicals company. It is a processor that buys both inputs at commodity prices and transforms them through a chemical and thermal process. Margin expansion comes from (a) buying feedstock efficiently, (b) running the treatment facilities at high utilization, and (c) holding customer contracts stable enough that volume is predictable. Margin compression comes from timber price inflation, overcapacity in the industry, or customer defection.
+The critical insight is that Koppers is not primarily a timber company, nor is it primarily a chemicals company. It is a processor that buys both inputs at commodity prices and transforms them through a chemical and thermal process. Margin expansion comes from (a) buying feedstock efficiently, (b) running the treatment facilities at high utilization, and (c) holding customer contracts stable enough that volume is predictable. Margin compression comes from timber price [inflation](/inflation/), overcapacity in the industry, or customer defection.
 
 ## The Seasonality and Customer Concentration Dynamic
 
@@ -39,13 +39,13 @@ Customer concentration is both an asset and a liability. A contract with a major
 
 Koppers' business is split between Wood Products (treated ties, poles, pilings) and Performance Chemicals & Services, which includes metal protection coatings and various industrial services. The metal services segment offers asphalt handling, fluid treating, and specialty coatings—services often bundled with the wood business or sold to utilities and infrastructure companies seeking integrated suppliers.
 
-This vertical integration allows Koppers to capture margin on the full scope of a customer's infrastructure protection needs rather than just the wooden tie. A railroad renewing track might simultaneously need tie treatments, rail coating, and asphalt work; if Koppers can bid competitively on the full package, it wins more work and increases unit contribution. The downside is that this diversification into less-standard services introduces operational complexity and dependencies on specialized expertise.
+This vertical integration allows Koppers to capture margin on the full scope of a customer's infrastructure protection needs rather than just the wooden tie. A railroad renewing track might simultaneously need tie treatments, rail coating, and asphalt work; if Koppers can bid competitively on the full package, it wins more work and increases unit contribution. The downside is that this [diversification](/diversification/) into less-standard services introduces operational complexity and dependencies on specialized expertise.
 
 ## Capital Intensity and Capacity Utilization
 
 Treating facilities are capital-intensive to build and require high utilization to be profitable. A facility that runs at 60 percent capacity has poor unit economics; one running at 90 percent is highly profitable. Koppers' prior strategy involved consolidation—closing underutilized plants and concentrating production in the most efficient sites—because the industry had chronic overcapacity. Consolidation reduced fixed costs but also heightened exposure to single-facility downtime.
 
-This capital intensity also means that short-term demand shocks hit margins hard. A recession that cuts infrastructure spending by 30 percent does not cut Koppers' fixed costs proportionally; the company still must operate the facility to service contracts, and profits can swing dramatically. Conversely, when demand is strong and facilities are running flat-out, the company can raise prices and earn substantial returns on incremental volume.
+This capital intensity also means that short-term demand shocks hit margins hard. A [recession](/recession/) that cuts infrastructure spending by 30 percent does not cut Koppers' fixed costs proportionally; the company still must operate the facility to service contracts, and profits can swing dramatically. Conversely, when demand is strong and facilities are running flat-out, the company can raise prices and earn substantial returns on incremental volume.
 
 ## Feedstock Volatility and Hedging Complexity
 

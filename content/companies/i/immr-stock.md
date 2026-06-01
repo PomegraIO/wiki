@@ -23,7 +23,7 @@ keywords:
 
 Immersion's business depends on a straightforward chain: a device maker—say, an automotive manufacturer or a smartphone vendor—wants to add haptic effects to its products. The engineer discovers that Immersion holds patents and software libraries relevant to that feature. Immersion negotiates a license. The terms typically include upfront fees plus per-unit royalties once the product ships. Every time that device is sold, Immersion collects a small payment. Multiply that across millions of devices over years, and what looks like a nickle-and-dime stream becomes material revenue.
 
-The company does not build the haptic engines; it licenses the know-how and validates that use. It does not manage customer relationships at scale; it manages a portfolio of large OEM partners and occasional smaller licensees. The cash arrives passively—the moment a device ships, the royalty accrues. Because Immersion has no manufacturing footprint, no supply chain, and no inventory, its operating margins are among the highest in tech-licensing businesses: small teams of engineers, lawyers, and business developers supporting multiple product categories.
+The company does not build the haptic engines; it licenses the know-how and validates that use. It does not manage customer relationships at scale; it manages a portfolio of large OEM partners and occasional smaller licensees. The cash arrives passively—the moment a device ships, the royalty accrues. Because Immersion has no manufacturing footprint, no supply chain, and no inventory, its [operating margins](/operating-margin/) are among the highest in tech-licensing businesses: small teams of engineers, lawyers, and business developers supporting multiple product categories.
 
 ## Patent Portfolio as a Moat
 
@@ -35,13 +35,13 @@ This creates a structural advantage. Once a major customer integrates Immersion'
 
 Immersion's revenue comes from three main sources: consumer electronics (primarily smartphones and tablets), gaming (game consoles, VR headsets, handheld games), and automotive (infotainment systems, steering wheels, pedals). Each category has different licensing economics. Smartphone OEMs negotiate aggressively on unit royalties because they ship tens of millions of units per year; gaming licenseees often accept higher per-unit fees because haptic is core to the experience; automotive is growing but volume is smaller.
 
-The company maintains relationships with major players: Apple, Sony, Microsoft, and automotive tier-ones. These are not revenue contracts in the sense of a supplier relationship; they are licensing agreements. Immersion has no ability to reject a licenseee's engineering approach or demand operational changes. Its leverage is patent scope—if the customer's design infringes, negotiation is inevitable.
+The company maintains relationships with major players: [Apple](/aapl-stock/), [Sony](/sony-stock/), [Microsoft](/msft-stock/), and automotive tier-ones. These are not revenue contracts in the sense of a supplier relationship; they are licensing agreements. Immersion has no ability to reject a licenseee's engineering approach or demand operational changes. Its leverage is patent scope—if the customer's design infringes, negotiation is inevitable.
 
 ## Revenue Drivers and Evergreen Economics
 
 Immersion's revenue is overwhelmingly royalty-based, making it lumpy and dependent on product cycles of its customers. When a major smartphone flagship launches with haptic, Immersion benefits; when that product line matures without upgrade, the benefit plateaus. The company has no direct control over customer demand or product-mix decisions.
 
-Beyond smartphones, the company has pursued automotive and VR as growth vectors. Automotive infotainment is increasingly haptic-enabled; steering wheels, pedals, and shift knobs that provide feedback are becoming standard in premium and mid-market vehicles. VR haptic is niche but growing: full-body suits, gloves, and controllers that simulate touch are emerging. Neither segment yet matches smartphone scale, but they offer diversification away from a single customer category.
+Beyond smartphones, the company has pursued automotive and VR as growth vectors. Automotive infotainment is increasingly haptic-enabled; steering wheels, pedals, and shift knobs that provide feedback are becoming standard in premium and mid-market vehicles. VR haptic is niche but growing: full-body suits, gloves, and controllers that simulate touch are emerging. Neither segment yet matches smartphone scale, but they offer [diversification](/diversification/) away from a single customer category.
 
 ## Business Model Constraints and Longevity
 
@@ -51,7 +51,7 @@ Longevity depends on staying ahead: the firm must continuously strengthen its pa
 
 ## Capital Structure and Shareholder Returns
 
-As a profitable IP licensing business with minimal capital needs, Immersion historically has returned capital through buybacks and occasional dividends. The firm holds minimal debt; most cash from royalties is available for discretionary use. This structure supports ongoing patent prosecution and defense—the single largest operating expense apart from headcount—while allowing management flexibility to pursue acquisitions of complementary IP portfolios or to return cash when growth slows.
+As a profitable IP licensing business with minimal capital needs, Immersion historically has returned capital through buybacks and occasional [dividends](/dividend/). The firm holds minimal debt; most cash from royalties is available for discretionary use. This structure supports ongoing patent prosecution and defense—the single largest operating expense apart from headcount—while allowing management flexibility to pursue [acquisitions](/acquisition/) of complementary IP portfolios or to return cash when growth slows.
 
 <div class="wiki-seealso">
 ### Closely related

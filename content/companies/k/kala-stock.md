@@ -25,9 +25,9 @@ This creates a financing cycle: raise capital → spend it on drug development �
 
 ## Equity as Primary Funding Source
 
-**KALA** cannot rely on debt financing. Lenders require collateral and cash flow; a pre-revenue company has neither. No bank will lend to **KALA** unless backed by federal Small Business grants or other government programs, which are scarce for biotechs. The company therefore finances itself through equity — direct stock offerings to institutional investors, venture-capital firms, or strategic partners willing to bet on drug development.
+**KALA** cannot rely on [debt financing](/debt-financing/). Lenders require collateral and cash flow; a pre-revenue company has neither. No bank will lend to **KALA** unless backed by federal Small Business grants or other government programs, which are scarce for biotechs. The company therefore finances itself through equity — direct stock offerings to institutional investors, venture-capital firms, or strategic partners willing to bet on drug development.
 
-These offerings are negotiated directly with investors (private placements) or conducted through registered public offerings via underwriters. Public offerings are subject to higher disclosure requirements and are typically used when the company has strong news (positive clinical trial data) to justify new shares at decent prices. Private placements are cheaper and faster but may be at discounts to the prior public price.
+These offerings are negotiated directly with investors ([private placements](/private-placement/)) or conducted through registered public offerings via underwriters. Public offerings are subject to higher disclosure requirements and are typically used when the company has strong news (positive clinical trial data) to justify new shares at decent prices. Private placements are cheaper and faster but may be at discounts to the prior public price.
 
 **KALA** has likely conducted multiple capital raises since inception, with the stock price and valuation improving or declining based on clinical progress, market conditions, and investor sentiment toward biotech. Each raise dilutes existing shareholders; the cumulative effect is that founders and early investors own far smaller percentages of the company than they did before the public offering.
 
@@ -41,15 +41,15 @@ However, grants are slow, uncertain, and often restrictive (they fund specific r
 
 As a clinical-stage company, **KALA** occasionally issues convertible notes or other hybrid debt-equity instruments rather than straight equity. A convertible note is debt that the investor expects to convert to equity when a future financing round occurs (at a discount to the new round's price) or to be repaid with interest if conversion never occurs.
 
-From **KALA**'s perspective, convertible notes are cheaper than straight equity because investors accept lower interest rates in exchange for upside if the conversion occurs (they get shares at a discount). This delays dilution — instead of issuing shares now, the company issues debt that becomes shares later. However, if conversion never occurs (because the company fails or stops developing the drug), **KALA** must repay the debt, creating an obligation the company likely cannot meet.
+From **KALA**'s perspective, convertible notes are cheaper than straight equity because investors accept lower [interest rates](/interest-rate/) in exchange for upside if the conversion occurs (they get shares at a discount). This delays dilution — instead of issuing shares now, the company issues debt that becomes shares later. However, if conversion never occurs (because the company fails or stops developing the drug), **KALA** must repay the debt, creating an obligation the company likely cannot meet.
 
-Convertible debt is therefore a form of deferred equity dilution: it looks better on the income statement in the short term but eventually dilutes shareholders when it converts.
+Convertible debt is therefore a form of deferred equity dilution: it looks better on the [income statement](/income-statement/) in the short term but eventually dilutes shareholders when it converts.
 
 ## Burn Rate and Time-to-Market
 
 A critical metric for **KALA** investors is the time-to-market for the lead drug candidate. Clinical trials take years: Phase 1 (safety, small patient group, 1–2 years), Phase 2 (efficacy, moderate patient group, 2–3 years), Phase 3 (efficacy confirmation, large patient group, 2–4 years), then regulatory review by the FDA (1–2 years). A typical path from Phase 1 to FDA approval is 5–10 years, sometimes longer.
 
-Multiplying years-to-market by annual burn rate gives the total cash required from now until potential revenue. If **KALA** projects 8 years to first revenue and burns USD 15 million per year, it needs approximately USD 120 million. If it currently holds USD 50 million, it must raise at least USD 70 million more, likely in multiple tranches, incurring cumulative dilution.
+Multiplying years-to-market by annual burn rate gives the total cash required from now until potential revenue. If **KALA** projects 8 years to first revenue and burns USD 15 million per year, it needs approximately USD 120 million. If it currently holds USD 50 million, it must raise at least USD 70 million more, likely in multiple [tranches](/tranche/), incurring cumulative dilution.
 
 This calculation assumes clinical trials succeed and are completed on schedule — both strong assumptions for rare-disease indications where patient populations are small and recruitment is difficult.
 
@@ -69,11 +69,11 @@ This high-price-small-volume model is capital-efficient: **KALA** doesn't need t
 
 The ultimate capital-structure reality for **KALA** is that equity dilution is chronic and severe. A typical pre-revenue biotech sees its share count double or triple from inception to first commercial revenues. If a founder owns 10% of the company at inception and the company undergoes three major dilutive raises before commercialization, the founder's ownership falls to 1–2%. Even if the company succeeds, individual shareholder ownership has been massively diluted.
 
-For investors who buy into the public float (post-IPO), dilution is partially offset by the hope that stock price appreciation will exceed the dilution impact. If the stock rises from USD 10 to USD 100 per share despite 3x share-count increase, shareholders still come out ahead. However, if clinical trials disappoint and the stock falls, shareholders experience compounded losses: a declining stock price and increasing share count working together to destroy value.
+For investors who buy into the [public float](/float/) (post-IPO), dilution is partially offset by the hope that stock price appreciation will exceed the dilution impact. If the stock rises from USD 10 to USD 100 per share despite 3x share-count increase, shareholders still come out ahead. However, if clinical trials disappoint and the stock falls, shareholders experience compounded losses: a declining stock price and increasing share count working together to destroy value.
 
 ## Path to Profitability and Capital Sustainability
 
-**KALA** has no path to profitability until a drug is approved and commercialized. Once a drug reaches the market, the company can generate revenue and (if successful) operating cash flow. At that point, the capital structure can shift: from reliance on equity raises to sustainable, reinvested earnings. Some biotech companies begin paying dividends once they are cash-flow positive; others use cash to fund pipeline expansion or acquisitions.
+**KALA** has no path to profitability until a drug is approved and commercialized. Once a drug reaches the market, the company can generate revenue and (if successful) operating cash flow. At that point, the capital structure can shift: from reliance on equity raises to sustainable, reinvested earnings. Some biotech companies begin paying [dividends](/dividend/) once they are cash-flow positive; others use cash to fund pipeline expansion or [acquisitions](/acquisition/).
 
 Until then, **KALA** is a pure bet on clinical and commercial execution. The capital structure is simple and temporary — equity and burn — but the financial risk is extreme because all raised capital could be lost if the pipeline fails.
 

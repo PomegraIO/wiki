@@ -29,7 +29,7 @@ This is not subscription software (where churn is constant and product adoption 
 
 ## Why the Collector Market Resists Commoditization
 
-Traditional auto retail (buying a new or late-model used car) is increasingly commoditized: pricing is transparent via Kelley Blue Book and auction data, dealer margins compress, and customer switching is low-friction. The collector market is the opposite. A 1965 Ferrari 275 GTB is unique; its value depends on provenance, color, condition, and market sentiment among a small tribe of wealthy enthusiasts. No transparent price discovery mechanism works.
+Traditional auto retail (buying a new or late-model used car) is increasingly commoditized: pricing is transparent via Kelley Blue Book and auction data, dealer margins compress, and customer switching is low-friction. The collector market is the opposite. A 1965 [Ferrari](/race-stock/) 275 GTB is unique; its value depends on provenance, color, condition, and market sentiment among a small tribe of wealthy enthusiasts. No transparent [price discovery](/price-discovery/) mechanism works.
 
 This is why Bring a Trailer—Hagerty's flagstone auction platform—has become a price-setting mechanism for collector cars, much the way Sotheby's does for fine art. An owner uses BaT to test value, a buyer uses it to see comps, insurance adjusters use it to appraise vehicles for claims. The more transactions that run through the platform, the more legitimate its pricing signals become, and the more motivated sellers and buyers are to participate.
 
@@ -43,11 +43,11 @@ Each function reinforces the others. A collector buys insurance and reads the ma
 
 The nearest competitors operate in subsets of Hagerty's ecosystem: Bring a Trailer (now part of Hagerty) is an auction platform; insurers like collector-car specialists Grundy offer premiums but no media or events; car magazines like Classic Car magazine and Hemmings offer content but no marketplace; local car clubs and enthusiast forums offer community but no business model.
 
-Hagerty's vertical play means it competes with all of these simultaneously, but also that a successful competitor could not be a smaller version of Hagerty—it would need to build the entire platform constellation or acquire multiple pieces. For a private company, that capital requirement is high. For a larger auto, insurance, or media conglomerate, the strategic fit might not justify the acquisition price.
+Hagerty's vertical play means it competes with all of these simultaneously, but also that a successful competitor could not be a smaller version of Hagerty—it would need to build the entire platform constellation or acquire multiple pieces. For a private company, that capital requirement is high. For a larger auto, insurance, or media conglomerate, the strategic fit might not justify the [acquisition](/acquisition/) price.
 
 ## The Economic Cycles That Matter
 
-Hagerty's fortunes are tied less to GDP growth or new-car sales than to wealth distribution and discretionary spending among high-net-worth individuals. Economic downturns can reduce collector spending (luxury items are first to cut), but they also present buying opportunities for patient collectors. The real risk to Hagerty is not recession but a prolonged compression in the collector market—for instance, if electric vehicles become the standard so completely that internal-combustion collector cars fall out of cultural relevance, or if generational wealth transfer patterns shift such that younger heirs liquidate inherited collections rather than expand them.
+Hagerty's fortunes are tied less to GDP growth or new-car sales than to wealth distribution and [discretionary spending](/discretionary-spending/) among high-net-worth individuals. Economic downturns can reduce collector spending (luxury items are first to cut), but they also present buying opportunities for patient collectors. The real risk to Hagerty is not [recession](/recession/) but a prolonged compression in the collector market—for instance, if electric vehicles become the standard so completely that internal-combustion collector cars fall out of cultural relevance, or if generational wealth transfer patterns shift such that younger heirs liquidate inherited collections rather than expand them.
 
 These are secular, not cyclical, risks, and they are several years out if real at all.
 

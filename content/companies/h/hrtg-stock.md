@@ -20,7 +20,7 @@ For decades, Hawaii was served by a mix of national carriers and local or region
 
 ## The Reinsurance Burden and Weather Risk
 
-Hawaii's insurance economics are heavily shaped by reinsurance. A small regional insurer like Heritage cannot absorb losses from a major hurricane or wildfire; it purchases reinsurance—a "bet hedge" with specialized reinsurers—to cover catastrophic claims beyond its own reserves. Reinsurance premiums are tied to modeled catastrophe risk, which has risen sharply since the 2010s as scientific understanding of hurricane and wildfire frequency has improved and climate patterns have become more volatile. Heritage's cost of reinsurance has climbed, compressing its underwriting margin. To remain profitable, the firm must price homeowners policies above the national average and accumulate surplus (capital) sufficient to satisfy regulators that it can withstand a worst-case event. This makes Hawaii homeowners insurance expensive relative to the mainland, which in turn limits demand and forces Heritage to be disciplined in underwriting to avoid attracting a disproportionate share of high-risk properties.
+Hawaii's insurance economics are heavily shaped by reinsurance. A small regional insurer like Heritage cannot absorb losses from a major hurricane or wildfire; it purchases reinsurance—a "bet hedge" with specialized reinsurers—to cover catastrophic claims beyond its own reserves. Reinsurance premiums are tied to modeled catastrophe risk, which has risen sharply since the 2010s as scientific understanding of hurricane and wildfire frequency has improved and climate patterns have become more volatile. Heritage's cost of reinsurance has climbed, compressing its underwriting margin. To remain profitable, the firm must price homeowners policies above the national average and accumulate surplus (capital) sufficient to satisfy regulators that it can withstand a worst-case event. This makes Hawaii [homeowners insurance](/homeowners-insurance/) expensive relative to the mainland, which in turn limits demand and forces Heritage to be disciplined in underwriting to avoid attracting a disproportionate share of high-risk properties.
 
 ## Underwriting Discipline and Risk Selection
 
@@ -40,7 +40,7 @@ Insurance regulators in Hawaii and other states where Heritage operates have sig
 
 ## Investment Income and Float Economics
 
-Like all insurers, Heritage collects premiums and holds them as "float" (customer money awaiting potential claims) until claims are paid. The company invests this float in bonds, short-term securities, and other conservative instruments, generating investment income. In a rising-rate environment, this income increases; in a low-rate world, it shrinks. Heritage's investment income has historically been modest relative to underwriting profit but non-trivial—a difference between profitability and loss in years of bad underwriting results.
+Like all insurers, Heritage collects premiums and holds them as "float" (customer money awaiting potential claims) until claims are paid. The company invests this float in [bonds](/bond/), short-term securities, and other conservative instruments, generating investment income. In a rising-rate environment, this income increases; in a low-rate world, it shrinks. Heritage's investment income has historically been modest relative to underwriting profit but non-trivial—a difference between profitability and loss in years of bad underwriting results.
 
 <div class="wiki-seealso">
 ### Closely related

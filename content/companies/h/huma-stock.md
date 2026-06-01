@@ -62,13 +62,13 @@ Humacyte's business depends on two foundational customer needs. First, surgeons 
 <ul>
 <li><a href="/huiz-stock/">Huize Holding Ltd</a></li>
 <li><a href="/hubg-stock/">Hub Group, Inc.</a></li>
-<li><a href="/biotechnology/">Biotechnology</a></li>
+<li>Biotechnology</li>
 </ul>
 
 <h3>Wider context</h3>
 <ul>
-<li><a href="/10-k/">10-K Annual Report</a></li>
+<li><a href="/10-k/">10-K [Annual Report](/10-k/)</a></li>
 <li><a href="/public-company/">Public Company</a></li>
-<li><a href="/medical-devices/">Medical Devices</a></li>
+<li>Medical Devices</li>
 </ul>
 </div>

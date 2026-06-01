@@ -17,7 +17,7 @@ keywords: [agricultural production, farming, food production, British Columbia a
 
 ## Agricultural Cycles Bound to Weather, Commodity Prices, and Policy
 
-Fresh Factory's fortunes ride waves that are mostly cyclical but occasionally punctured by structural shifts. Agricultural production is inherently cyclical: crop yields vary year-to-year due to weather, pests, and disease; commodity prices for farm products oscillate on global supply-demand dynamics; and input costs (seed, fertilizer, labor) fluctuate with energy prices and labor markets. A year of bountiful harvests and strong prices is followed by glutted supply and depressed prices. A year of drought or frost destroys yields. Fresh Factory cannot control these forces; it can only manage through diversification, contract locking, or hedging—tactics that work partially and at a cost.
+Fresh Factory's fortunes ride waves that are mostly cyclical but occasionally punctured by structural shifts. Agricultural production is inherently cyclical: crop yields vary year-to-year due to weather, pests, and disease; commodity prices for farm products oscillate on global supply-demand dynamics; and input costs (seed, fertilizer, labor) fluctuate with energy prices and labor markets. A year of bountiful harvests and strong prices is followed by glutted supply and depressed prices. A year of drought or frost destroys yields. Fresh Factory cannot control these forces; it can only manage through [diversification](/diversification/), contract locking, or hedging—tactics that work partially and at a cost.
 
 ## Geographic and Climatic Anchor in British Columbia
 

@@ -39,11 +39,11 @@ Selling directly to consumers (via e-commerce, social media) gives Dogness highe
 
 ## Customer Concentration and Retention Risk
 
-If Dogness has significant revenue from a handful of retail partners or e-commerce platforms, losing one is a material threat. A retailer might decide to develop its own private-label version of Dogness's products and cut out the middleman. An e-commerce platform (Chewy, Amazon) might promote competing brands or change commission structures. This concentration risk is amplified by the fact that Dogness has limited brand awareness outside its niche—a customer browsing Chewy for a dog bed will see dozens of options, and loyalty to Dogness is not guaranteed.
+If Dogness has significant revenue from a handful of retail partners or e-commerce platforms, losing one is a material threat. A retailer might decide to develop its own private-label version of Dogness's products and cut out the middleman. An e-commerce platform (Chewy, Amazon) might promote competing brands or change commission structures. This [concentration risk](/concentration-risk/) is amplified by the fact that Dogness has limited brand awareness outside its niche—a customer browsing Chewy for a dog bed will see dozens of options, and loyalty to Dogness is not guaranteed.
 
 ## Pet Care as Consumer-Cyclical and Discretionary
 
-Pet supplies are discretionary purchases. During economic downturns, owners may switch to lower-cost alternatives or delay purchases. Premium products like Dogness's are especially vulnerable because they compete against both lower-priced alternatives and other discretionary spending (vacations, hobbies). Pet ownership itself has been resilient (people rarely give up pets for financial reasons), but spending on premium and specialty products is more elastic. This makes Dogness's business somewhat cyclical, dependent on consumer confidence and disposable income.
+Pet supplies are discretionary purchases. During economic downturns, owners may switch to lower-cost alternatives or delay purchases. Premium products like Dogness's are especially vulnerable because they compete against both lower-priced alternatives and other [discretionary spending](/discretionary-spending/) (vacations, hobbies). Pet ownership itself has been resilient (people rarely give up pets for financial reasons), but spending on premium and specialty products is more elastic. This makes Dogness's business somewhat cyclical, dependent on consumer confidence and disposable income.
 
 ## Comparison to Pure Play Competitors
 

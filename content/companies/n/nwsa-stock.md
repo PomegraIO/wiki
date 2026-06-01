@@ -37,7 +37,7 @@ The story of News Corp in the 2010s onward is the story of managing a legacy emp
 
 ## How News Corp earns money
 
-News Corp's revenue breaks across three main segments: newspaper publishing (print and digital), television broadcasting, and digital media and information services.
+News Corp's revenue breaks across three main segments: newspaper publishing (print and digital), television broadcasting, and digital media and [information services](/iii-stock/).
 
 The newspaper and book publishing division covers the company's flagship titles—the Wall Street Journal, the Times of London, the Sunday Times, the Sun, the Times Literary Supplement, and others—as well as book imprints under Hachette, a joint venture with Lagardère. Historically the largest revenue source, newspaper publishing now derives income from a mix of print circulation, digital subscriptions, and advertising. The transition has been painful: print advertising has collapsed faster than digital can offset, and even successful paywalls (like the Wall Street Journal's, one of the earliest and most rigorous) serve a limited subset of readers. The company has responded with rapid cost reduction—[closing print](/closing-print/) editions in some markets, consolidating staff, and shifting resources toward digital-first newsrooms. Revenue here is declining in absolute terms but at a slowing pace.
 

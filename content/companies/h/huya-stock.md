@@ -24,11 +24,11 @@ China's gaming market is the world's largest and most dynamic, with hundreds of 
 
 Yet within this secular framework sits a cyclical component: advertising and esports-event sponsorships. Brands and esports tournament organizers adjust marketing budgets with economic conditions. In periods of corporate optimism and profit growth, advertisers expand spend on esports sponsorships and branded content within live-streaming platforms. In downturns, these budgets contract sharply. During the COVID-19 pandemic, for example, esports sponsorship spending dipped despite elevated engagement.
 
-HUYA's revenue mix is critical to understanding its cyclical sensitivity. If revenue is dominated by creator-payout economics (viewer gifts minus payments to streamers), the model is acyclical. If a significant share comes from advertising and brand partnerships, the company faces cyclical vulnerability during recessions or periods when advertising budgets tighten.
+HUYA's revenue mix is critical to understanding its cyclical sensitivity. If revenue is dominated by creator-payout economics (viewer gifts minus payments to streamers), the model is acyclical. If a significant share comes from advertising and brand partnerships, the company faces cyclical vulnerability during [recessions](/recession/) or periods when advertising budgets tighten.
 
 ## The Chinese Regulatory Landscape
 
-A structural risk that dominates HUYA's valuation is not economic cycles but regulatory constraint. China's government has implemented stricter rules around gaming content, streaming hours for minors, and loot-box mechanics that resemble gambling. Changes in these rules can instantaneously reduce the addressable market for HUYA's streamers and the engagement of its audience. Additionally, Chinese authorities have periodically taken steps to restrict overseas listings or require additional scrutiny of technology and media firms, creating geopolitical risk that overshadows traditional business cycles.
+A structural risk that dominates HUYA's valuation is not economic cycles but regulatory constraint. China's government has implemented stricter rules around gaming content, streaming hours for minors, and loot-box mechanics that resemble gambling. Changes in these rules can instantaneously reduce the addressable market for HUYA's streamers and the engagement of its audience. Additionally, Chinese authorities have periodically taken steps to restrict overseas listings or require additional scrutiny of technology and media firms, creating geopolitical risk that overshadows traditional [business cycles](/business-cycle/).
 
 This regulatory overlay means that HUYA is not a pure play on the esports or gaming cycle, but a hybrid exposure to secular Chinese digital growth, cyclical advertising sentiment, and acute regulatory and geopolitical uncertainty.
 
@@ -36,7 +36,7 @@ This regulatory overlay means that HUYA is not a pure play on the esports or gam
 
 HUYA's economic model rests on the engagement of both viewers and creators. Creators stream for hours daily; viewers watch, purchase virtual gifts, and send them to streamers. The platform takes a percentage of gift purchases (typically thirty to fifty percent) and remits the remainder to creators. The platform also earns from advertising sold alongside streams and from premium features.
 
-The key unit-economic questions are: How much does HUYA spend to acquire and retain each creator and viewer? How much lifetime value does each cohort generate? As the streaming market matures, acquisition costs rise (more fragmentation, competition for exclusive talent), and marginal viewers have lower engagement and spending. This is a secular trend in maturing entertainment platforms and puts structural pressure on [operating margins](/operating-margin/).
+The key unit-economic questions are: How much does HUYA spend to acquire and retain each creator and viewer? How much lifetime value does each cohort generate? As the streaming market matures, [acquisition](/acquisition/) costs rise (more fragmentation, competition for exclusive talent), and marginal viewers have lower engagement and spending. This is a secular trend in maturing entertainment platforms and puts structural pressure on [operating margins](/operating-margin/).
 
 ## The Competitive Dynamics of Creator Economies
 

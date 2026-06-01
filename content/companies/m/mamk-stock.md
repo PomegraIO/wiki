@@ -23,7 +23,7 @@ The reality of the marketplace economy, however, is that network effects are rea
 
 ## Competition from Established Incumbents
 
-The marketplace space is dominated by companies with far greater resources and existing user bases: Etsy operates a mature artisan marketplace at global scale; Amazon Handmade serves small manufacturers within the ecosystem of Amazon's retail juggernaut; Shopify enables makers to build independent storefronts and market directly. Each of these alternatives has invested billions in features, logistics, trust mechanisms, and marketing.
+The marketplace space is dominated by companies with far greater resources and existing user bases: Etsy operates a mature artisan marketplace at global scale; Amazon Handmade serves small manufacturers within the ecosystem of Amazon's retail juggernaut; [Shopify](/shop-stock/) enables makers to build independent storefronts and market directly. Each of these alternatives has invested billions in features, logistics, trust mechanisms, and marketing.
 
 MaxsMaking's potential advantage, if it exists, is specialization. The platform might focus on a particular category of makers (locally produced foods, craftwork, sustainable goods) or a particular buyer segment (sustainable-focused retailers, boutique grocers, gift shops) where it can achieve greater density and customization than generalist platforms. This specialization can create preference among both suppliers and buyers within that niche, but only if the firm invests heavily in category-specific features and attracts a representative ecosystem of makers within the vertical.
 

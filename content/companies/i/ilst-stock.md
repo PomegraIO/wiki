@@ -18,7 +18,7 @@ keywords: ["ILST", "international trade", "import-export", "trading company", "c
 
 International Star Inc's business model traced back to traditional import-export trading—a practice as old as commerce itself. The company sourced products or commodities from one region, managed logistics and documentation across borders, and distributed them to buyers in another. The margins came from supply-chain efficiency, knowledge of regulatory requirements, established relationships with suppliers and distributors, and the ability to move inventory faster than competitors.
 
-Trading companies occupied a specific niche in the global economy. Unlike manufacturers that owned factories and intellectual property, or retailers that controlled storefronts and customer relationships, trading companies were intermediaries—operators who understood tariffs, port logistics, customs brokers, containers, and shipping lanes. They converted information advantages (knowing where goods were available cheap and where demand was high) into margin by moving inventory efficiently and reliably.
+Trading companies occupied a specific niche in the global economy. Unlike manufacturers that owned factories and intellectual property, or retailers that controlled storefronts and customer relationships, trading companies were intermediaries—operators who understood tariffs, port logistics, customs [brokers](/broker/), containers, and shipping lanes. They converted information advantages (knowing where goods were available cheap and where demand was high) into margin by moving inventory efficiently and reliably.
 
 International Star's founding vision likely emerged from identifying specific commodity or product categories where this arbitrage was sustainable. The company could have focused on textiles, minerals, agricultural products, machinery, electronics components, or other goods where geographic price disparity and trade barriers created persistent opportunity for a savvy middleman.
 
@@ -38,13 +38,13 @@ The shipping, insurance, and logistics costs were substantial components of tota
 
 ## Geographic and Product Diversification
 
-To reduce concentration risk, International Star likely traded across multiple product categories and geographic routes. A company dependent on a single source—say, coffee from one country—faced catastrophic risk if that source was disrupted by weather, politics, or local supply shocks. Similarly, if the company served primarily one end market or buyer, loss of that customer would devastate revenue.
+To reduce [concentration risk](/concentration-risk/), International Star likely traded across multiple product categories and geographic routes. A company dependent on a single source—say, coffee from one country—faced catastrophic risk if that source was disrupted by weather, politics, or local supply shocks. Similarly, if the company served primarily one end market or buyer, loss of that customer would devastate revenue.
 
-Diversification across products meant International Star needed expertise across different commodity supply chains, regulatory regimes, and buyer preferences. This was ambitious but manageable for a established trading firm with scale. The company could maintain multiple specialist teams, each focused on a product category—textiles, grains, minerals—and the finance and logistics teams that enabled all of them.
+[Diversification](/diversification/) across products meant International Star needed expertise across different commodity supply chains, regulatory regimes, and buyer preferences. This was ambitious but manageable for a established trading firm with scale. The company could maintain multiple specialist teams, each focused on a product category—textiles, grains, minerals—and the finance and logistics teams that enabled all of them.
 
 ## Market Volatility and Price Risk
 
-Trading companies faced price volatility in their source and end markets. If International Star locked in a purchase price but commodity prices collapsed before sale, the company took a loss. Conversely, if prices rose, the company's inventory gained value. This volatility meant trading companies often used hedging instruments—futures contracts, options, or forward contracts—to lock in margins and reduce price risk.
+Trading companies faced price volatility in their source and end markets. If International Star locked in a purchase price but commodity prices collapsed before sale, the company took a loss. Conversely, if prices rose, the company's inventory gained value. This volatility meant trading companies often used hedging instruments—[futures contracts](/futures-contract/), options, or [forward contracts](/forward-contract/)—to lock in margins and reduce price risk.
 
 A trading company might also maintain inventory buffers—holding extra stock during low-price periods to sell when prices rose. This required forecasting and capital; the company had to be willing to carry excess inventory when prices were cheap, betting on eventual recovery. Executed well, this created trading profits. Executed poorly, it meant holding depreciating inventory while cash drained away.
 

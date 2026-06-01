@@ -12,7 +12,7 @@ handwritten: true
 
 Yorkville International Capital Corp. is a newly public shell company, or special-purpose [acquisition](/acquisition/) vehicle, chartered in the Cayman Islands and headquartered in Mountainside, New Jersey. Like other SPACs, it was formed as a capital-raising shell with no operating business of its own—its explicit purpose is to identify, acquire, and merge with an operating company or asset of strategic value to its investors and sponsors.
 
-The company completed a [public offering](/wiki/stock/) in 2026, raising capital specifically to fund its [merger](/merger/) or acquisition search. Until such a combination occurs, Yorkville operates as a holding shell: liquid assets sit in trust, the board oversees the hunt for a [target](/tgt-stock/), and shareholders retain [redemption rights](/redemption-rights-equity/), allowing them to exit if the terms of any proposed deal fail to satisfy their return expectations.
+The company completed a [public offering](/wiki/stock/) in 2026, raising capital specifically to fund its [merger](/merger/) or acquisition search. Until such a combination occurs, Yorkville operates as a holding shell: liquid assets sit in trust, the board oversees the hunt for a target, and shareholders retain [redemption rights](/redemption-rights-equity/), allowing them to exit if the terms of any proposed deal fail to satisfy their return expectations.
 
 ## Structure and Objectives
 

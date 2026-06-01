@@ -11,7 +11,7 @@ keywords:
 handwritten: true
 ---
 
-*Fair Isaac Corporation is best known as the creator of the FICO score, the [credit risk](/credit-risk/) assessment tool that has shaped lending decisions for more than fifty years. The company also licenses analytics software and decision-management platforms to banks, insurance companies, and other financial institutions, making it central to how credit, insurance, and fraud risk are priced and managed across the financial system.*
+*Fair Isaac Corporation is best known as the creator of the FICO score, the [credit risk](/credit-risk/) assessment tool that has shaped lending decisions for more than fifty years. The company also licenses analytics software and decision-management platforms to banks, insurance companies, and other [financial institutions](/fisi-stock/), making it central to how credit, insurance, and fraud risk are priced and managed across the financial system.*
 
 <aside class="wiki-infobox">
 <table>

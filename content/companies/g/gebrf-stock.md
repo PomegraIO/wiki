@@ -24,7 +24,7 @@ This creates a sourcing constraint: suppliers who can reliably deliver products 
 
 Greenbriar likely operates across multiple product categories—home goods, personal care, food/beverage, textiles, or other consumer segments—where sustainability positioning offers differentiation. Within each category, the company competes against both conventional producers and other sustainability-focused brands. The critical question is whether Greenbriar's products deliver equivalent functionality and performance at a price point acceptable to its target consumer.
 
-A product that is both sustainable and cheaper than alternatives is defensible and scalable; a product that is sustainable but materially more expensive or lower-performing than alternatives is dependent on consumer goodwill and brand loyalty and is vulnerable to price-sensitive market shifts or new entrants with better cost structures. Greenbriar's product success is therefore contingent on both manufacturing efficiency and consumer perception of value.
+A product that is both sustainable and cheaper than alternatives is defensible and scalable; a product that is sustainable but materially more expensive or lower-performing than alternatives is dependent on consumer [goodwill](/goodwill/) and brand loyalty and is vulnerable to price-sensitive market shifts or new entrants with better cost structures. Greenbriar's product success is therefore contingent on both manufacturing efficiency and consumer perception of value.
 
 ## Distribution Channels and Retail Relationships
 
@@ -46,7 +46,7 @@ Managing this requires ongoing auditing, supplier relationships, and governance.
 
 ## Pricing Power and Consumer Demand Cycles
 
-Greenbriar's pricing power is tied to consumer willingness to pay a premium for sustainability. In economic downturns, when consumers prioritize price over attributes, demand for premium sustainability products typically declines faster than for conventional products. Consumers may perceive sustainability as a luxury rather than a necessity, shifting purchases toward cheaper conventional alternatives. Greenbriar is therefore more cyclical than essential-products companies and more vulnerable to discretionary spending declines.
+Greenbriar's pricing power is tied to consumer willingness to pay a premium for sustainability. In economic downturns, when consumers prioritize price over attributes, demand for premium sustainability products typically declines faster than for conventional products. Consumers may perceive sustainability as a luxury rather than a necessity, shifting purchases toward cheaper conventional alternatives. Greenbriar is therefore more cyclical than essential-products companies and more vulnerable to [discretionary spending](/discretionary-spending/) declines.
 
 Conversely, in periods of rising consumer wealth and growing awareness of environmental issues, demand for premium sustainable products can accelerate, benefiting Greenbriar. The company's revenue visibility is therefore tightly coupled to both macroeconomic sentiment and trends in consumer environmental awareness—forces outside management's direct control.
 
@@ -54,7 +54,7 @@ Conversely, in periods of rising consumer wealth and growing awareness of enviro
 
 As Greenbriar grows, it must expand production. Growth can occur through internal capacity expansion (owning or leasing manufacturing facilities) or outsourcing to contract manufacturers. Internal capacity is capital-intensive and creates fixed costs that must be absorbed even if demand slows. Outsourcing to contractors reduces capital but creates supply-chain dependencies and potential quality variance.
 
-Both paths create operational risk. Greenbriar must maintain quality consistency and sustainability standards at scale, a challenge that grows as production volumes increase and supply chains lengthen. Quality failures, supply disruptions, or discovery of sustainability violations in manufacturing can damage the brand and customer loyalty, undercutting the premium positioning that justifies the company's margins.
+Both paths create [operational risk](/operational-risk/). Greenbriar must maintain quality consistency and sustainability standards at scale, a challenge that grows as production volumes increase and supply chains lengthen. Quality failures, supply disruptions, or discovery of sustainability violations in manufacturing can damage the brand and customer loyalty, undercutting the premium positioning that justifies the company's margins.
 
 <div class="wiki-seealso">
 ### Closely related

@@ -25,7 +25,7 @@ The retail business earns a spread: the difference between the wholesale price M
 
 ## Cost Structure: Capital-Intensive Generation, Labor-Intensive Retail
 
-Hydroelectric and wind farms are expensive to build—dams require civil works, environmental remediation, and consent processes that span years—but cheap to operate once complete. A Meridian dam built decades ago now has low marginal costs: mostly labor for maintenance, environmental compliance, and depreciation. New wind farms have higher operating costs (blade replacement, turbine repairs) but lower capital needs than hydro.
+Hydroelectric and wind farms are expensive to build—dams require civil works, environmental remediation, and consent processes that span years—but cheap to operate once complete. A Meridian dam built decades ago now has low marginal costs: mostly labor for maintenance, environmental compliance, and [depreciation](/depreciation/). New wind farms have higher operating costs (blade replacement, turbine repairs) but lower capital needs than hydro.
 
 Retail electricity is labor-heavy: customer service centers, billing systems, network operations, and collections staff are fixed costs that scale with customer base. A retailer with 500,000 customers spreads these costs per customer; a smaller retailer with 100,000 customers has higher cost-per-customer and lower margins.
 
@@ -33,15 +33,15 @@ Meridian's integrated model—generator and retailer—creates both synergy and 
 
 ## Regulatory and Pricing Constraints
 
-Electricity prices in New Zealand are partly set by market forces and partly shaped by regulation. The Commerce Commission oversees transmission and lines companies (which own poles and wires), setting allowed returns on investment. Meridian, as a generator, is mostly unregulated in pricing, but it faces price competition from other generators (Genesis Energy, Contact Energy, smaller players) and, indirectly, from customer pressure to keep retail rates affordable.
+Electricity prices in New Zealand are partly set by market forces and partly shaped by regulation. The Commerce Commission oversees transmission and lines companies (which own poles and wires), setting allowed returns on investment. Meridian, as a generator, is mostly unregulated in pricing, but it faces price competition from other generators ([Genesis Energy](/gel-stock/), Contact Energy, smaller players) and, indirectly, from customer pressure to keep retail rates affordable.
 
-Renewable energy comes with additional margin pressures: as wind and solar proliferate globally, wholesale electricity prices in developed markets tend downward. Meridian must manage this deflation by controlling costs, improving plant efficiency, and locking in long-term contracts at defensible prices.
+Renewable energy comes with additional margin pressures: as wind and solar proliferate globally, wholesale electricity prices in developed markets tend downward. Meridian must manage this [deflation](/deflation/) by controlling costs, improving plant efficiency, and locking in long-term contracts at defensible prices.
 
 ## Hedging and Volume Risk
 
-Meridian depends on electricity demand and on hydrological conditions it cannot control. To manage risk, the company enters into forward contracts, swaps, and hedges with large industrial customers and financial counterparties. A customer might sign a five-year contract at a fixed price, locking in Meridian's margin; if wholesale prices fall, Meridian wins; if they rise, the customer benefits. Hedging reduces volatility but also caps upside.
+Meridian depends on electricity demand and on hydrological conditions it cannot control. To manage risk, the company enters into [forward contracts](/forward-contract/), swaps, and hedges with large industrial customers and financial counterparties. A customer might sign a five-year contract at a fixed price, locking in Meridian's margin; if wholesale prices fall, Meridian wins; if they rise, the customer benefits. Hedging reduces volatility but also caps upside.
 
-Volume risk is acute: if the New Zealand economy enters recession, demand falls, and Meridian's generation is curtailed, forcing sales at lower wholesale prices. Conversely, in boom years, demand rises, wholesale prices climb, and margins improve. This cyclicality is structural and cannot be entirely hedged.
+Volume risk is acute: if the New Zealand economy enters [recession](/recession/), demand falls, and Meridian's generation is curtailed, forcing sales at lower wholesale prices. Conversely, in boom years, demand rises, wholesale prices climb, and margins improve. This cyclicality is structural and cannot be entirely hedged.
 
 ## Capital Expenditure and Depreciation
 

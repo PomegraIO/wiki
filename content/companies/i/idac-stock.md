@@ -4,7 +4,7 @@ description: "SPAC vehicle seeking a business combination; holds cash and operat
 keywords: ["SPAC", "special purpose acquisition company", "merger", "shell company", "blank-check company"]
 ---
 
-*Iron Dome Acquisition I Corp. (IDAC) is a special-purpose acquisition company (SPAC)—a publicly listed vehicle with no operating business, designed to identify and merge with a private company, thereby taking that company public. **IDAC** holds cash from its [initial public offering](/initial-public-offering/), which holders (who bought at $10 per unit) risk losing if management fails to negotiate an acceptable merger before a dissolution deadline arrives. The economic structure is conditional: shareholders remain owners of cash until a deal happens, then become owners of whatever operating business emerges from the merger. This structure transfers deal-finding risk from private equity sponsors to public shareholders.*
+*Iron Dome [Acquisition](/acquisition/) I Corp. (IDAC) is a special-purpose acquisition company (SPAC)—a publicly listed vehicle with no operating business, designed to identify and merge with a private company, thereby taking that company public. **IDAC** holds cash from its [initial public offering](/initial-public-offering/), which holders (who bought at $10 per unit) risk losing if management fails to negotiate an acceptable [merger](/merger/) before a dissolution deadline arrives. The economic structure is conditional: shareholders remain owners of cash until a deal happens, then become owners of whatever operating business emerges from the merger. This structure transfers deal-finding risk from private equity sponsors to public shareholders.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>IDAC</td></tr>
@@ -16,7 +16,7 @@ keywords: ["SPAC", "special purpose acquisition company", "merger", "shell compa
 
 ## SPAC Structure and Mechanics
 
-A SPAC is a legally defined shell company created to hold capital and find an operating business to merge with. Iron Dome raised cash from public shareholders at a fixed price (commonly $10 per unit) and began searching for a target. The timeline is fixed by SEC rules: typically 24 months from [IPO](/initial-public-offering/) to complete a merger or face mandatory liquidation. During this period, IDAC holds the capital in a trust account, earning minimal interest, while management (the sponsor team) recruits and negotiates merger partners. Sponsors typically own founder shares (common stock with no economic value until merger) and earn returns only if a deal closes, creating an incentive misalignment: sponsors and public shareholders have different risk horizons and payoff functions.
+A SPAC is a legally defined shell company created to hold capital and find an operating business to merge with. Iron Dome raised cash from public shareholders at a fixed price (commonly $10 per unit) and began searching for a target. The timeline is fixed by SEC rules: typically 24 months from [IPO](/initial-public-offering/) to complete a merger or face mandatory [liquidation](/liquidation/). During this period, IDAC holds the capital in a trust account, earning minimal interest, while management (the sponsor team) recruits and negotiates merger partners. Sponsors typically own [founder shares](/founder-shares/) (common stock with no economic value until merger) and earn returns only if a deal closes, creating an incentive misalignment: sponsors and public shareholders have different risk horizons and payoff functions.
 
 ## The Economic Logic of Going Public via SPAC
 
@@ -32,7 +32,7 @@ Iron Dome's sponsor team benefits from closing a deal at nearly any valuation; t
 
 ## Time Decay and Dissolution Mechanics
 
-As IDAC approaches its merger deadline (typically 24 months from IPO), public shareholders face escalating pressure: either accept whatever merger management has negotiated, or forfeit their position as the deadline passes and the trust dissolves. This creates a time-decay dynamic that favors the sponsor if a deal is pending but only partially attractive to shareholders. Management can use the deadline as leverage, implying that shareholders must approve or lose everything. If no merger is completed by the deadline, IDAC liquidates, returning the trust balance (minus transaction costs) to shareholders. Shareholders who paid $10 per unit receive approximately $10 back, netting a loss in real terms due to inflation and opportunity cost.
+As IDAC approaches its merger deadline (typically 24 months from IPO), public shareholders face escalating pressure: either accept whatever merger management has negotiated, or forfeit their position as the deadline passes and the trust dissolves. This creates a time-decay dynamic that favors the sponsor if a deal is pending but only partially attractive to shareholders. Management can use the deadline as leverage, implying that shareholders must approve or lose everything. If no merger is completed by the deadline, IDAC liquidates, returning the trust balance (minus transaction costs) to shareholders. Shareholders who paid $10 per unit receive approximately $10 back, netting a loss in real terms due to [inflation](/inflation/) and opportunity cost.
 
 ## PIPE Dynamics and Post-Merger Dilution
 

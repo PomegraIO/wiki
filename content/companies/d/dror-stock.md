@@ -19,7 +19,7 @@ keywords: ["orthopedic devices", "spinal implants", "medical devices", "orthoped
 
 Orthopedic implants—hip replacements, knee replacements, spinal fusion hardware, shoulder reconstructions—represent among the most economically sensitive surgical categories in healthcare. Unlike emergency procedures (trauma, acute infection, malignancy), joint and spine surgeries are scheduled, elective, and often deferrable. A patient with moderate knee osteoarthritis can postpone replacement surgery for months or years; the condition worsens gradually, but urgency does not increase sharply in the near term. When household finances tighten or insurance coverage becomes uncertain, patients delay elective orthopedic procedures indefinitely.
 
-This deferability makes orthopedic device demand intensely cyclical. During recessions, elective surgical volumes collapse. Hospitals reduce operating room schedules to preserve cash. Insurance companies tighten reimbursement. Patient out-of-pocket costs rise as deductibles climb. Surgery delays accumulate. Device manufacturers like Dror experience sharp revenue declines not because aging stops or joint disease vanishes, but because the decision to operate—and thus the implant purchase—shifts forward in time.
+This deferability makes orthopedic device demand intensely cyclical. During [recessions](/recession/), elective surgical volumes collapse. Hospitals reduce operating room schedules to preserve cash. Insurance companies tighten reimbursement. Patient out-of-pocket costs rise as deductibles climb. Surgery delays accumulate. Device manufacturers like Dror experience sharp revenue declines not because aging stops or joint disease vanishes, but because the decision to operate—and thus the implant purchase—shifts forward in time.
 
 ## The Secular Backdrop: Aging and Joint Disease
 
@@ -41,7 +41,7 @@ Recession thus poses a specific risk for Dror: if surgical volumes decline but m
 
 ## Geography as a Cyclical Lever
 
-Dror operates in markets with differing cyclicality. US orthopedic surgery remains relatively resilient even in mild recessions because of insurance and procedure deferral patterns; many Medicare patients proceed with surgery regardless of broader economic stress. International markets (Europe, emerging markets) exhibit sharper cyclicality because healthcare budgets are tighter and patient out-of-pocket costs create stronger deferrals. A global recession hits Dror's non-US revenue harder, but geographic diversification means no single cycle dominates.
+Dror operates in markets with differing cyclicality. US orthopedic surgery remains relatively resilient even in mild recessions because of insurance and procedure deferral patterns; many Medicare patients proceed with surgery regardless of broader economic stress. International markets (Europe, emerging markets) exhibit sharper cyclicality because healthcare budgets are tighter and patient out-of-pocket costs create stronger deferrals. A global recession hits Dror's non-US revenue harder, but geographic [diversification](/diversification/) means no single cycle dominates.
 
 Developed-market aging is faster in Europe and Japan than in the US, creating a secular tailwind in those regions that partially offsets cyclical volatility. Emerging markets show slower current orthopedic procedure volumes but rapid secular expansion as wealth rises and healthcare access improves. Dror's geographic positioning thus blends near-term cyclicality with long-term secular growth, though the balance varies by region.
 

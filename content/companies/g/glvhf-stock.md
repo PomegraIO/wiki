@@ -4,7 +4,7 @@ description: "Irish residential property developer navigating planning, construc
 keywords: [real-estate, property, residential, ireland, reits, development]
 ---
 
-*[**Glenveagh Properties (GLVHF)**](https://www.glenveagh.ie/) operates as an Ireland-domiciled residential property developer, trading on US exchanges via American Depositary Receipts. The company develops and sells residential properties primarily in the Republic of Ireland, where planning law, building standards, and land-use regulation impose significant controls on what can be built, where, and how—a regime that both constrains competition and shapes the entire project cycle.*
+*[**Glenveagh Properties (GLVHF)**](https://www.glenveagh.ie/) operates as an Ireland-domiciled residential property developer, trading on US exchanges via [American Depositary Receipts](/adr/). The company develops and sells residential properties primarily in the Republic of Ireland, where planning law, building standards, and land-use regulation impose significant controls on what can be built, where, and how—a regime that both constrains competition and shapes the entire project cycle.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>GLVHF</td></tr>
@@ -29,7 +29,7 @@ Ireland's housing shortage is a chronic policy concern, and the government has e
 
 ## Environmental and Sustainability Mandates
 
-European Union environmental directives, transposed into Irish law, require environmental impact assessments for major projects, particularly those affecting water resources, habitats, or waste management. Glenveagh's large development sites frequently trigger these assessments, extending timelines and imposing mitigation measures. Additionally, the EU's Energy Performance of Buildings Directive (now requiring near-zero-energy buildings) has tightened design standards and raised construction costs. For Glenveagh, this creates both risk and opportunity: rising environmental standards increase development costs, but they also erect barriers to smaller competitors lacking the expertise or capital to comply.
+European Union environmental directives, transposed into Irish law, require environmental impact assessments for major projects, particularly those affecting water resources, habitats, or [waste management](/wm-stock/). Glenveagh's large development sites frequently trigger these assessments, extending timelines and imposing mitigation measures. Additionally, the EU's Energy Performance of Buildings Directive (now requiring near-zero-energy buildings) has tightened design standards and raised construction costs. For Glenveagh, this creates both risk and opportunity: rising environmental standards increase development costs, but they also erect barriers to smaller competitors lacking the expertise or capital to comply.
 
 ## Consumer Protection and Defects Liability
 
@@ -37,7 +37,7 @@ Ireland's property law imposes strict liability on builders for structural defec
 
 ## Foreign Investment and Currency Risk
 
-As an Ireland-domiciled company with US ADRs, Glenveagh faces currency risk between the Euro and US Dollar. Additionally, foreign investment rules may apply to purchases of agricultural or land-use-sensitive properties by non-Irish entities, creating compliance requirements for acquisitions. These regulatory layers interact with development strategy: if a site carries foreign-ownership restrictions, Glenveagh may need to partner with a local entity or navigate exemptions.
+As an Ireland-domiciled company with US ADRs, Glenveagh faces [currency risk](/currency-risk/) between the Euro and [US Dollar](/us-dollar/). Additionally, foreign investment rules may apply to purchases of agricultural or land-use-sensitive properties by non-Irish entities, creating compliance requirements for [acquisitions](/acquisition/). These regulatory layers interact with development strategy: if a site carries foreign-ownership restrictions, Glenveagh may need to partner with a local entity or navigate exemptions.
 
 ## Supply-Chain Fragility and Labor Availability
 

@@ -33,7 +33,7 @@ The unit cost of regulatory compliance—legal expertise, quality assurance, cli
 
 ## Customer Acquisition and Integration Complexity
 
-Healthcare providers are complex customers. A hospital system's decision to adopt Healwell AI must navigate clinician skepticism, integration with existing electronic health record (EHR) systems, change management, and proof of clinical value. The sales cycle is therefore long—months to a year or more—and the customer acquisition cost (CAC) is high.
+Healthcare providers are complex customers. A hospital system's decision to adopt Healwell AI must navigate clinician skepticism, integration with existing electronic health record (EHR) systems, change management, and proof of clinical value. The sales cycle is therefore long—months to a year or more—and the customer [acquisition](/acquisition/) cost (CAC) is high.
 
 The unit economics of a new customer are negative in the first year or two. Healwell invests in sales labor, integration engineering, training, and support to bring the customer live. Revenue from that customer grows over time as adoption spreads within the organization and as the company upsells additional modules or services.
 
@@ -57,7 +57,7 @@ The trust problem is acute for obscure diseases or low-prevalence conditions. If
 
 ## Enterprise Customer Concentration and Dependency
 
-Healwell, as a smaller healthcare AI company, likely depends on a handful of large customers for a significant share of revenue. If the company's top five customers represent 50 percent of ARR, the business carries concentration risk. If one large health system churns or consolidates with a competitor using a different platform, Healwell loses significant revenue in a single event.
+Healwell, as a smaller healthcare AI company, likely depends on a handful of large customers for a significant share of revenue. If the company's top five customers represent 50 percent of ARR, the business carries [concentration risk](/concentration-risk/). If one large health system churns or consolidates with a competitor using a different platform, Healwell loses significant revenue in a single event.
 
 The unit economics of enterprise dependency are therefore unfavorable for growth—the company must constantly balance new customer acquisition (costly and long) with expansion of existing customers (higher-margin but less certain than expansion of a large installed base). As Healwell grows, it likely aims to reduce customer concentration by building a broader customer base and thus reducing the risk that any single churn event materially impacts the company.
 

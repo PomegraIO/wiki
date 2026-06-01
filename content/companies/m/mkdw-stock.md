@@ -17,7 +17,7 @@ keywords: ["smart home", "IoT", "home automation", "connected devices", "technol
 
 ## The Smart-Home Landscape: Fragmentation and Infrastructure Gaps
 
-The smart-home market has matured enough to create an installed base (hundreds of millions of connected devices globally) but remains fragmented across incompatible ecosystems. Amazon's Alexa, Google's Home platform, and Apple's HomeKit control much of the consumer market; however, each uses different communication protocols, cloud backends, and developer interfaces.
+The smart-home market has matured enough to create an installed base (hundreds of millions of connected devices globally) but remains fragmented across incompatible ecosystems. Amazon's Alexa, Google's Home platform, and [Apple](/aapl-stock/)'s HomeKit control much of the consumer market; however, each uses different communication protocols, cloud backends, and developer interfaces.
 
 Independent smart-home device makers—companies building thermostats, lighting, security systems, or appliances—face a critical decision: which platforms to support? Building for Alexa requires Amazon certification; supporting HomeKit requires Apple's protocols. Supporting all three multiplies engineering costs. Most startups pick one and bet on its dominance, a decision that can backfire if market leadership shifts.
 
@@ -47,11 +47,11 @@ However, expanding into these verticals requires domain expertise, regulatory co
 
 MKDWELL faces a classic platform network-effect problem. Device makers adopt the platform only if it offers significant savings or reaches a large installed base. The installed base grows only as more device makers adopt. In the early stage, this is a chicken-and-egg problem—MKDWELL must subsidize early adopters or accept slow growth until reaching critical mass.
 
-If MKDWELL can reach a tipping point (10–20% of new smart-home devices shipping with its platform), the flywheel kicks in: more devices attract more developers, which attracts more device makers. If it stalls before critical mass, the company faces a slow decline or eventual acquisition by a larger platform player.
+If MKDWELL can reach a tipping point (10–20% of new smart-home devices shipping with its platform), the flywheel kicks in: more devices attract more developers, which attracts more device makers. If it stalls before critical mass, the company faces a slow decline or eventual [acquisition](/acquisition/) by a larger platform player.
 
 ## Financial and Capital Risk
 
-Small IoT platform companies are typically loss-making in the early stages—they invest in R&D and sales to build the ecosystem, with revenue lagging spending. MKDWELL's profitability depends on reaching sufficient scale. If the company is not profitable or close to profitability, it must raise capital to fund ongoing operations. Equity capital is dilutive; debt is unavailable for early-stage platforms with no cash flow. A failed funding round or inability to raise additional capital could force a fire-sale acquisition or liquidation.
+Small IoT platform companies are typically loss-making in the early stages—they invest in R&D and sales to build the ecosystem, with revenue lagging spending. MKDWELL's profitability depends on reaching sufficient scale. If the company is not profitable or close to profitability, it must raise capital to fund ongoing operations. Equity capital is dilutive; debt is unavailable for early-stage platforms with no cash flow. A failed funding round or inability to raise additional capital could force a fire-sale acquisition or [liquidation](/liquidation/).
 
 The public market is challenging for pre-profitability technology companies; equity investors demand a clear path to profitability and competitive differentiation. MKDWELL's ability to access capital through its OTC listing is limited. A better-capitalized competitor or an acquisition offer might force strategic decisions faster than management prefers.
 

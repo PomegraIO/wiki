@@ -17,7 +17,7 @@ keywords: [electronics, manufacturing, distribution, supply chain, industrial eq
 
 ## Why Complexity Creates Dependency
 
-Electronics manufacturing services (EMS) is a classic middleman business: the company takes customer designs, sources components, assembles them, tests outputs, and manages logistics. Sounds straightforward, but the model conceals a fragile dependency. A customer that grows large enough to redesign its own supply chain can do so overnight, pulling work in-house or shifting to a lower-cost competitor. ModuLink's customer concentration risk is structural—a handful of accounts likely generate 40-60% of revenue, as is common in EMS. Losing one large customer can erase years of margin improvement in a single quarter.
+Electronics manufacturing services (EMS) is a classic middleman business: the company takes customer designs, sources components, assembles them, tests outputs, and manages logistics. Sounds straightforward, but the model conceals a fragile dependency. A customer that grows large enough to redesign its own supply chain can do so overnight, pulling work in-house or shifting to a lower-cost competitor. ModuLink's customer [concentration risk](/concentration-risk/) is structural—a handful of accounts likely generate 40-60% of revenue, as is common in EMS. Losing one large customer can erase years of margin improvement in a single quarter.
 
 The company's path to mitigation involves becoming more than a manufacturer: it must offer engineering support, regulatory compliance (especially in medical and defense applications), and supply-chain transparency that lock in customers through stickiness rather than price alone. But that path is costly, requiring overhead and expertise that smaller EMS players cannot afford and that larger, better-capitalized competitors execute at lower unit cost.
 
@@ -27,7 +27,7 @@ Customers in industrial and medical electronics—ModuLink's core markets—are 
 
 The company's gross margins depend on rapid inventory turns, efficient labor, and negotiating power with components suppliers. Each of these can deteriorate quickly. Supply-chain disruptions (component shortages, logistics bottlenecks, tariff shifts) hit EMS companies first and hardest because they operate on thin, transparent margins. A customer can absorb a temporary supply shock; an EMS company that cannot source components on time loses the customer instead.
 
-Labor productivity is another trap. Electronics assembly and testing is becoming increasingly automated, raising the capital burden for entrants and making ModuLink's existing facilities either a competitive advantage (if fully depreciated and efficient) or a drag (if aging and underutilized). A prolonged period of low order volumes can render expensive manufacturing capacity uneconomical.
+[Labor productivity](/labor-productivity/) is another trap. Electronics assembly and testing is becoming increasingly automated, raising the capital burden for entrants and making ModuLink's existing facilities either a competitive advantage (if fully depreciated and efficient) or a drag (if aging and underutilized). A prolonged period of low order volumes can render expensive manufacturing capacity uneconomical.
 
 ## Technology Obsolescence and Design Shift
 
@@ -39,7 +39,7 @@ Medical device manufacturers, for instance, face increasing pressure to reduce p
 
 The EMS sector has long grappled with a paradox: sales growth often comes at the expense of profitability. Winning new business requires pricing concessions, tooling investments, and working-capital strain. If ModuLink wins a large new customer by undercutting competitors, the payback period may be years, and the customer's power to re-negotiate or exit after initial volumes means the company takes significant risk for uncertain returns.
 
-Acquisitions, another common growth strategy in EMS, can backfire. Acquired companies come with their own customer concentration, legacy cost structures, and cultural integration challenges. Overpaying for bolt-on manufacturing capacity that sits underutilized destroys [shareholder value](/return-on-equity/) almost immediately.
+[Acquisitions](/acquisition/), another common growth strategy in EMS, can backfire. Acquired companies come with their own customer concentration, legacy cost structures, and cultural integration challenges. Overpaying for bolt-on manufacturing capacity that sits underutilized destroys [shareholder value](/return-on-equity/) almost immediately.
 
 ## Market Position and Scale
 

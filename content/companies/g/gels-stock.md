@@ -20,7 +20,7 @@ Gelteq appears to compete in a technology or specialty-materials domain where in
 
 Companies in the specialty-materials and advanced-technology space typically operate on a model where research and development spending is substantial relative to revenue. A company might invest 10% to 20% of sales in R&D, meaning profitability only materializes if products command pricing premiums sufficient to exceed those costs and deliver acceptable margins. The path from research breakthrough to market-ready product is uncertain and expensive; many development programs fail or take longer than planned. This creates a structural risk profile distinct from commodity or service businesses.
 
-Gelteq's business model depends on a few key factors. First, the company must maintain a pipeline of products at various development stages, ensuring that near-term revenues don't dry up while long-term projects mature. Second, it must attract and retain engineering and scientific talent—a scarce and competitive resource that can be expensive to recruit and retain. Third, it must navigate customer concentration risk: if a small number of customers account for the majority of revenue, loss of a single major customer materially damages the business.
+Gelteq's business model depends on a few key factors. First, the company must maintain a pipeline of products at various development stages, ensuring that near-term revenues don't dry up while long-term projects mature. Second, it must attract and retain engineering and scientific talent—a scarce and competitive resource that can be expensive to recruit and retain. Third, it must navigate customer [concentration risk](/concentration-risk/): if a small number of customers account for the majority of revenue, loss of a single major customer materially damages the business.
 
 ## Customer Relationships and Market Position
 
@@ -30,7 +30,7 @@ Such relationships can create a durable competitive moat: once a customer has in
 
 ## Manufacturing and Supply Chain Complexity
 
-If Gelteq is a manufacturing company, it likely operates one or more production facilities where proprietary processes or equipment enable the production of its specialty products. Manufacturing facilities carry high fixed costs: staffing, utilities, equipment maintenance, and depreciation must be paid whether the facility is operating at 40% or 100% utilization. This cost structure creates operating leverage: modest increases in production volume yield outsized increases in profit, but declines in demand quickly erode profitability.
+If Gelteq is a manufacturing company, it likely operates one or more production facilities where proprietary processes or equipment enable the production of its specialty products. Manufacturing facilities carry high fixed costs: staffing, utilities, equipment maintenance, and [depreciation](/depreciation/) must be paid whether the facility is operating at 40% or 100% utilization. This cost structure creates operating leverage: modest increases in production volume yield outsized increases in profit, but declines in demand quickly erode profitability.
 
 Gelteq's supply chain likely depends on sourcing raw materials or precursor chemicals with consistent quality and reliable availability. Any disruption to supplier relationships, commodity-price spikes for critical inputs, or logistics challenges can constrain the company's ability to manufacture and deliver on schedule. Supply chain risk is material to any manufacturing firm and is typically disclosed in the 10-K.
 
@@ -48,7 +48,7 @@ If Gelteq's products are regulated—say, if they're used in medical devices, ae
 
 ## Cyclicality and Customer Demand
 
-Specialty-materials or technology companies often serve industrial customers whose own demand is cyclical. When industrial production slows—during recessions or sector downturns—demand for Gelteq's products may fall sharply. The company faces the choice of maintaining expensive manufacturing capacity in anticipation of recovery or reducing costs and risk missing upside when demand returns. This creates earnings volatility that can surprise investors.
+Specialty-materials or technology companies often serve industrial customers whose own demand is cyclical. When industrial production slows—during [recessions](/recession/) or sector downturns—demand for Gelteq's products may fall sharply. The company faces the choice of maintaining expensive manufacturing capacity in anticipation of recovery or reducing costs and risk missing upside when demand returns. This creates earnings volatility that can surprise investors.
 
 Some technology or materials companies occupy secular growth markets (e.g., clean energy, semiconductors, electric vehicles) where end-market demand is expanding faster than GDP. Others serve mature or stable markets where growth is limited. Gelteq's position on this spectrum is critical to its long-term investment case.
 
@@ -60,7 +60,7 @@ Barriers to entry in specialty-materials include capital requirements (to build 
 
 ## Research and Analysis
 
-An analyst or investor would examine Gelteq's 10-K to understand product lines, customer mix, geographic exposure, R&D spending, capital plans, and competitive positioning. The [income statement](/income-statement/) shows gross margins (indicating pricing power), R&D as a percent of sales (indicating innovation intensity), and operating margins (reflecting competitive and cost discipline). The [balance sheet](/balance-sheet/) reveals capital intensity and leverage. Cash-flow statements detail capex, working-capital needs, and free [cash flow](/free-cash-flow/).
+An analyst or investor would examine Gelteq's 10-K to understand product lines, customer mix, geographic exposure, R&D spending, capital plans, and competitive positioning. The [income statement](/income-statement/) shows gross margins (indicating pricing power), R&D as a percent of sales (indicating innovation intensity), and [operating margins](/operating-margin/) (reflecting competitive and cost discipline). The [balance sheet](/balance-sheet/) reveals capital intensity and leverage. Cash-flow statements detail capex, working-capital needs, and free [cash flow](/free-cash-flow/).
 
 <div class="wiki-seealso">
 ### Closely related

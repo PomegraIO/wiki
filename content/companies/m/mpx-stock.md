@@ -41,7 +41,7 @@ However, marine manufacturing is not capital-intensive in the way automotive pro
 
 ## Cyclicality and Demand Risk
 
-MPX's moat must be evaluated against demand volatility. Recreational boating is cyclical: during economic expansions and rising wealth, affluent consumers purchase boats; during recessions, demand collapses. A company with a strong moat should weather cycles better than competitors, retaining market share during downturns and growing share during upswings. If MPX has simply maintained share proportionally during cycles (both up and down), the moat's true strength remains unproven.
+MPX's moat must be evaluated against demand volatility. Recreational boating is cyclical: during economic expansions and rising wealth, affluent consumers purchase boats; during [recessions](/recession/), demand collapses. A company with a strong moat should weather cycles better than competitors, retaining market share during downturns and growing share during upswings. If MPX has simply maintained share proportionally during cycles (both up and down), the moat's true strength remains unproven.
 
 Evidence of a durable moat would be: (1) maintaining dealer relationships and pricing power even during severe downturns, (2) growth in market share during competitive upheaval, and (3) better unit economics (margins, cash conversion) than smaller rivals.
 
@@ -49,7 +49,7 @@ Evidence of a durable moat would be: (1) maintaining dealer relationships and pr
 
 Modern boat manufacturing requires facility investment, tooling, and working capital for materials and inventory. This gives established players like MPX an advantage over smaller custom builders: the company can spread fixed costs across higher unit volumes, achieving lower per-unit cost. This cost leadership, if real, is a classic moat.
 
-But the moat only holds if the company maintains volume and cost discipline. If a larger competitor (such as a diversified marine conglomerate) enters the segment, they could leverage greater scale and diversification to undercut MPX on price. The moat is strong relative to small competitors but vulnerable to a well-capitalized, scaled adversary.
+But the moat only holds if the company maintains volume and cost discipline. If a larger competitor (such as a diversified marine conglomerate) enters the segment, they could leverage greater scale and [diversification](/diversification/) to undercut MPX on price. The moat is strong relative to small competitors but vulnerable to a well-capitalized, scaled adversary.
 
 ## Assessing MPX's Competitive Position
 

@@ -4,7 +4,7 @@ description: "Small healthcare services company operating a network of clinics a
 keywords: ["healthcare services", "clinic operations", "patient revenue", "unit economics", "medical staffing"]
 ---
 
-*A regional healthcare services operator, **First Choice Healthcare Solutions, Inc. (FCHS)** (CIK [1416876](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001416876)) operates clinics and healthcare facilities that generate revenue from patient visits, insurance reimbursements, and ancillary services such as diagnostic testing or wound care. The unit economics of a healthcare facility are driven by a fundamental variable: the number of billable patient encounters per day, the average reimbursement per encounter, and the fixed and variable cost structure required to deliver those services.*
+*A regional [healthcare services](/hcsg-stock/) operator, **First Choice Healthcare Solutions, Inc. (FCHS)** (CIK [1416876](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001416876)) operates clinics and healthcare facilities that generate revenue from patient visits, insurance reimbursements, and ancillary services such as diagnostic testing or wound care. The unit economics of a healthcare facility are driven by a fundamental variable: the number of billable patient encounters per day, the average reimbursement per encounter, and the fixed and variable cost structure required to deliver those services.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>FCHS</td></tr>
@@ -25,7 +25,7 @@ Thus a clinic that performs 30 patient visits per day at an average billed charg
 
 The costs to staff a clinic are divided into fixed salaries and variable costs. A clinic location requires a physician or nurse practitioner, nursing staff, front-desk personnel, and administrative overhead. The combined salary and benefit cost for a typical rural or suburban urgent care clinic might be $15,000–$20,000 per month. Facility costs—lease, utilities, malpractice insurance, medical supplies, equipment maintenance—add another $8,000–$12,000 per month.
 
-At the example volumes above (30 visits per day, or ~750 per month), the clinic generates $67,500 in net revenue against $23,000–$32,000 in combined staffing and facility costs, leaving a contribution margin of $35,000–$44,500 per month. But this assumes consistent volume. If visit volume drops to 20 per day (a common scenario in slower seasons or in less-developed markets), revenue drops to $45,000 per month while fixed costs remain the same, eroding the margin by 38%.
+At the example volumes above (30 visits per day, or ~750 per month), the clinic generates $67,500 in net revenue against $23,000–$32,000 in combined staffing and facility costs, leaving a [contribution margin](/contribution-margin/) of $35,000–$44,500 per month. But this assumes consistent volume. If visit volume drops to 20 per day (a common scenario in slower seasons or in less-developed markets), revenue drops to $45,000 per month while fixed costs remain the same, eroding the margin by 38%.
 
 ## Payer Mix and Reimbursement Risk
 
@@ -58,7 +58,7 @@ Healthcare operations are subject to compliance with healthcare privacy regulati
 ### Wider context
 - [/gross-profit-margin/](/gross-profit-margin/) — How reimbursement rates affect healthcare facility margins
 - [/operating-margin/](/operating-margin/) — Fixed cost leverage in healthcare operations
-- [/balance-sheet/](/balance-sheet/) — Accounts receivable and bad debt in healthcare companies
+- [/balance-sheet/](/balance-sheet/) — [Accounts receivable](/accounts-receivable/) and bad debt in healthcare companies
 - [/earnings-per-share/](/earnings-per-share/) — How patient volume translates to per-share earnings
 
 </div>

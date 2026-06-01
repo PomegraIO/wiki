@@ -33,7 +33,7 @@ Exploration data is probabilistic, not deterministic. Bravo's estimates of depos
 
 ## Financing Cycles and Dilution Cascade
 
-Junior miners raise capital through equity offerings and sometimes convertible debt or warrants. In bull markets, this is cheap; in bear markets, it is punitive. Bravo must time its raises to access capital when markets are receptive, which is exactly when sentiment is high and other miners are raising too — creating a rush of supply and underwriting discounts. If Bravo misses a financing window and enters a capital crunch, the next raise will be at a distressed discount, severely diluting existing shareholders. Over multiple cycles, early shareholders can be diluted to near-irrelevance. Additionally, if the company issues warrants or convertible debt, further dilution occurs if those are exercised or converted.
+Junior miners raise capital through equity offerings and sometimes convertible debt or warrants. In [bull markets](/bull-market/), this is cheap; in [bear markets](/bear-market/), it is punitive. Bravo must time its raises to access capital when markets are receptive, which is exactly when sentiment is high and other miners are raising too — creating a rush of supply and underwriting discounts. If Bravo misses a financing window and enters a capital crunch, the next raise will be at a distressed discount, severely diluting existing shareholders. Over multiple cycles, early shareholders can be diluted to near-irrelevance. Additionally, if the company issues warrants or convertible debt, further dilution occurs if those are exercised or converted.
 
 ## Acquisition Risk and Loss of Optionality
 

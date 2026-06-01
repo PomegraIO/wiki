@@ -34,9 +34,9 @@ The implicit return on each new unit can be estimated: if a restaurant requires 
 
 ## Labor Costs and Wage Inflation Sensitivity
 
-Cheesecake Factory's 10-K discusses labor as a critical cost driver, especially in a business that relies on service quality to command premium pricing. The company's disclosure of wage inflation in major markets, discussions of staffing challenges, and any changes to compensation or benefits reveal management's response to tight labor markets. In recent years, rising minimum wages and wage pressures have compressed casual dining [operating margins](/operating-margin/), and Cheesecake Factory's filings show how much the company has been able to pass through in pricing versus absorbing.
+Cheesecake Factory's 10-K discusses labor as a critical cost driver, especially in a business that relies on service quality to command premium pricing. The company's disclosure of wage [inflation](/inflation/) in major markets, discussions of staffing challenges, and any changes to compensation or benefits reveal management's response to tight labor markets. In recent years, rising minimum wages and wage pressures have compressed casual dining [operating margins](/operating-margin/), and Cheesecake Factory's filings show how much the company has been able to pass through in pricing versus absorbing.
 
-The company's discussion of labor productivity — revenue per labor hour or covers per server — offers insight into whether staffing is becoming more efficient or whether wage pressures are forcing inefficient staffing levels.
+The company's discussion of [labor productivity](/labor-productivity/) — revenue per labor hour or covers per server — offers insight into whether staffing is becoming more efficient or whether wage pressures are forcing inefficient staffing levels.
 
 ## Real Estate and Location Strategy
 
@@ -58,7 +58,7 @@ The company's dividend policy and [share buyback](/share-buyback/) program, disc
 
 ## Reading Cheesecake Factory's Quarterly and Annual Reports
 
-To understand Cheesecake Factory, start with the 10-K's discussion of comparable-store sales and the reasons for changes (pricing, traffic, mix). Then examine the consolidated [income statement](/income-statement/) to see whether [operating margins](/operating-margin/) are expanding or contracting, and which cost lines are moving. The cash-flow statement shows whether the company is generating cash to fund growth and shareholder returns, or borrowing to cover shortfalls. The segment reporting by brand reveals which restaurants are winning. Finally, the risk section addresses headwinds: labor inflation, real-estate concentration, changing consumer preferences, and economic sensitivity. For investors or analysts, the 10-K is the document that reveals whether Cheesecake Factory is a durably profitable business or a crowded restaurant stock vulnerable to the next downturn.
+To understand Cheesecake Factory, start with the 10-K's discussion of comparable-store sales and the reasons for changes (pricing, traffic, mix). Then examine the consolidated [income statement](/income-statement/) to see whether [operating margins](/operating-margin/) are expanding or contracting, and which cost lines are moving. The cash-flow statement shows whether the company is generating cash to fund growth and shareholder returns, or borrowing to cover shortfalls. The [segment reporting](/segment-reporting/) by brand reveals which restaurants are winning. Finally, the risk section addresses headwinds: labor inflation, real-estate concentration, changing consumer preferences, and economic sensitivity. For investors or analysts, the 10-K is the document that reveals whether Cheesecake Factory is a durably profitable business or a crowded restaurant stock vulnerable to the next downturn.
 
 <div class="wiki-seealso">
 ### Closely related

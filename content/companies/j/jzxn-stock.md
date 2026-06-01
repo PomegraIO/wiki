@@ -4,7 +4,7 @@ description: "Chinese automotive-parts supplier and fintech holding company fund
 keywords: ["automotive parts", "fintech", "Chinese equity", "cross-border capital", "acquisition financing"]
 ---
 
-*Jiuzi Holdings, Inc., trading as **JZXN**, is a Chinese company engaged in automotive-parts manufacturing and supply, coupled with financial-services and fintech investments. The company operates primarily in mainland China with holding-company structures in Hong Kong and the Cayman Islands — a capital-structure arrangement common among Chinese firms seeking to access both domestic Chinese funding and cross-border capital markets. **JZXN**'s balance sheet reflects this duality: Chinese-currency (RMB) debt and equity funding its domestic operations, while US dollar and Hong Kong dollar funding supports international expansion and fintech acquisitions. The company's capital story is one of geographic arbitrage and strategic diversification, balancing operational cash generation against acquisition spending and leverage.*
+*Jiuzi Holdings, Inc., trading as **JZXN**, is a Chinese company engaged in automotive-parts manufacturing and supply, coupled with financial-services and fintech investments. The company operates primarily in mainland China with holding-company structures in Hong Kong and the Cayman Islands — a capital-structure arrangement common among Chinese firms seeking to access both domestic Chinese funding and cross-border capital markets. **JZXN**'s balance sheet reflects this duality: Chinese-currency (RMB) debt and equity funding its domestic operations, while US dollar and Hong Kong dollar funding supports international expansion and fintech [acquisitions](/acquisition/). The company's capital story is one of geographic arbitrage and strategic [diversification](/diversification/), balancing operational cash generation against acquisition spending and leverage.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>JZXN</td></tr>
@@ -21,21 +21,21 @@ keywords: ["automotive parts", "fintech", "Chinese equity", "cross-border capita
 
 The VIE structure creates a hidden capital risk. Chinese regulators could change rules governing VIEs (they have before), potentially invalidating the legal links between the US holding company and Chinese operating assets. This regulatory uncertainty is reflected in **JZXN**'s valuation discount relative to transparent, direct-ownership companies. Investors in **JZXN** are implicitly betting that the VIE remains enforceable, a wager that has spooked many foreign investors in Chinese tech and industrial companies since 2020.
 
-From a capital-raising perspective, the VIE structure limits **JZXN**'s options. The company cannot raise capital from traditional US institutional investors who avoid China-risk names. The shareholder base skews toward retail investors and specialists in Chinese companies. This narrows the investor pool and can depress the stock price, making equity financing more expensive. Debt financing from Western lenders is also difficult — banks demand a direct legal claim on assets, difficult to perfect through a VIE.
+From a capital-raising perspective, the VIE structure limits **JZXN**'s options. The company cannot raise capital from traditional US institutional investors who avoid China-risk names. The shareholder base skews toward retail investors and specialists in Chinese companies. This narrows the investor pool and can depress the stock price, making [equity financing](/equity-financing/) more expensive. [Debt financing](/debt-financing/) from Western lenders is also difficult — banks demand a direct legal claim on assets, difficult to perfect through a VIE.
 
 ## Dual-Currency Funding and Hedging Burden
 
-**JZXN** generates revenue and incurs costs in Chinese yuan (RMB) through its automotive-parts operations. However, the company raises capital in US dollars (via NASDAQ listing) and Hong Kong dollars (via direct Chinese-bank relationships). This currency mismatch creates both opportunity and risk.
+**JZXN** generates revenue and incurs costs in Chinese yuan (RMB) through its automotive-parts operations. However, the company raises capital in [US dollars](/us-dollar/) (via [NASDAQ](/nasdaq/) listing) and [Hong Kong dollars](/hong-kong-dollar/) (via direct Chinese-bank relationships). This currency mismatch creates both opportunity and risk.
 
 A weaker RMB (Chinese yuan) improves **JZXN**'s dollar-basis returns from Chinese operations — the same RMB profit translates to more dollars when converted. Conversely, a stronger RMB reduces dollar returns. **JZXN** faces natural hedging by incurring costs in RMB, but to the extent it has USD-denominated debt or plans USD acquisitions, currency mismatch becomes a real liability.
 
-The company typically hedges portions of its currency exposure through forward contracts and cross-currency swaps, adding financial costs that reduce net margins. During periods of RMB weakness, hedging costs rise and profitability contracts further.
+The company typically hedges portions of its currency exposure through [forward contracts](/forward-contract/) and [cross-currency swaps](/cross-currency-swap/), adding financial costs that reduce net margins. During periods of RMB weakness, hedging costs rise and profitability contracts further.
 
 ## Automotive-Parts Leverage and Cyclicality
 
 **JZXN**'s automotive-parts segment is capital-intensive and cyclical. The company manufactures components for major Chinese automakers (SAIC, Changan, and others) and must invest in machinery, tooling, and facilities to serve them. Chinese auto production is tied to Chinese GDP growth and vehicle penetration rates — currently mature and moderating.
 
-To finance this segment, **JZXN** draws on Chinese bank credit. Chinese state-owned and commercial banks offer manufacturing credit at rates lower than Western lenders charge, reflecting China's capital abundance and policy interest in manufacturing scale. However, this credit is subject to Chinese monetary policy — during tightening cycles, banks become more restrictive, and **JZXN** may face refinancing risk or margin pressure.
+To finance this segment, **JZXN** draws on Chinese bank credit. Chinese state-owned and commercial banks offer manufacturing credit at rates lower than Western lenders charge, reflecting China's capital abundance and policy interest in manufacturing scale. However, this credit is subject to Chinese [monetary policy](/monetary-policy/) — during tightening cycles, banks become more restrictive, and **JZXN** may face [refinancing risk](/refinancing-risk/) or margin pressure.
 
 The company's leverage in the automotive segment is moderate by Chinese standards (debt-to-equity in the 0.5–1.0 range), but the underlying assets are cyclical and sensitive to auto-industry downturns.
 
@@ -51,7 +51,7 @@ From a capital allocation perspective, these acquisitions represent a gamble: if
 
 **JZXN** has raised capital through multiple equity offerings since going public. Each offering dilutes existing shareholders but provides cash for acquisitions or working-capital needs. The company's share count has expanded steadily, and shareholders have experienced dilution over time. This is typical for growing Chinese companies that use equity to finance expansion, but it constrains per-share earnings growth unless the company can grow total earnings faster than share count.
 
-The company rarely returns capital through dividends or buybacks. Capital allocation is overwhelmingly oriented toward growth and acquisition, not shareholder payouts.
+The company rarely returns capital through [dividends](/dividend/) or buybacks. Capital allocation is overwhelmingly oriented toward growth and acquisition, not shareholder payouts.
 
 ## Cross-Border Debt and Refinancing Risk
 

@@ -19,7 +19,7 @@ keywords: ["biotech", "clinical trials", "oncology", "drug development", "therap
 
 ## The Secular Bet: Precision Oncology Traction
 
-Clinical-stage biotechs like Context face no economic recession risk in the traditional sense—they generate no product revenue in early development. The company's survival and valuation depend entirely on investor confidence in its pipeline, the scientific rationale for its compounds, and regulatory pathway progress. In that sense, Context's cycle is *opposite* a cyclical firm's: it is insulated from conventional business downturns because it has not yet become a business in the revenue-generating sense. Its risk is scientific and funding-dependent, not demand-dependent.
+Clinical-stage biotechs like Context face no economic [recession](/recession/) risk in the traditional sense—they generate no product revenue in early development. The company's survival and valuation depend entirely on investor confidence in its pipeline, the scientific rationale for its compounds, and regulatory pathway progress. In that sense, Context's cycle is *opposite* a cyclical firm's: it is insulated from conventional business downturns because it has not yet become a business in the revenue-generating sense. Its risk is scientific and funding-dependent, not demand-dependent.
 
 The broader sector—precision oncology and targeted breast cancer treatments—is a secular growth story. Breast cancer remains one of the largest cancer indications in the United States and globally. The field has shifted toward receptor-targeted approaches (hormone-receptor antagonism, HER2-targeted therapies, and newer generations of endocrine modulators). Context's position in this domain rests on the durability of this therapeutic paradigm, not on macroeconomic cycles.
 
@@ -27,13 +27,13 @@ The broader sector—precision oncology and targeted breast cancer treatments—
 
 Context Therapeutics operates entirely in the capital-raise cycle. Without approved products, it has no cash flow from operations; it survives by issuing equity, debt, or securing partnership deals that fund its clinical pipeline. The company's financial sustainability turns on its ability to convince investors (public markets or institutional capital) that its clinical data is progressing and that its lead compounds merit the resources required to advance them through trials and toward FDA approval.
 
-This creates a different cyclicality—not economic cycles, but equity-market sentiment cycles. Biotech funding can dry up when public markets turn skeptical or risk-off, even if the underlying science remains sound. A bear market in growth stocks can strangle biotech financing. Conversely, a bull market and strong IPO activity can unlock abundant capital for early-stage companies.
+This creates a different cyclicality—not economic cycles, but equity-market sentiment cycles. Biotech funding can dry up when public markets turn skeptical or risk-off, even if the underlying science remains sound. A [bear market](/bear-market/) in growth stocks can strangle biotech financing. Conversely, a [bull market](/bull-market/) and strong IPO activity can unlock abundant capital for early-stage companies.
 
 ## Scientific Timeline vs. Macro Trends
 
 Context's core products address long-standing, non-cyclical medical needs. Hormone-receptor breast cancer incidence is stable and persistent. The clinical evidence base for receptor-targeted approaches is robust and durably relevant. These are secular trends: demographic aging, persistent cancer burden, and the maturation of precision medicine across oncology are not recession-proof per se, but they are not GDP-sensitive either.
 
-The company's clinical readouts—interim trial data, FDA feedback, regulatory milestones—follow a scientific calendar, not an economic one. A positive Phase 2 update in quarter two is materially meaningful regardless of whether the stock market rallied or crashed that quarter. The timing of clinical events is driven by enrollment, follow-up duration, and regulatory review, not by interest rates or consumer confidence.
+The company's clinical readouts—interim trial data, FDA feedback, regulatory milestones—follow a scientific calendar, not an economic one. A positive Phase 2 update in quarter two is materially meaningful regardless of whether the [stock market](/stock-market/) rallied or crashed that quarter. The timing of clinical events is driven by enrollment, follow-up duration, and regulatory review, not by [interest rates](/interest-rate/) or consumer confidence.
 
 ## Product Niche: Endocrine and Receptor-Focused Oncology
 
@@ -43,7 +43,7 @@ The durability of this niche is high. Endocrine resistance and optimization of r
 
 ## Risk Factors and Regulatory Dependence
 
-Context's principal risks are clinical and regulatory, not economic. A failed Phase 2 trial, an FDA non-approval decision, or a competitor's faster advancement of a superior compound directly threatens the company's value proposition. These outcomes are science-dependent and not correlated with business cycles.
+Context's principal risks are clinical and regulatory, not economic. A failed Phase 2 trial, an FDA non-approval decision, or a competitor's faster advancement of a superior compound directly threatens the company's value proposition. These outcomes are science-dependent and not correlated with [business cycles](/business-cycle/).
 
 The company is also exposed to financing risk—if public biotech funding evaporates, Context may struggle to raise capital to complete its trials, regardless of clinical progress. Conversely, a sudden industry downturn in patient demand for oncology treatments is not a realistic concern; cancer care spending is essential and durable.
 

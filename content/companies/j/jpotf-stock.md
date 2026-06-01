@@ -54,13 +54,13 @@ Gaming machines generate tax liabilities in almost every jurisdiction. Payouts t
 
 The placement model requires the company to manage a deployed fleet: purchasing new machines, servicing and maintaining existing units, hauling away underperformers, and troubleshooting hardware and software issues. This capital intensity and operational complexity is the price for higher margins. The company must be disciplined about which venues to place machines in and ruthless about pulling machines that are not hitting revenue targets.
 
-Licensing models, by contrast, require less ongoing capital and operational burden; the venue operator bears the maintenance and operational risk. This trade-off—lower upside for lower risk—explains why Jackpot Digital likely blends both strategies rather than pursuing one exclusively.
+Licensing models, by contrast, require less ongoing capital and operational burden; the venue operator bears the maintenance and [operational risk](/operational-risk/). This trade-off—lower upside for lower risk—explains why Jackpot Digital likely blends both strategies rather than pursuing one exclusively.
 
 ## Player preference and content refresh
 
 The gaming machine market is also subject to player preference shifts. New game themes, mechanics, or visual styles can rapidly change which machines attract spending. Jackpot Digital must balance maintaining proven games (which have known performance characteristics) against developing new games to keep the experience fresh for regular players.
 
-Over-reliance on a single game that falls out of favor can rapidly degrade placement revenue. Diversified game portfolios with multiple proven titles reduce this concentration risk but require larger development budgets and larger venue networks to absorb the R&D cost.
+Over-reliance on a single game that falls out of favor can rapidly degrade placement revenue. Diversified game portfolios with multiple proven titles reduce this [concentration risk](/concentration-risk/) but require larger development budgets and larger venue networks to absorb the R&D cost.
 
 ## Research pointers
 

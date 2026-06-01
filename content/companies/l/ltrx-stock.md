@@ -25,7 +25,7 @@ Lantronix operates at the intersection of this infrastructure need and the cloud
 
 ## Product Architecture and Market Segments
 
-Lantronix's product portfolio divides into hardware (device servers, console servers, environmental monitors) and software (cloud management platform, analytics tools, security modules). The hardware is the customer acquisition vector; once installed, the software becomes recurring revenue.
+Lantronix's product portfolio divides into hardware (device servers, console servers, environmental monitors) and software (cloud management platform, analytics tools, security modules). The hardware is the customer [acquisition](/acquisition/) vector; once installed, the software becomes recurring revenue.
 
 Device servers are small appliances, typically rack-mounted or wall-mounted, that sit between legacy equipment and a network connection. They capture serial data streams from the equipment and transmit them over IP (TCP/IP or cellular). A hospital operating room equipment manager uses a Lantronix device server to monitor surgical suite instruments; a power utility uses one to access substation control systems; a telecom operator uses one to manage distributed network nodes.
 
@@ -41,7 +41,7 @@ The company has been on a path toward recurring revenue for the past decade, a s
 
 Lantronix's sales depend on two variables: capital spending cycles in industrial and telecommunications customers, and IT budget allocation to remote-access infrastructure within those cycles. During economic downturns, customers defer equipment upgrades and maintenance projects, reducing device server orders. During upturns, equipment replacement and network modernization drive demand.
 
-Large customers (often Fortune 500 operators or regional utility/telecom providers) may represent 20-30% of annual revenue. Loss of a single large customer due to competitive displacement or insourcing (the customer building its own remote-access solution) creates material revenue disruption. Lantronix mitigates this through geographic and industry diversification, but concentration risk remains inherent to the business.
+Large customers (often Fortune 500 operators or regional utility/telecom providers) may represent 20-30% of annual revenue. Loss of a single large customer due to competitive displacement or insourcing (the customer building its own remote-access solution) creates material revenue disruption. Lantronix mitigates this through geographic and industry [diversification](/diversification/), but [concentration risk](/concentration-risk/) remains inherent to the business.
 
 ## Competitive Landscape and Substitute Threats
 
@@ -53,7 +53,7 @@ Lantronix's counter-strategy is to expand into software-defined networking and e
 
 ## Margin Profile and Operating Leverage
 
-Lantronix's cost structure includes hardware manufacturing (outsourced to contract manufacturers, yielding 10-15% gross margin), software development (fixed costs leveraged across all customers), and sales/support infrastructure. As the company scales software revenue without proportionally scaling manufacturing costs, operating leverage improves. At scale, a SaaS-centric Lantronix could generate 35-50% operating margins.
+Lantronix's cost structure includes hardware manufacturing (outsourced to contract manufacturers, yielding 10-15% gross margin), software development (fixed costs leveraged across all customers), and sales/support infrastructure. As the company scales software revenue without proportionally scaling manufacturing costs, operating leverage improves. At scale, a SaaS-centric Lantronix could generate 35-50% [operating margins](/operating-margin/).
 
 However, achieving scale requires winning market share from larger competitors and retaining large customers against substitution pressure. A company with flat revenue and rising customer churn cannot achieve operating leverage, regardless of software optimization.
 
@@ -65,7 +65,7 @@ This durability is valuable but limited in growth. A technician visiting a subst
 
 ## Capital Intensity and Returns Profile
 
-Unlike software-pure companies, Lantronix carries inventory and accounts receivable from hardware sales. This moderates cash-flow conversion compared to high-SaaS-purity peers. However, the capital intensity remains modest compared to capital-goods manufacturers, and hardware outsourcing shields Lantronix from manufacturing capital expenditure.
+Unlike software-pure companies, Lantronix carries inventory and [accounts receivable](/accounts-receivable/) from hardware sales. This moderates cash-flow conversion compared to high-SaaS-purity peers. However, the capital intensity remains modest compared to capital-goods manufacturers, and hardware outsourcing shields Lantronix from manufacturing capital expenditure.
 
 The company's [return-on-equity](/return-on-equity/) depends on the mix of hardware versus software revenue and the leverage employed to fund growth. A heavily recurring-revenue mix funded with modest leverage could generate 15-25% ROE; a hardware-heavy mix would generate 5-10%.
 

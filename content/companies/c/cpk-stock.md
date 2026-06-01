@@ -4,7 +4,7 @@ description: "Regional utility company delivering natural gas and electricity in
 keywords: ["utilities", "natural gas", "electricity", "regulated monopoly", "infrastructure"]
 ---
 
-*Unlike most industries, utility companies do not compete on price or product innovation—they compete for regulatory favor and operational efficiency under rules set by public utility commissions. **CHESAPEAKE UTILITIES CORP (CPK)** operates natural gas and electricity distribution networks in Delaware, Florida, and Maryland under exclusive franchises granted by state regulators. The company's competitive position is not determined by how many customers choose it over a rival, but by how favorable its relationship is with the state commission that sets its allowed return on equity, the rates it can charge, and the investments it must undertake.*
+*Unlike most industries, utility companies do not compete on price or product innovation—they compete for regulatory favor and operational efficiency under rules set by public utility commissions. **CHESAPEAKE UTILITIES CORP (CPK)** operates [natural gas](/natural-gas/) and electricity distribution networks in Delaware, Florida, and Maryland under exclusive franchises granted by state regulators. The company's competitive position is not determined by how many customers choose it over a rival, but by how favorable its relationship is with the state commission that sets its allowed return on equity, the rates it can charge, and the investments it must undertake.*
 
 <aside class="wiki-infobox"><table>
 <tr><td>Ticker</td><td>CPK</td></tr>
@@ -37,7 +37,7 @@ CPK's revenue is driven by the volume of gas and electricity delivered. Demand d
 
 The company serves residential, commercial, and industrial customers. Economic downturns reduce demand from all segments. Unseasonably warm winters reduce gas heating demand. Industrial customers can negotiate rates and sometimes switch suppliers or self-generate power, adding competitive pressure in that segment. Residential customers, by contrast, have no choice if they want service—they must buy from CPK at regulated rates.
 
-CPK's revenue is partly cyclical (depending on heating degree-days in winter and cooling in summer) and partly structural (customer growth in service territories). The company cannot easily expand into new territories—service areas are defined by regulatory grants and would require new franchise approvals, which are difficult to obtain. Geographic concentration risk is real: if Florida's growth slows or if severe storms damage infrastructure faster than it can be replaced, CPK faces headwind.
+CPK's revenue is partly cyclical (depending on heating degree-days in winter and cooling in summer) and partly structural (customer growth in service territories). The company cannot easily expand into new territories—service areas are defined by regulatory grants and would require new franchise approvals, which are difficult to obtain. Geographic [concentration risk](/concentration-risk/) is real: if Florida's growth slows or if severe storms damage infrastructure faster than it can be replaced, CPK faces headwind.
 
 ## Regulatory Relationship and Political Economy
 
@@ -49,9 +49,9 @@ The political economy also shifts with broader energy policy. If a state legisla
 
 ## Capital Structure and Dividend Sustainability
 
-CPK likely funds its operations and capital investments through a combination of operating cash flow, debt, and occasional equity raises. Utilities typically operate with significant leverage—debt-to-equity ratios of 50–60% are not uncommon. This leverage amplifies returns when the allowed return exceeds the cost of debt (which is typical in regulated utilities) but also increases financial risk if the regulatory environment turns hostile or if credit markets tighten.
+CPK likely funds its operations and capital investments through a combination of operating cash flow, debt, and occasional equity raises. Utilities typically operate with significant leverage—[debt-to-equity ratios](/debt-to-equity-ratio/) of 50–60% are not uncommon. This leverage amplifies returns when the allowed return exceeds the [cost of debt](/cost-of-debt/) (which is typical in regulated utilities) but also increases financial risk if the regulatory environment turns hostile or if credit markets tighten.
 
-The company likely pays a [dividend](/dividend/) to shareholders, as this is the norm for regulated utilities. The sustainability of that dividend depends on whether operating cash flow and regulatory returns are sufficient to cover both debt service and the dividend. If rate growth lags cost inflation, or if the allowed return falls, dividend sustainability comes into question.
+The company likely pays a [dividend](/dividend/) to shareholders, as this is the norm for regulated utilities. The sustainability of that dividend depends on whether operating cash flow and regulatory returns are sufficient to cover both debt service and the dividend. If rate growth lags cost [inflation](/inflation/), or if the allowed return falls, dividend sustainability comes into question.
 
 ## Competitive Positioning via Operational Excellence
 

@@ -22,15 +22,15 @@ For investors holding shares, redemption risk is ever-present. As the combinatio
 
 ## The Sponsor Incentive Problem
 
-SPAC sponsors retain their founder shares at no cost—typically 20% of the equity pool. This creates a powerful incentive to complete *any* acquisition rather than no acquisition. The founder's economics do not align perfectly with ordinary shareholders. A deal that leaves public shareholders breakeven or underwater may still enrich the sponsor. This misalignment is structural and inherent; sponsor shares vest only if a deal closes, so sponsors have every reason to rush toward completion regardless of quality or valuation.
+SPAC sponsors retain their [founder shares](/founder-shares/) at no cost—typically 20% of the [equity pool](/equity-pool/). This creates a powerful incentive to complete *any* acquisition rather than no acquisition. The founder's economics do not align perfectly with ordinary shareholders. A deal that leaves public shareholders breakeven or underwater may still enrich the sponsor. This misalignment is structural and inherent; sponsor shares vest only if a deal closes, so sponsors have every reason to rush toward completion regardless of quality or valuation.
 
 Additionally, sponsors are sometimes involved in the acquired company through prior investments or board seats. This layering of relationships—sponsor, SPAC, and target company all intertwined—creates potential conflicts of interest that no amount of independent board review can fully eliminate.
 
 ## Deal Quality and Post-Merger Performance
 
-The SPAC boom of 2020–2021 created a mountain of empirical evidence: SPAC mergers have, on average, underperformed traditional IPOs in the years after listing. Multiple studies document that SPAC stocks tend to decline in the 12 to 24 months post-merger. This is not universal—some mergers produce strong performers—but the aggregate track record is choppy.
+The SPAC boom of 2020–2021 created a mountain of empirical evidence: SPAC [mergers](/merger/) have, on average, underperformed traditional IPOs in the years after listing. Multiple studies document that SPAC stocks tend to decline in the 12 to 24 months post-merger. This is not universal—some mergers produce strong performers—but the aggregate track record is choppy.
 
-The problem traces partly to target selection. Because the sponsor is racing against a deadline and may lack deep sector expertise, there is pressure to accept target companies that conventional venture capitalists might have passed on. A tech startup rejected by the VC market may look attractive when a SPAC sponsor needs to deploy $400 million by Thursday. This mismatch between institutional patience (venture capital) and contract deadlines (SPAC windows) can lead to acquisitions of companies with structural weaknesses that take years to manifest.
+The problem traces partly to target selection. Because the sponsor is racing against a deadline and may lack deep sector expertise, there is pressure to accept target companies that conventional venture capitalists might have passed on. A tech startup rejected by the VC market may look attractive when a SPAC sponsor needs to deploy $400 million by Thursday. This mismatch between institutional patience (venture capital) and contract deadlines (SPAC windows) can lead to [acquisitions](/acquisition/) of companies with structural weaknesses that take years to manifest.
 
 ## The Pro-Forma Earnings Problem
 
@@ -40,13 +40,13 @@ Unlike traditional IPOs, where underwriters face reputational risk if projection
 
 ## Operator Readiness and Integration Risk
 
-A private company being acquired by a SPAC must suddenly comply with public-company accounting, governance, and disclosure requirements. Many private founders and management teams have never operated at this level of transparency and regulatory rigor. Operational missteps, accounting restatements, and governance controversies are common in the months after closing—not necessarily from fraud, but from the sheer unfamiliarity of operating as a public entity.
+A private company being acquired by a SPAC must suddenly comply with public-company accounting, governance, and disclosure requirements. Many private founders and management teams have never operated at this level of transparency and regulatory rigor. Operational missteps, accounting [restatements](/restatement/), and governance controversies are common in the months after closing—not necessarily from fraud, but from the sheer unfamiliarity of operating as a public entity.
 
 Integration risk is often underestimated. The SPAC's sponsor team is typically a handful of dealmakers, not operational experts in the target's industry. Once the merger closes, they often recede into the background, leaving the acquired company's management to figure out how to be public. This can work, but it is not a substitute for hands-on operational partner experience.
 
 ## Redemption Mechanics and Equity Dilution
 
-SPAC structures often include warrants and earnout provisions that multiply the share count after merger. A SPAC that raised $500 million might end up with a post-merger equity base of $700 million in diluted shares once warrants and earnouts are factored in. Ordinary shareholders are immediately diluted by the founder shares (20%) and further diluted by sponsor compensation in the form of additional equity or warrants.
+SPAC structures often include warrants and [earnout provisions](/earnout-provision/) that multiply the share count after merger. A SPAC that raised $500 million might end up with a post-merger equity base of $700 million in diluted shares once warrants and earnouts are factored in. Ordinary shareholders are immediately diluted by the founder shares (20%) and further diluted by sponsor compensation in the form of additional equity or warrants.
 
 This dilution occurs upfront, before the merged company has a chance to prove itself operationally. If earnings disappoint, shareholders are trapped holding a diluted position in a struggling business they cannot easily exit without taking a loss.
 

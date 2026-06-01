@@ -46,7 +46,7 @@ Development-stage companies are inherently volatile. If permitting stalls, capit
 
 ## Competitive Positioning
 
-The lithium mining landscape includes established producers like Albemarle and SQM (both operating and expanding production in South America), Australia's Greensill, and a growing field of new entrants targeting US deposits. Domestic competitors—particularly Ioneer (Nevada project), Standard Lithium (Arkansas brine), and private developers—are pursuing similar domestic supply strategies.
+The lithium mining landscape includes established producers like Albemarle and SQM (both operating and expanding production in South America), Australia's Greensill, and a growing field of new entrants targeting US deposits. Domestic competitors—particularly Ioneer (Nevada project), [Standard Lithium](/sli-stock/) (Arkansas brine), and private developers—are pursuing similar domestic supply strategies.
 
 LAC's competitive advantage, if realized, lies in scale and location. Thacker Pass is one of the largest undeveloped deposits, which should allow economies of scale in production. Proximity to North American auto and battery manufacturers reduces transportation costs and supply-chain risk. Conversely, LAC faces execution and timing risk that established producers have largely overcome. Albemarle and SQM are already producing; LAC is still building.
 

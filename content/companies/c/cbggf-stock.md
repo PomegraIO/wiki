@@ -21,7 +21,7 @@ There are now hundreds of SPACs listed in U.S. markets. Each one is backed by sp
 
 ## The Blank Check Promise and Its Risks
 
-When you buy shares in Chain Bridge I, you are essentially giving the sponsors a blank check with a time limit. You are betting they will find a good deal. You are also accepting that deal structures can be complicated — the target company's owners may negotiate for special voting rights, board seats, or founder shares that persist after the merger. You, as a shareholder, are diluted by these arrangements. Some SPAC mergers have been structured to heavily favor the sponsors and the target's founders at the expense of public shareholders. This is a real risk to understand before buying.
+When you buy shares in Chain Bridge I, you are essentially giving the sponsors a blank check with a time limit. You are betting they will find a good deal. You are also accepting that deal structures can be complicated — the target company's owners may negotiate for special [voting rights](/voting-rights/), board seats, or [founder shares](/founder-shares/) that persist after the merger. You, as a shareholder, are diluted by these arrangements. Some SPAC [mergers](/merger/) have been structured to heavily favor the sponsors and the target's founders at the expense of public shareholders. This is a real risk to understand before buying.
 
 ## The Redemption Right: Your Exit Ramp
 
@@ -53,7 +53,7 @@ Before buying, research who the sponsors are. What are their previous investment
 
 ## The Liquidity Question
 
-Chain Bridge I trades over the counter (OTC), meaning it is not listed on a major exchange. OTC markets are less regulated and often have wider bid-ask spreads — the cost of buying and selling is higher. Investors should be aware of this liquidity risk and factor it into any decision to hold shares.
+Chain Bridge I trades over the counter (OTC), meaning it is not listed on a major exchange. OTC markets are less regulated and often have wider [bid-ask spreads](/bid-ask-spread/) — the cost of buying and selling is higher. Investors should be aware of this [liquidity risk](/liquidity-risk/) and factor it into any decision to hold shares.
 
 <div class="wiki-seealso">
 

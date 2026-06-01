@@ -54,7 +54,7 @@ Services-based revenue creates working capital challenges. When Matrix signs a c
 
 ## Customer Concentration and Diversification
 
-Services firms often face customer concentration risk. If one large client represents a meaningful percentage of revenue and that client delays or cancels a project, the impact is immediate and material. Formula mitigates this by maintaining a broad customer base across industries and geographies, but this requires the firm to operate at scale—enough subsidiaries and service lines that no single customer relationship dominates.
+Services firms often face customer [concentration risk](/concentration-risk/). If one large client represents a meaningful percentage of revenue and that client delays or cancels a project, the impact is immediate and material. Formula mitigates this by maintaining a broad customer base across industries and geographies, but this requires the firm to operate at scale—enough subsidiaries and service lines that no single customer relationship dominates.
 
 ## Talent Competition in Global Tech
 
@@ -65,7 +65,7 @@ The operations ultimately depend on maintaining disciplined project delivery, sc
 <div class="wiki-seealso">
 
 ### Closely related
-- Accenture
+- [Accenture](/acn-stock/)
 
 ### Wider context
 - Software licensing

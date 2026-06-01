@@ -45,13 +45,13 @@ Resonate's position as a branded product manufacturer suggests a wholesale-to-re
 
 Infused beverages and edibles command higher retail margins than commodity flower, but they also entail higher manufacturing costs, more sophisticated regulatory compliance, and greater development expenses. A conventional beverage company can achieve scale across a national market; a cannabis beverage company must build redundant production capacity in multiple states due to regulatory prohibitions on interstate commerce.
 
-This fragmentation pressure translates to lower capital efficiency and higher per-unit costs relative to national consumer-goods companies. Profitability depends on achieving sufficient volume within each state to absorb fixed manufacturing and licensing costs, negotiating reasonable pricing with retailers, and managing product freshness and inventory across a distributed supply chain. Smaller cannabis companies often struggle to achieve positive unit economics at current market penetration levels, requiring persistent capital raises or eventual merger with larger platforms.
+This fragmentation pressure translates to lower capital efficiency and higher per-unit costs relative to national consumer-goods companies. Profitability depends on achieving sufficient volume within each state to absorb fixed manufacturing and licensing costs, negotiating reasonable pricing with retailers, and managing product freshness and inventory across a distributed supply chain. Smaller cannabis companies often struggle to achieve positive unit economics at current market penetration levels, requiring persistent capital raises or eventual [merger](/merger/) with larger platforms.
 
 ## Market Maturation and Consolidation Pressures
 
 The cannabis consumer-products space has seen rapid consolidation as larger, multi-state operators and well-capitalized firms acquire smaller brands and production facilities. Larger platforms achieve economies of scale across multiple states, negotiate better wholesale pricing from suppliers, and distribute across a broader retail footprint. Resonate Blends, as a smaller-scale player, faces competitive pressure from both larger multi-state operators and from conventional beverage and snack companies that may eventually enter cannabis-infused products if federal or state regulatory environments shift to allow it.
 
-The firm's long-term positioning depends on either building sufficient brand equity and state-by-state presence to remain independent, or becoming an attractive acquisition target for a larger multi-state operator seeking to expand its infused-product portfolio or presence in Resonate's core markets.
+The firm's long-term positioning depends on either building sufficient brand equity and state-by-state presence to remain independent, or becoming an attractive [acquisition](/acquisition/) target for a larger multi-state operator seeking to expand its infused-product portfolio or presence in Resonate's core markets.
 
 ## Federal Legal Status and Regulatory Uncertainty
 

@@ -10,7 +10,7 @@ keywords:
 handwritten: true
 ---
 
-**A golf and hospitality operator with deep roots in Florida's leisure landscape.** Aureus Greenway Holdings owns and operates public golf country clubs across Florida, built around 18-hole championship courses and complementary amenities. The company derives revenue from membership fees, green fees, food and beverage sales in its clubhouses, equipment rentals, pro shop operations, and ancillary services that span tournament hosting to golf instruction.
+**A golf and hospitality operator with deep roots in Florida's leisure landscape.** [Aureus Greenway](/pusa-stock/) Holdings owns and operates public golf country clubs across Florida, built around 18-hole championship courses and complementary amenities. The company derives revenue from membership fees, green fees, food and beverage sales in its clubhouses, equipment rentals, pro shop operations, and ancillary services that span tournament hosting to golf instruction.
 
 ## Properties and Service Mix
 

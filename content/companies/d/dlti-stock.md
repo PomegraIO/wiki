@@ -29,17 +29,17 @@ The firm finances its operations through a combination of [equity](/common-stock
 
 ## Funding the Dispute Resolution Platform
 
-DLT Resolution's funding model aligns capital deployment with its operational footprint. The company requires capital for technology systems, trained adjudicators and compliance specialists, administrative infrastructure, and regulatory compliance costs. These outlays favor a blend of retained earnings and long-term [debt](/corporate-bond/) rather than perpetual [equity dilution](/share-buyback/).
+DLT Resolution's funding model aligns capital deployment with its operational footprint. The company requires capital for technology systems, trained adjudicators and compliance specialists, administrative infrastructure, and regulatory compliance costs. These outlays favor a blend of [retained earnings](/retained-earnings/) and long-term [debt](/corporate-bond/) rather than perpetual [equity dilution](/share-buyback/).
 
 The firm's ability to borrow depends on stable, predictable revenue from its customer base and regulatory clients. [Debt](/corporate-bond/) service obligations are satisfied from operating cash flows. The specific mix of long-term and short-term borrowing, and whether the firm employs [bonds](/bond/) or revolving credit facilities, shapes the timing and flexibility of capital access.
 
-Shareholders focus on whether management deploys capital efficiently—maintaining operational excellence while managing the leverage ratio appropriately. Return on invested capital becomes the critical metric: does the firm generate adequate earnings relative to both debt and equity funding?
+Shareholders focus on whether management deploys capital efficiently—maintaining operational excellence while managing the [leverage ratio](/leverage-ratio-forex/) appropriately. [Return on invested capital](/return-on-invested-capital/) becomes the critical metric: does the firm generate adequate earnings relative to both debt and equity funding?
 
 ## Shareholder Returns and Capital Allocation
 
 The company's approach to returning capital to [common stockholders](/common-stock/) depends on regulatory constraints, cash flow generation, and management philosophy. Some dispute resolution operators prioritize [dividend](/dividend/) distributions, while others pursue [share buybacks](/share-buyback/) or reinvestment in operational capability.
 
-Any [preferred stock](/preferred-stock/) would represent senior claims ahead of common equity in liquidation and dividend priority. The existence and terms of preferred shares affects the effective cost of equity and the residual claim structure. DLT Resolution's capitalization hierarchy—the relative sizes of common equity, preferred shares if any, and [debt](/corporate-bond/) categories—directly influences the financial leverage of the enterprise.
+Any [preferred stock](/preferred-stock/) would represent senior claims ahead of common equity in [liquidation](/liquidation/) and dividend priority. The existence and terms of preferred shares affects the effective [cost of equity](/cost-of-equity/) and the residual claim structure. DLT Resolution's capitalization hierarchy—the relative sizes of common equity, preferred shares if any, and [debt](/corporate-bond/) categories—directly influences the financial leverage of the enterprise.
 
 ## Examining Funding Sustainability
 
@@ -49,9 +49,9 @@ The [enterprise value](/enterprise-value/) of the company—what an acquirer wou
 
 ## Market Position and Capital Efficiency
 
-DLT Resolution operates in a regulated, specialized domain where competitive advantages stem from operational expertise, compliance track records, and client relationships rather than proprietary product portfolios or network effects. Capital efficiency in such a business means generating returns in excess of the blended cost of debt and equity funding.
+DLT Resolution operates in a regulated, specialized domain where competitive advantages stem from operational expertise, compliance track records, and client relationships rather than proprietary product portfolios or network effects. Capital efficiency in such a business means generating returns in excess of the blended [cost of debt](/cost-of-debt/) and equity funding.
 
-The firm's [free cash flow](/free-cash-flow/)—operating cash after capital maintenance—determines how much capital it can return to creditors and shareholders. A company with limited growth reinvestment needs and stable regulatory demand may prioritize cash returns over balance sheet expansion.
+The firm's [free cash flow](/free-cash-flow/)—operating cash after capital maintenance—determines how much capital it can return to creditors and shareholders. A company with limited growth reinvestment needs and stable regulatory demand may prioritize cash returns over [balance sheet expansion](/balance-sheet-expansion/).
 
 ## Understanding the Firm Through Its Filings
 
@@ -63,7 +63,7 @@ Investors researching DLT Resolution should examine its [10-K annual report](/10
 - [Dividend](/dividend/) policy, if any, and [shareholder](/common-stock/) return mechanisms
 - Risk disclosures related to funding and refinancing
 
-The relationship between accounting [net income](/income-statement/) and [operating cash flow](/free-cash-flow/) reveals whether earnings quality is strong—a hallmark of sustainable, honest capital structures.
+The relationship between accounting [net income](/income-statement/) and [operating cash flow](/free-cash-flow/) reveals whether [earnings quality](/earnings-quality/) is strong—a hallmark of sustainable, honest capital structures.
 
 <div class="wiki-seealso">
 ### Closely related
