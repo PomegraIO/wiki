@@ -15,6 +15,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Full history (not the default shallow depth-1) so Hugo's
+          # enableGitInfo can resolve each file's last-commit date for
+          # <lastmod> in the sitemap. Depth-1 would map every file to a
+          # single commit.
+          fetch-depth: 0
 
       - name: Free disk space
         run: |
@@ -36,6 +42,12 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
+          # Use the checked-out working tree as the build context. The
+          # default (omitted) context is the Git URL, which ships the file
+          # tree WITHOUT .git — and Hugo's enableGitInfo then aborts with
+          # "fatal: not a git repository". The local context includes .git
+          # (there is no .dockerignore excluding it), so gitinfo resolves.
+          context: .
           push: true
           tags: |
             ghcr.io/pomegraio/pomekube/wiki:${{ github.sha }}
