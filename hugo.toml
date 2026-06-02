@@ -16,11 +16,15 @@ defaultContentLanguage = 'en'
 languageCode = 'en-us'
 title = 'Pomegra Wiki'
 enableRobotsTXT = true
-# enableGitInfo would surface .GitInfo for last-modified dates in SEO meta,
-# but it scans every file's git log on each build — slow at 10k entries and
-# requires the working tree be a git repo. The single-source-of-truth for
-# last-modified is the file's mtime on disk; that's what Hugo uses by default.
-enableGitInfo = false
+# enableGitInfo surfaces .GitInfo so .Lastmod resolves to each file's last
+# commit date (it's first in Hugo's default lastmod chain: [':git', 'lastmod',
+# 'date', 'publishDate']). Without it — and with no date/lastmod in front
+# matter — .Lastmod is zero, so layouts/sitemap.xml emits no <lastmod> at all,
+# which starves Google's re-crawl signal and leaves the sitemap stale in Search
+# Console. Tradeoff: it adds build cost at scale (a full --gc --minify of ~14k
+# pages runs ~8.5 min with this on). Requires the build tree to be a git repo
+# with content history.
+enableGitInfo = true
 
 # canonifyURLs=true rewrites absolute paths inside content (e.g. `/stock/`)
 # to include the baseURL prefix. This is what makes 10k+ cross-links keep
